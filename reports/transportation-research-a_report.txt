@@ -1,0 +1,8 @@
+Journal: Transportation Research, Part A: Policy and Practice
+Slug: transportation-research-a
+ABS: 3
+Field: SECTOR
+Articles fetched: 1
+Early stop triggered: no
+Deltas found: 4 (abstract format/word limit, highlights requirement, combined conclusion+policy implications structure replacing separate Discussion/Conclusion/Limitations/Future Research sections, standalone policy background section in policy-economics papers)
+FIELD_SKILL overrides: Abstract unstructured max 250 words (ENFORCED); Highlights required 3–5 bullets ≤85 characters (ENFORCED)

@@ -1,0 +1,8 @@
+Journal: International Journal of Contemporary Hospitality Management
+Slug: ijchm
+ABS: 3
+Field: SECTOR
+Articles fetched: 2
+Early stop triggered: no (second article confirmed additional delta: merged Discussion/Conclusions pattern)
+Deltas found: 4 (abstract format/structured fields, citation style Emerald Harvard vs APA, Discussion/Conclusion merging RELAXATION, Critical Reflection Paper article type)
+FIELD_SKILL overrides: structured abstract with named fields (250 words, including Practical implications as explicit field); Emerald Harvard citation style overrides APA reference list format

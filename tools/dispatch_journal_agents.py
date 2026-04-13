@@ -39,7 +39,14 @@ REPO_ROOT = TOOLS_DIR.parent               # .../
 FIELD_FOLDERS = {
     "ACCOUNT":   "accounting",
     "ECON":      "economics",
+    "ENTRE":     "entrepreneurship",
     "FINANCE":   "finance",
+    "HRM":       "hrm",
+    "IB":        "international-business",
+    "IS":        "information-systems",
+    "MGMT":      "mgmt",
+    "MKT":       "marketing",
+    "NON-ABS":   "non-abs",
     "OPS&TECH":  "ops-tech",
     "OR&MANSCI": "or-mansci",
     "SECTOR":    "sector",
@@ -132,6 +139,7 @@ JOURNALS = [
 
     # ── OPS&TECH ── ABS4 ─────────────────────────────────────────────────────
     ("International Journal of Operations and Production Management", "https://www.emerald.com/insight/publication/issn/0144-3577", "4", "OPS&TECH", "ijopm"),
+    ("Journal of Operations Management",      "https://onlinelibrary.wiley.com/journal/18731317", "4", "OPS&TECH", "journal-operations-management"),
     ("Journal of Supply Chain Management",    "https://onlinelibrary.wiley.com/journal/1745493x", "4", "OPS&TECH", "journal-supply-chain-management"),
     ("Production and Operations Management",  "https://onlinelibrary.wiley.com/journal/19375956", "4", "OPS&TECH", "production-operations-management"),
 
@@ -199,6 +207,7 @@ JOURNALS = [
     ("Journal of Monetary Economics",         "https://www.sciencedirect.com/journal/journal-of-monetary-economics", "4", "ECON", "journal-monetary-economics"),
     ("RAND Journal of Economics",             "https://onlinelibrary.wiley.com/journal/17562171", "4", "ECON", "rand-journal-economics"),
     ("Review of Economics and Statistics",    "https://direct.mit.edu/rest",                "4",  "ECON", "review-economics-statistics"),
+    ("Journal of the European Economic Association", "https://academic.oup.com/jeea",         "4",  "ECON", "journal-european-economic-association"),
 
     # ── ECON ── ABS3 ─────────────────────────────────────────────────────────
     ("American Economic Journal: Economic Policy", "https://www.aeaweb.org/journals/pol",   "3",  "ECON", "aej-economic-policy"),
@@ -239,7 +248,17 @@ JOURNALS = [
     ("Transportation Research, Part D: Transport and Environment", "https://www.sciencedirect.com/journal/transportation-research-part-d-transport-and-environment", "3", "SECTOR", "transportation-research-d"),
     ("Transportation Research, Part E: Logistics and Transportation Review", "https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review", "3", "SECTOR", "transportation-research-e"),
 
+    # ── SOC SCI ── ABS4* ─────────────────────────────────────────────────────
+    ("American Journal of Political Science",   "https://onlinelibrary.wiley.com/journal/15405907", "4*", "SOC SCI", "american-journal-political-science"),
+    ("American Journal of Sociology",           "https://www.journals.uchicago.edu/toc/ajs/current", "4*", "SOC SCI", "american-journal-sociology"),
+    ("American Political Science Review",       "https://www.cambridge.org/core/journals/american-political-science-review", "4*", "SOC SCI", "american-political-science-review"),
+    ("American Sociological Review",            "https://journals.sagepub.com/home/asr",      "4*", "SOC SCI", "american-sociological-review"),
+    ("Annals of Statistics",                    "https://imstat.org/journals-and-publications/annals-of-statistics/", "4*", "SOC SCI", "annals-statistics"),
+    ("Psychological Science",                   "https://journals.sagepub.com/home/pss",      "4*", "SOC SCI", "psychological-science"),
+
     # ── SOC SCI ── ABS4 ──────────────────────────────────────────────────────
+    ("Annual Review of Sociology",              "https://www.annualreviews.org/journal/soc",  "4",  "SOC SCI", "annual-review-sociology"),
+    ("Public Administration Review",            "https://onlinelibrary.wiley.com/journal/15406210", "4", "SOC SCI", "public-administration-review"),
     ("Environment and Planning D: Society and Space", "https://journals.sagepub.com/home/epd", "4", "SOC SCI", "environment-planning-d"),
     ("International Organization",            "https://www.cambridge.org/core/journals/international-organization", "4", "SOC SCI", "international-organization"),
     ("International Studies Quarterly",       "https://academic.oup.com/isq",               "4",  "SOC SCI", "international-studies-quarterly"),
@@ -270,6 +289,53 @@ JOURNALS = [
     ("Sociological Review",                   "https://journals.sagepub.com/home/sor",      "3",  "SOC SCI", "sociological-review"),
     ("Sociology of Health and Illness",       "https://onlinelibrary.wiley.com/journal/14679566", "3", "SOC SCI", "sociology-health-illness"),
     ("World Development",                     "https://www.sciencedirect.com/journal/world-development", "3", "SOC SCI", "world-development"),
+
+    # ── MGMT ── ABS4* ────────────────────────────────────────────────────────
+    ("Academy of Management Annals",          "https://www.tandfonline.com/journals/rann20", "4*", "MGMT", "academy-management-annals"),
+    ("Academy of Management Journal",         "https://journals.aom.org/journal/amj",       "4*", "MGMT", "academy-management-journal"),
+    ("Academy of Management Review",          "https://journals.aom.org/journal/amr",       "4*", "MGMT", "academy-management-review"),
+    ("Administrative Science Quarterly",      "https://journals.sagepub.com/home/asq",      "4*", "MGMT", "administrative-science-quarterly"),
+    ("Journal of Management",                 "https://journals.sagepub.com/home/jom",      "4*", "MGMT", "journal-management"),
+    ("Organization Science",                  "https://pubsonline.informs.org/journal/orsc", "4*", "MGMT", "organization-science"),
+
+    # ── MGMT ── ABS4 ─────────────────────────────────────────────────────────
+    ("Academy of Management Learning and Education", "https://journals.aom.org/journal/amle", "4", "MGMT", "academy-management-learning-education"),
+    ("Research Policy",                       "https://www.sciencedirect.com/journal/research-policy", "4", "MGMT", "research-policy"),
+
+    # ── MKT ── ABS4* ─────────────────────────────────────────────────────────
+    ("Journal of Consumer Research",          "https://academic.oup.com/jcr",               "4*", "MKT", "journal-consumer-research"),
+    ("Journal of Marketing",                  "https://journals.sagepub.com/home/jmx",      "4*", "MKT", "journal-marketing"),
+    ("Journal of Marketing Research",         "https://journals.sagepub.com/home/mrj",      "4*", "MKT", "journal-marketing-research"),
+    ("Marketing Science",                     "https://pubsonline.informs.org/journal/mksc", "4*", "MKT", "marketing-science"),
+
+    # ── MKT ── ABS4 ──────────────────────────────────────────────────────────
+    ("Journal of Consumer Psychology",        "https://www.sciencedirect.com/journal/journal-of-consumer-psychology", "4", "MKT", "journal-consumer-psychology"),
+    ("Journal of the Academy of Marketing Science", "https://www.springer.com/journal/11747", "4", "MKT", "journal-academy-marketing-science"),
+
+    # ── IS ── ABS4* ──────────────────────────────────────────────────────────
+    ("Information Systems Research",          "https://pubsonline.informs.org/journal/isre", "4*", "IS", "information-systems-research"),
+    ("Journal of the Association for Information Systems", "https://aisel.aisnet.org/jais/", "4*", "IS", "journal-association-information-systems"),
+    ("MIS Quarterly",                         "https://misq.umn.edu/",                      "4*", "IS", "mis-quarterly"),
+
+    # ── ENTRE ── ABS4* ───────────────────────────────────────────────────────
+    ("Entrepreneurship Theory and Practice",  "https://journals.sagepub.com/home/etp",      "4*", "ENTRE", "entrepreneurship-theory-practice"),
+    ("Journal of Business Venturing",         "https://www.sciencedirect.com/journal/journal-of-business-venturing", "4*", "ENTRE", "journal-business-venturing"),
+
+    # ── HRM ── ABS4* ─────────────────────────────────────────────────────────
+    ("Journal of Applied Psychology",         "https://www.apa.org/pubs/journals/apl",      "4*", "HRM", "journal-applied-psychology"),
+    ("Personnel Psychology",                  "https://onlinelibrary.wiley.com/journal/17446570", "4*", "HRM", "personnel-psychology"),
+
+    # ── HRM ── ABS4 ──────────────────────────────────────────────────────────
+    ("Human Resource Management Journal",     "https://onlinelibrary.wiley.com/journal/17488583", "4", "HRM", "human-resource-management-journal"),
+
+    # ── IB ── ABS4* ──────────────────────────────────────────────────────────
+    ("Journal of International Business Studies", "https://www.palgrave.com/gp/journal/41267", "4*", "IB", "journal-international-business-studies"),
+
+    # ── NON-ABS ── NHH LIST ──────────────────────────────────────────────────
+    ("Applied Linguistics",                   "https://academic.oup.com/applij",            "NHH", "NON-ABS", "applied-linguistics"),
+    ("Modern Language Journal",               "https://onlinelibrary.wiley.com/journal/15404781", "NHH", "NON-ABS", "modern-language-journal"),
+    ("Nature",                                "https://www.nature.com/nature",               "NHH", "NON-ABS", "nature"),
+    ("Science",                               "https://www.science.org/journal/science",     "NHH", "NON-ABS", "science"),
 ]
 
 
