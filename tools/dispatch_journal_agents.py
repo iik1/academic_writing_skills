@@ -29,6 +29,26 @@ from datetime import datetime, timedelta
 
 
 # ─────────────────────────────────────────────
+# PATHS
+# ─────────────────────────────────────────────
+
+TOOLS_DIR = Path(__file__).parent          # .../tools/
+REPO_ROOT = TOOLS_DIR.parent               # .../
+
+# Maps dispatch-script field names to skills/ subdirectory names
+FIELD_FOLDERS = {
+    "ACCOUNT":   "accounting",
+    "ECON":      "economics",
+    "FINANCE":   "finance",
+    "OPS&TECH":  "ops-tech",
+    "OR&MANSCI": "or-mansci",
+    "SECTOR":    "sector",
+    "SOC SCI":   "soc-sci",
+    "STRAT":     "strategy",
+}
+
+
+# ─────────────────────────────────────────────
 # CONFIGURATION
 # ─────────────────────────────────────────────
 
@@ -260,19 +280,19 @@ JOURNALS = [
 def load_field_skill(field):
     """
     Load FIELD_SKILL content for a given field.
-    Looks for: {field_slug}-field-writing-style_SKILL.md
+    Looks for: skills/fields/{field_slug}-field-writing-style_SKILL.md
     Returns content string or a placeholder if not yet generated.
     """
     field_slug = field.lower().replace("&", "and").replace(" ", "-")
-    skill_path = Path(f"{field_slug}-field-writing-style_SKILL.md")
+    skill_path = REPO_ROOT / "skills" / "fields" / f"{field_slug}-field-writing-style_SKILL.md"
 
     if skill_path.exists():
         content = skill_path.read_text(encoding="utf-8")
-        print(f"  [FIELD_SKILL] Loaded: {skill_path}")
+        print(f"  [FIELD_SKILL] Loaded: {skill_path.relative_to(REPO_ROOT)}")
         return content
 
     # Fallback: warn but continue — journal agent will note no baseline available
-    print(f"  [FIELD_SKILL] WARNING: {skill_path} not found. "
+    print(f"  [FIELD_SKILL] WARNING: {skill_path.relative_to(REPO_ROOT)} not found. "
           f"Run --generate-field-skill {field} first for best results.")
     return (
         f"FIELD_SKILL for {field} has not been generated yet. "
@@ -385,15 +405,33 @@ def quota_wait(stdout, stderr):
 # SKILL EXTRACTION + SAVE
 # ─────────────────────────────────────────────
 
-def extract_and_save(stdout, slug, journal_name):
-    """Parse output markers and save SKILL.md. Returns (saved, reason)."""
+def extract_and_save(stdout, slug, journal_name, field=None):
+    """
+    Parse output markers and save SKILL.md + report.
+
+    field: dispatch-script field name (e.g. "FINANCE"). If None, saves to
+           skills/fields/ (used for field-level skill generation).
+
+    Output paths:
+      skills/<field_folder>/<slug>_SKILL.md
+      reports/<slug>_report.txt
+    """
     if detect_quota(stdout):
         return False, "quota"
+
+    if field is not None:
+        skill_dir = REPO_ROOT / "skills" / FIELD_FOLDERS.get(
+            field, field.lower().replace("&", "and").replace(" ", "-"))
+    else:
+        skill_dir = REPO_ROOT / "skills" / "fields"
+    skill_dir.mkdir(parents=True, exist_ok=True)
+    reports_dir = REPO_ROOT / "reports"
+    reports_dir.mkdir(parents=True, exist_ok=True)
 
     insuf = re.search(r"===INSUFFICIENT_DATA===(.*?)===INSUFFICIENT_DATA_END===",
                       stdout, re.DOTALL)
     if insuf:
-        Path(f"{slug}_insufficient.txt").write_text(
+        (skill_dir / f"{slug}_insufficient.txt").write_text(
             insuf.group(1).strip(), encoding="utf-8")
         return False, "insufficient_data"
 
@@ -401,7 +439,7 @@ def extract_and_save(stdout, slug, journal_name):
     report_match = re.search(r"===REPORT_START===(.*?)===REPORT_END===", stdout, re.DOTALL)
 
     if not skill_match:
-        Path(f"{slug}_raw_output.txt").write_text(stdout[:8000], encoding="utf-8")
+        (skill_dir / f"{slug}_raw_output.txt").write_text(stdout[:8000], encoding="utf-8")
         return False, "no_markers"
 
     skill_content = skill_match.group(1).strip()
@@ -416,8 +454,8 @@ def extract_and_save(stdout, slug, journal_name):
         report_match.group(1).strip() if report_match else "(no report)"
     )
 
-    Path(f"{slug}_SKILL.md").write_text(skill_content, encoding="utf-8")
-    Path(f"{slug}_report.txt").write_text(report_content, encoding="utf-8")
+    (skill_dir / f"{slug}_SKILL.md").write_text(skill_content, encoding="utf-8")
+    (reports_dir / f"{slug}_report.txt").write_text(report_content, encoding="utf-8")
     return True, "ok"
 
 
@@ -511,7 +549,7 @@ def dispatch(journals, dry_run=False, field_filter=None, tier_filter=None,
             print(f"{name:<60} {rating:<5} {field:<12} SKIPPED (dry run)")
         return
 
-    prompt_template = Path("journal_agent_prompt.txt").read_text(encoding="utf-8")
+    prompt_template = (TOOLS_DIR / "journal_agent_prompt.txt").read_text(encoding="utf-8")
 
     # Group by field so FIELD_SKILL is loaded once per field
     from itertools import groupby
@@ -560,7 +598,7 @@ def dispatch(journals, dry_run=False, field_filter=None, tier_filter=None,
                     "journal": name, "slug": slug, "returncode": -9,
                     "stdout": "", "stderr": "Thread did not complete", "attempts": 0
                 })
-                saved, reason = extract_and_save(r["stdout"], slug, name)
+                saved, reason = extract_and_save(r["stdout"], slug, name, field_)
                 status = (f"OK (attempt {r['attempts']})" if saved
                           else f"FAIL:{reason}")
                 print(f"    {name:<56} {rating:<5} {status}")
@@ -588,10 +626,10 @@ def dispatch(journals, dry_run=False, field_filter=None, tier_filter=None,
          "stderr": r["stderr"][:300]}
         for r in all_results
     ]
-    Path("dispatch_report.json").write_text(
+    (REPO_ROOT / "dispatch_report.json").write_text(
         json.dumps(report_data, indent=2), encoding="utf-8")
     print("\nReport: dispatch_report.json")
-    print("Skills: current directory (*_SKILL.md)")
+    print(f"Skills: skills/<field>/*_SKILL.md  |  Reports: reports/*_report.txt")
 
 
 # ─────────────────────────────────────────────
@@ -603,9 +641,9 @@ def generate_field_skill(field):
     Run a field skill generator agent for the given field.
     Reads field_skill_generator_prompt.txt and injects field-specific journal lists.
     """
-    prompt_path = Path("field_skill_generator_prompt.txt")
+    prompt_path = TOOLS_DIR / "field_skill_generator_prompt.txt"
     if not prompt_path.exists():
-        print(f"ERROR: field_skill_generator_prompt.txt not found.")
+        print(f"ERROR: {prompt_path} not found.")
         print("Save the FIELD_SKILL generator prompt to that file first.")
         sys.exit(1)
 
@@ -655,7 +693,7 @@ def generate_field_skill(field):
         f"{field} Field Skill"
     )
     if saved:
-        print(f"\nOK FIELD_SKILL saved: {field_slug}-field-writing-style_SKILL.md")
+        print(f"\nOK FIELD_SKILL saved: skills/fields/{field_slug}-field-writing-style_SKILL.md")
     else:
         print(f"\nFAIL: {reason}")
         print("--- STDOUT (first 2000 chars) ---")
@@ -722,7 +760,7 @@ Examples:
             sys.exit(1)
 
         name, url, rating, field, slug = journals[0]
-        prompt_template = Path("journal_agent_prompt.txt").read_text(encoding="utf-8")
+        prompt_template = (TOOLS_DIR / "journal_agent_prompt.txt").read_text(encoding="utf-8")
         field_skill_content = load_field_skill(field)
         prompt = build_prompt(name, url, rating, field, slug,
                               prompt_template, field_skill_content)
@@ -753,8 +791,9 @@ Examples:
             print(f"\n--- STDERR (first 500 chars) ---")
             print(result.stderr[:500])
 
-            saved, reason = extract_and_save(result.stdout, slug, name)
-            print(f"\n{'OK' if saved else 'FAIL'}: {slug}_SKILL.md" if saved
+            saved, reason = extract_and_save(result.stdout, slug, name, field)
+            folder = FIELD_FOLDERS.get(field, field.lower())
+            print(f"\nOK: skills/{folder}/{slug}_SKILL.md" if saved
                   else f"\nFAIL: {reason}")
 
     else:
