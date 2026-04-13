@@ -1,0 +1,8 @@
+Journal: Journal of Urban Economics
+Slug: journal-urban-economics
+ABS: 3
+Field: ECON
+Articles fetched: 1 (Hanushek et al. 2026, JUE 153; IZA DP 17099 was fetched but identified as a working paper not published in JUE and excluded)
+Early stop triggered: no
+Deltas found: 5 (no JEL codes; Elsevier Harvard citation format; CRediT/data/AI declarations; standalone literature section in empirical papers [RELAXATION]; lowercase subsection labels)
+FIELD_SKILL overrides: Elsevier Harvard citation format overrides implied AER-style comma-year norm; no JEL codes overrides implicit expectation of JEL classification in ECON journals; CRediT/data/AI declarations add mandatory structural elements not in FIELD_SKILL scope

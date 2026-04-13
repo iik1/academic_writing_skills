@@ -1,0 +1,8 @@
+Journal: Mathematical Finance
+Slug: mathematical-finance
+ABS: 3
+Field: FINANCE
+Articles fetched: 2
+Early stop triggered: no (multiple major deltas found in Article 1; Article 2 confirmed and extended findings)
+Deltas found: 6 (Citation style, Article structure, Formal mathematical apparatus, Introduction structure, Results/reporting norms, Robustness treatment)
+FIELD_SKILL overrides: none confirmed (author guidelines inaccessible; all findings are PRACTICE ONLY)

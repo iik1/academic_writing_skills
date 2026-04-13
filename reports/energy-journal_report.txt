@@ -1,0 +1,8 @@
+Journal: Energy Journal
+Slug: energy-journal
+ABS: 3
+Field: SECTOR
+Articles fetched: 1
+Early stop triggered: no (1 article yielded multiple deltas; second article PDFs inaccessible — stopped at 1 per convergence rule since deltas were confirmed)
+Deltas found: 5 (Citation format [Chicago vs APA], JEL codes required, Section structure [numbered/no standalone lit review], Managerial implications absent [RELAXATION], Equation cap)
+FIELD_SKILL overrides: Citation style (Chicago author-date overrides APA norm); word limit (9,500 incl. references — tighter than field norm); abstract word limit (150 words — stricter than field norm); JEL codes (not in FIELD_SKILL baseline)

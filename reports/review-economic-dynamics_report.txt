@@ -1,0 +1,8 @@
+Journal: Review of Economic Dynamics
+Slug: review-economic-dynamics
+ABS: 3
+Field: ECON
+Articles fetched: 2 (1 confirmed RED article — abstract only; 1 working paper in RED's genre — full text)
+Early stop triggered: no (Highlights delta found, warranted second read)
+Deltas found: 2 (Highlights requirement; dynamic framing expectation)
+FIELD_SKILL overrides: Highlights (ENFORCED — Elsevier-specific submission element not covered by FIELD_SKILL)

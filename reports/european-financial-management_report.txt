@@ -1,0 +1,8 @@
+Journal: European Financial Management
+Slug: european-financial-management
+ABS: 3
+Field: FINANCE
+Articles fetched: 1
+Early stop triggered: yes (after 1 article; all observed dimensions followed FIELD_SKILL norms except the three hard constraints already identified from guidelines — no new deltas emerged from the text)
+Deltas found: 3 (abstract word limit, APA citation/reference format, alphabetical author order)
+FIELD_SKILL overrides: Abstract ≤100 words overrides FIELD_SKILL's 150–250 word baseline; APA 6th edition reference list format specifies what FIELD_SKILL leaves unspecified; alphabetical author order is a new constraint absent from FIELD_SKILL

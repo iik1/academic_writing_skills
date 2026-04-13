@@ -1,0 +1,8 @@
+Journal: Journal of Corporate Finance
+Slug: journal-corporate-finance
+ABS: 4
+Field: FINANCE
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 3 (Highlights requirement, shorter-format-papers invitation, submission fee/desk-rejection speed)
+FIELD_SKILL overrides: none (all hard constraints are additive to FIELD_SKILL, not in conflict with it)

@@ -1,0 +1,8 @@
+Journal: Journal of Finance
+Slug: journal-of-finance
+ABS: 4*
+Field: FINANCE
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 9 (section numbering, introduction heading, citation parenthetical format, et al. threshold, citation density in introduction [GUIDELINE ONLY], table footnotes vs. legend, table/figure numbering, footnote quantity cap, conflict of interest disclosure placement, reference list format)
+FIELD_SKILL overrides: Section numbering (Roman not Arabic), introduction heading (none, not "1. Introduction"), citation parenthetical format (double parens no comma, not comma-separated)

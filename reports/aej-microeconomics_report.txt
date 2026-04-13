@@ -1,0 +1,8 @@
+Journal: American Economic Journal: Microeconomics
+Slug: aej-microeconomics
+ABS: 3
+Field: ECON
+Articles fetched: 2
+Early stop triggered: yes (2 articles, zero stylistic deviations from FIELD_SKILL; hard constraints contain journal-specific formatting rules but do not override any FIELD_SKILL writing norm)
+Deltas found: 0 stylistic; 4 hard constraints (abstract ≤100 words, 45-page recommended max, RCT pre-registration requirement, replication package required before acceptance)
+FIELD_SKILL overrides: none — all hard constraints add journal-specific formatting/submission requirements without contradicting any writing norm in FIELD_SKILL

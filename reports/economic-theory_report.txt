@@ -1,0 +1,8 @@
+Journal: Economic Theory
+Slug: economic-theory
+ABS: 3
+Field: ECON
+Articles fetched: 2
+Early stop triggered: yes (after 2 articles; practice norms align with FIELD_SKILL throughout)
+Deltas found: 3 (abstract word range 150–250 words; decimal heading system required; theory-only scope with associated structural absence of empirical paper elements)
+FIELD_SKILL overrides: Abstract word range 150–250 words [ENFORCED — FIELD_SKILL does not specify]; Decimal heading system max 3 levels [ENFORCED — FIELD_SKILL permits Roman or Arabic without decimal specification]

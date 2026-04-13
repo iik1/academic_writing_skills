@@ -1,0 +1,8 @@
+Journal: Journal of Labor Economics
+Slug: journal-labor-economics
+ABS: 4
+Field: ECON
+Articles fetched: 2 (abstracts and metadata only; full text inaccessible due to paywall/403 blocks on journal site and NBER PDF binary encoding)
+Early stop triggered: yes (after 2 articles; zero writing-style deviations from FIELD_SKILL observed in accessible content)
+Deltas found: 4 (abstract word limit, manuscript length cap, AI/LLM disclosure requirement, mandatory published funding disclosure)
+FIELD_SKILL overrides: Abstract word limit (100 words vs. unspecified); Manuscript length (20,000-word hard cap vs. unspecified)

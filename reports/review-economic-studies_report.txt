@@ -1,0 +1,8 @@
+Journal: Review of Economic Studies
+Slug: review-economic-studies
+ABS: 4*
+Field: ECON
+Articles fetched: 1 (two versions of same paper: NBER WP 26643 original Jan 2020 and revised May 2023)
+Early stop triggered: no (hard constraints found from guidelines warranted full output; one practice delta found from article)
+Deltas found: 1 (Related Work labeled sub-heading within Introduction: PRACTICE ONLY)
+FIELD_SKILL overrides: Acknowledgements placement (end of text before references, not in footnotes); Abstract word limit (150 words); Keywords required with abstract; Table prohibitions (vertical lines, colored text, shading explicitly stated); 45-page all-inclusive manuscript limit; 30-page online appendix limit; DCAS data availability requirement; Prohibition on resubmission of rejected manuscripts without editor invitation

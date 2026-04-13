@@ -1,0 +1,8 @@
+Journal: Annual Review of Financial Economics
+Slug: annual-review-financial-economics
+ABS: 3
+Field: FINANCE
+Articles fetched: 2 (Greenwood et al. 2025 published version via HBS faculty PDF — fully formatted Annual Reviews article; Dew-Becker & Giglio 2024 via NBER WP 31878 preprint — layout not in Annual Reviews format)
+Early stop triggered: no (genre deviation is substantial; second article confirmed citation and structural patterns)
+Deltas found: 7 (genre/invitation-only review format; citation format "&"/no comma; reference list format with abbreviated journal names; heading ALL CAPS; Disclosure Statement requirement; optional structural elements; introduction structure RELAXATION)
+FIELD_SKILL overrides: citation format (& not "and", no comma before year); reference list format (abbreviated journal names, LastName Initials. Year., volume:pages colon format); heading capitalization (Level 1 ALL CAPS); Disclosure Statement (required section not in FIELD_SKILL)

@@ -1,0 +1,8 @@
+Journal: Journal of Travel Research
+Slug: journal-travel-research
+ABS: 4
+Field: Tourism, Transport and Hospitality (SECTOR)
+Articles fetched: 2
+Early stop triggered: yes (2 articles; zero FIELD_SKILL deviations observed in available text)
+Deltas found: 1 (References: DOI requirement)
+FIELD_SKILL overrides: none (all hard constraints add specificity not covered by FIELD_SKILL, which explicitly excludes word limits, keyword counts, and submission mechanics; no FIELD_SKILL writing norm is contradicted)

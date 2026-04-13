@@ -1,0 +1,8 @@
+Journal: Financial Management
+Slug: financial-management
+ABS: 3
+Field: FINANCE
+Articles fetched: 0 (all Wiley full-text DOIs returned HTTP 403; no accessible working paper versions found despite systematic search across IDEAS/RePEC, author faculty pages, and SSRN)
+Early stop triggered: no (access failure, not convergence)
+Deltas found: 3 (Robustness expectations, Motivation framing, Tone and controversy — all classified RELAXATION / GUIDELINE ONLY)
+FIELD_SKILL overrides: none confirmed (Wiley ForAuthors page inaccessible; no hard constraint from available guidelines overrides FIELD_SKILL)

@@ -1,0 +1,8 @@
+Journal: Review of Financial Studies
+Slug: review-financial-studies
+ABS: 4*
+Field: FINANCE
+Articles fetched: 0 (published RFS articles all paywalled; one working paper examined was not confirmed as an RFS publication)
+Early stop triggered: no (article access failed, not a convergence stop)
+Deltas found: 3 (Abstract length, Introduction roadmap prohibition, Figure alt text requirement)
+FIELD_SKILL overrides: Abstract limit of 100 words overrides FIELD_SKILL norm of 150–250 words; roadmap prohibition overrides FIELD_SKILL's "near-universal" closing roadmap norm

@@ -1,0 +1,8 @@
+Journal: Journal of Econometrics
+Slug: journal-econometrics
+ABS: 4
+Field: ECON
+Articles fetched: 2
+Early stop triggered: yes (2 articles, zero style deltas from FIELD_SKILL; hard constraints fully mapped)
+Deltas found: 3 (JEL codes + keywords as required front matter [ENFORCED]; short papers tier <15 pages [ENFORCED]; formal mathematical environments in methods papers [PRACTICE ONLY])
+FIELD_SKILL overrides: none (hard constraints add to FIELD_SKILL rather than contradict it; JEL codes were explicitly deferred to journal-specific skills by FIELD_SKILL)

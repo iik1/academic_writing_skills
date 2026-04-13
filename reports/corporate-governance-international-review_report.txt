@@ -1,0 +1,8 @@
+Journal: Corporate Governance: An International Review
+Slug: corporate-governance-international-review
+ABS: 3
+Field: FINANCE
+Articles fetched: 2 full text (one complete, one abstract-only due to access); 3 additional abstracts confirmed via IDEAS/RePEC and Crossref
+Early stop triggered: no (guidelines inaccessible; continued to articles to compensate)
+Deltas found: 4 (Abstract format — structured 4-field; Structural deviation — Literature+Hypotheses section with formal hypothesis statements; Citation scope — interdisciplinary management/governance; Author biographies)
+FIELD_SKILL overrides: none confirmed (guidelines inaccessible); structured abstract format overrides FIELD_SKILL abstract norm in practice

@@ -1,0 +1,12 @@
+Journal: Journal of Economic Perspectives
+Slug: journal-economic-perspectives
+ABS: 4
+Field: ECON
+Articles fetched: 5 (abstracts only; full PDFs inaccessible — HTTP 403 on pubs.aeaweb.org)
+Early stop triggered: no
+Deltas found: 4 (voice/register, mathematical notation, argumentation and stance, structural deviations)
+FIELD_SKILL overrides:
+  - Voice/register: accessibility mandate (90% AEA membership) overrides specialist-audience assumption
+  - Mathematical notation: explicit preference for economic intuition over derivations overrides no-restriction norm
+  - Argumentation: advocacy/synthesis mode overrides neutral-findings-reporting norm
+  - Structure: argument-driven organization with no mandated methodology sections overrides canonical empirical paper template

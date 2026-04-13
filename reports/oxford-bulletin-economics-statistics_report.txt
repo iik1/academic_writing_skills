@@ -1,0 +1,8 @@
+Journal: Oxford Bulletin of Economics and Statistics
+Slug: oxford-bulletin-economics-statistics
+ABS: 3
+Field: ECON
+Articles fetched: 1
+Early stop triggered: no (guidelines inaccessible; second article had no accessible full-text preprint)
+Deltas found: 3 (citation style [numbered vs. author-year], endnotes vs. footnotes, abstract/JEL format)
+FIELD_SKILL overrides: citation style — OBES uses numbered references [X], which supersedes FIELD_SKILL's author-year norm

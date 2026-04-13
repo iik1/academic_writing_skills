@@ -1,0 +1,8 @@
+Journal: American Economic Review
+Slug: american-economic-review
+ABS: 4*
+Field: ECON
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 5 (statistical reporting [no significance stars], heading scheme [Roman numerals only + unlabeled Introduction], appendix structure [two-tier in-paper vs. supplemental], citation author threshold [1-4 full / 5+ et al.], data/code replication requirement)
+FIELD_SKILL overrides: Roman numerals mandated over "either acceptable" norm; Introduction must carry no heading; significance asterisks prohibited (field baseline silent on this); appendix structure distinguished into two types with different rules; 40-45 page all-in limit

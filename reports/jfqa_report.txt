@@ -1,0 +1,8 @@
+Journal: Journal of Financial and Quantitative Analysis
+Slug: jfqa
+ABS: 4
+Field: FINANCE
+Articles fetched: 0 (paywall on all access routes; style guide was the sole primary source)
+Early stop triggered: no (article access failed; style guide used in lieu)
+Deltas found: 5 (section heading numbering [Roman vs Arabic], abstract length [100-word ceiling], multi-author first-citation format, table/figure title placement [above], code sharing policy)
+FIELD_SKILL overrides: Abstract length (100 words vs 150–250); Section heading numbering (Roman I/II/III + A/B/C vs Arabic 1/2/3/2.1/2.2)

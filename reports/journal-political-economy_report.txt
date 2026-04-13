@@ -1,0 +1,40 @@
+Journal: Journal of Political Economy (JPE)
+ABS Rating: 4*
+Base skill: econ-field-writing-style
+Date: 2026-04-12
+
+PHASES COMPLETED:
+  Phase 1 (Guidelines): FAILED — all UChicago journal URLs returned 403 Forbidden; EZProxy authentication wall; no archived version accessible
+  Phase 2 (Spot-check): PARTIAL — 1 full article read (Acemoglu & Loebbing, JPE 134(3), 2026); second article not retrieved before context limit
+  Phase 3 (Classification): COMPLETE — 9 delta items classified; all PRACTICE ONLY due to inaccessible guidelines
+  Phase 4 (Write SKILL.md): COMPLETE
+  Phase 5 (Output): COMPLETE
+
+DELTA SUMMARY:
+  Total deltas recorded: 9
+  ENFORCED: 0 (guidelines inaccessible)
+  GUIDELINE ONLY: 0
+  PRACTICE ONLY: 9
+  FIELD DEFAULT (no deviation): 10 dimensions confirmed
+
+DELTA ITEMS:
+  1. Section heading hierarchy — Roman numeral primaries, capital letter secondaries (PRACTICE ONLY)
+  2. Related literature integrated into Introduction, no standalone section — tightening of theory paper norm (PRACTICE ONLY)
+  3. Data Availability standalone section before References (PRACTICE ONLY — likely ENFORCED)
+  4. Online appendix split: Appendix A in text, Appendix B "available online" (PRACTICE ONLY)
+  5. Named editor attribution in first-page footnote (PRACTICE ONLY — editorial addition)
+  6. Formal result environments: small caps labels + descriptive names (PRACTICE ONLY)
+  7. Figure caption format: FIG. X.—[text.] (PRACTICE ONLY)
+  8. Table caption format: TABLE X / ALL CAPS TITLE (PRACTICE ONLY)
+  9. Abstract: ~100 words, unstructured paragraph (PRACTICE ONLY)
+
+CONFIDENCE ASSESSMENT:
+  Structural conventions (§§1–4): HIGH — observed consistently in a 56-page published article; stable journal typesetting conventions unlikely to vary across papers
+  Mathematical environments (§3.1): HIGH for theory papers; not applicable to purely empirical papers
+  Abstract length (§5.1): MODERATE — single article observation
+  All PRACTICE ONLY items: Require guideline confirmation before treating as submission requirements
+
+RECOMMENDED FOLLOW-UP ACTIONS:
+  1. Access JPE guidelines from within NHH network (direct access without EZProxy may succeed)
+  2. Review a second recent JPE article — suggest an empirical paper to test whether formal environments and Roman numeral headings hold across article types
+  3. Upgrade §1.3 (Data Availability) to ENFORCED if guidelines confirm — this is the highest-priority item for authors

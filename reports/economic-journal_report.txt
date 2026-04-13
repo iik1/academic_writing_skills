@@ -1,0 +1,8 @@
+Journal: Economic Journal
+Slug: economic-journal
+ABS: 4
+Field: ECON
+Articles fetched: 2 (Gagliarducci & Tabellini NBER w30003; Cassidy MPRA 114464)
+Early stop triggered: no
+Deltas found: 5 (Submission fee; Short paper article type; Replication/reproducibility requirements; Prior rejection letters encouraged; Explicit welcome of null results)
+FIELD_SKILL overrides: Replication requirements extend well beyond FIELD_SKILL's "sufficient for replication in principle" norm — EJ imposes a structured package with ReadMe, code, data, software versions, and a binding pre-acceptance reproducibility check by a dedicated Data Editor. Short paper track adds a hard word/exhibit cap with no equivalent in FIELD_SKILL.

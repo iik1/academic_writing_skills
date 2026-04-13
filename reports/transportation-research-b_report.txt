@@ -1,0 +1,8 @@
+Journal: Transportation Research, Series B: Methodological
+Slug: transportation-research-b
+ABS: 4
+Field: SECTOR
+Articles fetched: 3
+Early stop triggered: no
+Deltas found: 3 (citation style [numbered vs. APA]; scope narrowing to mathematical-only; formal mathematical statements expected)
+FIELD_SKILL overrides: Citation style — FIELD_SKILL states "Author–year (APA) is used across all journals in this field"; TR-B uses numbered brackets [1], [2] — ENFORCED override

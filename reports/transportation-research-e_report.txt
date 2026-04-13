@@ -1,0 +1,8 @@
+Journal: Transportation Research, Part E: Logistics and Transportation Review
+Slug: transportation-research-e
+ABS: 3
+Field: SECTOR (Tourism, Transport and Hospitality)
+Articles fetched: 2 (1 OR/optimisation research article; 1 special issue editorial used only to confirm highlights format and Elsevier conventions)
+Early stop triggered: no (second article confirmed additional deltas)
+Deltas found: 4 (OR structure as default not variation; computational metrics replace hypothesis testing as default; highlights ENFORCED not optional; graphical abstract ENFORCED and absent from FIELD_SKILL)
+FIELD_SKILL overrides: Abstract capped at 250 words (FIELD_SKILL specifies no limit); highlights reclassified from optional to ENFORCED; graphical abstract added as required component (not in FIELD_SKILL); inclusive language explicitly mandated (not in FIELD_SKILL); AI disclosure required (not in FIELD_SKILL)

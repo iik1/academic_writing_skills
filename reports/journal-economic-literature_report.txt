@@ -1,0 +1,8 @@
+Journal: Journal of Economic Literature
+Slug: journal-economic-literature
+ABS: 4
+Field: ECON
+Articles fetched: 2 (abstracts and metadata only; full text inaccessible due to paywall)
+Early stop triggered: no
+Deltas found: 7 (article type and purpose, section structure, introduction moves, voice/register, citation density, statistical reporting/no asterisks, abstract word limit)
+FIELD_SKILL overrides: Roman numeral headings required (FIELD_SKILL says either is acceptable); no asterisks for significance (FIELD_SKILL silent on this); abstract ≤150 words for articles / ≤100 words for reviews (FIELD_SKILL silent on limits); plain English accessibility required cross-subfield (FIELD_SKILL assumes specialist audience); footnotes not endnotes (FIELD_SKILL silent)

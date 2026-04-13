@@ -1,0 +1,8 @@
+Journal: Insurance: Mathematics and Economics
+Slug: insurance-mathematics-economics
+ABS: 3
+Field: FINANCE
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 5 (Structural Deviations, Mathematical Proof Structure, Statistical Reporting [relaxation], JEL Codes, Voice and Register [minor relaxation])
+FIELD_SKILL overrides: Highlights (3–5 bullets ≤85 characters, ENFORCED — not mentioned in FIELD_SKILL); JEL codes absent (PRACTICE ONLY); theorem-proof structure replaces regression tables as primary results vehicle (PRACTICE ONLY)

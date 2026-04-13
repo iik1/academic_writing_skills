@@ -1,0 +1,28 @@
+# Intermediate / raw generation outputs
+*_raw_output.txt
+
+# Older draft field skill files (superseded by skills/fields/)
+ECON_FIELD_SKILL.md
+FINANCE_FIELD_SKILL.md
+ACCOUNT_FIELD_SKILL.md
+STRAT_FIELD_SKILL.md
+
+# Draft / work-in-progress markdown (not canonical skills)
+Welcome.md
+journal-economic-perspectives-writing-style.md
+journal-financial-intermediation.md
+review-financial-studies-writing-style.md
+
+# Duplicate journal skill (covered by skills/economics/jebo_SKILL.md)
+journal-economic-behavior-organization_SKILL.md
+
+# Runtime artifacts
+dispatch_report.json
+*.zip
+
+# Old skill format directory
+skills/journal-of-finance/
+
+# IDE / vault config
+.obsidian/
+.claude/

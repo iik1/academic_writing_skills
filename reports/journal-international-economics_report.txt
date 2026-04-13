@@ -1,0 +1,8 @@
+Journal: Journal of International Economics
+Slug: journal-international-economics
+ABS: 4
+Field: ECON
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 4 (Short Paper track, abstract 150-word cap, JIE replication repository, Highlights/JEL codes as Elsevier-specific elements)
+FIELD_SKILL overrides: Abstract 150-word limit overrides FIELD_SKILL's silence on abstract length; Short Paper word/exhibit caps are novel constraints with no FIELD_SKILL analogue; replication repository requirement specifies a JIE-specific deposit location beyond what FIELD_SKILL describes

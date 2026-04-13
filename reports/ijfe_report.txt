@@ -1,0 +1,48 @@
+## Completion Report — IJFE SKILL.md
+
+**Journal**: International Journal of Finance and Economics (IJFE)
+**ABS**: 3 | **Field**: FINANCE | **Publisher**: Wiley
+
+### Phase 1 — Author Guidelines
+**Status**: FAILED (inaccessible)
+All Wiley OnlineLibrary URL patterns returned HTTP 403. EZProxy (NHH) requires interactive browser authentication. No cached or mirrored version of the guidelines was retrievable via any automated method (web archive and archive.ph are blocked; SSRN blocked; Semantic Scholar rate-limited). Hard constraints were derived from article observation only. Manual verification against the actual guidelines page is recommended before submission.
+
+### Phase 2 — Article Spot-Check
+**Status**: COMPLETE (2 articles)
+
+| | Article 1 | Article 2 |
+|---|---|---|
+| DOI | 10.1002/ijfe.2556 | 10.1002/ijfe.2846 |
+| Year | 2022 | 2024 |
+| Source PDF | MMU e-space repository | UCLan Knowledge repository |
+| Access method | OpenAlex OA filter → green OA PDF | OpenAlex OA filter → green OA PDF |
+| Topic | Corporate governance / audit committee | ESG disclosure / board committees |
+
+Both articles retrieved in full and read completely. Access method: OpenAlex API (`api.openalex.org/works?filter=primary_location.source.issn:1099-1158,open_access.is_oa:true`) returned institutional repository URLs that were fetchable without authentication.
+
+### Phase 3 — Delta Classification
+**Status**: COMPLETE
+
+| Delta | Description | Classification |
+|---|---|---|
+| D1 | Standalone theory + literature sections before methodology | RELAXATION |
+| D2 | Formal Hx hypothesis labels as standalone typographic elements | PRACTICE ONLY |
+| D3 | JEL codes absent from manuscript; keywords only | PRACTICE ONLY |
+| D4 | In-text table placeholders; tables collected at end | PRACTICE ONLY |
+| D5 | Acknowledgements section names editor explicitly | PRACTICE ONLY |
+| D6 | Appendix for variable definitions | PRACTICE ONLY |
+
+No ENFORCED or GUIDELINE ONLY items could be confirmed without guideline access.
+
+### Phase 4/5 — SKILL.md
+**Status**: COMPLETE
+Six journal-specific deltas documented. All field defaults listed. Composite structure template provided. Every sentence describes something IJFE-specific; no rediscovery of field conventions.
+
+### Confidence Assessment
+- **High confidence**: D1 (both articles), D2 (both articles), D3 (both articles), D4 (both articles)
+- **Medium confidence**: D5 (one article), D6 (one article)
+- **Limitation**: Sample covers corporate governance / ESG papers only; macro-finance and asset pricing papers at IJFE may follow different structural conventions, particularly regarding the theory section format
+
+### Recommended Follow-Up
+1. Manually access `https://onlinelibrary.wiley.com/journal/10991158` → "For Authors" tab to verify hard constraints, word/page limits, and any explicit structural requirements
+2. Sample one macro-finance or exchange-rate paper from IJFE to check whether the standalone literature section norm extends beyond corporate governance work

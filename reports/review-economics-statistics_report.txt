@@ -1,0 +1,8 @@
+Journal: Review of Economics and Statistics
+Slug: review-economics-statistics
+ABS: 4
+Field: ECON
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 4 (abstract word limit ≤100 words, short papers submission type, JEL code requirement, manuscript formatting specifications)
+FIELD_SKILL overrides: abstract word limit (FIELD_SKILL unspecified; REStat enforces ≤100 words); manuscript typography (FIELD_SKILL unspecified; REStat mandates double-spaced 12pt TNR 1-inch margins)

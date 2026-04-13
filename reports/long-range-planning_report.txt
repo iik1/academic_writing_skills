@@ -1,0 +1,8 @@
+Journal: Long Range Planning
+Slug: long-range-planning
+ABS: 4
+Field: STRAT
+Articles fetched: 2 (abstracts only; full text inaccessible due to ScienceDirect paywall/session requirements)
+Early stop triggered: yes (2 articles; no additional articles fetched because full text was inaccessible and no new structural deltas could be confirmed beyond guidelines)
+Deltas found: 3 (practitioner orientation scope signal; publisher submission requirements — highlights and graphical abstract; Perspective article type)
+FIELD_SKILL overrides: none (all hard constraints are additive; the citation format is author-year which aligns with FIELD_SKILL, so no conflict)

@@ -1,0 +1,8 @@
+Journal: Journal of Human Resources
+Slug: journal-human-resources
+ABS: 3
+Field: ECON
+Articles fetched: 3
+Early stop triggered: no
+Deltas found: 2 (voice for sole-authored papers [RELAXATION/PRACTICE ONLY]; Roman numeral headings [PRACTICE ONLY])
+FIELD_SKILL overrides: 40-page length cap including references/tables/figures; mandatory replication policy compliance; mandatory author disclosure statement (funding/COI/IRB); explicit scope prohibition (no management/HR research)

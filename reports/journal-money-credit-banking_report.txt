@@ -1,0 +1,8 @@
+Journal: Journal of Money, Credit and Banking
+Slug: journal-money-credit-banking
+ABS: 4
+Field: FINANCE
+Articles fetched: 1
+Early stop triggered: yes (all key deltas confirmed after 1 article)
+Deltas found: 5 (citation format/no comma, reference list format, significance notation mismatch between guidelines and practice, standalone related literature section, short abstract)
+FIELD_SKILL overrides: Citation format (no comma between author and year — ENFORCED); Reference list format (colon-delimited with bold volume — ENFORCED); Footnote prohibition for citations (ENFORCED); 40-page length cap (hard constraint not in FIELD_SKILL)

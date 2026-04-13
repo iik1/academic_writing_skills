@@ -1,0 +1,8 @@
+Journal: Journal of Environmental Economics and Management
+Slug: jeem
+ABS: 3
+Field: ECON
+Articles fetched: 2 (abstracts and metadata only; full text inaccessible due to ScienceDirect paywall and JavaScript-rendered pages)
+Early stop triggered: no (2 articles checked; minor structural patterns confirmed but full-text spot-check was limited)
+Deltas found: 3 (Highlights section requirement, Notes and Short Papers format, scope-based rejection criteria)
+FIELD_SKILL overrides: none — all three deltas are additive requirements not in conflict with FIELD_SKILL norms
