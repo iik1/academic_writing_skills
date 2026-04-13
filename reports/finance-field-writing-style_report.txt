@@ -1,0 +1,7 @@
+Field: FINANCE
+Journals consulted: 3
+Articles consulted: 6
+Convergence reached: yes
+ABS 4* journals used: Journal of Finance, Journal of Financial Economics, Review of Financial Studies
+ABS 4 journals used: none
+Dimensions marked uncertain: none — all primary dimensions (voice, structure, argumentation, citation format, hedging calibration, results reporting) converged clearly across the six articles before any ABS 4 journals were needed. One dimension with practice variation noted in the text: whether robustness occupies a standalone main-text section (more common in JF) versus being embedded in results or deferred to the appendix (more common in JFE/RFS).

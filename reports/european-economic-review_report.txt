@@ -1,0 +1,8 @@
+Journal: European Economic Review
+Slug: european-economic-review
+ABS: 3
+Field: ECON
+Articles fetched: 1
+Early stop triggered: yes (after 1 article — zero writing-style deviations from FIELD_SKILL found; convergence rule applied)
+Deltas found: 3 (Highlights mandatory; Submission fee €125; Originality standard relaxed to "motivation OR modelling")
+FIELD_SKILL overrides: none (hard constraints are additive, not in conflict with FIELD_SKILL)

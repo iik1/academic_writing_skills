@@ -1,0 +1,8 @@
+Journal: Econometrica
+Slug: econometrica
+ABS: 4*
+Field: ECON
+Articles fetched: 2
+Early stop triggered: no (deltas found after article 1; article 2 confirmed them)
+Deltas found: 4 (abstract word limit + keywords, page limit + formatting requirements, labeled-paragraph Related Literature/Organization convention, replication-as-acceptance-condition)
+FIELD_SKILL overrides: 150-word abstract cap (FIELD_SKILL silent on word limits); 45-page manuscript limit including references and appendices (FIELD_SKILL silent on page limits); mandatory keywords on title page (FIELD_SKILL silent on keywords); replication package required before acceptance (FIELD_SKILL does not address data availability conditions)

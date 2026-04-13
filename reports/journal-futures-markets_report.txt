@@ -1,0 +1,8 @@
+Journal: Journal of Futures Markets
+Slug: journal-futures-markets
+ABS: 3
+Field: FINANCE
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 3 (Free Format submission policy; standalone Literature Review section accepted; AI disclosure required in Methods section)
+FIELD_SKILL overrides: Free Format submission means no pre-submission structural or citation formatting requirements (overrides any assumption that the journal mandates a specific pre-submission style); AI disclosure in Methods section is an enforced guideline not covered in FIELD_SKILL baseline

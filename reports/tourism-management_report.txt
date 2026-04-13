@@ -1,0 +1,8 @@
+Journal: Tourism Management
+Slug: tourism-management
+ABS: 4
+Field: SECTOR
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 4 (word limits by article type, inclusive language as formal policy, generative AI disclosure requirement, double-blind review anonymisation obligation)
+FIELD_SKILL overrides: Word limits for three article types (research paper ~10,000w, research note 3,000–5,000w, progress ~12,000w) add specificity FIELD_SKILL does not cover; desk-rejection rules for single-survey convenience samples and scale-only contributions are journal-specific constraints with no field-level equivalent

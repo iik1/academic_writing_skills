@@ -1,0 +1,8 @@
+Journal: American Economic Journal: Economic Policy
+Slug: aej-economic-policy
+ABS: 3
+Field: ECON
+Articles fetched: 1
+Early stop triggered: no (second article inaccessible; single article sufficient to confirm key deltas)
+Deltas found: 2 (statistical reporting — asterisks prohibition; voice — first-person singular in sole-authored papers)
+FIELD_SKILL overrides: Abstract ≤100 words (FIELD_SKILL specifies no limit); asterisks for significance prohibited and SEs in parentheses required (FIELD_SKILL does not specify this prohibition); heading format locked to Roman numerals + capital letters for subsections (FIELD_SKILL permits either Roman or Arabic)

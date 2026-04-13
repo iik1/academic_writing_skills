@@ -1,0 +1,8 @@
+Journal: Journal of Economic Behavior and Organization
+Slug: jebo
+ABS: 3
+Field: ECON
+Articles fetched: 2 (1 full-text via Kiel WP; 1 abstract only)
+Early stop triggered: no
+Deltas found: 3 (submission fee, Highlights requirement, reference list typography)
+FIELD_SKILL overrides: none (all deltas are additions, not contradictions; FIELD_SKILL's author-year citation norm is confirmed, not overridden)

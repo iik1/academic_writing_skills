@@ -1,0 +1,8 @@
+Journal: Journal of Banking and Finance
+Slug: journal-banking-finance
+ABS: 3
+Field: FINANCE
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 6 (Highlights mandatory element, Submission fee USD 350, Double-blind review, Inclusive language policy, Data availability statement formalized, AI use declaration)
+FIELD_SKILL overrides: none (all deltas are additions or formalizations, not conflicts with FIELD_SKILL writing style norms)

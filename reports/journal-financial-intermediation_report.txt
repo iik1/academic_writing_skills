@@ -1,0 +1,8 @@
+Journal: Journal of Financial Intermediation
+Slug: journal-financial-intermediation
+ABS: 4
+Field: FINANCE
+Articles fetched: 1
+Early stop triggered: yes (after 1 article; deltas identified and stable)
+Deltas found: 4 (submission fee, single-blind review, citation punctuation, Highlights component)
+FIELD_SKILL overrides: none (all deltas are additions or minor formatting conventions; no FIELD_SKILL norm is contradicted)

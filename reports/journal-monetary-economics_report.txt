@@ -1,0 +1,8 @@
+Journal: Journal of Monetary Economics
+Slug: journal-monetary-economics
+ABS: 4
+Field: ECON
+Articles fetched: 3
+Early stop triggered: no
+Deltas found: 4 (Highlights block [ENFORCED], Graphical abstract [GUIDELINE ONLY], AI use disclosure [ENFORCED], Inclusive language requirement [GUIDELINE ONLY])
+FIELD_SKILL overrides: none (no hard constraint conflicts with FIELD_SKILL; all deltas are additive Elsevier-layer requirements absent from the field baseline)

@@ -1,0 +1,8 @@
+Journal: Journal of Health Economics
+Slug: journal-health-economics
+ABS: 3
+Field: ECON
+Articles fetched: 2 (full text via PubMed Central); 3 additional abstracts via ScienceDirect
+Early stop triggered: no
+Deltas found: 5 (topic prohibitions [ENFORCED], AI disclosure [ENFORCED], separate Discussion section [PRACTICE ONLY], literature-in-background placement [PRACTICE ONLY], JEL codes optional [PRACTICE ONLY])
+FIELD_SKILL overrides: none (all hard constraints are additive, not conflicting)

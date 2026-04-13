@@ -1,0 +1,8 @@
+Journal: Quarterly Journal of Economics
+Slug: quarterly-journal-economics
+ABS: 4*
+Field: ECON
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 6 (abstract word limit + citation prohibition + JEL codes in abstract body; Roman numeral + ALL CAPS section headings; subsection scheme II.A./II.B.; table Roman numeral numbering; author affiliation placement; data replication deposit requirement; acknowledgment as title-page footnote)
+FIELD_SKILL overrides: (1) Section heading style — FIELD_SKILL permits Arabic numerals; QJE enforces Roman numerals in ALL CAPS. (2) Abstract — FIELD_SKILL does not specify word limit or JEL code placement; QJE caps at 250 words, prohibits citations, requires JEL codes inline at end.

@@ -1,0 +1,8 @@
+Journal: Annals of Tourism Research
+Slug: annals-tourism-research
+ABS: 4
+Field: SECTOR
+Articles fetched: 3
+Early stop triggered: no
+Deltas found: 3 (inclusive word-count rule; Highlights + Graphical abstract as required elements; Viewpoints require advance editor pre-approval)
+FIELD_SKILL overrides: Highlights reclassified from "optional but common" to required/enforced; word limit (inclusive of tables/figures/references) adds a hard constraint absent from FIELD_SKILL

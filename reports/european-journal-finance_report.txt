@@ -1,0 +1,8 @@
+Journal: The European Journal of Finance
+Slug: european-journal-finance
+ABS: 3
+Field: FINANCE
+Articles fetched: 1
+Early stop triggered: no (guidelines inaccessible, required article verification)
+Deltas found: 3 (Citations [Chicago AD, no comma — ENFORCED]; Structural relaxations [standalone literature section + separate Discussion/Conclusions — PRACTICE ONLY/RELAXATION]; Notes on contributors [publisher-mandated — ENFORCED])
+FIELD_SKILL overrides: Citation style — Chicago Author-Date without comma overrides FIELD_SKILL's APA/Harvard convention with comma. No other hard conflicts identified.

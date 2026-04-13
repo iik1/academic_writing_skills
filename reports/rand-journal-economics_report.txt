@@ -1,0 +1,8 @@
+Journal: RAND Journal of Economics
+Slug: rand-journal-economics
+ABS: 4
+Field: ECON
+Articles fetched: 1 (TSE Working Paper 1555; no confirmed published RAND Journal full-text accessible due to paywall)
+Early stop triggered: yes (after 1 article; confirmed published articles inaccessible; style guide provided the primary delta source)
+Deltas found: 7 (page limits, abstract word limit, footnote length cap, subsection numbering prohibition, supporting materials discouragement, reference list format, equation numbering convention)
+FIELD_SKILL overrides: Supporting materials expectation overridden (FIELD_SKILL says expected; RAND discourages); no page/word limits in FIELD_SKILL overridden by 50-page hard cap; no footnote length limit in FIELD_SKILL overridden by 50-word cap

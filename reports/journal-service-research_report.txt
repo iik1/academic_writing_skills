@@ -1,0 +1,8 @@
+Journal: Journal of Service Research
+Slug: journal-service-research
+ABS: 4
+Field: Tourism, Transport and Hospitality (SECTOR)
+Articles fetched: 4 (PMC10522451; PMC9899682; PMC6041734; PMC6174633 — all via PubMed Central; SAGE direct access blocked)
+Early stop triggered: no (guidelines page inaccessible; fetched 4 articles to compensate)
+Deltas found: 6 (structural — multi-study dominance; "Overview of Studies" section; Discussion subsections always explicitly labelled; no "Literature Review" heading; statistical — bootstrapped CI mediation; graphical abstract)
+FIELD_SKILL overrides: none (guidelines inaccessible; no hard constraints verified)

@@ -1,0 +1,8 @@
+Journal: Journal of Financial Markets
+Slug: journal-financial-markets
+ABS: 3
+Field: FINANCE
+Articles fetched: 2
+Early stop triggered: no (2 articles confirmed deltas; stopped after 2 per convergence rule)
+Deltas found: 2 (Abstract length/content — PRACTICE ONLY RELAXATION; Highlights — ENFORCED)
+FIELD_SKILL overrides: none (both deltas are additions or relaxations, not contradictions of FIELD_SKILL norms)

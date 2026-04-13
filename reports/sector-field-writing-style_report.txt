@@ -1,0 +1,7 @@
+Field: Tourism, Transport and Hospitality
+Journals consulted: 5
+Articles consulted: 16
+Convergence reached: yes (tourism and hospitality subset); partial (full field — methodological heterogeneity between transport modelling and tourism/service journals prevents full convergence on voice, structure, hedging, and methods conventions)
+ABS 4* journals used: none (no ABS 4* journals exist in this field)
+ABS 4 journals used: Annals of Tourism Research, Tourism Management, Journal of Service Research, Journal of Travel Research, Transportation Research Series B: Methodological
+Dimensions marked uncertain: voice and person (active/passive balance, "we" vs impersonal), macro structure (standard empirical vs modelling vs multi-study vs notes formats), methods conventions (qualitative vs quantitative vs mathematical), hedging intensity (qualitative vs experimental vs modelling), discussion/conclusion separation

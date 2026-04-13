@@ -1,0 +1,8 @@
+Journal: Quantitative Finance
+Slug: quantitative-finance
+ABS: 3
+Field: FINANCE
+Articles fetched: 3
+Early stop triggered: no
+Deltas found: 4 (citation style [numbered vs. author-year], classification codes [MSC + JEL], conclusion section [relaxation], theoretical/methods register)
+FIELD_SKILL overrides: none confirmed (guidelines inaccessible; all deltas labelled PRACTICE ONLY or RELAXATION)

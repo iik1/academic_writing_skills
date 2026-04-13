@@ -1,0 +1,8 @@
+Journal: Games and Economic Behavior
+Slug: games-economic-behavior
+ABS: 3
+Field: ECON
+Articles fetched: 2
+Early stop triggered: no (2 articles fetched; convergence reached after 2)
+Deltas found: 2 (roadmap paragraph absent; conclusion section absent or replaced with brief Final Remarks)
+FIELD_SKILL overrides: JEL codes required after abstract (not covered by FIELD_SKILL); inclusive language explicitly mandated; Declaration of Generative AI Use required before references

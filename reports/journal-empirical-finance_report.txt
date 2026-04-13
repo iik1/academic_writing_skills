@@ -1,0 +1,8 @@
+Journal: Journal of Empirical Finance
+Slug: journal-empirical-finance
+ABS: 3
+Field: FINANCE
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 4 (Highlights section required, JEL codes required, abstract length relaxed, editorial tone signal re: controversial/unusual work)
+FIELD_SKILL overrides: Highlights section (mandatory pre-abstract element not in FIELD_SKILL); JEL classification codes (required); abstract lower-bound length relaxed; Declaration of generative AI (required section if applicable)

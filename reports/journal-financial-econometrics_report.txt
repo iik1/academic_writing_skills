@@ -1,0 +1,8 @@
+Journal: Journal of Financial Econometrics
+Slug: journal-financial-econometrics
+ABS: 3
+Field: FINANCE
+Articles fetched: 2
+Early stop triggered: no (deltas found after first article; second article confirmed methodological orientation)
+Deltas found: 7 (abstract word limit, endnotes requirement, funding section format, figure alt text, data/code acceptance condition, statistical reporting orientation, structural paper format)
+FIELD_SKILL overrides: Abstract capped at 100 words (vs. 150–250 field baseline); footnotes as endnotes not page-bottom; mandatory funding section with prescribed format; figure alt text required; replication package required at acceptance for empirical papers

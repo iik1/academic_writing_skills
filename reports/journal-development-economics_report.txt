@@ -1,0 +1,8 @@
+Journal: Journal of Development Economics
+Slug: journal-development-economics
+ABS: 3
+Field: ECON
+Articles fetched: 1 full text + 2 abstract panels (3 total fetched, 1 fully readable)
+Early stop triggered: no
+Deltas found: 6 (Short Papers format, Registered Reports, submission fee, submission frequency cap, no-reconsidering prohibition, scope restriction; structural ordering observed in one article as PRACTICE ONLY)
+FIELD_SKILL overrides: none — all hard constraints supplement rather than contradict FIELD_SKILL (FIELD_SKILL explicitly excludes word limits, submission portal rules, and journal-specific prohibitions from its scope)

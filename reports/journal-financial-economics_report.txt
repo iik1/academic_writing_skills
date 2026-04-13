@@ -1,0 +1,8 @@
+Journal: Journal of Financial Economics
+Slug: journal-financial-economics
+ABS: 4*
+Field: FINANCE
+Articles fetched: 4 (partial access — abstracts and metadata only; full text paywalled)
+Early stop triggered: no (full guidelines were partially inaccessible due to JS rendering; 4 articles assessed)
+Deltas found: 3 (Submission fee structure, Generative AI declaration section, Abstract length in practice)
+FIELD_SKILL overrides: Submission fee (US$850, not in FIELD_SKILL); Generative AI declaration section before References (not in FIELD_SKILL); Inclusive language requirement (Elsevier policy, not in FIELD_SKILL — GUIDELINE ONLY)

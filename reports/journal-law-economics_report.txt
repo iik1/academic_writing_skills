@@ -1,0 +1,8 @@
+Journal: Journal of Law and Economics
+Slug: journal-law-economics
+ABS: 3
+Field: ECON
+Articles fetched: 2 (attempted; both PDFs binary-encoded and unreadable — no stylistic observations extracted)
+Early stop triggered: no (full-text access failed; guidelines-only phase completed)
+Deltas found: 5 (abstract 150-word limit, tables-at-end submission format, data replication policy, submission fee, footnote cross-reference prohibition)
+FIELD_SKILL overrides: none (all deltas are additions or submission-format constraints; no FIELD_SKILL writing norm is contradicted)

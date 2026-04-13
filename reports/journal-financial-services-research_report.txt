@@ -1,0 +1,8 @@
+Journal: Journal of Financial Services Research
+Slug: journal-financial-services-research
+ABS: 3
+Field: FINANCE
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 2 (citation format — no comma; standalone literature review section tolerated)
+FIELD_SKILL overrides: Citation style — Springer "(Author Year)" without comma overrides field baseline "(Author, Year)" with comma

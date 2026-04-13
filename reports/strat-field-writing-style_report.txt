@@ -1,0 +1,7 @@
+Field: STRAT
+Journals consulted: 3
+Articles consulted: 4
+Convergence reached: yes
+ABS 4* journals used: Strategic Management Journal
+ABS 4 journals used: Global Strategy Journal, Long Range Planning
+Dimensions marked uncertain: Statistical reporting (p-value asterisks vs. exact values varies by journal — flagged as journal-specific)

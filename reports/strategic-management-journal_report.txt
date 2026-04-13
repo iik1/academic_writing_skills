@@ -1,0 +1,8 @@
+Journal: Strategic Management Journal
+Slug: strategic-management-journal
+ABS: 4*
+Field: STRAT
+Articles fetched: 1
+Early stop triggered: yes (after 1 article — all guideline constraints confirmed, convergence reached)
+Deltas found: 6 (dual abstract mandate, statistical reporting ban on p-value asterisks/effect size requirement, open data transparency norms, footnotes-not-endnotes, American English requirement, number/punctuation conventions)
+FIELD_SKILL overrides: Dual abstract replaces single-abstract assumption; statistical reporting ban overrides "practice varies" baseline; 40-page limit (including tables/figures) adds hard constraint not in baseline; tables/figures-at-end submission rule is journal-specific; 5-keyword requirement is journal-specific

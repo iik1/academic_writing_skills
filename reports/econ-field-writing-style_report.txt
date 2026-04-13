@@ -1,0 +1,7 @@
+Field: ECON
+Journals consulted: 5
+Articles consulted: 13 (AER Jan 2026: 10 abstracts/ToC entries; 5 full-text NBER/IZA working papers — NBER w32861 [taxation/household, AER-tier], NBER w33030 [networks/science, QJE/AER-tier], NBER w32451 [open-economy macro, ReStud/AER-tier], NBER w31828 [sovereign debt theory, JPE/AER-tier], IZA DP 17099 [applied experiment, AEJ-tier])
+Convergence reached: yes
+ABS 4* journals used: American Economic Review, Econometrica, Journal of Political Economy, Quarterly Journal of Economics, Review of Economic Studies
+ABS 4 journals used: none
+Dimensions marked uncertain: (1) Whether a standalone Related Literature section is present vs. integrated into the Introduction — practice varies by paper type; no single consensus norm. (2) Whether Discussion and Conclusion are merged or separate — practice varies; no consensus norm. (3) Conclusion naming conventions — no consensus norm across the field.

@@ -1,0 +1,8 @@
+Journal: Journal of Public Economics
+Slug: journal-public-economics
+ABS: 3
+Field: ECON
+Articles fetched: 1
+Early stop triggered: yes (after 1 article; all voice/register/citation/structure dimensions confirmed FIELD_SKILL norms; only guideline-derived deltas required recording)
+Deltas found: 2 (Short Paper Track structure/review process; single-anonymized review)
+FIELD_SKILL overrides: Short Paper track word limit (6,000 words) and exhibit cap (5 combined) are journal-specific hard constraints with no FIELD_SKILL equivalent; $250 non-refundable submission fee is an operational constraint not covered by FIELD_SKILL

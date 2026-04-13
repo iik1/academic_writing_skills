@@ -1,0 +1,8 @@
+Journal: Experimental Economics
+Slug: experimental-economics
+ABS: 3
+Field: ECON
+Articles fetched: 1
+Early stop triggered: no (one article fetched; deviations confirmed, second article access failed)
+Deltas found: 4 (statistical reporting / nonparametric tests; numbered Result statements; structural section pattern; mandatory replication/ethics package beyond field norm)
+FIELD_SKILL overrides: Abstract word limit (150–250 words, ENFORCED); no-deception prohibition (absolute, ENFORCED); experimental instructions mandatory appendix (ENFORCED); IRB disclosure (ENFORCED); raw data + code submission (ENFORCED); recruitment/incentivization description (ENFORCED)

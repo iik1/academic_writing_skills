@@ -1,0 +1,8 @@
+Journal: Journal of Financial Stability
+Slug: journal-financial-stability
+ABS: 3
+Field: FINANCE
+Articles fetched: 2 (abstract/metadata only; full text paywalled)
+Early stop triggered: no (deltas found; guidelines required full extraction)
+Deltas found: 5 (Highlights requirement, CRediT author contributions, reference list format, inclusive language requirement, policy-orientation structural tendency)
+FIELD_SKILL overrides: Highlights (3–5 bullets ≤85 chars, mandatory submission element); CRediT author contribution statement (required); Reference list format (Elsevier author-year: year not in parentheses, no issue number); Inclusive language (explicitly required); Generative AI declaration (required if applicable); Keywords 1–7 (explicit count constraint)

@@ -1,0 +1,8 @@
+Journal: American Economic Journal: Applied Economics
+Slug: aej-applied
+ABS: 4
+Field: ECON
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 1 (Voice and Register: first-person singular accepted in sole-authored papers)
+FIELD_SKILL overrides: Abstract word limit (100 words, ENFORCED); Page limit (40–45 pages including all materials, ENFORCED); Appendix placement before references (ENFORCED); Self-contained requirement (ENFORCED)

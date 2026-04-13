@@ -1,0 +1,8 @@
+Journal: Journal of International Money and Finance
+Slug: journal-international-money-finance
+ABS: 3
+Field: FINANCE
+Articles fetched: 2
+Early stop triggered: no (deviations found, second article used to confirm)
+Deltas found: 2 (citation style — numbered brackets vs. author-year; Highlights section — Elsevier-required, absent from FIELD_SKILL)
+FIELD_SKILL overrides: Citation style (numbered brackets [N] replaces author-year parenthetical throughout); Highlights section added as required structural element

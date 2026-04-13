@@ -1,0 +1,8 @@
+Journal: Strategic Organization
+Slug: strategic-organization
+ABS: 3
+Field: STRAT
+Articles fetched: 0 (all SAGE full-text and PDF URLs returned 403; CrossRef/Unpaywall metadata fetched for ~20 recent articles; one CORE PDF retrieved was from a different journal and discarded)
+Early stop triggered: no (access failure rather than convergence)
+Deltas found: 3 (Managerial implications — RELAXATION; Methodological/scope pluralism — PRACTICE ONLY; EXPRESS track — ENFORCED)
+FIELD_SKILL overrides: Word limit (~10,000 words, ENFORCED); Abstract format (unstructured ~200 words, ENFORCED) — both are hard constraints not specified in FIELD_SKILL baseline

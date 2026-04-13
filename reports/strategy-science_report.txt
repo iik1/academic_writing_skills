@@ -1,0 +1,9 @@
+Journal: Strategy Science
+Slug: strategy-science
+ABS: 3
+Field: STRAT
+Articles fetched: 1 full-text (Bath PURE repository); 4 additional CrossRef abstract records reviewed
+Early stop triggered: no
+Deltas found: 5 (Structure: numbered headings; Structure: third-level italic inline headings; Structure/Discussion: separate Discussion + Conclusion [RELAXATION]; Abstract: keywords required; Citations: colon page notation)
+FIELD_SKILL overrides: none — journal guidelines inaccessible; no hard constraints verified against official source; all classifications provisional
+Notes: pubsonline.informs.org returned HTTP 403 on all access attempts. Guidelines must be verified manually before treating any entry as ENFORCED. A second empirical article spot-check is recommended to fill the Methods/Results gap.

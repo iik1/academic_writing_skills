@@ -1,0 +1,8 @@
+Journal: American Economic Journal: Macroeconomics
+Slug: aej-macroeconomics
+ABS: 4
+Field: ECON
+Articles fetched: 3 (1 full-text working paper PDF + published section structure; 2 published abstract pages for abstract-length verification)
+Early stop triggered: no
+Deltas found: 3 (abstract word limit, page cap including all components, supplemental-appendix self-containment rule, mandatory replication package — reported as 3 structural delta entries covering these 4 constraints)
+FIELD_SKILL overrides: Abstract word limit (100 words, ENFORCED; FIELD_SKILL specifies none); Page limit of 40/45 pages inclusive of figures/tables/references/appendices (ENFORCED; FIELD_SKILL specifies none); Self-containment requirement for main paper without supplemental appendix (stronger than FIELD_SKILL's norm); Mandatory replication package as condition of acceptance (ENFORCED; not mentioned in FIELD_SKILL)

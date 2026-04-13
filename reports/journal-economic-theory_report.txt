@@ -1,0 +1,8 @@
+Journal: Journal of Economic Theory
+Slug: journal-economic-theory
+ABS: 4
+Field: ECON
+Articles fetched: 2 (1 full text read; 1 citation-format check only)
+Early stop triggered: yes (after 1 full article + 1 partial check; no further deviations found)
+Deltas found: 3 (structural: AI disclosure section required; structural: Related Literature embedded in Introduction; register: inclusive language mandate)
+FIELD_SKILL overrides: none (no hard constraints contradict FIELD_SKILL; AI disclosure section is additive)

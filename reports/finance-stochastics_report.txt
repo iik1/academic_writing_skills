@@ -1,0 +1,8 @@
+Journal: Finance and Stochastics
+Slug: finance-stochastics
+ABS: 3
+Field: FINANCE
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 5 (citation format, abstract length, introduction/contributions structure, statistical reporting conventions, conclusion presence)
+FIELD_SKILL overrides: citation format (numbered [n] replaces author-year); abstract word limit (100 words hard cap replaces 150–250 norm); MSC classification codes required in addition to JEL

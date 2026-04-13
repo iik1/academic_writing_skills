@@ -1,0 +1,8 @@
+Journal: Global Strategy Journal
+Slug: global-strategy-journal
+ABS: 4
+Field: STRAT
+Articles fetched: 1 (second attempted but inaccessible across all repository URLs)
+Early stop triggered: yes (key deltas confirmed from guidelines and 1 article; theory paper article confirmed abstract format and voice; p-value delta unverifiable from theory paper but unambiguously stated in guidelines)
+Deltas found: 2 substantive (statistical reporting norms: exact p-values required, asterisks prohibited, effect size mandatory; dual abstract: mandatory research + managerial summary each ≤125 words in distinct registers)
+FIELD_SKILL overrides: (1) Exact p-values + standard errors required, asterisks prohibited — overrides FIELD_SKILL's "varies by journal"; (2) Mandatory dual abstract (research + managerial, each ≤125 words) — overrides FIELD_SKILL's description of managerial implications as an in-paper subsection; (3) Effect size interpretation explicitly required as named policy (vs. "expected" in FIELD_SKILL)
