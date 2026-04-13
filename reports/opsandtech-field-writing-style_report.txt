@@ -1,0 +1,7 @@
+Field: OPS&TECH
+Journals consulted: 3
+Articles consulted: 9 (3 full text from IJOPM; 4 abstract/metadata from JSCM; 2 abstract/metadata from POM)
+Convergence reached: yes
+ABS 4* journals used: none (no ABS 4* journals exist for OPS&TECH)
+ABS 4 journals used: International Journal of Operations and Production Management, Journal of Supply Chain Management, Production and Operations Management
+Dimensions marked uncertain: Discussion/Conclusion structure (separate vs. merged vs. combined), level of analytical/mathematical formalism (varies widely by outlet and paper type), method type (qualitative vs. quantitative vs. experimental vs. analytical modelling)

@@ -1,0 +1,8 @@
+Journal: Transportation Research, Part D: Transport and Environment
+Slug: transportation-research-d
+ABS: 3
+Field: SECTOR
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 3 (Abstract length, Highlights required/constrained, Environmental/policy framing)
+FIELD_SKILL overrides: Abstract 150-word hard cap (FIELD_SKILL defers to journal level); Highlights elevated from optional to required with hard character limits

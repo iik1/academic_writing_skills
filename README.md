@@ -2,7 +2,7 @@
 
 A library of **Claude Code skills** encoding journal-specific and field-level academic writing conventions for economics, finance, strategy, and related disciplines. Each skill captures what distinguishes a specific journal's style from its field baseline — structure, length, citation format, hedging norms, statistical reporting, and more — derived from author guidelines and published papers.
 
-**80 skills total (growing):** 5 field baselines + 75 journal-specific skills across 8 fields (ECON, FINANCE, STRAT, ACCOUNT, OPS&TECH, OR&MANSCI, SECTOR, SOC SCI).
+**80 skills so far (growing):** 5 field baselines + 75 journal-specific skills. The dispatch script covers **197 journals across 15 fields** drawn from the ABS 2024 Academic Journal Guide and NHH's bonus list.
 
 ---
 
@@ -51,19 +51,47 @@ Annals of Tourism Research, Energy Journal, Journal of Service Research, Journal
 
 ### Accounting (`skills/accounting/`) — *coming soon*
 
-Planned: Accounting Review, Accounting Organizations and Society, Journal of Accounting and Economics, Journal of Accounting Research, Contemporary Accounting Research, Review of Accounting Studies, and more.
+Planned: Accounting Review, Accounting Organizations and Society, Journal of Accounting and Economics, Journal of Accounting Research, Contemporary Accounting Research, Review of Accounting Studies, and more. (23 journals)
 
 ### Operations & Technology (`skills/ops-tech/`) — *coming soon*
 
-Planned: IJOPM, Journal of Supply Chain Management, Production and Operations Management, and more.
+Planned: IJOPM, Journal of Operations Management, Journal of Supply Chain Management, Production and Operations Management, and more. (13 journals)
 
 ### Operations Research & Management Science (`skills/or-mansci/`) — *coming soon*
 
-Planned: Management Science, Operations Research, EJOR, Mathematical Programming, and more.
+Planned: Management Science, Operations Research, EJOR, Mathematical Programming, and more. (16 journals)
 
 ### Social Sciences (`skills/soc-sci/`) — *coming soon*
 
-Planned: International Organization, Journal of Politics, Social Science and Medicine, Sociology, and more.
+Planned: American Journal of Political Science, American Political Science Review, American Journal of Sociology, American Sociological Review, Annals of Statistics, Psychological Science, and more. (36 journals)
+
+### General Management (`skills/mgmt/`) — *coming soon*
+
+Planned: Academy of Management Annals/Journal/Review, Administrative Science Quarterly, Journal of Management, Organization Science, Research Policy, and more. (8 journals)
+
+### Marketing (`skills/marketing/`) — *coming soon*
+
+Planned: Journal of Consumer Research, Journal of Marketing, Journal of Marketing Research, Marketing Science, and more. (6 journals)
+
+### Information Systems (`skills/information-systems/`) — *coming soon*
+
+Planned: Information Systems Research, JAIS, MIS Quarterly. (3 journals)
+
+### Entrepreneurship (`skills/entrepreneurship/`) — *coming soon*
+
+Planned: Entrepreneurship Theory and Practice, Journal of Business Venturing. (2 journals)
+
+### Human Resource Management (`skills/hrm/`) — *coming soon*
+
+Planned: Journal of Applied Psychology, Personnel Psychology, Human Resource Management Journal. (3 journals)
+
+### International Business (`skills/international-business/`) — *coming soon*
+
+Planned: Journal of International Business Studies. (1 journal)
+
+### Non-ABS / NHH Bonus (`skills/non-abs/`) — *coming soon*
+
+Planned: Nature, Science, Applied Linguistics, Modern Language Journal. (4 journals)
 
 ---
 
@@ -141,15 +169,22 @@ Claude will load the matching skill and apply its conventions. For journal submi
 
 ```
 skills/
-  fields/       Field-level writing baselines (5 skills: ECON, FINANCE, ACCOUNT, STRAT, SECTOR)
-  economics/    ECON journal skills (37 skills)
-  finance/      FINANCE journal skills (26 skills)
-  strategy/     STRAT journal skills (5 skills)
-  sector/       SECTOR journal skills (7 skills: tourism, transport, energy)
-  accounting/   ACCOUNT journal skills (coming soon)
-  ops-tech/     OPS&TECH journal skills (coming soon)
-  or-mansci/    OR&MANSCI journal skills (coming soon)
-  soc-sci/      SOC SCI journal skills (coming soon)
+  fields/              Field-level writing baselines (5 skills)
+  economics/           ECON — 38 journals
+  finance/             FINANCE — 26 journals
+  strategy/            STRAT — 5 journals
+  sector/              SECTOR — 13 journals (tourism, transport, energy, hospitality)
+  accounting/          ACCOUNT — 23 journals          (coming soon)
+  ops-tech/            OPS&TECH — 13 journals         (coming soon)
+  or-mansci/           OR&MANSCI — 16 journals        (coming soon)
+  soc-sci/             SOC SCI — 36 journals          (coming soon)
+  mgmt/                MGMT — 8 journals              (coming soon)
+  marketing/           MKT — 6 journals               (coming soon)
+  information-systems/ IS — 3 journals                (coming soon)
+  entrepreneurship/    ENTRE — 2 journals             (coming soon)
+  hrm/                 HRM — 3 journals               (coming soon)
+  international-business/ IB — 1 journal             (coming soon)
+  non-abs/             NON-ABS (NHH bonus) — 4 journals (coming soon)
 reports/        QA delta reports — records what was verified against
                 author guidelines and published articles for each skill
 tools/

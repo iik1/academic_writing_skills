@@ -1,0 +1,8 @@
+Journal: Food Policy
+Slug: food-policy
+ABS: 3
+Field: SECTOR
+Articles fetched: 3
+Early stop triggered: no
+Deltas found: 4 (citation style, structural deviation — mandatory Policy Implications section, highlights required not optional, accessibility register requirement)
+FIELD_SKILL overrides: Citation style (numbered [1][2] overrides APA author-year); Policy Implications as mandatory standalone section overrides field norm of integrated implications

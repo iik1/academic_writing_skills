@@ -1,0 +1,8 @@
+Journal: Journal of Supply Chain Management
+Slug: journal-supply-chain-management
+ABS: 4
+Field: OPS&TECH
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 2 (abstract voice [third-person required], abstract content structure [three mandatory elements])
+FIELD_SKILL overrides: Abstract voice — FIELD_SKILL specifies first-person "we" as standard authorial voice; JSCM explicitly requires third-person in the abstract only

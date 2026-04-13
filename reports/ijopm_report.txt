@@ -1,0 +1,8 @@
+Journal: International Journal of Operations and Production Management
+Slug: ijopm
+ABS: 4
+Field: OPS&TECH
+Articles fetched: 3 (1 editorial used for guideline extraction; 2 empirical research articles for spot-check)
+Early stop triggered: no (2 empirical articles checked; editorial also used for guideline data)
+Deltas found: 7 (Abstract format, Citation style/Harvard, Keywords cap, Statistical reporting convention, Discussion/Conclusions sub-section structure, Impact Pathways article type, Explicit prohibitions on math modelling and atheoretical reviews)
+FIELD_SKILL overrides: Structured abstract with 4–7 sub-headings max 250 words (FIELD_SKILL silent on abstract format); Harvard citation style explicitly required (FIELD_SKILL says "APA-adjacent"); purely mathematical modelling explicitly out of scope (FIELD_SKILL treats analytical modelling papers as a valid type); literature reviews without theoretical advancement desk-rejected (FIELD_SKILL does not restrict this type)

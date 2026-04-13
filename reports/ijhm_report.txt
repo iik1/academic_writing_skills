@@ -1,0 +1,8 @@
+Journal: International Journal of Hospitality Management
+Slug: ijhm
+ABS: 3
+Field: SECTOR
+Articles fetched: 3
+Early stop triggered: no
+Deltas found: 2 (citation format — numbered [1][2] not APA author-year; article types — only full articles and Research Notes accepted, no commentaries/viewpoints)
+FIELD_SKILL overrides: 9,000-word all-in limit (tables, figures, and references included in count); 2,500-word all-in limit for Research Notes; numbered citation format overrides APA field norm

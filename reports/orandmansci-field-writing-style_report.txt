@@ -1,0 +1,7 @@
+Field: OR&MANSCI
+Journals consulted: 4
+Articles consulted: 9
+Convergence reached: yes
+ABS 4* journals used: Management Science, Operations Research
+ABS 4 journals used: Mathematical Programming, European Journal of Operational Research
+Dimensions marked uncertain: Discussion vs Conclusion section separation (practice varies by paper length and subgenre)

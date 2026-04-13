@@ -1,0 +1,8 @@
+Journal: Journal of Sustainable Tourism
+Slug: journal-sustainable-tourism
+ABS: 3
+Field: SECTOR
+Articles fetched: 2 (1 full-text via Griffith repository PDF; 1 abstract + metadata only)
+Early stop triggered: no
+Deltas found: 2 (Normative and Advocacy Framing [RELAXATION/PRACTICE ONLY]; Open Science Requirements [GUIDELINE ONLY])
+FIELD_SKILL overrides: none confirmed (author guidelines page inaccessible; all hard constraints consistent with or supplementary to FIELD_SKILL)
