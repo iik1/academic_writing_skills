@@ -2,7 +2,7 @@
 
 A library of **Claude Code skills** encoding journal-specific and field-level academic writing conventions for economics, finance, strategy, and related disciplines. Each skill captures what distinguishes a specific journal's style from its field baseline — structure, length, citation format, hedging norms, statistical reporting, and more — derived from author guidelines and published papers.
 
-**80 skills total:** 5 field baselines + 75 journal-specific skills across 4 disciplines.
+**80 skills total (growing):** 5 field baselines + 75 journal-specific skills across 8 fields (ECON, FINANCE, STRAT, ACCOUNT, OPS&TECH, OR&MANSCI, SECTOR, SOC SCI).
 
 ---
 
@@ -45,9 +45,25 @@ Journal of Finance, Review of Financial Studies, JFQA, Annual Review of Financia
 
 Global Strategy Journal, Long Range Planning, Strategic Management Journal, Strategic Organization, Strategy Science
 
-### Interdisciplinary (`skills/interdisciplinary/`) — 9 journals
+### Sector / Tourism & Transport (`skills/sector/`) — 7 skills
 
-Annals of Tourism Research, Ecological Economics, Energy Journal, Journal of Environmental Economics and Management (JEEM), Journal of Service Research, Journal of Travel Research, Tourism Management, Transportation Research Part B, Transportation Research Part E
+Annals of Tourism Research, Energy Journal, Journal of Service Research, Journal of Travel Research, Tourism Management, Transportation Research Part B, Transportation Research Part E
+
+### Accounting (`skills/accounting/`) — *coming soon*
+
+Planned: Accounting Review, Accounting Organizations and Society, Journal of Accounting and Economics, Journal of Accounting Research, Contemporary Accounting Research, Review of Accounting Studies, and more.
+
+### Operations & Technology (`skills/ops-tech/`) — *coming soon*
+
+Planned: IJOPM, Journal of Supply Chain Management, Production and Operations Management, and more.
+
+### Operations Research & Management Science (`skills/or-mansci/`) — *coming soon*
+
+Planned: Management Science, Operations Research, EJOR, Mathematical Programming, and more.
+
+### Social Sciences (`skills/soc-sci/`) — *coming soon*
+
+Planned: International Organization, Journal of Politics, Social Science and Medicine, Sociology, and more.
 
 ---
 
@@ -125,17 +141,21 @@ Claude will load the matching skill and apply its conventions. For journal submi
 
 ```
 skills/
-  fields/           Field-level writing baselines (5 skills)
-  economics/        Economics journal skills (35 skills)
-  finance/          Finance journal skills (26 skills)
-  strategy/         Strategy journal skills (5 skills)
-  interdisciplinary/ Cross-disciplinary journal skills (9 skills)
-reports/            QA delta reports — records what was verified against
-                    author guidelines and published articles for each skill
+  fields/       Field-level writing baselines (5 skills: ECON, FINANCE, ACCOUNT, STRAT, SECTOR)
+  economics/    ECON journal skills (37 skills)
+  finance/      FINANCE journal skills (26 skills)
+  strategy/     STRAT journal skills (5 skills)
+  sector/       SECTOR journal skills (7 skills: tourism, transport, energy)
+  accounting/   ACCOUNT journal skills (coming soon)
+  ops-tech/     OPS&TECH journal skills (coming soon)
+  or-mansci/    OR&MANSCI journal skills (coming soon)
+  soc-sci/      SOC SCI journal skills (coming soon)
+reports/        QA delta reports — records what was verified against
+                author guidelines and published articles for each skill
 tools/
-  dispatch_journal_agents.py    Batch skill generation via Claude API
-  journal_agent_prompt.txt      Prompt template for journal skill generation
-  field_skill_generator_prompt.txt  Prompt template for field skill generation
+  dispatch_journal_agents.py       Batch skill generation via Claude API
+  journal_agent_prompt.txt         Prompt template for journal skill generation
+  field_skill_generator_prompt.txt Prompt template for field skill generation
 ```
 
 ---
