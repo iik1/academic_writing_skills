@@ -18,7 +18,7 @@ description: >
 - **Scope:** Empirical, applied, and methodological forecasting research spanning economic, financial, energy, supply-chain, and demographic forecasting; machine learning and statistical approaches to prediction; decision-making under forecast uncertainty. The journal bridges theory and real-world forecasting practice.
 - **Guidelines URL:** https://www.sciencedirect.com/journal/international-journal-of-forecasting/publish/guide-for-authors
 - **Field baseline:** orandmansci-field-writing-style
-- **Articles spot-checked:** 1 full-text (Damato, Azzimonti & Corani 2025, arXiv:2502.19086, published in IJF special issue "ML/AI-Driven Forecasting in the Supply Chain")
+- **Articles spot-checked:** 2 (Damato, Azzimonti & Corani 2025, arXiv:2503.19086, published IJF; Cornell, Dinh & Pourmousavi 2024, arXiv:2311.07289, published IJF)
 
 ---
 
@@ -27,7 +27,7 @@ description: >
 > These override FIELD_SKILL where they conflict.
 
 ### Structure
-Double-blind review requires the main manuscript to contain no author-identifying information; a separate title page carries author details. Beyond this, no prescribed section order is mandated — structure follows disciplinary and paper-type conventions. In practice (Article 1): Introduction → standalone Literature Review → Model/Methods → Experiments (with Discussion as a subsection) → Conclusions → CRediT statement → Competing Interest declaration → Acknowledgments → References → Appendices. [ENFORCED for anonymization; otherwise PRACTICE ONLY for section order]
+Double-blind review requires the main manuscript to contain no author-identifying information; a separate title page carries author details. Beyond this, no prescribed section order is mandated — structure follows disciplinary and paper-type conventions. [ENFORCED for anonymization; section order PRACTICE ONLY]
 
 ### Length
 No explicit word or page limits stated in guidelines.
@@ -42,7 +42,7 @@ Elsevier author-year (Harvard) style. In-text: parenthetical "(Author, Year)" or
 Numbered sections and decimal subsections (1, 2, 3, 3.1, 3.2, 3.2.1 …). [ENFORCED]
 
 ### Tables and Figures
-Follows FIELD_SKILL norm. Color figure option available; authors must indicate if color is required in print.
+Follows FIELD_SKILL norm. Color figure option available; authors must indicate if color is required in print. Table titles, descriptions, and footnotes are required. [ENFORCED]
 
 ### Explicit Prohibitions
 - Manuscripts previously published or simultaneously under review elsewhere are prohibited.
@@ -58,9 +58,14 @@ Follows FIELD_SKILL norm. Color figure option available; authors must indicate i
 > Only dimensions where this journal deviates from the OR&MANSCI field baseline.
 
 ### Introduction Structure — Contributions and Roadmap
-**Field norm (ABS 4*/4):** Contributions stated as an explicit enumerated list (bullet points or numbered claims), each asserting a specific, verifiable result; Introduction closes with a brief section roadmap.
+**Field norm (ABS 4*/4):** Contributions stated as an explicit enumerated list, each asserting a specific verifiable result; Introduction closes with a brief section roadmap.
 
-**This journal (ABS 3):** In the article observed, contributions are woven into narrative introduction prose — the novel models are proposed and their advantages argued in running text, without a formal bulleted or numbered contributions list. No explicit section roadmap paragraph appears at the end of the Introduction; instead, individual sections are referenced inline (e.g., "as described in Sec. 3.2"). [RELAXATION — ABS 3 permitting a less formal contribution structure than ABS 4*/4 norm]
+**This journal (ABS 3):** Contributions are woven into narrative introduction prose — novel models or methods are proposed and their advantages argued in running text, without a formal bulleted or numbered contributions list. No explicit section roadmap paragraph appears at the end of the Introduction; individual sections are referenced inline where needed. [RELAXATION — ABS 3 permitting a less formal contribution structure than ABS 4*/4 norm]
+
+### Structural Deviations — Standalone Data Section
+**Field norm:** No standard "Data" section; empirical details are integrated within the Methods section.
+
+**This journal:** Empirical papers commonly place a standalone "Data" section (typically Section 2) between the Introduction and the methodology section. This section covers dataset description, variable definitions, and data characteristics (e.g., price volatility patterns). It is treated as a primary section with its own subsections, not a subsection of Methods. [PRACTICE ONLY]
 
 ### Reproducibility and Code Availability
 **Field norm:** Robustness evidence is expected; no specific code-sharing norm at field level.
@@ -86,7 +91,6 @@ The following sections are required by Elsevier and do not appear in FIELD_SKILL
 - Active voice: FIELD DEFAULT
 - Register and formality: FIELD DEFAULT
 - Abstract content: FIELD DEFAULT (problem, approach, main finding)
-- Literature review placement: FIELD DEFAULT (standalone section immediately after Introduction is common)
 - Discussion placement: FIELD DEFAULT (integrated as subsection within Results/Experiments, not standalone)
 - Citation density by section: FIELD DEFAULT
 - Statistical reporting: FIELD DEFAULT (tables as primary vehicle for quantitative comparisons; prose interprets key contrasts)
@@ -114,4 +118,5 @@ The following sections are required by Elsevier and do not appear in FIELD_SKILL
 |--------|------|--------|
 | https://www.sciencedirect.com/journal/international-journal-of-forecasting/publish/guide-for-authors | Guidelines | Direct fetch (partial; full guidelines behind JS) |
 | https://www.sciencedirect.com/journal/international-journal-of-forecasting | Journal homepage | Direct fetch |
-| Damato, Azzimonti & Corani (2025), "Forecasting intermittent time series with Gaussian Processes and Tweedie likelihood", arXiv:2502.19086v5, published IJF | Full-text PDF | arXiv open access |
+| Cornell, Dinh & Pourmousavi (2024), "A probabilistic forecast methodology for volatile electricity prices in the Australian National Electricity Market", arXiv:2311.07289, published IJF | Full-text HTML | arXiv open access |
+| Damato, Azzimonti & Corani (2025), "Forecasting intermittent time series with Gaussian Processes and Tweedie likelihood", arXiv:2503.19086, published IJF | Abstract + metadata | arXiv open access |

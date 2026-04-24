@@ -38,9 +38,9 @@ You can use either layer alone. For the best result when targeting a submission,
 
 ## Journal Coverage by Field
 
-### Economics (`skills/economics/`) -- 38 journals
+### Economics (`skills/economics/`) -- 41 journals
 
-AEJ: Applied Economics, AEJ: Economic Policy, AEJ: Macroeconomics, AEJ: Microeconomics, American Economic Review, Cambridge Journal of Economics, Ecological Economics, Econometrica, Economic Journal, Economic Theory, European Economic Review, Experimental Economics, Games and Economic Behavior, Health Economics, JEBO, JEEM, Journal of Development Economics, Journal of Econometrics, Journal of Economic Literature, Journal of Economic Perspectives, Journal of Economic Theory, Journal of European Economic Association, Journal of Health Economics, Journal of Human Resources, Journal of International Economics, Journal of Labor Economics, Journal of Law and Economics, Journal of Monetary Economics, Journal of Political Economy, Journal of Public Economics, Journal of Urban Economics, Oxford Bulletin of Economics and Statistics, Quarterly Journal of Economics, RAND Journal of Economics, Review of Economic Dynamics, Review of Economic Studies, Review of Economics and Statistics, Scandinavian Journal of Economics
+AEJ: Applied Economics, AEJ: Economic Policy, AEJ: Macroeconomics, AEJ: Microeconomics, American Economic Review, Cambridge Journal of Economics, Ecological Economics, Econometrica, Economic Journal, Economic Theory, European Economic Review, Experimental Economics, Games and Economic Behavior, Health Economics, JEBO, JEEM, Journal of Development Economics, Journal of Econometrics, Journal of Economic Literature, Journal of Economic Perspectives, Journal of Economic Theory, Journal of European Economic Association, Journal of Health Economics, Journal of Human Resources, Journal of International Economics, Journal of Labor Economics, Journal of Law and Economics, Journal of Monetary Economics, Journal of Political Economy, Journal of Public Economics, Journal of Urban Economics, Oxford Bulletin of Economics and Statistics, Quarterly Journal of Economics, RAND Journal of Economics, Review of Economic Dynamics, Review of Economic Studies, Review of Economics and Statistics, Scandinavian Journal of Economics, Energy Economics, Journal of Environmental Management, Journal of Productivity Analysis
 
 ### Finance (`skills/finance/`) -- 26 journals
 
@@ -49,8 +49,6 @@ Annual Review of Financial Economics, Corporate Governance: An International Rev
 ### Accounting (`skills/accounting/`) -- 23 journals
 
 AAAJ, Abacus, Accounting and Business Research, Accounting Forum, Accounting Horizons, Accounting Organizations and Society, Accounting Review, Auditing: A Journal of Practice and Theory, Behavioral Research in Accounting, British Accounting Review, Contemporary Accounting Research, Critical Perspectives on Accounting, European Accounting Review, Financial Accountability and Management, International Journal of Accounting, Journal of Accounting and Economics, Journal of Accounting and Public Policy, Journal of Accounting Research, Journal of American Taxation Association, Journal of Business Finance and Accounting, Journal of Financial Reporting, Management Accounting Research, Review of Accounting Studies
-
-Note: a probable duplicate (`auditing_SKILL.md` vs `auditing-journal-practice-theory_SKILL.md`) remains unresolved. See `CLEANUP_CHECKLIST.md`.
 
 ### Strategy (`skills/strategy/`) -- 5 journals
 
@@ -72,13 +70,9 @@ Computers in Industry, IEEE Transactions on Engineering Management, IJOPM, IJPE,
 
 Annals of Operations Research, Computers and Operations Research, Decision Sciences, EJOR, INFORMS Journal on Computing, International Journal of Forecasting, Journal of the Operational Research Society, Management Science, Mathematical Programming, Mathematics of Operations Research, Naval Research Logistics, Omega, Operations Research, Reliability Engineering and System Safety, SIAM Journal on Optimization, Transportation Science
 
-Note: a duplicate (`international-journal-forecasting` and `international-journal-of-forecasting`) remains unresolved. See `CLEANUP_CHECKLIST.md`.
-
 ### Social Sciences (`skills/soc-sci/`) -- 36 journals
 
 American Journal of Political Science, American Journal of Sociology, American Political Science Review, American Sociological Review, Annals of Statistics, Annual Review of Sociology, Antipode, British Journal of Sociology, Business Strategy and the Environment, Development and Change, Economy and Society, Environment and Planning D, Environmental Science and Technology, European Sociological Review, Industrial and Corporate Change, International Organization, International Studies Quarterly, Journal of Development Studies, Journal of European Social Policy, Journal of Politics, Journal of Social Policy, New Political Economy, Politics and Society, Progress in Human Geography, Psychological Science, Public Administration Review, Review of International Political Economy, Risk Analysis, Social Forces, Social Science and Medicine, Social Science Research, Socio-Economic Review, Sociological Review, Sociology, Sociology of Health and Illness, World Development
-
-Note: two duplicate pairs remain unresolved. See `CLEANUP_CHECKLIST.md`.
 
 ### Sector Journals (`skills/sector/`) -- 13 journals
 
@@ -105,18 +99,6 @@ Journal of International Business Studies
 Applied Linguistics, Modern Language Journal, Nature, Science
 
 ---
-
-## Standalone Special Skills
-
-Five journals have their own top-level directories rather than sitting under a field folder. These were created with additional depth (full guidelines analysis plus multi-article review) and predate the batch generation system.
-
-| Directory | Journal | Note |
-|---|---|---|
-| `skills/energy-economics/` | Energy Economics | Standalone only |
-| `skills/ijpe/` | International Journal of Production Economics | Overlaps with `skills/ops-tech/ijpe_SKILL.md` |
-| `skills/jeem/` | Journal of Environmental Economics and Management | More detailed than `skills/economics/jeem_SKILL.md` |
-| `skills/journal-environmental-management/` | Journal of Environmental Management | Standalone only |
-| `skills/journal-productivity-analysis/` | Journal of Productivity Analysis | Standalone only |
 
 ---
 
@@ -173,11 +155,7 @@ for f in skills/**/*_SKILL.md; do
   cp "$f" ~/.claude/skills/"$(basename "$f" _SKILL.md).md"
 done
 
-# Copy standalone special skills manually
-cp skills/energy-economics/SKILL.md ~/.claude/skills/energy-economics.md
-cp skills/jeem/SKILL.md ~/.claude/skills/jeem-detailed.md
-cp skills/journal-environmental-management/SKILL.md ~/.claude/skills/journal-environmental-management.md
-cp skills/journal-productivity-analysis/SKILL.md ~/.claude/skills/journal-productivity-analysis.md
+# All skills are now in field subdirectories -- no separate step needed
 ```
 
 ### Option B: Project-level (available in one project only)
