@@ -1,0 +1,8 @@
+Journal: American Journal of Political Science
+Slug: american-journal-political-science
+ABS: 4*
+Field: SOC SCI
+Articles fetched: 1
+Early stop triggered: no
+Deltas found: 3 (Structural Deviations, Replication Materials, Statistical Reporting)
+FIELD_SKILL overrides: 10,000-word limit with defined inclusions/exclusions; 150-word unstructured abstract with five required content elements; full first/last names in reference list; third-person self-citation requirement; mandatory AJPS Dataverse deposit; p ≤ 0.05 significance threshold codified in guidelines

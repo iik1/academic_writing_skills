@@ -1,0 +1,8 @@
+Journal: Journal of Marketing
+Slug: journal-marketing
+ABS: 4*
+Field: MKT
+Articles fetched: 0
+Early stop triggered: yes (journal is part of FIELD_SKILL baseline; full-text access blocked by paywalls)
+Deltas found: 2 (statistical reporting: actual p-values required vs asterisks; abstract voice: third person required)
+FIELD_SKILL overrides: 50-page hard limit, 200-word abstract limit, actual p-values (not asterisks), third-person abstract, no "Introduction" heading, max 3 heading levels, footnote limits (≤10, ≤40 words each), inclusive language standards, full first names in references

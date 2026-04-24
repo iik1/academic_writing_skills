@@ -1,0 +1,8 @@
+Journal: Journal of Management
+Slug: journal-management
+ABS: 4*
+Field: MGMT
+Articles fetched: 0
+Early stop triggered: yes (authentication barriers prevented article access across all attempted sources: EZProxy, direct SAGE URLs, ResearchGate, SSRN, Studocu, author pages)
+Deltas found: 5 (50-page hard limit, 250-word abstract limit, section ordering, 6-author citation threshold, AI disclosure requirement)
+FIELD_SKILL overrides: 3 hard overrides (section order specifies footnote placement, 6-author et al. threshold vs 3-author APA norm, 250-word abstract hard cap vs 150-250 range)

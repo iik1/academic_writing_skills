@@ -1,0 +1,8 @@
+Journal: Socio-Economic Review
+Slug: socio-economic-review
+ABS: 4
+Field: SOC SCI
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 4 (footnote/endnote prohibition, dual keyword requirement with controlled vocabulary, binding minimum word count, numbered heading convention)
+FIELD_SKILL overrides: Footnotes/endnotes prohibited (FIELD_SKILL silent on this); 6,000–10,000 word range with floor binding (FIELD_SKILL does not specify limits); abstract max 150 words (FIELD_SKILL does not specify limits); SER keyword list + JEL codes required (FIELD_SKILL does not specify keyword requirements)

@@ -1,0 +1,8 @@
+Journal: Journal of Business Logistics
+Slug: journal-business-logistics
+ABS: 3
+Field: OPS&TECH
+Articles fetched: 1 (Patrucco et al. 2025, full text via Strathclyde repository PDF; citation style independently corroborated by Paperpile citation-style documentation)
+Early stop triggered: no (only 1 full-text article accessible; second article sources blocked by 403 or paywalled)
+Deltas found: 5 (Citation style — Chicago author-date not APA; Abstract — unstructured ≤200 words; Title length — max 25 words; Contribution-to-length ratio editorial emphasis; Empirical-only scope)
+FIELD_SKILL overrides: Citation style (Chicago author-date replaces "APA-adjacent" norm stated in FIELD_SKILL)

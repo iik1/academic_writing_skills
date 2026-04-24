@@ -1,0 +1,8 @@
+Journal: Journal of Accounting and Economics
+Slug: journal-accounting-economics
+ABS: 4*
+Field: ACCOUNT
+Articles fetched: 0 (PDFs blocked at ScienceDirect, EZProxy authentication failed, SSRN returned 403, and author faculty page PDFs either 404 or timed out across ~25 attempts)
+Early stop triggered: no (could not access articles; convergence rule inapplicable)
+Deltas found: 3 (Submission fee USD 750, Scope constraint requiring economic-theoretic motivation, Double-anonymized review)
+FIELD_SKILL overrides: none (all deltas are additive; no FIELD_SKILL norm is contradicted)

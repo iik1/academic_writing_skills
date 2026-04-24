@@ -1,0 +1,8 @@
+Journal: Omega
+Slug: omega
+ABS: 3
+Field: OR&MANSCI
+Articles fetched: 1
+Early stop triggered: no (guideline constraints warranted article confirmation; access barriers prevented fetching a second article)
+Deltas found: 5 (Voice/Register relaxation, Scope/theory restriction, Citation format [numbered], Highlights requirement, Numbered sections)
+FIELD_SKILL overrides: Numbered sequential citations [override author-year conventions of FIELD_SKILL source journals]; 35-page hard limit; Highlights mandatory; Decimal-numbered section headings mandatory; Accessibility-to-practitioners register requirement

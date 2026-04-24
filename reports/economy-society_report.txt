@@ -1,0 +1,8 @@
+Journal: Economy and Society
+Slug: economy-society
+ABS: 3
+Field: SOC SCI
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 3 (methodological scope/RELAXATION, numbered endnotes/PRACTICE ONLY, non-academic source citations/PRACTICE ONLY)
+FIELD_SKILL overrides: none confirmed (guidelines inaccessible; all hard constraints inferred from article practice)

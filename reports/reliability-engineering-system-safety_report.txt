@@ -1,0 +1,8 @@
+Journal: Reliability Engineering and System Safety
+Slug: reliability-engineering-system-safety
+ABS: 3
+Field: OR&MANSCI
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 4 (citation style, highlights requirement, fuzzy sets prohibition, industrial case study as structural pattern)
+FIELD_SKILL overrides: Highlights (required, not in baseline); Fuzzy sets prohibition (explicit scope constraint narrowing the OR&MANSCI baseline)

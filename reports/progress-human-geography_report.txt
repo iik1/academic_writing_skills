@@ -1,0 +1,8 @@
+Journal: Progress in Human Geography
+Slug: progress-human-geography
+ABS: 3
+Field: SOC SCI
+Articles fetched: 1 (partial; direct full-text access blocked by 403 on Sage; one article accessed via Academia.edu)
+Early stop triggered: no
+Deltas found: 4 (structural deviation from IMRaD, statistical reporting absent, citation density pattern, voice/register)
+FIELD_SKILL overrides: Scope prohibition eliminates Data/Methods and Results sections; word limit 4,000–8,000 (endnotes included, bibliography excluded); abstract capped at 100 words; minimum 5 keywords required after abstract; Sage Harvard citation with colon-page format

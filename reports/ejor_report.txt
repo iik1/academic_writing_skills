@@ -1,0 +1,8 @@
+Journal: European Journal of Operational Research
+Slug: ejor
+ABS: 4
+Field: OR&MANSCI
+Articles fetched: 1 (second article inaccessible; convergence check passed after 1 article confirmed multiple deltas)
+Early stop triggered: yes (sufficient deltas found after 1 article; second article full-text unavailable via open access)
+Deltas found: 5 (Citation style — Harvard author-year required; Short Communications scope — corrections only; Subject-area classification required at submission; Highlights file mandatory; Required administrative declarations)
+FIELD_SKILL overrides: Harvard author-year citation style mandated (FIELD_SKILL does not specify format); Highlights mandatory submission file (no FIELD_SKILL parallel); Short Communications narrowly scoped to error corrections (not short research notes)

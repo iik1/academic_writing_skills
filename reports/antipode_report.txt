@@ -1,0 +1,8 @@
+Journal: Antipode
+Slug: antipode
+ABS: 3
+Field: SOC SCI
+Articles fetched: 2 (full-text inaccessible; abstracts and repository metadata confirmed via web search)
+Early stop triggered: no
+Deltas found: 5 (Voice/Register, Citational Reflexivity, Intersectionality/Political Framing, Structural Deviations, Cover Letter + Accessibility norms)
+FIELD_SKILL overrides: 9,500-word limit inclusive of endnotes and references (FIELD_SKILL does not specify word limits); endnote-only-for-asides rule (FIELD_SKILL does not specify endnote vs. reference separation); politically-engaged register as mandatory rather than permitted; citational reflexivity as a formal requirement; intersectionality framing as an analytical requirement

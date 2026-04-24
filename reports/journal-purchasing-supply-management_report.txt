@@ -1,0 +1,8 @@
+Journal: Journal of Purchasing and Supply Management
+Slug: journal-purchasing-supply-management
+ABS: 3
+Field: OPS&TECH
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 2 (scope/paper-type restriction — no pure modelling papers; Highlights section required)
+FIELD_SKILL overrides: 1 (analytical modelling papers accepted in OPS&TECH field but explicitly prohibited here without empirical grounding)

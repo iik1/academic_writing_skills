@@ -1,0 +1,10 @@
+Journal: MIS Quarterly
+Slug: mis-quarterly
+ABS: 4*
+Field: IS
+Articles fetched: 0
+Early stop triggered: yes (access blocked to all article sources)
+Deltas found: Cannot determine (no IS FIELD_SKILL baseline exists)
+FIELD_SKILL overrides: N/A (no field baseline for comparison)
+Access issues: All direct journal access blocked (403 errors). PDF access via AISel, SSRN, NSF PAR, and author pages unsuccessful. Findings based on secondary source analysis including published blog post analyzing MISQ abstracts, citation style guides, and web search results discussing submission guidelines.
+Notable conventions documented: (1) First section must not be titled "Introduction"; (2) Four-part abstract structure with theory requirement; (3) Strict page limits including all appendices/references; (4) Parenthetical author-date citations; (5) Mandatory theoretical grounding.

@@ -1,0 +1,8 @@
+Journal: Production Planning and Control
+Slug: production-planning-control
+ABS: 3
+Field: OPS&TECH
+Articles fetched: 1
+Early stop triggered: yes (1 article; convergence reached on all observable dimensions)
+Deltas found: 3 (author biographies with photographs; managerial implications placement; industry-applicability review standard)
+FIELD_SKILL overrides: Citation format (T&F Chicago author-date rather than APA-adjacent — no comma in-text, bare year in reference list, first author only inverted, "and" not "&"); Author bios with photos (not addressed in FIELD_SKILL at all)

@@ -1,0 +1,8 @@
+Journal: Naval Research Logistics
+Slug: naval-research-logistics
+ABS: 3
+Field: OR&MANSCI
+Articles fetched: 1
+Early stop triggered: no
+Deltas found: 3 (citation style, appendix handling, abstract length)
+FIELD_SKILL overrides: Appendices must be separate supporting information files — not in main body (overrides FIELD_SKILL norm of near-universal main-body appendices)

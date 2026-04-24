@@ -1,0 +1,8 @@
+Journal: Business Strategy and the Environment
+Slug: business-strategy-environment
+ABS: 3
+Field: SOC SCI
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 7 (abstract format/word limit, keyword pipe format, word limit 8000, citation format Chicago-not-APA, heading numbering convention, voice "this study" relaxation, conflicts of interest mandatory)
+FIELD_SKILL overrides: Abstract capped at 150 words with no citations (overrides general field norm of unstructured abstract without specified word limit); 8,000-word manuscript cap (field baseline does not specify word limits); in-text citation format without comma (field baseline describes APA/paraphrase norms but not specific citation punctuation)

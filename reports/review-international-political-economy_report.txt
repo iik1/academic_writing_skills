@@ -1,0 +1,8 @@
+Journal: Review of International Political Economy
+Slug: review-international-political-economy
+ABS: 3
+Field: SOC SCI
+Articles fetched: 2
+Early stop triggered: no (2 articles checked; confirmed consistent findings, stopped after 2)
+Deltas found: 5 (Citation Style/APA, Keywords required, Numbered Endnotes, Closing Section Label, Section Road-Map in Introduction)
+FIELD_SKILL overrides: none (hard constraints add to FIELD_SKILL but do not conflict with it — word limit 12,000, abstract ≤250 words, keywords required, APA citation format)

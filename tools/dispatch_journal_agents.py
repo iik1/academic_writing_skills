@@ -60,9 +60,10 @@ FIELD_FOLDERS = {
 # ─────────────────────────────────────────────
 
 CLAUDE_PATH   = r"C:\Users\s14454\AppData\Roaming\npm\claude.cmd"
+CLAUDE_MODEL  = "claude-sonnet-4-5"   # standard 200K context — avoids "extra usage" error
 EZPROXY       = "https://nhh.idm.oclc.org/login?url="
 MAX_ARTICLES  = 3          # hard cap per journal agent
-BATCH_SIZE    = 2          # concurrent agents (reduced for lighter quota use)
+BATCH_SIZE    = 4          # concurrent agents
 LAUNCH_DELAY  = 20         # seconds between agent launches within a batch
 BATCH_PAUSE   = 30         # seconds between batches
 AGENT_TIMEOUT = 1800       # seconds per agent (30 min — some journals are slow to scrape)
@@ -535,6 +536,7 @@ def run_agent(name, url, rating, field, slug, prompt, max_retries=MAX_RETRIES):
         try:
             result = subprocess.run(
                 [CLAUDE_PATH, "-p", "-",
+                 "--model", CLAUDE_MODEL,
                  "--allowedTools", "WebFetch,WebSearch,Bash",
                  "--dangerously-skip-permissions"],
                 input=prompt,
@@ -592,7 +594,8 @@ def build_prompt(name, url, rating, field, slug, prompt_template, field_skill_co
 # ─────────────────────────────────────────────
 
 def dispatch(journals, dry_run=False, field_filter=None, tier_filter=None,
-             delay=LAUNCH_DELAY, batch_size=BATCH_SIZE, max_retries=MAX_RETRIES):
+             delay=LAUNCH_DELAY, batch_size=BATCH_SIZE, max_retries=MAX_RETRIES,
+             skip_existing=False):
     """
     Dispatch journal agents in small parallel batches.
     Automatically injects FIELD_SKILL for each field.
@@ -603,6 +606,17 @@ def dispatch(journals, dry_run=False, field_filter=None, tier_filter=None,
         if (field_filter is None or j[3] == field_filter)
         and (tier_filter is None or j[2] == tier_filter)
     ]
+
+    if skip_existing:
+        before = len(filtered)
+        filtered = [
+            j for j in filtered
+            if not (REPO_ROOT / "skills"
+                    / FIELD_FOLDERS.get(j[3], j[3].lower().replace("&", "and").replace(" ", "-"))
+                    / f"{j[4]}_SKILL.md").exists()
+        ]
+        print(f"  [skip-existing] {before - len(filtered)} already done, "
+              f"{len(filtered)} remaining")
 
     prefix = "[DRY RUN] " if dry_run else ""
     print(f"\n{prefix}Dispatching {len(filtered)} journal agents "
@@ -805,6 +819,8 @@ Examples:
     parser.add_argument("--generate-field-skill", type=str, default=None,
                         metavar="FIELD",
                         help="Generate FIELD_SKILL for a field before running journal agents")
+    parser.add_argument("--skip-existing",        action="store_true",
+                        help="Skip journals that already have a SKILL.md on disk")
     args = parser.parse_args()
 
     if args.list:
@@ -876,6 +892,7 @@ Examples:
         dispatch(
             journals,
             dry_run=args.dry_run,
+            skip_existing=args.skip_existing,
             field_filter=args.field,
             tier_filter=args.tier,
             delay=args.delay,

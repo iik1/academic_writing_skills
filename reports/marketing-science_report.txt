@@ -1,0 +1,8 @@
+Journal: Marketing Science
+Slug: marketing-science
+ABS: 4*
+Field: MKT
+Articles fetched: 0
+Early stop triggered: yes (Marketing Science is a defining journal for MKT FIELD_SKILL; most conventions are field baseline)
+Deltas found: 5 (data/code replication policy ENFORCED, Gen AI policy GUIDELINE ONLY, Frontiers article type PRACTICE ONLY, LaTeX template GUIDELINE ONLY, keywords 3-6 ENFORCED)
+FIELD_SKILL overrides: None (all hard constraints align with or tighten FIELD_SKILL norms; no conflicts)

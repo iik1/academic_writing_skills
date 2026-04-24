@@ -1,0 +1,8 @@
+Journal: Decision Sciences
+Slug: decision-sciences
+ABS: 3
+Field: OR&MANSCI
+Articles fetched: 2 (1 full structural access via Academia.edu; 1 abstract-only)
+Early stop triggered: no
+Deltas found: 3 (Scope/audience orientation; Page limit; New submission-type departments)
+FIELD_SKILL overrides: Page limit (40 double-spaced pages, ENFORCED — FIELD_SKILL specifies no cap); Audience orientation (explicit business school faculty framing, ENFORCED — FIELD_SKILL calibrates for OR/MANSCI specialists)

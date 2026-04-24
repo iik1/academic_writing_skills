@@ -1,0 +1,9 @@
+Journal: Personnel Psychology
+Slug: personnel-psychology
+ABS: 4*
+Field: HRM
+Articles fetched: 0
+Early stop triggered: yes (access restrictions prevented article retrieval)
+Deltas found: 4 (abstract word limit, keyword limit, heading prohibition, page limit philosophy)
+FIELD_SKILL overrides: Cannot determine - HRM field baseline not yet generated
+CRITICAL LIMITATION: No articles accessed due to consistent 403 errors across all sources. Skill based solely on author guidelines extracted from web search results. Should be updated when article access becomes available.

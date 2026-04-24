@@ -1,0 +1,8 @@
+Journal: New Political Economy
+Slug: new-political-economy
+ABS: 3
+Field: SOC SCI
+Articles fetched: 3
+Early stop triggered: no (third article confirmed single-author voice delta and footnote practice)
+Deltas found: 3 (Voice/single-author practice; Methodological orientation/quantitative norms inapplicable; Footnote practice)
+FIELD_SKILL overrides: Abstract KEYWORDS field required (not covered in FIELD_SKILL); unnumbered title-case headings enforced; author-year citation confirmed; word limit ~8,000 words (unverified from official page)

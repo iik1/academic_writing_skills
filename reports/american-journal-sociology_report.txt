@@ -1,0 +1,8 @@
+Journal: American Journal of Sociology
+Slug: american-journal-sociology
+ABS: 4*
+Field: SOC SCI
+Articles fetched: 0 (full-text blocked; guidelines sourced via web search extraction)
+Early stop triggered: yes (no article-level deltas possible without full-text access; guidelines provided all actionable findings)
+Deltas found: 6 (Abstract content requirements, Notes style, Heading conventions, Tables placement, Data/code sharing, Alt text)
+FIELD_SKILL overrides: Abstract content requirements (three mandatory elements); Heading prohibitions (no colon subheads, minimum two sub-entries per subdivided section); Tables placement (back of file); Data sharing (mandatory for quantitative work, not merely "increasingly standard"); Alt text (required submission element)

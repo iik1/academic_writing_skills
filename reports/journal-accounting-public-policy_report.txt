@@ -1,0 +1,8 @@
+Journal: Journal of Accounting and Public Policy
+Slug: journal-accounting-public-policy
+ABS: 3
+Field: ACCOUNT
+Articles fetched: 3
+Early stop triggered: no
+Deltas found: 3 (policy implications framing as structural expectation, interdisciplinary citation scope, policy-shock design orientation)
+FIELD_SKILL overrides: Accounting Letters short-article format (~3,000 words, expedited track); Highlights required at submission; Generative AI declaration required (pre-references section); Inclusive language explicitly enforced including prohibition on gender-specific pronouns; $100 submission fee; double-blind anonymization enforced

@@ -1,0 +1,8 @@
+Journal: Critical Perspectives on Accounting
+Slug: critical-perspectives-accounting
+ABS: 3
+Field: ACCOUNT
+Articles fetched: 1 (Alazzeh & Uddin 2025, via University of the West of Scotland repository PDF)
+Early stop triggered: yes (after 1 article; no further deltas expected given convergence on interpretive tradition)
+Deltas found: 4 (Highlights requirement; AI prohibition; exclusively critical/interpretive orientation with RELAXATION of hypothesis-testing norms; direct quotation of theoretical scholars)
+FIELD_SKILL overrides: Highlights (ENFORCED — not in FIELD_SKILL); AI prohibition (ENFORCED — stronger than field norm); citation format comma convention (APA "(Author, Year)" vs. FIELD_SKILL's unspecified "(Author Year)")

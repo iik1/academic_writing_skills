@@ -1,0 +1,8 @@
+Journal: Annals of Operations Research
+Slug: annals-operations-research
+ABS: 3
+Field: OR&MANSCI
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 4 (publication type breadth/RELAXATION, special-issue dominance, abstract word limit, citation format)
+FIELD_SKILL overrides: abstract 150–250 word limit (FIELD_SKILL unspecified); APA v7 author-year citation format (FIELD_SKILL unspecified)

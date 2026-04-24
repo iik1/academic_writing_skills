@@ -1,0 +1,8 @@
+Journal: The International Journal of Accounting
+Slug: international-journal-accounting
+ABS: 3
+Field: ACCOUNT
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 2 (Abstract/Synopsis format, Citation style)
+FIELD_SKILL overrides: (1) Structured Synopsis replaces unstructured abstract — ENFORCED; (2) APA 7th edition citation style mandated — ENFORCED; (3) Tables and figures at end of manuscript (specification of FIELD_SKILL's "after references or at end" — ENFORCED); (4) Blind submission: no identifying information in manuscript file — ENFORCED

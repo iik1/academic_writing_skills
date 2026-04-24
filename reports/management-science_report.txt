@@ -1,0 +1,8 @@
+Journal: Management Science
+Slug: management-science
+ABS: 4*
+Field: OR&MANSCI
+Articles fetched: 1
+Early stop triggered: yes (after 1 article — field norms confirmed, only 2 writing-level deltas found)
+Deltas found: 4 (keywords requirement, abstract word limit, revision page cap, Introduction bold subsection headers; scope framing noted as context delta)
+FIELD_SKILL overrides: none — all hard constraints are additive (keywords, abstract limit, revision page cap, data disclosure) rather than in conflict with FIELD_SKILL norms

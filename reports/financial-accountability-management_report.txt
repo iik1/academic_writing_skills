@@ -1,0 +1,8 @@
+Journal: Financial Accountability and Management
+Slug: financial-accountability-management
+ABS: 3
+Field: ACCOUNT
+Articles fetched: 1 full text (Manes Rossi et al. 2024); 1 metadata-only (Funck 2025)
+Early stop triggered: no
+Deltas found: 5 (scope/phenomena, methodological pluralism [RELAXATION], heading format, word limit, mandatory end-matter statements)
+FIELD_SKILL overrides: Word limit 8,000 words inclusive of references; mandatory Conflicts of Interest and Data Availability Statement sections; scope restricted to public sector/nonprofit only

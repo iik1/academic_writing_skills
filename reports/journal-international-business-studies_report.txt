@@ -1,0 +1,9 @@
+Journal: Journal of International Business Studies
+Slug: journal-international-business-studies
+ABS: 4*
+Field: IB
+Articles fetched: 0
+Early stop triggered: no (access blocked by paywalls)
+Deltas found: Cannot determine (IB field baseline not yet generated)
+FIELD_SKILL overrides: N/A (field baseline not available)
+Access limitations: All Springer article links returned 303 redirects; ResearchGate returned 403 errors; EZProxy requires authentication WebFetch cannot provide; PDFs not readable via WebFetch. Guidelines compiled from AIB conference document quoting JIBS style guide and multiple authoritative web sources.

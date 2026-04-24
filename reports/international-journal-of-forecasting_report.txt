@@ -1,0 +1,8 @@
+Journal: International Journal of Forecasting
+Slug: international-journal-of-forecasting
+ABS: 3
+Field: OR&MANSCI
+Articles fetched: 1 (Damato, Azzimonti & Corani 2025, arXiv:2502.19086v5, published in IJF)
+Early stop triggered: no
+Deltas found: 5 (Introduction contributions/roadmap structure [RELAXATION]; CASCaD reproducibility program [PRACTICE ONLY]; replication studies encouraged [GUIDELINE ONLY]; CRediT statement [ENFORCED]; GenAI declaration [ENFORCED])
+FIELD_SKILL overrides: none (all hard constraints are additive publisher requirements not addressed in FIELD_SKILL, plus one RELAXATION of field norms)

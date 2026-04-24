@@ -1,0 +1,8 @@
+Journal: International Studies Quarterly
+Slug: international-studies-quarterly
+ABS: 4
+Field: SOC SCI
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 6 (multilingual abstract, citation style specified, footnotes-only requirement, data replication/Dataverse deposit, Theory Notes submission type, third-person self-citation rule)
+FIELD_SKILL overrides: Chicago 17th edition author-date citations (style unspecified in baseline); footnotes-only (note format unspecified in baseline); 12,000-word limit including footnotes and bibliography; mandatory editorial replication and Dataverse deposit for quantitative work (stricter than baseline's "increasingly standard" data availability norm)

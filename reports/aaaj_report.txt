@@ -1,0 +1,8 @@
+Journal: Accounting, Auditing & Accountability Journal
+Slug: aaaj
+ABS: 3
+Field: ACCOUNT
+Articles fetched: 2 full-text (Argento et al. 2025; Giordano-Spring et al. 2024) + 1 abstract-level (Nikidehaghani 2024)
+Early stop triggered: no
+Deltas found: 5 (Abstract format/Purpose formula, Voice/register, Statistical reporting, Structural deviations, Other journal-specific patterns)
+FIELD_SKILL overrides: Structured abstract with Emerald labeled headings (Purpose/Design/methodology/approach/Findings/Originality/value, max 250 words); "This paper aims to…" formula in Purpose line; Harvard reference-list format with Emerald Vol./No./pp./doi. punctuation; AI prohibition on content generation

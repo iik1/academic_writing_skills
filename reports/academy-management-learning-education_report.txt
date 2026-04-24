@@ -1,0 +1,8 @@
+Journal: Academy of Management Learning and Education
+Slug: academy-management-learning-education
+ABS: 4
+Field: MGMT
+Articles fetched: 0
+Early stop triggered: yes (no article access achieved)
+Deltas found: 3 (contribution requirements, domain specificity, page limits by type)
+FIELD_SKILL overrides: Page limits (40 pages regular, 35 pages essays vs. typical 35-50 pages); MLE domain requirement (narrows MGMT field scope); theory+practice contribution bar (strengthens standard MGMT contribution expectations)

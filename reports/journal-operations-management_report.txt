@@ -1,0 +1,8 @@
+Journal: Journal of Operations Management
+Slug: journal-operations-management
+ABS: 4
+Field: OPS&TECH
+Articles fetched: 0
+Early stop triggered: yes (article access unavailable)
+Deltas found: 6 (empirical research requirement, table/figure placement, section naming, APA style specification, page limit, plagiarism thresholds)
+FIELD_SKILL overrides: Empirical-only scope (no analytical models), table/figure placement (at point of reference not at end), 40-page limit, specific section naming, explicit APA requirement

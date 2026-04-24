@@ -1,0 +1,8 @@
+Journal: Accounting and Business Research
+Slug: accounting-business-research
+ABS: 3
+Field: ACCOUNT
+Articles fetched: 3 (1 full text, 2 abstracts only; detailed author guidelines page returned 403)
+Early stop triggered: no
+Deltas found: 2 (Citations reference-list format [Chicago author-date vs APA], Register/accessibility relaxation)
+FIELD_SKILL overrides: Scope prohibition (no corporate finance/general management) not present in FIELD_SKILL baseline

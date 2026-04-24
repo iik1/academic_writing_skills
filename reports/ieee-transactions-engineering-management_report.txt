@@ -1,0 +1,8 @@
+Journal: IEEE Transactions on Engineering Management
+Slug: ieee-transactions-engineering-management
+ABS: 3
+Field: OPS&TECH
+Articles fetched: 1
+Early stop triggered: yes (convergence after 1 article — second article PDF unreadable; sufficient deltas established from first article + IEEE-wide guidelines)
+Deltas found: 5 (citation format, citation density/appearance, managerial implications integration [RELAXATION], Index Terms requirement, first-footnote funding rule, section numbering)
+FIELD_SKILL overrides: Citation format — IEEE numbered [N] system replaces author-date (APA-adjacent) throughout manuscript and reference list

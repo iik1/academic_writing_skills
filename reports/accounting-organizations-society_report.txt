@@ -1,0 +1,8 @@
+Journal: Accounting, Organizations and Society
+Slug: accounting-organizations-society
+ABS: 4*
+Field: ACCOUNT
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 3 (Highlights section required, double-anonymous review preparation, methodological breadth framing)
+FIELD_SKILL overrides: Highlights section (ENFORCED — not in FIELD_SKILL); double-anonymous review (ENFORCED — not in FIELD_SKILL); Elsevier Harvard citation comma format (minor specification of field-level author-date norm); inclusive language (ENFORCED — not in FIELD_SKILL)

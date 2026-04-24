@@ -1,0 +1,30 @@
+Journal: Operations Research
+Publisher: INFORMS
+ABS Rating: 4*
+Field: OR&MANSCI
+Baseline: orandmansci-field-writing-style
+Date: 2026-04-13
+
+GUIDELINES ACCESS:
+- pubsonline.informs.org: BLOCKED (Cloudflare 403) — author guidelines not retrieved
+- web.archive.org: BLOCKED by environment
+- EZProxy (NHH): Returned Shibboleth login page, not content
+- Compensatory approach: Training knowledge of INFORMS house style + article evidence
+
+ARTICLES EXAMINED:
+1. Bertsimas, Cory-Wright, Pauphilet (2022), "Mixed-Projection Conic Optimization," OR 70(6), pp. 3321–3344. Full 49-page PDF read via LBS Research Online open-access copy. PRIMARY SOURCE for metadata block evidence.
+2. arXiv:2603.17033 — abstract only (not yet published; confirms citation style).
+3. arXiv:2601.12707 — PDF binary unreadable; limited signal.
+
+DELTAS IDENTIFIED:
+1. Mandatory post-abstract metadata block (Key words / Subject classifications / Area of review) — ENFORCED — confirmed from published article
+2. 3-level decimal section numbering — PRACTICE ONLY — confirmed from published article
+3. Literature review as Introduction subsection — PRACTICE ONLY — confirmed from published article
+4. Brief acknowledgments thanking referees/AE by role — PRACTICE ONLY — confirmed from published article
+5. Author ORCID in affiliations — PRACTICE ONLY — confirmed from published article
+6. E-companion system — GUIDELINE ONLY — from training knowledge; not present in examined article
+
+CONFIDENCE:
+- Metadata block fields: HIGH (directly observed in published article)
+- E-companion: MEDIUM (training knowledge; not contradicted by evidence)
+- All other dimensions default to FIELD_SKILL: HIGH

@@ -1,0 +1,8 @@
+Journal: Research Policy
+Slug: research-policy
+ABS: 4
+Field: MGMT
+Articles fetched: 0
+Early stop triggered: yes (access barriers prevented article retrieval)
+Deltas found: 3 (word limits, highlights requirement, AI disclosure requirement)
+FIELD_SKILL overrides: Word limits (8,000-10,000 vs. 10,000-15,000); Highlights (mandatory, not mentioned in FIELD_SKILL); AI disclosure (contemporary requirement not in FIELD_SKILL baseline)

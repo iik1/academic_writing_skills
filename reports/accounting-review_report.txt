@@ -1,0 +1,8 @@
+Journal: The Accounting Review
+Slug: accounting-review
+ABS: 4*
+Field: ACCOUNT
+Articles fetched: 0 (AAA publications portal blocked all PDF and HTML article requests with 403; guidelines from the AAA Manuscript Preparation Guide are the primary source)
+Early stop triggered: no (article access failed, not convergence)
+Deltas found: 7 (voice/person for single authors, AI disclosure section, 55-page limit, 150-word abstract, citation no-comma format, footnotes textual-only, experimental statistical reporting requirements, heading levels 2–4)
+FIELD_SKILL overrides: Single-author "we" prohibition overrides FIELD_SKILL norm that "we" is used regardless of author count

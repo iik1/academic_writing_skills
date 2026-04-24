@@ -1,0 +1,8 @@
+Journal: Industrial and Corporate Change
+Slug: industrial-corporate-change
+ABS: 3
+Field: SOC SCI
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 3 (abstract word limit, manuscript word limit, economics-adjacent positioning/JEL codes)
+FIELD_SKILL overrides: abstract 80-word ceiling (no equivalent in FIELD_SKILL); 10,000-word manuscript limit (no equivalent in FIELD_SKILL); JEL codes required at submission (not present in FIELD_SKILL)

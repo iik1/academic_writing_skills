@@ -1,0 +1,8 @@
+Journal: Journal of Development Studies
+Slug: journal-development-studies
+ABS: 3
+Field: SOC SCI
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 5 (citation style specificity [APA 7], abstract format with JEL codes, context section convention, merged conclusion pattern, LMIC scope as hard editorial filter)
+FIELD_SKILL overrides: APA 7 citation format (overrides generic author-date description); LMIC scope requirement (journal-specific hard constraint with no FIELD_SKILL parallel)

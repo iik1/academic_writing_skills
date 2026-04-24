@@ -1,0 +1,10 @@
+Journal: Journal of Consumer Psychology
+Slug: journal-consumer-psychology
+ABS: 4
+Field: MKT
+Articles fetched: 0
+Early stop triggered: no (access barriers prevented article retrieval)
+Deltas found: 1 (manuscript types - four types including "Research Reports" and "Research Dialogues" not explicitly detailed in FIELD_SKILL)
+FIELD_SKILL overrides: none (APA citation style confirms FIELD_SKILL; manuscript types extend rather than override)
+Access limitations: Comprehensive - unable to retrieve author guidelines PDF, unable to access any full-text articles through Wiley, ResearchGate, or author pages. Analysis based on partial web search results only.
+Special note: JCP was one of six journals used to derive FIELD_SKILL baseline, so close alignment expected.

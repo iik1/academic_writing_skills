@@ -1,0 +1,8 @@
+Journal: World Development
+Slug: world-development
+ABS: 3
+Field: SOC SCI
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 2 (development-studies framing requirement, mandatory Elsevier post-text declarations)
+FIELD_SKILL overrides: Abstract capped at 250 words (FIELD_SKILL does not specify); keywords 3–6 required (FIELD_SKILL does not specify); five mandatory Elsevier declaration sections (not a field norm)

@@ -1,0 +1,8 @@
+Journal: The Sociological Review
+Slug: sociological-review
+ABS: 3
+Field: SOC SCI
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 2 (evocative/substantive section headings; pure theoretical articles without empirical methods as normalised format)
+FIELD_SKILL overrides: Word limit (8,000 words main essay + 1,000 references); Abstract (unstructured, ~250 words); Citation style (APA author-year, ENFORCED); Statements and Declarations section (ENFORCED); Keywords required; Tables/figures (JPEG/PNG only, uploaded separately)

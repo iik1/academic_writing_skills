@@ -1,0 +1,136 @@
+## COMPLETION REPORT: Entrepreneurship Theory and Practice (ETP)
+
+**Journal**: Entrepreneurship Theory and Practice  
+**ABS Ranking**: 4*  
+**Field**: ENTRE  
+**Date**: 2026-04-24  
+**Status**: ✅ COMPLETE
+
+---
+
+### PHASE 1: HARD CONSTRAINTS ✅
+
+**Source**: 44-page official submission guidelines (Sage Publications)
+
+**Extracted constraints**:
+- Original Articles: 40-page maximum
+- Research Briefs: 20-page maximum
+- Abstract: 100 words (unstructured)
+- Keywords: 2-5 minimum
+- Font: 12-point Times New Roman
+- Spacing: Double-spaced throughout
+- Margins: 1 inch all sides
+- Citations: APA 7th Edition
+- Review: Double-blind (anonymization mandatory)
+- File format: Word preferred, LaTeX accepted
+
+**Confidence**: HIGH (explicit written guidelines)
+
+---
+
+### PHASE 2: ARTICLE SPOT-CHECKING ✅
+
+**Articles analyzed**: 1
+
+**Article 1**: Neff, K. J., Hayman, M. G., Cummings, M. E., & Pidduck, R. J. (2026). Founders' social class origin, risk-taking, and venture performance: A Bourdieusian lens. *Entrepreneurship Theory and Practice*, 50(2), 430-473.
+
+**Observations**:
+1. **Abstract length**: ~150-200 words (EXCEEDS 100-word guideline)
+2. **Structure**: Introduction → Theory → Hypotheses → Study 1 Methods/Results → Study 2 Methods/Results → Discussion → Conclusion → Appendix
+3. **Voice**: Third-person scholarly with inclusive "we"
+4. **Citation density**: Heavy in Introduction/Theory, moderate in Discussion, sparse in Results
+5. **Statistical reporting**: Inline format with coefficients, test statistics, p-values, and bootstrap CIs
+6. **Tables**: Regression tables with B, SE, t, significance stars; correlation matrices with M, SD
+
+**DELTA DETECTED**: Abstract word count guideline appears flexible in practice (100 words stated vs. 150-200 observed).
+
+**Article 2-3 access**: Attempted to access additional 2026 articles ("The Underbelly of Entrepreneurship," others) but encountered paywalls (403 errors). No publicly accessible full-text articles found.
+
+**Decision**: Proceeded with 1-article analysis due to:
+- Access limitations (institutional paywall)
+- Comprehensive guidelines (44 pages)
+- One delta already identified
+- Automated pipeline efficiency requirements
+
+---
+
+### PHASE 3: CLASSIFICATION ✅
+
+**Classification approach**: 
+Given NO FIELD_SKILL baseline for ENTRE, classifications limited to:
+- **ENFORCED**: Explicit in guidelines with clear rejection risk
+- **GUIDELINE ONLY**: Stated in guidelines but observed flexibility
+- **PRACTICE ONLY**: Observed in article but not mandated
+- **FIELD DEFAULT**: Not applicable (no baseline)
+
+**Key classifications**:
+- Page limits: ENFORCED
+- Font/spacing/margins: ENFORCED
+- Anonymization: ENFORCED
+- APA citations: ENFORCED
+- Abstract 100 words: GUIDELINE ONLY (⚠️ observed deviation)
+- IMRaD+Theory structure: PRACTICE ONLY
+- "We" voice: PRACTICE ONLY
+- Citation density patterns: PRACTICE ONLY
+- Statistical reporting format: PRACTICE ONLY
+
+---
+
+### PHASE 4: SKILL.MD GENERATION ✅
+
+**Filename**: Will be saved as `entrepreneurship-theory-practice_SKILL.md`
+
+**Structure**:
+- Baseline limitation warning (no ENTRE_FIELD_SKILL)
+- Manuscript structure requirements
+- Abstract delta documentation
+- Writing voice patterns
+- Statistical reporting conventions
+- Formatting requirements
+- Pre-submission checklist
+- Classification metadata
+
+**Special features**:
+- ⚠️ Delta flag on abstract length guideline
+- Explicit confidence level (MODERATE)
+- Recommendation for future validation
+- Clear demarcation of ENFORCED vs. observed practices
+
+---
+
+### PHASE 5: OUTPUT ✅
+
+**Format**: Skill document delivered between `===SKILL_START===` and `===SKILL_END===` markers (see above).
+
+---
+
+### LIMITATIONS & CAVEATS
+
+1. **No FIELD_SKILL baseline**: Cannot distinguish journal-specific deltas from ENTRE field norms
+2. **Single article analyzed**: Pattern confidence limited; recommend validation with 5-10 additional articles
+3. **Access constraints**: Institutional paywalls prevented analysis of additional 2026 articles
+4. **Abstract delta**: Only one article observed; unclear if systematic or article-specific exception
+
+---
+
+### RECOMMENDATIONS
+
+1. **For immediate use**: Skill document is usable for ETP submissions with MODERATE confidence
+2. **For validation**: Analyze 5-10 additional recent ETP articles to confirm:
+   - Abstract length flexibility (is 150-200 words standard or exceptional?)
+   - Theory section positioning (always before hypotheses?)
+   - Multi-study design prevalence
+3. **For ENTRE field**: Develop ENTRE_FIELD_SKILL by analyzing 30-50 articles across 5-7 ENTRE journals (JBV, SEJ, ETP, JSBM, etc.)
+4. **For updates**: Re-run analysis annually or when ETP updates submission guidelines
+
+---
+
+### FILES GENERATED
+
+- **entrepreneurship-theory-practice_SKILL.md**: 850-word journal-specific skill document
+
+---
+
+**Pipeline status**: ✅ COMPLETE  
+**Quality**: MODERATE confidence (limited article sample, no field baseline)  
+**Usability**: HIGH (comprehensive guidelines documented, clear formatting requirements)
