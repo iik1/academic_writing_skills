@@ -108,31 +108,23 @@ Applied Linguistics, Modern Language Journal, Nature, Science
 academic_writing_skills/
 ├── README.md
 ├── LICENSE
-├── CLEANUP_CHECKLIST.md
-├── MGMT_FIELD_SKILL.md         (duplicate; see CLEANUP_CHECKLIST.md)
-├── MKT_FIELD_SKILL.md          (duplicate; see CLEANUP_CHECKLIST.md)
 ├── skills/
 │   ├── fields/                 10 field baselines
-│   ├── economics/              38 journals
+│   ├── economics/              41 journals
 │   ├── finance/                26 journals
-│   ├── accounting/             23 journals (1 duplicate pending cleanup)
+│   ├── accounting/             23 journals
 │   ├── strategy/               5 journals
 │   ├── mgmt/                   8 journals
 │   ├── marketing/              6 journals
 │   ├── ops-tech/               13 journals
-│   ├── or-mansci/              16 journals (1 duplicate pending cleanup)
-│   ├── soc-sci/                36 journals (2 duplicates pending cleanup)
+│   ├── or-mansci/              16 journals
+│   ├── soc-sci/                36 journals
 │   ├── sector/                 13 journals
 │   ├── information-systems/    3 journals
 │   ├── entrepreneurship/       2 journals
 │   ├── hrm/                    3 journals
 │   ├── international-business/ 1 journal
-│   ├── non-abs/                4 journals
-│   ├── energy-economics/       standalone: Energy Economics
-│   ├── ijpe/                   standalone: IJPE (see CLEANUP_CHECKLIST.md)
-│   ├── jeem/                   standalone: JEEM (see CLEANUP_CHECKLIST.md)
-│   ├── journal-environmental-management/  standalone: JEM
-│   └── journal-productivity-analysis/     standalone: JPA
+│   └── non-abs/                4 journals
 ├── reports/                    QA reports, one per journal skill
 └── tools/
     ├── dispatch_journal_agents.py
