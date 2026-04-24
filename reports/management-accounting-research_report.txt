@@ -1,0 +1,27 @@
+**Delta Detection Report — Management Accounting Research**
+**Date:** 2026-04-21
+**Baseline:** account-field-writing-style (FIELD_SKILL)
+
+| Dimension | Classification | Notes |
+|-----------|---------------|-------|
+| Highlights (3–5 bullets, ≤85 chars) | ENFORCED | Elsevier requirement; absent from FIELD_SKILL |
+| Data Availability statement | ENFORCED | Required; confidential-data formulation observed |
+| Inclusive language | GUIDELINE ONLY | Elsevier policy; no strong enforcement signal |
+| Arabic decimal heading numbering | PRACTICE ONLY | Confirmed across both article types |
+| Separate Discussion + Conclusion | PRACTICE ONLY | Qualitative articles; merged in quantitative |
+| Results section = "Findings" | PRACTICE ONLY | Both articles; not "Results" or "Empirical Analysis" |
+| Single-author voice = "this study" not "I" | PRACTICE ONLY | Solo-authored article avoids first person |
+| Methods scope (non-archival norms) | RELAXATION | Causal-inference conventions not universally expected |
+| Abstract length (no enforced cap, unstructured) | RELAXATION | Up to ~280 words observed; no IMRaD subheadings |
+
+**Articles fetched:** 2
+**Guidelines access:** Partial (403 on primary URL; secondary URL returned truncated spec)
+**Early stop triggered:** No
+**Distinct delta dimensions recorded:** 9 (2 ENFORCED, 1 GUIDELINE ONLY, 4 PRACTICE ONLY, 2 RELAXATION)
+**Dimensions confirmed as FIELD DEFAULT (no delta):** 4 (voice/we, citation style, hedging, citation density)
+
+**Confidence notes:**
+- Heading numbering and "Findings" label: high confidence (2/2 articles consistent)
+- Separate Discussion/Conclusion: method-conditional; qualitative only (1 article)
+- Single-author voice: 1 article; treat as indicative, not definitive
+- Guidelines partial access limits confidence on any format/length constraints not mentioned

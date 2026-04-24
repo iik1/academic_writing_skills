@@ -1,0 +1,7 @@
+Field: MGMT
+Journals consulted: 6
+Articles consulted: 8
+Convergence reached: yes
+ABS 4* journals used: Academy of Management Journal, Academy of Management Review, Academy of Management Annals, Administrative Science Quarterly, Journal of Management, Organization Science
+ABS 4 journals used: none
+Dimensions marked uncertain: none

@@ -1,0 +1,8 @@
+Journal: Sociology
+Slug: sociology
+ABS: 4
+Field: SOC SCI
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 6 (descriptive section headings throughout, abstract format + keywords, SAGE Harvard citation format, heading hierarchy H1 bold/H2 italic, ethics statement placement, end-matter structure)
+FIELD_SKILL overrides: none confirmed (guidelines inaccessible; all deltas are PRACTICE ONLY)

@@ -1,0 +1,8 @@
+Journal: International Journal of Production Research
+Slug: ijpr
+ABS: 3
+Field: OPS&TECH
+Articles fetched: 1 (full text) + 1 (abstract/metadata only)
+Early stop triggered: no
+Deltas found: 2 (Chicago author-date citation format [ENFORCED]; SDG metadata field [PRACTICE ONLY])
+FIELD_SKILL overrides: Citation format overrides "author-date (APA-adjacent)" — IJPR uses Chicago author-date with no comma in-text and year unfenced in reference list. Note: guidelines page returned 403 errors; word limits and abstract length requirements could not be confirmed from guidelines directly.

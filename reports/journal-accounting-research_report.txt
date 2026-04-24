@@ -1,0 +1,8 @@
+Journal: Journal of Accounting Research
+Slug: journal-accounting-research
+ABS: 4*
+Field: ACCOUNT
+Articles fetched: 1
+Early stop triggered: no (1 article sufficient; clear deltas found)
+Deltas found: 5 (citation style/format, end matter order, heading style, online appendix infrastructure, registered reports/article types)
+FIELD_SKILL overrides: Citation style (square brackets not parentheses throughout); reference list format (year after volume, not after authors); end matter order (appendices before references); abstract word range 150-250 words (tightens FIELD_SKILL's "under a minute" guidance)

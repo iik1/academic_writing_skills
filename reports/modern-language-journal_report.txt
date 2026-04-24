@@ -1,0 +1,10 @@
+Journal: Modern Language Journal
+Slug: modern-language-journal
+ABS: NHH
+Field: NON-ABS
+Articles fetched: 1 (full analysis); 1 additional (PDF unreadable); multiple attempts blocked by paywall
+Early stop triggered: yes (after 1 successful article analysis plus multiple failed attempts due to publisher restrictions)
+Deltas found: Cannot determine - NON-ABS FIELD_SKILL baseline does not exist
+FIELD_SKILL overrides: Not applicable - no baseline available for comparison
+Limitation: NON-ABS field baseline not yet generated. This skill documents observed conventions without ability to classify as deltas or field norms. Recommend generating NON-ABS FIELD_SKILL before reprocessing this journal.
+Hard constraints documented: Length (8,000-10,000 words), Abstract (200 words max, 6 keywords), Citation style (APA), Format (12-pt, letter size, Word/RTF), Structure (standard empirical format)

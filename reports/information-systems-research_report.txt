@@ -1,0 +1,10 @@
+Journal: Information Systems Research
+Slug: information-systems-research
+ABS: 4*
+Field: IS
+Articles fetched: 0
+Early stop triggered: yes (access blocked)
+Deltas found: Cannot assess (no FIELD_SKILL baseline; no article access)
+FIELD_SKILL overrides: Not applicable (no IS field baseline exists)
+Key distinguishing feature: Dual abstract requirement (300-word standard + 200-word practice-oriented for Research Spotlights)
+Limitations: Skill based entirely on author guidelines; no empirical article analysis performed due to paywall restrictions

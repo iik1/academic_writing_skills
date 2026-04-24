@@ -1,0 +1,8 @@
+Journal: Mathematical Programming
+Slug: mathematical-programming
+ABS: 4
+Field: OR&MANSCI
+Articles fetched: 2
+Early stop triggered: no (deltas found after article 1; article 2 confirmed citation style)
+Deltas found: 3 (citation style author-year, MSC codes + keywords metadata block, explicit survey/exposition article types)
+FIELD_SKILL overrides: Citation style (author-year replaces implicit numbered-bracket assumption); MSC classification and keyword block required (not in FIELD_SKILL); Short Communication 12-page hard cap; LaTeX svjour3 mandatory with geometry package prohibited

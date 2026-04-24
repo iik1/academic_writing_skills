@@ -1,0 +1,9 @@
+Journal: Human Resource Management Journal
+Slug: human-resource-management-journal
+ABS: 4
+Field: HRM
+Articles fetched: 0 (full-text access blocked; editorial perspective used)
+Early stop triggered: yes (unable to access journal website or recent articles)
+Deltas found: N/A (no FIELD_SKILL baseline exists for HRM field)
+FIELD_SKILL overrides: N/A (no field baseline to override)
+Limitations: No HRM field baseline available; journal website blocked (403); recent articles inaccessible; analysis based solely on 34-page editorial perspective document which serves as comprehensive author guidance

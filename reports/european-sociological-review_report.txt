@@ -1,0 +1,8 @@
+Journal: European Sociological Review
+Slug: european-sociological-review
+ABS: 3
+Field: SOC SCI
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 4 (structural section separation, "Analytical Strategy" label, endnotes convention, statistical reporting emphasis)
+FIELD_SKILL overrides: word limit ~8,000 words (incl. endnotes/references, excl. tables/figures); abstract 200 words unstructured; maximum two heading levels; endnotes required; author biography 50–100 words; replication package mandatory for statistical work (Jan 2025); Data Availability Statement required

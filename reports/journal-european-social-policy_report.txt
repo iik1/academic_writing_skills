@@ -1,0 +1,8 @@
+Journal: Journal of European Social Policy
+Slug: journal-european-social-policy
+ABS: 3
+Field: SOC SCI
+Articles fetched: 2
+Early stop triggered: yes (stopped at 2; end-matter delta confirmed across both articles)
+Deltas found: 4 (end-matter conventions, European scope requirement, word floor on research articles, table/figure 350-word deduction rule)
+FIELD_SKILL overrides: Word limits (6,000–10,000 for research articles; 350-word per table/figure deduction); Sage Harvard citation style; minimum 5 keywords

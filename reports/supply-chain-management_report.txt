@@ -1,0 +1,8 @@
+Journal: Supply Chain Management: An International Journal
+Slug: supply-chain-management
+ABS: 3
+Field: OPS&TECH
+Articles fetched: 3
+Early stop triggered: no
+Deltas found: 2 (abstract format — Emerald structured fields; structural decomposition of implications into named theory/practice/methods units)
+FIELD_SKILL overrides: Abstract format (structured Emerald fields replace unspecified abstract format in FIELD_SKILL)

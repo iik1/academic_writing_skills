@@ -1,0 +1,8 @@
+Journal: International Organization
+Slug: international-organization
+ABS: 4
+Field: SOC SCI
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 2 (Citation Style, Supplementary Material cap)
+FIELD_SKILL overrides: Citation style — IO requires author-date footnotes, not parenthetical in-text references (ENFORCED); Word limits — 14,000 words for research articles, 8,000 for research notes (ENFORCED, not specified in FIELD_SKILL)

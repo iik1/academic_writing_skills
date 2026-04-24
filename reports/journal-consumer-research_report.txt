@@ -1,0 +1,9 @@
+Journal: Journal of Consumer Research
+Slug: journal-consumer-research
+ABS: 4*
+Field: MKT
+Articles fetched: 0
+Early stop triggered: no
+Deltas found: 6 (Consumer Relevance statement, abstract word limit, heading numbering prohibition, "we found that" prohibition, footnote/endnote policy, table/figure embedding)
+FIELD_SKILL overrides: "we found that" prohibition (conflicts with FIELD_SKILL standard result phrases), abstract 200-word maximum (narrows FIELD_SKILL 150-250 range), footnotes strongly discouraged (FIELD_SKILL treats as standard feature)
+Access barrier note: Full-text articles inaccessible across all attempted access methods (OUP direct, EZProxy, SSRN, ResearchGate, author faculty pages, institutional repositories). Classifications based on comprehensive official author guidelines retrieved from consumerresearcher.com/manuscript-preparation. Verification of actual practice in published articles not possible.

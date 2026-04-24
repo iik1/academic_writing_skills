@@ -1,0 +1,8 @@
+Journal: International Journal of Production Economics
+Slug: ijpe
+ABS: 3
+Field: OPS&TECH
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 2 (Highlights requirement [ENFORCED]; analytical modelling paper prevalence [PRACTICE ONLY])
+FIELD_SKILL overrides: Abstract max 250 words (FIELD_SKILL is silent on limits); Highlights mandatory 3–5 bullets ≤85 chars (not in FIELD_SKILL); Double-blind anonymisation required; AI declaration required; Inclusive language explicitly mandated

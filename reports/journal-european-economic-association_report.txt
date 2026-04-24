@@ -1,0 +1,8 @@
+Journal: Journal of the European Economic Association
+Slug: journal-european-economic-association
+ABS: 4
+Field: ECON
+Articles fetched: 2
+Early stop triggered: yes
+Deltas found: 0 (hard constraints only; no stylistic or structural deviations from FIELD_SKILL)
+FIELD_SKILL overrides: Page limits (40/50 pages), math notation requirements (italicize all math letters), data editor verification process, author contribution statements (5+ authors), accessibility requirements (alt text), citation format for unpublished work

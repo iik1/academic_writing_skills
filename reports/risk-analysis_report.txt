@@ -1,0 +1,8 @@
+Journal: Risk Analysis
+Slug: risk-analysis
+ABS: 4
+Field: SOC SCI
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 4 (word limits, APA citation style, all-caps numbered heading format, AI disclosure requirement)
+FIELD_SKILL overrides: Word/page limits (7,000 words original research; 3,500 words Perspectives); APA citation style; bold all-caps numbered main headings with title-case subsections; mandatory AI tool disclosure in Methods or Acknowledgements

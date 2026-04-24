@@ -1,0 +1,8 @@
+Journal: Organization Science
+Slug: organization-science
+ABS: 4*
+Field: MGMT
+Articles fetched: 0
+Early stop triggered: yes (full-text access blocked by paywall; guidelines provided sufficient hard constraints)
+Deltas found: 7 (citation style, abstract citations, page limit, font restrictions, table formatting, figure captions, heading numbering)
+FIELD_SKILL overrides: Citation style (INFORMS not APA), abstract citations (conditional vs. prohibited), page limit (explicit 50/40-page all-inclusive cap), font prohibition (no Helvetica Narrow), table rules (three horizontal rules only), figure caption formatting (Note/Notes for multi-sentence captions), heading flexibility (numbered or unnumbered by author choice)

@@ -1,0 +1,8 @@
+Journal: Development and Change
+Slug: development-change
+ABS: 3
+Field: SOC SCI
+Articles fetched: 2 (abstracts only; Wiley full-text returned 403 for all attempts)
+Early stop triggered: no (2 articles accessed at abstract level; confirmed voice norm, no additional deltas beyond guidelines)
+Deltas found: 3 (citation density RELAXATION, reference title formatting ENFORCED, in-text citation ordering ENFORCED)
+FIELD_SKILL overrides: Word limit 8,000–10,000 words total (ENFORCED); abstract 100–200 words unstructured (ENFORCED); keywords 2–8 (ENFORCED); heading hierarchy three-tier ALL CAPS / Bold / Italic with no numbered headings (ENFORCED); footnotes not endnotes (ENFORCED); alphabetical citation group ordering (ENFORCED); reference title formatting with single quotes for articles (ENFORCED); artwork submitted separately (ENFORCED)

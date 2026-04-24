@@ -1,0 +1,8 @@
+Journal: SIAM Journal on Optimization
+Slug: siam-journal-optimization
+ABS: 3
+Field: OR&MANSCI
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 5 (citation format, keywords/MSC codes required, abstract content restrictions, scope accessibility criterion, code sharing practice)
+FIELD_SKILL overrides: numbered bracket citation format (replaces any author-year assumption); keywords and MSC classification codes required (not in FIELD_SKILL); abstract ≤250 words with no numbered references or minimal math (not in FIELD_SKILL); 25-page maximum (not in FIELD_SKILL)

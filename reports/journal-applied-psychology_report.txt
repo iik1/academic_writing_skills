@@ -1,0 +1,18 @@
+Journal: Journal of Applied Psychology
+Slug: journal-applied-psychology
+ABS: 4*
+Field: HRM
+Articles fetched: 0
+Early stop triggered: N/A (access restrictions prevented article retrieval)
+Deltas found: Cannot assess - HRM FIELD_SKILL not yet generated
+FIELD_SKILL overrides: Cannot assess without field baseline; comprehensive HARD_CONSTRAINTS documented from 6-page methodological checklist
+
+**Limitations:**
+- No field baseline available for delta detection
+- No articles accessed for spot-checking due to paywall restrictions
+- Analysis based solely on author guidelines (exceptionally detailed: 6-page checklist covering 5 research paradigms)
+
+**Recommendations:**
+1. Generate HRM FIELD_SKILL first to enable delta classification
+2. Obtain institutional access to recent JAP articles for spot-checking
+3. Update this skill with observed practice patterns vs. stated guidelines

@@ -1,0 +1,8 @@
+Journal: Journal of Business Finance and Accounting
+Slug: journal-business-finance-accounting
+ABS: 3
+Field: ACCOUNT
+Articles fetched: 1
+Early stop triggered: yes (1 article sufficient; guideline constraints plus structural deltas clearly identified)
+Deltas found: 4 (standalone Literature Review section, Conclusion-only final section, Data Availability Statement as required section, Free Format citation relaxation)
+FIELD_SKILL overrides: Abstract word limit (250 words, ENFORCED); Data Availability Statement (required, ENFORCED); submission fee USD 200 (ENFORCED); Free Format citations (RELAXATION of author-date norm)

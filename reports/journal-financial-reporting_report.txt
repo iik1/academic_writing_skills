@@ -1,0 +1,8 @@
+Journal: Journal of Financial Reporting
+Slug: journal-financial-reporting
+ABS: 3
+Field: ACCOUNT
+Articles fetched: 0 (all full-text access attempts returned 403; constraints derived entirely from AAA Manuscript Preparation Guide and JFR Editorial Policy)
+Early stop triggered: no (article access failed, not a convergence stop)
+Deltas found: 5 (voice/single-author "we" prohibition, structural alternative content types, AI disclosure requirement, footnote scope restriction, gender-neutral language encouragement)
+FIELD_SKILL overrides: Single-author "we" prohibition overrides FIELD_SKILL's claim that "we" is dominant regardless of author count; 55-page all-inclusive cap; abstract ≤150 words (FIELD_SKILL does not specify word count); AI disclosure statement (new requirement not in FIELD_SKILL)

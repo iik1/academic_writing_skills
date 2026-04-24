@@ -1,0 +1,8 @@
+Journal: International Journal of Forecasting
+Slug: international-journal-forecasting
+ABS: 3
+Field: OR&MANSCI
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 5 (Introduction/contributions structure [RELAXATION], standalone Data section [PRACTICE ONLY], reproducibility/CASCaD program [PRACTICE ONLY / GUIDELINE ONLY], replication studies policy [GUIDELINE ONLY], publisher-mandated Elsevier sections [ENFORCED])
+FIELD_SKILL overrides: none (citation format and heading style not specified in FIELD_SKILL baseline, so not overrides)

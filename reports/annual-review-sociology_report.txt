@@ -1,0 +1,8 @@
+Journal: Annual Review of Sociology
+Slug: annual-review-sociology
+ABS: 4
+Field: SOC SCI
+Articles fetched: 0 full texts (403 errors on all annualreviews.org article URLs; citation format confirmed via search snippet for one article)
+Early stop triggered: yes (after 2 article fetch attempts with no full-text access; guidelines were comprehensive and citation format confirmed externally)
+Deltas found: 6 (article genre/structure, optional AR-specific elements, abstract word limit, citation punctuation format, table/figure placement, footnote discouragement)
+FIELD_SKILL overrides: Article genre is fundamentally different (review-only, no IMRAD); abstract 150-word hard cap; table placement at end after Literature Cited; no comma in parenthetical citations

@@ -1,0 +1,8 @@
+Journal: Review of Accounting Studies
+Slug: review-accounting-studies
+ABS: 4
+Field: ACCOUNT
+Articles fetched: 2
+Early stop triggered: no (2 articles fetched; submission-process hard constraints warranted full check)
+Deltas found: 3 (abstract word limit, statistical reporting layout in tables, untabulated/online-appendix robustness convention)
+FIELD_SKILL overrides: abstract 150-word maximum; keywords 4–6 required; JEL codes required; double-blind with separate title page; acknowledgments on title page only; AI/LLM use documented in Methods; submission fee USD 500; reference list includes all authors up to 20 (APA 7 rule)

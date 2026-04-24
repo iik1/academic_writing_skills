@@ -1,0 +1,8 @@
+Journal: Behavioral Research in Accounting
+Slug: behavioral-research-accounting
+ABS: 3
+Field: ACCOUNT
+Articles fetched: 1
+Early stop triggered: no (one article fetched; second not needed as no further deltas expected after comprehensive guidelines extraction)
+Deltas found: 5 (Voice/person for single authors, Statistical reporting completeness, Structural scope, AI disclosure block placement, IRB footnote requirement)
+FIELD_SKILL overrides: Single-author "we" prohibition overrides FIELD_SKILL's "regardless of author count" norm; 55-page hard limit; 150-word abstract limit; Chicago 16th ed. no-comma citation format; mandatory SD/cell-size/df reporting; four-level heading system specified

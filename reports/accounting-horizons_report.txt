@@ -1,0 +1,8 @@
+Journal: Accounting Horizons
+Slug: accounting-horizons
+ABS: 3
+Field: ACCOUNT
+Articles fetched: 1 (structure confirmed via search snippet; full text inaccessible behind paywall)
+Early stop triggered: no
+Deltas found: 4 (Voice and Register, Statistical Reporting, Structural Deviations, Other Journal-Specific Patterns)
+FIELD_SKILL overrides: "Synopsis and Insights for Practice" replaces the traditional introduction (ENFORCED); 150-word practice-audience abstract (ENFORCED); plain language / minimal jargon and mathematical notation (ENFORCED); figures preferred over tables (ENFORCED); 25pp text / 40pp total page limit (ENFORCED)

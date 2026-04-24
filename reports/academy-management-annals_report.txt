@@ -1,0 +1,8 @@
+Journal: Academy of Management Annals
+Slug: academy-management-annals
+ABS: 4*
+Field: MGMT
+Articles fetched: 1 (Krlev et al., 2025)
+Early stop triggered: no
+Deltas found: 4 (submission process, CV requirement, "attitude" philosophy, methods rigor)
+FIELD_SKILL overrides: Abstract 200-word limit (FIELD_SKILL states 150-250 typical); proposal-first process (completely different from standard submission); CV requirement (not standard); review methodology standards (tightens FIELD_SKILL expectation)

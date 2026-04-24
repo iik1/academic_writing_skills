@@ -1,0 +1,8 @@
+Journal: British Journal of Sociology
+Slug: british-journal-sociology
+ABS: 3
+Field: SOC SCI
+Articles fetched: 2
+Early stop triggered: yes (after 2 articles; no further deltas expected)
+Deltas found: 4 (citation format/bibliography style, endnotes convention, spelling latitude, section heading style)
+FIELD_SKILL overrides: Word limit 8,000 words inclusive (notes + bibliography), abstract 300 words unstructured with 6 ordered keywords, endnotes required (not footnotes), Harvard author-date with year-after-author bibliography format

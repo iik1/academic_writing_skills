@@ -1,0 +1,8 @@
+Journal: Administrative Science Quarterly
+Slug: administrative-science-quarterly
+ABS: 4*
+Field: MGMT
+Articles fetched: 0
+Early stop triggered: yes (full-text articles inaccessible despite multiple access attempts)
+Deltas found: 7 (Introduction length, Discussion length, Footnote usage, Abstract specificity, Interdisciplinary accessibility, Research question placement, Discussion closing style)
+FIELD_SKILL overrides: Introduction length (3-5 pages ENFORCED vs 800-1500 words); Abstract maximum (200 words ENFORCED vs 150-250 words); Overall length (35-45 pages ENFORCED, specific to ASQ)

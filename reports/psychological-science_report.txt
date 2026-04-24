@@ -1,0 +1,8 @@
+Journal: Psychological Science
+Slug: psychological-science
+ABS: 4*
+Field: SOC SCI
+Articles fetched: 1
+Early stop triggered: no
+Deltas found: 5+ (Statement of Relevance, abstract content requirements, word limits with section exclusions, mandatory Transparency end-matter, required open data/materials; tightened statistical reporting; figures/tables embedded in text)
+FIELD_SKILL overrides: Statement of Relevance required (150 words, plain language); abstract ≤150 words with mandatory sample size/population/limitation content; 2,000-word cap on Introduction + Discussion + Footnotes + Acknowledgments + Appendices (Methods excluded); mandatory Transparency section with CRediT/Action Editor/Open Practices fields; open data and materials required from Jan 2024; 95% CIs required instead of SDs/SEs; figures/tables embedded near text not at end; meta-analyses not considered

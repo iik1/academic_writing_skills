@@ -1,0 +1,8 @@
+Journal: Social Science and Medicine
+Slug: social-science-medicine
+ABS: 4
+Field: SOC SCI
+Articles fetched: 1 (PMC11585449 / DOI: 10.1016/j.socscimed.2024.117434)
+Early stop triggered: no
+Deltas found: 4 (all-in word limit, Highlights requirement, editorial office routing, section numbering)
+FIELD_SKILL overrides: 9,000-word all-in limit (FIELD_SKILL does not specify word limits, but this constraint is unusually inclusive and affects reference list and table volume in ways authors should plan for)

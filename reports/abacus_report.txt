@@ -1,0 +1,8 @@
+Journal: Abacus
+Slug: abacus
+ABS: 3
+Field: ACCOUNT
+Articles fetched: 1 (full text: Oh & Penman 2024; metadata only: Ball 2024)
+Early stop triggered: no
+Deltas found: 2 (reference list format, genre/scope mix)
+FIELD_SKILL overrides: Abstract max 250 words with 3–5 alphabetized keywords (ENFORCED); reference list ALL-CAPS surnames and single-quoted titles (ENFORCED)

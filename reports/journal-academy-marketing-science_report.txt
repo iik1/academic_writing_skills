@@ -1,0 +1,8 @@
+Journal: Journal of the Academy of Marketing Science
+Slug: journal-academy-marketing-science
+ABS: 4
+Field: MKT
+Articles fetched: 1
+Early stop triggered: yes (convergence after 1 article - zero deltas found)
+Deltas found: 0 (none)
+FIELD_SKILL overrides: none

@@ -1,0 +1,8 @@
+Journal: Journal of Social Policy
+Slug: journal-social-policy
+ABS: 3
+Field: SOC SCI
+Articles fetched: 2 (metadata/abstracts only; full text inaccessible behind Cambridge Core paywall despite CC BY licences)
+Early stop triggered: no
+Deltas found: 5 (word limit all-inclusive, abstract word limit + substantive-finding requirement + keywords, endnote placement, post-acceptance tweet/blog requirement, intra-journal dialogue editorial preference)
+FIELD_SKILL overrides: word limit (6,000–8,000 all-inclusive); abstract (100–200 words, 6 keywords, must state findings); endnotes after body before references; Harvard author-date with full titles and page ranges; monochrome tables with specific dimension and line rules; BSA non-discriminatory language standard

@@ -1,0 +1,8 @@
+Journal: Academy of Management Review
+Slug: academy-management-review
+ABS: 4*
+Field: MGMT
+Articles fetched: 0
+Early stop triggered: yes (full-text articles inaccessible due to paywalls; analysis based on authoritative guidelines and editorial materials)
+Deltas found: 6 (propositions optional, five building blocks framework, three-level heading hierarchy with specific formatting, modified APA citations, 200-word abstract limit, 25-30 page length constraint)
+FIELD_SKILL overrides: Propositions not required (FIELD_SKILL indicates propositions are standard for theoretical work); 200-word abstract maximum (FIELD_SKILL range is 150-250); specific three-level heading format (FIELD_SKILL has no prescribed format); modified APA citation style (colon before pages, no parentheses around book years)

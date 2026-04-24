@@ -1,0 +1,8 @@
+Journal: Environment and Planning D: Society and Space
+Slug: environment-planning-d
+ABS: 4
+Field: SOC SCI
+Articles fetched: 1
+Early stop triggered: no (second article inaccessible; one article sufficient to reach convergence on key patterns)
+Deltas found: 6 (abstract format practice vs. guideline; named authorial reflexivity; opening narrative vignette; methods integrated into introduction; creative evocative section headings; no separate Discussion section)
+FIELD_SKILL overrides: Word limit 7,000–10,000 words (ENFORCED); SAGE Harvard citation style (ENFORCED); author biographies 80–120 words (ENFORCED); data availability statement (ENFORCED)

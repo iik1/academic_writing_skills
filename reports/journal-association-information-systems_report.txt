@@ -1,0 +1,9 @@
+Journal: Journal of the Association for Information Systems
+Slug: journal-association-information-systems
+ABS: 4*
+Field: IS
+Articles fetched: 1 (Dennis 2019 editorial)
+Early stop triggered: yes (sufficient detail from comprehensive style guide)
+Deltas found: Cannot determine (IS FIELD_SKILL does not exist)
+FIELD_SKILL overrides: N/A (no field baseline to override)
+Key journal-specific features documented: Active voice with first person explicitly encouraged; no DOIs in references; no page numbers for conference proceedings; 65-page absolute limit; Generative AI transparency document required; numbered section headings (max 3 levels); APA 7th with JAIS modifications

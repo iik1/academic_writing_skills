@@ -1,0 +1,8 @@
+Journal: Social Science Research
+Slug: social-science-research
+ABS: 3
+Field: SOC SCI
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 3 (scope restriction to quantitative-only, convenience sample threshold, meta-analysis-only review format)
+FIELD_SKILL overrides: Abstract 250-word cap (FIELD_SKILL does not specify limits); ASA citation style enforced; keyword requirement (1–7) enforced; multiple declarations required; explicit prohibition of qualitative/theoretical/descriptive/research note/policy evaluation/narrative review submissions

@@ -1,0 +1,8 @@
+Journal: Mathematics of Operations Research
+Slug: mathematics-operations-research
+ABS: 3
+Field: OR&MANSCI
+Articles fetched: 7 (arXiv HTML full-text or abstract pages)
+Early stop triggered: no
+Deltas found: 5 (scope tightening to pure theory, MSC classification codes, numbered citation style, proof section labeling, related work placement variance)
+FIELD_SKILL overrides: none — guidelines inaccessible; all deltas classified PRACTICE ONLY pending guideline confirmation. Key advisory: verify citation style (numbered vs. author-year) against a published PDF before submission, as INFORMS may standardise at copyediting.

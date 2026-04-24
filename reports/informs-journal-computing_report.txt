@@ -1,0 +1,8 @@
+Journal: INFORMS Journal on Computing
+Slug: informs-journal-computing
+ABS: 3
+Field: OR&MANSCI
+Articles fetched: 3
+Early stop triggered: no
+Deltas found: 3 (structural variation by paper type, reproducibility/code repository requirement, computational scope constraint/relaxation)
+FIELD_SKILL overrides: Code and data repository with dual DOI (.cd suffix) is an IJOC-specific hard requirement not covered by FIELD_SKILL; section structure for software papers departs from the canonical FIELD_SKILL model.

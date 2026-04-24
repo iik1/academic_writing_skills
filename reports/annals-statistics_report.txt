@@ -1,0 +1,8 @@
+Journal: Annals of Statistics
+Slug: annals-statistics
+ABS: 4*
+Field: SOC SCI
+Articles fetched: 2
+Early stop triggered: no (major deltas found — journal is fundamentally different genre from FIELD_SKILL baseline)
+Deltas found: 7 (Fundamental genre difference, Structure, Voice and register, Statistical/mathematical reporting, Introduction structure, Hedging register, Ethics/positionality/pre-registration)
+FIELD_SKILL overrides: 25-page hard limit, LaTeX AOS template required, numbered hierarchical headings, supplementary material must be separate file with no \ref{} cross-references, one affiliation per author only

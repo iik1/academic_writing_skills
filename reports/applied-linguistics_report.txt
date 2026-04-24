@@ -1,0 +1,19 @@
+Journal: Applied Linguistics
+Slug: applied-linguistics
+ABS: NHH (not in ABS ranking)
+Field: NON-ABS
+Articles fetched: 3
+Early stop triggered: no (proceeded to 3 articles given absence of field baseline)
+Deltas found: N/A (no field baseline available for comparison)
+FIELD_SKILL overrides: N/A (no field baseline exists yet)
+
+CRITICAL NOTE: NON-ABS field skill has not been generated. This skill describes observed journal-specific requirements and practices without ability to classify as deltas from field norms. When NON-ABS field baseline is created, this skill should be regenerated to identify true journal-specific deviations.
+
+Key enforceable constraints identified:
+- 8,500-word maximum (including discourse data in text boxes)
+- 175-word abstract maximum, unstructured
+- Maximum 2 heading levels, unnumbered
+- Oxford HUMSOC citation style (no comma between author and date)
+- Alt text required for all figures
+- Must be empirical research with foregrounded real-world applications
+- Double-blind review requires author anonymization in references

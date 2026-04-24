@@ -1,0 +1,8 @@
+Journal: Production and Operations Management
+Slug: production-operations-management
+ABS: 4
+Field: OPS&TECH
+Articles fetched: 0 full-text (2 abstract/metadata only — full-text blocked by Wiley and SAGE paywalls despite multiple access attempts via EZProxy, Unpaywall OA locations, and direct DOI resolution)
+Early stop triggered: no
+Deltas found: 2 (Citation format, E-Companion policy)
+FIELD_SKILL overrides: Citation format (POM uses a proprietary non-APA reference list style — first author inverted only, no ampersand, bare year, space before issue parenthesis); Abstract (350-word unstructured mini-paper with keyword requirement; formulas/references/abbreviations prohibited); Length (32-page all-inclusive cap covering abstract, tables, figures, appendices, and references); Title (25-word maximum)

@@ -1,0 +1,8 @@
+Journal: Academy of Management Journal
+Slug: academy-management-journal
+ABS: 4*
+Field: MGMT
+Articles fetched: 0
+Early stop triggered: yes (paywall access limitations)
+Deltas found: 7 (statistical reporting: two decimals; correlation placement; hypotheses formatting specificity; footnote placement; active voice emphasis; mathematical notation in prose; variable naming in tables)
+FIELD_SKILL overrides: Abstract max 200 words (FIELD_SKILL says 150-250, AMJ enforces 200 max); exactly three heading levels (FIELD_SKILL mentions this, AMJ strictly enforces); two decimal places for statistics (new technical requirement); correlations in lower-left (new technical requirement); footnotes not endnotes (specification)

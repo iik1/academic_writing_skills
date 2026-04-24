@@ -1,0 +1,8 @@
+Journal: Social Forces
+Slug: social-forces
+ABS: 3
+Field: SOC SCI
+Articles fetched: 3
+Early stop triggered: no
+Deltas found: 2 (notes format [footnotes vs endnotes], length constraint [10,000-word all-inclusive cap])
+FIELD_SKILL overrides: 10,000-word all-inclusive word limit; maximum 10 table/figure panels; Chicago 17th ed author-date with page numbers only for direct quotations; no vertical lines in tables; methods section required for human subjects research

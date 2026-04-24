@@ -1,0 +1,8 @@
+Journal: Journal of the Operational Research Society
+Slug: journal-operational-research-society
+ABS: 3
+Field: OR&MANSCI
+Articles fetched: 1 (standard research article; 1 encyclopedic survey article checked but excluded as atypical)
+Early stop triggered: no
+Deltas found: 3 (Contribution type/ABS 3 relaxation; Citation style — Harvard author-date; Keywords required)
+FIELD_SKILL overrides: Citation style (Harvard author-date specified; FIELD_SKILL explicitly excluded this as journal-specific); Keywords (required and labelled; not addressed in FIELD_SKILL)

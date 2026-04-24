@@ -1,0 +1,8 @@
+Journal: Contemporary Accounting Research
+Slug: contemporary-accounting-research
+ABS: 4
+Field: ACCOUNT
+Articles fetched: 1
+Early stop triggered: no (deltas found after article 1; second article not needed to confirm clear patterns)
+Deltas found: 3 (bilingual abstract, APA citation format, hard page/word limits)
+FIELD_SKILL overrides: Abstract word limit (300 words, ENFORCED); bilingual abstract requirement (English + French, ENFORCED); page limits (30pp main text / 50pp total, ENFORCED); APA citation format replacing unspecified field-default citation style (ENFORCED)

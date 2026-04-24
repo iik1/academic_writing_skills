@@ -1,0 +1,8 @@
+Journal: Auditing: A Journal of Practice & Theory
+Slug: auditing-journal-practice-theory
+ABS: 3
+Field: ACCOUNT
+Articles fetched: 1
+Early stop triggered: yes (clear deltas identified after 1 article; convergence condition not met because deltas were found)
+Deltas found: 4 (word limit, abstract practice-and-theory emphasis, dual practice-theory contribution framing, auditing standards as institutional backdrop)
+FIELD_SKILL overrides: word limit (7,000/12,000 words — FIELD_SKILL silent); abstract content requirement (must emphasize practice AND theory implications — FIELD_SKILL abstract norm omits this)

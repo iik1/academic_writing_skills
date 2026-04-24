@@ -1,0 +1,8 @@
+Journal: Journal of the American Taxation Association
+Slug: journal-american-taxation-association
+ABS: 3
+Field: ACCOUNT
+Articles fetched: 2
+Early stop triggered: no
+Deltas found: 7 (abstract pronoun prohibition, 55-page hard limit, tax law citation format, reference list initials + Chicago 16th ed., confidence interval reporting convention, predicted direction column in tables, exploratory analysis section pattern)
+FIELD_SKILL overrides: abstract personal pronoun prohibition (FIELD_SKILL treats "we" as dominant register; JATA prohibits it specifically in abstracts); 55-page total limit including all back matter; tax law citation format (IRC §, Treas. Reg. §, court cases) entirely absent from FIELD_SKILL

@@ -1,0 +1,8 @@
+Journal: Journal of Politics
+Slug: journal-of-politics
+ABS: 4
+Field: SOC SCI
+Articles fetched: 1 (Dunaiski & Tukiainen working paper version of JOP Vol 87 No 3 article; second article PDF was inaccessible)
+Early stop triggered: no
+Deltas found: 4 (Length limits, Abstract specifications, Structural deviations/section conventions, Replication data deposit; Footnote preference also flagged)
+FIELD_SKILL overrides: 35-page all-in limit (ENFORCED); Short article 10-page category (ENFORCED); Abstract ≤150 words unstructured no-citations (ENFORCED); APSA author-date as named authority (ENFORCED); Tables/figures in-text not at end (ENFORCED); AI disclosure (ENFORCED); Replication data deposit to Dataverse (ENFORCED)

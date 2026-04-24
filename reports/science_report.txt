@@ -1,0 +1,10 @@
+Journal: Science
+Slug: science
+ABS: NHH
+Field: NON-ABS
+Articles fetched: 0
+Early stop triggered: yes (access blocked - 403 errors on all Science.org article pages)
+Deltas found: Unable to determine true deltas (FIELD_SKILL baseline does not exist)
+FIELD_SKILL overrides: N/A (no field baseline available for comparison)
+Key structural requirements documented: Methods-last structure, 125-word structured abstract, 3000-word limit, numbered citations with all authors listed, 3-5 display items, ~50 references
+Access method attempted: Direct web fetch (failed), EZProxy (returned login page), author repositories (no PDFs found)

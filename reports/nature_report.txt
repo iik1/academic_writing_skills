@@ -1,0 +1,10 @@
+Journal: Nature
+Slug: nature
+ABS: NHH
+Field: NON-ABS
+Articles fetched: 0
+Early stop triggered: yes (all full-text access blocked by authentication)
+Deltas found: Cannot determine (no FIELD_SKILL baseline exists for NON-ABS)
+FIELD_SKILL overrides: Cannot determine without baseline; documented hard constraints include: Methods-last structure, Discussion without subheadings, 200-word abstract limit, 3,500-word main text limit, 6 display item limit, mandatory author contributions/competing interests statements
+Notable findings: Highly restrictive length limits (3,500 words main text, 6 display items), Methods positioned after Discussion (unusual), Discussion may not use subheadings (explicit prohibition), abstract called "summary paragraph" and must avoid numbers/abbreviations
+Limitations: No FIELD_SKILL baseline for comparison; zero articles successfully accessed for spot-checking; analysis based entirely on guidelines; voice/tone/citation density/statistical reporting conventions not assessed

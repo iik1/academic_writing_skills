@@ -1,0 +1,8 @@
+Journal: Journal of Marketing Research
+Slug: journal-marketing-research
+ABS: 4*
+Field: MKT
+Articles fetched: 0 (paywall prevented access)
+Early stop triggered: no (technical access failure, not convergence)
+Deltas found: 8 (statistical reporting p-values, abstract third-person voice, no Introduction label, 50-page hard limit, section numbering prohibition, heading hierarchy max 3 levels, table placement in-text, mandatory error bars)
+FIELD_SKILL overrides: Actual p-values required (overrides quantitative asterisk convention); abstract in third person (specifies what FIELD_SKILL leaves open); no "Introduction" label (specifies what FIELD_SKILL doesn't address)

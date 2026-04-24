@@ -1,0 +1,8 @@
+Journal: Manufacturing and Service Operations Management
+Slug: msom
+ABS: 3
+Field: OPS&TECH
+Articles fetched: 1
+Early stop triggered: yes (sufficient deltas identified after 1 article; guidelines confirmed via search extraction)
+Deltas found: 4 (structured abstract requirements, footnote/endnote distinction, managerial implications body section, INFORMS reference list format)
+FIELD_SKILL overrides: Structured abstract (3-part, ≤300 words, labeled fields) — ENFORCED; Page limit (32 pages all-inclusive) — ENFORCED; Online supplement limit (16 pages) — ENFORCED; Footnote prohibition (bottom-of-page) — GUIDELINE ONLY

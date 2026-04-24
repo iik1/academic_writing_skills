@@ -1,0 +1,8 @@
+Journal: Environmental Science & Technology
+Slug: environmental-science-technology
+ABS: 3
+Field: SOC SCI
+Articles fetched: 2
+Early stop triggered: no (deltas found; second article confirmed citation and voice norms)
+Deltas found: 7 (Citation Style, Section Structure, Abstract+Synopsis format, Length Constraints, TOC Graphic, Register/Audience, Data Deposition, Units/Nomenclature — 8 distinct delta dimensions)
+FIELD_SKILL overrides: Citation style (numbered superscript replaces author-year); Section structure (fixed labels + no standalone Conclusions in Research Articles); Abstract format (mandatory 20-word Synopsis added); Word limit (7,000 words hard-enforced); TOC graphic (required, no FIELD_SKILL equivalent); Data deposition (mandatory named repository); SI units and IUPAC nomenclature (required, not specified in FIELD_SKILL)

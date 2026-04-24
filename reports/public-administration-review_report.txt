@@ -1,0 +1,8 @@
+Journal: Public Administration Review
+Slug: public-administration-review
+ABS: 4
+Field: SOC SCI
+Articles fetched: 0 (all paywalled; no spot-check performed)
+Early stop triggered: no
+Deltas found: 6 (first-person singular prohibition, Evidence for Practice section, section naming/order, self-citation third-person requirement, Chicago Author-Date with full first names, reduced technical density/jargon norm)
+FIELD_SKILL overrides: First-person singular "I" prohibition overrides FIELD_SKILL endorsement of "I" for single-authored work; Evidence for Practice section adds a mandatory practitioner-oriented structural element with no field-level analogue; Chicago Author-Date (full first names, endnotes-before-references) specifies citation practice left open by FIELD_SKILL; 8,000-word limit (including abstract, endnotes, references) is a hard cap not specified by FIELD_SKILL

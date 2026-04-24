@@ -1,0 +1,11 @@
+Journal: Journal of Business Venturing
+Slug: journal-business-venturing
+ABS: 4*
+Field: ENTRE
+Articles fetched: 0
+Early stop triggered: yes (no full-text access achieved)
+Deltas found: Cannot determine (ENTRE field baseline not yet generated)
+FIELD_SKILL overrides: N/A (no field baseline to override)
+Access failures: NHH EZProxy authentication loop via WebFetch; ScienceDirect 403 errors; institutional repository PDFs downloaded but unreadable (PDF parsing tool unavailable)
+Guideline coverage: Partial (abstract limit, page limit, highlights requirement, citation style, executive summary requirement, AI/language policies extracted successfully)
+Recommendation: Re-run this analysis after (1) ENTRE field baseline is generated, and (2) alternative full-text access method is established (institutional login via browser, direct PDF access, or working PDF parsing toolchain)
