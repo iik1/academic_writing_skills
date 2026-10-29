@@ -1,0 +1,2456 @@
+{
+ "2023": {
+  "meta": {
+   "count": 25
+  },
+  "results": [
+   {
+    "id": "https://openalex.org/W2023001",
+    "doi": "https://doi.org/10.9999/smj.2023.001",
+    "title": "Dynamic capabilities and firm growth (2023, issue 1)",
+    "type": "article",
+    "publication_year": 2023,
+    "publication_date": "2023-02-15",
+    "biblio": {
+     "volume": "44",
+     "issue": "1",
+     "first_page": "10",
+     "last_page": "35"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2023.001.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2023.001.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2023.001"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2023.001"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2023002",
+    "doi": "https://doi.org/10.9999/smj.2023.002",
+    "title": "Board interlocks and acquisition premiums (2023, issue 1)",
+    "type": "article",
+    "publication_year": 2023,
+    "publication_date": "2023-03-15",
+    "biblio": {
+     "volume": "44",
+     "issue": "1",
+     "first_page": "20",
+     "last_page": "45"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2023.002"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2023003",
+    "doi": "https://doi.org/10.9999/smj.2023.003",
+    "title": "Alliance portfolios in emerging markets (2023, issue 1)",
+    "type": "article",
+    "publication_year": 2023,
+    "publication_date": "2023-04-15",
+    "biblio": {
+     "volume": "44",
+     "issue": "1",
+     "first_page": "30",
+     "last_page": "55"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "green",
+     "oa_url": null
+    },
+    "best_oa_location": {
+     "pdf_url": null,
+     "landing_page_url": "https://repository.example.org/10.9999/smj.2023.003"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2023.003"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2023004",
+    "doi": "https://doi.org/10.9999/smj.2023.004",
+    "title": "CEO succession and strategic change (2023, issue 1)",
+    "type": "article",
+    "publication_year": 2023,
+    "publication_date": "2023-05-15",
+    "biblio": {
+     "volume": "44",
+     "issue": "1",
+     "first_page": "40",
+     "last_page": "65"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2023.004"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2023005",
+    "doi": "https://doi.org/10.9999/smj.2023.005",
+    "title": "Platform competition and complementor entry (2023, issue 1)",
+    "type": "article",
+    "publication_year": 2023,
+    "publication_date": "2023-06-15",
+    "biblio": {
+     "volume": "44",
+     "issue": "1",
+     "first_page": "50",
+     "last_page": "75"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2023.005.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2023.005.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2023.005"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2023.005"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2023006",
+    "doi": "https://doi.org/10.9999/smj.2023.006",
+    "title": "Corporate venture capital and innovation (2023, issue 1)",
+    "type": "article",
+    "publication_year": 2023,
+    "publication_date": "2023-07-15",
+    "biblio": {
+     "volume": "44",
+     "issue": "1",
+     "first_page": "60",
+     "last_page": "85"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2023.006"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2023007",
+    "doi": "https://doi.org/10.9999/smj.2023.007",
+    "title": "Issue Information",
+    "type": "article",
+    "publication_year": 2023,
+    "publication_date": "2023-08-15",
+    "biblio": {
+     "volume": "44",
+     "issue": "1",
+     "first_page": "70",
+     "last_page": "95"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2023.007"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2023008",
+    "doi": "https://doi.org/10.9999/smj.2023.008",
+    "title": "Editorial Board, Volume 44",
+    "type": "article",
+    "publication_year": 2023,
+    "publication_date": "2023-09-15",
+    "biblio": {
+     "volume": "44",
+     "issue": "1",
+     "first_page": "80",
+     "last_page": "105"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2023.008"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2023009",
+    "doi": "https://doi.org/10.9999/smj.2023.009",
+    "title": "Dynamic capabilities and firm growth (2023, issue 2)",
+    "type": "article",
+    "publication_year": 2023,
+    "publication_date": "2023-01-15",
+    "biblio": {
+     "volume": "44",
+     "issue": "2",
+     "first_page": "90",
+     "last_page": "115"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2023.009.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2023.009.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2023.009"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2023.009"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2023010",
+    "doi": "https://doi.org/10.9999/smj.2023.010",
+    "title": "Board interlocks and acquisition premiums (2023, issue 2)",
+    "type": "article",
+    "publication_year": 2023,
+    "publication_date": "2023-02-15",
+    "biblio": {
+     "volume": "44",
+     "issue": "2",
+     "first_page": "100",
+     "last_page": "125"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2023.010"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2023011",
+    "doi": "https://doi.org/10.9999/smj.2023.011",
+    "title": "Alliance portfolios in emerging markets (2023, issue 2)",
+    "type": "article",
+    "publication_year": 2023,
+    "publication_date": "2023-03-15",
+    "biblio": {
+     "volume": "44",
+     "issue": "2",
+     "first_page": "110",
+     "last_page": "135"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "green",
+     "oa_url": null
+    },
+    "best_oa_location": {
+     "pdf_url": null,
+     "landing_page_url": "https://repository.example.org/10.9999/smj.2023.011"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2023.011"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2023012",
+    "doi": "https://doi.org/10.9999/smj.2023.012",
+    "title": "CEO succession and strategic change (2023, issue 2)",
+    "type": "article",
+    "publication_year": 2023,
+    "publication_date": "2023-04-15",
+    "biblio": {
+     "volume": "44",
+     "issue": "2",
+     "first_page": "120",
+     "last_page": "145"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2023.012"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2023013",
+    "doi": "https://doi.org/10.9999/smj.2023.013",
+    "title": "Platform competition and complementor entry (2023, issue 2)",
+    "type": "article",
+    "publication_year": 2023,
+    "publication_date": "2023-05-15",
+    "biblio": {
+     "volume": "44",
+     "issue": "2",
+     "first_page": "130",
+     "last_page": "155"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2023.013.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2023.013.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2023.013"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2023.013"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2023014",
+    "doi": "https://doi.org/10.9999/smj.2023.014",
+    "title": "Corporate venture capital and innovation (2023, issue 2)",
+    "type": "article",
+    "publication_year": 2023,
+    "publication_date": "2023-06-15",
+    "biblio": {
+     "volume": "44",
+     "issue": "2",
+     "first_page": "140",
+     "last_page": "165"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2023.014"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2023015",
+    "doi": "https://doi.org/10.9999/smj.2023.015",
+    "title": "Issue Information",
+    "type": "article",
+    "publication_year": 2023,
+    "publication_date": "2023-07-15",
+    "biblio": {
+     "volume": "44",
+     "issue": "2",
+     "first_page": "150",
+     "last_page": "175"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2023.015"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2023016",
+    "doi": "https://doi.org/10.9999/smj.2023.016",
+    "title": "Editorial Board, Volume 44",
+    "type": "article",
+    "publication_year": 2023,
+    "publication_date": "2023-08-15",
+    "biblio": {
+     "volume": "44",
+     "issue": "2",
+     "first_page": "160",
+     "last_page": "185"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2023.016"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2023017",
+    "doi": "https://doi.org/10.9999/smj.2023.017",
+    "title": "Online-first study of market entry (2023)",
+    "type": "article",
+    "publication_year": 2023,
+    "publication_date": "2023-09-15",
+    "biblio": {
+     "volume": null,
+     "issue": null,
+     "first_page": "170",
+     "last_page": "195"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2023.017.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2023.017.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2023.017"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2023.017"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2023018",
+    "doi": "https://doi.org/10.9999/smj.2023.018",
+    "title": "Introduction to the special issue on stakeholders",
+    "type": "article",
+    "publication_year": 2023,
+    "publication_date": "2023-01-15",
+    "biblio": {
+     "volume": "44",
+     "issue": "1",
+     "first_page": "180",
+     "last_page": "205"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2023.018.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2023.018.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2023.018"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2023.018"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2023019",
+    "doi": "https://doi.org/10.9999/smj.2023.019",
+    "title": "Correction to: Dynamic capabilities and firm growth",
+    "type": "article",
+    "publication_year": 2023,
+    "publication_date": "2023-02-15",
+    "biblio": {
+     "volume": "44",
+     "issue": "2",
+     "first_page": "190",
+     "last_page": "215"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2023.019"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2023020",
+    "doi": "https://doi.org/10.9999/smj.2023.020",
+    "title": "A comment on replication",
+    "type": "editorial",
+    "publication_year": 2023,
+    "publication_date": "2023-03-15",
+    "biblio": {
+     "volume": "44",
+     "issue": "2",
+     "first_page": "200",
+     "last_page": "225"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2023.020.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2023.020.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2023.020"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2023.020"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2023021",
+    "doi": null,
+    "title": "No identifiers at all",
+    "type": "article",
+    "publication_year": 2023,
+    "publication_date": "2023-04-15",
+    "biblio": {
+     "volume": "44",
+     "issue": "2",
+     "first_page": "210",
+     "last_page": "235"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": null
+    }
+   },
+   {
+    "id": "https://openalex.org/W2023022",
+    "doi": "https://doi.org/10.9999/smj.2023.022",
+    "title": "Editorial independence and CEO pay (2023)",
+    "type": "article",
+    "publication_year": 2023,
+    "publication_date": "2023-05-15",
+    "biblio": {
+     "volume": "44",
+     "issue": "1",
+     "first_page": "220",
+     "last_page": "245"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2023.022"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2023023",
+    "doi": "https://doi.org/10.9999/smj.2023.023",
+    "title": "Correction for measurement error in strategy research (2023)",
+    "type": "article",
+    "publication_year": 2023,
+    "publication_date": "2023-06-15",
+    "biblio": {
+     "volume": "44",
+     "issue": "2",
+     "first_page": "230",
+     "last_page": "255"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "green",
+     "oa_url": null
+    },
+    "best_oa_location": {
+     "pdf_url": null,
+     "landing_page_url": "https://repository.example.org/10.9999/smj.2023.023"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2023.023"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2023024",
+    "doi": "https://doi.org/10.9999/smj.2023.024",
+    "title": "Index funds and corporate governance (2023)",
+    "type": "article",
+    "publication_year": 2023,
+    "publication_date": "2023-07-15",
+    "biblio": {
+     "volume": "44",
+     "issue": "2",
+     "first_page": "240",
+     "last_page": "265"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2023.024"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2023001",
+    "doi": "https://doi.org/10.9999/smj.2023.001",
+    "title": "Dynamic capabilities and firm growth (2023, issue 1)",
+    "type": "article",
+    "publication_year": 2023,
+    "publication_date": "2023-02-15",
+    "biblio": {
+     "volume": "44",
+     "issue": "1",
+     "first_page": "10",
+     "last_page": "35"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2023.001.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2023.001.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2023.001"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2023.001"
+    }
+   }
+  ]
+ },
+ "2024": {
+  "meta": {
+   "count": 25
+  },
+  "results": [
+   {
+    "id": "https://openalex.org/W2024001",
+    "doi": "https://doi.org/10.9999/smj.2024.001",
+    "title": "Dynamic capabilities and firm growth (2024, issue 1)",
+    "type": "article",
+    "publication_year": 2024,
+    "publication_date": "2024-02-15",
+    "biblio": {
+     "volume": "45",
+     "issue": "1",
+     "first_page": "10",
+     "last_page": "35"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2024.001.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2024.001.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2024.001"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2024.001"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2024002",
+    "doi": "https://doi.org/10.9999/smj.2024.002",
+    "title": "Board interlocks and acquisition premiums (2024, issue 1)",
+    "type": "article",
+    "publication_year": 2024,
+    "publication_date": "2024-03-15",
+    "biblio": {
+     "volume": "45",
+     "issue": "1",
+     "first_page": "20",
+     "last_page": "45"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2024.002"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2024003",
+    "doi": "https://doi.org/10.9999/smj.2024.003",
+    "title": "Alliance portfolios in emerging markets (2024, issue 1)",
+    "type": "article",
+    "publication_year": 2024,
+    "publication_date": "2024-04-15",
+    "biblio": {
+     "volume": "45",
+     "issue": "1",
+     "first_page": "30",
+     "last_page": "55"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "green",
+     "oa_url": null
+    },
+    "best_oa_location": {
+     "pdf_url": null,
+     "landing_page_url": "https://repository.example.org/10.9999/smj.2024.003"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2024.003"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2024004",
+    "doi": "https://doi.org/10.9999/smj.2024.004",
+    "title": "CEO succession and strategic change (2024, issue 1)",
+    "type": "article",
+    "publication_year": 2024,
+    "publication_date": "2024-05-15",
+    "biblio": {
+     "volume": "45",
+     "issue": "1",
+     "first_page": "40",
+     "last_page": "65"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2024.004"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2024005",
+    "doi": "https://doi.org/10.9999/smj.2024.005",
+    "title": "Platform competition and complementor entry (2024, issue 1)",
+    "type": "article",
+    "publication_year": 2024,
+    "publication_date": "2024-06-15",
+    "biblio": {
+     "volume": "45",
+     "issue": "1",
+     "first_page": "50",
+     "last_page": "75"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2024.005.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2024.005.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2024.005"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2024.005"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2024006",
+    "doi": "https://doi.org/10.9999/smj.2024.006",
+    "title": "Corporate venture capital and innovation (2024, issue 1)",
+    "type": "article",
+    "publication_year": 2024,
+    "publication_date": "2024-07-15",
+    "biblio": {
+     "volume": "45",
+     "issue": "1",
+     "first_page": "60",
+     "last_page": "85"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2024.006"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2024007",
+    "doi": "https://doi.org/10.9999/smj.2024.007",
+    "title": "Issue Information",
+    "type": "article",
+    "publication_year": 2024,
+    "publication_date": "2024-08-15",
+    "biblio": {
+     "volume": "45",
+     "issue": "1",
+     "first_page": "70",
+     "last_page": "95"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2024.007"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2024008",
+    "doi": "https://doi.org/10.9999/smj.2024.008",
+    "title": "Editorial Board, Volume 45",
+    "type": "article",
+    "publication_year": 2024,
+    "publication_date": "2024-09-15",
+    "biblio": {
+     "volume": "45",
+     "issue": "1",
+     "first_page": "80",
+     "last_page": "105"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2024.008"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2024009",
+    "doi": "https://doi.org/10.9999/smj.2024.009",
+    "title": "Dynamic capabilities and firm growth (2024, issue 2)",
+    "type": "article",
+    "publication_year": 2024,
+    "publication_date": "2024-01-15",
+    "biblio": {
+     "volume": "45",
+     "issue": "2",
+     "first_page": "90",
+     "last_page": "115"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2024.009.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2024.009.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2024.009"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2024.009"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2024010",
+    "doi": "https://doi.org/10.9999/smj.2024.010",
+    "title": "Board interlocks and acquisition premiums (2024, issue 2)",
+    "type": "article",
+    "publication_year": 2024,
+    "publication_date": "2024-02-15",
+    "biblio": {
+     "volume": "45",
+     "issue": "2",
+     "first_page": "100",
+     "last_page": "125"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2024.010"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2024011",
+    "doi": "https://doi.org/10.9999/smj.2024.011",
+    "title": "Alliance portfolios in emerging markets (2024, issue 2)",
+    "type": "article",
+    "publication_year": 2024,
+    "publication_date": "2024-03-15",
+    "biblio": {
+     "volume": "45",
+     "issue": "2",
+     "first_page": "110",
+     "last_page": "135"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "green",
+     "oa_url": null
+    },
+    "best_oa_location": {
+     "pdf_url": null,
+     "landing_page_url": "https://repository.example.org/10.9999/smj.2024.011"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2024.011"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2024012",
+    "doi": "https://doi.org/10.9999/smj.2024.012",
+    "title": "CEO succession and strategic change (2024, issue 2)",
+    "type": "article",
+    "publication_year": 2024,
+    "publication_date": "2024-04-15",
+    "biblio": {
+     "volume": "45",
+     "issue": "2",
+     "first_page": "120",
+     "last_page": "145"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2024.012"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2024013",
+    "doi": "https://doi.org/10.9999/smj.2024.013",
+    "title": "Platform competition and complementor entry (2024, issue 2)",
+    "type": "article",
+    "publication_year": 2024,
+    "publication_date": "2024-05-15",
+    "biblio": {
+     "volume": "45",
+     "issue": "2",
+     "first_page": "130",
+     "last_page": "155"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2024.013.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2024.013.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2024.013"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2024.013"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2024014",
+    "doi": "https://doi.org/10.9999/smj.2024.014",
+    "title": "Corporate venture capital and innovation (2024, issue 2)",
+    "type": "article",
+    "publication_year": 2024,
+    "publication_date": "2024-06-15",
+    "biblio": {
+     "volume": "45",
+     "issue": "2",
+     "first_page": "140",
+     "last_page": "165"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2024.014"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2024015",
+    "doi": "https://doi.org/10.9999/smj.2024.015",
+    "title": "Issue Information",
+    "type": "article",
+    "publication_year": 2024,
+    "publication_date": "2024-07-15",
+    "biblio": {
+     "volume": "45",
+     "issue": "2",
+     "first_page": "150",
+     "last_page": "175"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2024.015"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2024016",
+    "doi": "https://doi.org/10.9999/smj.2024.016",
+    "title": "Editorial Board, Volume 45",
+    "type": "article",
+    "publication_year": 2024,
+    "publication_date": "2024-08-15",
+    "biblio": {
+     "volume": "45",
+     "issue": "2",
+     "first_page": "160",
+     "last_page": "185"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2024.016"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2024017",
+    "doi": "https://doi.org/10.9999/smj.2024.017",
+    "title": "Online-first study of market entry (2024)",
+    "type": "article",
+    "publication_year": 2024,
+    "publication_date": "2024-09-15",
+    "biblio": {
+     "volume": null,
+     "issue": null,
+     "first_page": "170",
+     "last_page": "195"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2024.017.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2024.017.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2024.017"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2024.017"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2024018",
+    "doi": "https://doi.org/10.9999/smj.2024.018",
+    "title": "Introduction to the special issue on stakeholders",
+    "type": "article",
+    "publication_year": 2024,
+    "publication_date": "2024-01-15",
+    "biblio": {
+     "volume": "45",
+     "issue": "1",
+     "first_page": "180",
+     "last_page": "205"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2024.018.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2024.018.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2024.018"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2024.018"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2024019",
+    "doi": "https://doi.org/10.9999/smj.2024.019",
+    "title": "Correction to: Dynamic capabilities and firm growth",
+    "type": "article",
+    "publication_year": 2024,
+    "publication_date": "2024-02-15",
+    "biblio": {
+     "volume": "45",
+     "issue": "2",
+     "first_page": "190",
+     "last_page": "215"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2024.019"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2024020",
+    "doi": "https://doi.org/10.9999/smj.2024.020",
+    "title": "A comment on replication",
+    "type": "editorial",
+    "publication_year": 2024,
+    "publication_date": "2024-03-15",
+    "biblio": {
+     "volume": "45",
+     "issue": "2",
+     "first_page": "200",
+     "last_page": "225"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2024.020.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2024.020.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2024.020"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2024.020"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2024021",
+    "doi": null,
+    "title": "No identifiers at all",
+    "type": "article",
+    "publication_year": 2024,
+    "publication_date": "2024-04-15",
+    "biblio": {
+     "volume": "45",
+     "issue": "2",
+     "first_page": "210",
+     "last_page": "235"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": null
+    }
+   },
+   {
+    "id": "https://openalex.org/W2024022",
+    "doi": "https://doi.org/10.9999/smj.2024.022",
+    "title": "Editorial independence and CEO pay (2024)",
+    "type": "article",
+    "publication_year": 2024,
+    "publication_date": "2024-05-15",
+    "biblio": {
+     "volume": "45",
+     "issue": "1",
+     "first_page": "220",
+     "last_page": "245"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2024.022"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2024023",
+    "doi": "https://doi.org/10.9999/smj.2024.023",
+    "title": "Correction for measurement error in strategy research (2024)",
+    "type": "article",
+    "publication_year": 2024,
+    "publication_date": "2024-06-15",
+    "biblio": {
+     "volume": "45",
+     "issue": "2",
+     "first_page": "230",
+     "last_page": "255"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "green",
+     "oa_url": null
+    },
+    "best_oa_location": {
+     "pdf_url": null,
+     "landing_page_url": "https://repository.example.org/10.9999/smj.2024.023"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2024.023"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2024024",
+    "doi": "https://doi.org/10.9999/smj.2024.024",
+    "title": "Index funds and corporate governance (2024)",
+    "type": "article",
+    "publication_year": 2024,
+    "publication_date": "2024-07-15",
+    "biblio": {
+     "volume": "45",
+     "issue": "2",
+     "first_page": "240",
+     "last_page": "265"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2024.024"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2024001",
+    "doi": "https://doi.org/10.9999/smj.2024.001",
+    "title": "Dynamic capabilities and firm growth (2024, issue 1)",
+    "type": "article",
+    "publication_year": 2024,
+    "publication_date": "2024-02-15",
+    "biblio": {
+     "volume": "45",
+     "issue": "1",
+     "first_page": "10",
+     "last_page": "35"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2024.001.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2024.001.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2024.001"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2024.001"
+    }
+   }
+  ]
+ },
+ "2025": {
+  "meta": {
+   "count": 25
+  },
+  "results": [
+   {
+    "id": "https://openalex.org/W2025001",
+    "doi": "https://doi.org/10.9999/smj.2025.001",
+    "title": "Dynamic capabilities and firm growth (2025, issue 1)",
+    "type": "article",
+    "publication_year": 2025,
+    "publication_date": "2025-02-15",
+    "biblio": {
+     "volume": "46",
+     "issue": "1",
+     "first_page": "10",
+     "last_page": "35"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2025.001.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2025.001.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2025.001"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2025.001"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2025002",
+    "doi": "https://doi.org/10.9999/smj.2025.002",
+    "title": "Board interlocks and acquisition premiums (2025, issue 1)",
+    "type": "article",
+    "publication_year": 2025,
+    "publication_date": "2025-03-15",
+    "biblio": {
+     "volume": "46",
+     "issue": "1",
+     "first_page": "20",
+     "last_page": "45"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2025.002"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2025003",
+    "doi": "https://doi.org/10.9999/smj.2025.003",
+    "title": "Alliance portfolios in emerging markets (2025, issue 1)",
+    "type": "article",
+    "publication_year": 2025,
+    "publication_date": "2025-04-15",
+    "biblio": {
+     "volume": "46",
+     "issue": "1",
+     "first_page": "30",
+     "last_page": "55"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "green",
+     "oa_url": null
+    },
+    "best_oa_location": {
+     "pdf_url": null,
+     "landing_page_url": "https://repository.example.org/10.9999/smj.2025.003"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2025.003"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2025004",
+    "doi": "https://doi.org/10.9999/smj.2025.004",
+    "title": "CEO succession and strategic change (2025, issue 1)",
+    "type": "article",
+    "publication_year": 2025,
+    "publication_date": "2025-05-15",
+    "biblio": {
+     "volume": "46",
+     "issue": "1",
+     "first_page": "40",
+     "last_page": "65"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2025.004"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2025005",
+    "doi": "https://doi.org/10.9999/smj.2025.005",
+    "title": "Platform competition and complementor entry (2025, issue 1)",
+    "type": "article",
+    "publication_year": 2025,
+    "publication_date": "2025-06-15",
+    "biblio": {
+     "volume": "46",
+     "issue": "1",
+     "first_page": "50",
+     "last_page": "75"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2025.005"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2025006",
+    "doi": "https://doi.org/10.9999/smj.2025.006",
+    "title": "Corporate venture capital and innovation (2025, issue 1)",
+    "type": "article",
+    "publication_year": 2025,
+    "publication_date": "2025-07-15",
+    "biblio": {
+     "volume": "46",
+     "issue": "1",
+     "first_page": "60",
+     "last_page": "85"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2025.006"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2025007",
+    "doi": "https://doi.org/10.9999/smj.2025.007",
+    "title": "Issue Information",
+    "type": "article",
+    "publication_year": 2025,
+    "publication_date": "2025-08-15",
+    "biblio": {
+     "volume": "46",
+     "issue": "1",
+     "first_page": "70",
+     "last_page": "95"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2025.007"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2025008",
+    "doi": "https://doi.org/10.9999/smj.2025.008",
+    "title": "Editorial Board, Volume 46",
+    "type": "article",
+    "publication_year": 2025,
+    "publication_date": "2025-09-15",
+    "biblio": {
+     "volume": "46",
+     "issue": "1",
+     "first_page": "80",
+     "last_page": "105"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2025.008"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2025009",
+    "doi": "https://doi.org/10.9999/smj.2025.009",
+    "title": "Dynamic capabilities and firm growth (2025, issue 2)",
+    "type": "article",
+    "publication_year": 2025,
+    "publication_date": "2025-01-15",
+    "biblio": {
+     "volume": "46",
+     "issue": "2",
+     "first_page": "90",
+     "last_page": "115"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2025.009.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2025.009.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2025.009"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2025.009"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2025010",
+    "doi": "https://doi.org/10.9999/smj.2025.010",
+    "title": "Board interlocks and acquisition premiums (2025, issue 2)",
+    "type": "article",
+    "publication_year": 2025,
+    "publication_date": "2025-02-15",
+    "biblio": {
+     "volume": "46",
+     "issue": "2",
+     "first_page": "100",
+     "last_page": "125"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2025.010"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2025011",
+    "doi": "https://doi.org/10.9999/smj.2025.011",
+    "title": "Alliance portfolios in emerging markets (2025, issue 2)",
+    "type": "article",
+    "publication_year": 2025,
+    "publication_date": "2025-03-15",
+    "biblio": {
+     "volume": "46",
+     "issue": "2",
+     "first_page": "110",
+     "last_page": "135"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "green",
+     "oa_url": null
+    },
+    "best_oa_location": {
+     "pdf_url": null,
+     "landing_page_url": "https://repository.example.org/10.9999/smj.2025.011"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2025.011"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2025012",
+    "doi": "https://doi.org/10.9999/smj.2025.012",
+    "title": "CEO succession and strategic change (2025, issue 2)",
+    "type": "article",
+    "publication_year": 2025,
+    "publication_date": "2025-04-15",
+    "biblio": {
+     "volume": "46",
+     "issue": "2",
+     "first_page": "120",
+     "last_page": "145"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2025.012"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2025013",
+    "doi": "https://doi.org/10.9999/smj.2025.013",
+    "title": "Platform competition and complementor entry (2025, issue 2)",
+    "type": "article",
+    "publication_year": 2025,
+    "publication_date": "2025-05-15",
+    "biblio": {
+     "volume": "46",
+     "issue": "2",
+     "first_page": "130",
+     "last_page": "155"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2025.013"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2025014",
+    "doi": "https://doi.org/10.9999/smj.2025.014",
+    "title": "Corporate venture capital and innovation (2025, issue 2)",
+    "type": "article",
+    "publication_year": 2025,
+    "publication_date": "2025-06-15",
+    "biblio": {
+     "volume": "46",
+     "issue": "2",
+     "first_page": "140",
+     "last_page": "165"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2025.014"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2025015",
+    "doi": "https://doi.org/10.9999/smj.2025.015",
+    "title": "Issue Information",
+    "type": "article",
+    "publication_year": 2025,
+    "publication_date": "2025-07-15",
+    "biblio": {
+     "volume": "46",
+     "issue": "2",
+     "first_page": "150",
+     "last_page": "175"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2025.015"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2025016",
+    "doi": "https://doi.org/10.9999/smj.2025.016",
+    "title": "Editorial Board, Volume 46",
+    "type": "article",
+    "publication_year": 2025,
+    "publication_date": "2025-08-15",
+    "biblio": {
+     "volume": "46",
+     "issue": "2",
+     "first_page": "160",
+     "last_page": "185"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2025.016"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2025017",
+    "doi": "https://doi.org/10.9999/smj.2025.017",
+    "title": "Online-first study of market entry (2025)",
+    "type": "article",
+    "publication_year": 2025,
+    "publication_date": "2025-09-15",
+    "biblio": {
+     "volume": null,
+     "issue": null,
+     "first_page": "170",
+     "last_page": "195"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2025.017.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2025.017.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2025.017"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2025.017"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2025018",
+    "doi": "https://doi.org/10.9999/smj.2025.018",
+    "title": "Introduction to the special issue on stakeholders",
+    "type": "article",
+    "publication_year": 2025,
+    "publication_date": "2025-01-15",
+    "biblio": {
+     "volume": "46",
+     "issue": "1",
+     "first_page": "180",
+     "last_page": "205"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2025.018.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2025.018.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2025.018"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2025.018"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2025019",
+    "doi": "https://doi.org/10.9999/smj.2025.019",
+    "title": "Correction to: Dynamic capabilities and firm growth",
+    "type": "article",
+    "publication_year": 2025,
+    "publication_date": "2025-02-15",
+    "biblio": {
+     "volume": "46",
+     "issue": "2",
+     "first_page": "190",
+     "last_page": "215"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2025.019"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2025020",
+    "doi": "https://doi.org/10.9999/smj.2025.020",
+    "title": "A comment on replication",
+    "type": "editorial",
+    "publication_year": 2025,
+    "publication_date": "2025-03-15",
+    "biblio": {
+     "volume": "46",
+     "issue": "2",
+     "first_page": "200",
+     "last_page": "225"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2025.020.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2025.020.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2025.020"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2025.020"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2025021",
+    "doi": null,
+    "title": "No identifiers at all",
+    "type": "article",
+    "publication_year": 2025,
+    "publication_date": "2025-04-15",
+    "biblio": {
+     "volume": "46",
+     "issue": "2",
+     "first_page": "210",
+     "last_page": "235"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": null
+    }
+   },
+   {
+    "id": "https://openalex.org/W2025022",
+    "doi": "https://doi.org/10.9999/smj.2025.022",
+    "title": "Editorial independence and CEO pay (2025)",
+    "type": "article",
+    "publication_year": 2025,
+    "publication_date": "2025-05-15",
+    "biblio": {
+     "volume": "46",
+     "issue": "1",
+     "first_page": "220",
+     "last_page": "245"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2025.022"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2025023",
+    "doi": "https://doi.org/10.9999/smj.2025.023",
+    "title": "Correction for measurement error in strategy research (2025)",
+    "type": "article",
+    "publication_year": 2025,
+    "publication_date": "2025-06-15",
+    "biblio": {
+     "volume": "46",
+     "issue": "2",
+     "first_page": "230",
+     "last_page": "255"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "green",
+     "oa_url": null
+    },
+    "best_oa_location": {
+     "pdf_url": null,
+     "landing_page_url": "https://repository.example.org/10.9999/smj.2025.023"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2025.023"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2025024",
+    "doi": "https://doi.org/10.9999/smj.2025.024",
+    "title": "Index funds and corporate governance (2025)",
+    "type": "article",
+    "publication_year": 2025,
+    "publication_date": "2025-07-15",
+    "biblio": {
+     "volume": "46",
+     "issue": "2",
+     "first_page": "240",
+     "last_page": "265"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2025.024"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2025001",
+    "doi": "https://doi.org/10.9999/smj.2025.001",
+    "title": "Dynamic capabilities and firm growth (2025, issue 1)",
+    "type": "article",
+    "publication_year": 2025,
+    "publication_date": "2025-02-15",
+    "biblio": {
+     "volume": "46",
+     "issue": "1",
+     "first_page": "10",
+     "last_page": "35"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2025.001.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2025.001.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2025.001"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2025.001"
+    }
+   }
+  ]
+ },
+ "2026": {
+  "meta": {
+   "count": 25
+  },
+  "results": [
+   {
+    "id": "https://openalex.org/W2026001",
+    "doi": "https://doi.org/10.9999/smj.2026.001",
+    "title": "Dynamic capabilities and firm growth (2026, issue 1)",
+    "type": "article",
+    "publication_year": 2026,
+    "publication_date": "2026-02-15",
+    "biblio": {
+     "volume": "47",
+     "issue": "1",
+     "first_page": "10",
+     "last_page": "35"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2026.001.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2026.001.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2026.001"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2026.001"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2026002",
+    "doi": "https://doi.org/10.9999/smj.2026.002",
+    "title": "Board interlocks and acquisition premiums (2026, issue 1)",
+    "type": "article",
+    "publication_year": 2026,
+    "publication_date": "2026-03-15",
+    "biblio": {
+     "volume": "47",
+     "issue": "1",
+     "first_page": "20",
+     "last_page": "45"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2026.002"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2026003",
+    "doi": "https://doi.org/10.9999/smj.2026.003",
+    "title": "Alliance portfolios in emerging markets (2026, issue 1)",
+    "type": "article",
+    "publication_year": 2026,
+    "publication_date": "2026-04-15",
+    "biblio": {
+     "volume": "47",
+     "issue": "1",
+     "first_page": "30",
+     "last_page": "55"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "green",
+     "oa_url": null
+    },
+    "best_oa_location": {
+     "pdf_url": null,
+     "landing_page_url": "https://repository.example.org/10.9999/smj.2026.003"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2026.003"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2026004",
+    "doi": "https://doi.org/10.9999/smj.2026.004",
+    "title": "CEO succession and strategic change (2026, issue 1)",
+    "type": "article",
+    "publication_year": 2026,
+    "publication_date": "2026-05-15",
+    "biblio": {
+     "volume": "47",
+     "issue": "1",
+     "first_page": "40",
+     "last_page": "65"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2026.004"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2026005",
+    "doi": "https://doi.org/10.9999/smj.2026.005",
+    "title": "Platform competition and complementor entry (2026, issue 1)",
+    "type": "article",
+    "publication_year": 2026,
+    "publication_date": "2026-06-15",
+    "biblio": {
+     "volume": "47",
+     "issue": "1",
+     "first_page": "50",
+     "last_page": "75"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2026.005.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2026.005.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2026.005"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2026.005"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2026006",
+    "doi": "https://doi.org/10.9999/smj.2026.006",
+    "title": "Corporate venture capital and innovation (2026, issue 1)",
+    "type": "article",
+    "publication_year": 2026,
+    "publication_date": "2026-07-15",
+    "biblio": {
+     "volume": "47",
+     "issue": "1",
+     "first_page": "60",
+     "last_page": "85"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2026.006"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2026007",
+    "doi": "https://doi.org/10.9999/smj.2026.007",
+    "title": "Issue Information",
+    "type": "article",
+    "publication_year": 2026,
+    "publication_date": "2026-08-15",
+    "biblio": {
+     "volume": "47",
+     "issue": "1",
+     "first_page": "70",
+     "last_page": "95"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2026.007"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2026008",
+    "doi": "https://doi.org/10.9999/smj.2026.008",
+    "title": "Editorial Board, Volume 47",
+    "type": "article",
+    "publication_year": 2026,
+    "publication_date": "2026-09-15",
+    "biblio": {
+     "volume": "47",
+     "issue": "1",
+     "first_page": "80",
+     "last_page": "105"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2026.008"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2026009",
+    "doi": "https://doi.org/10.9999/smj.2026.009",
+    "title": "Dynamic capabilities and firm growth (2026, issue 2)",
+    "type": "article",
+    "publication_year": 2026,
+    "publication_date": "2026-01-15",
+    "biblio": {
+     "volume": "47",
+     "issue": "2",
+     "first_page": "90",
+     "last_page": "115"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2026.009.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2026.009.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2026.009"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2026.009"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2026010",
+    "doi": "https://doi.org/10.9999/smj.2026.010",
+    "title": "Board interlocks and acquisition premiums (2026, issue 2)",
+    "type": "article",
+    "publication_year": 2026,
+    "publication_date": "2026-02-15",
+    "biblio": {
+     "volume": "47",
+     "issue": "2",
+     "first_page": "100",
+     "last_page": "125"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2026.010"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2026011",
+    "doi": "https://doi.org/10.9999/smj.2026.011",
+    "title": "Alliance portfolios in emerging markets (2026, issue 2)",
+    "type": "article",
+    "publication_year": 2026,
+    "publication_date": "2026-03-15",
+    "biblio": {
+     "volume": "47",
+     "issue": "2",
+     "first_page": "110",
+     "last_page": "135"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "green",
+     "oa_url": null
+    },
+    "best_oa_location": {
+     "pdf_url": null,
+     "landing_page_url": "https://repository.example.org/10.9999/smj.2026.011"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2026.011"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2026012",
+    "doi": "https://doi.org/10.9999/smj.2026.012",
+    "title": "CEO succession and strategic change (2026, issue 2)",
+    "type": "article",
+    "publication_year": 2026,
+    "publication_date": "2026-04-15",
+    "biblio": {
+     "volume": "47",
+     "issue": "2",
+     "first_page": "120",
+     "last_page": "145"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2026.012"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2026013",
+    "doi": "https://doi.org/10.9999/smj.2026.013",
+    "title": "Platform competition and complementor entry (2026, issue 2)",
+    "type": "article",
+    "publication_year": 2026,
+    "publication_date": "2026-05-15",
+    "biblio": {
+     "volume": "47",
+     "issue": "2",
+     "first_page": "130",
+     "last_page": "155"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2026.013.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2026.013.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2026.013"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2026.013"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2026014",
+    "doi": "https://doi.org/10.9999/smj.2026.014",
+    "title": "Corporate venture capital and innovation (2026, issue 2)",
+    "type": "article",
+    "publication_year": 2026,
+    "publication_date": "2026-06-15",
+    "biblio": {
+     "volume": "47",
+     "issue": "2",
+     "first_page": "140",
+     "last_page": "165"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2026.014"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2026015",
+    "doi": "https://doi.org/10.9999/smj.2026.015",
+    "title": "Issue Information",
+    "type": "article",
+    "publication_year": 2026,
+    "publication_date": "2026-07-15",
+    "biblio": {
+     "volume": "47",
+     "issue": "2",
+     "first_page": "150",
+     "last_page": "175"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2026.015"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2026016",
+    "doi": "https://doi.org/10.9999/smj.2026.016",
+    "title": "Editorial Board, Volume 47",
+    "type": "article",
+    "publication_year": 2026,
+    "publication_date": "2026-08-15",
+    "biblio": {
+     "volume": "47",
+     "issue": "2",
+     "first_page": "160",
+     "last_page": "185"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2026.016"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2026017",
+    "doi": "https://doi.org/10.9999/smj.2026.017",
+    "title": "Online-first study of market entry (2026)",
+    "type": "article",
+    "publication_year": 2026,
+    "publication_date": "2026-09-15",
+    "biblio": {
+     "volume": null,
+     "issue": null,
+     "first_page": "170",
+     "last_page": "195"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2026.017.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2026.017.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2026.017"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2026.017"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2026018",
+    "doi": "https://doi.org/10.9999/smj.2026.018",
+    "title": "Introduction to the special issue on stakeholders",
+    "type": "article",
+    "publication_year": 2026,
+    "publication_date": "2026-01-15",
+    "biblio": {
+     "volume": "47",
+     "issue": "1",
+     "first_page": "180",
+     "last_page": "205"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2026.018.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2026.018.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2026.018"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2026.018"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2026019",
+    "doi": "https://doi.org/10.9999/smj.2026.019",
+    "title": "Correction to: Dynamic capabilities and firm growth",
+    "type": "article",
+    "publication_year": 2026,
+    "publication_date": "2026-02-15",
+    "biblio": {
+     "volume": "47",
+     "issue": "2",
+     "first_page": "190",
+     "last_page": "215"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2026.019"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2026020",
+    "doi": "https://doi.org/10.9999/smj.2026.020",
+    "title": "A comment on replication",
+    "type": "editorial",
+    "publication_year": 2026,
+    "publication_date": "2026-03-15",
+    "biblio": {
+     "volume": "47",
+     "issue": "2",
+     "first_page": "200",
+     "last_page": "225"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2026.020.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2026.020.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2026.020"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2026.020"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2026021",
+    "doi": null,
+    "title": "No identifiers at all",
+    "type": "article",
+    "publication_year": 2026,
+    "publication_date": "2026-04-15",
+    "biblio": {
+     "volume": "47",
+     "issue": "2",
+     "first_page": "210",
+     "last_page": "235"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": null
+    }
+   },
+   {
+    "id": "https://openalex.org/W2026022",
+    "doi": "https://doi.org/10.9999/smj.2026.022",
+    "title": "Editorial independence and CEO pay (2026)",
+    "type": "article",
+    "publication_year": 2026,
+    "publication_date": "2026-05-15",
+    "biblio": {
+     "volume": "47",
+     "issue": "1",
+     "first_page": "220",
+     "last_page": "245"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2026.022"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2026023",
+    "doi": "https://doi.org/10.9999/smj.2026.023",
+    "title": "Correction for measurement error in strategy research (2026)",
+    "type": "article",
+    "publication_year": 2026,
+    "publication_date": "2026-06-15",
+    "biblio": {
+     "volume": "47",
+     "issue": "2",
+     "first_page": "230",
+     "last_page": "255"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "green",
+     "oa_url": null
+    },
+    "best_oa_location": {
+     "pdf_url": null,
+     "landing_page_url": "https://repository.example.org/10.9999/smj.2026.023"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2026.023"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2026024",
+    "doi": "https://doi.org/10.9999/smj.2026.024",
+    "title": "Index funds and corporate governance (2026)",
+    "type": "article",
+    "publication_year": 2026,
+    "publication_date": "2026-07-15",
+    "biblio": {
+     "volume": "47",
+     "issue": "2",
+     "first_page": "240",
+     "last_page": "265"
+    },
+    "open_access": {
+     "is_oa": false,
+     "oa_status": "closed",
+     "oa_url": null
+    },
+    "best_oa_location": null,
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2026.024"
+    }
+   },
+   {
+    "id": "https://openalex.org/W2026001",
+    "doi": "https://doi.org/10.9999/smj.2026.001",
+    "title": "Dynamic capabilities and firm growth (2026, issue 1)",
+    "type": "article",
+    "publication_year": 2026,
+    "publication_date": "2026-02-15",
+    "biblio": {
+     "volume": "47",
+     "issue": "1",
+     "first_page": "10",
+     "last_page": "35"
+    },
+    "open_access": {
+     "is_oa": true,
+     "oa_status": "gold",
+     "oa_url": "https://example.org/10.9999/smj.2026.001.pdf"
+    },
+    "best_oa_location": {
+     "pdf_url": "https://example.org/10.9999/smj.2026.001.pdf",
+     "landing_page_url": "https://example.org/10.9999/smj.2026.001"
+    },
+    "primary_location": {
+     "landing_page_url": "https://onlinelibrary.example.org/doi/10.9999/smj.2026.001"
+    }
+   }
+  ]
+ }
+}
