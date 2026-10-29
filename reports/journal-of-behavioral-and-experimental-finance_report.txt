@@ -1,0 +1,17 @@
+Journal: Journal of Behavioral and Experimental Finance
+Slug: journal-of-behavioral-and-experimental-finance
+ABS: 1
+Field: FINANCE
+
+Articles fetched: 3 directly assessed at abstract/title level (Mental Framing Effects in Dynamic Portfolio Choice; Investor attention and stock markets dynamics: Evidence from the COVID-19 pandemic; plus browsed ~10 additional 2024-2026 titles via IDEAS/RePEc listing for structural/topical pattern-checking). Full text was paywalled on ScienceDirect throughout; no full-text article was read.
+
+Early stop triggered: No — full good-faith effort completed given ABS 1 tier and thin public access.
+
+Deltas found: 3 dimensions
+  1. Structural Deviations — journal formally supports short letters (<=2,500 words), replication studies (<=2,500 words), survey/review papers, and "Ready-to-use software tools" submissions as distinct article types (ENFORCED).
+  2. Citation Density / reference formatting — no enforced citation style at submission, looser than typical FIELD_SKILL expectation of author-year convention (GUIDELINE ONLY, mechanics not scholarly practice).
+  3. Other Journal-Specific Patterns — Highlights (3-5 bullets, <=85 characters each) required as separate file; graphical abstract encouraged (ENFORCED/GUIDELINE, Elsevier front-matter requirement not in FIELD_SKILL).
+
+FIELD_SKILL overrides: Length limits for short letters and replication studies (2,500 words) override FIELD_SKILL's silence on word limits (FIELD_SKILL explicitly excludes word limits as journal-specific). Reference style flexibility overrides FIELD_SKILL's assumed author-year convention for submission purposes only.
+
+Access-limitation notes: Direct WebFetch to ScienceDirect guide-for-authors page returned HTTP 403 (paywalled/blocked); guideline content was reconstructed from WebSearch result snippets referencing the same page. All article full texts were inaccessible; assessment relies on titles and abstracts surfaced via WebSearch/RePEc/IDEAS, consistent with the good-faith-sample allowance for ABS 1 journals. No contradiction with FIELD_SKILL voice/register/hedging/statistical-reporting norms was found in the accessible abstracts.

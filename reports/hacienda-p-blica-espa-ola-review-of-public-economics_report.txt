@@ -1,0 +1,40 @@
+Journal: Hacienda Publica Espanola / Review of Public Economics
+Slug: hacienda-p-blica-espa-ola-review-of-public-economics
+ABS: 1
+Field: ECON
+
+Articles fetched: 3 abstracts with full metadata (keywords, JEL codes) via IDEAS/RePEc
+  - Martinez-Vazquez (2026), "Fiscal Decentralization at Fifty," v256i1 pp.41-68
+  - Sepúlveda (2024), "Use and Abuse of the Concept of 'Excess Burden'," v248i1 pp.143-166
+  - Casas & Torres (2026), "Automation, Taxation, and Social Security Sustainability," v256i1
+  Plus table-of-contents scans of v255i4 (2025 special issue) and v256i1 (2026 issue).
+
+Early stop triggered: No — full good-faith pass completed. Two full-text PDF attempts failed
+(v230 issue PDF: TLS certificate error; forthcoming wealth-taxation article PDF: broken
+download link on publisher CDN). Fell back to abstract/keyword/JEL/TOC evidence, which is
+standard practice for ABS 1 journals per the assignment instructions.
+
+Deltas found: 3
+  1. Structural Deviations (GUIDELINE ONLY) — journal solicits Survey Reviews, Policy Watch
+     articles, and Comments (max 2,000 words) as accepted submission types beyond standard
+     empirical/theory papers.
+  2. Other Journal-Specific Patterns — bilingual submission (Spanish or English) accepted
+     (RELAXATION vs. English-only norm implicit in FIELD_SKILL sources).
+  3. Other Journal-Specific Patterns — point (not comma) decimal separator required in tables
+     (ENFORCED, tied to journal's Spanish institutional base).
+
+FIELD_SKILL overrides (Hard Constraints from author guidelines):
+  - 40-page hard cap (main text + tables + figures + references + appendices)
+  - Abstract max 100 words, 2-5 keywords, JEL codes required
+  - Section numbering: Arabic numerals with bold titles; subsections 2-3 levels deep
+  - Table/figure notes use lowercase letters (a, b, c); titles above, sources below
+  - Citation "et al." threshold at three+ authors; same-author/year disambiguated with
+    sequential lowercase letters
+  - Final files must be MS Word/Excel; LaTeX authors must contact editors
+  - ORCID ID required for all authors; double-blind review (strip identifying info)
+
+Access-limitation notes: No access to bepress submission portal or full-text PDFs (both direct
+publisher PDF attempts failed — TLS cert error on ief.es, broken CDN link on hpe-rpe.org). All
+in-text voice/hedging/statistical-reporting assessments default to FIELD_SKILL since no
+contradicting full-text evidence was found. This is an honest, thin-access ABS 1 skill file as
+anticipated by the assignment.

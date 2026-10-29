@@ -1,0 +1,21 @@
+Journal: Environmental Science and Policy
+Slug: environmental-science-and-policy
+ABS: 3
+Field: SOC SCI
+Publisher: Elsevier
+
+Articles fetched: 6 (abstract/front-matter level; full text paywalled, ScienceDirect returned 403 on direct fetch, author PDF mirrors were binary/unrenderable in this environment — poppler not installed for PDF page rendering)
+Early stop triggered: yes — after 6 articles, thematic and stylistic pattern had clearly stabilised (all articles converge on science-policy-interface / knowledge co-production framing, no structural or voice deltas emerging), and further search queries were returning diminishing new information given the direct-access limitations. Continued querying was documented as good-faith attempt rather than exhaustive 15.
+
+Deltas found: 2
+1. Abstract/submission requirements (ENFORCED): Highlights required at submission (3-5 bullets), graphical abstract optional, unstructured abstract — not covered by FIELD_SKILL.
+2. Thematic focal-area framing (PRACTICE ONLY / low-prevalence-to-moderate): sampled articles explicitly frame their contribution against one of the journal's four stated focal areas, typically early in the introduction. This is a journal-specific scope-signaling convention not present in FIELD_SKILL.
+
+Other recorded items were HARD_CONSTRAINTS (word limits by article type, citation style, double-anonymized review, explicit prohibition on merely asserting policy relevance) taken directly from the guide-for-authors page — these are ENFORCED per the guidelines text, not independently re-verified against full text due to paywall.
+
+FIELD_SKILL overrides: none identified beyond ABS-3 relaxation logic (no relaxations found; journal aligns with or adds to baseline, does not redefine it).
+
+Access-limitation notes:
+- Direct WebFetch to sciencedirect.com URLs consistently returned HTTP 403 (paywalled/bot-blocked).
+- Two author-hosted PDF mirrors were found and downloaded but could not be parsed: WebFetch's HTML converter treated them as binary, and the Read tool's PDF renderer requires poppler-utils (pdftoppm), which is not installed in this environment.
+- All findings therefore rely on WebSearch-surfaced abstract/summary snippets rather than full-text reads. This is within the task's stated tolerance ("front-matter... is usually enough").

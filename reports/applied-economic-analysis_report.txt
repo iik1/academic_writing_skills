@@ -1,0 +1,39 @@
+Journal: Applied Economic Analysis
+Slug: applied-economic-analysis
+ABS: 1
+Field: ECON
+Publisher: Emerald Publishing (on behalf of Asociación Libre de Economía, Spain)
+
+Articles fetched: 13 (abstract/metadata level, via RePEc/IDEAS), spanning 2019-2024
+Early stop triggered: No — full good-faith sample obtained despite Emerald direct-access blocks
+
+Deltas found: 1 major (N=1 dimension group)
+  - Structured abstract (Purpose / Design-methodology-approach / Findings / Originality-value,
+    +/- Practical implications), max 250 words including keywords/classification — ENFORCED,
+    confirmed in all 13 sampled articles (2019-2024). This is the dominant, clear delta from
+    FIELD_SKILL, which assumes unstructured abstracts as the ABS 4*/4 norm.
+  - Secondary: keywords + JEL codes listed as separate structured metadata fields alongside
+    abstract — PRACTICE ONLY / standard Emerald-RePEc indexing, observed in all 13 articles.
+  - Secondary: word-count rule that all table/figure text counts toward total length, +280
+    words added per figure/table (standard Emerald publisher-wide rule, not journal-specific
+    but noted as it is absent from FIELD_SKILL).
+
+All other dimensions (voice, register, sentence/paragraph style, introduction structure,
+methods conventions, results/discussion boundary, conclusion norms, citation format,
+hedging) showed FIELD DEFAULT — no deviation observed at the abstract level.
+
+FIELD_SKILL overrides: Abstract format (structured abstract mandatory, overrides FIELD_SKILL's
+assumption of unstructured/free-form abstracts).
+
+Access-limitation notes:
+- Emerald's platform (emerald.com, emeraldgrouppublishing.com) returned 403/CAPTCHA on all
+  direct WebFetch attempts, including the journal's own author-guidelines page and individual
+  article full-text pages (despite the journal's stated Open Access / CC-BY-4.0 status).
+- Relied on RePEc/IDEAS (ideas.repec.org) bibliographic/abstract pages for all 13 spot-checked
+  articles, and on WebSearch-surfaced snippets of Emerald's publisher-wide author-guideline
+  pages (which are known to apply uniformly across Emerald journals) for word-count and
+  structured-abstract format confirmation.
+- No full-text article bodies were accessible, so voice/register/citation-density/hedging
+  deltas could only be assessed indirectly via abstract prose, not full-text passages.
+- The ALdE association page (alde.es/applied-economic-analysis/) was fetched directly but
+  contained only a journal overview, no detailed submission guidelines.

@@ -1,0 +1,18 @@
+Journal: ILR Review
+Slug: ilr-review
+ABS: 3
+Field: HRM&EMP
+
+Articles fetched: 13 (abstract/front-matter level; full text paywalled behind ScholarOne/SAGE login for most)
+Early stop triggered: No (deltas stabilized after ~10 articles; continued to 13 for temporal/topic spread)
+
+Deltas found (5 dimensions):
+1. Voice and Register - ENFORCED first-person/active voice mandate in body text (with worked example in guidelines); abstract required in third person (voice split not in FIELD_SKILL).
+2. Citation Density/Placement - ENFORCED near-citation-free introduction and conclusion; citations concentrated in literature review.
+3. Structural Deviations - ENFORCED: no "Introduction" heading label, no numbered headings/subheadings, max 3 heading levels with specific bold/italic formatting, chronological (not alphabetical) ordering of multi-citation parentheticals.
+4. Other Journal-Specific Patterns (PRACTICE ONLY/GUIDELINE) - encouraged explicit numbered hypothesis blocks (H1, H1a); emphasis on firm-level/public-policy implications in conclusion.
+5. Common Pitfalls / Explicit Prohibitions - ENFORCED: no thanking editors/referees, no author disclaimer, avoid footnotes/cites in intro & conclusion, no endnotes.
+
+FIELD_SKILL overrides: None outright redefined (ABS 3 tier respected); voice mandate tightens FIELD_SKILL's "permitted" framing to "required" for this journal; citation placement narrows FIELD_SKILL's general density guidance.
+
+Access-limitation notes: SAGE journal pages (journals.sagepub.com) are JavaScript-rendered and WebFetch could not extract abstract text directly from DOI/TOC pages; worked around via the 2020 Manuscript Style Guide PDF (fetched directly, highly detailed and clearly authoritative/current given cross-consistency with observed articles), IDEAS/RePEc, SSRN, NBER/IZA/CESifo working-paper mirrors, and institutional repository copies. No full-text articles were read; all findings rest on guidelines document plus abstract/front-matter text, consistent with task instructions.

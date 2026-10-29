@@ -1,0 +1,39 @@
+Journal: Advances in Austrian Economics
+Slug: advances-in-austrian-economics
+ABS: 1
+Field: ECON
+
+Articles fetched: 0 full-text or abstract-level articles accessible. All Emerald insight.com pages
+(series homepage, chapter pages, table of contents) returned CAPTCHA "unusual traffic" blocks on
+every automated fetch attempt. Emerald's generic book-manuscript guidance page returned HTTP 403.
+Volume/chapter TITLES only were confirmed via IDEAS/RePEc, EconPapers, Mercatus Center (Hayek
+Program), and bookseller listings (Amazon) for 6 volumes: Vol. 19 (New Thinking in Austrian
+Political Economy), Vol. 20 (Studies in Austrian Macroeconomics), Vol. 21 (Revisiting Hayek's
+Political Economy), Vol. 22 (The Austrian and Bloomington Schools of Political Economy), Vol. 24
+(Assessing Austrian Economics), Vol. 26 (Contemporary Methods and Austrian Economics).
+
+Early stop triggered: No (not a dedupe stop) — but effectively a thin-access early stop was
+reached after exhausting the reasonable access chain (publisher CAPTCHA, generic Emerald 403,
+RePEc/EconPapers/Mercatus for metadata only). No individual article prose could be read.
+
+Deltas found: 2, both structural/high-confidence, not prose-level.
+  1. Submission Mechanism (ENFORCED DELTA) — this is a themed edited-volume book series with
+     volume-specific calls/invitations, not a standing open-submission journal.
+  2. Topical Scope Per Volume (PRACTICE ONLY / STRUCTURAL) — chapters must fit the specific
+     volume's announced theme, not a general journal aims-and-scope.
+  All prose-level dimensions (voice, hedging, citation density, statistical reporting, structural
+  deviations) are marked NOT EVALUATED and defaulted to FIELD_SKILL, because no article full text
+  was accessible — this is an access gap, not a confirmed absence of deltas.
+
+FIELD_SKILL overrides: none confirmed (no full-text access to verify any conflicting hard
+constraint).
+
+Access-limitation notes: This is one of the thinnest-access cases encountered in this batch.
+Advances in Austrian Economics is published by Emerald as an edited book series (confirmed via
+multiple independent sources: IDEAS/RePEc, EconPapers, Mercatus Center, Amazon), meaning it does
+not have a conventional journal author-guidelines page. Every Emerald insight.com URL attempted
+(series landing page, individual chapter pages, Volume 26 chapter/prelims page) was blocked by an
+automated CAPTCHA challenge. Emerald's generic "prepare your book manuscript" guidance page
+returned 403 Forbidden. As a result, this skill is necessarily short and honestly documents the
+absence of verified prose-level and hard-constraint data, rather than fabricating findings. A
+future pass with institutional access (EZProxy) to Emerald could substantially enrich this skill.

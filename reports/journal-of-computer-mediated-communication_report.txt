@@ -1,0 +1,42 @@
+Journal: Journal of Computer-Mediated Communication
+Slug: journal-of-computer-mediated-communication
+ABS: 3
+Field: INFO MAN
+
+Articles fetched: 10 distinct articles (abstract/front-matter level), spanning Vol 30
+Iss 1 (Jan 2025), Vol 30 Iss 4 (Jul 2025), one 2023 article, and Vol 29 (2024) issue
+listings. No full-text access was available (paywalled/no institutional proxy in this
+environment); all article-level findings are based on abstracts, keywords, and
+methodology summaries surfaced via WebSearch/WebFetch of publisher pages and
+third-party indexers (ResearchGate, aimodels.fyi, arXiv mirrors).
+
+Early stop triggered: No — sampling continued until the delta set stabilized (no new
+deltas emerging past ~8-10 articles); stopped at 10 as a good-faith spot-check given
+full-text inaccessibility.
+
+Deltas found: 2 dimensions
+  1. Structural Deviations — design-science structure from FIELD_SKILL is inapplicable;
+     this journal publishes empirical communication-science studies only (RELAXATION,
+     PRACTICE ONLY).
+  2. Other Journal-Specific Patterns — practitioner/managerial contribution framing is
+     muted; societal/policy/platform implications substitute for managerial ones
+     (RELAXATION, PRACTICE ONLY).
+
+FIELD_SKILL overrides (Hard Constraints from guidelines, not deltas per se):
+  - Abstract capped at 250 words (guidelines page states 250; an initial WebSearch
+    snippet incorrectly said 150 — resolved via direct WebFetch of the guidelines page,
+    which is authoritative).
+  - 10,000 words / 30 pages total length cap.
+  - Strict APA 7th edition citation/heading style; max 5 heading levels; title case.
+  - Word-only submission format (no PDF); tables/figures placed after references with
+    alt text.
+  - Mandatory Data Availability Statement and AI-use disclosure in cover letter.
+  - Double-anonymized review with specific self-citation anonymization convention.
+
+Access-limitation notes: Full text of all sampled articles was behind Oxford
+Academic's paywall; no EZProxy access in this environment. Relied on abstract-level
+detail, keyword lists, and methods summaries surfaced through search-engine snippets
+and third-party aggregators (ResearchGate, aimodels.fyi, arXiv preprint mirrors for
+one article). This was sufficient to assess voice/register, contribution framing, and
+statistical reporting patterns, but not fine-grained heading/section-order compliance
+within full text.

@@ -1,0 +1,74 @@
+Journal of African Economies - Skill Generation Report
+======================================================
+
+Journal:               Journal of African Economies
+Slug:                 journal-of-african-economies
+ABS 2024 Rating:      2
+Field:                ECON
+Publisher:            Oxford University Press
+Publisher Domain:     academic.oup.com
+
+RESEARCH EXECUTION
+------------------
+Articles Fetched:     6 (from Volumes 34-35, 2025-2026)
+  - Volume 34, Issue 1 (January 2025): 3 articles sampled
+  - Volume 34, Issue 4 (August 2025): 1 article sampled
+  - Volume 35, Issues 2-4 (2026): 2 articles sampled
+
+Access Method:        Public abstracts and introductions via Oxford Academic platform
+Early Stop Triggered: No (6 articles sufficient for ABS 2 journal)
+Deduplication Check:  Passed (no existing skill for this journal found)
+
+FINDINGS SUMMARY
+----------------
+Deltas Found:         2 confirmed deltas + 4 field-default dimensions
+  1. ENFORCED: Abstract structure (250-word max, no citations, structured format)
+  2. PRACTICE ONLY: Higher passive-voice frequency than FIELD_SKILL baseline
+  3-6. FIELD DEFAULT: Quantitative specificity, hedging patterns, mixed tense, citation density
+
+FIELD_SKILL OVERRIDES
+---------------------
+The following HARD_CONSTRAINTS from author guidelines override FIELD_SKILL baseline:
+
+1. Word Limit: 10,000 words maximum (FIELD_SKILL makes no mention of word limits)
+2. Abstract Length: Maximum 250 words with explicit prohibition on citations
+3. JEL Codes: Required at submission (field-specific administrative requirement)
+4. File Formats: Restricted to .doc, .tex, .rtf, .ps (NOT PDF for manuscript)
+5. Table Format: Editable format ONLY; no images, shading, colors, or vertical lines
+6. Figure Resolution: Specific dpi requirements (1200 for line; 300 for color/halftone)
+7. Alt Text: Accessibility requirement for all figures (not standard in FIELD_SKILL)
+8. Submission Policy: Only one submission per author at a time
+9. Prior Publication: No prior publication except working papers (if pre-submitted)
+10. Acknowledgements: Required separate Funding and Conflict of Interest sections
+
+ACCESS AND LIMITATION NOTES
+----------------------------
+All guidelines and sample articles were accessed via public-facing Oxford Academic
+pages (academic.oup.com/jae). Full-text articles paywalled; analysis based on visible
+abstract, introduction, section headings, and methodology descriptions. No institutional
+authentication required for accessing author guidelines or article metadata.
+
+ARTICLE SAMPLE CHARACTERISTICS
+-------------------------------
+Empirical focus: 5 of 6 articles empirical; 1 bibliometric/review
+Geographic scope: Sub-Saharan Africa (Ghana, Kenya, Rwanda, Mozambique, Tanzania, Guinea, Egypt)
+Methodologies observed:
+  - Randomized controlled trials (RCTs): 2 articles
+  - Econometric models (SVAR, DSGE, ECM): 2 articles
+  - Firm-level census and structural analysis: 1 article
+  - Bibliometric analysis: 1 article
+
+All articles follow canonical empirical structure (Introduction → Methods/Data →
+Results → Conclusion) with supplementary material. No deviations from FIELD_SKILL
+section structure observed.
+
+FIELD BASELINE APPLICABILITY
+-----------------------------
+This journal (ABS 2) sits below the ABS 4*/4 standard encoded in FIELD_SKILL baseline.
+However, spot-check reveals that core FIELD_SKILL norms (voice, argumentation,
+citation patterns, hedging, methods disclosure) remain largely observed. The journal
+enforces stricter procedural constraints (word limits, file formats, abstract structure)
+and some stylistic practices diverge slightly (higher passive voice frequency in results
+sections). These are documented as deltas but do not invalidate the FIELD_SKILL baseline.
+
+Skill file saved successfully.

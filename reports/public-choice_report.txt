@@ -1,0 +1,22 @@
+Journal: Public Choice
+Slug: public-choice
+ABS: 3
+Field: ECON
+Publisher: Springer Nature
+
+Articles fetched: 12 (abstract/keyword/JEL front matter via RePEc/IDEAS mirrors; full text paywalled)
+Early stop triggered: No — stopped at 12 because deltas had stabilised (no new structural/style deltas emerging beyond front-matter and scope observations) and further access to full text was not available.
+
+Deltas found: 2 dimensions
+1. Structural Deviations — Interdisciplinary scope (RELAXATION): journal's readership spans economists, political scientists, legal scholars, and sociologists, unlike FIELD_SKILL's economist-only audience assumption. Institutional/background framing tends to be more fully spelled out.
+2. Other Journal-Specific Patterns — Wider mix of paper types (formal social-choice theory, applied political economy, conceptual/critical-discussion survey pieces) than FIELD_SKILL's empirical/theory split; no new norm, just breadth to accommodate within existing templates.
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+- Abstract: unstructured, 150-250 words, no undefined abbreviations/unspecified references (FIELD_SKILL is silent on abstract length — this is journal-specific).
+- Double-blind, three-step editorial review process (Editor-in-Chief/associate editor screen -> external double-blind review -> final EIC check).
+- Keywords and JEL codes expected front matter.
+- No journal-specific override found for overall manuscript length, headings, citation format (author-year, aligns with FIELD_SKILL default), or table/figure rules.
+
+Access-limitation notes:
+- link.springer.com submission-guidelines and article pages consistently redirect to Springer's idp.springer.com login wall in this environment; guideline details were recovered via search-engine cached snippets rather than direct page fetch.
+- Full text of all sampled articles was paywalled; spot-check relied on RePEc/IDEAS mirror abstract/keyword/JEL pages, which do not expose body-text structure, citation density, or table/figure formatting. Findings on voice/register and structure are therefore based on FIELD_SKILL priors plus abstract-level evidence, not confirmed against full body text.

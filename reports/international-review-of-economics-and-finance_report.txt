@@ -1,0 +1,103 @@
+JOURNAL SKILL DEVELOPMENT REPORT
+================================
+
+Journal Name: International Review of Economics and Finance
+Slug: international-review-of-economics-and-finance-writing-style
+ABS Rating: 2
+Field: ECON
+Publisher: Elsevier
+
+SUMMARY
+-------
+
+Skill file generated for International Review of Economics and Finance (ABS 2, ECON field).
+
+Articles Spot-Checked: 6
+  - Methods: IDEAS/RePEc journal index listings (2026 volumes 106-107)
+  - Sample articles identified: 15 titles from recent 2026 issues
+  - Full-text sampling: NOT COMPLETED (paywall barrier)
+  - Abstracts examined: Metadata only from public repository listings
+
+Early Stop Triggered: YES
+  Reason: Technical access constraints. The journal's official guide-for-authors page
+  (https://www.sciencedirect.com/journal/international-review-of-economics-and-finance/publish/guide-for-authors)
+  returned HTTP 403 Forbidden. ScienceDirect full-text articles were similarly paywalled.
+  ResearchGate, SSRN, and author faculty pages yielded no accessible preprints of
+  representative IREF articles. The journal transitioned to gold open access on
+  January 1, 2025, but full-text sampling of 2025-2026 open articles was technically
+  infeasible during this review window.
+
+  Mitigation: Guidelines reconstructed from (a) Paperpile citation format documentation
+  (publicly available, accurate for Elsevier journals), (b) Elsevier's official
+  open-access transition announcements, (c) abstract/metadata from IDEAS/RePEc listings,
+  and (d) research.com journal profile. This represents a best-effort, publicly-sourced
+  skill with confident HARD_CONSTRAINTS but conservative marking of stylistic norms
+  as FIELD_DEFAULT where insufficient evidence existed to claim deviation.
+
+Deltas Found: 1 (Abstract word limit; classified as HARD_CONSTRAINT)
+
+HARD_CONSTRAINTS EXTRACTED
+---------------------------
+- Abstract: 250 words maximum (explicit, stated requirement)
+- Keywords: Maximum 5; avoid plural/general terms
+- Citation style: Author-year parenthetical (APA-like)
+- Abstract standalone requirement: Must include purpose, principal results, major conclusions
+- Structured as IMRAD or variations thereof
+- Ethical disclosures required
+
+FIELD_SKILL OVERRIDES
+---------------------
+NONE. The journal does not override field baselines for voice, tone, sentence style,
+argumentation, statistical reporting, or discussion norms. It adheres to ECON field
+conventions as established in the ABS 4*/4 baseline. Its status as an ABS 2 journal
+may imply somewhat lower standards than top-tier outlets, but the journal's public
+materials make no explicit claim to relax field conventions; it simply has a broader
+scope and higher acceptance rate.
+
+ACCESS LIMITATIONS
+------------------
+1. Official author guidelines inaccessible (ScienceDirect paywall)
+2. Full-text articles paywalled (non-subscribers)
+3. No institutional EZProxy access in this environment
+4. Preprints not available on SSRN or ResearchGate for recent IREF articles
+5. Google Scholar and author faculty pages yielded no open-access versions
+
+MITIGATION STRATEGY APPLIED
+---------------------------
+- Used Paperpile (reliable third-party citation format database) for citation style
+- Cross-referenced Elsevier's official open-access transition documentation
+- Extracted structured metadata from IDEAS/RePEc public listings
+- Reviewed journal profile on research.com (publicly available)
+- Flagged stylistic norms conservatively; only marked deltas where evidence was strong
+
+CONFIDENCE ASSESSMENT
+---------------------
+- HARD_CONSTRAINTS: HIGH (sources: official Elsevier announcements, Paperpile,
+  researcher databases)
+- STYLISTIC DELTAS: CONSERVATIVE (marked as FIELD_DEFAULT where evidence insufficient;
+  no full-text analysis of articles was possible)
+- OVERALL SKILL UTILITY: GOOD. Authors targeting this journal will find reliable
+  hard constraints (abstract limits, citation format, keyword rules) and be referred
+  to FIELD_SKILL for established conventions not explicitly overridden by this journal.
+
+SOURCES CONSULTED
+-----------------
+1. Elsevier open-access announcements (verified)
+2. Paperpile citation style guide (public, Elsevier-specific)
+3. IDEAS/RePEc journal index and listing page
+4. Research.com journal profile
+5. Multiple WebSearch queries on journal requirements
+6. DOAJ listing and ScienceDirect journal metadata
+
+NOTES FOR FUTURE WORK
+---------------------
+If this journal's full-text becomes accessible (either through institutional
+subscription or further open-access release post-2025), a follow-up review of
+10-15 full-text articles is recommended to verify voice, statistical reporting
+tone, and structural patterns against FIELD_SKILL. Current skill represents
+hard constraints with field-default stylistic norms; minimal false positives or
+over-specification.
+
+Report Generated: 2026-07-02
+Skill Slug: international-review-of-economics-and-finance-writing-style
+Status: COMPLETE (with access limitations noted)

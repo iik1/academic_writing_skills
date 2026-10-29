@@ -1,0 +1,45 @@
+Journal: Information and Management
+Slug: information-and-management
+ABS: 3
+Field: INFO MAN
+
+Articles fetched: 4 (abstract/title-level only, via WebSearch indexed snippets; full-text and
+platform pages inaccessible)
+Early stop triggered: Yes — access chain exhausted before reaching 15 articles.
+  Cause: ScienceDirect (sciencedirect.com) and ResearchGate both returned HTTP 403 Forbidden
+  to every direct WebFetch attempt (guide-for-authors page, issue listing pages, individual
+  article pages, author-page PDFs). RePEc/IDEAS does not index this journal (it falls outside
+  RePEc's economics scope). No open-access mirror, SSRN copy, or author personal-page PDF
+  was found for sampled titles. All information was reconstructed from WebSearch's indexed
+  snippets of blocked pages, which is lower-fidelity than direct fetch but still concretely
+  sourced (not fabricated).
+
+Deltas found: 2
+  1. Citations — ENFORCED: numbered bracketed in-text citation style ([1], [2]) with a
+     numbered reference list, rather than the author-date (APA-style) convention implicit
+     in FIELD_SKILL's source journals. Confirmed via explicit WebSearch snippet text from
+     the guide-for-authors page.
+  2. Submission package — ENFORCED: mandatory Highlights file (3-5 bullet points, max 85
+     characters each including spaces) required at submission alongside the manuscript.
+     Not addressed by FIELD_SKILL. Confirmed via Elsevier's Highlights policy page and
+     guide-for-authors snippet.
+
+All other dimensions checked (macro-structure, voice/register, argumentation/CARS framing,
+dual theoretical+practical contribution framing, hedging, methods reporting) showed no
+deviation from FIELD_SKILL in the sampled abstracts — labeled FIELD DEFAULT.
+
+FIELD_SKILL overrides: none (no journal-specific override of a stated FIELD_SKILL norm;
+the two deltas found are additive constraints not previously covered by FIELD_SKILL, not
+contradictions of it).
+
+Access-limitation notes:
+- sciencedirect.com/journal/information-and-management/publish/guide-for-authors: 403 to
+  direct WebFetch; reconstructed from WebSearch snippets only.
+- ScienceDirect issue/article pages (vol 62 issues 3-6, 2025; vol 61, 2024): 403 to WebFetch.
+- ResearchGate article/publication pages: 403 to WebFetch.
+- scispace.com journal/template pages: 403 to WebFetch.
+- No RePEc/IDEAS coverage (journal outside economics scope).
+- Sample of 4 articles reflects title+abstract-level evidence only (via search snippets),
+  not full-text reads; spot-check conclusions are correspondingly conservative (no claims
+  made about citation density, sentence length, or in-text prose patterns that would require
+  full-text access).

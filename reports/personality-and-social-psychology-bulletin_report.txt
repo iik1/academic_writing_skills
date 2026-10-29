@@ -1,0 +1,25 @@
+Journal: Personality and Social Psychology Bulletin (PSPB)
+Slug: personality-and-social-psychology-bulletin
+ABS: 4
+Field: PSYCH (GENERAL)
+
+Articles fetched: 10 (title/abstract-level spot-checks; full text paywalled for all)
+Early stop triggered: No (delta set stabilized naturally around the well-documented, unusually detailed SAGE/SPSP guidelines page; additional searches were returning the same structural pattern - preregistered, multi-study, large-N, TOP-Level-II-compliant empirical papers - with no new deltas)
+
+Deltas found: 3 dimensions
+  1. Statistical Reporting - tightened/itemized beyond FIELD_SKILL (exact p to 3 decimals, mandatory power analysis per study, exclusion/variable disclosure statement required in text) - ENFORCED, confirmed in sampled articles' multi-study/large-N designs
+  2. Structural Deviations - article types narrower than field baseline (Empirical Research Papers + Replication Studies only; distinct two-stage replication evaluation process) - ENFORCED
+  3. Other Journal-Specific Patterns - ACEMAP inclusive-methods/demographic-reporting encouragement - GUIDELINE ONLY (explicitly "we encourage" language, not mandatory)
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Abstract: unstructured, hard 150-word cap, non-compliant submissions "will not be considered"
+  - Length: hard 10,000-word cap (incl. abstract/references, excl. title page/tables/figures)
+  - Open science (TOP Level II): granular mandatory checklist - materials/data/code/codebook links required at start of first Method section; itemized per-study preregistration disclosure; deviation/exploratory-analysis flagging
+  - Citations: must cite/reference software, datasets, and code packages used, with DOI where possible; self-citations de-anonymized but phrased in third person
+  - Double-anonymized review process; no AI chatbot authorship; third-party submissions may be refused
+  - No "observed" post hoc power reporting
+
+Access-limitation notes:
+  - Full-text articles were not accessible (subscription-gated); all article-level evidence is title/abstract/press-coverage level, consistent with the assignment's allowance for front-matter-only spot-checks.
+  - members.spsp.org manuscript-preparation page was unreachable (DNS failure); relied on the SAGE-hosted guidelines page and its cached PDF instead, which were comprehensive and are treated as authoritative for this journal (matches the guidelines URL cited in the journal's own submission portal).
+  - No existing journal-specific skill file was found prior to this run (dedupe check negative).

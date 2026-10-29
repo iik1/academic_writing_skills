@@ -1,0 +1,50 @@
+Journal: Organizational Dynamics
+Slug: organizational-dynamics
+ABS: 3
+Field: ORG STUD
+
+Articles fetched: 7 (abstract/front-matter level only; ScienceDirect blocks
+automated full-page fetch with 403 on all attempts, including the guide-for-
+authors page and the "comprehensive author guide" policies page; relied on
+WebSearch-indexed snippets, ResearchGate/SSRN mirrors, and one institutional
+repository copy of an abstract)
+
+Early stop triggered: No — stopped after 7 articles because the delta set had
+clearly stabilized (every article confirmed the same practitioner-framework
+pattern: named models, phase/step frameworks, guiding principles, no
+hypothesis testing or statistical reporting) and further search queries were
+returning diminishing new information rather than new deltas.
+
+Deltas found: 5 dimensions
+  1. Voice and Register — RELAXATION (journal explicitly mandates "lively and
+     clear" style accessible to managers, vs. FIELD_SKILL's formal academic
+     register)
+  2. Statistical Reporting — RELAXATION (no hypothesis-testing/statistical
+     reporting emphasis; narrative/framework-based evidence presentation)
+  3. Citation Density — PRACTICE ONLY (leaner citation density than
+     FIELD_SKILL theory sections; not independently confirmed against full
+     text)
+  4. Structural Deviations — ENFORCED/PRACTICE (prescriptive framework/
+     typology/step-model structure instead of Theory-Methods-Results-
+     Discussion or emergent-category Findings structure)
+  5. Other (contribution framing) — inverted emphasis: managerial
+     actionability over theoretical contribution to named academic traditions
+
+FIELD_SKILL overrides: Citation style — numbered/bracket in-text citations
+(e.g., "[3,6]", "Tzabbar [8]") instead of FIELD_SKILL's author-date
+convention. Confirmed via two independent WebSearch queries with concrete
+in-text examples.
+
+Access-limitation notes:
+- ScienceDirect returned HTTP 403 on every direct WebFetch attempt (guide-
+  for-authors page, comprehensive author guide page, and all sampled article
+  abstract pages). All journal-specific evidence was obtained via Google-
+  indexed search snippets summarizing those same pages/articles, plus
+  secondary mirrors (ResearchGate, SSRN, Scribd, Rollins College institutional
+  repository) for a few article abstracts.
+- No explicit numeric word/page limit or abstract word cap could be
+  confirmed from any accessible source; this is flagged as unconfirmed in
+  the skill rather than asserted.
+- Full text was not accessible for any article; all structural/voice/
+  citation-density observations are based on abstracts and search-snippet
+  summaries of front matter only.

@@ -1,0 +1,26 @@
+Journal: Journal of Institutional Economics
+Slug: journal-of-institutional-economics
+ABS: 3
+Field: ECON
+Publisher: Cambridge University Press
+
+Articles fetched: 13 (all via publisher abstract pages / open-access full records; no full-text paywalled access was attempted since front-matter was sufficient per instructions)
+Early stop triggered: No (target of ~15 nearly reached; deltas had already stabilized by article ~8, remaining articles confirmed no new delta categories)
+
+Deltas found: 4 dimensions
+  1. Voice and Register - conceptual/definitional argumentative mode common in theory-oriented pieces (RELAXATION/specialization, PRACTICE ONLY)
+  2. Structural Deviations - Title Case, concrete/colloquial section headings in some articles (PRACTICE ONLY); theoretical papers often skip Data/Identification/Robustness apparatus entirely (RELAXATION of FIELD_SKILL empirical-structure expectation)
+  3. Other Journal-Specific Patterns - inconsistent JEL code reporting (GUIDELINE ONLY/low-prevalence)
+  4. Explicit conceptual-precision mandate (mandatory definition of contested terms) - ENFORCED hard constraint, not covered by FIELD_SKILL at all
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Double-blind submission (no author identification in manuscript) - not covered by FIELD_SKILL
+  - 10,000 word cap (12,000 for reviews/surveys), with tables/figures costed at 500 words/page - not covered by FIELD_SKILL
+  - Abstract capped at 200 words, unstructured, 3-5 keywords - not covered by FIELD_SKILL
+  - Mandatory definition of contested/ambiguous terms (institution, formal, informal, culture, routine, habit, neoclassical, rational, capitalism, methodological individualism, uncertainty, determinism, embedded, evolutionary) - not covered by FIELD_SKILL
+  - Formal/mathematical content must be explained for general readership, with derivations in appendices - specialization beyond FIELD_SKILL's methods conventions
+  - Harvard (author-date) citation - matches FIELD_SKILL default, no override needed
+
+Access-limitation notes:
+  - Full text of articles was generally paywalled; abstracts, keywords, JEL codes (where listed), and section-heading lists from Cambridge Core publisher pages were sufficient to assess structural and voice deltas, per task instructions.
+  - No 403s or complete access failures encountered; all 13 targeted pages returned usable content.

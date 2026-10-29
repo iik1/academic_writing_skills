@@ -1,0 +1,16 @@
+Journal: Annals of Finance
+Slug: annals-of-finance
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 3 full abstract fetches with detail (Lucchetta 2025; Sokolov & Polyakova 2025; Lee & Oh 2025), plus 4 additional articles attempted but redirect-blocked after retry limits, plus ~12 article titles/authors gathered via IDEAS/RePEc for scope triangulation across 2023-2026. Total good-faith sample: 7 articles with meaningful detail (abstract/keywords/JEL or abstract summary), ~12 more by title only.
+
+Early stop triggered: No — search and fetch chain was exhausted in good faith given ABS 2 tier; Springer author-guidelines page WAS successfully retrieved via the cookie-redirect chain (a rarity for paywalled Springer content), which is the most valuable HARD_CONSTRAINTS source.
+
+Deltas found: 2 dimensions
+  1. Structural Deviations — "finance notes" short-article category (up to 10 pages), a journal-specific submission track with no FIELD_SKILL analogue. Classified GUIDELINE ONLY (stated in journal scope page, not confirmed in sampled articles since none from that track were accessible).
+  2. Voice and Register — mathematical/theoretical finance papers in the sample (Sokolov, Madan, Jarrow, Hainaut) lean axiomatic/propositional in abstract framing vs. FIELD_SKILL's empirical-paper voice. Classified PRACTICE ONLY, and noted as consistent with (not contradicting) FIELD_SKILL's existing allowance for theory/model papers.
+
+FIELD_SKILL overrides: none identified. All HARD_CONSTRAINTS (structure, abstract length 150-250 words, citation format, heading depth cap of 3, table/figure numbering, prohibitions) are standard Springer Nature template requirements that align with or narrow FIELD_SKILL without contradicting it.
+
+Access-limitation notes: Springer Nature link.springer.com pages consistently 303-redirect through idp.springer.com; the redirect chain was successfully followed for the submission-guidelines page and 3 of 5 attempted article pages. Two article fetches (interval-valued IRR, Foreign bank entry) required a second redirect-follow attempt to succeed. RePEc/IDEAS aggregator page (kap/annfin) does not surface abstracts, only titles/authors/dates — useful for scope/topic triangulation but not for style spot-checking. No full-text articles were accessible (all behind subscription/APC paywall); all judgments are based on abstract, keyword, and JEL-code level evidence, consistent with the ABS 2 lower-tier good-faith sampling allowance.

@@ -1,0 +1,17 @@
+Journal: Journal of Time Series Analysis
+Slug: journal-of-time-series-analysis
+ABS: 3
+Field: ECON
+Articles fetched: 12 (titles/abstracts via search snippets and RePEc listing; no full-text access - Wiley direct fetch returned HTTP 402)
+Early stop triggered: no (deltas stabilized around the mathematical-statistics register, MSC requirement, and abstract-style relaxation after ~10 articles; continued to 12 for confidence)
+
+Deltas found: 3 dimensions
+- Voice and Register: heavier reliance on theorem/proof/lemma formal environments than typical ABS 3/4 empirical econ papers (PRACTICE ONLY / hybrid with FIELD DEFAULT)
+- Citation Density / Abstract framing: abstracts open directly with technical contribution, skipping FIELD_SKILL's motivating-hook convention (RELAXATION, consistent with ABS 3 latitude)
+- Structural: mandatory MSC classification code requirement, and footnote policy (grouped endnotes only, no page footnotes) not present in FIELD_SKILL (ENFORCED, stated in guidelines)
+
+FIELD_SKILL overrides: none that redefine the baseline; only relaxations/additions as noted above (ABS 3 cannot redefine FIELD_SKILL per instructions)
+
+Access-limitation notes:
+- Wiley guidelines page and article pages returned HTTP 402 Payment Required on direct WebFetch; all guideline and abstract content was obtained via WebSearch snippet extraction and the RePEc/IDEAS article listing page (which itself lacked abstracts, titles/authors only).
+- No full-text articles were accessible; assessment relies on titles, abstracts, and guideline snippets only, per task instructions for paywalled journals.

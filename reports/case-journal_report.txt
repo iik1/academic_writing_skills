@@ -1,0 +1,33 @@
+Journal: CASE Journal (The CASE Journal / TCJ)
+Slug: case-journal
+ABS: 1
+Field: ETHICS-CSR-MAN
+Publisher: Emerald Publishing (journal of The CASE Association)
+
+Articles fetched (full text): 0 — Emerald's site returned CAPTCHA/"Validate User" walls to all automated WebFetch attempts on article pages and the author guidelines page.
+Articles identified via search (titles/DOIs/metadata only): 10
+  1. Shell PLC: a green light to continue or a signal to go green? (TCJ-06-2025-0203)
+  2. Zomato's Blinkit: driving innovation in quick commerce (TCJ-04-2025-0141)
+  3. The collapse of Silicon Valley Bank and hedging strategies for interest rate risk (21/3/631)
+  4. Social media, artificial intelligence (AI), and one burning question (21/2/322)
+  5. Human resources: the next big thing from people management to leading companies (TCJ-05-2024-0139)
+  6. Resilience rewritten: Ann's journey from adversity to entrepreneurship (TCJ-03-2024-0075)
+  7. Challenges at Jatan Sansthan: can design thinking help the NPO? (22/2/397)
+  8. Direct relief: a tradition of public service efficiency in global humanitarianism (19/3/348)
+  9. Lockheed Martin Acquisitions: stay the course or change strategy? (17/4/494)
+  10. Arnetta technologies: minimum viable product (17/1/117)
+
+Early stop triggered: No — pursued full 10-article good-faith sample list, but could not read full text/abstracts for any due to Emerald's CAPTCHA gate on both emeraldgrouppublishing.com and emerald.com/tcj domains. Guideline content was reconstructed from Google-cached WebSearch snippets of Emerald's public "Write a teaching case study" and "Components of a Compact Case" help pages, plus a Freshdesk support article, which converged consistently across multiple independent search queries.
+
+Deltas found: 1 major (dominant), several minor
+  - Structural Deviations (ENFORCED): Journal publishes teaching cases (Opening Hook, Synopsis ≤250 words, Industry section, narrative body, Closing Hook, Exhibits) + a separate Teaching Note/Instructor's Manual (Learning Objectives, Discussion Questions, theoretical framing, methodology) — not the empirical/theoretical research-article templates in FIELD_SKILL.
+  - Length (ENFORCED): ~1,500 words max for standard case body; 500-1,000 for Compact Case — far shorter than FIELD_SKILL's 8,000-25,000 word bands.
+  - Abstract (ENFORCED): Replaced by Opening Hook (narrative teaser) + Synopsis (≤250 words), not FIELD_SKILL's structured/unstructured 150-250 word research abstract.
+  - Tables/Figures (ENFORCED): Called "Exhibits," single numbered series, not separate Table/Figure sequences.
+  - Voice and Register (PRACTICE ONLY / genre default): Narrative third-person case body vs. FIELD_SKILL's first-person-plural empirical-paper voice.
+  - Citation Density (PRACTICE ONLY / RELAXATION): Case body citation-light (sourced to disclosures/news), academic citations concentrated in Teaching Note.
+  - Explicit prohibitions (ENFORCED): No fictional cases, no traditional research-based cases, no case without Teaching Note, no prior/simultaneous publication.
+
+FIELD_SKILL overrides: Structure, Length, Abstract, Headings (no H1/P1 numbering), Tables and Figures (Exhibits). Citation style (APA) and reference-list placement remain FIELD DEFAULT.
+
+Access-limitation notes: Both emeraldgrouppublishing.com/products/journals/author_guidelines.htm?id=TCJ and emerald.com/tcj article pages are behind a bot-detection CAPTCHA wall that WebFetch cannot pass (403 or "Validate User" interstitial on every attempt). No full text of any article was read. All findings rest on: (a) Emerald's publicly indexed "Write a teaching case study" and "Components of a Compact Case" guidance pages, retrieved via WebSearch snippets rather than direct fetch, and (b) titles/DOIs of 10 recent TCJ articles located via WebSearch, without abstract or full-text content. This is thinner than the target 10-15 full spot-checks, but the case-study/Teaching-Note format is independently and consistently corroborated across multiple Emerald guidance pages and a Freshdesk support article, so confidence in the dominant structural delta is high despite the access limitation. Confidence in finer-grained voice/citation-density deltas is lower (PRACTICE ONLY labels applied accordingly).

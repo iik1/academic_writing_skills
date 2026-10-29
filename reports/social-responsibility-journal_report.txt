@@ -1,0 +1,20 @@
+Journal: Social Responsibility Journal
+Slug: social-responsibility-journal
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 10 (abstract/title-level only, via WebSearch and Emerald abstract pages; no full text accessible)
+Early stop triggered: No (good-faith sample completed at target size for ABS 1 tier)
+
+Deltas found: 2
+  1. Structural Deviations - mandatory Emerald structured abstract (Purpose / Design-methodology-approach / Findings / Research limitations-implications / Practical implications / Social implications / Originality-value), max 250 words. ENFORCED, confirmed in sampled abstracts. Delta from FIELD_SKILL's looser unstructured/150-250 word abstract description.
+  2. Other Journal-Specific Patterns - distinct "Social implications" abstract field consistently present, a CSR/ethics-field-specific Emerald convention. PRACTICE ONLY (abstract-level ENFORCED).
+
+FIELD_SKILL overrides: Abstract format only (structured Emerald sub-headings override FIELD_SKILL's abstract description). All other dimensions (voice, hedging, citation style/density, statistical reporting, theory use, structure of body sections) follow FIELD_SKILL norm — no override.
+
+Access-limitation notes:
+- Direct WebFetch of the SRJ author-guidelines page (emeraldpublishing.co.uk) redirected (301) to the Emerald Group Publishing homepage, which returned a bot-check/CAPTCHA "unusual traffic" screen — no usable content.
+- Direct WebFetch of emerald.com/srj also returned a CAPTCHA screen.
+- All findings were sourced from WebSearch result snippets (which surface Emerald guideline text and abstract-page content) rather than direct page fetches.
+- No full-text articles were accessible; all article-level spot-checks are abstract/title-only. This is documented as an honest limitation per instructions for ABS 1 / thin-access journals.
+- Word/page length limit for SRJ specifically could not be confirmed (labeled GUIDELINE ONLY / unconfirmed in skill file); general Emerald cross-journal norms were used as a fallback estimate.

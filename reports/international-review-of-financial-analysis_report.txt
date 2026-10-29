@@ -1,0 +1,18 @@
+Journal: International Review of Financial Analysis
+Slug: international-review-of-financial-analysis
+ABS: 3
+Field: FINANCE
+
+Articles fetched: 11 (abstract/keywords/JEL via IDEAS/RePEc) + 1 bibliometric retrospective of the journal itself (12 total sources)
+Early stop triggered: No (deltas stabilized at zero; continued past a good-faith sample to confirm convergence)
+
+Deltas found: 0
+Dimensions checked: structure, voice/register, statistical reporting, citation density, hedging, abstract format, headings, tables/figures — all FIELD DEFAULT / follow FIELD_SKILL norm.
+
+FIELD_SKILL overrides: none
+
+Access-limitation notes:
+- The official ScienceDirect "Guide for authors" page returned HTTP 403 on direct fetch (paywall/bot-block); relied on search-engine-extracted snippets, which confirmed: 250-word unstructured abstract limit, no AI-generated/AI-assisted artwork or graphical abstracts permitted (generic Elsevier-wide policy). No explicit word/page limit for the manuscript itself could be confirmed from public sources.
+- No full-text articles were accessible (paywalled); all spot-checks relied on IDEAS/RePEc abstract/keyword/JEL pages, which is sufficient for structural and abstract-format norms but not for in-text voice/hedging verification beyond what abstracts reveal.
+- Journal scope and topical patterns cross-validated via a 2021 bibliometric retrospective of the journal's own 1992-2020 publication history (confirms corporate governance and volatility as historically dominant themes, consistent with the 2026 sample).
+- Conclusion: this ABS-3 journal shows no deviations from the FINANCE field baseline; it follows standard Elsevier empirical-finance conventions throughout.

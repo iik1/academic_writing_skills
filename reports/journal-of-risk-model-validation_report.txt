@@ -1,0 +1,29 @@
+Journal: Journal of Risk Model Validation
+Slug: journal-of-risk-model-validation
+ABS: 1
+Field: FINANCE
+
+Articles fetched: 6 (abstracts/section headings visible; full text paywalled throughout)
+  - Model risk tiering: an exploration of industry practices and principles
+  - Validation of the backtesting process under the targeted review of internal models (Prorokowski, 2019)
+  - Estimating value-at-risk using quantile regression and implied volatilities
+  - An aggregated metrics framework for multicriteria model validation using rolling origin evaluation
+  - Interpretable machine learning for default risk prediction in stress testing (Vol. 20 No. 1, March 2026)
+  - The role of personal credit in small business risk assessment: a machine learning approach (Vol. 20 No. 1, March 2026)
+
+Early stop triggered: no
+
+Deltas found: 3 dimensions
+  - Voice and Register (RELAXATION — descriptive rather than assertive-contribution framing in abstracts)
+  - Structural Deviations (PRACTICE ONLY — standalone numbered "Literature" section and separate "Discussion" section, vs. FIELD_SKILL default of folding lit review into intro and merging discussion/conclusion)
+  - Other Journal-Specific Patterns (ENFORCED — "key messages" bullet-point summary required alongside abstract; GUIDELINE ONLY — explicit AI-use disclosure requirement)
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Abstract: 150-200 words, single paragraph, standalone, plus separate key-messages bullet list (JRMV/Risk.net-specific paratext)
+  - Citations: Chicago author-date in-text, APA reference list format
+  - Length: 10,000 word cap for research papers, 7,000 for forum papers
+  - Structure: Title page separate from blind main text; recommended order Introduction-Literature Review-Data-Methodology-Results-Discussion-Conclusion
+  - Figures/tables: vector formats required, rasterized formats prohibited
+  - Explicit prohibition on author identification in submitted PDF (blind review)
+
+Access-limitation notes: Journal of Risk Model Validation has no independent author-guidelines page; it shares a generic cross-journal "Risk.net/Incisive Media journals submission guidelines" page with other Risk.net titles (Journal of Credit Risk, Journal of Operational Risk, etc.), so Hard Constraints are publisher-wide rather than journal-specific. All article assessment relied on abstracts, keywords, and visible section-heading lists from publisher pages and search-engine snippets, since full text is paywalled with no open-access mirrors found on SSRN/RePEc/ResearchGate for sampled titles.

@@ -1,0 +1,43 @@
+Journal: Global Business Review
+Slug: global-business-review
+ABS: 1
+Field: ETHICS-CSR-MAN
+Articles fetched (full-text/abstract): 0 of target 10-15
+Early stop triggered: yes - access chain exhausted
+
+Reason: SAGE Journals article pages (journals.sagepub.com) are JavaScript-rendered
+and returned only the site navigation/footer shell to WebFetch, with no article
+content, for every attempted URL (guidelines page, TOC pages, abstract pages,
+PDF page). No institutional EZProxy access available in this environment.
+Google/Bing-indexed snippets did surface the guidelines page's key numeric
+constraints (word limit, abstract length, keyword count, citation style,
+preprint prohibition) via WebSearch result summaries, and a handful of article
+DOIs/titles were identified via WebSearch, but their abstracts/full text could
+not be independently fetched. Two PMC "editorial" hits initially believed to be
+GBR editorials were determined to be from a different (Frontiers) source and
+were discarded rather than misattributed.
+
+Deltas found (2 dimensions, both from stated guidelines, not independently
+verified against full text):
+  - Length: 8,000-9,000 word ceiling (tighter/harder cap than FIELD_SKILL's
+    10,000-18,000+ word norm)
+  - Abstract: 150-200 words (narrower than FIELD_SKILL's 150-250 word range),
+    plus explicit 4-6 keyword requirement
+  - Citations: APA 6th edition specifically, sentence-case reference titles
+  - Explicit prohibition: no preprint-posted manuscripts accepted
+  - Structural: broader accepted format list (short communications, research
+    notes) than FIELD_SKILL's four templates - flagged as RELAXATION, ABS 1
+    tier
+
+FIELD_SKILL overrides: length ceiling, abstract word count, APA 6th ed.
+citation style (all stated in guidelines; none independently confirmed via
+article spot-check due to access limitation).
+
+Access-limitation notes: This is a thin-access case. No full-text or abstract
+article content was retrievable. All findings are sourced from the guidelines
+page snippet (via WebSearch) and the IMI Delhi partner scope page (via
+WebFetch, not paywalled). The skill file documents this limitation explicitly
+in its Articles Spot-Checked field and Sources table rather than fabricating
+voice/register/citation-density findings. Voice, statistical reporting,
+citation density, and hedging sections are marked FIELD DEFAULT with an
+explicit "not independently verified" caveat.

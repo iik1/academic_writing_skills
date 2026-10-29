@@ -1,0 +1,91 @@
+JOURNAL SKILL GENERATION REPORT
+===============================
+
+Journal Name: Journal of Work-Applied Management
+Slug: journal-of-work-applied-management
+ABS Rating: 1
+Field: HRM&EMP
+Publisher: Emerald Publishing
+
+ARTICLE ACCESS AND SPOT-CHECK SUMMARY
+=====================================
+Articles Fetched: 5 (good-faith spot-check of titles and abstracts)
+
+Spot-checked articles:
+  - Garrido (2025) "Leading collaborative change amid a crisis" — action research on crisis leadership framework
+  - Hains-Wesson & Ji (2024) "Improving placement learning at scale" — case study evaluation
+  - Robert & Mori (2024) "Effects of training needs assessment" — quantitative study using PLS-SEM
+  - Wall editorial (2025) "Concepts of hope in times of crisis"
+  - Huber guest editorial (2024) "Leveraging the possibilities of learning at scale"
+
+Access Limitations:
+  - Emerald website returned CAPTCHA/403 errors on full-text access attempts
+  - Structured abstract information obtained from publisher landing pages and WebSearch summaries
+  - Article structure/detailed writing style analysis limited to title, abstract, and article metadata (keywords, author institutions, methodological approach from abstract summaries)
+  - Full-text spot-check (examination of introduction prose, methods section organization, results narration, discussion rhetoric) was not possible due to paywalls
+  - Therefore, delta detection was limited to: hard constraints from author guidelines, methodological scope from article titles/abstracts, editorial philosophy from official scope statements
+
+Early Stop Triggered: No (standard procedure completed with available data)
+
+HARD CONSTRAINTS IDENTIFIED
+===========================
+1. 7,000-word maximum (including all text, references, appendices; 280 words per table/figure)
+2. Harvard reference style (Emerald variant)
+3. Structured abstract (Purpose, Design/Methodology/Approach, Findings, Research Limitations/Implications, Practical Implications, Social Implications, Originality/Value; max 250 words total)
+4. Up to 6 keywords
+5. Double-blind peer review; ScholarOne + Paperpal Preflight
+6. Accepts action research, case studies, literature reviews, conceptual studies, viewpoints
+7. Plagiarism screening required; self-plagiarism not tolerated
+
+DELTAS FROM FIELD_SKILL (HRM Field Baseline)
+=============================================
+Three significant deltas found:
+
+1. METHODOLOGICAL SCOPE (ENFORCED + RELAXATION)
+   - Journal explicitly welcomes action research, action learning, case studies alongside conventional empirical work
+   - FIELD_SKILL allows methodological variation at top tier but emphasizes rigor for replication/trustworthiness
+   - JWAM prioritizes pragmatic work-applied approaches; represents relaxation of top-tier empirical standards in favor of organizational impact
+   - Evidenced by: article titles emphasizing frameworks (Garrido), case study evaluations (Hains-Wesson), editorial language on "workplace impact"
+
+2. PRACTICAL/ORGANIZATIONAL IMPACT EMPHASIS (ENFORCED)
+   - Contributions framed around organizational change outcomes ("liberate leadership skills," "drive sales performance," "organizational-level change")
+   - FIELD_SKILL treats practical implications as required output; JWAM treats it as primary contribution vector
+   - Evidenced by: journal scope statement emphasizing change/innovation/impact; editorial philosophy on organizational problem-solving
+
+3. WORD LIMIT SPECIFICATION (ENFORCED)
+   - Explicit 7,000-word hard limit with no FIELD_SKILL equivalent
+   - Represents tighter constraint than typical HRM outlets (field baseline silent on length)
+
+FIELD_SKILL OVERRIDES
+====================
+None. All dimensions with no delta follow FIELD_SKILL norms:
+  - Voice and person (formal + first-person plural)
+  - Sentence and paragraph style
+  - Argumentation and rhetorical moves
+  - Results/reporting norms
+  - Discussion/conclusion structure
+  - Citation density
+  - Hedging intensity
+  - Back matter conventions (acknowledgements, ethics, author contributions)
+
+ACCESS LIMITATIONS AND METHODOLOGY NOTES
+========================================
+This skill was generated under significant paywalling constraints:
+  - Emerald's website returned authentication/CAPTCHA barriers on direct URL access
+  - Publisher PDF guidelines (2019-11 version) were also blocked
+  - Full-text article analysis was not possible; delta detection relied on:
+    a) Published author guidelines (word limits, abstract format, citation style)
+    b) Journal scope and call-for-papers statements
+    c) Editorial philosophy and aims from official sources
+    d) Article title, abstract, and keyword patterns as proxy for methodological scope
+
+Confidence in findings:
+  - HARD CONSTRAINTS (word limit, abstract format, citation style, reference style) = HIGH (directly stated in guidelines)
+  - METHODOLOGICAL SCOPE deltas = HIGH (explicitly stated in call for papers; confirmed by article titles)
+  - WRITING REGISTER/VOICE deltas = MEDIUM-LOW (not examined via full-text; assumed FIELD DEFAULT based on editorial tone and no contradictory evidence)
+
+For refinement, access to 5-10 full-text articles (methods sections, discussion rhetoric, introduction prose) would strengthen confidence in voice/register/hedging claims, but public access is limited.
+
+SUMMARY
+=======
+Journal of Work-Applied Management is an ABS 1, open-access outlet with three meaningful deltas from the HRM field baseline: (1) broader acceptance of applied/action research methods; (2) explicit framing of contributions around organizational impact; (3) strict 7,000-word limit. All other dimensions follow FIELD_SKILL norms. No conflicting overrides to report.

@@ -1,0 +1,24 @@
+Journal: Land Economics
+Slug: land-economics
+ABS: 3
+Field: ECON
+Publisher: University of Wisconsin Press
+
+Articles fetched: 10 total sources consulted (2 full-text PDFs read in depth: Isenhardt/Seifert/Huttel 2023 [99(2)]; Missemer/Pottier 2025 [101(4)]; plus 4 detailed abstract/structure pages [Leonard & Plantinga 2024, Chau/Qin/Zhang 2024, Gray/Shadbegian 2024, Hua/Klaiber/Wrenn 2025] and several additional search-derived abstract snippets across 2023-2025 issues). Did not reach 15 distinct full-text articles because most Land Economics content is paywalled beyond front matter/abstract; the open-access CC-BY-NC-ND policy (2023+) made two full-text articles available, which was sufficient to confirm structural and voice patterns. Convergence was reached: additional abstract-level spot-checks after the first ~6 sources did not surface new deltas.
+
+Early stop triggered: No (access-limited good-faith stop, not early-convergence stop — documented in Sources section of skill).
+
+Deltas found: 3 dimensions
+  - Statistical Reporting (PRACTICE ONLY): explicit back-transformation of log/count model coefficients into percentage effects, stated formula in text.
+  - Structural Deviations (PRACTICE ONLY): heavier footnote use for methodological/robustness asides; explicit numbered "Conjectures"/hypothesis-labeling subsections (e.g., C1a, C1b) bridging theory and empirical tests.
+  - Other Journal-Specific Patterns (GUIDELINE tension / ENFORCED for majority): guidelines discourage non-empirical papers, and this is enforced in the vast majority of cases, though at least one 2025 history-of-thought exception was found.
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Abstract capped at 100 words, on its own page, with JEL codes appended.
+  - Maximum 30-35 pages / ~10,000 words text, excluding refs/tables/figures/notes.
+  - Combined table+figure limit of 7 in main text; overflow to online appendix.
+  - Figures must be black-and-white, min 300 dpi (600 preferred); color only in supplemental materials.
+  - Mandatory data documentation/replication-availability policy as a condition of publication (stronger than typical field norm).
+  - Empirical component required/strongly expected (papers lacking it are discouraged).
+
+Access-limitation notes: Most Land Economics articles are paywalled beyond abstracts/JEL codes; full-text access was obtained only for open-access (CC-BY-NC-ND) articles published 2023 onward. No institutional EZProxy access was available. Sample skews toward recent (2023-2025) open-access articles as a result; older issues were not directly verifiable in full text.

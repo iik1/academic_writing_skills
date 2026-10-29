@@ -1,0 +1,36 @@
+Journal: International Marketing Review
+Slug: international-marketing-review
+ABS: 3
+Field: MKT
+
+Articles fetched: 15 (front-matter/abstract level; full text generally paywalled)
+Early stop triggered: no (delta set stabilised naturally around article 13-15; continued to 15 as instructed)
+
+Deltas found: 2 dimensions
+  1. Structural Deviations (GUIDELINE ONLY / RELAXATION) - literature-review and conceptual
+     papers frequently do not use the full 4-part structured abstract (Purpose/Design/
+     Methodology/Findings/Originality) that empirical papers reliably use.
+  2. Other Journal-Specific Patterns (PRACTICE ONLY) - heavier-than-FIELD_SKILL-implied share
+     of qualitative/ethnographic/case-study international business papers with no numbered
+     hypotheses, organized around research questions and themes instead.
+
+FIELD_SKILL overrides (HARD_CONSTRAINTS):
+  - Emerald structured abstract format (4-7 sub-headings, max 250 words, up to 6 keywords)
+  - Required Emerald article-type classification (Research paper, Viewpoint, Technical paper,
+    Conceptual paper, Case study, Literature review, General review)
+  - Tables must be typed into manuscript, not submitted as separate graphics
+  - AI policy: no generative-AI drafting of original content; AI copy-editing of author's own
+    text permitted
+  - Double-blind review by three reviewers
+
+Access-limitation notes:
+  - Direct fetch of the official Emerald author-guidelines page
+    (emeraldgrouppublishing.com/products/journals/author_guidelines.htm?id=IMR) returned
+    HTTP 403 in this environment. Guideline content was triangulated via WebSearch snippets
+    (which quote the guidelines page directly) and cross-validated against live article
+    abstract pages, which reliably display the Emerald structured-abstract format in practice.
+  - Full text of all 15 spot-checked articles was inaccessible (paywalled); analysis relied on
+    abstracts, keywords, article-type metadata, and (for one conceptual paper) visible section
+    heading list, consistent with the task's stated allowance for front-matter-level review.
+  - No IMR-specific citation style or explicit word-limit statement could be independently
+    confirmed; these fields in the skill are marked as unconfirmed rather than guessed.

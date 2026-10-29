@@ -1,0 +1,17 @@
+Journal: Psychology of Women Quarterly
+Slug: psychology-of-women-quarterly
+ABS: 3
+Field: PSYCH (GENERAL)
+
+Articles fetched: 6 (1 open-access full text via PMC; 5 via search-engine-indexed abstract snippets; several additional articles attempted but blocked by SAGE's 403 on direct fetch)
+Early stop triggered: Yes — stopped short of the 15-article target because SAGE journals.sagepub.com blocks WebFetch with 403 on essentially all article and guidelines pages; deltas had also stabilized (no new structural/voice deltas emerging in the last 2-3 articles checked).
+
+Deltas found: 3
+  - Abstract word limit (200 words, tighter than field silence) — ENFORCED
+  - Teaching brief format (no abstract, no title page, single-level headings) — ENFORCED, journal-specific article type
+  - Explicit prohibition on sexist/ethnically biased language — ENFORCED
+  - (Lower-confidence) Intersectionality as routine analytic lens in both quant and qual work — PRACTICE ONLY, small sample
+
+FIELD_SKILL overrides: Abstract length (200 words vs. field baseline's silence on the point); explicit non-sexist/non-ethnically-biased language prohibition (more specific than FIELD_SKILL's general jargon/precision guidance).
+
+Access-limitation notes: journals.sagepub.com returned HTTP 403 for both the author-instructions/pwq guidelines page and individual article DOI pages when fetched directly. All guideline content was reconstructed from WebSearch's indexed snippets of that same page. Article spot-check relied on one open-access PMC full text (Krstić et al. 2025) plus abstract-only snippets for the remainder; could not verify open-science/preregistration policy as a formal journal requirement (marked inconclusive in the skill file) due to this access limitation.

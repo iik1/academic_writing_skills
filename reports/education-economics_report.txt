@@ -1,0 +1,22 @@
+Journal: Education Economics
+Slug: education-economics
+ABS: 1
+Field: ECON
+Publisher: Taylor & Francis
+
+Articles fetched (full text or abstract): 0
+Titles/metadata surveyed: 14 (RePEc/IDEAS tables of contents, 2025-2026 issues)
+Early stop triggered: No (ran full good-faith access chain; did not stop early, but access was uniformly blocked)
+
+Deltas found: 0
+FIELD_SKILL overrides: none confirmed
+
+Access-limitation notes:
+- tandfonline.com/journals/cede20 "Instructions for Authors" page: HTTP 403 on every fetch attempt. Could not verify structure, length, abstract format, citation style, heading conventions, table/figure rules, or explicit prohibitions from the primary source.
+- tandfonline.com article full-text pages: HTTP 403 (paywalled/blocked to automated fetch).
+- SSRN and ResearchGate abstract pages for a matched working paper: HTTP 403.
+- IZA DP 17728 (working-paper twin of a forthcoming Education Economics article, Andersen/Michel/Nielsen "Coaching and implementation"): PDF fetched successfully as binary but not text-extractable in this environment (no poppler/OCR tool available for PDF rendering).
+- research.com journal profile page: HTTP 403.
+- ideas.repec.org/s/taf/edecon.html: successfully fetched, yielding titles, authors, and issue/volume/date metadata for 14 articles across 2025-2026 issues. No abstracts included in that listing.
+
+Conclusion: Given the fully blocked access chain (guidelines page, full text, and even most abstract mirrors all returned 403), the resulting skill file is deliberately conservative — it documents the access failure honestly rather than fabricating HARD_CONSTRAINTS or style deltas. All dimensions are marked "Not independently verified" or "FIELD DEFAULT (unverified)". Topic scope (applied microeconometric education/labor economics, consistent with stated journal scope) is the only substantive observation that survived the spot-check. Recommend re-attempting this journal with institutional proxy access or a different fetch/OCR-capable environment before treating the skill as complete.

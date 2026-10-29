@@ -1,0 +1,27 @@
+Journal: Metamorphosis- A Journal of Management Research
+Slug: metamorphosis-a-journal-of-management-research
+ABS: 1
+Field: ETHICS-CSR-MAN
+Publisher: SAGE (for Indian Institute of Management Lucknow)
+
+Articles fetched: 0 full-text articles (SAGE journal/article pages render client-side via JavaScript and returned only navigation/footer content on WebFetch). Title/topic-level evidence gathered for ~10-12 recent articles (2024-2026 issues) via search-engine snippets and RePEc issue summaries.
+Early stop triggered: No (author guidelines page was fully accessible; article full-text was not, for structural/technical reasons rather than a decision to stop early)
+
+Deltas found: 2 (both low-confidence / GUIDELINE ONLY or RELAXATION, not fully confirmed by full-text spot-check)
+  1. Structural Deviations - RELAXATION - broader article-type mix (case studies, participant observation, book reviews) than a typical rigid empirical/theoretical/review split; consistent with ABS-1 tier, not a strong departure.
+  2. Other Journal-Specific Patterns - GUIDELINE ONLY - explicit ban on "commentary manuscripts" and explicit encouragement of case studies/participant-observation research, stated in guidelines but unconfirmed against full text.
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Abstract: unstructured, 150-200 words (tighter than FIELD_SKILL's 150-250 word range), min 4-5 keywords.
+  - No "commentary manuscript" article type accepted.
+  - No preprints accepted.
+  - Mandatory "Statements and Declarations" section with 6 required sub-headings on Title Page (Ethical considerations, Consent to participate, Consent for publication, Conflict of interest, Funding, Data availability), each required verbatim even if "Not applicable."
+  - Figures: numbered consecutively, 300dpi.
+  - APA citation style, exact in-text/reference-list matching required.
+  - AI chatbots may not be listed as authors; AI use must be disclosed.
+
+Access-limitation notes:
+  - journals.sagepub.com pages (guidelines page via PDF export excepted) are JavaScript-rendered and not retrievable as full text via WebFetch in this environment.
+  - Could not access full-text or abstract pages of individual articles for a genuine 10-15 article spot-check; relied on search-engine-extracted issue-level topic summaries (RePEc/IDEAS) and title snippets instead.
+  - No paywall-specific 403s encountered; the blocker was JS rendering, not subscription access.
+  - Given ABS-1 tier and thin public access, skill was written conservatively: most FIELD_SKILL dimensions marked "Follows FIELD_SKILL norm" / FIELD DEFAULT, and the two observed deltas are explicitly flagged as unconfirmed by full-text review.

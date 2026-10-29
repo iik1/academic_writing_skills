@@ -1,0 +1,53 @@
+Journal: Journal of Advertising Research
+Slug: journal-of-advertising-research
+ABS: 3
+Field: MKT
+
+Articles fetched: 29 (abstract/title-level, via ARF issue digest pages)
+  - March 2025 issue (Vol 65 No 1): 9 articles
+  - September 2025 issue (Vol 65 No 3): 11 articles
+  - June 2026 issue (Vol 66): 9 articles
+Full text was not accessible for any article — tandfonline.com (Taylor & Francis)
+returned 403/Cloudflare challenge pages for both the journal's Instructions for
+Authors page and individual article pages. journalofadvertisingresearch.com
+guidelines PDF also Cloudflare-blocked. Relied on ARF (Advertising Research
+Foundation) issue-summary pages, which give title + 1-2 sentence abstract-level
+summary per article, plus WebSearch snippets for guideline fragments.
+
+Early stop triggered: No (continued past 15 to 29 for temporal spread across
+three issues/years; deltas were stable by ~20 articles).
+
+Deltas found: 3 dimensions
+  - Abstract format (HARD CONSTRAINT / ENFORCED): JAR-specific note requires
+    abstracts <=150 words, no abbreviations/diagrams/citations/in-text
+    references. Tighter than FIELD_SKILL's 150-250 word unstructured norm.
+  - Voice/title framing (PRACTICE ONLY / consistent with stated practitioner
+    guideline, treated as ENFORCED): titles are plain-language, outcome- or
+    question-oriented rather than construct/theory-forward.
+  - Other journal-specific pattern (PRACTICE ONLY): heavy use of large-N,
+    real-world industry/platform datasets (TVision attention data, TikTok,
+    YouTube comments, millions of TV ad observations) and prominent
+    quantified managerial takeaways in abstracts, consistent with the
+    guidelines' explicit instruction to emphasize practitioner implications.
+
+FIELD_SKILL overrides: Abstract word limit and content restrictions (150
+words max, no citations/abbreviations/diagrams) overrides the MKT field
+baseline's 150-250 word unstructured abstract norm.
+
+Access-limitation notes:
+  - tandfonline.com/journals/ujar20 (Instructions for Authors, detailed
+    formatting/citation/structure requirements) could not be fetched —
+    consistently returned HTTP 403 / Cloudflare "Just a moment" challenge
+    pages via both WebFetch and curl.
+  - journalofadvertisingresearch.com guidelines PDF (Additional_assets/
+    Guidelines.pdf) also Cloudflare-blocked; redirected to a 403 challenge
+    page rather than serving the PDF.
+  - No full-text articles were accessible (all paywalled behind T&F/ARF
+    member access); all article-level observations are abstract/title-level
+    only, so Statistical Reporting, Citation Density, and Structural
+    Deviations sections in the skill are marked "Follows FIELD_SKILL norm"
+    due to lack of contrary evidence rather than confirmed alignment.
+  - Word/page limit for JAR itself was not confirmed; a 12,000-word limit
+    found in search results applies to the sister journal Journal of
+    Advertising (UJOA), not JAR, and was explicitly excluded from the skill
+    to avoid misattribution.

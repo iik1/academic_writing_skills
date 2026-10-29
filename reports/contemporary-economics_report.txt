@@ -1,0 +1,24 @@
+Journal: Contemporary Economics
+Slug: contemporary-economics
+ABS: 1
+Field: ECON
+Articles fetched: 21 (Vol. 18 Issue 4, 2024; Vol. 19 Issue 2, 2025; Vol. 19 Issue 4, 2025 — titles, authors, abstracts via publisher issue pages)
+Early stop triggered: No — full 21-article sample completed across 3 issues/2 years.
+
+Deltas found: 2 dimensions
+1. Structural Deviations — standalone Limitations section named in guidelines and observed in practice (RELAXATION/addition vs FIELD_SKILL's Conclusion-folded limitations).
+2. Other Journal-Specific Patterns — broader topic scope than FIELD_SKILL corpus (heavy applied management/marketing/sustainability/ESG content alongside conventional macro-finance econometrics); frequent use of ML/AI methods (XGBoost, neural nets, PLS-SEM) as primary empirical method, with less emphasis on causal identification than the ABS 4*/4 baseline (RELAXATION, consistent with ABS 1 tier).
+
+FIELD_SKILL overrides (HARD_CONSTRAINTS from guidelines that override FIELD_SKILL):
+- Unstructured abstract, 150-250 words, no citations allowed in abstract.
+- APA 7th edition citation style (not generic author-year).
+- At least 5 references from Clarivate Master Journal List (Impact-Factor journals); reference lists expected to run to dozens of sources.
+- Named Limitations section/subsection.
+- Table/figure numbering, title-above/source-below convention, and in-text numeric referencing requirement.
+- No page/word limit.
+- Explicit prohibition on ghostwriting/guest authorship and simultaneous submission.
+
+Access-limitation notes:
+- No EZProxy access; full text of sampled articles was not read — spot-check relied on publisher issue-page abstracts, titles, author lists, and page ranges (front-matter), which is sufficient per task instructions to judge structural/scope/voice deltas.
+- Journal's own aims-and-scope page did not fully render key mission text via WebFetch; scope description was reconstructed from indexing categories, recent article topics, and the instructions-for-authors page.
+- Guidelines page content was retrieved via WebFetch summarization rather than direct HTML parse; original source is https://ce.vizja.pl/en/instructions-for-authors.

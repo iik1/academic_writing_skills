@@ -1,0 +1,14 @@
+Journal: International Economic Journal
+Slug: international-economic-journal
+ABS: 1
+Field: ECON
+Articles fetched: 12 (titles/authors/years only, from RePEc/IDEAS and Taylor & Francis table of contents listings; no abstracts or full text accessible)
+Early stop triggered: No (ran full access-chain attempts across guidelines pages, journal home, scispace metadata page, and article-level DOI page; all blocked with HTTP 403 except RePEc/IDEAS listing and T&F table-of-contents page)
+Deltas found: 0 dimensions — insufficient access to establish any journal-specific delta from FIELD_SKILL. Skill defaults entirely to FIELD_SKILL baseline.
+FIELD_SKILL overrides: none (no hard constraints could be confirmed)
+Access-limitation notes:
+- tandfonline.com (journal home, author instructions page, instructions-for-authors collection page, individual article DOI page) all returned HTTP 403 Forbidden to WebFetch.
+- scispace.com journal metadata page also returned HTTP 403.
+- WebSearch tool returned "search tool is currently unavailable" for the majority of queries this session, severely limiting the ability to find guideline mirrors, SSRN/RePEc working paper versions, or author homepage copies of articles.
+- Only successfully fetched sources: https://ideas.repec.org/s/taf/intecj.html (article listing) and https://www.tandfonline.com/toc/riej20/current (table of contents) — both title/author/page-number only, no abstracts.
+- Recommend re-attempting this journal in a session with working WebSearch and/or institutional EZProxy access to properly populate Hard Constraints and spot-check actual article prose/abstracts.

@@ -1,0 +1,44 @@
+Journal: R and D Management
+Slug: r-and-d-management
+ABS: 3
+Field: INNOV
+
+Articles fetched: 13 distinct articles, abstract/front-matter level only
+(all full-text access attempts to onlinelibrary.wiley.com returned HTTP 402
+Payment Required in this environment; relied on WebSearch-extracted
+snippets, a university repository (Strathclyde PURE) summary, and
+ResearchGate/R Discovery secondary listings).
+
+Early stop triggered: No. Continued sampling until the delta set stabilised
+(no new deltas emerging after ~10 articles); stopped at 13 as a good-faith
+sample given the access constraints, per instructions.
+
+Deltas found: 1 substantive delta.
+  - Abstract/front matter: Required plain-language managerial/practitioner
+    summary published alongside the standard academic abstract (ENFORCED,
+    confirmed via guideline snippet).
+  - Citation style: Harvard (author-date) — additive detail, not a
+    FIELD_SKILL conflict (ENFORCED).
+  - No deltas found in voice/register, statistical reporting, structural
+    organization, hedging, or argumentation patterns across sampled
+    abstracts — all FIELD DEFAULT.
+
+FIELD_SKILL overrides: None required. The managerial-summary requirement
+adds to FIELD_SKILL (which does not specify abstract format) rather than
+contradicting it.
+
+Access-limitation notes:
+  - Wiley Online Library (onlinelibrary.wiley.com) blocked all direct
+    WebFetch attempts with HTTP 402, including the author guidelines page,
+    journal homepage, and individual article DOI pages. All guideline and
+    abstract content was obtained indirectly via WebSearch result snippets,
+    which WebSearch itself synthesizes from cached/indexed page text.
+  - No SSRN, personal faculty page, or open-access full-text version of
+    a R&D Management article was found accessible in this pass; sampling
+    was therefore limited to abstract-level front matter, which is
+    sufficient per task instructions for judging structural/voice deltas
+    but not for citation-density or sentence-level statistical-reporting
+    comparisons.
+  - Word/page limit and explicit prohibitions beyond those listed could not
+    be independently verified beyond what WebSearch surfaced from the
+    guidelines page.

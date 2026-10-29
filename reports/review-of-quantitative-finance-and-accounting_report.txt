@@ -1,0 +1,20 @@
+Journal: Review of Quantitative Finance and Accounting
+Slug: review-of-quantitative-finance-and-accounting
+ABS: 3
+Field: FINANCE
+
+Articles fetched: 15 (13 via full IDEAS/RePEc abstract fetch, 2 via WebSearch abstract snippets)
+Early stop triggered: No (target of 15 reached; deltas had stabilized by ~10 articles)
+
+Deltas found: 3 dimensions
+ - Explicit Prohibitions / Structural Deviations: double-blind review requirement (author info removed from manuscript body, submitted via portal fields instead) — ENFORCED
+ - Explicit Prohibitions: mandatory "Statements and Declarations" section (competing interests, 3-year window) — ENFORCED
+ - Abstract: hard 150-250 word band + 4-6 keywords requirement — ENFORCED (more specific than FIELD_SKILL's general description)
+ - Other Journal-Specific Patterns: scope explicitly includes literature reviews and purely theoretical/methodological papers alongside empirical work; keyword lists/JEL codes tend to be shorter/narrower than typical 4*/4 papers — PRACTICE ONLY / RELAXATION (consistent with ABS 3 tier)
+
+FIELD_SKILL overrides: none (journal guidelines narrow/specify FIELD_SKILL defaults but do not contradict them)
+
+Access-limitation notes:
+- Springer's link.springer.com submission-guidelines and article pages redirect to an idp.springer.com login wall when fetched directly (303 redirect to authenticate). Guideline content was recovered via WebSearch snippet extraction instead of direct WebFetch.
+- Article full text was inaccessible (paywalled); all 15 spot-checked articles were assessed via abstract + keywords + JEL classification only, sourced from IDEAS/RePEc mirror pages (which fetch successfully) plus two WebSearch-derived abstract snippets for very recent (2026) articles not yet indexed on RePEc.
+- No explicit word/page length limit was found in any accessible source; treated as "no delta / unspecified."

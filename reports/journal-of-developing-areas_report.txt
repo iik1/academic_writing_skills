@@ -1,0 +1,18 @@
+Journal: Journal of Developing Areas
+Slug: journal-of-developing-areas
+ABS: 1
+Field: ECON
+
+Articles fetched: 1 full-text (working-paper proxy via arXiv) + ~20 titles/authors across 4 issue tables of contents (Vol. 58, Issues 1-4, 2024)
+Early stop triggered: No (exhausted good-faith access chain; this is a documented thin-access case, not an early stop)
+
+Deltas found: 0
+Dimensions checked with no delta: Structure, Voice/person, Statistical reporting, Citation density/format, Hedging
+
+FIELD_SKILL overrides: none
+
+Access-limitation notes:
+- No public author-guidelines / instructions-for-authors page could be located for this journal after searching Project MUSE, JSTOR, RePEc/IDEAS, and Tennessee State University domains (including digitalscholarship.tnstate.edu, which 404'd for a /jda path).
+- Full text is paywalled via Project MUSE/JSTOR; only one open-access working-paper version of a published JDA article (Datta, forex entropy paper, arXiv:2308.04181) was found and used as a structure/voice proxy.
+- Remaining evidence is limited to titles, authors, and page ranges from Project MUSE issue tables of contents and RePEc listings (no abstract text was accessible), which is sufficient to confirm topical scope and general empirical-paper format but not sufficient to detect fine-grained stylistic deltas.
+- Given the thin access, the skill file is intentionally short and mostly defers to FIELD_SKILL, flagging all dimensions as FIELD DEFAULT with the caveat that hard constraints are undocumented rather than confirmed absent.

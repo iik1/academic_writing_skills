@@ -1,0 +1,23 @@
+Journal: Journal of Economic Integration
+Slug: journal-of-economic-integration
+ABS: 1
+Field: ECON
+Publisher: Center for Economic Integration, Sejong University
+
+Articles fetched: 15 titles/abstracts sampled (Vol. 39 2024, Vol. 40 2025, Vol. 41 2026) via journal homepage, RePEc/EconPapers listings; 2 articles examined in more detail via SSRN/ResearchGate abstract snippets. Full text was not retrievable for any article (no institutional access; publisher site does not expose full abstracts on listing pages).
+
+Early stop triggered: No — proceeded through all phases with a documented thin-access sample, per ABS 1 allowance.
+
+Deltas found: 1 substantive delta plus contextual notes; all other dimensions follow FIELD_SKILL default.
+  - Language/voice: RELAXATION — guidelines explicitly recommend spell-check/grammar-check for non-native English authors, implying more tolerance for prose polish than FIELD_SKILL's ABS 4*/4 baseline assumes.
+  - Topical scope: PRACTICE ONLY / low-prevalence — sampled titles cluster tightly around trade, FDI, and regional/monetary integration (reflects journal mission, not a stylistic norm).
+  - All other dimensions (voice/person, sentence style, introduction structure, methods conventions, results/tables norms, hedging): FIELD DEFAULT, no delta.
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Length: 50 pages double-spaced / 40 pages at 1.5 spacing, INCLUDING references/figures/tables, excluding appendices.
+  - Submission format: blinded manuscript + separate title page (with JEL codes, up to 6).
+  - Citation style: APA 6th edition, "et al." with periods.
+  - Prohibitions: no simultaneous submission; 3-year publication ban for plagiarism/data manipulation.
+  - No specific abstract structure/length mandated.
+
+Access-limitation notes: No EZProxy access. Journal's own site (e-jei.org) does not expose full abstracts on public listing pages; relied on RePEc/EconPapers for title lists across three volumes and SSRN/ResearchGate for two detailed abstracts. This is a thinner evidentiary base than higher-tier journals typically receive, consistent with ABS 1 guidance to accept a smaller good-faith sample and document limitations honestly.

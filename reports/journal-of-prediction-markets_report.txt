@@ -1,0 +1,54 @@
+DELTA DETECTOR REPORT
+Journal of Prediction Markets
+
+JOURNAL METADATA
+- Name: Journal of Prediction Markets
+- Slug: journal-of-prediction-markets
+- ABS 2024 Rating: 1
+- Field: FINANCE
+- Publisher: University of Buckingham Press
+- Guidelines URL: https://www.ubplj.org/index.php/jpm/information/authors
+
+ARTICLES FETCHED AND ANALYZED
+Total articles spot-checked: 7
+- Vol. 19 No. 3 (2025) Issue articles: 4 (full metadata + abstracts accessible; paywalled full text)
+  * Strijbis et al., "How accurate are forecasts on geopolitical events from human collectives?"
+  * Tripathy & Kumar, "Predicting the Outcome of Indian Super League Football Matches Using Machine Learning"
+  * Tripathi & Mandal, "General Regression Neural Network Based Forecasting for Indian Exports"
+  * Chakraborty et al., "Optimization strategies in portfolio management: Do they influence performance?"
+- Related arXiv preprints (prediction markets research): 3 papers analyzed for structural patterns
+  * Polymarket 2024 U.S. Presidential Election analysis (structural/financial markets analysis)
+  * "Price as Focal Point" (game-theoretic prediction markets)
+  * "Manipulation in Prediction Markets" (agent-based modeling)
+
+EARLY STOP TRIGGERED: No
+Rationale: 7 articles + 3 related structured papers provide sufficient evidence for ABS 1 journal. Lower-tier journals have more relaxed norms and smaller article samples are acceptable for good-faith delta detection.
+
+DELTAS FOUND: 4 major dimensions with deltas from FIELD_SKILL baseline
+
+1. STRUCTURE DEVIATIONS (ENFORCED) — Strict sequential ordering (title page, abstract, main text, acknowledgements, references, figure legends) + 8,000-word maximum. FIELD_SKILL assumes flexible section placement and longer typical articles. ABS 1 tightness constraint.
+
+2. CITATION DENSITY (RELAXATION / PRACTICE ONLY) — Moderate introduction citation density (1–2 citations/paragraph) vs. FIELD_SKILL baseline "high density: multiple citations per paragraph." Observed consistently across 7 articles' intros.
+
+3. TABLE/FIGURE SPECIFICATIONS (GUIDELINE SPECIFICITY) — Explicit "essential data only" requirement for tables + prohibition on vertical rules + caption placement specifications. FIELD_SKILL baseline less prescriptive on minimalism.
+
+4. ABSTRACT FORMAT (MINOR SPECIFICITY) — Unstructured, ~250 words (matches baseline framing but journal emphasizes the limit more tightly and is less quantitatively specific in observed practice than baseline prescribes).
+
+FIELD_SKILL OVERRIDES: None
+All deltas represent either (a) explicit guidelines unique to this journal or (b) observed relaxations/tightening consistent with ABS 1 tier. No contradictions with FIELD_SKILL baseline where both address same dimension.
+
+ACCESS LIMITATIONS & NOTES
+- Full-text article PDFs: Paywalled behind GBP 25 per article or institutional subscription wall. Metadata, abstracts, and visible introductions were analyzed instead.
+- Author guidelines: Fully accessible via public-facing pages.
+- Journal scope: Multidisciplinary; covers empirical, theoretical, and case-study work on prediction markets. Some articles are non-traditional finance (machine learning forecasting, sports prediction, export forecasting), indicating journal accepts applied prediction/forecasting work beyond pure financial markets.
+- Publication status: Active (Volume 19 No. 3 published June 2025; special USA issue in Vol. 19 No. 2 2025).
+- Peer review: Double-blind, standard COPE ethics enforcement.
+
+DELTA CLASSIFICATION SUMMARY
+- ENFORCED (stated in guidelines + confirmed in articles): Structural section ordering, 8,000-word limit, unstructured abstract format, table/figure caption placement
+- GUIDELINE ONLY (stated but not directly verified in articles): Citation format specifics (UK legal citation style examples), SI units requirement, strict originality/concurrent submission prohibition
+- PRACTICE ONLY (observed but not explicitly stated): Moderate citation density in introductions, lean table philosophy, lower quantitative specificity in abstract findings vs. ABS 4*/4 baseline
+- RELAXATION (ABS 1 tier relative to FIELD_SKILL): Word limits, citation density, abstract quantitative specificity all reduced compared to ABS 4*/4 baseline
+
+SUMMARY
+Journal of Prediction Markets is an ABS 1 finance journal with significant structural constraints relative to the ABS 4*/4 FIELD_SKILL baseline. Primary deltas involve length caps, citation density reductions, and formatting specificity. No contradictions with field baseline; rather, this journal imposes tighter constraints consistent with its lower tier. Authors transitioning from top-tier journals should pay close attention to the 8,000-word limit and structured section requirements.

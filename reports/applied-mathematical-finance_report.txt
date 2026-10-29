@@ -1,0 +1,21 @@
+Journal: Applied Mathematical Finance
+Slug: applied-mathematical-finance
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 13 titles/abstracts sampled (Vol. 32 Issues 1-5, 2025, and Vol. 31 Issue 4, 2024, via RePEc/EconPapers listings). Only 1 full abstract accessible (VolGAN, Vuletić & Cont, 2024). No full-text articles were accessible.
+
+Early stop triggered: No (exhausted reasonable access chain rather than stopping early). Taylor & Francis (tandfonline.com) returned HTTP 403 to all automated fetch attempts, including the author-guidelines page, about-this-journal page, and the one open-access full-text article identified. SSRN also returned 403. RePEc/IDEAS and EconPapers were the only reliably accessible sources, and they provide only titles/authors/page ranges, not abstracts, for most entries.
+
+Deltas found: 2 (both low-confidence / PRACTICE ONLY, inferred from title patterns rather than confirmed full-text reading)
+  1. Voice and Register — likely more mathematics-forward (theorem/proposition/proof structure) than the typical empirical-finance FIELD_SKILL article, based on titles concerning rough paths, PDE/numerical schemes, and stochastic models.
+  2. Structural Deviations — meaningful share of papers likely follow a methods-and-simulation structure (model specification, numerical scheme, calibration/simulation results) rather than FIELD_SKILL's empirical-identification structure, based on titles involving generative models, simulation, and numerical methods.
+
+FIELD_SKILL overrides: none confirmed (no hard constraints could be verified from accessible sources).
+
+Access-limitation notes:
+- Taylor & Francis (tandfonline.com) blocked all WebFetch attempts with HTTP 403, including the guidelines/instructions-for-authors page and the one confirmed open-access article's full text.
+- SSRN preprint page also returned 403.
+- Citation style (author-date, e.g. "(Zebrowski, 2000)") was confirmed via a third-party citation-style aggregator (Paperpile), not the journal's own guidelines page.
+- No word/page limits, abstract format rules, or explicit prohibitions could be confirmed from any accessible source.
+- Given the thin access chain, the skill file is intentionally short and flags its two deltas as low-confidence, title-pattern-based inferences rather than confirmed journal norms.

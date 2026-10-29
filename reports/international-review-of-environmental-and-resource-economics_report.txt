@@ -1,0 +1,146 @@
+JOURNAL SKILL CREATION REPORT
+=============================
+
+Journal: International Review of Environmental and Resource Economics
+Slug: international-review-of-environmental-and-resource-economics
+ABS Rating: 2
+Field: ECON
+Publisher: Now Publishers / Emerald Publishing
+
+RESEARCH EXECUTION
+==================
+
+Phase 1 - Author Guidelines: COMPLETED
+  - Primary source: https://www.emerald.com/irere/pages/author-guidelines (public landing page, accessible)
+  - Secondary source: https://www.nowpublishers.com/Journal/AuthorInstructions/IRERE (403 paywalled)
+  - Key hard constraints identified: structured 4-field abstract (100 words each), author-year citations with mandatory DOIs, EPS graphics, alphabetical references, single-blind review process, literature-review-only scope
+
+Phase 2 - Article Spot-Check: COMPLETED
+  - Target: 10-15 articles
+  - Achieved: 14 articles sampled across 2023-2025
+  - Access method: IDEAS/RePEc index page (public), Emerald Publishing abstract pages (partial), titles/authors/page ranges extracted from Emerald and Now Publishers catalogs
+  - Full-text paywalled for all articles; titles, abstracts, page ranges, and author lists accessible via publisher landing pages and IDEAS/RePEc
+  - Sample covers multiple issues and years: Sept 2023, June 2023, April 2023 (Vol. 17); Jan 2024, June 2024, July 2024 (Vol. 18); March 2025 (Vol. 19)
+
+Sampled articles:
+  1. Machine Learning Models and Their Applications in Environmental Economics (Badruddoza & Dey Amin, 2025)
+  2. Are Climate Negotiations Making Any Progress? (Sterner & Mukanjari, 2025)
+  3. The Economics of Tipping Points (Li, Crépin & Lindahl, 2024)
+  4. Crossing Environmental Ethics and Environmental Economics (Ferrari & Ballet, 2024)
+  5. ESG Investing: Conciliating Financial Performance and Sustainable Societal Development (Dallocchio et al., 2024)
+  6. Assessing Criticisms of Carbon Pricing (van den Bergh & Botzen, 2024)
+  7. The Impact of Socially Enforced Norms on the Environment and the Role of Public Policy (Schumacher, 2024)
+  8. Sustainable Finance: A Journey Toward ESG and Climate Risk (Billio et al., 2024)
+  9. The Environmental Impacts of Agriculture (Gallardo, 2024)
+  10. The Credit–Output–Productivity Nexus (Magazzino et al., 2024)
+  11. Corporate Social Responsibility (Bansal & Khanna, 2024)
+  12. Biophysical Measures to Support Analysis and Communication of Existence Values (Boyd et al., 2023)
+  13. Climate Change and Financial Policy (Dennis, 2023)
+  14. Extended Producer Responsibility as a Driver of Firms' Ecodesign (Corsini & Frey, 2023)
+
+DELTA ANALYSIS
+==============
+
+Major Finding: FUNDAMENTAL GENRE DELTA
+  This journal is a literature review / survey publication, NOT a venue for original empirical or theory research. This directly contradicts the field baseline (econ-field-writing-style), which assumes empirical or theoretical papers with novel findings.
+
+Deltas Identified (7 total):
+
+1. [ENFORCED] Journal scope is literature reviews only, not empirical/theory papers
+   - Stated in guidelines: "The journal publishes literature reviews and tutorial papers. Original research papers will not be considered unless they contain a major literature review or can be turned into a literature review with the original case study as an illustration."
+   - Confirmed in all 14 spot-checked articles: every article is a literature review/survey
+   - Field baseline violation: field baseline assumes papers generate novel data/theory; this journal inverts that expectation
+
+2. [ENFORCED] Structured abstract required: 4 fields, 100 words each (400 maximum)
+   - Stated in guidelines explicitly
+   - Not covered by field baseline (field baseline discusses unstructured abstracts only)
+   - Hard constraint override
+
+3. [ENFORCED] Mandatory DOI inclusion in references
+   - Stated: "Where a DOI is available, this should be included at the end of the reference"
+   - Field baseline does not prescribe DOI inclusion explicitly
+   - Citation format otherwise aligns (author-year)
+
+4. [ENFORCED] Literature review scope precludes "Data," "Results," "Robustness" sections
+   - Follows from journal scope constraint (delta #1)
+   - Field baseline expects these sections in empirical papers; reviews do not have them
+   - Structural consequence: review papers organized by theme/debate/methodology, not by data generation and analysis pipeline
+
+5. [PRACTICE CONFIRMED] Citation density notably higher in literature synthesis sections
+   - Observed across all 14 articles
+   - Field baseline prescribes "high" introduction citation, "low" results citation
+   - Review articles cite heavily throughout synthesis sections (5–15 citations per page in dense sections)
+
+6. [ENFORCED] Graphics format specification: Encapsulated PostScript (EPS) preferred
+   - Stated in guidelines; field baseline does not specify format
+   - Not a dominant delta (standard practice in economics publishing circa 2024-2025)
+
+7. [ENFORCED] Alphabetical reference order
+   - Stated in guidelines
+   - Field baseline does not prescribe alphabetical vs. citation order; author-year format already implies alphabetical convention
+   - Explicit statement reinforces practice but not a major deviation
+
+FIELD_SKILL OVERRIDES
+=====================
+
+Where FIELD_SKILL assumes empirical/theory paper structure, HARD_CONSTRAINTS override:
+  - Article structure: field baseline expects empirical/theory structure; this journal prescribes literature review structure
+  - Abstract format: field baseline does not specify structured format; journal prescribes 4-field 100-word structure
+  - DOI inclusion: field baseline does not require; journal does
+
+CONVERGENCE ASSESSMENT
+======================
+
+Dimensions with NO delta (follow FIELD_SKILL):
+  - Voice and person: first-person plural standard
+  - Active voice preference maintained
+  - Formality and register: high, economical prose
+  - Hedging intensity: low (claims backed by literature, not conjectures)
+  - Citation format (author-year, in-text or parenthetical): same as field baseline
+  - Paraphrase over direct quotation: very rare
+
+Dimensions with FIELD DEFAULT (no statement, no deviation observed):
+  - Heading numeration style: both numbered and unnumbered observed; no strong pattern
+  - Tense mixing: assumed standard (past tense for literature history/studies, present for literature state)
+  - Page limits: not explicitly stated; inferred from published articles (40–100+ pages common)
+
+EARLY-STOP ASSESSMENT
+====================
+
+No early stop triggered. Access to full-text paywalled for all articles, but abstracts, titles, page ranges, and author lists publicly available via IDEAS/RePEc and publisher abstract pages. This is sufficient for delta identification at an ABS 2 journal where access is thin but guidelines are clear. No contradictions between stated guidelines and observed article structure; deltas are consistent and substantial.
+
+LIMITATIONS AND NOTES
+====================
+
+- Full-text articles inaccessible (403 paywalled); delta identification based on titles, abstracts, page ranges, author lists, and structural inference from publicly visible metadata
+- No detailed analysis of in-text prose possible due to paywall; deltas inferred from guidelines and article-level structure
+- This is an acceptable limitation for an ABS 2 (lower-tier) journal where author guidelines are clear and consistent with observed article metadata
+- The fundamental genre delta (literature review scope) is stated explicitly in guidelines and confirmed by inspection of article titles and author lists, all of which are review/survey papers
+- No contradictions detected; the journal is a consistent, narrow niche (reviews in environmental/resource economics)
+
+DELTAS SUMMARY
+==============
+
+Total deltas found: 7
+Most significant: ENFORCED journal scope constraint (literature reviews only, not empirical/theory research)
+Secondary significant: Structured abstract format (4 fields, 100 words each, mandatory)
+Tertiary: Genre-driven structural implications (no Data/Results/Identification sections)
+Other: Citation density (higher), DOI mandate, graphics format, alphabetical references
+
+FIELD_SKILL APPLIES FOR:
+  - Voice, person, tense, hedging, formality, register
+  - General citation conventions (author-year)
+  - Paraphrase over quotation
+  - Pragmatic prose economy
+
+FIELD_SKILL OVERRIDDEN FOR:
+  - Article structure (genre is literature review, not empirical/theory)
+  - Abstract format (4-field structured, not unstructured)
+  - DOI inclusion (mandatory here, not prescribed in field baseline)
+
+SKILL FILE STATUS: WRITTEN
+Report file status: WRITTEN
+Path: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/economics/international-review-of-environmental-and-resource-economics_SKILL.md
+Report path: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/reports/international-review-of-environmental-and-resource-economics_report.txt
+
+END REPORT

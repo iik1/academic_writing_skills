@@ -1,0 +1,21 @@
+Journal: Journal of Pension Economics and Finance
+Slug: journal-of-pension-economics-and-finance
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 6 (front-matter/abstract level; full text paywalled)
+Early stop triggered: No
+
+Deltas found: 2 dimensions
+  1. Structural Deviations — standalone "Literature review" section used in 2 of 6 sampled articles (PRACTICE ONLY, not stated in guidelines but recurring)
+  2. Abstract Length — 100-word cap vs FIELD_SKILL 150-250 word norm (ENFORCED, stated in guidelines and corroborated by observed abstracts)
+
+FIELD_SKILL overrides:
+  - Abstract word limit: 100 words max (hard constraint from guidelines)
+  - Manuscript length: 35 pages max
+
+Access-limitation notes:
+  - Full text of all sampled articles is paywalled; analysis relied on abstracts, keywords, JEL codes, and visible section-heading lists from Cambridge Core article pages.
+  - The underlying "Style Guide for Contributors" PDF referenced by the Cambridge author-instructions page could not be directly fetched in this environment; guidance was reconstructed from the "Instructions for Contributors" and "Submitting your materials" HTML pages instead.
+  - One secondary web-search snippet mentioned a 55-page limit conflicting with the 35-page figure on the primary submission-requirements page; treated the 35-page figure (from the authoritative "Submitting your materials" page) as correct.
+  - Citation style (author-year) and heading/table conventions were not independently confirmed via full text; assessed as FIELD DEFAULT based on visible abstract/keyword/JEL-code presentation and typical CUP economics-journal practice.

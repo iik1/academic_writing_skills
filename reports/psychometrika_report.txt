@@ -1,0 +1,44 @@
+Journal: Psychometrika
+Slug: psychometrika
+ABS: 3
+Field: PSYCH (GENERAL)
+
+Articles fetched: 7 distinct articles (1 full-text PDF, 3 abstract pages via
+Cambridge Core/RePEc, 3 identified via WebSearch title/topic snippets only).
+Fewer than the target 15 because the journal's content is highly stable and
+specialized (mathematical/methodological, not empirical-IMRaD), deltas
+converged quickly, and much of the archive (pre-2025 Springer era) is
+paywalled with only abstract-level access.
+
+Early stop triggered: Yes. After ~7 articles the delta set had stabilized
+(consistent pattern: unstructured abstracts, math-heavy technical register,
+non-IMRaD structure, methods/simulation-centric "results" rather than
+significance-testing reporting). Additional articles were unlikely to
+surface new delta categories given the journal's narrow, stable scope.
+
+Deltas found: 4 dimensions
+- Voice and Register (technical-mathematical vs. empirical-report prose)
+- Statistical Reporting (simulation/model-fit reporting vs. p-value/effect-size/CI framework)
+- Structural Deviations (unstructured single-paragraph abstracts; commentary/rejoinder format)
+- Other Journal-Specific Patterns (technical/methodological keywords)
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+- Manuscript length (~40 double-spaced pages, 12pt)
+- Abstract length (200 words, unstructured)
+- Keywords (3-5)
+- Citation style (APA 7th, author-date)
+- Three distinct journal sections (Theory & Methods, ACS, Reviews) each with
+  own submission expectations
+- Commentary format (max 15 pages, compressed structure)
+- Tables/figures submitted in situ, editable format required, alt-text required
+- Explicit prohibitions: no routine tool comparisons, no curriculum/test-dev
+  descriptions, no program-only submissions without methodological content
+
+Access-limitation notes:
+- Journal changed publisher from Springer Nature to Cambridge University
+  Press in 2025 and became fully Open Access; guidelines were sourced from
+  the current Cambridge Core pages.
+- Most historical full-text articles (Springer era) are paywalled; relied
+  on abstract pages (Cambridge Core, RePEc/IDEAS) and one full-text PDF
+  mirror (semanticscholar) for a 2025 article.
+- No access to Psychometric Society member-only archive.

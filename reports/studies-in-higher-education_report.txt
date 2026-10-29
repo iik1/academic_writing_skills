@@ -1,0 +1,19 @@
+Journal: Studies in Higher Education
+Slug: studies-in-higher-education
+ABS: 3
+Field: MDEV&EDU
+
+Articles fetched: 9 (title/abstract-level only; publisher tandfonline.com returned HTTP 403 on all direct WebFetch attempts, including the about/guidelines page and full-text article pages). Evidence gathered via WebSearch-indexed snippets, TOC listings, and two PMC-mirrored editorials.
+
+Early stop triggered: Yes — stopped short of the target 15 because tandfonline.com systematically blocks direct fetches (403) and further WebSearch queries returned diminishing new information (repeated hits on the same handful of 2024-2025 articles). Judged the delta set had stabilized: consistent picture of an empirically-anchored, quantitative/mixed-methods-leaning journal with strict 150-word abstract and 7000-word manuscript caps.
+
+Deltas found: 2 dimensions
+  1. Structural Deviations — PRACTICE ONLY / RELAXATION: sample skews empirical/IMRaD, no conceptual-essay-only pieces observed (FIELD_SKILL treats conceptual essays as a common, legitimate type at the field's flagship, AMLE).
+  2. Other Journal-Specific Patterns — ENFORCED: hard 150-word abstract cap and 7000-word manuscript cap, both tighter/more specific than FIELD_SKILL's unspecified length norms.
+
+FIELD_SKILL overrides: None that contradict the baseline outright; the two deltas above are refinements/relaxations, not redefinitions, consistent with ABS-3 tier rules.
+
+Access-limitation notes:
+- tandfonline.com/journals/cshe20/about-this-journal and cshe20 TOC pages returned 403 Forbidden on WebFetch; could not directly verify citation style (APA assumed provisional, not confirmed from a primary source) or table/figure formatting rules.
+- All article-level evidence is abstract/title-level via search snippets, not full-text reads, per assignment instructions allowing this when full text is paywalled.
+- No conceptual/essay-type article was located in the accessible sample; this may reflect selection bias in what WebSearch surfaces (recent AI/outcomes-themed articles) rather than the journal's true article-type mix, so it is flagged PRACTICE ONLY rather than a stated norm.

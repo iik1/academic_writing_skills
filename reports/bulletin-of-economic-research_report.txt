@@ -1,0 +1,104 @@
+JOURNAL SKILL GENERATION REPORT
+================================
+
+Journal Name: Bulletin of Economic Research
+Slug: bulletin-of-economic-research-writing-style
+ABS Rating: 2
+Field: ECON
+Publisher: Wiley-Blackwell
+
+EXECUTION SUMMARY
+=================
+
+Articles Fetched: 12 articles (from IDEAS/RePEc and EconPapers listings for 2024-2026)
+Early Stop Triggered: No
+Deltas Found: 2 (Abstract length constraint; structural flexibility)
+FIELD_SKILL Overrides: 1 (abstract word limit: 150 words vs. typical 200-250 in ABS 4* journals)
+
+ACCESS AND METHODOLOGY
+======================
+
+Phase 1 - Author Guidelines: COMPLETED
+- Source: Wiley public author guidelines page (https://onlinelibrary.wiley.com/page/journal/14678586/homepage/forauthors.html)
+- Accessible: Partial (abstract and metadata requirements visible; full PDF inaccessible)
+- Key constraints extracted: Abstract limit (150 words), JEL codes required, keywords required, author metadata required, LaTeX/Word formats, figures at end
+
+Phase 2 - Article Spot-Check: COMPLETED
+- Access method: IDEAS/RePEc and EconPapers (open access article listings)
+- Wiley full-text paywalled (402 Payment Required), but article metadata and structure visible
+- Recent articles examined: Volume 77-78 (2024-2026)
+  * Sample includes: "How Can Inflation Contracts Discipline Central Bankers?" (André & Dai, 2026)
+  * "Does Ethnic Diversity Reduce Economic Complexity?" (Nvuh-Njoya et al., 2025)
+  * "Labor Market Segmentation and Wages in West Africa" (Kponou, 2026)
+  * "Impact of COVID-19 Shock on a Segmented Labor Market" (Das et al., 2025)
+  * Plus 8 additional titles from 2024-2025
+- Paywall limitation: Full text not accessible; analysis based on abstracts, section headings from TOC, and author guidelines
+
+Phase 3 - Delta Classification: COMPLETED
+- ENFORCED (Hard constraints from guidelines): Abstract limit 150 words, JEL codes, keywords, author metadata, figure placement, Free Format option
+- PRACTICE ONLY: No patterns observed beyond FIELD_SKILL baseline
+- FIELD DEFAULT: Voice, person, argumentation, citation density, results reporting, hedging - all align with econ-field-writing-style
+
+DELTAS IDENTIFIED
+=================
+
+1. Abstract Length Constraint
+   - Status: ENFORCED
+   - Detail: Maximum 150 words (stricter than typical ABS 4* journals which permit 200-250 words)
+   - Classification: RELAXATION (lower-tier journal applies shorter limit than field baseline)
+   - Source: Wiley author guidelines (confirmed in multiple search results)
+
+2. Structural Flexibility
+   - Status: FIELD DEFAULT
+   - Detail: No explicit section order mandated; authors have flexibility in structure
+   - Classification: FIELD DEFAULT (aligns with ECON field baseline)
+   - Consequence: Standard empirical and theory structures are acceptable; no deviation from FIELD_SKILL
+
+NO DEVIATIONS OBSERVED IN:
+- Voice and person (first-person plural expected per FIELD_SKILL)
+- Citation format (author-year standard)
+- Hedging practices
+- Results reporting conventions
+- Methods section conventions
+- Argumentation structure
+- Conclusion conventions
+
+FIELD_SKILL OVERRIDES
+====================
+
+One explicit override from FIELD_SKILL:
+- Abstract length: Bulletin of Economic Research enforces 150-word max, whereas FIELD_SKILL allows the broader ABS 4* norm (200-250 words typical). Submissions exceeding 150 words will require revision.
+
+ACCESS LIMITATIONS AND NOTES
+=============================
+
+1. Wiley Paywall: Full-text access to articles blocked (HTTP 402). Analysis relied on:
+   - Abstract titles and metadata visible on Wiley TOC pages
+   - IDEAS/RePEc and EconPapers article listings (open access)
+   - Author guideline snippet from public Wiley page
+   - Google Scholar snippets and general economic journal conventions
+
+2. Limited Full-Text Sample: Typical academic recommendation is 15+ full-text articles for robust delta detection. This skill is based on:
+   - 12 article title/metadata reviews from 2024-2026
+   - Author guidelines (partial access)
+   - Wiley house style conventions for similar economics journals (Economica, Journal of Economic Surveys, etc.)
+
+3. Confidence Level: MEDIUM
+   - Hard constraints (abstract, JEL codes, figures, metadata) are HIGH confidence (from explicit guidelines)
+   - Stylistic deltas are LOW confidence due to limited full-text access; analysis assumes Bulletin of Economic Research follows broader Wiley/ABS 2 conventions unless explicit guidance states otherwise
+   - No contradictions between what could be accessed and FIELD_SKILL baseline were found
+
+RECOMMENDATIONS FOR USERS
+==========================
+
+When writing for Bulletin of Economic Research:
+1. Keep abstract to 150 words maximum (strict enforcement)
+2. Include JEL codes and keywords (required)
+3. Place figures and diagrams at end of manuscript (not inline)
+4. Follow all conventions in econ-field-writing-style baseline (voice, citation, argumentation)
+5. Use author-year citation format
+6. Provide complete author metadata (name, affiliation, postal address, email)
+
+If submitting, consult the journal's full author guidelines directly via the Wiley portal, as this skill omits any conventions not publicly documented.
+
+END OF REPORT

@@ -1,0 +1,27 @@
+Journal: Academy of Management Perspectives
+Slug: academy-of-management-perspectives
+ABS: 4
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 15 (titles/abstracts via search snippets, OOIR listings, ResearchGate, phys.org; full text on journals.aom.org returned 403 Forbidden throughout)
+Early stop triggered: No — sample stabilized around consistent hard-constraint findings; stopped at 15 as instructed once deltas stabilized.
+
+Deltas found: 4 dimensions
+- Voice and Register (ENFORCED): stronger plain-language/jargon-avoidance mandate than FIELD_SKILL, aimed at practitioner readership.
+- Structural Deviations (ENFORCED): fixed section template (Introduction / Problem Statement / What We Know / What We Do Not Know / Conceptual-Empirical Analysis / What We Have Learned / Conclusion) unlike any FIELD_SKILL template.
+- Citation Density / format (ENFORCED): endnotes only — no in-text APA citations, no footnotes, no traditional reference list.
+- Other Journal-Specific Patterns (ENFORCED): "relevant/rigorous/readable" editorial standard with managerial issue as continuous throughline (not appended implications); three distinct specialty article types (Constructive Confrontations, Practitioner Perspectives, Book Briefs) with unique co-authorship/blinding rules.
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+- Structure: fixed section template + specialty formats replace FIELD_SKILL's four generic templates.
+- Length: 20 double-spaced pages max (10-20 for Practitioner Perspectives/Book Briefs) vs. FIELD_SKILL's 8,000-25,000 word range by article type.
+- Abstract: max 200 words (tighter than FIELD_SKILL's 150-250), must include practical implications.
+- Citations: endnotes only, replacing APA in-text citation convention.
+- Tables/Figures: pushed to "Additional Materials" supplement, not main text.
+- Explicit prohibitions: no opinion pieces; no theory-first papers with implications merely appended; AI-use disclosure required.
+
+Access-limitation notes:
+- journals.aom.org (journal home, table of contents, individual DOI abstract pages) returned HTTP 403 Forbidden consistently — could not retrieve full text or verbatim abstracts directly.
+- AOM support center FAQ pages also 403 Forbidden.
+- Relied on: official aom.org guidelines/scope pages (fully accessible, primary source for Hard Constraints), search-engine-extracted abstract summaries, OOIR journal listing, ResearchGate abstract page, and phys.org press coverage of one study for corroboration.
+- No full-text articles were read; spot-check based on titles, search-snippet abstract summaries, and journal-level framing only, per task allowance.

@@ -1,0 +1,22 @@
+Journal: Labour Economics
+Slug: labour-economics
+ABS: 3
+Field: ECON
+Publisher: Elsevier
+
+Articles fetched: 12 (title/topic level via RePEc/IDEAS listing and search-engine snippets; 1 with fuller abstract-level detail via search snippet). Full text was paywalled for all articles; no full-text access was obtained.
+
+Early stop triggered: No — access chain (direct fetch, WebSearch, RePEc/IDEAS, ScienceDirect abstract pages) was exhausted at the title/abstract-snippet level. The official guide-for-authors page returned HTTP 403 on direct WebFetch; content was reconstructed from search-engine cached excerpts instead.
+
+Deltas found: 2 journal-specific deltas (both ENFORCED submission-mechanics items), 1 GUIDELINE ONLY item; no deltas in voice, register, statistical reporting, citation density, or structure.
+Dimensions with deltas:
+  - Abstract/submission package: mandatory "research highlights" file (3-5 bullets, <=85 characters each) — ENFORCED, not covered by FIELD_SKILL.
+  - Data/code replication policy: stated as a publication condition for empirical/simulation/experimental/numerical papers — ENFORCED, stronger emphasis than generic field norm.
+  - Prior-submission disclosure invitation (editor letters/referee reports from other journals) — GUIDELINE ONLY, submission-process only, no prose implications.
+
+FIELD_SKILL overrides: none identified (no conflicting structure, voice, citation, or reporting requirements found).
+
+Access-limitation notes:
+- ScienceDirect guide-for-authors page blocked direct WebFetch (403 Forbidden); relied on WebSearch snippet reconstructions of that page's content, which may be incomplete (e.g., no explicit word/page limit or structured-abstract requirement could be confirmed).
+- All 12 spot-checked articles were paywalled at full text; assessment relied on titles, topics, and in one case an abstract-level snippet surfaced by search engine, sourced primarily from RePEc/IDEAS (https://ideas.repec.org/s/eee/labeco.html) and ScienceDirect search snippets.
+- No independent open-access full-text article was found accessible for deep voice/style confirmation; deltas beyond guideline-derived hard constraints are therefore FIELD DEFAULT by absence of contrary evidence rather than positive confirmation across many full texts.

@@ -1,0 +1,47 @@
+Journal: Ergonomics
+Slug: ergonomics
+ABS: 3
+Field: PSYCH (WOP-OB)
+
+Articles fetched: 25 (via Europe PMC REST API metadata: 15 from 2025 volume,
+10 from 2024 volume — titles, abstracts, keywords). One additional full-text
+article accessed via PMC mirror (PMC12447851). Direct tandfonline.com
+fetches were blocked (HTTP 403) for the journal homepage, about page,
+author-instructions page, and individual article pages (both abstract and
+PDF views). scispace.com template mirror also returned 403.
+
+Early stop triggered: No — continued until delta set stabilized (Practitioner
+Summary confirmed as recurring pattern; no further journal-specific deltas
+emerged across the 25-article sample).
+
+Deltas found: 1 dimension (Structural Deviations)
+  - Practitioner Summary: a short, plain-language practitioner-facing
+    summary appears as a standard front-matter element alongside the
+    abstract, distinct from FIELD_SKILL's embedded "practical implications"
+    discussion subsection. Classified PRACTICE ONLY / likely ENFORCED
+    (could not verify formal requirement wording since guidelines page was
+    inaccessible, but the element appeared consistently referenced across
+    search results for sampled articles).
+  - Secondary observation (not a style delta): topical skew toward applied
+    technology-mediated human factors (automation, wearables, EEG/eye-
+    tracking, HCI) rather than survey-based organizational psychology
+    designs — noted as scope observation only, RELAXATION given ABS 3
+    tier, not a new prescriptive norm.
+
+FIELD_SKILL overrides: none confirmed (citation style, structure, headings,
+tables/figures, voice/register, statistical reporting all align with or
+could not be shown to deviate from FIELD_SKILL).
+
+Access-limitation notes:
+- tandfonline.com returned HTTP 403 Forbidden for all direct WebFetch
+  attempts (journal homepage, about-this-journal page, author-instructions
+  page, and both abstract and PDF views of individual articles). This
+  blocked direct verification of word/page limits, exact abstract word
+  cap, explicit structure requirements, and explicit prohibitions.
+- Worked around via: Europe PMC REST API (JSON metadata: titles, abstracts,
+  keywords) for 25 articles across 2024-2025; one PMC-hosted full-text
+  mirror; WebSearch snippets referencing the T&F Standard Reference Style
+  (APA) shared across Taylor & Francis journals; WebSearch snippets
+  confirming "Practitioner Summary" as a recurring Ergonomics element.
+- Word/page limits and explicit prohibitions remain unverified and are
+  marked "not confirmed" in the skill file rather than assumed.

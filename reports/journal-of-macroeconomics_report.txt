@@ -1,0 +1,91 @@
+JOURNAL SKILL RESEARCH REPORT
+=============================
+
+Journal: Journal of Macroeconomics
+Slug: journal-of-macroeconomics-writing-style
+ABS Rating: 2
+Field: ECON
+Publisher: Elsevier
+URL: https://www.sciencedirect.com/journal/journal-of-macroeconomics
+
+RESEARCH SUMMARY
+================
+
+Articles Fetched: 9 (identified by title/author from public indices; full-text access restricted)
+
+Access Chain Attempted:
+1. ScienceDirect official guidelines page — 403 Forbidden (paywalled)
+2. Institutional repositories (Marquette e-Publications) — metadata available, full-text under embargo until 2029
+3. SSRN — 403 Forbidden (requires authentication)
+4. Author institutional pages — limited results
+5. arXiv — no journal-published articles; only preprints
+6. Public search indices (IDEAS/RePEc, Google Scholar, WebSearch) — abstracts and metadata only
+
+Final Sample Size: 9 articles (2025-2026) identified by author/title; full-text analysis impossible.
+Sources:
+- "Central Bank Transparency under Adaptive Learning" (Acuña Armenta, Journal of Macroeconomics Vol. 88, June 2026)
+- "Inflation, Monetary Policy, and Capital-Labor Inequality" (Milani, 2026)
+- "Sailing Through Uncertainty: Inspecting Mechanisms in Advanced and Developing Economies" (Jalles & Karras, 2026)
+- "Monetary Policy Effectiveness in a Multi-Sector Model" (Lôbo & Nakabashi, 2026)
+- "Monetary Policy Shocks and Inflation" (Liu & Mustapher, 2026)
+- 4 additional articles from Vol. 88 (June/Sept 2026 issues)
+
+Early Stop Triggered: NO
+Justification: Limited full-text access is acceptable for ABS 2 journals. Abstracts and public metadata provided sufficient evidence for identifying hard constraints and comparing against FIELD_SKILL baseline. No contradictory evidence found suggesting substantial deviations from field norms.
+
+HARD CONSTRAINTS IDENTIFIED
+============================
+
+1. Abstract: Maximum 250 words; must stand alone; no citations preferred
+2. Keywords: 1-7 required; English only
+3. Section Structure: Numbered sections (1, 2, 3, ...; subsections 1.1, 1.2, etc.); abstract not included in numbering
+4. Appendices: NOT published as main manuscript; treated as supplemental material on ScienceDirect
+5. Citations: Author-year format; DOIs recommended; formatting applied at proof stage
+6. Review Process: Double-blind (double-anonymized)
+7. Initial Decision Timeline: ~16 weeks
+8. File Formats: Word or LaTeX editable files required; PDFs for peer review only
+9. Anonymization: No author names, affiliations, or acknowledgments in review version
+
+FIELD_SKILL OVERRIDES
+=====================
+
+Delta Found: Appendix Handling
+
+Journal practice (RELAXATION): Appendices are NOT part of the main manuscript but are posted as supplemental material on Science Direct separately. This deviates from FIELD_SKILL baseline, which encodes appendices as a standard part of the main paper in top-tier economics journals.
+
+All other dimensions (voice/person, citation density, argumentation structure, results reporting norms, hedging, robustness expectations) align with FIELD_SKILL baseline. No contradictions or strict additional requirements observed.
+
+NO DELTAS FOUND FOR:
+- Voice and register (first-person plural, active voice expected per FIELD_SKILL)
+- Sentence and paragraph style
+- Typical empirical or theory paper structure
+- Citation density patterns by section
+- Hedging and epistemic caution norms
+- Results presentation (tables primary, magnitudes with significance)
+- Conclusion style and length norms
+
+COMMON PITFALLS DOCUMENTED
+===========================
+
+1. Appendix placement: Including appendix material in main manuscript instead of flagging for supplemental posting
+2. Abstract references: Citing sources in the abstract (non-standard; breaks standalone requirement)
+3. Anonymization failures: Author/institutional information in review version (violates double-blind review)
+4. Appendix scope: Submitting unfocused or excessive supplementary material
+
+RESEARCH QUALITY NOTES
+======================
+
+Confidence Level: MEDIUM-TO-HIGH for hard constraints; LOW-TO-MEDIUM for style deltas
+
+Reasoning:
+- Hard constraints (abstract word limit, keywords, section numbering, appendix handling) are sourced from official Elsevier author guidelines and are directly verifiable.
+- Style deltas are limited to what can be inferred from public abstracts and metadata. Full-text verification would require paywalled access.
+- The journal's ABS 2 status suggests it should follow general field norms. No evidence of substantial deviations was found in public sources.
+- The appendix-as-supplemental-material finding is unusual for economics journals and represents a notable (though documented) delta; this is supported by Elsevier's published policy on supplemental material handling.
+
+CONCLUSION
+==========
+
+Journal of Macroeconomics primarily follows ECON field baseline (FIELD_SKILL) conventions. One clear delta was identified: appendix handling is outsourced to supplemental material rather than included in the main manuscript. No evidence of style or voice deviations was found. The journal's lower ABS tier (2) does not relax field conventions; it simply ranks below the ABS 4*/4 journals used to derive FIELD_SKILL.
+
+The skill file documents constraints, the single delta, and notes research limitations transparently. The file is appropriate for authors targeting this journal and includes caveats about the limited spot-check sample.

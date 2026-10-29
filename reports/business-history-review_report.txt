@@ -1,0 +1,36 @@
+Journal: Business History Review
+Slug: business-history-review
+ABS: 4
+Field: BUS HIST & ECON HIST
+
+Articles fetched: 9 distinct articles (8 via abstract/WebSearch snippet, 1 full-text via
+core-reader open view), plus title-level review of the full Vol. 99 Issues 3-4 table of
+contents (10 titles) via IDEAS/RePEc.
+
+Early stop triggered: No — access chain (guidelines PDF, WebSearch abstract snippets,
+one open core-reader full text, RePEc listing) was exhausted for freely accessible
+content; full text of most 2025 articles is paywalled behind Cambridge Core. Delta set
+stabilized after 9 articles (no new deltas emerging), so continued sampling was not
+expected to add signal.
+
+Deltas found: 4
+  1. Abstract format — ENFORCED hard 100-word ceiling (tighter than typical field norm)
+  2. Structural deviations — ENFORCED minimum of three-to-four labeled subsections
+  3. Self-anonymization / self-citation convention — ENFORCED (third-person self-reference,
+     no possessive "my" citations)
+  4. Voice and register — PRACTICE ONLY, low-confidence: impersonal/third-person register
+     appears to dominate even in multi-authored/quantitative pieces in this journal's
+     sample, more than FIELD_SKILL's general pattern would suggest; guidelines are silent
+     on voice so this is not enforced
+
+FIELD_SKILL overrides: abstract length (100 words), minimum section count (3-4),
+self-citation anonymization rule — all captured under Hard Constraints since FIELD_SKILL
+explicitly does not specify word/abstract limits or publisher-specific rules.
+
+Access-limitation notes: Full author-instructions PDF (BHR-ifc.pdf) was successfully
+retrieved and read in full via the Read tool (WebFetch's own text extraction failed on
+binary PDF content, so the file was re-read directly) — this is the primary source for
+all Hard Constraints. Most full-text 2025/2026 articles are paywalled on Cambridge Core;
+relied on WebSearch-surfaced abstract snippets and one openly viewable core-reader
+article for style spot-checks. No convergence issues arose; observed articles were
+consistent with FIELD_SKILL apart from the four deltas listed above.

@@ -1,0 +1,19 @@
+Journal: Journal of Retailing
+Slug: journal-of-retailing
+ABS: 4
+Field: MKT
+
+Articles fetched: 15 (13 with usable abstracts; 2 short-form editorials with no abstract, which is itself a finding)
+Early stop triggered: No — spot-check ran to a natural stopping point once deltas stabilized (managerial framing, editorial/commentary article type) across the 15-item sample.
+
+Deltas found: 2 dimensions
+  1. Structural Deviations — recurring short-form Editorial/Commentary article type (no abstract, 2-5 pages), practice only.
+  2. Other Journal-Specific Patterns — consistently stronger managerial/retailer-facing framing in abstracts and conclusions than FIELD_SKILL default; practice only, observed in majority of sample.
+  (Abstract word count note logged as GUIDELINE ONLY / low-confidence: a 2007 editorial cites ~150 words, but current sample runs longer; not treated as enforced.)
+
+FIELD_SKILL overrides: none (no hard constraints found that conflict with mkt-field-writing-style; Elsevier "Your Paper Your Way" means no strict pre-submission formatting is enforced).
+
+Access-limitation notes:
+- ScienceDirect guide-for-authors page and article pages returned HTTP 403 to direct WebFetch; relied on WebSearch-surfaced snippets of Elsevier's standard policy language instead.
+- Full text of all sampled articles was paywalled; used IDEAS/RePEc (ideas.repec.org) abstract pages as the primary source for abstracts, which was reliable and returned full abstract text for 13 of 15 items.
+- Could not independently verify current word/page limits or a formal current guide-for-authors document; classified relevant abstract-length guidance as GUIDELINE ONLY based on a 2007 source (Grewal editorial), not a live current guideline page.

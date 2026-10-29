@@ -1,0 +1,23 @@
+Journal: Journal of International Marketing
+Slug: journal-of-international-marketing
+ABS: 3
+Field: MKT
+
+Articles fetched: 0 full-text; ~3 with accessible abstract/metadata (Poulis 2024; Donthu et al. 2021 retrospective; Özsomer 2026 editorial) plus ~5 more identified by title/topic only via journal landing page and search snippets. journals.sagepub.com article/issue pages returned only site-shell navigation to WebFetch across every attempt (~8 URLs tried), so no full abstract text could be reliably extracted from the publisher directly.
+
+Early stop triggered: No (access exhausted rather than convergence — continued searching until further queries stopped surfacing new information, per instructions to move on rather than retry repeatedly).
+
+Deltas found: 4 dimensions
+  1. Structural Deviations — "Insight Papers" short-form article type (<4,000 words, no reference limit, 2-round expedited review), ENFORCED (stated in guidelines and promoted on journal landing page).
+  2. Statistical Reporting — mandatory exact p-values, SEs in tables, and effect sizes (not just significance thresholds/stars), ENFORCED (stated explicitly in guidelines).
+  3. Other Journal-Specific Patterns — "Executive Insights" practitioner-facing feature/article type, PRACTICE ONLY / GUIDELINE (seen on landing page, not detailed in formal guidelines).
+  4. Other Journal-Specific Patterns — explicit dual academic-practitioner audience elevates managerial implications weighting, RELAXATION (ABS-3 tier, consistent with allowed relaxation of FIELD_SKILL emphasis, not a redefinition).
+
+FIELD_SKILL overrides: none that contradict FIELD_SKILL outright; the exact-p-value/effect-size requirement tightens (not contradicts) the FIELD_SKILL default of significance-star reporting.
+
+Access-limitation notes:
+- journals.sagepub.com (SAGE) systematically returned only navigation/header/footer shell content to WebFetch for every article, issue, and author-instructions URL attempted — no abstract or article body text was ever retrieved directly from the publisher.
+- Middlesex University repository page for the Poulis (2024) article returned HTTP 405 Method Not Allowed.
+- Semantic Scholar page fetch returned empty content.
+- Relied entirely on WebSearch result snippets (which sometimes surface abstract fragments), the AMA's own submission-guidelines page (which loaded fully and is the authoritative source for HARD_CONSTRAINTS, shared across all AMA journals), and the JIM landing page on ama.org (loaded fully, revealed Insight Papers and Executive Insights features).
+- No full-text article was read in this pass. Confidence in structural/hard-constraint findings is high (directly sourced from guidelines pages); confidence in article-level voice/statistical-practice deltas is lower and marked accordingly.

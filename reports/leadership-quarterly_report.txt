@@ -1,0 +1,47 @@
+Journal: Leadership Quarterly
+Slug: leadership-quarterly
+ABS: 4
+Field: ORG STUD
+
+Articles fetched: 0 full-text (ScienceDirect blocks automated fetch with 403).
+Evidence base instead drawn from: guide-for-authors WebSearch snippets,
+2 article abstract/metadata snippets found via search (Antonakis et al. 2010
+"On making causal claims"; Engelbert et al. 2025 charisma eye-tracking study),
+plus corroborating editorial/methods pieces (registered reports pieces,
+"Eight puzzles of leadership science", LQYR call for proposals, "Grounded in
+Causality" special issue landing page).
+
+Early stop triggered: Yes — access chain exhausted after ScienceDirect
+returned 403 on all direct WebFetch attempts (guide-for-authors page, issue
+listing pages). Relied on WebSearch-summarized snippets instead of full text
+for all sources. Could not reach 15 distinct spot-checked articles.
+
+Deltas found: 3
+  1. Structural Deviations — Registered Reports track (Stage 1 protocol
+     review) actively solicited by the journal; two-stage structure not
+     covered by FIELD_SKILL. ENFORCED.
+  2. Methods and Statistical Reporting — explicit, editorially-enforced
+     endogeneity/causal-identification standard (per Antonakis et al. 2010
+     "On making causal claims"), stronger and more specific than FIELD_SKILL's
+     general endogeneity mention. ENFORCED.
+  3. Other Journal-Specific Patterns — annual Leadership Quarterly Yearly
+     Review (LQYR) review-article series, a distinct article type.
+
+Hard constraints recorded: 250-word abstract ceiling; editable source files
+required (no PDF-only submissions); explicit inclusivity/gender-neutral
+language mandate in guidelines (stronger/more explicit than typical field
+practice, flagged as ENFORCED prohibition-adjacent constraint).
+
+FIELD_SKILL overrides: none identified (no structural/citation/heading
+conflicts found; deltas are additive/emphasis-level, not overrides).
+
+Access-limitation notes: ScienceDirect journal and guide-for-authors pages
+returned HTTP 403 to WebFetch on every attempt (both the guide-for-authors
+URL and Volume 36 issue listing pages). All findings are therefore based on
+WebSearch's own summarization of indexed page content and third-party
+mirrors (HAL, ResearchGate, Semantic Scholar, PMC), not on directly read
+primary HTML/PDF. This is a materially thinner evidence base than the
+target of 15 full spot-checked articles; treat structural/voice findings
+with FIELD DEFAULT status as lower-confidence than usual, since they
+reflect absence of contrary evidence rather than confirmed positive
+observation across many articles.

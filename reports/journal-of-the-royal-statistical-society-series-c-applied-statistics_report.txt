@@ -1,0 +1,42 @@
+Journal: Journal of the Royal Statistical Society. Series C: Applied Statistics
+Slug: journal-of-the-royal-statistical-society-series-c-applied-statistics
+ABS: 3
+Field: ECON
+Publisher: Oxford University Press (for the Royal Statistical Society)
+
+Articles fetched: 3 full abstract+heading extractions (PNSD source apportionment article,
+hierarchical confusion matrix article, PM2.5-mortality spatio-temporal confounding article),
+plus 1 table-of-contents page yielding 13 additional article titles/topics (Vol. 75 Iss. 3,
+June 2026), plus 1 editorial (2025) statement of journal aims. Total distinct records
+consulted: ~18, though only 3 had full abstract+structure extraction (paywall/JS rendering
+limited deeper access beyond abstracts and headings).
+
+Early stop triggered: No - deltas stabilized after 3 full-structure extractions plus TOC
+scan; converging pattern (Intro -> Methodology -> Simulation Study -> Real Data Application
+-> Discussion) was consistent across all three, and TOC topics (soccer analytics, typhoid
+dynamics, cancer epigenetics, criminal victimization, etc.) confirm the applied-methods
+orientation without adding new structural deltas.
+
+Deltas found: 5
+  1. Structural Deviations (ENFORCED) - simulation/synthetic-data validation section before
+     real-data application is a near-universal structural feature not in FIELD_SKILL.
+  2. Statistical Reporting (RELAXATION) - abstracts report method capability/findings rather
+     than quantified economic effect magnitudes.
+  3. Voice and Register (PRACTICE ONLY) - "we propose a method for X" framing dominates over
+     economics-style motivating-hook-then-magnitude framing.
+  4. Other Journal-Specific Patterns (GUIDELINE ONLY) - guidelines discourage extended
+     algebraic treatment in favor of accessible exposition.
+  5. Hard constraints layer: 24-page limit, 200-word unstructured abstract with alphabetized
+     keywords and no citations, mandatory Data Availability/Acknowledgments/Funding sections,
+     UK spelling requirement, no-vertical/no-interior-horizontal-rule table formatting,
+     mandatory numbered hierarchical headings, reproducibility-without-great-effort data/code
+     sharing mandate.
+
+FIELD_SKILL overrides: heading numbering made mandatory (vs. FIELD_SKILL's either-acceptable);
+length ceiling (24 pages) with no FIELD_SKILL analogue; UK spelling requirement.
+
+Access-limitation notes: Full text of articles was behind Oxford Academic paywall; abstract
+pages, section-heading lists, and keyword lists were accessible via WebFetch without
+authentication, which was sufficient per task instructions (front-matter based judgment).
+No SSRN/RePEc/working-paper mirrors were found or needed since Oxford Academic abstract
+pages provided adequate front-matter detail. No 403s encountered.

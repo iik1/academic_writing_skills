@@ -1,0 +1,21 @@
+Journal: Journal of Heuristics
+Slug: journal-of-heuristics
+ABS: 3
+Field: OR&MANSCI
+
+Articles fetched: 17 (title/abstract/keyword level; 1 full text via PMC open-access mirror)
+Early stop triggered: No (delta set stabilised naturally; access chain to full paywalled text was limited, so relied on abstract/keyword-level spot-check across a broad title sample from Vol. 23 to Vol. 32)
+
+Deltas found: 1 substantive delta + 1 hard-constraint specificity addition
+  - Abstract length: Springer generic 150-250 word unstructured abstract requirement (more specific than FIELD_SKILL, which sets no abstract word count) — HARD CONSTRAINT.
+  - Scope/emphasis: RELAXATION toward the applied/computational end of the FIELD_SKILL theory-computation spectrum; nearly all spot-checked papers pair a specific problem class with a named algorithmic technique and lead with empirical performance claims rather than formal guarantees. Consistent with ABS 3 tier rules (relaxation, not a new norm).
+
+All other dimensions (structure, voice, citation density, hedging, results reporting, discussion/conclusion norms) = FIELD DEFAULT, confirmed via full-text spot-check of one open-access article (Relax-and-Fix facility location paper, PMC mirror) which matched FIELD_SKILL's canonical section structure and citation style exactly.
+
+FIELD_SKILL overrides: none beyond the abstract word-count specification (Hard Constraints > Abstract).
+
+Access-limitation notes:
+- link.springer.com article and submission-guidelines pages redirect through an authenticated idp.springer.com session and could not be fetched directly via WebFetch.
+- The official Springer Instructions-for-Authors PDF fetched successfully as a binary/compressed file but was not text-extractable by the fetch tool.
+- Compensated using: WebSearch-extracted snippets (which surfaced the 150-250 word abstract rule), IDEAS/RePEc abstract and keyword pages (used for most of the 17-article sample), and one open-access PMC mirror of a Journal of Heuristics article for full-text structural/citation-style confirmation.
+- No full-text access to more than one article was available, so structural/voice/hedging deltas rely on that single full-text confirmation plus abstract-level consistency checks across the remaining 16 titles.

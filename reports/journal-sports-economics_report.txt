@@ -1,0 +1,14 @@
+Journal: Journal of Sports Economics
+Slug: journal-sports-economics
+ABS: 2
+Field: ECON
+Articles fetched: 15 read in depth (front-matter: abstract, keywords, JEL, voice); full TOC enumeration Vol 22-27 (2021-2026)
+Early stop triggered: yes (delta set stabilised after ~15 articles; no new deltas emerging)
+Deltas found: 5 (Citations/APA 7th [ENFORCED]; Abstract 150-word cap [ENFORCED]; JEL practice [PRACTICE ONLY]; Voice relaxation to impersonal third-person [RELAXATION, ABS 2]; Short formats / notes / comments / special issues [PRACTICE ONLY])
+FIELD_SKILL overrides: APA 7th-edition referencing (vs Chicago author-year default); endnotes via "Notes" block (vs footnotes); unnumbered APA leveled headings (vs numbered sections); 150-word abstract cap; 30-page double-spaced length cap; 4-5 keyword cap
+
+Notes:
+- SAGE full text is paywalled and the TOC pages render via JavaScript (WebFetch returns the template only). Article front-matter was read via RePEc/IDEAS, which exposes abstract, keywords, and JEL codes — sufficient for style deltas. Author guidelines read directly from the SAGE author-instructions page.
+- JSE is ABS 2; per tier rules, relaxations of the ABS 4*/4 ECON baseline are labelled RELAXATION and do not redefine the baseline. The journal was not previously in the dispatch registry (which is scoped to ABS 3+); skill generated manually as a delta-detection pass against econ-field-writing-style.
+- Voice: ~10/15 articles use first-person plural "we/our"; the remainder use impersonal third-person ("This paper/study examines"). Both accepted.
+- JEL codes present in ~half the sample; when present, Z20/Z21/Z22/Z28 sports codes lead.

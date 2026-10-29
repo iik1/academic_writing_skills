@@ -1,0 +1,21 @@
+Journal: Journal of Applied Econometrics
+Slug: journal-of-applied-econometrics
+ABS: 3
+Field: ECON
+Publisher: Wiley-Blackwell
+
+Articles fetched: 9 (titles/abstracts; full text inaccessible due to Wiley paywall)
+Early stop triggered: no (access chain exhausted at ~9 rather than voluntary early stop at convergence; delta set had stabilized by this point)
+
+Deltas found: 3 dimensions
+  - Structural Deviations: dedicated Replication Article manuscript category/section (ENFORCED)
+  - Citation Density: Free Format submission relaxes citation-style strictness at submission stage (RELAXATION)
+  - Other Journal-Specific Patterns: mandatory data/code archive deposit as a condition of acceptance, stronger than general FIELD_SKILL robustness expectations (ENFORCED)
+
+FIELD_SKILL overrides: none that contradict field baseline on voice, hedging, structure of a standard research article, or statistical reporting. Overrides apply only to submission-stage procedural rules (reference formatting flexibility; explicit page limit of 35 pages; mandatory data/code deposit; three-papers-under-review cap).
+
+Access-limitation notes:
+- Wiley Online Library forauthors.html and table-of-contents pages returned HTTP 402 (paywalled) on direct WebFetch; relied on WebSearch-extracted snippets of the same guidelines page instead.
+- journaldata.zbw.eu (JAE's data archive host) blocked WebFetch via Anubis bot-protection; archive policy details drawn from WebSearch snippets referencing the archive's history and requirements instead of the live page.
+- No full-text articles were accessible; all article-level observations are based on titles and publicly surfaced abstracts (via WebSearch/RePEc), consistent with the assignment's allowance for front-matter-only spot-checks.
+- Could not find an explicit abstract word limit or structured/unstructured abstract requirement; abstract format recorded as FIELD_SKILL default absent contrary evidence.

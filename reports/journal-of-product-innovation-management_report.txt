@@ -1,0 +1,41 @@
+Journal: Journal of Product Innovation Management
+Slug: journal-of-product-innovation-management
+ABS: 4
+Field: INNOV
+
+Articles fetched: 8 (title/abstract level; no full text rendered)
+Early stop triggered: yes — access chain exhausted after Wiley full text
+consistently returned HTTP 402 (Payment Required) to WebFetch, and two
+open-access PDF mirrors located could not be parsed to text (no PDF
+rendering tool available in this environment). Findings for articles
+therefore rely on WebSearch result snippets (which surface abstract-page
+text via Google indexing) rather than direct fetch/read of full text.
+Stopped at 8 rather than 15 because the delta set had stabilized (no new
+deltas emerged in the final 2-3 searches) and further searches were
+returning diminishing/duplicate information.
+
+Deltas found: 3 dimensions
+  1. Structure — dual mandatory abstracts (academic + practitioner,
+     ~200 words each, no citations) for Original Research, Catalyst, and
+     Review article types. ENFORCED.
+  2. Structure — formally named "Catalyst" article type (short
+     non-empirical essays) not addressed in FIELD_SKILL. ENFORCED.
+  3. Citations — Chicago author-date style explicitly mandated.
+     ENFORCED (FIELD_SKILL is silent on citation style).
+  Additional soft delta: heightened practitioner-facing emphasis via the
+  mandatory managerial abstract, beyond FIELD_SKILL's "no consensus norm"
+  on managerial-implications placement.
+
+FIELD_SKILL overrides: citation style (Chicago author-date) and abstract
+format (dual abstract requirement) both override/add to FIELD_SKILL,
+which is silent on both.
+
+Access-limitation notes: Wiley Online Library (onlinelibrary.wiley.com)
+blocked all WebFetch attempts with HTTP 402 across guidelines page and
+every article abstract/full-text page tried. Two open-access PDF mirrors
+(Mannheim repository, eclass.upatras.gr) were located and downloaded but
+could not be converted to readable text (WebFetch cannot parse raw PDF
+binary; Read tool's PDF renderer requires poppler-utils, not installed
+in this environment). No explicit word/page limit for Original Research
+manuscripts was found in public sources during this pass; this is
+flagged as unconfirmed in the skill file rather than guessed.

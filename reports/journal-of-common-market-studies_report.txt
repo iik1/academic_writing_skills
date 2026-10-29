@@ -1,0 +1,18 @@
+Journal: Journal of Common Market Studies (JCMS)
+Slug: journal-of-common-market-studies
+ABS: 3
+Field: IB&AREA
+
+Articles fetched: 10 with usable abstract content (RePEc/IDEAS + search snippets), plus several title-only records without abstracts. Spanned 2016-2026.
+
+Early stop triggered: No hard stop; access chain (Wiley full-text) was largely paywalled (402 Payment Required on all direct onlinelibrary.wiley.com fetches). Compensated with RePEc/IDEAS abstract pages and search-engine cached snippets of the guidelines pages. Stopped after ~10 substantive abstracts plus guideline extraction once deltas stabilized and further Wiley fetches kept returning 402.
+
+Deltas found (4 dimensions):
+1. Abstract length - ENFORCED: 150-word max, unstructured, anonymized, explicit instruction not to duplicate introduction text (FIELD_SKILL default is ~150-250 words).
+2. Length/word limits - ENFORCED: 8,500-word max (6,500 word normal floor) for full articles inclusive of footnotes/appendices/references/tables/figures, with an explicit word-equivalent counting rule for figures/tables (250/500 words); tiered word limits for Research Notes/Agenda Articles/Symposia (3,500-5,000) and policy commentaries (2,000-3,000). Not covered in FIELD_SKILL, which explicitly leaves length unspecified.
+3. Structural tiering - RELAXATION/journal-specific: multiple manuscript types (full article, Research Note, Agenda Article, Symposium, policy commentary) each with own length band, more granular than FIELD_SKILL's empirical/conceptual/review split.
+4. Citation style - Harvard-derived house style (not APA), per house guidelines; FIELD_SKILL only specifies "author-date parenthetical" generically, consistent but with journal-specific formatting mechanics (single-quoted article titles, italicized journal name).
+
+FIELD_SKILL overrides: abstract word limit (150 vs 150-250 baseline range), explicit length/word-count constraints (not specified in FIELD_SKILL at all).
+
+Access-limitation notes: Wiley Online Library (onlinelibrary.wiley.com) returned HTTP 402 Payment Required on every direct WebFetch attempt (author guidelines page, guide.htm, TOC pages, individual article DOI pages). All guideline content and several abstracts were instead obtained via WebSearch result snippets (which appear to reflect cached/indexed page text) and via RePEc/IDEAS abstract mirror pages (ideas.repec.org/s/bla/jcmkts.html and individual article pages), which provided reliable abstract text for articles from 2016, 2021, and 2024. Full-text methods/results sections were not accessible for any article, so statistical reporting and citation density deltas could not be directly verified against full text - noted as "no delta observed" based on abstract-level evidence only, following the convergence rule.

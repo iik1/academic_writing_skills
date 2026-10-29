@@ -1,0 +1,33 @@
+Journal: European Journal of Work and Organizational Psychology
+Slug: european-journal-of-work-and-organizational-psychology
+ABS: 3
+Field: PSYCH (WOP-OB)
+
+Articles fetched: 18 (via OpenAlex metadata/abstracts; publisher full-text pages were inaccessible)
+Early stop triggered: no (stopped after delta set stabilized around ~18 articles; new articles kept confirming the same design pattern without introducing new deltas)
+
+Deltas found: 2 dimensions
+  1. Explicit Prohibitions / Structural Deviations (ENFORCED) - journal explicitly does not
+     publish research relying solely on cross-sectional, self-report survey methods. Confirmed
+     both by stated policy (EAWOP page, mirroring T&F journal page) and by spot-check pattern
+     (heavy prevalence of diary/experience-sampling studies, multi-study experiment+field
+     designs, and longitudinal/person-centered designs across the sample).
+  2. Other Journal-Specific Patterns (PRACTICE ONLY, low-prevalence) - notable but not
+     universal use of person-centered/profile analytic approaches (latent profile analysis)
+     in several sampled articles.
+
+FIELD_SKILL overrides: none beyond the above (no confirmed differences in structure, length,
+abstract format, citation style, headings, or table/figure rules — these could not be verified
+due to guidelines-page access being blocked).
+
+Access-limitation notes:
+- The Taylor & Francis "Instructions for Authors" page (tandfonline.com/journals/pewo20 and
+  /about-this-journal) returned HTTP 403 on every WebFetch attempt, including via Google search
+  redirect. Could not confirm word/page limits, abstract structure requirements, citation style
+  specifics, or table/figure rules from a primary guidelines source.
+- ResearchGate article pages also returned 403 consistently.
+- Successfully substituted: EAWOP's publications page (which states scope and the
+  cross-sectional/self-report exclusion policy, apparently mirroring the T&F "about" page) and
+  the OpenAlex API (api.openalex.org), which returned reconstructed abstracts and metadata for
+  18 recent articles (2025-2026) filtered by ISSN 1464-0643. This was sufficient for a
+  structural/methodological spot-check but not for fine-grained formatting requirements.

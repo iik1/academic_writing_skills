@@ -1,0 +1,27 @@
+Journal: Journal of Interdisciplinary Economics
+Slug: journal-of-interdisciplinary-economics
+ABS: 1
+Field: ECON
+Publisher: SAGE
+
+Articles fetched: 0 (full-text or abstract-level). Author guidelines page fully fetched.
+Early stop triggered: No (Step 0 dedupe check found no existing skill; proceeded through all phases).
+
+Deltas found: 0 confirmed article-level deltas from FIELD_SKILL. All "Dimensions With No Delta" entries are marked unverified rather than confirmed FIELD DEFAULT, because no article evidence was obtainable.
+
+FIELD_SKILL overrides (from guidelines, HARD_CONSTRAINTS only):
+- Length cap: 8,000 words (incl. footnotes/references), up to 10,000 for literature surveys.
+- Abstract: unstructured, 150-200 words.
+- Citation style: APA (author-year), explicitly named.
+- Double-anonymized review: identifying info confined to separate Title Page.
+- Figures: min. 300dpi, numbered consecutively.
+- AI chatbots barred from authorship; must disclose AI/third-party writing assistance.
+
+Access-limitation notes:
+- No institutional EZProxy access in this environment.
+- WebSearch tool intermittently returned "unavailable" errors during this session.
+- SAGE's own TOC/loi/home pages returned only site-wide navigation shell content via WebFetch, not journal-specific or article-specific content.
+- RePEc/IDEAS listing for this journal (sae/jinter2) only indexes issues through Volume 22 (2010) — no 2020s content available there.
+- Scispace aggregator page returned HTTP 403.
+- Multiple targeted WebSearch queries for specific 2023-2024 article titles/authors (e.g., Agafonow & Perez 2023, Nguyen/Doan/Nguyen 2024) returned no usable results — only tangential/unrelated hits.
+- Conclusion: the author-guidelines page was the only substantively accessible source. Per task instructions, the skill was written short and honest, with unverified dimensions explicitly labeled rather than fabricated.

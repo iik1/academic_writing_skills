@@ -1,0 +1,23 @@
+Journal: International Journal of Management Reviews
+Slug: international-journal-of-management-reviews
+ABS: 3
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 13 (titles/abstract snippets via WebSearch and aggregators; no full text accessible)
+Early stop triggered: No — stopped after delta set stabilized around the review-only structural pattern, which was confirmed consistently across all 13 titles/summaries with no contradicting evidence.
+
+Deltas found: 3 dimensions
+  1. Structural Deviations (ENFORCED) — journal is review-only (no empirical papers); Integrative Review template from FIELD_SKILL is the default, not one of four options; distinctive title convention ("[Topic]: A Review and Research Agenda" / "...Systematic Literature Review").
+  2. Length (ENFORCED, RELAXATION relative to FIELD_SKILL's integrative-review range) — 10,000-word cap, max six tables/figures, tighter than FIELD_SKILL's 15,000-25,000 word norm for integrative reviews.
+  3. Citations (ENFORCED) — author-year format uses "and" (not "&") and no comma before year, ordered chronologically then alphabetically.
+  4. Other Journal-Specific Patterns (PRACTICE ONLY / FIELD DEFAULT variant) — recognizes a distinct "methodology" article type (e.g., review-technique papers) alongside topical reviews.
+
+FIELD_SKILL overrides:
+  - Eliminates 3 of 4 FIELD_SKILL article-type templates (quantitative deductive, qualitative inductive, most theoretical/conceptual) since no empirical or purely conceptual/hypothesis-driven work is accepted.
+  - Word limit override: 10,000 words vs FIELD_SKILL's 15,000-25,000 for integrative reviews.
+  - Citation punctuation override: "and"/no comma vs standard APA "&"/comma convention implied by FIELD_SKILL.
+
+Access-limitation notes:
+  - Wiley Online Library guidelines page and article pages returned HTTP 402 (Payment Required) to direct WebFetch; all information derived from WebSearch snippets, Wikipedia, and BAM (British Academy of Management) issue-listing pages.
+  - No full-text articles were read; spot-check relied on titles and short abstract/summary snippets only.
+  - Could not confirm an explicit structured-abstract requirement (field fields like Purpose/Method/Findings) — evidence suggests unstructured summary format.

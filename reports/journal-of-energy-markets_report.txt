@@ -1,0 +1,26 @@
+Journal: Journal of Energy Markets
+Slug: journal-of-energy-markets
+ABS: 1
+Field: FINANCE
+
+Articles fetched: 10 (front-matter/abstracts only, across issues from March 2017, December 2021, September 2022, March 2023; full text paywalled)
+Early stop triggered: No
+
+Deltas found (3):
+1. Citation Density — PRACTICE ONLY / low-prevalence (lighter literature engagement than ABS 4*/4 norm, consistent with shorter word limit; RELAXATION for ABS 1)
+2. Structural Deviations — GUIDELINE ONLY (guidelines suggest separate "Literature review" and "Discussion" sections distinct from Introduction/Conclusion; could not confirm actual usage from abstracts alone)
+3. Other Journal-Specific Patterns — ENFORCED (mandatory 4-6 keywords + 3-4 "key message" bullet points ≤85 characters each after the abstract; not part of standard ABS 4*/4 finance front matter)
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+- Word limit: 10,000 words max for research papers (7,000 for forum papers) — much shorter than typical ABS 4*/4 finance papers
+- Abstract: unstructured, 150-200 words, no citations, SEO-style repetition of key phrases
+- Citation style: Chicago (in-text author-date) + APA reference list — not the pure author-year finance-field default
+- Blind review: no author names/affiliations in main text
+- Mandatory keywords (4-6) and key-message bullets (3-4, <=85 chars) after abstract
+- GenAI use restricted to data extraction/background research/editing, must be acknowledged
+- Footnotes: sparingly, max 2 sentences, page-end
+
+Access-limitation notes:
+- No journal-specific author guidelines page exists; Journal of Energy Markets shares the generic "Risk Journals Submission Guidelines" page across all Infopro Digital Risk journals (Journal of Risk, Journal of Credit Risk, Journal of Computational Finance, etc.).
+- Full text of sampled articles was paywalled; spot-check relied on issue table-of-contents pages and abstract summaries visible via Risk.net and IDEAS/RePEc.
+- Given ABS 1 tier and thin public access, this is a good-faith sample per the assignment's relaxed threshold; no full-text structural verification (e.g., confirming actual use of "Literature review" as a labeled section) was possible.

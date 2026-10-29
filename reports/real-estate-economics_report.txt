@@ -1,0 +1,22 @@
+Journal: Real Estate Economics
+Slug: real-estate-economics
+ABS: 3
+Field: ECON
+Publisher: Wiley-Blackwell (AREUEA official journal)
+
+Articles fetched: 11 (abstracts / front matter only; full text paywalled throughout)
+Early stop triggered: No — stopped at 11 because delta set had stabilized (no new deltas emerging) and RePEc/IDEAS coverage of full abstracts was exhausted for efficient sampling; additional titles (~10 more) were seen via search listings for 2024-2026 issues but full abstract text was not fetched since observed norms had already converged with FIELD_SKILL.
+
+Deltas found: 1 substantive delta + 1 low-prevalence practice note
+  - Citations (ENFORCED / refinement): Guidelines specify APA 6th edition style specifically (author-date, alphabetical reference list, DOI where available) — more specific than FIELD_SKILL's generic "author-year" description. This refines rather than contradicts FIELD_SKILL, consistent with ABS 3 tier rules (cannot redefine baseline, only relax/refine within it).
+  - Other Journal-Specific Patterns (PRACTICE ONLY / low-prevalence): tendency toward natural-experiment/event-based identification framing (Hurricane Sandy, Amazon HQ2, redlining maps, rent control policy changes) in sampled articles — topical tendency, not a stated style norm, already covered by FIELD_SKILL's identification-strategy expectations.
+
+All other dimensions: FIELD DEFAULT (Follows FIELD_SKILL norm) — voice/person, sentence/paragraph style, argumentation/introduction structure, methods conventions, results/statistical reporting, discussion/conclusion norms, hedging.
+
+FIELD_SKILL overrides: none (APA citation detail is a refinement, not an override, since FIELD_SKILL already specifies author-year citation as the norm)
+
+Access-limitation notes:
+- Wiley Online Library main guidelines page (onlinelibrary.wiley.com/page/journal/15406229/homepage/forauthors.html) returned HTTP 402 Payment Required on direct WebFetch; guideline content (APA 6th ed. citation style, Research Exchange submission portal, LaTeX template availability, data-sharing expectation) was recovered via WebSearch snippet extraction of the same page.
+- No explicit word/page limits, abstract word limit, heading conventions, or table/figure rules were discoverable in accessible guideline text — these sections in the skill are marked "not specified in accessible guideline text" rather than fabricated.
+- All 11 spot-checked articles were accessed via RePEc/IDEAS abstract pages (ideas.repec.org), since Wiley Online Library article/DOI pages and table-of-contents pages all returned HTTP 402/403.
+- Sample spans 2018-2025 across multiple issues, aiming for topical and temporal diversity (housing, REITs, commercial real estate, climate/disaster economics, discrimination/redlining, rent control).

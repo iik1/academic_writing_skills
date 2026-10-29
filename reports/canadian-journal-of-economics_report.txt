@@ -1,0 +1,17 @@
+Journal: Canadian Journal of Economics
+Slug: canadian-journal-of-economics
+ABS: 3
+Field: ECON
+Articles fetched: 9 (abstract/metadata level; full text paywalled via Wiley HTTP 402)
+Early stop triggered: No (delta set stabilized after ~9 articles; no new structural patterns emerging)
+
+Deltas found: 2 dimensions
+- Structural Deviations: journal runs recurring "Viewpoint" (invited review/synthesis essays) and "Comment" (replication/critique of a specific prior CJE article) formats not present in ABS 4/4* baseline. PRACTICE ONLY / ENFORCED as a recognized category.
+- Other Journal-Specific Patterns: mandatory, procedurally detailed data/code deposit protocol (README.pdf, Borealis Dataverse, Data Editor pre-acceptance verification) and mandatory AI-tool-use disclosure. ENFORCED (stated in guidelines).
+
+FIELD_SKILL overrides: none (no conflicts; CJE requirements are additive to FIELD_SKILL, not contradictory)
+
+Access-limitation notes:
+- Wiley Online Library "For Authors" page and all full-text article pages returned HTTP 402 Payment Required; could not fetch full text directly.
+- Relied on economics.ca/cje-authors (CEA mirror of guidelines, full text accessible) plus RePEc/IDEAS and WebSearch-extracted abstract snippets for article spot-checks.
+- No article was read in full; assessment based on abstracts, titles, and journal policy pages only, per task instructions on front-matter sufficiency.

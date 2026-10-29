@@ -1,0 +1,32 @@
+Journal: International Journal of Management and Decision Making
+Slug: international-journal-of-management-and-decision-making
+ABS: 1
+Field: ETHICS-CSR-MAN
+Publisher: Inderscience Publishers
+
+Articles fetched: 10 distinct articles (abstract/front-matter level only; no full text)
+  1. How expat-preneurs make decisions - the role of intuition (IJMDM 2025, 24:3)
+  2. The attribution of expertise: modelling relational and organisational factors (IJMDM 2025, 24:2)
+  3. The impact of RBV on value creation in the pharmaceutical industry (IJMDM 2025, 24:3)
+  4. Collaboration technology usage for decision in utilising e-wallet... (IJMDM 2025, 24:1)
+  5. Exploring the data analytical capabilities of generative AI tools ChatGPT and Google Bard (IJMDM 2026, 25:1)
+  6. Facilitating organisational decision-making process through LEGO SERIOUS PLAY method (IJMDM 2024, 23:6)
+  7. Managerial leadership and work-life balance to curtail turnover intentions (IJMDM 2024, 23:6)
+  8. A novel hybrid mayfly algorithm for decentralised multi-mode-multi-project scheduling (IJMDM 2024, 23:5)
+  9. Accounting analytics data types and structures: an educational perspective (IJMDM 2024, 23:5)
+  10. Board activity and firm performance (Malaysian listed firms study, IJMDM)
+
+Early stop triggered: No (reached good-faith target of 10 for an ABS 1 journal)
+
+Deltas found: 3
+  - Voice and Register: RELAXATION — abstracts more applied/practitioner-oriented, less explicit theoretical-contribution framing than FIELD_SKILL default
+  - Structural Deviations: PRACTICE ONLY — journal scope spans OR/algorithmic papers and pedagogical papers alongside conventional empirical management studies, wider than FIELD_SKILL's four templates
+  - Other Journal-Specific Patterns: PRACTICE ONLY, low-confidence — small-sample qualitative work published without visible rigor-framing (theoretical sampling/saturation) in abstracts
+
+FIELD_SKILL overrides: none identified (no conflicting hard constraints found; Harvard/author-date citation style and heading/table conventions align with FIELD_SKILL)
+
+Access-limitation notes:
+- Direct fetch of inderscienceonline.com DOI/abstract pages returned HTTP 403 for all attempts (paywalled/blocked to WebFetch).
+- Worked around via WebSearch snippets and the alternate inderscience.com/info/inarticle.php?artid= abstract mirror, which is publicly accessible.
+- No full-text articles were read; all findings are abstract/title/keyword-level only.
+- No IJMDM-specific author guidelines page (distinct from Inderscience's generic house-wide author guide) was located; hard constraints reflect the house-wide Inderscience guide, which was noted as such in the skill file.

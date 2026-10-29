@@ -1,0 +1,22 @@
+Journal: Journal of the American Statistical Association (JASA)
+Slug: journal-of-the-american-statistical-association
+ABS: 4
+Field: ECON
+
+Articles fetched: 10 distinct articles/abstracts (Kock & Preinerstorfer 2025; Chernozhukov & Newey "Adversarial Estimation of Riesz Representers"; Schirripa Spagnolo et al. "Bias Control for M-Quantile-Based Small Area Estimators"; Tian, Sun & He "Efficient Analysis of Latent Spaces in Heterogeneous Networks"; "Checking the Cox Proportional Hazards Model with Interval-Censored Data"; "Successive Classification Learning for Estimating Quantile Optimal Treatment Regimes"; "Bi-SCORE for Weighted Bipartite Networks..."; Zhan & Datta "Neural Networks for Geospatial Data"; Yu, Wang & Wang "Distributed Heterogeneity Learning..."; Yan & Luo "Bayesian Integrative Region Segmentation...")
+
+Early stop triggered: No — reached 10 articles, delta set stabilized (consistent theory-plus-single-application pattern, consistent citation/heading mechanics), and tandfonline.com access was exhausted (persistent HTTP 403 on all direct fetch attempts to abstract/full-text pages). Continued search past 10 largely returned duplicate or unconfirmed (non-JASA) hits, so stopped in line with convergence rule.
+
+Deltas found: 4 dimensions
+1. Abstract format — stricter than FIELD_SKILL: hard 200-word cap, no math displays, no references (ENFORCED — stated in ASA Style Guide, consistent with all fetched abstracts).
+2. Headings — numbered Arabic headings mandatory, all-caps main headings, specific subheading rules (min. two subheadings, decimal numbering) (ENFORCED — stated in style guide; deviates from FIELD_SKILL's "Roman or Arabic, either acceptable").
+3. Citation mechanics — ASA-specific et al. thresholds (2 authors full always; 3-5 full first time; 6+ et al. from first citation) and reference-list-full-names-always rule (ENFORCED, stated in style guide).
+4. Double-blind self-citation phrasing rule (must use third person for self-citations in blinded MS) (ENFORCED, stated in style guide's blinding guidelines).
+
+Structural/practice observations (PRACTICE ONLY / FIELD DEFAULT, not new norms):
+- Theory-first framing with a single validating real-data case study, more theory-weighted than typical FIELD_SKILL empirical papers — reflects Theory and Methods section norms specifically.
+- Three-way section split (Theory and Methods / Applications and Case Studies / Review) with a documented risk of desk rejection for miscategorization — noted as a common pitfall.
+
+FIELD_SKILL overrides: abstract math/reference restriction; mandatory numbered/capitalized headings; ASA et al. citation thresholds; mandatory third-person self-citation in blinded review.
+
+Access limitation notes: tandfonline.com (publisher site) returned HTTP 403 on every direct WebFetch attempt (both abstract and full-text pages), including the official Instructions for Authors page and the "What Makes for a Great Applications and Case Studies Paper?" editorial. All article-level evidence was instead sourced via arXiv/RePEc preprint mirrors, PubMed/PMC abstract pages, an institutional research-group announcement, and search-engine-extracted abstract snippets. The ASA Style Guide PDF (hosted on files.taylorandfrancis.com) was fetched successfully and provided the bulk of the Hard Constraints. The JASA Reproducibility Guide (GitHub Pages mirror) was also fetched successfully.

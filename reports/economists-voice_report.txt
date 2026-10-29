@@ -1,0 +1,42 @@
+Journal: Economists' Voice
+Slug: economists-voice
+ABS: 1
+Field: ECON
+Publisher: Walter de Gruyter (De Gruyter Brill)
+
+Articles fetched: 0 full-text (all De Gruyter article/journal HTML pages returned HTTP 405 to
+WebFetch). Evidence instead drawn from: 1 Wikipedia background fetch, 1 full RePEc/IDEAS
+table-of-contents fetch listing 18 article titles/authors/pages across Vol. 21 Iss. 2 (2024) and
+Vol. 22 Iss. 1-2 (2025), and 2 search-engine-extracted abstract summaries (Christl 2025 "Germany's
+Fiscal Turn"; Saam 2024 "Macroeconomic Productivity Effects of AI"). WebSearch tool was
+intermittently unavailable during this session ("Web search error: unavailable" on several calls);
+retried successfully on most queries.
+
+Early stop triggered: No (Step 0 dedupe check found no existing skill for this journal).
+
+Deltas found: 4 dimensions
+  1. Voice and Register - RELAXATION (broad non-specialist audience vs FIELD_SKILL's "trained
+     economists" assumption; journalistic/topical titles)
+  2. Structural Deviations - ENFORCED relaxation (single-topic policy essay format, not
+     Intro/Data/Results/Conclusion IMRaD architecture; no evidence of standalone Related
+     Literature or Robustness sections)
+  3. Length and Density - RELAXATION (600-10,000 words vs. full-length ABS 4/4* papers;
+     compressed argument density)
+  4. Other Journal-Specific Patterns - PRACTICE ONLY, low confidence (signed thematic
+     editorials opening several issues; single/two-author single-question format)
+
+FIELD_SKILL overrides: manuscript structure (policy paper vs. policy-forum dichotomy replaces
+IMRaD), length ceiling (10,000 words for policy papers, 600-3,000 for forum pieces).
+
+Access-limitation notes:
+- All degruyter.com / degruyterbrill.com journal and article pages returned HTTP 405 to
+  WebFetch (both journal homepage and individual issue ToC pages, and the DOI-resolved article
+  page for the Saam 2024 piece). No full-text article was read; no access to a formal
+  "Instructions for Authors" subpage beyond search-engine-indexed snippets of the journal
+  landing page, which is where the word-limit and article-type figures (10,000 / 600-3,000 words)
+  originate.
+- Citation style, abstract format, heading conventions, table/figure rules, and explicit
+  prohibitions could not be confirmed from any accessible source; recorded as "not found" rather
+  than fabricated.
+- Given ABS-1 tier and thin public access, this is documented as a good-faith, lower-confidence
+  spot-check per the assignment's explicit allowance for such journals.

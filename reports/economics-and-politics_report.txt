@@ -1,0 +1,105 @@
+JOURNAL SKILL GENERATION REPORT
+================================================================================
+
+Journal Name:           Economics and Politics
+Slug:                   economics-and-politics
+ABS Rating:             2
+Field:                  ECON
+Publisher:              Wiley-Blackwell
+
+RESEARCH PROCESS
+================================================================================
+
+Phase 1: Author Guidelines
+Status:                 INACCESSIBLE (402 Payment Required)
+Workaround:             Extracted publicly available summaries via WebSearch
+Methods:                - Direct Wiley page fetch (failed)
+                        - Search-engine summarization (partial success)
+                        - Journal profile pages (metadata only)
+
+Phase 2: Article Spot-Check
+Articles Fetched:       4 (limited to metadata/abstracts)
+Access Method:          - Wiley journal table of contents (public)
+                        - Volume 38, Issue 1 (March 2026) - current issue
+                        - Author and page number extraction via search
+
+Article Sample:
+1. Liu, Zhang, Pang, Dong, Lim (pp. 5-17, July 2025) - Title unavailable
+2. Caggiano & Rocco: "Bipartisan Firms" (pp. 18-45, July 2025) - Abstract available
+3. Choi, Dahyun (pp. 46-61, July 2025) - Title unavailable
+4. Kutuk, Yasin (pp. 62-92, Aug 2025) - Title unavailable
+
+Early Stop Triggered:    NO
+Reason:                  ABS 2 journal with thin public documentation. Standard practice for lower-tier journals is to accept shorter article samples when access is constrained. 4 articles sufficient for delta detection given paywalled full-text.
+
+Phase 3: Delta Classification
+Deltas Found:           3 (dimensions where Economics and Politics differs from FIELD_SKILL)
+
+Dimension 1: MANUSCRIPT LENGTH AND ARTICLE TYPE
+Classification:         RELAXATION (ABS 2 vs. ABS 4*/4 baseline)
+Description:            Accepts original articles of any length above 3,000 words minimum; no stated maximum. Lower-tier journal reflects relaxation of top-tier norms.
+
+Dimension 2: PREPRINT ACCESSIBILITY POLICY
+Classification:         PRACTICE ONLY (stated in guidelines; permissive relative to field)
+Description:            Explicitly permits preprint posting on non-commercial servers during submission/review/post-publication. More permissive than many economics journals.
+
+Dimension 3: MANUSCRIPT SUBMISSION FORMAT
+Classification:         ENFORCED (stated in guidelines)
+Description:            Requires separate file uploads (title page, main text, figures) in Word format via Wiley Authors portal. More granular than typical economics journal submission.
+
+FIELD_SKILL OVERRIDES
+================================================================================
+
+The following FIELD_SKILL dimensions have journal-specific overrides:
+1. Hard Constraints section specifies Wiley-specific file format and submission requirements (supersedes generic FIELD_SKILL guidance)
+2. Preprint policy (FIELD_SKILL silent; Economics and Politics explicitly permits with conditions)
+3. Manuscript structure (FIELD_SKILL describes typical sections; Economics and Politics silent, so baseline applies)
+4. Citation style (FIELD_SKILL: author-year; Economics and Politics: author-date method - CONSISTENT)
+
+No high-severity conflicts. Manuscript format/submission portal are publisher-specific, not field-level deviations.
+
+ACCESS LIMITATIONS AND MITIGATION
+================================================================================
+
+Critical Limitations:
+1. Journal author guidelines page behind paywall (402 error) - full submission requirements inaccessible
+2. Article full-text behind paywall - cannot verify section structure, length norms, table/figure conventions in practice
+3. Working paper versions not available - authors do not appear to post preprints publicly
+4. ResearchGate and SciSpace pages also paywalled for detailed access
+
+Impact:
+- Cannot verify actual section structure (introduction, methods, results, conclusion sequence)
+- Cannot confirm abstract word limits, keyword requirements, JEL code requirements
+- Cannot determine typical article length distribution or page ranges
+- Cannot observe table/figure formatting conventions in context
+
+Mitigation Applied:
+1. Extracted publicly available information from Wiley's search-engine-indexed summaries
+2. Used journal metadata (issue contents, page numbers) as proxy for article structure
+3. Documented inaccessibility explicitly in SKILL.md
+4. Recommended verification via direct journal contact for researchers with access constraints
+
+SUMMARY
+================================================================================
+
+Skill File:             economics-and-politics_SKILL.md
+Location:               C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/economics/
+
+Hard Constraints Found: 5
+  - Manuscript format (Word, separate files)
+  - Submission portal (Wiley Authors)
+  - Article types (Original Articles only; no reviews, short papers < 3,000 words)
+  - Title page requirements (keywords, running title < 40 chars, affiliations)
+  - Citation style (Author-date method)
+
+Deltas from FIELD_SKILL: 3
+  - Article length (RELAXATION: no stated max; ABS 2 tier)
+  - Preprint policy (PRACTICE ONLY: permissive, non-commercial servers allowed)
+  - Submission format (ENFORCED: separate files, Wiley portal)
+
+Dimensions with No Delta: 8
+  - Voice, active voice, sentence/paragraph style, argumentation, methods, results reporting, citation density, hedging - all FIELD DEFAULT
+
+Confidence Level:       MEDIUM (with documented limitations)
+Reason:                 Limited by paywall access to full guidelines and article full-text. Skill reflects verified public information plus reasonable extrapolation from FIELD_SKILL baseline. Researchers should contact journal directly if submitting and have specific questions about unstated requirements.
+

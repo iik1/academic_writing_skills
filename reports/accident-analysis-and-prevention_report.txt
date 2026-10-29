@@ -1,0 +1,20 @@
+Journal: Accident Analysis and Prevention
+Slug: accident-analysis-and-prevention
+ABS: 3
+Field: PSYCH (WOP-OB)
+Articles fetched: 10 full abstract/keyword reads (PubMed) + ~25 additional titles scanned for topical/temporal consistency across 2022 and 2026 issues
+Early stop triggered: No (delta set stabilized after ~8 abstracts; continued to 10 plus title scan for confidence)
+
+Deltas found: 4
+  1. Voice and Register - PRACTICE ONLY (engineering/technical voice dominates over psychology voice)
+  2. Statistical Reporting - RELAXATION (substantive/practical metrics in abstract, not APA inferential stats)
+  3. Structural Deviations - RELAXATION (unstructured single-paragraph abstracts, no numbered hypotheses)
+  4. Other Journal-Specific Patterns - RELAXATION (single-study/methods-driven papers are the norm, not multi-study packages)
+
+FIELD_SKILL overrides: None from official hard constraints (guide-for-authors page was 403-blocked; no confirmed conflicting mandate found). All deltas are RELAXATIONs/PRACTICE observations from article spot-check, appropriate for ABS 3 tier per instructions.
+
+Access-limitation notes:
+- ScienceDirect guide-for-authors page and all sciencedirect.com/science/article abstract pages returned HTTP 403 (paywalled/blocked) throughout this session.
+- Relied on secondary summary sites (manusights.com, publichealthconferences.com PDF) for guideline triangulation; these had low information density and some unconfirmed claims (e.g., "structured or extended abstract" language, 8-15 page limit) that were NOT corroborated by actual published abstracts, so were flagged as unconfirmed/secondary rather than treated as hard constraints.
+- PubMed abstract pages (pubmed.ncbi.nlm.nih.gov) were fully accessible and provided reliable full-abstract text, keywords, and publication metadata; used as primary spot-check source in place of ScienceDirect/full text.
+- No full-text articles were accessible (no open-access PMC mirrors found for this journal in the sample); analysis is based on abstracts/keywords only, consistent with the assignment's allowance for front-matter-only spot-checks.

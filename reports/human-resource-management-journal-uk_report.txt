@@ -1,0 +1,18 @@
+Journal: Human Resource Management Journal (UK)
+Slug: human-resource-management-journal-uk
+ABS: 4*
+Field: HRM&EMP
+Publisher: Wiley-Blackwell
+
+Articles fetched: 11 distinct articles/editorials (2 full-text via open-access repositories: Budhwar et al. 2024 editorial [QUB repository], Begley et al. 2025 [AUEB eclass repository]; 9 via abstract/search-snippet triangulation: Farndale et al. 2020, Vardi & Collings 2023, Li et al. 2024, Lai et al. 2024/2025, Nadiv 2025, O'Brady/Doellgast/Starcevic 2025, Rofcanin & Budhwar 2026, Haar 2026, Ren 2026)
+
+Early stop triggered: No — access chain (Wiley homepage 402, but open-access repository PDFs and search-engine abstract snippets) was sufficient to reach the target sample size and delta findings stabilised.
+
+Deltas found: 2 substantive deltas + 1 hard-constraint set
+  1. Structural Deviations (ENFORCED) — mandatory "Summary"/Practitioner Notes box after abstract, three labelled subsections (What is currently known? / What this paper adds? / Implications for practitioners), max ~4 bullets per section, ~80 characters per bullet. Directly confirmed in full text of Begley et al. 2025.
+  2. Other Journal-Specific Patterns (ENFORCED/emphasised) — heavier-than-baseline emphasis on contextualising HRM research (national/sectoral/institutional context); editorial guidance names failure to contextualise as a leading desk-rejection cause.
+  3. Hard Constraints — explicit list of exclusions (no organisational-psychology-only work, no theory-free papers, no student-sample-only or small-scale studies, no pure replications, no AI-written studies); APA reference style confirmed; unstructured single-paragraph abstract.
+
+FIELD_SKILL overrides: None that contradict FIELD_SKILL substantively — the Summary/Practitioner Notes box and contextualisation emphasis are additions/refinements consistent with ABS 4* tightening the baseline, not redefinitions of it.
+
+Access-limitation notes: Wiley's official author-guidelines page (onlinelibrary.wiley.com/page/journal/17488583/homepage/forauthors.html) returned HTTP 402 in this environment and could not be fetched directly. No confirmed hard word/page limit or abstract word-count figure could be sourced specifically for this journal (a "100-150 word abstract" figure surfaced in search results appears to belong to a different journal, Human Resource Management Review [Elsevier], and was excluded to avoid misattribution). Guidance was instead triangulated from: (a) the journal's own 2024 open-access editorial perspective article (Budhwar et al., "Articulating scholarship in human resource management," CC-BY, fetched in full via Queen's University Belfast repository), which is unusually rich in journal-specific submission guidance; (b) one additional full-text open-access article (Begley et al. 2025, via AUEB eclass repository) which confirmed the Practitioner Notes box structure directly; and (c) abstract-level search snippets for the remaining 9 articles.

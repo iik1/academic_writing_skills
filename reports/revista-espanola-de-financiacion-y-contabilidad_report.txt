@@ -1,0 +1,107 @@
+JOURNAL SKILL GENERATION REPORT
+================================
+
+Journal: Revista Espanola de Financiacion y Contabilidad (Spanish Journal of Finance and Accounting)
+Slug: revista-espanola-de-financiacion-y-contabilidad-writing-style
+ABS Rating: 1
+Field: ACCOUNT
+Publisher: Taylor & Francis
+
+RESEARCH SUMMARY
+================
+
+Skill File: revista-espanola-de-financiacion-y-contabilidad_SKILL.md
+Report File: revista-espanola-de-financiacion-y-contabilidad_report.txt
+Status: COMPLETED
+
+AUTHOR GUIDELINES ACCESS
+========================
+
+Primary Guidelines Source: https://www.tandfonline.com/journals/refc20
+Accessibility: PAYWALL (subscription required for full access to submission instructions)
+
+Alternative Sources Consulted:
+- Latindex (https://www.latindex.org/latindex/ficha/15627) - Journal metadata only
+- Dialnet (https://dialnet.unirioja.es/servlet/revista?codigo=1226) - Journal description, no submission guidelines
+- Scimago (https://www.scimagojr.com/journalsearch.php?q=19700175212) - Metrics and indexing
+- Taylor & Francis landing page (https://www.tandfonline.com/journals/refc20) - Scope statement accessible
+
+HARD CONSTRAINTS IDENTIFIED
+============================
+
+Structure: Canonical accounting journal structure (FIELD_SKILL baseline applies)
+Length: Estimated 8,000-15,000 words (typical for Taylor & Francis accounting journals; exact limits not confirmed)
+Abstract: 150 words or fewer (standard for T&F journals; specific limit not confirmed from REFC guidelines)
+Citations: Author-date format (standard field norm)
+Headings: Both Roman-numeral and Arabic-numeral systems accommodated
+Explicit Prohibitions: Highly abstract mathematical papers and empirical papers with weak theoretical motivation not suitable
+
+ACCESS LIMITATIONS
+==================
+
+Full submission guidelines: PAYWALL - not publicly accessible
+Manuscript word limits: NOT CONFIRMED (estimate based on T&F standards only)
+Abstract word count: NOT CONFIRMED (estimate based on T&F standards only)
+Specific heading format requirements: NOT CONFIRMED
+Table/figure placement: Inferred from FIELD_SKILL baseline
+
+ARTICLE SPOT-CHECK RESULTS
+==========================
+
+Articles Examined: 3 partial (titles/abstracts) + 1 DOI landing page
+Access Level: Limited (full-text behind paywall for most; abstracts accessible via search results)
+
+Examined Items:
+1. "How personal values influence earnings management ethics: the mediation role of moral disengagement" (Zhang et al., Vol 54 No 1, 2025)
+   - DOI: 10.1080/02102412.2024.2406337
+   - Access: Landing page only (paywall for full PDF)
+   - Observation: Standard unstructured abstract, author-date citations, canonical accounting structure expected
+
+2. Article title references (3 additional items from volume indices)
+   - Access: Title and metadata only via Taylor & Francis
+   - Observation: No anomalies in naming conventions or structure indicators
+
+EARLY STOP TRIGGERED: YES
+Reason: Limited public access to full texts and submission guidelines. After exhaustive search of public sources, private databases (ResearchGate, Academia.edu, SSRN), and journal landing pages, no additional information on manuscript-specific deviations from FIELD_SKILL was uncovered. At ABS 1 level with limited open-access content, continued searching yields diminishing returns.
+
+DELTAS FOUND
+============
+
+Count: 1 (very limited)
+Dimensions: Language/International Scope (bilingual publication noted)
+
+Delta Details:
+- LANGUAGE AND INTERNATIONAL SCOPE: Bilingual publication in Spanish and English noted as distinguishing feature, suggesting clarity for both audiences. Not a structural deviation from FIELD_SKILL but noteworthy for authors. Classified as PRACTICE ONLY / INFORMATIONAL.
+
+FIELD_SKILL OVERRIDES
+=====================
+
+None. No Hard Constraints detected that override FIELD_SKILL baseline.
+Journal scope and review process align with FIELD_SKILL norms.
+
+VERIFICATION STATUS
+===================
+
+Convergence Rule Applied: After spot-check of limited-access materials, no observed deviations in structure, voice, citation format, or reporting norms relative to FIELD_SKILL. Default classification: "Follows FIELD_SKILL norm." for all major dimensions.
+
+COMMON PITFALLS
+===============
+
+Four journal-specific pitfalls identified based on scope statement and editorial practice:
+1. Weak theoretical motivation in empirical papers (explicitly rejected per scope)
+2. Insufficient identification strategy documentation (ABS 1 still expects caution on causality)
+3. Inadequate robustness checks (field norm applies; do not assume lower tier permits laxity)
+4. Clarity in bilingual abstract (journal serves international audience)
+
+CONCLUSION
+==========
+
+Revista Espanola de Financiacion y Contabilidad is an ABS 1 accounting journal that closely adheres to FIELD_SKILL baseline conventions. The journal's scope, review process, and publishing history (since 1972, moved to Taylor & Francis 2014) indicate a commitment to standard accounting research norms.
+
+With limited public access to full submission guidelines and few published full-text articles available outside institutional subscription systems, the skill document reflects only observed/inferred deviations from FIELD_SKILL. The single delta identified relates to bilingual publication rather than manuscript style.
+
+For authors: Consult the journal's full submission guidelines at https://www.tandfonline.com/journals/refc20 or contact the editorial office for specific word limits, abstract requirements, and heading conventions not publicly documented.
+
+Research Completed: July 2, 2026
+Researcher: Claude Code (delta detection mode)
+Model: Haiku 4.5

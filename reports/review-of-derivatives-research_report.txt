@@ -1,0 +1,31 @@
+Journal: Review of Derivatives Research
+Slug: review-of-derivatives-research
+ABS: 2
+Field: FINANCE
+Articles fetched: 10 (abstract/keyword/JEL level; full text not accessible)
+Early stop triggered: No (reached target sample via RePEc/IDEAS mirrors despite Springer link.springer.com auth wall)
+
+Deltas found: 1 dimension (PRACTICE ONLY)
+  - "Other Journal-Specific Patterns": topical/register skew toward mathematical/quantitative
+    derivatives pricing (closed-form solutions, stochastic volatility, CEV models, Greeks) with
+    terser, method-first abstracts and technical/mathematical keywords, vs. FIELD_SKILL's broader
+    empirical-corporate-finance narrative emphasis. Classified as RELAXATION/variation in emphasis,
+    not a redefinition of field norms, consistent with ABS 2 tier.
+  All other dimensions (structure, voice, citations, headings, tables/figures, hedging) recorded as
+  FIELD DEFAULT / not independently verifiable — no confirmed deviation from FIELD_SKILL.
+
+FIELD_SKILL overrides: none confirmed. One ENFORCED item noted (Springer Nature general policy,
+not journal-unique): post-acceptance authorship changes prohibited; 3-year conflict-of-interest
+disclosure window; Data Availability Statement required on original research articles.
+
+Access-limitation notes:
+- link.springer.com/journal/11147/submission-guidelines and all link.springer.com article pages
+  redirect through idp.springer.com (Springer login wall) in this environment — could not fetch
+  live guidelines page or full-text articles directly.
+- Relied on RePEc/IDEAS (ideas.repec.org) mirrors for abstracts, keywords, and JEL codes across
+  10 articles spanning 2016-2025, plus WebSearch-surfaced Springer Nature general policy summaries
+  and one SSRN abstract snippet.
+- Full-text section structure, citation style, heading conventions, and table/figure rules could
+  NOT be verified; these are marked "not independently verifiable" in the skill rather than
+  fabricated. This is an honest-effort, thin-access result appropriate for a lower-tier journal
+  with a paywalled primary source.

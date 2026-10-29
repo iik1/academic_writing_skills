@@ -1,0 +1,112 @@
+JOURNAL WRITING SKILL: RESEARCH REPORT
+=======================================
+
+Journal Name:     Labour and Industry: a journal of social and economic relations of work
+Slug:             labour-and-industry-a-journal-of-social-and-economic-relations-of-work
+ABS Rating:       2
+Field:            HRM&EMP
+Publisher:        Taylor & Francis (Informa UK Limited)
+
+RESEARCH PHASE SUMMARY
+======================
+
+PHASE 1 - AUTHOR GUIDELINES
+---------------------------
+Status: INCOMPLETE (paywall access)
+
+Findings:
+- Journal homepage (https://www.tandfonline.com/journals/rlab20) is behind paywall
+- Full author guidelines PDF not publicly accessible
+- General information available on journal scope and peer review policy
+- Relying on Taylor & Francis standard practices and journal scope statements
+
+Hard Constraints Gathered:
+- Double-blind peer review required
+- Abstract: ~100–200 words (Taylor & Francis standard)
+- Keywords required (number unspecified)
+- Accepts research articles and symposia proposals
+- Ethics approval required for primary data collection
+- Hybrid open access (article publishing charges may apply)
+- Citation style likely APA or Harvard variant (not confirmed)
+
+PHASE 2 - ARTICLE SPOT-CHECK
+----------------------------
+Articles Accessed: 1 full analysis + metadata review
+Target: 10–15 distinct articles
+Reason for Lower Count: Taylor & Francis paywall blocks direct PDF access to most articles; institutional repositories and search results provide limited metadata and abstract-level information only
+
+Articles Examined:
+1. "Why employment relations matter(s) for governance of problems for labour in the real world of work"
+   - Type: Research Insights (17 pages)
+   - Date: February 12, 2024
+   - Access: Institutional repository (University of Birmingham)
+   - Content Level: Full text available; abstract and structure analyzed
+
+2. Journal metadata from recent issues (2023-2025)
+   - Special issue: "Labour & Value" (AIRAANZ Conference 2023)
+   - Articles on workers' voice in Vietnam, labor shortages in Queensland, employment relations governance
+   - Access: ResearchGate mentions, abstract-only
+
+Observations:
+- Article structure follows standard IMRaD or near-equivalent (intro → conceptual framing → analysis → implications)
+- Voice and register: formal but explicitly critical/problem-oriented, uses parenthetical emphasis for conceptual nuance
+- Contributions framed for multiple audiences: scholars, practitioners, policymakers
+- Emphasis on contemporary real-world labor challenges (pandemic, climate, technology, intersectionality)
+- Practical implications and "sociological imagination" valued
+
+PHASE 3 - DELTA CLASSIFICATION
+-------------------------------
+Deltas Found: 4 dimensions with notable deviations from hrm-field-writing-style baseline
+
+1. SCOPE AND PROBLEM FRAMING
+   Classification: PRACTICE ONLY
+   Finding: Stronger emphasis on contemporary real-world labor problems and critical scholarship than ABS 4* baseline
+
+2. VOICE AND CRITICAL REGISTER
+   Classification: PRACTICE ONLY
+   Finding: More explicitly critical and problem-focused than some ABS 4 outlets; normative positioning on labor issues permitted
+
+3. CONTRIBUTIONS STATEMENT
+   Classification: PRACTICE ONLY
+   Finding: Multivalent contribution framing (theory + practice + critical advancement) more pronounced than baseline
+
+4. GENERAL EDITORIAL STANCE
+   Classification: PRACTICE ONLY (not a hard constraint but evident in policy statements)
+   Finding: Journal encourages "challenging conceptual boundaries" and contributing to understanding of contemporary work/labor governance
+
+Dimensions with No Delta:
+- Results reporting, hedging, discussion structure, citation density, sentence style: all follow field baseline
+
+FIELD_SKILL OVERRIDES
+---------------------
+None. Labour and Industry adheres to standard HRM&EMP field conventions for abstract, methods, results, discussion, and hedging. No ENFORCED deviations from baseline detected.
+
+ACCESS LIMITATIONS
+------------------
+- Full author guidelines document behind Taylor & Francis paywall; unable to verify exact word limits, heading formats, figure placement, or citation style specifics
+- Most recent articles paywalled; spot-check limited to 1 full-text article + metadata
+- Taylor & Francis submission portal requires institutional login or OA publication fee
+- Recommendation: Prospective authors should confirm exact word limits, citation style, and heading conventions directly with journal editor or via institutional access before finalizing submission
+
+SKILL FILE WRITTEN
+------------------
+Location: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/hrm/labour-and-industry-a-journal-of-social-and-economic-relations-of-work_SKILL.md
+
+Content:
+- Profile: ABS 2, HRM&EMP, Taylor & Francis, multi-disciplinary work/industrial relations
+- Hard Constraints: Structure, length, abstract, citation (with caveats), headings, tables/figures, ethics
+- Observed Deltas: 4 dimensions (scope/problem framing, critical voice, contributions multivalence, contemporary emphasis)
+- Common Pitfalls: 4 submission mistakes (underestimating critical framing, insufficient real-world grounding, omitting policy implications, vague treatment of contemporary issues)
+- Sources: Documented with access method (paywall/open/metadata)
+
+EARLY STOP TRIGGERED
+--------------------
+No early stop. Continued research despite limited paywall access because (a) journal scope and peer review policy are publicly documented, (b) one full-text article analyzed, (c) sufficient field information available to identify meaningful deltas, and (d) an honest, caveated skill is preferable to no skill.
+
+METADATA
+--------
+Research Date:  2026-07-02
+Access Chain:   WebSearch → publisher homepage (paywall) → institutional repository → journal metadata
+Articles Fetched: 1 (full text via open institutional repository)
+Deltas Found: 4 (all PRACTICE ONLY; no ENFORCED or GUIDELINE ONLY constraints detected)
+Confidence Level: MODERATE (constrained by paywall access but field baseline solid and contemporary examples available)

@@ -1,0 +1,20 @@
+Journal: Emerging Markets Finance and Trade
+Slug: emerging-markets-finance-and-trade
+ABS: 2
+Field: FINANCE
+Publisher: Taylor & Francis
+
+Articles fetched: 15 distinct titles/abstracts spot-checked (via WebSearch snippets and RePEc/IDEAS abstract pages), spanning Vol. 57 (2019) to Vol. 62 (2026), plus one bibliometric self-study of the journal (Bhaskar & Bansal 2022). Full-text PDFs on tandfonline.com were consistently blocked (HTTP 403); no full manuscript was read end-to-end.
+
+Early stop triggered: No (dedupe check found no existing skill for this journal; full spot-check and guidelines search were completed).
+
+Deltas found: 0 dimensions with a confirmed style delta from FIELD_SKILL. All voice/structure/methods/results/citation/hedging dimensions logged as FIELD DEFAULT ("Follows FIELD_SKILL norm."). One PRACTICE ONLY / low-prevalence observation noted (not a stated norm): heavy prevalence of single-country China-focused papers with "Evidence from China"-style subtitles and named policy/regulatory shocks in titles, reflecting submission mix rather than editorial requirement.
+
+FIELD_SKILL overrides: none confirmed as ENFORCED. One tentative HARD_CONSTRAINT recorded at low confidence: 30-page manuscript limit, double-spaced, Times New Roman 12pt (sourced from a T&F special-issue call for papers, not the main Instructions for Authors page, which was inaccessible). This should be re-verified directly before use.
+
+Access-limitation notes:
+- The journal's official Instructions for Authors page (tandfonline.com/journals/mree20) returned HTTP 403 on every fetch attempt and could not be read directly.
+- The "About this journal" page also returned HTTP 403.
+- Individual article PDFs on tandfonline.com all returned HTTP 403; article-level information was reconstructed from WebSearch result snippets and from RePEc/IDEAS abstract pages (which were accessible via WebFetch).
+- No abstract word limit or citation-style detail could be independently confirmed against the journal's own guidelines; these are flagged as lower-confidence in the skill file.
+- Given the thin, indirect access chain, the skill file explicitly documents these limitations and recommends re-verification of the length/format constraints before actual submission use.

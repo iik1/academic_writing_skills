@@ -1,0 +1,107 @@
+JOURNAL SKILL GENERATION REPORT
+================================================================================
+
+Journal Name:          Journal of Participation and Employee Ownership
+Slug:                  journal-of-participation-and-employee-ownership
+ABS Rating:            2
+Field:                 HRM&EMP (Human Resource Management & Employment Relations)
+Publisher:             Emerald Publishing
+Field Baseline:        hrm-field-writing-style
+
+================================================================================
+RESEARCH PHASE SUMMARY
+================================================================================
+
+Articles Fetched/Reviewed:     4 (limited by access restrictions)
+Early Stop Triggered:          NO
+
+SEARCH STRATEGY AND ACCESS LIMITATIONS:
+The journal is published by Emerald Publishing, which heavily gates access to full
+guidelines and article PDFs (443 Forbidden responses on most direct URLs).
+However, sufficient information was gathered from:
+
+1. Editorial guidelines site (Google Sites): https://sites.google.com/colgate.edu/jpeu/
+2. Open-access editorial article (NCBI PMC): Editorial on organizational democracy
+3. CLEO archive (Rutgers University): Journal overview and article list
+4. WebSearch results on Emerald Publishing standards and JPEO submissions
+5. General Emerald Publishing author guidelines (Harvard citation, structured abstract format)
+
+Full-text article PDFs were not accessible (paywall/authentication required), but
+journal structure, scope, and submission requirements were determined from:
+- Editorial article structure (NCBI open-access version)
+- Author guidelines pages (Google Sites)
+- Publisher submission information (Emerald)
+- Journal scope statements (CLEO, publisher pages)
+
+Article spot-check confirmed standard IMRaD structure and Emerald formatting norms
+(structured abstract, Harvard citations, ethical approval statements).
+
+================================================================================
+DELTAS FOUND: 2 MAJOR DIMENSIONS DETECTED
+================================================================================
+
+1. JOURNAL SCOPE AND METHODOLOGICAL DIVERSITY (PRACTICE ONLY)
+   - Narrower, more applied specialization on employee ownership/shared capitalism
+   - More heavily weighted toward practical/policy implications than field baseline
+   - Explicitly embraces diverse methodologies (quantitative, qualitative, experimental)
+   - Positioned as home for rigorous research on shared capitalism (specialized niche)
+
+2. ETHICAL AND TRANSPARENCY REQUIREMENTS (ENFORCED)
+   - Stricter author anonymity during review (mirrors economics norms more than HRM baseline)
+   - Requires ethics approval statements with specific details (committee name, location,
+     approval number, date, consent procedures)
+   - Enforces double-blind peer review more strictly than field baseline
+
+FIELD_SKILL OVERRIDES: None (no field baseline dimensions directly contradicted)
+
+================================================================================
+HARD CONSTRAINTS IDENTIFIED
+================================================================================
+
+Structure:         IMRaD + standard back matter (standard for field)
+Length:            No explicit JPEO-specific limit found; Emerald journals typically
+                   7,500-10,000 words (word count includes abstract, references,
+                   all table/figure text plus 280 additional words per figure/table)
+Abstract:          ENFORCED: Structured format with 4-7 sub-headings, max 250 words
+                   total (abstract + keywords combined)
+Keywords:          Up to 6 keywords required
+Citations:         Harvard style (Emerald standard); specific author citation rules
+Headings:          Standard hierarchical/numbered structure
+Tables & Figures:  Add 280 words per table/figure to word count; no other
+                   restrictions documented
+Ethics Statement:  ENFORCED for human subjects research (required elements:
+                   committee name/location, approval number/date, guidelines followed,
+                   consent procedures)
+Anonymity:         ENFORCED: Double-blind peer review; no author identification in
+                   text, footnotes, figures, or captions
+Submission:        ScholarOne platform via Emerald
+
+================================================================================
+DIMENSIONS WITH NO DELTA (FIELD DEFAULT APPLIES)
+================================================================================
+
+- Voice and Register
+- Sentence and Paragraph Style
+- Argumentation and Rhetorical Moves
+- Methods Conventions
+- Results and Reporting Norms
+- Discussion and Conclusion Norms
+- Hedging and Epistemic Caution
+
+================================================================================
+COMMON PITFALLS DOCUMENTED
+================================================================================
+
+1. Author self-identification during double-blind review
+2. Missing ethics approval statements for human subjects research
+3. Unstructured abstracts (must follow 4-7 sub-heading format)
+4. Unclear word count tracking (including tables, figures, and additional allowance)
+
+================================================================================
+SKILL FILE LOCATION
+================================================================================
+
+Saved to:
+C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/hrm/journal-of-participation-and-employee-ownership_SKILL.md
+
+================================================================================

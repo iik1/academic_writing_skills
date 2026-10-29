@@ -1,0 +1,23 @@
+Journal: Behavioural Public Policy
+Slug: behavioural-public-policy
+ABS: 1
+Field: ECON
+Publisher: Cambridge University Press
+
+Articles fetched: 13 titles/entries surveyed across issues (Vol. 1, 7, 8, 10); 3 read at abstract/section-heading depth (Chater 2024 "contractarian approach" - full abstract + section headings; Dolan, Krekel & Swanke 2024 "Affective paternalism" - abstract via search snippet; Sah 2026 "paradox of disclosure" - title only, full article page 404'd).
+
+Early stop triggered: No. Full good-faith spot-check completed; access chain was mostly open (Cambridge Core pages, IDEAS/RePEc, WebSearch snippets) with only isolated 404s on individual article pages.
+
+Deltas found: 2 dimensions
+- Structural Deviations (ENFORCED): journal supports multiple short-form article types (Perspective, Debate Essay, Response, Annual LSE Lecture, Findings from the Field, New Voices) beyond the standard empirical/theory structure in FIELD_SKILL.
+- Other Journal-Specific Patterns (PRACTICE ONLY / low-prevalence, guideline-stated): multidisciplinary-audience framing pushes toward more policy-accessible, less jargon-dense prose than typical ABS 4*/4 economics outlets; not independently confirmed via full-text sampling (abstract-level access only).
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+- Word limits: 6,000-8,000 words (Research Article/Political Economy); 2,000-3,000 words (New Voices, Findings from the Field) -- FIELD_SKILL specifies no length norms.
+- Abstract: max 200 words, 4-6 keywords -- not covered by FIELD_SKILL.
+- Citation style: Harvard 6th edition, author-year parenthetical -- consistent with FIELD_SKILL's author-year default but journal specifies exact edition/format.
+- Headings: bold sentence-case (level 1) / italic sentence-case (level 2), NOT numbered -- FIELD_SKILL allows numbered headings.
+- Tables/figures: specific formatting rules (no vertical rules, placement cues in text) -- not covered by FIELD_SKILL.
+- Submission categories: New Voices restricted to early-career researchers (PhD students/recent grads) -- journal-specific eligibility rule with no FIELD_SKILL analog.
+
+Access limitation notes: Most articles are gold open access in principle but individual article pages sometimes returned 404 via WebFetch (e.g., Sah 2026, Veganuary article); relied on IDEAS/RePEc listings, Cambridge Core issue/section listing pages, and WebSearch snippets as fallback. Full-text body content (beyond abstracts and section headings) was not accessible for most sampled articles, limiting confidence on statistical-reporting and hedging deltas -- these are recorded as FIELD DEFAULT based on the limited full-text/abstract evidence available, not exhaustive full-text review.

@@ -1,0 +1,21 @@
+Journal: Japanese Economic Review
+Slug: japanese-economic-review
+ABS: 1
+Field: ECON
+
+Articles fetched: 10 (abstract-level, via RePEc/IDEAS mirror of Springer metadata)
+Early stop triggered: No — reached target sample size via alternate access route after guidelines/full-text access failed.
+
+Deltas found: 2, both PRACTICE ONLY / low-prevalence
+  - Structural: recent issues include periodic survey-style articles (literature surveys on Japanese monetary policy, labor market, firm dynamics) alongside standard research papers, likely special-issue driven. Does not change the structural requirement for standard submissions.
+  - Content emphasis: many (not all) published papers foreground a Japan-specific empirical setting, reflecting the journal's stated mission to advance empirical analysis of the Japanese economy, but this is not a formal submission requirement — general-interest submissions from outside Japan are explicitly welcomed.
+
+FIELD_SKILL overrides: none identified (guidelines page inaccessible, so no hard constraints could be confirmed to conflict with or override FIELD_SKILL).
+
+Access-limitation notes:
+  - Springer's journal guideline pages (springer.com/journal/42973/submission-guidelines, link.springer.com/journal/42973/submission-guidelines, /aims-and-scope, /how-to-publish-with-us) all returned 303 redirects into idp.springer.com authentication wall — no content retrievable despite these nominally being public pages.
+  - Wiley legacy author-guidelines page (from pre-2020 Wiley publication era) returned HTTP 402 Payment Required.
+  - archive.org access blocked in this environment (WebFetch refuses web.archive.org).
+  - WebSearch tool was intermittently unavailable/erroring during this session; worked for some queries but not others.
+  - Full text of all sampled articles was paywalled; all spot-check data is abstract + JEL code + keyword level, sourced via RePEc/IDEAS (ideas.repec.org), which successfully mirrors Springer's article metadata.
+  - Given the above, Hard Constraints section of the skill is largely marked "not independently verifiable" rather than fabricated. This is an honest-limitation case per instructions.

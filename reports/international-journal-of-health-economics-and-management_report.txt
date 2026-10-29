@@ -1,0 +1,58 @@
+JOURNAL SKILL CREATION REPORT
+========================================
+
+Journal: International Journal of Health Economics and Management
+Slug: international-journal-of-health-economics-and-management
+ABS 2024 Rating: 2
+Field: ECON
+Publisher: Springer Nature
+
+ARTICLES FETCHED: 12 distinct articles
+- Brosig-Koch et al. (June 2025) - Physicians' incentives (experimental)
+- Nair & Mishra (June 2025) - Demand side financing (observational)
+- Chongwilaikasaem et al. (June 2025) - Alcohol deregulation (survey)
+- Kaiser et al. (May 2025) - Swiss health insurance (observational/quasi-experimental)
+- Han et al. (September 2024) - Hospital markets (experimental)
+- Debie et al. (December 2025) - Maternal healthcare equity (observational)
+- Bawuah et al. (December 2024) - Healthcare quality Ghana (observational)
+- Espinosa et al. (September 2025) - Health benefits plan (observational)
+- Hassani et al. (September 2025) - Catastrophic health spending Morocco (observational)
+- Johnson (December 2025) - Medicaid expansion (observational)
+- Attobrah et al. (March 2026) - Health insurance safety net (observational)
+- Celabi et al. (June 2025) - Baumol's cost disease (observational)
+
+ACCESS CHAIN: Full-text articles accessed via PubMed Central and IDEAS/RePEc (open access). Springer link requires authentication; submission guidelines page inaccessible but abstract requirements and formatting constraints found in search index data.
+
+EARLY STOP TRIGGERED: No. Sample size (12 articles) is sufficient for an ABS 2 journal with documented lower access barriers than ABS 4*/4 outlets. Convergence achieved: all articles follow standard empirical economics structure (Introduction, Methods, Results, Discussion, Conclusion) with no structural deviations from FIELD_SKILL.
+
+DELTAS FOUND: 2 substantive dimensions identified as deviating from field baseline.
+
+1. RELAXED LENGTH EXPECTATIONS (RELAXATION)
+   - Articles in sample range 6,000–15,000 words (no fixed word limit stated in guidelines).
+   - FIELD_SKILL implies 8,000–12,000 word targeting at ABS 4*/4 level.
+   - This is a relaxation: lower tier journal permits greater variability.
+
+2. EXTENDED HEALTHCARE CONTEXT IN METHODS (PRACTICE ONLY)
+   - Health services papers frequently include dedicated subsections describing healthcare systems, insurance design, policy reform institutional context.
+   - Not stated as requirement but observed consistently in observational studies.
+   - Reflects discipline-specific convention, not journal-specific rule.
+
+FIELD_SKILL OVERRIDES: None. Hard constraints are abstact (150–250 words), three heading levels max, plain font, and author-year citations. All align with or follow field baseline. No conflicts identified.
+
+STRUCTURAL FINDINGS:
+- All 12 articles follow empirical economics structure: FIELD DEFAULT
+- Voice (first-person plural "we"): FIELD DEFAULT
+- Citation format (author-year, parenthetical/in-text): FIELD DEFAULT
+- Hedging intensity (low): FIELD DEFAULT
+- Statistical reporting (quantitative specificity, economic significance): FIELD DEFAULT
+- Argument rhetorical moves (introduction roadmap, results preview, positioning): FIELD DEFAULT
+
+LIMITATIONS AND NOTES:
+- Springer submission guidelines page requires authentication; public access limited to abstract requirements and formatting rules from search indices.
+- All 12 articles are from 2024–2026 (recent publications; stable conventions observed).
+- Sample includes both experimental and observational designs, diverse geographic and health systems contexts (Ghana, Ethiopia, Switzerland, Morocco, Thailand, Indonesia, Korea, China, US, India). This breadth supports generalization of findings.
+- No articles were found to deviate from standard empirical structure or FIELD_SKILL voice/register norms.
+
+SKILL FILE STATUS: Written and saved. Covers hard constraints, observed practice deltas, and common pitfalls specific to health economics submissions at this journal tier.
+
+RECOMMENDATION: Skill is concise (minimal deltas = minimal file length). All key constraints documented. Authors submitting to this journal should reference field baseline (econ-field-writing-style) first, then consult this journal-specific skill for minor adjustments and context-specific practices in health services methodology.

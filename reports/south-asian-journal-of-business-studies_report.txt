@@ -1,0 +1,23 @@
+Journal: South Asian Journal of Business Studies
+Slug: south-asian-journal-of-business-studies
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 0 full-text (all Emerald and ResearchGate direct-page fetches returned CAPTCHA/403). 6 articles identified only by title/author via WebSearch snippets:
+  - "'Goldilocks' gender mix for maximal innovation likelihood at Indian firms" (Kumar, Alok & Banerjee)
+  - "Expense shifting and revenue shifting in the income statement" (Bansal)
+  - "The effect of bank reputation on loyalty" (Sharma & Joshi)
+  - "Intention to stay and happiness" (Bellamkonda & Pattusamy)
+  - "Stock market participation through socialization" (SAJBS-09-2024-0355)
+  - "Career transition from paid-employment to entrepreneurship" (SAJBS-11-2024-0418)
+
+Early stop triggered: No (proceeded through all phases with good-faith effort; access chain was thin throughout, documented honestly rather than fabricated).
+
+Deltas found: 2
+  1. Abstract Format - ENFORCED (Emerald house style: structured abstract, 4 mandatory subheadings - Purpose, Design/methodology/approach, Findings, Originality/value - plus optional subheadings, 250-word cap). Overrides FIELD_SKILL's looser structured-or-unstructured default.
+  2. Scope Emphasis - GUIDELINE ONLY (journal explicitly frames scope around South Asia regional relevance and practitioner/policy implications, narrower than general MGMT baseline).
+  Also noted: Citation style likely Harvard (Emerald house-wide standard) vs. FIELD_SKILL's APA description - flagged but not independently confirmed for this specific journal due to access limits.
+
+FIELD_SKILL overrides: Abstract format (structured, labeled subheadings, 250-word cap) overrides FIELD_SKILL's abstract guidance.
+
+Access-limitation notes: Every direct fetch to emerald.com (author guidelines page, homepage, issue listings, article-abstract pages, article-PDF page) returned either an HTTP 403 or a CAPTCHA/bot-check interstitial. ResearchGate article page also returned 403. All information in the skill was reconstructed from WebSearch result snippets (titles, partial descriptions, and general knowledge of Emerald's house-wide structured-abstract convention) rather than from directly read full text or guidelines. No full-text article was read for this journal. The skill and report note this limitation prominently and avoid fabricating any journal-specific claim not traceable to a search snippet or Emerald's documented general house style.

@@ -1,0 +1,18 @@
+Journal: Econometrics Journal
+Slug: econometrics-journal
+ABS: 3
+Field: ECON
+Publisher: Oxford University Press (for the Royal Economic Society)
+
+Articles fetched: 22 (15 advance articles at title/author level; 7 from Vol 28 Issue 2 table of contents; 1 full abstract read for "One-step smoothing splines instrumental regression"; 1 summary read for "Robustify and Tighten the Lee Bounds")
+
+Early stop triggered: No — deltas stabilized after guidelines review + spot-check; convergence with FIELD_SKILL on voice/register/structure was clear early, so effort focused on confirming hard constraints rather than exhaustively reading further full texts, which are paywalled.
+
+Deltas found: 3 dimensions
+  1. Length — 20-page cap including printed appendix (ENFORCED, tighter than field default of no fixed limit).
+  2. Abstract — 150-word cap, unstructured (ENFORCED; field baseline sets no field-wide limit).
+  3. Structural — mandatory empirical application even for pure theory/methods papers (ENFORCED); simulation-results compression to one table/graph in main text with detail moved to online appendix (RELAXATION/constraint driven by length cap); mandatory figure alt-text (ENFORCED, submission-system requirement).
+
+FIELD_SKILL overrides: Length limit (20pp), abstract word limit (150 words), simulation reporting compression requirement.
+
+Access-limitation notes: Full guidelines are split across academic.oup.com/ectj/pages/general_instructions and res.org.uk/submissions/; the OUP page defers most formatting specifics to the RES page, which was fetched successfully. Full text of articles is paywalled; analysis relied on titles, abstracts, and one prize-winning paper's abstract plus one advance-article summary. No deltas in voice, hedging, citation density, or introduction structure were found relative to FIELD_SKILL — all such dimensions marked FIELD DEFAULT.

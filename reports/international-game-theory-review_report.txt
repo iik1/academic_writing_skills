@@ -1,0 +1,51 @@
+Journal: International Game Theory Review
+Slug: international-game-theory-review
+ABS: 1
+Field: ECON
+Publisher: World Scientific Publishing Co.
+
+Articles fetched: 0 full-text/abstract bodies obtained. 9 article titles/topics
+identified via RePEc/IDEAS listing and search-engine snippets (Vol. 28 Issue 1-2,
+2026; Vol. 27 Issue 4, 2025). All direct worldscientific.com fetches (guidelines
+page and table-of-contents page) returned HTTP 403. Guidelines content was
+recovered only via a search-engine cached summary of the submission-guidelines
+page. No open-access PDFs, SSRN, ResearchGate, or working-paper mirrors were
+found for any sampled title.
+
+Early stop triggered: No (proceeded through full pipeline; sample size fell
+short of the 10-15 target due to access limitations, documented honestly per
+instructions rather than fabricated).
+
+Deltas found: 2
+ - Structural Deviations (PRACTICE ONLY / RELAXATION): recent published output
+   skews heavily toward applied OR/management-science-style game theory
+   (supply chain, green/carbon-tax games, security games) rather than
+   classic ABS4/4*-style theory or reduced-form empirical papers; such
+   papers likely front-load model/setup earlier than FIELD_SKILL's
+   introduction-then-literature norm.
+ - Other Journal-Specific Patterns (PRACTICE ONLY, low confidence):
+   titles tend to name the specific game/solution concept and application
+   domain descriptively rather than posing a question or announcing a
+   finding.
+
+FIELD_SKILL overrides (HARD_CONSTRAINTS from guidelines):
+ - Abstract: max 200 words (FIELD_SKILL is silent on abstract length).
+ - Manuscript formatting: double-spaced, 12pt font, A4, normal margins;
+   diagrams/figures placed at back of manuscript for review copy.
+ - Title page with author names/affiliations/addresses required separately.
+ - Corresponding author ORCID iD mandatory at submission.
+ - Style details (headings, equations, figures, tables, footnotes,
+   references) deferred to publisher's generic "Instructions for
+   Typesetting Manuscripts," which was not independently accessible.
+
+Access-limitation notes:
+ - All worldscientific.com direct page fetches returned 403 Forbidden.
+ - No abstract or full-text body was read for any sampled article; all
+   observations are based on titles/topics only from a table-of-contents
+   listing (via RePEc/IDEAS and search snippets).
+ - Voice, statistical reporting, citation density, and hedging dimensions
+   were left as FIELD DEFAULT due to insufficient evidence, not asserted
+   as confirmed deltas, to avoid fabrication.
+ - Given the ABS 1 tier and unusually thin public access chain, this skill
+   is intentionally short and conservative, per instructions for niche
+   lower-tier journals.

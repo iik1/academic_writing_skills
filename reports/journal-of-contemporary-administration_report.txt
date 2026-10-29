@@ -1,0 +1,24 @@
+Journal: Journal of Contemporary Administration (Revista de Administração Contemporânea, RAC)
+Slug: journal-of-contemporary-administration
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 9 attempted, 7 successfully read (2 PDF fetches from ANPAD OJS failed - binary/encoded content, not retried)
+Early stop triggered: No
+
+Deltas found: 3 dimensions
+  1. Structural Deviations - non-standard article types (Provocations, Executive Letters, Cases for Teaching) beyond FIELD_SKILL's four templates; type-specific structured abstract fields. ENFORCED (guidelines) / GUIDELINE ONLY for the two formats not directly sampled.
+  2. Other Journal-Specific Patterns - trilingual submission model (Portuguese/Spanish/English) with mandatory English version-of-record and bilingual titles. ENFORCED, confirmed in sampled articles.
+  3. Other Journal-Specific Patterns - editorial framing emphasizing ethics/sustainability/diversity/social justice as constitutive of "contemporary" administration scholarship. PRACTICE ONLY / editorial stance signal, not a formatting rule.
+
+FIELD_SKILL overrides:
+  - Word limits are shorter across all article types (2,000-10,000 words) vs FIELD_SKILL's 10,000-18,000+ range - RELAXATION consistent with ABS 1 tier.
+  - Structured abstract requirement with article-type-specific field sets (Objective/Theoretical Approach/Method/Results/Conclusions, etc.), stricter than typical FIELD_SKILL abstract guidance.
+  - APA in-text citations must include page number "if applicable" even outside direct quotation - broader page-citation expectation than typical APA/FIELD_SKILL practice.
+  - Formatting specifics (Times New Roman 12pt body / 10pt tables-figures-quotes) not covered in FIELD_SKILL.
+  - Max 5 authors; mandatory CRediT + ORCID at submission - not covered in FIELD_SKILL.
+
+Access-limitation notes:
+  - Two full-text PDFs hosted directly on the ANPAD OJS platform (rac.anpad.org.br/.../download/...) returned raw/encoded binary content that WebFetch could not parse; abandoned after one attempt each per instructions rather than retrying.
+  - All other sources were accessible via SciELO's HTML article pages (open access), which provided abstracts, keywords, and section headings reliably.
+  - No paywall issues encountered - RAC is fully open access via SciELO, consistent with ABS 1 / regional-society-published journal profile.

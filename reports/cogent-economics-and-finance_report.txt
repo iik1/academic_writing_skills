@@ -1,0 +1,22 @@
+Journal: Cogent Economics and Finance
+Slug: cogent-economics-and-finance
+ABS: 1
+Field: ECON
+
+Articles fetched: 8 with full abstracts read (via RePEc/IDEAS bibliographic pages); titles/authors for ~6 additional articles confirmed via WebSearch. 14 distinct articles identified total, spanning 2022-2025.
+
+Early stop triggered: No — full spot-check sample gathered (exceeded the 10-article minimum given ABS 1 relaxed threshold).
+
+Deltas found: 1 substantive delta (RELAXATION), plus several GUIDELINE ONLY / unconfirmed items.
+  - Editorial evaluation threshold: journal explicitly evaluates on soundness/clarity/methodology, not perceived importance or novelty — RELAXATION of FIELD_SKILL's implicit ABS 4*/4 contribution bar.
+  - "Format-free" initial submission policy (Cogent OA family-wide) — GUIDELINE ONLY, could not confirm against full text.
+  - Reference/citation style — could not confirm exact variant (APA vs Harvard); treated as FIELD DEFAULT pending confirmation.
+  All other dimensions (voice, sentence style, argumentation, methods conventions, results/discussion norms, hedging): FIELD DEFAULT, no delta.
+
+FIELD_SKILL overrides: none identified with certainty (the one RELAXATION affects acceptance threshold, not writing mechanics).
+
+Access-limitation notes:
+  - tandfonline.com (journal's own site) returned HTTP 403 Forbidden on every direct WebFetch attempt — both the "Instructions for Authors" page and all full-text article URLs (doi.org/full and doi.org/pdf links). No institutional EZProxy access available in this environment.
+  - All article content was accessed indirectly via RePEc/IDEAS (ideas.repec.org) bibliographic abstract pages, which mirror abstracts, authors, and publication metadata but not full text, keywords, or JEL codes in most cases (JEL/keywords were not listed on any RePEc page checked, unlike what search snippets suggested for a couple of articles).
+  - Detailed author guidelines (exact word/page limits, abstract word limit, explicit tone/language rules, table/figure formatting rules) could not be confirmed from any accessible source; the skill file marks these as unconfirmed/GUIDELINE ONLY rather than fabricating specifics.
+  - Given the thin public information relative to a paywalled ABS 1 journal, the skill file is intentionally short and honest about its access limitations, per task instructions.

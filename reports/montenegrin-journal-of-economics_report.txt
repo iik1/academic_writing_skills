@@ -1,0 +1,25 @@
+Journal: Montenegrin Journal of Economics
+Slug: montenegrin-journal-of-economics
+ABS: 1
+Field: ECON
+Articles fetched: 8 (abstract/front-matter level via RePEc/IDEAS) + journal guidelines page
+Early stop triggered: No (dedupe check found no existing skill; WebSearch tool was unavailable for the whole session, so research relied entirely on WebFetch to known/guessed URLs)
+
+Deltas found: 3 dimensions
+  - Voice and Register: PRACTICE ONLY / low-prevalence (more heterogeneous prose quality and occasional essayistic register vs FIELD_SKILL's tight empirical register; not universal in sample)
+  - Structural Deviations: RELAXATION (broader topical/article-type range licensed by journal's explicit "all areas of Economics" scope)
+  - Other Journal-Specific Patterns: GUIDELINE-driven RELAXATION (hard 4,000-5,000 word ceiling compresses FIELD_SKILL's expected section architecture; inferred, not directly confirmed via full text)
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Length: 4,000-5,000 words, max 32,000 characters (vs no FIELD_SKILL limit)
+  - Abstract: 150-200 words structured requirement (vs unspecified in FIELD_SKILL)
+  - Formatting: Word doc, A4, Franklin Gothic Book 11pt (publisher-level, outside FIELD_SKILL scope)
+  - Bibliography: alphabetical by author (explicit requirement)
+  - Plagiarism ceiling: max 10% similarity, enforced by software
+  - Language: English required for publication; dual-language submission encouraged only for Montenegro/regional authors
+
+Access-limitation notes:
+  - WebSearch tool returned "unavailable" for all queries this session; all research used direct WebFetch guesses against mnje.com and RePEc/IDEAS.
+  - A dedicated "instructions for authors" PDF path on mnje.com returned HTTP 404; guideline content was instead recovered successfully from the mnje.com landing/author-guidance page.
+  - No open-access full-text article was found; all 8 sampled articles were read at abstract/front-matter level only via RePEc/IDEAS pages.
+  - No JEL codes or keywords were retrievable from any sampled article's IDEAS page (not populated in RePEc record).

@@ -1,0 +1,55 @@
+Journal: African Affairs
+Slug: african-affairs
+ABS: 3
+Field: IB&AREA
+Publisher: Oxford University Press, on behalf of the Royal African Society
+
+Articles fetched: 10 (abstracts + section-heading lists via publisher abstract pages;
+full text paywalled in all cases). Titles/IDs:
+1. Kony 2025 (124/497/561)
+2. Rethinking 'farmer-herder' conflicts in the Ivorian internal frontier (123/493/449)
+3. Property Confiscation in the Zanzibar Revolution (124/496/235)
+4. Brutalism, book review (123/492/415)
+5. 2024 Botswana elections and the demise of the BDP (advance article, adag005)
+6. Inequality Regimes in Africa From Pre-Colonial Times to the Present (122/486/57)
+7. Research with African Adolescents (121/484/467, Research Note)
+8. Covid-19 Pandemic Response and the New Era of Austerity in Africa (124/497/499)
+9. war in Ukraine, the African Union, and African agency (122/489/559)
+10. Africa-Asia: a tale of worldmaking between alterity and contestation (123/491/223)
+
+Early stop triggered: No — deltas stabilized after ~6-7 articles (consistent
+descriptive/non-IMRAD headings, consistent accessible-register abstracts),
+continued to 10 for confidence and article-type coverage (research article,
+briefing, research note, book review).
+
+Deltas found: 4 dimensions
+1. Voice and Register — RELAXATION (explicit plain-language/anti-jargon
+   instruction, broader than FIELD_SKILL's scholarly-but-accessible norm)
+2. Structural Deviations — ENFORCED (no IMRAD/hypothesis structure; menu of
+   narrative forms — chronological/comparative/thematic/keyhole/funnel;
+   descriptive, argument-specific section headings)
+3. Other Journal-Specific Patterns — PRACTICE ONLY / ENFORCED (multiple
+   short-form article types: Briefings, Research Notes, book reviews, each
+   with lighter structural expectations; mandatory block-quote formatting
+   for quotations longer than a sentence)
+4. Footnote and quotation mechanics — ENFORCED (no long substantive
+   footnotes; alt text mandatory for figures)
+
+FIELD_SKILL overrides:
+- Article structure: journal offers narrative-form menu instead of
+  FIELD_SKILL's canonical empirical IMRAD template — full override for this
+  journal.
+- Register: plain-language mandate overrides FIELD_SKILL's tolerance for
+  denser theoretical prose (relaxation, consistent with ABS 3 rules).
+
+Access-limitation notes:
+- No institutional EZProxy access; all article content drawn from publisher
+  abstract pages (academic.oup.com/afraf/article-abstract or /article
+  landing pages), which typically expose abstract, keywords (rarely
+  present), issue-section label, and section-heading list even when full
+  text is paywalled.
+- The detailed African Affairs house style sheet (PDF, last updated January
+  2014) was located via WebSearch but not fetched in full; only summary
+  snippets on quotation and footnote/affiliation formatting were captured.
+  Citation style specifics (e.g., reference list format) were not directly
+  verified beyond "follow the house style sheet."

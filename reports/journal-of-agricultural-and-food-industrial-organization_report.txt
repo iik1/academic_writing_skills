@@ -1,0 +1,21 @@
+Journal: Journal of Agricultural and Food Industrial Organization
+Slug: journal-of-agricultural-and-food-industrial-organization
+ABS: 1
+Field: ECON
+
+Articles fetched: 0 full-text/abstracts accessible; ~20 article titles surveyed across 2015-2026 via RePEc/IDEAS and De Gruyter issue-listing search snippets. No full text or abstracts were retrievable — publisher site (degruyterbrill.com) returned HTTP 405 on all direct WebFetch attempts.
+
+Early stop triggered: No (proceeded through full good-faith process despite thin access; documented limitations per instructions rather than fabricating).
+
+Deltas found: 1 substantive delta (GUIDELINE ONLY) plus 1 low-confidence practice note.
+  - Structural Deviations: journal solicits three submission types (full articles, Notes, Perspectives) per publisher scope page — not confirmable against article samples since full text was inaccessible. Labeled GUIDELINE ONLY.
+  - Other Journal-Specific Patterns: title sample skews toward commodity-specific applied IO topics (market power, price transmission, pass-through) — a scope observation, not a distinct writing convention already covered by FIELD_SKILL. Labeled PRACTICE ONLY / low confidence.
+  - All other dimensions (voice, sentence style, argumentation, methods, results reporting, discussion/conclusion, citations, hedging): FIELD DEFAULT, no delta observed.
+
+FIELD_SKILL overrides: none identified (no HARD_CONSTRAINTS could be confirmed; journal's Instructions for Authors page was inaccessible).
+
+Access-limitation notes:
+- Publisher site (degruyterbrill.com) blocked all direct WebFetch attempts to journal homepage and issue pages with HTTP 405 Method Not Allowed.
+- RePEc/IDEAS mirror (ideas.repec.org/s/bpj/bjafio.html) provided article titles only, no abstracts, for years 2015-2026.
+- No open-access full text, SSRN, or ResearchGate versions of JAFIO articles were located via search.
+- This is a thin-access, low-tier (ABS 1) journal; skill file is intentionally short and flags most Hard Constraints sections as "Not accessible in this environment" rather than fabricating content.

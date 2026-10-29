@@ -1,0 +1,20 @@
+Journal: Cognition
+Slug: cognition
+ABS: 4
+Field: PSYCH (GENERAL)
+
+Articles fetched: 6 with abstract/content-level detail (Saito/Petrova/Zheng/Tierney 2026 pitch sensitivity; temporal momentum effect study 2026; Krænge & Fardo temperature perception 2026; Borghi et al. "Mind over bias" 2025/2026 [explicitly a "Brief article"]; Hu/Zhou "I'll believe it unless it's too absurd" 2026); several additional titles confirmed at metadata level only via search index. Did not reach the target of 15 due to persistent access blocking (see notes below).
+
+Early stop triggered: Yes — access chain exhausted. ScienceDirect (sciencedirect.com), which hosts both the Cognition guide-for-authors page and all article pages, returned HTTP 403 Forbidden on every direct WebFetch attempt (guide-for-authors page, articles-in-press listing, individual article pages, both current and legacy Elsevier URL forms). All information was reconstructed indirectly from WebSearch result snippets (Google's cached/indexed excerpts of these pages), which is a much lower-bandwidth channel than direct page reads. Continued querying with varied search terms produced diminishing returns (repeated journal-level boilerplate rather than new article content), so the search was stopped after 6 substantive article findings plus guideline fragments.
+
+Deltas found: 1 dimension with a low-prevalence/practice-only delta
+  - Structural Deviations: PRACTICE ONLY — confirmed existence of an in-use "Brief article" / Short Communication category (4000-word cap per guidelines, and observed in at least one real publication's running head). Not elevated to a stated journal norm per the single-observation rule.
+  - All other dimensions (voice/register, statistical reporting, citation density, methods, results, discussion, hedging) returned "Follows FIELD_SKILL norm" — no deltas observed in the limited sample.
+
+FIELD_SKILL overrides: none identified (no conflicts found between recovered hard constraints and FIELD_SKILL; all recovered Cognition-specific facts are additive, e.g., Short Communications word cap, Highlights/graphical abstract mechanics).
+
+Access-limitation notes:
+- ScienceDirect blocked all direct WebFetch requests with HTTP 403, for both the guide-for-authors page and article-listing/individual-article pages. This is a full block on the primary source, not a partial paywall — even abstract-only pages were blocked to direct fetch.
+- All hard-constraint facts (Short Communications 4000-word cap, Highlights 3-5 bullets/85 chars, graphical abstract optional-but-encouraged) were recovered secondhand via WebSearch snippets that appear to quote cached/indexed guide-for-authors content, not via a verified direct read of the current live guidelines page. These facts should be treated as probably-but-not-certainly current.
+- Could not confirm abstract word limit, could not verify presence/absence of a structured-abstract requirement, could not browse full issue tables of contents to build a larger/more representative spot-check sample.
+- No full-text article bodies were accessible; all article-level observations are abstract/title-level only, consistent with the assignment's allowance for front-matter-only spot-checking under these conditions.

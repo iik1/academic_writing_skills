@@ -1,0 +1,23 @@
+Journal: International Journal of Political Economy
+Slug: international-journal-of-political-economy
+ABS: 1
+Field: ECON
+
+Articles fetched: 0 full-text articles. Title/author/issue metadata retrieved for ~90 articles (2017-2026) via IDEAS/RePEc journal listing page. No abstracts, keywords, or body text accessible.
+
+Early stop triggered: No (ran full research process; did not hit the dedupe stop condition — no existing skill found for this journal).
+
+Deltas found: 2, both low-confidence/PRACTICE ONLY, inferred from title patterns rather than full text:
+  1. Structural Deviations — heavy prevalence of special issues, guest-edited symposia, memorial/tribute essays, and short critical comments/rejoinders, suggesting looser adherence to strict empirical IMRAD structure than FIELD_SKILL assumes.
+  2. Other Journal-Specific Patterns — literature positioning likely organized around named heterodox schools (Marxist, post-Keynesian, structuralist, monetary circuit theory) rather than mainstream empirical literature.
+
+FIELD_SKILL overrides: none confirmed (no hard constraints could be established).
+
+Access-limitation notes:
+- tandfonline.com (Taylor & Francis) blocked ALL fetch attempts with HTTP 403, including the journal homepage, about-this-journal page, table-of-contents pages, and individual article DOI pages. This means the author guidelines page itself was never readable.
+- IDEAS/RePEc journal series page (mes/ijpoec) was accessible and yielded a rich list of ~90 article titles/authors/issues spanning 2017-2026, which was the primary evidence source.
+- Individual RePEc article abstract pages (pattern /a/mes/ijpoec/...) returned 404 — abstracts were not recoverable this way.
+- An INET Economics blog post that appeared to be a companion piece to a 2026 journal article (Servaas Storm, "The U.S. Is Betting the Economy on Scaling AI") also returned 403 and could not be used.
+- Independent directory heterodoxnews.com provided a useful journal self-description (founding history, scope, anti-neoclassical positioning) which anchored the Journal Profile section.
+- WebSearch tool was intermittently unavailable/degraded during this session ("Web search error: unavailable" on several calls), further limiting the ability to find guideline mirrors, cached pages, or open-access full text.
+- Given zero full-text access and a blocked guidelines page, the resulting skill is intentionally short and heavily flagged as low-confidence/unconfirmed per the assignment's instruction to document limitations honestly rather than fabricate.

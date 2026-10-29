@@ -1,0 +1,80 @@
+Journal Skill Report: Studies in Microeconomics
+================================================
+
+Journal Name:    Studies in Microeconomics
+Slug:            studies-in-microeconomics
+ABS 2024 Rating: 1
+Field:           ECON
+Publisher:       SAGE Publications
+
+RESEARCH SUMMARY
+================
+
+Phase 1: Author Guidelines
+- Successfully retrieved SAGE Journals official submission guidelines via web fetch
+- Hard constraints identified: 6,000-word limit, 150-200 word unstructured abstract, 4-6 keywords required
+- APA citation style (author-year format)
+- Statements and Declarations section mandatory
+- File formats: Word or LaTeX
+
+Phase 2: Article Spot-Check
+- Articles fetched: 10 (good-faith sample from recent issues)
+- Source: IDEAS/RePEc metadata for Volume 14 Issue 1 (April 2026) and Volume 13 Issue 3 (December 2025)
+- Article titles confirmed for: wage differentials, trust in institutions, livelihood strategies, financial indices, microfinance, energy, education economics
+- Full-text access limited by SAGE paywall; abstracts and metadata sufficient to assess structure
+
+Phase 3: Delta Classification
+- Early stop triggered: No. Sample size adequate for ABS 1 journal
+- Deltas found: 4 distinct journal-specific deviations from FIELD_SKILL baseline
+
+DELTAS IDENTIFIED
+=================
+
+1. ENFORCED - Word Limit Constraint (6,000 words max)
+   Classification: RELAXATION (stricter than field norm)
+   Field baseline specifies no limit; ABS 4*/4 typically 25,000-40,000 words
+   This is a significantly more restrictive constraint for lower-tier journal
+
+2. ENFORCED - Keyword Requirement (4-6 keywords)
+   Classification: FIELD ADDITION
+   Not mentioned in FIELD_SKILL; now mandatory requirement
+
+3. ENFORCED - Statements and Declarations Section
+   Classification: FIELD ADDITION
+   Formal ethics compliance section required; more explicit than ABS 4*/4 practice
+
+4. GUIDELINE ONLY - APA Citation Style
+   Classification: FIELD DEFAULT (author-year = APA, consistent with econ norms)
+
+FIELD_SKILL OVERRIDES
+=====================
+None. All FIELD_SKILL conventions remain applicable:
+- First-person plural voice expected
+- Low hedging intensity preferred
+- Mixed-tense convention (past for procedures, present for results)
+- Citation density by section follows field norms
+- Abstract and results reporting follow field standards
+- Methods precision and robustness norms apply
+
+ACCESS AND LIMITATIONS
+======================
+- Author guidelines: Successfully retrieved via public SAGE Journals portal
+- Article full text: Paywalled (SAGE subscription required)
+- Article metadata/abstracts: Publicly accessible via IDEAS/RePEc
+- Sample size: 10 articles (adequate for ABS 1 tier; lower tier journals typically have thinner public availability)
+- Confidence level: High for hard constraints (published guidelines); medium for observed style patterns (limited to abstacts and metadata)
+
+NOTES
+=====
+- Studies in Microeconomics is a newer journal within SAGE's economics portfolio (launched 2018)
+- Lower ABS rating (1) reflects emerging status; journal is open to broader topics than top-tier outlets
+- Both theoretical and empirical microeconomics welcome
+- No indication of field-specific stylistic preferences beyond standard economics conventions
+- Journal is double-blind reviewed
+- Publication ethics aligned with COPE standards
+
+SKILL FILE STATUS
+=================
+File saved: C:\Users\s14454\OneDrive - Norwegian School of Economics\Research\Writing Skills\skills\economics\studies-in-microeconomics_SKILL.md
+
+Size: ~3.2 KB (concise; only deltas and hard constraints included, no redundant FIELD_SKILL rehash)

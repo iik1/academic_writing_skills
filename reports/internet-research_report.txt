@@ -1,0 +1,35 @@
+Journal: Internet Research
+Slug: internet-research
+ABS: 3
+Field: INFO MAN
+
+Articles fetched: 17 (front-matter/TOC level across 2 issues; 4 with full
+structured abstracts read: INTR-05-2024-0726 (2025), 33/1 (2022), 31/2
+(2021), 15/2 (2005))
+
+Early stop triggered: No — sample continued until delta set stabilized
+(all sampled abstracts converged on the same Emerald structured-abstract
+format with no new deltas emerging after the first several).
+
+Deltas found: 1 (Structural Deviations — mandatory Emerald structured
+abstract format: Purpose / Design-methodology-approach / Findings /
+Originality-value, with optional Research limitations-implications /
+Practical implications / Social implications, max 250 words). Classified
+ENFORCED. All other dimensions (voice, hedging, citation density,
+statistical reporting, methods conventions, discussion norms) showed no
+delta from FIELD_SKILL — FIELD DEFAULT.
+
+FIELD_SKILL overrides: none required beyond noting the abstract format,
+which FIELD_SKILL does not specify at all (not a conflict, an addition).
+
+Access-limitation notes:
+- The journal's dedicated author-guidelines subpage
+  (emerald.com/intr/pages/author-guidelines and variants) returned
+  403/404 in this environment; relied on Emerald's publisher-wide
+  manuscript-requirement documentation instead (freshdesk support
+  articles, emeraldgrouppublishing.com/how-to pages), cross-checked
+  against actual published abstracts from this journal to confirm it
+  follows the generic Emerald house style with no unique deviation.
+- Full text of sampled articles was paywalled; spot-check relied on
+  tables of contents (titles/authors) and structured abstracts only,
+  as permitted by the task instructions.

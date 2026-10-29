@@ -1,0 +1,16 @@
+Journal: Review of Accounting and Finance
+Slug: review-of-accounting-and-finance
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 9 (via search-engine-indexed abstract snippets and RePEc/IDEAS listings; full-text and direct Emerald abstract-page fetches were blocked by CAPTCHA throughout this session)
+Early stop triggered: No — good-faith sample completed at 9 articles (target 10-15) given the access constraints; additional Emerald pages returned identical CAPTCHA walls on repeated attempts, so further attempts were judged unproductive rather than abandoning early.
+
+Deltas found: 3
+  - Abstract format (ENFORCED): Emerald mandatory structured abstract (Purpose / Design-methodology-approach / Findings / Originality-value, + optional fields), third person, ~250 words total. Deviates from FIELD_SKILL's single-paragraph abstract assumption.
+  - Voice and Register (RELAXATION/ENFORCED): Third-person house style vs. FIELD_SKILL's first-person-dominant norm.
+  - Structural deviation - article type range (RELAXATION): RAF publishes literature reviews/bibliometric analyses alongside standard empirical papers, broader than the FIELD_SKILL empirical/structural default.
+
+FIELD_SKILL overrides: Abstract structure and voice/person (see above).
+
+Access-limitation notes: Emerald's site (emerald.com and emeraldgrouppublishing.com author-guidelines pages) returned CAPTCHA/bot-detection pages on every direct WebFetch attempt. Guideline content (structured abstract fields, Harvard citation style, AI-use policy, submission process) was recovered via WebSearch result snippets that quoted or summarized the guidelines page content, and via general Emerald house-style pages (e.g. the Harvard referencing guide) which are known to apply uniformly across Emerald journals including RAF. Article content was similarly recovered via WebSearch snippets of abstract pages and via RePEc/IDEAS (ideas.repec.org/s/eme/rafpps.html), which was directly fetchable and provided reliable title/author/issue metadata. No full-text article was read; all article-level observations are abstract/title-level only, consistent with the ABS 2 lower-effort sampling guidance in the assignment.

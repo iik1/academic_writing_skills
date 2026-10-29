@@ -1,0 +1,112 @@
+SKILL GENERATION REPORT
+======================
+
+Journal: International Journal of Manpower
+Slug: international-journal-of-manpower-writing-style
+ABS Rating: 2
+Field: HRM&EMP
+Publisher: Emerald Publishing
+
+RESEARCH EXECUTION
+==================
+
+Articles Fetched: 1 (full-text)
+  - Webster et al., 2022. "The labour market impact of COVID-19: Early Evidence
+    for a Sample of Enterprises from Southern Europe." International Journal of
+    Manpower, 43(4): 1054-1082. [Accessed via institutional repository; 36pp PDF]
+
+Early Stop Triggered: Yes
+  Reason: Paywalls on official Emerald and ScienceDirect pages prevented access to
+  additional published articles and official author guidelines. Single accessible
+  full-text article was comprehensive enough to infer hard constraints and deltas.
+  Journal scope statements accessible via search results corroborated observations.
+
+Access Chain Exhausted:
+  - Emerald Publishing journal page: 403 Forbidden
+  - ScienceDirect journal landing: 403 Forbidden
+  - Typeset template redirect (scispace.com): Page inaccessible
+  - ResearchGate article search: Found recent titles, no full-text downloads
+  - Institutional repository search: Yielded 1 accessible full-text article
+
+DELTAS FOUND
+============
+
+Count: 6 distinct deltas identified
+
+Deltas by category:
+1. Abstract Format & Length (PRACTICE ONLY)
+   - Longer (~600 words vs. typical 250-word economics abstracts)
+   - Narrative, unstructured (no Design/Methodology/Findings segmentation)
+
+2. Abstract Hedging Style (PRACTICE ONLY)
+   - Extensive contextual framing within abstract
+   - Explicit caveating of research limitations upfront
+
+3. Quantitative Methods: General-to-Specific Approach (PRACTICE ONLY)
+   - Explicit justification and use of general-to-specific econometric methodology
+   - Not highlighted in field baseline; valued for transparent variable selection
+
+4. Data Section Transparency (PRACTICE ONLY)
+   - Unusually detailed discussion of sampling, weighting decisions, and trade-offs
+   - Explicit justification for departing from standard practices (e.g., not using weights)
+
+5. Appendices (PRACTICE ONLY)
+   - Extensive appendices with detailed breakdown tables
+   - Standard practice; not a deviation from field norm, but systematic here
+
+6. Methodological Hedging Scope (PRACTICE ONLY)
+   - Hedging extends to research design and knowledge state framing
+   - Not just causal claims, but the entire research framing is hedged
+
+FIELD_SKILL OVERRIDES
+====================
+
+None. All field baseline norms (voice, register, citation practices, discussion
+structure, hedging of causal claims, null findings reporting) are confirmed in
+the observed article. No contradictions between journal practice and field baseline
+identified.
+
+HARD CONSTRAINTS IDENTIFIED
+==========================
+
+1. Section Numbering: Numbered sections and subsections (1, 2, 3; 6.1, 6.2, 6.3)
+2. Reference Style: APA author-date format, alphabetical listing
+3. Manuscript Rejection Policy: Explicitly rejects fuzzy logic, bibliometric reviews,
+   and purely conceptual papers
+4. Empirical Focus: "Strong empirical/analytical quantitative research" preferred;
+   high-quality qualitative occasionally accepted
+5. Appendices: Permitted and standard; often used for detailed data tables
+
+ACCESS LIMITATIONS & NOTES
+=========================
+
+The journal's official author guidelines are behind the Emerald Publishing paywall.
+Hard constraints were inferred from:
+  1. One full-text published article (Webster et al., 2022)
+  2. Public journal scope statements and call-for-papers language
+  3. Publisher general guidelines (Emerald Books; partial access)
+
+A lower-confidence skill is acceptable for ABS 2 journals with thin public
+information access. The single article analyzed is 36 pages and comprehensive,
+covering methodology, results, appendices, and references—sufficient to observe
+structural and stylistic conventions.
+
+RECOMMENDATIONS FOR AUTHORS
+===========================
+
+- Expect to write longer abstracts (~600 words) in narrative form
+- Be transparent about data sourcing, sampling, and methodological choices
+- Use general-to-specific approach if variable selection is exploratory; justify clearly
+- Include extensive appendices for detailed data breakdowns
+- Hedge not just causal claims but the entire research framing (acknowledge
+  methodological limitations, novel contexts, and incomplete knowledge state)
+- Avoid purely conceptual, bibliometric, or literature-review-only papers
+- Focus on strong empirical quantitative work; qualitative must be very high quality
+
+CONFIDENCE ASSESSMENT
+====================
+
+Medium-High (based on single article, but article is comprehensive and corroborated
+by journal scope statements). Uncertainty chiefly around abstract word limits and
+any specific Emerald guidelines not visible in the sample. Authors should verify
+official submission guidelines when preparing.

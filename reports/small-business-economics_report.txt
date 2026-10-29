@@ -1,0 +1,46 @@
+Journal: Small Business Economics
+Slug: small-business-economics
+ABS: 3
+Field: ENT-SBM
+
+Articles fetched: 12 (abstract/keyword-level via IDEAS/RePEc), plus 1 editorial
+guidance article (Audretsch, Guenther & Lederer 2021) and 1 citation-style
+reference page. Full text was not accessible for any article (Springer Nature
+Link gated behind login/IdP redirect in this environment); all findings are
+based on abstracts, keywords, and WebSearch-extracted guideline snippets.
+
+Early stop triggered: No. Stopped at 12 articles because the delta set had
+stabilized (no new structural/voice deltas emerging beyond the Plain English
+Summary requirement, which was independently confirmed across 3 separate
+sources) and the primary guidelines page could not be fetched directly to
+extend hard-constraint detail further.
+
+Deltas found: 1 major delta (Structural Deviations) plus 1 minor
+editorial-culture note (Other Journal-Specific Patterns).
+  - Structural Deviations: Mandatory "Plain English Summary" — a required,
+    separately labeled paragraph (hook sentence + simplified summary +
+    implications-area statement) alongside the standard abstract. ENFORCED
+    (stated in journal guidance, confirmed via editorial description with
+    a worked example).
+  - Abstract: unstructured, 150-250 words. ENFORCED / FIELD DEFAULT length
+    convention, journal-specific word count.
+  - Other Journal-Specific Patterns: editors emphasize explicit
+    interdisciplinary fit/contribution framing. PRACTICE ONLY, reinforces
+    rather than contradicts FIELD_SKILL.
+
+FIELD_SKILL overrides: None. All core voice, structure, methods, results,
+discussion, citation density, and hedging conventions from
+entrepreneurship-field-writing-style held across the sampled abstracts
+(quantitative empirical designs, a systematic review, and an NLP/text
+study). Citation style (author-date) also matches FIELD_SKILL default.
+
+Access-limitation notes: The official submission-guidelines page
+(link.springer.com/journal/11187/submission-guidelines) and article
+full-text pages redirect to a Springer IdP login wall and could not be
+fetched directly; guidance was reconstructed via WebSearch result snippets,
+RePEc/IDEAS abstract mirrors, ResearchGate/EconStor listings for the
+editors' own 2021 guidance editorial, and a third-party citation-style
+reference page. No full-text methods/results/discussion sections were
+read; delta detection for those dimensions relies on abstract/keyword-level
+signals only, consistent with the task's allowance for front-matter-level
+review when full text is paywalled.

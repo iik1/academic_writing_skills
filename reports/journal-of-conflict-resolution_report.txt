@@ -1,0 +1,50 @@
+Journal: Journal of Conflict Resolution
+Slug: journal-of-conflict-resolution
+ABS: 3
+Field: PSYCH (GENERAL)
+
+Articles fetched: 9 (abstract/title-level spot-check; full text paywalled
+at journals.sagepub.com, all direct fetches returned HTTP 403). Sourced
+via WebSearch snippet extraction from SAGE search-indexed pages.
+
+Early stop triggered: No — stopped near-target (9 of aimed-for 15) because
+the access chain was exhausted: journals.sagepub.com blocks direct
+WebFetch (403), and repeated WebSearch queries began returning duplicate
+or non-JCR results (Conflict Resolution Quarterly, unrelated conflict-
+resolution journals) rather than new JCR articles. Delta set had
+stabilized (formal/game-theoretic + political-science-style empirical
+mix, IR/security subject matter, Chicago citation, strict double-blind)
+before diminishing returns set in.
+
+Deltas found: 3 dimensions
+  - Structural Deviations (formal/game-theoretic papers common; single-
+    study empirical designs standard, not FIELD_SKILL's multi-study
+    convention) — RELAXATION / journal-specific addition
+  - Statistical Reporting (IR/poli-sci quantitative conventions rather
+    than experimental psychology stats; effect-size+CI norm not visibly
+    enforced) — RELAXATION
+  - Other Journal-Specific Patterns (subject matter: interstate/civil
+    conflict, terrorism, cyber, nuclear strategy, not mainstream social/
+    personality psychology topics) — journal-specific note
+
+FIELD_SKILL overrides (Hard Constraints from guidelines, not "deltas" per
+se but journal-specific requirements layered on top of FIELD_SKILL):
+  - Word limit: 8,000–11,000 words, double-spaced (FIELD_SKILL specifies none)
+  - Abstract: unstructured, max 150 words (FIELD_SKILL implies longer/
+    structured empirical psychology abstracts)
+  - Citation style: Chicago author-date, not APA
+  - Tables/figures/footnotes on separate pages at end of manuscript, not
+    integrated near first mention (opposite of FIELD_SKILL norm)
+  - Mandatory replication data/code/README deposit before publication
+  - Strict double-anonymized review; separate anonymized title page
+
+Access-limitation notes:
+  - journals.sagepub.com/author-instructions/jcr and journals.sagepub.com/
+    home/jcr both returned HTTP 403 on direct WebFetch; guideline content
+    was recovered via WebSearch's own snippet extraction of the same
+    pages and the SAGE-hosted PDF (guideline PDF also mostly image-based,
+    metadata + WebSearch snippet used instead).
+  - No full-text articles were accessible (no open-access copies, SSRN
+    preprints, or author-hosted PDFs surfaced in search for this
+    specific journal's recent articles); all article-level findings are
+    abstract/title-level only, per task allowance.

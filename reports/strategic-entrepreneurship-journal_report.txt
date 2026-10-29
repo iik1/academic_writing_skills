@@ -1,0 +1,44 @@
+Journal: Strategic Entrepreneurship Journal
+Slug: strategic-entrepreneurship-journal
+ABS: 4
+Field: ENT-SBM
+
+Articles fetched: 10 (title/front-matter level only; full text paywalled on
+Wiley Online Library, which returned HTTP 402 on direct fetch attempts).
+Sampled via WebSearch/OOIR snippets: Williams (2023) "Seizing the
+moment..." (editorial, sej.1456); "Born into chaos..." (2023);
+"Corporate-startup partnering..." (2023); "Are entrepreneurs penalized
+during job searches?..." (2023); "The cousin marriage tradition..." (2025);
+"Nationwide entrepreneurship content in secondary schools..." (2025); a
+founding-team-stability/survival study (2024/2025); "Developing
+opportunities in times of crisis..." (2025); "From critique to catalyst..."
+(2025); "Generative AI Use in Entrepreneurship..." (Special Collection).
+
+Early stop triggered: No — access chain (Wiley abstract pages, RePEc/IDEAS,
+OOIR, general WebSearch) was exhausted for full-text access; front-matter/
+title-level sampling continued until the delta set stabilized on the two
+enforced deltas below, consistent with convergence rule guidance.
+
+Deltas found: 2
+1. Mandatory dual abstract (Research Summary + Managerial Summary, each up
+   to 125 words, no citations) — more prescriptive than FIELD_SKILL's
+   general "Practical Implications subsection" expectation. ENFORCED.
+2. Figures/tables placed at end of manuscript after references (not
+   embedded in text), with letter-labeled appendix tables/figures —
+   submission-mechanics convention not covered by FIELD_SKILL. ENFORCED.
+
+FIELD_SKILL overrides: none beyond the above two deltas. Voice, person,
+CARS-style argumentation, methods conventions, results reporting,
+discussion/conclusion structure, citation density, and hedging all follow
+FIELD_SKILL defaults (unsurprising, since SEJ was already one of two
+full-text sources used to construct FIELD_SKILL itself).
+
+Access-limitation notes: No EZProxy/institutional access in this
+environment. All Wiley Online Library abstract pages (sms.onlinelibrary.
+wiley.com) returned HTTP 402 Payment Required on direct WebFetch. Relied
+entirely on WebSearch snippets, OOIR journal listing, and the publicly
+hosted author-guidelines PDF (via strategicmanagement.net, which was
+accessible where the Wiley-hosted copy of the same PDF was not). No
+full-text article bodies were read; all article-level findings are based on
+titles and short abstract/managerial-summary snippets surfaced by search
+engines.

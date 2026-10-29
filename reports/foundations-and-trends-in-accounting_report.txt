@@ -1,0 +1,18 @@
+Journal: Foundations and Trends in Accounting
+Slug: foundations-and-trends-in-accounting
+ABS: 3
+Field: ACCOUNT
+
+Articles fetched: 8 full abstract-level spot-checks (Costing Systems - Labro 2023; Foreign Currency: Accounting, Communication and Management of Risks - Harris & Rajgopal 2022; Accounting for Risk - Penman 2021; A Primer on Structural Estimation in Accounting Research - Bertomeu, Liang & Marinovic 2023; Financial Statement Analysis and Earnings Forecasting - Monahan 2018; Line-Item Analysis of Earnings Quality - Melumad & Nissim 2009; Accounting Disclosure and Real Effects - Kanodia 2007) plus 1 special-issue table of contents reviewed at title/author level (Vol. 19 Issue 3-4, 2025, carbon accounting special issue, 7 titles).
+
+Early stop triggered: No (stopped after pattern stabilized around 8 full spot-checks + 1 TOC; further sampling was yielding no new deltas — the monograph/survey format and length norm were confirmed consistently across all 8 full checks spanning 2007-2023).
+
+Deltas found: 4 dimensions
+1. Structural Deviations (ENFORCED / RELAXATION) - journal publishes long survey/tutorial monographs organized in author-defined Parts/Sections, not FIELD_SKILL's canonical empirical-paper structure (no hypothesis development, data/methods, or results sections in the standard sense).
+2. Voice and Register (PRACTICE ONLY) - survey-verb usage ("we discuss," "we survey," "we review") alongside FIELD_SKILL's empirical verbs, driven by genre.
+3. Citation Density (PRACTICE ONLY, low-confidence) - likely higher total citation volume spread across the whole text given full-literature-survey scope; not independently verifiable from abstract-only access.
+4. Other Journal-Specific Patterns (PRACTICE ONLY) - special issues (e.g., 2025 carbon accounting issue) carry multiple shorter contributions rather than one full-length monograph.
+
+FIELD_SKILL overrides: Structure (monograph/survey format replaces canonical empirical article structure); Length (~90-140+ pages vs. standard article length); Abstract (single ~200-word free-text abstract, not IMRAD-structured); explicit terminology requirement to avoid "chapter"/"article" in favor of "monograph"/"tutorial"/"review"/"survey" and "section."
+
+Access-limitation notes: Direct WebFetch to nowpublishers.com/Journal/AuthorInstructions/ACC and EditorialAims/ACC returned HTTP 403 both times. Guidelines content was reconstructed via WebSearch snippets referencing the equivalent, publicly stated Now Publishers FnT-series-wide author instructions (confirmed as uniform "FnT" template language across Finance, Communications and Information Theory, Statistics, etc. editions), which is a reasonable proxy since Now Publishers states these instructions apply uniformly across all Foundations and Trends journals. Full text of spot-checked articles was not accessible (all paywalled); analysis relied on RePEc/IDEAS abstract pages, which was sufficient to confirm structure, length, and genre patterns but not fine-grained citation density or in-text hedging language.

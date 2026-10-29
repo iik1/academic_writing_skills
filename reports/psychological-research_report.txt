@@ -1,0 +1,18 @@
+Journal: Psychological Research
+Slug: psychological-research
+ABS: 3
+Field: PSYCH (GENERAL)
+Articles fetched: 7 (full text via PMC for 2; abstract/snippet only for 5; plus 3 editorial/policy pages)
+Early stop triggered: no (delta set stabilized after ~7 sources; guideline page itself is behind a Springer login wall for direct fetch, so search-engine snippets and PMC mirrors were used throughout)
+
+Deltas found: 4 dimensions
+- Structural Deviations: ethics/compliance statement placed as standalone "Compliance with Ethical Standards" section immediately before references (ENFORCED); mandatory a priori power analysis + new AI-use disclosure subsection (ENFORCED, per 2025/2026 editorial policy)
+- Other Journal-Specific Patterns: mandatory Public Significance Statement (2-3 sentences, 60-80 words) as a required separate manuscript element (ENFORCED); "Forgotten Gem" article type with no FIELD_SKILL analogue (GUIDELINE ONLY / low-volume)
+
+FIELD_SKILL overrides: none that contradict FIELD_SKILL outright — all deltas are additive requirements layered on top of the IMRaD/APA baseline (Public Significance Statement, AI-use disclosure, power analysis mandate, ethics-section placement).
+
+Access-limitation notes:
+- link.springer.com/journal/426/submission-guidelines returns a 303 redirect to a Springer IDP login wall when fetched directly; all guideline content was reconstructed from WebSearch result snippets (which quote the live guidelines page) and from Springer's generic "Instructions for Authors" boilerplate PDF.
+- Individual link.springer.com/article/* pages also redirect to the login wall; full text was obtained instead via PMC mirrors (PMC12283878, PMC7900042, PMC12894118) where available. For articles without a PMC mirror, only WebSearch-extracted abstract snippets were used.
+- No word/page limit could be confirmed from public sources; the skill notes this explicitly as unspecified rather than guessing.
+- The AI-use disclosure and mandatory power-analysis requirements stem from very recent (2025-2026) editorial-policy articles, so prevalence in the broader published corpus could not yet be confirmed across many articles; labeled ENFORCED based on explicit, unambiguous editorial policy statements rather than broad corpus confirmation.

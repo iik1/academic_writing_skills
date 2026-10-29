@@ -1,0 +1,22 @@
+Journal: Natural Resources Journal
+Slug: natural-resources-journal
+ABS: 1
+Field: ECON (nominal; actually a student-edited interdisciplinary law review, UNM School of Law)
+
+Articles fetched: 12 (table-of-contents / title level only, across Vol. 64 Iss. 2, Vol. 65 Iss. 1, Vol. 66 Iss. 2 of the UNM Digital Repository). No full text or abstracts were accessible; the journal does not publish abstracts for any article.
+
+Early stop triggered: No — full good-faith sample across 3 issues/2 years, but sample is title/TOC-level, not full-text, due to no open-access full text and no abstracts being published at all by this journal.
+
+Deltas found: 4 dimensions
+1. Citations — ENFORCED: Bluebook citation format is mandatory (footnote-based legal citation), overriding FIELD_SKILL's author-year in-text norm.
+2. Structural Deviations — ENFORCED: journal organizes content by genre (Article/Note/Symposium/Lecture Transcript/Book Review), not FIELD_SKILL's empirical/theory paper structure; Notes are shorter, often single-author, narrower legal-question pieces.
+3. Voice and Register (titles) — PRACTICE ONLY: titles are argumentative/rhetorical, law-review style, unlike FIELD_SKILL's plain declarative economics titling.
+4. Other Journal-Specific Patterns (authorship mix) — PRACTICE ONLY: mix of sole- and multi-authored pieces roughly even, consistent with law-review norms rather than FIELD_SKILL's near-universal multi-author "we" convention.
+
+FIELD_SKILL overrides: Citation format (Bluebook footnotes replace author-year); article structure (genre-based, not empirical/theory template); abstract requirement (none published/expected).
+
+Access-limitation notes:
+- No full-text articles were accessible (behind UNM Digital Repository / HeinOnline / JSTOR paywalls in this environment).
+- No abstracts exist for this journal's articles at all (confirmed absence, not an access failure).
+- The journal's detailed "Manuscript Preparation for Accepted Authors" document (referenced by the guidelines page) could not be located/fetched — likely governs fonts, margins, and length for accepted manuscripts but content is unknown.
+- Given the journal is fundamentally a law review rather than an economics research journal, several FIELD_SKILL dimensions (methods conventions, identification strategy, hedging norms) may not meaningfully apply; this is noted as a scope mismatch rather than a confirmed delta.

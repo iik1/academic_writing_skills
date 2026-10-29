@@ -1,0 +1,21 @@
+Journal: Post-Communist Economies
+Slug: post-communist-economies
+ABS: 1
+Field: ECON
+Publisher: Taylor & Francis (Routledge)
+
+Articles fetched: 0 full-text; ~35 titles/authors surveyed at index level (RePEc/IDEAS + EconPapers listings, Vols 35-38, 2023-2026). No abstracts or full guidelines text resolved.
+
+Early stop triggered: No (dedupe check found no existing skill; proceeded through all phases)
+
+Deltas found: 0 stylistic deltas confirmed. One PRACTICE ONLY / topical observation recorded (not a prose-style delta): heavy concentration on single/paired-country applied empirical papers tied to named policy/reform/shock events in post-communist and transition economies (China, Russia, Vietnam, CEE, Central Asia dominate the sample).
+
+FIELD_SKILL overrides: none confirmed (no hard constraints could be verified from accessible sources)
+
+Access-limitation notes:
+- Taylor & Francis "Instructions for Authors" detailed page for cpce20 returned HTTP 403 on all direct WebFetch attempts.
+- archive.org/web.archive.org fetch tool unavailable in this environment.
+- Individual article abstract pages on tandfonline.com (doi.org links) returned 403.
+- RePEc/IDEAS (ideas.repec.org) and EconPapers (econpapers.repec.org) provided article title/author indices successfully but individual per-article abstract pages (guessed URL patterns) returned 404 — could not confirm exact URL scheme without a working listing-page click-through, which WebFetch cannot do interactively.
+- WebSearch tool was intermittently "unavailable" (backend error) for roughly half of queries issued during this session, further limiting ability to find cached abstracts or guideline excerpts via search snippets.
+- Given these constraints, the skill is built on: (1) the journal's public scope/aims statement, (2) a title-level survey across 5 recent years confirming topical focus, and (3) general Taylor & Francis publisher-wide conventions (APA referencing, double-anonymous review, hybrid OA). No structural or stylistic delta from FIELD_SKILL (econ-field-writing-style) could be confirmed or denied with confidence; the skill honestly marks these dimensions "not accessible" rather than fabricating specifics.

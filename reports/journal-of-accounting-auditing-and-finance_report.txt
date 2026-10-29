@@ -1,0 +1,23 @@
+Journal: Journal of Accounting, Auditing and Finance
+Slug: journal-of-accounting-auditing-and-finance
+ABS: 3
+Field: ACCOUNT
+
+Articles fetched: 1 abstract fully recovered (Haque, Puwanenthiren, Alam & Nadarajah, "Managerial Ability and Audit Outcomes," DOI 10.1177/0148558X251335528). Attempted spot-check target was 15; access chain was exhausted well short of that.
+
+Early stop triggered: yes — SAGE Journals (journals.sagepub.com) serves client-rendered pages. Every direct WebFetch of an article page, table-of-contents page, or the guidelines page itself returned only the generic site navigation/homepage shell, never actual article or guideline text. Linked institutional repository copy (University of Derby Worktribe) returned a 302 redirect to a generic landing page; SSRN abstract page returned HTTP 403. RePEc/IDEAS has no listing for this journal. Given the access chain (guidelines page, TOC pages, SSRN, institutional repository) was exhausted, stopped after recovering what was available via search-engine snippet extraction.
+
+Deltas found: 1
+  - Abstract Format: JAAF requires an unstructured abstract, max 250 words, with a minimum of 3 keywords listed immediately after — stricter/more specific than the FIELD_SKILL generic description. Classified ENFORCED (stated in guidelines, consistent with the one abstract recovered).
+
+All other dimensions (voice, sentence style, argumentation, methods, results reporting, discussion/conclusion, citation density/format, hedging) recorded as "FIELD DEFAULT (presumed; limited verification)" — no contradicting evidence found, but sample size (1 abstract) is too small to confirm convergence with confidence.
+
+FIELD_SKILL overrides: Abstract Format (unstructured, ≤250 words, ≥3 keywords) overrides FIELD_SKILL's generic abstract description. Length ceiling (~40-50 pages, all-inclusive except appendices) and table/figure rules (300 dpi, captions) are journal-specific hard constraints not covered by FIELD_SKILL, which explicitly excludes page limits.
+
+Access-limitation notes:
+- journals.sagepub.com pages (guidelines, current issue, sample issue, back issues, individual DOI pages) all returned client-rendered shells with no article/guideline content via WebFetch.
+- SAGE-hosted submission-guidelines PDF was fetched but its text was heavily compressed/garbled for the parser; only high-level references to ICMJE and COPE were extractable, plus separately-indexed search snippets giving concrete numbers (12pt, double-spaced, page limit, abstract word limit, keyword minimum, figure dpi).
+- University of Derby institutional repository PDF (accepted manuscript of the one spot-checked article) redirected to a generic Worktribe landing page rather than serving the PDF.
+- SSRN abstract page for the same article returned HTTP 403.
+- RePEc/IDEAS has no page for this journal.
+- Given these repeated failures across the full access chain (publisher, aggregator, institutional repository, preprint server), further retries were judged not to be a good use of budget; the skill is built on guideline data recovered via search-engine snippet extraction plus one confirmed article abstract, and is flagged internally as provisional pending better access.

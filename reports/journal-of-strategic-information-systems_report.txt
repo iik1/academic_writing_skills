@@ -1,0 +1,43 @@
+Journal: Journal of Strategic Information Systems
+Slug: journal-of-strategic-information-systems
+ABS: 4
+Field: INFO MAN
+
+Articles fetched: 15 (titles/authors, from dblp Vol. 34 No. 1-2 and Vol. 35 No. 1
+listings); abstracts retrieved for 3 of these via search-engine snippets
+(Zolbanin & Aubert 2025; Papagiannidis, Mikalef & Conboy 2025; Choi, Pinsonneault
+& Han 2025). Full text was not accessible for any article (ScienceDirect returns
+403 for direct fetch in this environment).
+
+Early stop triggered: No — sample of 15 titles/abstracts across two recent
+volumes was sufficient; delta set stabilized (structural pattern re:
+literature-review prevalence, and practitioner-framing emphasis, both
+recurred consistently and no new deltas emerged).
+
+Deltas found: 2
+ 1. Structural Deviations (PRACTICE ONLY) — high proportion of standalone
+    literature-review/conceptual-framework articles published as full
+    research articles, not just empirical/design-science studies.
+ 2. Other Journal-Specific Patterns (ENFORCED) — abstracts/scope emphasize
+    dual academic-practitioner relevance more strongly/explicitly than the
+    general field baseline, consistent with the journal's stated aim to
+    serve academics and practitioners equally.
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+ - Abstract: unstructured, max 250 words, no citations, define abbreviations
+ - Length: ~6000-8000 words for research papers
+ - Keywords: 1-7, English, avoid multi-word "and"/"of" phrasing
+ - Authorship: list must be finalized at submission (editorial rule, not style)
+
+Access-limitation notes:
+ - ScienceDirect journal/article pages returned HTTP 403 for direct WebFetch
+   in this environment; all guideline and abstract content was obtained via
+   WebSearch result snippets and cached extractions instead.
+ - No RePEc/IDEAS journal series page exists for this journal (Elsevier IS
+   journals are generally not RePEc-indexed); used dblp for article index
+   instead, plus one HAL-hosted preprint (Besson & Rowe) found via RePEc
+   working-paper search.
+ - Full-text methods/results/discussion sections were not accessible for any
+   sampled article; spot-check judgments rely on titles, scope framing, and
+   abstract snippets, consistent with the FIELD_SKILL convergence approach
+   for structural/genre-level observations.

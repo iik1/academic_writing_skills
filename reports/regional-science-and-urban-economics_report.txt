@@ -1,0 +1,31 @@
+Journal: Regional Science and Urban Economics
+Slug: regional-science-and-urban-economics
+ABS: 3
+Field: REGIONAL STUDIES, PLANNING AND ENVIRONMENT
+
+Articles fetched: 12 (front-matter/abstract level; full text paywalled on ScienceDirect, 403 to automated fetch)
+Early stop triggered: No — deltas stabilized naturally after ~10-12 articles; continued to 12 for confidence.
+
+Deltas found: 1 (low-prevalence / practice-only)
+  - Sample skews toward quantitative causal-identification empirical work (DiD, event studies,
+    natural experiments, hedonic/spatial regressions); no qualitative/mixed-methods papers
+    appeared in the accessible sample. Labeled PRACTICE ONLY / low-prevalence, not elevated to
+    an enforced journal norm, since FIELD_SKILL already notes no single method dominates the
+    field and search-based sampling may be biased toward quantitative papers (more discoverable).
+
+FIELD_SKILL overrides: none. No conflicts found between HARD_CONSTRAINTS and FIELD_SKILL.
+
+Hard constraints recorded (procedural, not style):
+  - Editable source files required for figures/tables/text graphics (.doc/.docx or .tex; no PDF).
+  - Word submissions: single-column only; double-column reserved for LaTeX.
+  - US$100 submission fee (US$50 students; waivable for some low-income-country authors).
+  - Optional SSRN preprint posting once in peer review.
+
+Access-limitation notes:
+  - sciencedirect.com guide-for-authors page returned HTTP 403 to direct WebFetch; guideline
+    content was recovered via WebSearch's cached snippet extraction instead.
+  - Full-text ScienceDirect article pages (e.g. S0166046225000699) also returned 403; relied on
+    RePEc/IDEAS abstract pages, SSRN working-paper versions, World Bank/NTU working-paper mirrors,
+    and search-engine-extracted abstract snippets for the 12-article spot-check.
+  - No article in the accessible sample showed a structured/Highlights-style abstract or any
+    deviation from FIELD_SKILL's unstructured-abstract default.

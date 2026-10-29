@@ -1,0 +1,40 @@
+Journal: Enterprise and Society
+Slug: enterprise-and-society
+ABS: 3
+Field: BUS HIST & ECON HIST
+
+Articles fetched: 17 (title/abstract level across Vol. 25 No.1 2024 TOC,
+Vol. 27 No.2 2026 latest issue abstracts, and 5 FirstView 2026 abstracts;
+full text not accessible due to paywall/no institutional access).
+
+Early stop triggered: No — spot-check continued until delta set stabilized
+(new abstracts kept confirming the same voice/plain-language pattern
+without surfacing new deltas beyond those already logged).
+
+Deltas found: 3 dimensions
+  - Voice and Register (RELAXATION/ENFORCED — explicit active-voice
+    preference, "educated non-specialists" audience target)
+  - Structural Deviations (PRACTICE ONLY — symposium/comment-reply format
+    observed in one sampled issue)
+  - Other Journal-Specific Patterns (ENFORCED — mandatory 2-line author
+    bio on first page; GUIDELINE ONLY — explicit 10-15 line sentence
+    ceiling)
+
+FIELD_SKILL overrides (Hard Constraints beyond FIELD_SKILL's scope):
+  - Chicago Manual of Style, endnotes only, short-form in notes/full form
+    in bibliography, no parenthetical citation
+  - Abstract: up to 150 words, unstructured, submitted separately
+  - Length: ~8,000-12,000 words
+  - Figure/photo size and resolution specs (195x120mm; 300/1200 dpi)
+  - Mandatory 2-line author biography on first page
+  - Explicit prohibitions: no passive voice preference, no sentences
+    opening with "And"/"But", no bottom-of-page footnotes, no Roman
+    numeral footnote markers, avoid 10-15+ line sentences
+
+Access-limitation notes: Full-text articles behind Cambridge Core paywall;
+no institutional EZProxy access available in this environment. Relied on
+publisher TOC/abstract pages (Cambridge Core latest-issue and FirstView
+pages) and JSTOR/Project MUSE TOC pages, plus search-engine-extracted
+abstract snippets, for the article spot-check. This is sufficient to
+assess voice, structure, and topic scope but not fine-grained sentence-
+level or citation-density verification within full text.

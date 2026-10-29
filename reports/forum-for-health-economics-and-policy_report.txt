@@ -1,0 +1,40 @@
+Journal: Forum for Health Economics and Policy
+Slug: forum-for-health-economics-and-policy
+ABS: 1
+Field: ECON
+Publisher: Walter de Gruyter (De Gruyter Brill)
+
+Articles fetched: 10 (abstract/front-matter level, spanning 2021-2025)
+Early stop triggered: No (dedupe check found no existing skill; full pipeline run to completion)
+
+Deltas found: 2 dimensions
+  1. Structural Deviations (RELAXATION) - some articles are methods/survey-review essays
+     rather than standard empirical identification papers (e.g., Mullen 2022 on HRS data
+     utility; Sakshaug 2022 on nonresponse-bias methods). Lacks dedicated Empirical
+     Strategy/Identification section seen at ABS 4*/4 tier.
+  2. Other Journal-Specific Patterns (PRACTICE ONLY) - JEL codes inconsistently reported
+     across articles; not a stated guideline requirement.
+
+FIELD_SKILL overrides (HARD_CONSTRAINTS):
+  - Citation style: Chicago Manual of Style author-date system (explicit mandate,
+    distinct mechanically from generic author-year description in FIELD_SKILL)
+  - Table/figure production rules (De Gruyter house style: separate files, DPI minimums,
+    no dashed lines/images in tables, italics not underlining)
+  - No mandated abstract structure or word limit (unstructured, FIELD DEFAULT in practice)
+
+Access-limitation notes:
+  - degruyterbrill.com blocks WebFetch directly (HTTP 405 Method Not Allowed) on both
+    the journal homepage and individual article/issue pages. Worked around by (a)
+    downloading the Instructions for Authors PDF directly via curl with a browser
+    User-Agent, then reading it with the Read tool, and (b) relying on WebSearch
+    result snippets for degruyterbrill.com article abstracts, and (c) using
+    ideas.repec.org/RePEc abstract mirror pages (which WebFetch could access directly)
+    for JEL codes and keyword data.
+  - The Instructions for Authors PDF is a generic De Gruyter cross-journal template:
+    the editorial-office contact footer still contains unreplaced %%Journal_Name%%
+    and %%Email_Address%% placeholders, confirming it was not customized specifically
+    for FHEP. Treated its content as valid but generic De Gruyter house style rather
+    than FHEP-bespoke policy, and flagged this explicitly in the skill file.
+  - No full-text article access was available (all paywalled); all spot-check findings
+    are based on abstracts, keywords, JEL codes, and titles only, consistent with the
+    permitted lower-tier sampling approach for an ABS 1 journal.

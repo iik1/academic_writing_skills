@@ -1,0 +1,29 @@
+Journal: International Journal of Accounting and Information Management
+Slug: international-journal-of-accounting-and-information-management
+ABS: 2
+Field: ACCOUNT
+Publisher: Emerald Publishing
+
+Articles fetched: 10 (title/abstract-snippet level only; no full text accessible)
+Early stop triggered: No (reached good-faith target of 10 for an ABS 2 journal given thin access)
+
+Deltas found: 2 major/enforced + 1 minor pattern
+1. Abstract format (ENFORCED) - Emerald mandatory structured abstract (Purpose / Design-methodology-approach /
+   Findings / Originality-value, max 250 words), overrides FIELD_SKILL's unstructured single-paragraph abstract.
+   Confirmed consistently across sampled articles spanning 2011-2025.
+2. Citations (ENFORCED) - Emerald "Harvard" house style: semicolon-separated alphabetical string citations,
+   italicized "et al." for 3+ authors, "p."/"pp." with fully written-out page ranges. More specific than
+   FIELD_SKILL's generic author-date description.
+3. Topical scope skew (GUIDELINE/context only) - heavier emphasis on accounting information systems, FinTech,
+   big data/analytics themes vs. FIELD_SKILL baseline journals' general archival/experimental accounting focus.
+   Not a writing-style delta, noted for framing/motivation context only.
+
+FIELD_SKILL overrides: Abstract structure (structured vs. unstructured), citation style specifics (Emerald
+Harvard variant vs. generic author-date).
+
+Access-limitation notes: Direct WebFetch to emeraldgrouppublishing.com and emerald.com pages consistently
+returned 403 Forbidden or CAPTCHA challenge screens. All article-level and guideline evidence was obtained
+via WebSearch result snippets and one successful WebFetch of a RePEc/IDEAS listing page. No full-text article
+was read; abstract-only/title-only evidence used throughout, consistent with the assignment's allowance for
+thin access chains on ABS 2 journals. Word/page limits and heading-numbering conventions specific to IJAIM
+could not be confirmed and are marked as unconfirmed in the skill rather than assumed.

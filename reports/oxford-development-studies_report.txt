@@ -1,0 +1,87 @@
+DELTA DETECTION REPORT: Oxford Development Studies
+====================================================
+
+Journal: Oxford Development Studies
+Slug: oxford-development-studies
+ABS Tier: 2
+Field: ECON
+Publisher: Routledge (Taylor & Francis)
+
+RESEARCH SUMMARY
+================
+
+Articles Fetched: 6 (2025–2026)
+- "Long-term impacts of mobile money on expenditure, poverty, and inequality in Tanzania" (2026)
+- "From field to family: exploring the gendered effect of agricultural mechanization in rural China" (2026)
+- "ROSCAs and household welfare in rural Africa" (2026)
+- "Towards improved menstrual health: the impact of period products on reproductive tract infections" (2026)
+- "Debt attitudes and debt accumulation among rural poor households in a developing region: insights from Kerala, India" (2026)
+- "Towards a 'Development Humanities': widening the multi-disciplinary field of development studies" (2025)
+
+Early Stop: No. Sample size is adequate for ABS 2 journal (6 articles across different themes, 2025–2026). Access chain exhausted (paywall limits fuller analysis), but sufficient metadata available for delta detection.
+
+DELTAS FOUND: 3
+================
+
+1. METHODOLOGICAL PLURALISM (RELAXATION)
+   Classification: RELAXATION
+   Description: Journal actively welcomes qualitative and mixed-methods research alongside quantitative empirical work. FIELD_SKILL emphasizes quantitative methods and formal theory as primary contribution modes. ODS materially softens this emphasis.
+   Evidence: Scope statement mentions "quantitative and qualitative, as well as mixed methods." Observed article on "Debt attitudes" uses qualitative/quantitative integration; process evaluation paper on employment programme.
+   Implication: Authors may position qualitative findings as primary contributions, not supplementary.
+
+2. BROADER DISCIPLINARY BASE (RELAXATION)
+   Classification: RELAXATION
+   Description: Journal explicitly solicits work from economics, politics, anthropology, sociology, geography, history, and other social sciences. FIELD_SKILL is written for economists and assumes economics vocabulary. ODS is intentionally interdisciplinary.
+   Evidence: Scope: "open to work that is interdisciplinary or rooted in a single discipline such as politics, anthropology, sociology, economics, geography, or history."
+   Implication: Technical economics language (LATE, SUTVA, partial equilibrium, etc.) should not be assumed; authors writing from other disciplines are equally legitimate.
+
+3. HEDGING INTENSITY (PRACTICE ONLY, low prevalence)
+   Classification: PRACTICE ONLY
+   Description: Observed hedging slightly elevated relative to FIELD_SKILL in abstracts and article titles of qualitative/mixed-method work. Phrases like "suggests," "indicates," "appears" more frequent than top-tier norms. Not confirmed in guidelines.
+   Evidence: Article titles and abstract snippets show cautious language ("towards improved," "exploring the gendered effect…").
+   Note: Low prevalence; not established as enforced or guideline norm. May reflect author preference or actual editorial leeway, not journal requirement.
+
+FIELD_SKILL OVERRIDES
+=====================
+
+Hard Constraints (from author guidelines): None identified that directly override FIELD_SKILL. Author guidelines are inaccessible (paywall), so full conflict check not possible.
+
+Soft Conflicts (from observed practice and scope):
+- Structure: FIELD_SKILL emphasizes empirical-paper canonical structure (Intro, Data, Empirical Strategy, Results, Robustness, Conclusion). ODS accepts this but also publishes theoretical contributions, qualitative case studies, and process evaluations with varied structure. No override, but broader scope.
+- Voice: No observed delta.
+- Citation density/style: No observed delta.
+
+DIMENSIONS WITH NO DELTA
+========================
+
+Voice and person: FIELD DEFAULT (first-person plural observed)
+Sentence and paragraph style: FIELD DEFAULT
+Argumentation: FIELD DEFAULT
+Results reporting: FIELD DEFAULT
+Discussion/conclusion norms: FIELD DEFAULT
+
+CAVEATS AND LIMITATIONS
+=======================
+
+Access Constraint: Taylor & Francis "Instructions for Authors" PDF was inaccessible (403 Forbidden). Formal author guidelines could not be reviewed. Analysis is based on:
+  - Journal scope and editorial mission (from open sources)
+  - Article metadata (titles, abstracts, keywords from search snippets)
+  - Historical and editorial context (Wikipedia, institutional pages)
+  - Cognate journal norms (development economics abstracting guidance)
+
+Spot-Check Sample: 6 articles is modest but appropriate for ABS 2. Articles span multiple research areas (mobile money, agriculture, reproductive health, debt, development humanities) and years (2025–2026), suggesting diverse acceptable formats.
+
+Confidence Level: Moderate-to-high on broad scope/methodological deltas; lower on specific formatting/structural requirements (not observed in full text). Author guidelines should be consulted before final submission.
+
+FILE STATUS
+===========
+
+Skill file saved: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/economics/oxford-development-studies_SKILL.md
+Report saved: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/reports/oxford-development-studies_report.txt
+
+NEXT STEPS FOR USER
+===================
+
+1. If full submission is planned, consult Taylor & Francis official "Instructions for Authors" PDF (accessible via journal webpage with institutional login if available).
+2. Review 2–3 recent full-text articles in your specific research area to confirm structural norms.
+3. Note the journal's explicit welcome for Global South researchers and traditionally marginalized perspectives — this may affect framing.

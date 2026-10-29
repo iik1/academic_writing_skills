@@ -1,0 +1,17 @@
+Journal: Information Systems Frontiers
+Slug: information-systems-frontiers
+ABS: 3
+Field: INFO MAN
+Articles fetched: 10 (abstracts/keywords/partial structure via search-engine snippets and one full-text via PMC; Springer link.springer.com article pages are login-gated and could not be fetched directly)
+Early stop triggered: No — spot-check continued until deltas stabilized; genuinely new deltas stopped emerging after ~8 articles.
+
+Deltas found: 3 dimensions
+  1. Abstract format — HARD CONSTRAINT: unstructured, 100-150 words, no undefined abbreviations. FIELD_SKILL specifies no word limit.
+  2. Footnote/acknowledgment placement — HARD CONSTRAINT: acknowledgments on title page in separate section; footnote rules (no bare citation footnotes, no tables/figures in footnotes, distinct numbering for table footnotes). Not covered by FIELD_SKILL.
+  3. Author "Biographies" end section — PRACTICE ONLY / low prevalence, observed in one full-text article, not in FIELD_SKILL.
+
+Also noted (not a prose-style delta): broader topical/genre mix (design-science, ML/blockchain technical papers) than the ABS 4*/4 sample underlying FIELD_SKILL — labeled as scope observation, writing style itself is FIELD DEFAULT.
+
+FIELD_SKILL overrides: abstract length/format; footnote and acknowledgment placement rules.
+
+Access-limitation notes: Springer's link.springer.com article and submission-guidelines pages redirect to an IdP login wall and could not be fetched via WebFetch directly; all guideline and article content was recovered through WebSearch-extracted snippets, PMC full text (one article), and ResearchGate/OUCI mirrors. No full-text methods/results/discussion sections were available to verify statistical reporting or citation density deltas beyond what FIELD_SKILL already covers, so those dimensions are recorded as FIELD DEFAULT based on abstract-level and structural evidence only.

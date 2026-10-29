@@ -1,0 +1,24 @@
+Journal: Geneva Papers on Risk and Insurance: Issues and Practice
+Slug: geneva-papers-on-risk-and-insurance-issues-and-practice
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 13 (10 with substantive abstracts, 3 metadata/editorial-only)
+Early stop triggered: No (reached good-faith target sample despite full-text paywall)
+
+Deltas found: 3 dimensions
+- Structural Deviations: journal periodically publishes short special-issue editorial/introductory pieces (narrative framing, no standard abstract) — PRACTICE ONLY, relevant only when writing an editorial.
+- Other Journal-Specific Patterns: JEL codes appear inconsistently (~2 of 10 sampled) — GUIDELINE ONLY / low-prevalence, include if available but not mandatory.
+- Voice and Register: abstracts favor plain, less technical phrasing suited to a mixed academic/practitioner readership — PRACTICE ONLY, RELAXATION of technical density in abstract only.
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+- Abstract limit: 150 words max (tighter than FIELD_SKILL's 150-250 range)
+- Article length: 8,000 words max
+- Abstract page must be non-identifying (double-blind review)
+- Up to 6 keywords required
+- Explicit AI/LLM use disclosure required in Acknowledgments; AI cannot be listed as author
+
+Access-limitation notes:
+- Springer Nature full-text and submission-guidelines pages are login-gated (redirect to idp.springer.com authorization). Guidelines content was reconstructed via WebSearch snippet extraction rather than direct page fetch.
+- Full text of sampled articles was not accessible; assessment relies on abstracts, keywords, and JEL classifications available via IDEAS/RePEc (ideas.repec.org) mirror pages, which provided reliable abstract-level data for most articles.
+- 3 of the 13 fetched items (two editorials, one CEO conscientiousness article) had no abstract available on RePEc; used metadata (title, authors, keywords) only.

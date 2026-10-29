@@ -1,0 +1,102 @@
+SA JOURNAL OF HUMAN RESOURCE MANAGEMENT - SKILL DEVELOPMENT REPORT
+==================================================================
+
+Journal: SA Journal of Human Resource Management
+Slug: sa-journal-of-human-resource-management-writing-style
+ABS Rating: 1
+Field: HRM&EMP
+Publisher: AOSIS (pty) Ltd
+Guidelines URL: https://sajhrm.co.za/index.php/sajhrm/pages/view/submission-guidelines
+
+RESEARCH PHASE SUMMARY
+======================
+
+Articles Fetched: 12 (all from 2025–2026, open-access)
+- Spot-checked articles covered: 6 detailed analysis + 6 additional for pattern confirmation
+- All articles fully publicly accessible (open-access journal)
+- No paywall barriers encountered; full author guidelines also publicly available
+
+Early Stop Triggered: No
+- Sufficient access to guidelines and representative sample achieved
+- No access barriers prevented comprehensive analysis
+
+Deltas Found: 11 distinct journal-specific deviations from hrm-field-writing-style baseline
+
+DELTAS IDENTIFIED (by classification)
+====================================
+
+ENFORCED (stated in guidelines AND confirmed in articles):
+1. Abstract structure: 7 mandatory labeled sections (Orientation, Research purpose, Motivation, Approach, Findings, Implications, Contribution)
+2. Abstract tense: Past tense required
+3. Word limits: 4,500–7,000 for ORA, 2,000 for Opinion (strict enforcement)
+4. Keywords: 8 field-specific keywords required
+5. Quantitative paper structure: Separate Literature Review section following Introduction
+6. Double-blind anonymization: Explicit mandate with dual manuscript submission (blinded + full)
+7. APA citation style: Explicitly required
+8. Ethics statements: Structured subsection with specific required content (committee name, approval number, consent method, confidentiality measures)
+9. CRediT taxonomy: Explicitly preferred for author contributions
+10. Data availability statement: Required for all research articles
+11. Author disclaimer: Required statement about views being personal, not institutional
+
+RELAXATION (fewer restrictions than field baseline):
+- Word limits: 4,500–7,000 is LOWER than typical ABS 4*/4 journals (which allow 8,000–12,000+)
+
+FIELD DEFAULT (no deviation):
+- Voice and register: Formal academic, matches field baseline
+- Hedging language: Moderate to high, consistent with baseline
+- Methods reporting: Detailed, past-tense, matches baseline
+- Discussion/Conclusion: Separate sections with contributions, limitations, future research (matches baseline)
+- Practical implications: Explicit required section (reinforces field baseline)
+- Citation engagement: Paraphrase style, diplomatic framing (matches baseline)
+- Sentence/paragraph style: Medium-long with subordination (matches baseline)
+
+FIELD_SKILL OVERRIDES
+====================
+
+Areas where SAJHRM enforces MORE PRESCRIPTIVE requirements than hrm-field-writing-style baseline:
+
+1. Abstract: Mandatory labeled 7-section structure vs. FIELD_SKILL silence on abstract format
+2. Quantitative structure: Literature Review as standalone section (prescribed) vs. FIELD_SKILL "both standalone and interwoven acceptable"
+3. Ethical reporting: Structured subsection with required content vs. FIELD_SKILL "near-universal but not specified"
+4. Anonymization: Explicit double-blind mandate vs. FIELD_SKILL silence on peer-review structure
+5. Author contributions: CRediT taxonomy preference vs. FIELD_SKILL generic "standard back matter"
+
+No conflicts found where SAJHRM relaxes FIELD_SKILL requirements (other than word-count limits, which are operational).
+
+ACCESS AND LIMITATIONS
+======================
+
+Access Chain Used:
+1. Publisher website (AOSIS): Guidelines and journal homepage publicly available
+2. Journal native site (sajhrm.co.za): All articles open-access, no institutional access required
+3. DOI/CrossRef links: All 12 articles resolved to full-text or abstract + metadata
+
+Barriers Encountered: None
+- Journal is fully open-access (Creative Commons BY 4.0)
+- Author guidelines are publicly published on submission page
+- No paywalls, no authentication required
+- All spot-checked articles accessible in HTML, EPUB, XML, and PDF formats
+
+Confidence Level: HIGH
+- Complete access to author guidelines
+- Large and representative sample (12 articles across 12 months of publications)
+- 100% consistency in article structure and adherence to stated guidelines
+- No conflicting or alternative style advice observed
+
+RECOMMENDATION
+==============
+
+Skill file completed and saved. This is a well-defined ABS 1 journal with clear, prescriptive author guidelines and strong consistency between stated requirements and published practice. The skill captures all journal-specific deviations from the hrm-field-writing-style baseline, with particular emphasis on the highly structured abstract requirement and strict word limits. No significant gaps or uncertainties remain.
+
+Authors preparing submissions to SAJHRM should prioritize:
+1. The seven-section structured abstract (non-negotiable)
+2. Strict word count compliance (4,500–7,000 words max)
+3. Dual manuscript submission (blinded + full versions)
+4. Complete ethical clearance documentation
+5. CRediT taxonomy for author contributions
+
+---
+
+Report generated: 2026-07-02
+Skill file saved to: skills/hrm/sa-journal-of-human-resource-management_SKILL.md
+Field baseline: hrm-field-writing-style_SKILL.md

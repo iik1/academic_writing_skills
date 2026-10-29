@@ -1,0 +1,25 @@
+Journal: Research in the Sociology of Organizations
+Slug: research-in-the-sociology-of-organizations
+ABS: 3
+Field: ORG STUD
+
+Articles fetched: 13 chapter titles/abstracts/blurbs across 4 volumes (Vol. 90, 92, 83, 84/85). No full-text chapters were accessible (Emerald content pages are paywalled/CAPTCHA-gated); assessment relied on chapter-listing pages, volume blurbs, and abstract snippets surfaced via search cache.
+
+Early stop triggered: No — access chain (direct WebFetch, WebSearch snippet extraction, ResearchGate/Amazon/publisher landing pages) was exhausted for this journal; stopped after deltas stabilized and further searches returned repeated/non-novel results.
+
+Deltas found: 2 dimensions
+1. Structural Deviations (RELAXATION/PRACTICE ONLY) — RSO is an edited, themed-volume book series, not a standing journal with rolling submission. Chapters mix substantive empirical work with conceptual/review/theory-synthesis pieces that need not follow the empirical Introduction-Methods-Findings-Discussion template.
+2. Other Journal-Specific Patterns (PRACTICE ONLY) — Titling convention leans toward long, colon-delimited "broad frame: specific case" constructions more than typical empirical-journal titles, consistent with the venue's review/theory tolerance.
+
+FIELD_SKILL overrides (HARD_CONSTRAINTS from Emerald book-series guidelines, distinct from FIELD_SKILL which is silent on these):
+- Submission model: per-volume guest-editor calls, often two-stage (extended abstract ~1,000 words, then invited full chapter), not open rolling submission.
+- Length: representative call specified 8,000-10,000 words including references/tables/figures/endnotes (varies by volume).
+- Abstract: 250 words max, UNSTRUCTURED (no Purpose/Methodology/Findings headings) — differs from Emerald's own journal-abstract format.
+- Citations: APA 6th Edition (not 7th), with specific et al. thresholds by author count.
+- Chapter order: Title page -> Running head (max 65 chars) -> Abstract -> Main text -> Acknowledgements -> Appendix -> References -> Figures -> Tables.
+- Appendix/figure numbering: Appendix A, B...; figures/tables within appendix numbered A1, A2... (or A.1, A.2 for equations).
+
+Access-limitation notes:
+- emeraldgrouppublishing.com and emerald.com pages frequently returned 403 Forbidden on direct WebFetch; content was recovered indirectly via WebSearch's cached snippet extraction in most cases.
+- No single current, stable "author guidelines" URL exists for RSO specifically since each volume's guest editors issue their own call; guidance here synthesizes Emerald's general book-series author guidelines plus one representative historical volume call (Digital Transformation and Institutional Theorizing) found via ResearchGate.
+- Full chapter text was not accessible for any sampled article (paywall/CAPTCHA); all spot-checks relied on titles, blurbs, and short abstract snippets, sufficient to confirm structural/topical patterns but not fine-grained voice or citation-density comparisons.

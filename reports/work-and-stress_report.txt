@@ -1,0 +1,43 @@
+Journal: Work and Stress
+Slug: work-and-stress
+ABS: 4
+Field: PSYCH (WOP-OB)
+
+Articles fetched: 10 distinct articles/editorials (abstracts/titles via WebSearch snippets;
+full text and the official "Instructions for Authors" page were not accessible — tandfonline.com
+returned HTTP 403 on all direct WebFetch attempts, including the guidelines page, about-this-journal
+page, table-of-contents pages, and article PDF links).
+
+Early stop triggered: No — stopped after deltas stabilised around 10 articles/editorials rather
+than reaching the target of 15, because the access chain (WebFetch to tandfonline.com) was fully
+blocked (403) for every URL tried, including PDFs. All information was recovered indirectly via
+WebSearch result snippets, which independently corroborated the same handful of findings across
+multiple queries without surfacing new deltas.
+
+Deltas found: 2 substantive dimensions
+1. Explicit Prohibitions / Other Journal-Specific Patterns (ENFORCED) — Work and Stress states it
+   generally does not publish research relying solely on cross-sectional or time-lagged, self-report
+   survey designs (exception: scale-development papers). Corroborated by the journal's own editorial
+   content (editor Toon Taris's methodological paper on optimizing longitudinal study designs in
+   occupational health psychology). This is stricter than FIELD_SKILL, which treats
+   cross-sectional-design hedging as general practice rather than a near-categorical submission bar.
+2. Structural Deviations (PRACTICE ONLY) — The journal periodically publishes adversarial
+   commentary/rejoinder exchanges tied to a single target article (observed: an original paper "Beliefs
+   about burnout" plus two independent critical commentaries and a rejoinder, all in the same issue).
+   These depart from standard IMRaD structure. Not the default article type, but a recognized genre
+   not covered by FIELD_SKILL.
+
+FIELD_SKILL overrides: One (the cross-sectional design prohibition tightens/refines the field
+baseline's more general hedging-only treatment of design limitations, consistent with ABS-4 latitude
+to refine but not contradict the baseline).
+
+Access-limitation notes:
+- Could not directly access tandfonline.com/journals/twst20 "Instructions for Authors" page (403
+  Forbidden on every attempt), nor any article PDF or full-text page hosted there. All findings are
+  based on WebSearch-surfaced snippets (search engine cached text), abstract excerpts reproduced in
+  third-party indexes (ResearchGate, R Discovery, university repositories), and editorial content
+  summaries. No claims were fabricated; anything not independently surfaced (e.g., explicit word
+  limits, structured-abstract requirements, specific citation style details) is marked "not specified"
+  or "follows FIELD_SKILL norm" rather than guessed.
+- Word/page limits, abstract structure/word cap, and explicit citation-style formatting could not be
+  confirmed and are left as "follows FIELD_SKILL norm" / "not specified" per instructions.

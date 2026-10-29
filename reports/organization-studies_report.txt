@@ -1,0 +1,48 @@
+Journal: Organization Studies
+Slug: organization-studies
+ABS: 4
+Field: ORG STUD
+
+Articles fetched: 8 genuine Organization Studies (OSS, DOI prefix 0170840x)
+articles read via abstract/keywords/section-headings (mirror site
+sage.cnpereading.com, since journals.sagepub.com is JS-rendered and blocks
+direct WebFetch/robotic access). Two additional non-OSS journals ("Organization,"
+DOI prefix 13505084; "Journal of Management," DOI prefix 01492063) surfaced in
+search results and were correctly excluded as different journals.
+
+Early stop triggered: No. Continued past 15 search rounds; stopped at 8
+directly-read articles once the delta set stabilised (qualitative skew,
+empirical-only policy, essay exceptions) and further searches were returning
+duplicate or off-target (wrong-journal) results rather than new deltas.
+
+Deltas found: 4 dimensions
+  1. Structure — empirical-only submission policy since June 2025 (HARD
+     CONSTRAINT), with GUIDELINE ONLY exceptions observed for special-issue
+     introductions and editorially commissioned essays.
+  2. Length — ~11,000 word target (incl. references), up to ~13,000 words
+     for qualitative-data-heavy papers (HARD CONSTRAINT; FIELD_SKILL has no
+     length norm).
+  3. Abstract/Keywords — 5-7 keywords required, at least 4 from a
+     controlled OS ScholarOne keyword list (HARD CONSTRAINT).
+  4. Citations — journal maintains a proprietary "OS Style and Reference
+     Guide"; exact rules not independently verified (access-limited).
+
+FIELD_SKILL overrides: length limit and controlled keyword requirement
+(FIELD_SKILL is silent on both); empirical-only scope narrows FIELD_SKILL's
+assumption of coexisting empirical/theoretical traditions for this journal
+specifically.
+
+Access-limitation notes:
+- journals.sagepub.com pages are JavaScript-rendered; WebFetch consistently
+  returned only navigation/footer content regardless of URL path
+  (/author-instructions/, /doi/full/, /doi/abs/, /toc/). All guideline and
+  article content was obtained via WebSearch snippet extraction and via a
+  publisher mirror (sage.cnpereading.com) that rendered full abstracts,
+  keywords, and section headings for direct DOI lookups.
+- The "OS Style and Reference Guide" itself (the definitive citation-style
+  document) was not locatable as a standalone document; its existence is
+  confirmed but its content is not, so citation guidance in the skill
+  defaults to FIELD_SKILL's author-date convention pending direct access.
+- No full-text article bodies were accessible (all paywalled); classification
+  relied on abstracts, keywords, and visible section-heading lists only, per
+  task instructions.

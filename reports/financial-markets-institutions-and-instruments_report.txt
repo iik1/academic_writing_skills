@@ -1,0 +1,22 @@
+Journal: Financial Markets, Institutions and Instruments
+Slug: financial-markets-institutions-and-instruments
+ABS: 3
+Field: FINANCE
+
+Articles fetched: 9 (abstract/front-matter level for 8; full text for 1 open-access PDF)
+Early stop triggered: No hard stop, but access chain exhausted for full-text (Wiley paywalled 402 on all direct fetches). Sample size of 9 reflects a good-faith attempt across 2023-2026 issues; stopped because deltas had stabilized and further searches were returning duplicate/administrative info rather than new stylistic signal.
+
+Deltas found: 3 dimensions
+  1. Structure/submission package - required table of contents and author biography page (HARD_CONSTRAINT, ENFORCED per guidelines; not visible/testable in published articles since these are submission-only artifacts, not part of the published paper)
+  2. Length - ~75 journal pages ceiling, notably long vs. typical ABS 3 finance paper (GUIDELINE ONLY, unconfirmed against articles since page counts of individual papers were not accessible)
+  3. Structural deviations - table of contents requirement classified as RELAXATION/administrative artifact, not a change to published article structure (published structure follows FIELD_SKILL norm)
+
+All other dimensions (voice, register, statistical reporting, hedging, citation format, argumentation) - FIELD DEFAULT, no deltas found; sampled abstracts and one full-text article were consistent with finance-field-writing-style baseline.
+
+FIELD_SKILL overrides: None substantive. The table of contents and author-biography submission requirements are additive administrative requirements, not overrides of field writing conventions.
+
+Access-limitation notes:
+- Wiley Online Library pages (forauthors.html, productinformation.html, and all article DOI pages) returned HTTP 402 Payment Required on direct WebFetch; all guideline and abstract content was obtained via WebSearch-cached summaries and third-party indexes (IDEAS/RePEc, SSRN, open-access repository PDF).
+- Only one article (Das 2025, COVID-19 insider trading, via Birmingham City University open-access repository) was accessible in full text; the rest were assessed from abstracts only, per task allowance.
+- No JEL codes or keyword lists were retrievable for any sampled article through available access paths.
+- Could not confirm actual page lengths of published articles against the stated 75-page guideline.

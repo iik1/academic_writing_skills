@@ -1,0 +1,47 @@
+Journal: European Management Review
+Slug: european-management-review
+ABS: 3
+Field: ETHICS-CSR-MAN
+Publisher: John Wiley & Sons (for EURAM)
+
+Articles fetched (full-text or abstract): 0
+Articles identified by title/metadata only (spot-check attempt): 4
+  - Acciarini et al. 2024, "Strategic change: A systematic review, synthesis, and a future research agenda"
+  - Mahdiraji et al., "Future workplace reimagination: A multiscenario analysis..." (doi 10.1111/emre.12686)
+  - Callaghan 2024, "Environmental sustainability and management theory development: Post-paradigm insights from the Anthropocene"
+  - Bastone et al., "Paving the way for incumbents' digital transformation. A review and research agenda" (doi 10.1111/emre.70038)
+
+Early stop triggered: yes — access chain exhausted after Wiley Online Library
+(both the forauthors.html guidelines page and all onlinelibrary.wiley.com
+article/abstract/TOC pages) returned HTTP 402 Payment Required on direct
+WebFetch. Scribd re-host and scispace mirror also failed (403 / no content).
+Only search-engine snippets and Wikipedia background were retrievable.
+Did not reach 15 articles; stopped after exhausting realistic free-access
+avenues (WebSearch snippets, Wikipedia, Scribd, scispace, scite, RePEc/IDEAS
+search — EMR does not appear indexed on RePEc/IDEAS).
+
+Deltas found: 2 (low-confidence / partially confirmed)
+  1. Structural Deviations — journal publishes two non-standard shorter
+     formats (Viewpoints, Research Dialogues) not covered by FIELD_SKILL's
+     four templates. ENFORCED (stated in guidelines snippets).
+  2. Other Journal-Specific Patterns — journal self-describes a "European
+     perspective" / cross-disciplinary social-science linkage mandate that
+     may inform framing. GUIDELINE ONLY / low-confidence, not confirmed via
+     article spot-check.
+
+FIELD_SKILL overrides: none confirmed with certainty. Double-blind
+anonymization requirement and mandatory explanatory cover letter are
+ENFORCED procedural requirements (not style deltas, but noted as explicit
+prohibitions/requirements).
+
+Access-limitation notes:
+- Wiley Online Library is fully paywalled from this environment (HTTP 402
+  on every URL under onlinelibrary.wiley.com), including the author
+  guidelines page itself, all article abstract pages, and issue TOC pages.
+- No open-access mirror, SSRN, or RePEc/IDEAS listing found for this
+  journal.
+- Because full guidelines text and article abstracts/section structures
+  were not retrievable, most Hard Constraint and Observed Delta sections
+  in the skill file are marked "not confirmed" and default to FIELD_SKILL
+  rather than asserting an unverified journal-specific norm, per
+  instructions to never fabricate findings.

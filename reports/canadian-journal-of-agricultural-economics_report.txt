@@ -1,0 +1,62 @@
+DELTA DETECTOR REPORT
+Canadian Journal of Agricultural Economics
+
+Journal: Canadian Journal of Agricultural Economics / Revue canadienne d'agroeconomie
+Slug: canadian-journal-of-agricultural-economics
+ABS Rating: 2
+Field: ECON
+Publisher: Wiley-Blackwell
+
+ARTICLES FETCHED: 7 (titles/metadata via EconPapers and IDEAS/RePEc)
+- "Level of knowledge and perceptions of Canadians on supply management" (Doyon, Bergeron, Muirhead)
+- "Environmentally adjusted productivity growth and shadow prices for dairy farms" (Dahal, Hailu, Jayasundara)
+- "The effect of new-product introduction on nutrition consumption: The case of Greek yogurt" (Xie, Richards)
+- "Interplay of crop diversity and agricultural area in agroecosystem services" (Park et al.)
+- "Back to the land…again: Ownership matters!" (Deaton)
+- "Stepping stone or stumbling block: Anchoring effect of crop insurance subsidies" (Hu et al.)
+- "Public willingness to pay for wetland restoration in the Canadian Prairie Pothole Region" (Boldt et al.)
+
+EARLY STOP TRIGGERED: Yes
+Reason: Paywall access (HTTP 402) blocked all Wiley hosted full-text articles. EZProxy institutional access unavailable. Unable to directly inspect manuscript structure, voice, citation patterns, or statistical reporting conventions in full texts. Reliance on article metadata from public indexing (EconPapers, IDEAS/RePEc) and explicit author guidelines messaging from Editage and journal webpages.
+
+DELTAS FOUND: 1 (bilingual abstract requirement)
+
+Dimensions with deltas:
+1. Abstract Format / Language (ENFORCED delta)
+   - Abstracts must be submitted in both English and French
+   - Requirement stated explicitly in public author guidance
+   - Represents a procedural/organizational departure from FIELD_SKILL baseline
+
+FIELD_SKILL OVERRIDES: None
+- Journal citation style (author-year) aligns with FIELD_SKILL
+- Structure norms not contradicted by journal-stated requirements
+- Voice, hedging, and argumentation norms not explicitly constrained by journal
+
+HARD CONSTRAINTS IDENTIFIED:
+- Double-spaced, 1-column, 8.5" × 11" format (initial submission flexibility)
+- Required sections: Title, Abstract (bilingual), Introduction, Conclusions, References
+- Author-Year citation style
+- Keywords required below abstract
+- No explicit word count limit
+- Page charge: $70/page (or $0 for CRKN-affiliated Canadian institutions)
+
+ACCESS LIMITATION NOTES:
+Full-text inspection of articles not possible due to Wiley paywall (HTTP 402). Spot-check was attempted via:
+1. WebSearch for author guidelines (paywalled)
+2. WebFetch of Wiley journal pages (blocked)
+3. Search for preprint versions via SSRN, ResearchGate, ArXiv (no matching results)
+4. Public indexing via EconPapers, IDEAS/RePEc (metadata only)
+5. CrossRef / DOI linking (paywalled endpoint)
+
+Alternative sources consulted:
+- EndNote style definition for CJAE (format confirmed: Author-Year)
+- Journal metrics and abstract metadata from public indexing services
+- Comparison with similar Wiley agricultural economics journals (JAE, AJAE, etc.) where guidelines partially accessible
+
+Given access constraints, this skill represents a "good-faith" delta detection based on:
+- Explicit written requirements in public-facing author guidance
+- Citation style confirmed via EndNote/CrossRef
+- Bilingual requirement documented in journal messaging
+- Absence of contradictory evidence in the limited accessible material
+
+Recommendation: This skill should be marked for future verification once full-text access becomes available or author guidelines are updated with more accessible URLs.

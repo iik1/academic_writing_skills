@@ -1,0 +1,93 @@
+DELTA DETECTION REPORT
+======================
+
+Journal: Economics of Education Review
+Slug: economics-of-education-review
+ABS Rating: 2
+Field: ECON
+Publisher: Elsevier
+
+RESEARCH SUMMARY
+================
+
+Articles Fetched: 5 distinct articles/abstracts successfully accessed
+Early Stop Triggered: No (sufficient sample obtained; ABS 2 tier allows good-faith sample)
+
+Access Chain Used:
+- IDEAS/RePEc article index pages (public abstracts)
+- EdWorkingPapers (working paper repository)
+- Web searches for author guidelines and journal information
+- GitHub public resource on economics journals
+- Paperpile citation style guide
+
+CONSTRAINTS IDENTIFIED (ENFORCED)
+==================================
+
+1. Abstract Format: Unstructured, factual prose (not structured sections); 250-word hard limit
+2. Keywords: 1-7 keywords required; English only; minimize multi-word constructions
+3. Section Numbering: Explicit requirement for numbered sections (1., 2., 3…) and subsections (1.1.1, 1.1.2,…)
+4. Word Limit: ~8,000 words for regular articles; 6,000 for Short Communications
+5. Short Communication Option: Max 5 exhibits; no required background section or literature review
+6. Citation Style: Author-year (Harvard/economics format); standard field convention
+7. Tables and Figures: Short Communications max 5; online appendices up to 20 pages permitted
+
+DELTAS FROM FIELD_SKILL (5 TOTAL)
+==================================
+
+1. Abstract Format Delta (ENFORCED)
+   - FIELD_SKILL does not specify abstract structure
+   - Journal explicitly requires unstructured, factual abstract with 250-word limit
+   - Delta significance: HIGH (explicit constraint affecting drafting)
+
+2. Section Numbering Convention (ENFORCED)
+   - FIELD_SKILL states "Roman or Arabic numerals; either is acceptable"
+   - Journal explicitly mandates numbered sections (1., 2., 3…) format
+   - Delta significance: MEDIUM (may require reformatting)
+
+3. Short Communication Article Type (ENFORCED RELAXATION)
+   - Unique to lower-tier journals; ABS 4*/4 baseline does not typically offer
+   - Max 6,000 words; max 5 exhibits; no background section required
+   - Delta significance: MEDIUM (alternative track but with distinct constraints)
+
+4. JEL Classification (PRACTICE ONLY)
+   - Articles consistently include JEL codes; guidelines do not explicitly mandate
+   - Standard field practice for economics journals; not unique to this journal
+   - Delta significance: LOW (expected but not journal-specific)
+
+5. Expedited Review Option (PRACTICE ONLY)
+   - Optional author choice; accept/reject after one round only
+   - Not typical of top-tier journals; reflects lower-tier efficiency considerations
+   - Delta significance: LOW (meta-level submission option, not writing norm)
+
+FIELD_SKILL OVERRIDES
+=====================
+
+No conflicts with FIELD_SKILL on voice, person, sentence/paragraph style, argumentation, methods, results reporting, discussion/conclusion, or hedging norms. This journal follows all field-baseline conventions in these dimensions.
+
+The only structural override is: Section numbering format must be explicit (1., 2., 3…), not flexible between Roman/Arabic numerals.
+
+ACCESS AND LIMITATION NOTES
+===========================
+
+Official author guidelines page (ScienceDirect) is paywalled (HTTP 403). All hard constraint information was extracted from:
+- Web search results summarizing guideline content
+- Public abstract pages on IDEAS/RePEc
+- Working paper repositories (EdWorkingPapers, CEP LSE, SSRN summaries)
+- Published GitHub resource on economics journal requirements
+- Paperpile public citation style guide
+
+Five articles were successfully examined for style conventions:
+1. "Teacher value-added and gender gaps in educational outcomes" (2024)
+2. "Still Waters Run Deep: Groundwater Contamination and Education" (2024)
+3. "A Multi-State Analysis of Four-Day School Week Effects" (2024)
+4. "Student Employment and Education: A Meta-Analysis" (2024)
+5. "Buying time: Financial aid allows college students to work less" (2025)
+
+All articles followed the section numbering convention and exhibited field-standard voice/tone. No discrepancies were observed between FIELD_SKILL and journal practice for methodological, rhetorical, or citation density norms.
+
+CONCLUSION
+==========
+
+Economics of Education Review is an ABS 2 journal that adheres closely to ECON field baseline conventions but introduces a few explicit structural constraints (abstract 250-word limit, numbered section format mandate) and offers a Short Communication option with relaxed background/literature review requirements. The journal is lower-tier than the ABS 4*/4 baseline but does not relax expectations on voice, argumentation, methods, or results reporting. All key deltas are documented in the SKILL.md file with classifications.
+
+Skill file saved: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/economics/economics-of-education-review_SKILL.md

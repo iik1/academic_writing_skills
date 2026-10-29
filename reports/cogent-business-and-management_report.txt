@@ -1,0 +1,22 @@
+Journal: Cogent Business and Management
+Slug: cogent-business-and-management
+ABS: 1
+Field: ETHICS-CSR-MAN (mapped to mgmt-field-writing-style baseline)
+
+Articles fetched: 8 (6 full-text via PMC, 1 abstract-only via RePEc/IDEAS, 1 title/abstract via search snippet)
+Early stop triggered: No (dedupe check found no pre-existing skill file for this journal)
+
+Deltas found: 4 dimensions
+  1. Structural Deviations - format-free initial submission (RELAXATION)
+  2. Structural Deviations - shorter/more variable article length than FIELD_SKILL norm (PRACTICE ONLY, low prevalence)
+  3. Structural Deviations - higher share of bibliometric/systematic-review output in sample (PRACTICE ONLY)
+  4. Other Journal-Specific Patterns - optional "Public Interest Statement" lay summary (GUIDELINE ONLY, not observed in any full-text sample)
+  Also noted: single-blind peer review (FIELD DEFAULT context note, not a delta from FIELD_SKILL content but relevant author guidance)
+
+FIELD_SKILL overrides: none that contradict FIELD_SKILL substantively - all deltas are relaxations/practice notes layered on top of the MGMT field baseline (structure, hypothesis numbering, citation style [APA], statistical reporting, voice/hedging all follow FIELD_SKILL norm).
+
+Access-limitation notes:
+- tandfonline.com blocked all direct WebFetch attempts with HTTP 403 (both the "about this journal" and "instructions for authors" pages, and individual article PDF/full pages).
+- Worked around this via WebSearch snippet extraction of the tandfonline about-page content, plus full-text access to 6 Cogent Business & Management articles mirrored on PubMed Central (PMC), which supported the ABS-1-tier "good faith smaller sample" allowance.
+- One additional attempted PMC article (PMC11487635) turned out to be a personal memoir/narrative NOT actually published in this journal - excluded from the sample after verification.
+- Public Interest Statement requirement is documented only via an author-correspondence PDF found through search, not the primary guidelines page itself - flagged as GUIDELINE ONLY / low-confidence given it appeared in zero of the six full-text articles checked.

@@ -1,0 +1,16 @@
+Journal: International Business Review
+Slug: international-business-review
+ABS: 3
+Field: IB&AREA
+
+Articles fetched: 4 full abstracts (via IDEAS/RePEc) + title-level review of ~15 additional articles across Vol. 33-35 (2024-2025) tables of contents via WebSearch snippets. ScienceDirect full-text/HTML pages returned 403 Forbidden on direct WebFetch; relied on WebSearch-extracted snippets and IDEAS/RePEc mirrors instead.
+
+Early stop triggered: No — deltas stabilized after the guide-for-authors extraction plus 4-5 abstract-level article checks; no new structural/voice deltas emerged beyond the Highlights requirement and the 150-word abstract cap.
+
+Deltas found: 2
+  1. Structural Deviations — mandatory "Highlights" file (3-5 bullets, <=85 characters each) at submission. ENFORCED (stated in guidelines; standard Elsevier mechanic, not mentioned in FIELD_SKILL).
+  2. Abstract length — capped at 150 words vs. FIELD_SKILL's 150-250 word range. ENFORCED (hard constraint from guidelines).
+
+FIELD_SKILL overrides: Abstract word cap (150 words, hard override of the 150-250 range) and mandatory Highlights file (new requirement not present in FIELD_SKILL at all).
+
+Access-limitation notes: ScienceDirect journal guide-for-authors page and article listing pages both returned HTTP 403 on direct WebFetch (likely bot-blocking/paywall). Used WebSearch-returned page snippets for the guide-for-authors content instead, and IDEAS/RePEc (open econ paper repository) for real abstract text/keywords/authors of 4 articles plus title-only listings for the rest. No full-text articles were accessible; all spot-checks were at abstract/metadata level, consistent with the assignment's allowance for front-matter-only checks under paywall conditions. One irrelevant same-named journal ("International Business Review Journal" at ibrjournal.org, an unrelated open-access journal) surfaced in search results and was explicitly excluded/disregarded to avoid contaminating findings.

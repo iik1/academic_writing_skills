@@ -1,0 +1,48 @@
+JOURNAL SKILL REPORT
+====================
+
+Journal:                    Journal of Forensic Accounting Research
+Slug:                       journal-of-forensic-accounting-research-writing-style
+ABS Rating:                 2
+Field:                      ACCOUNT
+Publisher:                  American Accounting Association
+
+Articles Fetched:           8 (titles and abstracts only; full text paywalled)
+Early Stop Triggered:       Yes
+Early Stop Reason:          Paywalled journal — unable to access full article texts or detailed abstracts beyond titles. AAA journals require institutional subscription or purchase. Spot-check sample reached (8 distinct articles across volumes 8-10, 2022-2025) sufficient to establish scope, though unable to verify detailed style deltas empirically.
+
+Deltas Found:               5 major dimensions with deltas from FIELD_SKILL baseline
+
+FIELD_SKILL Overrides:      3 hard constraints override FIELD_SKILL baseline
+  1. 55-page maximum (FIELD_SKILL specifies no limit)
+  2. AI disclosure statement after abstract (ENFORCED, not in FIELD_SKILL)
+  3. Mandatory replication code/data at conditional acceptance (FIELD_SKILL lists as "increasingly required", JFAR enforces)
+  4. CrossCheck plagiarism screening (standard in AAA, not FIELD_SKILL baseline)
+  5. ORCID identifier requirement (emerging standard, ENFORCED at JFAR)
+
+Key Deltas (not in FIELD_SKILL):
+  1. AI Disclosure Statement (ENFORCED HARD CONSTRAINT) — required immediately after abstract, before body text, specifying all generative AI use during preparation and research. Compliance with AAA authorship policies required.
+  2. Replication Materials (ENFORCED HARD CONSTRAINT) — upon conditional acceptance, must submit Data Description Disclosures list AND all computer code for independent replication. This is enforced, not optional.
+  3. Acceptable Methodologies Scope (PRACTICE EMPHASIS) — editorial policy explicitly welcomes non-fraud forensic research alongside fraud research; encourages balance across basic research, practice, and education. Broader than quantitative-dominant FIELD_SKILL norm, but consistent with AOS inclusion.
+  4. Null Results Policy (PRACTICE EMPHASIS) — editorial policy explicitly welcomes nonsignificant results if methodologically rigorous, with high construct validity, internal validity, and statistical power. Signals reduced publication bias; not a baseline norm in FIELD_SKILL.
+  5. Page Limit (HARD CONSTRAINT) — maximum 55 pages total (including references, tables, figures, appendices). FIELD_SKILL does not specify a limit.
+
+Dimensions with NO delta from FIELD_SKILL:
+  - Voice, person, register
+  - Sentence and paragraph style
+  - Argumentation and rhetorical moves (CARS-based introduction)
+  - Methods conventions (past tense, procedural detail, identification strategy, robustness)
+  - Results and reporting norms (tables primary, statistical precision, parallel organization)
+  - Discussion and conclusion norms (merged or separate, explicit limitations, future research optional)
+  - Citation and literature engagement (author-date, FIELD_SKILL norms apply)
+  - Hedging and epistemic caution
+
+Access Limitations:
+  - Journal's published articles (Vol. 1–10, 2016–2025) are behind AAA paywall
+  - Author guidelines and editorial policy available publicly at aaahq.org
+  - Abstract pages available but full-text access restricted
+  - 8 recent articles sampled by title and subject from publications.aaahq.org (Vol. 8–10): Financial Statement Fraud Prediction System; The Effects of Message Quotes on Tax Compliance; Management Tone in MD&A; Business Strategy and Financial Reporting Quality; The Effect of Fraud Diamond Capability Measures; Auditor Use of Benchmarks; Lessons Learned from Failed Digital Forensic Investigations; and one additional (title not captured).
+  - No preprint or open-access version found on SSRN, arXiv, or ResearchGate for JFAR articles (JFIA [Journal of Forensic and Investigative Accounting, a different journal] is open access; JFAR is not).
+
+Conclusion:
+This is an ABS 2 (lower-tier) journal published by the American Accounting Association. The journal enforces strong open-science and replication requirements, consistent with AAA's contemporary standards (AI disclosure, ORCID, replication code). The HARD CONSTRAINTS are minimal and largely align with FIELD_SKILL norms in voice, structure, and argumentation. The journal's scope is broader than the quantitative-dominant FIELD_SKILL baseline, explicitly welcoming non-fraud research and balancing basic research with practice and education. The skill captures 3 hard constraints (page limit, AI disclosure, replication code) and 2 practice emphases (null results welcome, broad methodology acceptance) that distinguish JFAR from FIELD_SKILL. No major deviations in voice, tone, citation, or argumentation were detected based on available evidence.

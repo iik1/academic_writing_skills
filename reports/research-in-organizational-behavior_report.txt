@@ -1,0 +1,47 @@
+Journal: Research in Organizational Behavior
+Slug: research-in-organizational-behavior
+ABS: 3
+Field: ORG STUD
+
+Articles fetched: 2 full-text (Grant & Ashford 2008; Rosso, Dekas & Wrzesniewski 2010,
+  though the latter's PDF text layer was not machine-extractable and was analyzed via
+  abstract/metadata), plus abstract/metadata for several additional chapters located via
+  WebSearch (e.g., Amabile & Pratt 2016; Porath et al. 2022). ScienceDirect journal and
+  guide-for-authors pages returned HTTP 403 on direct fetch; reconstructed via WebSearch
+  snippets and a third-party (manusights.com) submission-guide summary.
+
+Early stop triggered: Yes - stopped short of 15 articles. Reason: this is a low-volume,
+  invitation-only annual series (5-8 commissioned chapters per volume, long-form
+  integrative reviews rather than short empirical papers), and ScienceDirect full-text
+  and table-of-contents pages are blocked (403) for this environment. The delta pattern
+  (integrative-review structure, no hypotheses/Methods/Results, sustained high citation
+  density, future-research-agenda closer) was consistent and stable across all sources
+  examined, including the two full-text chapters, so further sampling was judged unlikely
+  to change the delta set materially. This is documented as a genuine access-chain
+  limitation, not premature convergence.
+
+Deltas found: 3 dimensions
+  - Structural Deviations (ENFORCED): whole-manuscript structure is integrative-review,
+    not empirical Abstract-Intro-Theory-Methods-Results-Discussion.
+  - Citation Density (PRACTICE ONLY): high density sustained throughout the chapter body,
+    not just intro/discussion.
+  - Other Journal-Specific Patterns (PRACTICE ONLY / RELAXATION): future-research-agenda
+    section is a primary deliverable; hypotheses are absent (relaxation of FIELD_SKILL
+    quantitative-tradition norm).
+
+FIELD_SKILL overrides: Yes - the entire empirical-article macro-structure and the
+  Methods/Results/hypothesis-testing conventions in FIELD_SKILL are overridden by the
+  journal's commissioned-integrative-review-only remit (HARD_CONSTRAINT from guide for
+  authors: "publishes commissioned papers only").
+
+Access-limitation notes:
+  - sciencedirect.com/journal/research-in-organizational-behavior/publish/guide-for-authors
+    and the journal homepage/volume TOC pages all returned HTTP 403 on direct WebFetch.
+  - Guideline content was reconstructed from WebSearch result snippets (which quote the
+    guide-for-authors text directly) and from manusights.com, a third-party submission-guide
+    summary citing the same Elsevier guidance.
+  - One full-text chapter was retrieved via a faculty-hosted PDF (Wharton); a second
+    full-text PDF (Yale-hosted) was fetched but its text layer could not be extracted by
+    the fetch tool, so it was treated as abstract/metadata-only.
+  - No article was found accessible via RePEc/IDEAS (this journal is not typically indexed
+    there since it is a book-series-style annual volume, not a standard econ journal).

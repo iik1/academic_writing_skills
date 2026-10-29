@@ -1,0 +1,38 @@
+Journal: Theory, Culture and Society
+Slug: theory-culture-and-society
+ABS: 3
+Field: SOC SCI
+
+Articles fetched: 7 distinct pieces (abstract-level; full text paywalled/inaccessible in this environment)
+1. Kinsella, "Male Subcultures in Japan: Generating Sexual Capital and Gender-Class Mobility in a Low Birth Society" (2025)
+2. Luo, Xing & Xiao, "Digital Sensing, Infrastructure of Sovereignty, and the Unmaking of the Chinese Surveillance State" (2026)
+3. Nirta, "Trans Embodiment: Notes on Building a House You Don't Want to Live In" (2026)
+4. Manghani, "Painterly: Editorial Introduction for Painting/Knowledge E-Special Issue" (2025)
+5. Brennan, "Necropolitics and Surplus Life: Mbembe and Beyond" (2024)
+6. Serafini, "From Institutions to the Platform Society: An Interdisciplinary Reading of Recent Works by Roberto Esposito" (2024)
+7. D'Cruz, "What Demarcates Necropolitics from Biopolitics? A Foucauldian Critique of Mbembe" (2026)
+
+Early stop triggered: No — stopped at 7 (below the target of 15) because the access chain was exhausted: journals.sagepub.com TOC and abstract pages return HTTP 403 to WebFetch, theoryculturesociety.org submission-guidelines page is a navigation stub with no article content, and further WebSearch queries began returning duplicate/irrelevant results rather than new distinct articles. The delta pattern (essayistic register, thematic non-IMRaD structure, theorist-centered "literature review," non-quantitative content) was consistent and stable across all 7 sampled pieces, so the delta set had converged before the target count was reached.
+
+Deltas found: 4 dimensions
+1. Voice and Register - RELAXATION/PRACTICE ONLY: essayistic, single-authored, densely theoretical register at the far end of FIELD_SKILL's permitted range; "we" largely absent even in multi-author pieces.
+2. Citation Density - PRACTICE ONLY: literature engagement concentrated on deep reading of 1-2 named theorists (functions as the argument, not a preface to it) rather than broad citation clusters.
+3. Structural Deviations - ENFORCED (guidelines + confirmed in sample): no Data/Methods/Results/Discussion architecture; freely-titled thematic sections track the argument instead.
+4. Other Journal-Specific Patterns - PRACTICE ONLY: colon-separated evocative/descriptive titles; journal actively solicits non-standard formats (Notes & Commentary, Interviews, Global Public Life, video-abstracts).
+
+Statistical Reporting section: not applicable (sample is entirely non-quantitative).
+
+FIELD_SKILL overrides (hard constraints from guidelines that override baseline):
+- Word limits by manuscript type (Standard 6,000-8,000; Notes & Commentary/Review Article/Global Public Life 4,000-6,000; Interviews 3,000-8,000), all inclusive of notes/references
+- Abstract: exactly 150 words, 3-7 keywords
+- Reference list uses full first names (SAGE Harvard variant) — not initials
+- No footnotes, endnotes only, strictly limited in number/length
+- Blind-review anonymization protocol (self-citations replaced with "Author")
+- TCS does not accept unsolicited review articles
+- AI chatbots cannot be listed as authors
+- Minimize acronyms to those familiar to a general audience
+
+Access-limitation notes:
+- journals.sagepub.com article/TOC pages returned HTTP 403 Forbidden to WebFetch throughout; all article content obtained via WebSearch-extracted abstract snippets, not direct page fetches.
+- Full text of all sampled articles was paywalled/inaccessible; analysis is abstract/front-matter level only, consistent with task instructions.
+- The guidelines PDF (sagepub.com direct PDF link) was fully accessible and provided complete, detailed HARD_CONSTRAINTS coverage.

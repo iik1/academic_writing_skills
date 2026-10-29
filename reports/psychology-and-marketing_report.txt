@@ -1,0 +1,22 @@
+Journal: Psychology and Marketing
+Slug: psychology-and-marketing
+ABS: 3
+Field: MKT
+Publisher: Wiley-Blackwell
+
+Articles fetched: 12 (abstract/front-matter level only; full text paywalled — HTTP 402 on direct WebFetch of Wiley Online Library PDFs and guidelines page)
+Early stop triggered: No (delta set stabilized after ~10-12 articles; continued to confirm no new deltas emerged)
+
+Deltas found: 3 dimensions
+  1. Length — ENFORCED. Hard 9,000-word cap (Research/Review Articles) including abstract, references, tables, figures. Tighter than FIELD_SKILL's typical 8,000-16,000 word range.
+  2. Structural Deviations — PRACTICE ONLY. Higher-than-typical share of conceptual/framework-building and meta-analytic/systematic-review papers alongside standard hypothesis-testing empirical papers.
+  3. Other Journal-Specific Patterns — GUIDELINE ONLY. Formal two-stage Registered Reports track (Stage 1 protocol review -> OSF registration -> Stage 2 results), not present in FIELD_SKILL.
+
+Additional hard constraints documented (not deltas from style per se, but journal-specific submission requirements): double-blind review (no author-identifying info in main text), mandatory suggestion of 3 reviewers at submission, free-format initial submission, tables/figures placed in-text (not at end), explicit discouragement of single cross-sectional self-report-only studies.
+
+FIELD_SKILL overrides: Length only (9,000-word cap overrides FIELD_SKILL's 8,000-16,000 word range for this journal).
+
+Access-limitation notes:
+- Wiley Online Library guidelines page and article PDFs returned HTTP 402 (Payment Required) on direct WebFetch — no institutional EZProxy access in this environment.
+- All guideline and article content was reconstructed from WebSearch-indexed snippets/cached excerpts of the same pages (Wiley pages, ResearchGate, institutional repositories, ScienceDirect cross-references) rather than direct full-text reads.
+- No full-text article was read in full; all 12 spot-checked articles were assessed at abstract/title/keyword level only, consistent with the assignment's allowance for front-matter-only review under paywall conditions.

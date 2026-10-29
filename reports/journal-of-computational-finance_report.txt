@@ -1,0 +1,47 @@
+Journal: Journal of Computational Finance
+Slug: journal-of-computational-finance
+ABS: 1
+Field: FINANCE
+
+Articles fetched: 10 (abstract/title level; full text paywalled)
+  - Kawai (2002) "Analytical and Monte Carlo swaption pricing under the forward swap measure"
+  - Anis & Kwon (2020) "A shrinking horizon optimal liquidation framework with lower partial moments criteria"
+  - Daluiso (2020) "Second-order Monte Carlo sensitivities in linear or constant time"
+  - Malecka (2020) "Extremal risk management: expected shortfall value verification using the bootstrap method"
+  - Grossinho, Kord & Sevcovic (2020) "Pricing American call options using the Black-Scholes equation with a nonlinear volatility function"
+  - McGhee (2021) "An artificial neural network representation of the SABR stochastic volatility model"
+  - Nagami (2021) "Expansion method for pricing foreign exchange options under stochastic volatility and interest rates"
+  - Fecamp et al. (2021) "Deep learning for discrete-time hedging in incomplete markets"
+  - Fayolle et al. (2021) "Quantization-based Bermudan option pricing in the foreign exchange world"
+  - Huo (2025) "Finite-difference solution ansatz approach in least-squares Monte Carlo"
+
+Early stop triggered: No. Reached a good-faith sample of 10 distinct articles across 2002-2025,
+consistent with the reduced-sample allowance for an ABS 1 journal. Full text was not accessible
+for any article (all paywalled behind Risk.net subscription); all observations are based on
+abstracts, titles, and (for one 2025 article) a visible "Key Takeaways" bullet block.
+
+Deltas found: 4 dimensions with journal-specific notes
+  1. Structure (HARD_CONSTRAINT) - title page separated from blinded main text; specific section
+     order including Key messages block; recommended generic empirical template (Introduction,
+     Literature review, Data, Methodology, Results, Discussion, Conclusion) likely not followed
+     literally by numerical-methods papers (PRACTICE ONLY / low-confidence inference from titles).
+  2. Length (HARD_CONSTRAINT) - 10,000 word cap for research papers, 7,000 for forum papers.
+  3. Abstract (HARD_CONSTRAINT) - tighter band, 150-200 words vs FIELD_SKILL's 150-250.
+  4. Citations (HARD_CONSTRAINT) - Chicago in-text / APA reference list hybrid, DOIs required.
+  5. Other Journal-Specific Pattern (ENFORCED) - "Key Takeaways / Key messages" bullet block,
+     confirmed rendered on a live 2025 article page, matching the stated guideline requirement.
+  6. Voice/Statistical Reporting (PRACTICE ONLY) - abstracts emphasize numerical method
+     performance (accuracy, stability, efficiency) rather than econometric results language,
+     a natural consequence of journal scope rather than a stated rule.
+
+FIELD_SKILL overrides: word limit (10,000/7,000), abstract word band (150-200), citation format
+(Chicago in-text + APA reference list hybrid), submission structure (title page/blinding/key
+messages block), figure/table dual-file + vector-graphics requirement, AI-disclosure prohibition.
+
+Access-limitation notes: This journal shares its submission guidelines page with all Risk.net
+"Risk Journals" titles (Journal of Risk, Journal of Energy Markets, etc.), so the guidelines
+are not journal-unique but do apply and override FIELD_SKILL. No full-text articles were
+accessible (Risk.net subscription paywall); all structural/style observations rely on abstracts,
+titles, and one visible metadata block. No arXiv preprint matches with explicit "published in
+Journal of Computational Finance" notices were found during this pass. Structural Deviations
+section is therefore lower-confidence than would be ideal and is flagged as such in the skill file.

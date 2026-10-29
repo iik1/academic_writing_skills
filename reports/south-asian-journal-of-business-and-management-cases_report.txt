@@ -1,0 +1,22 @@
+Journal: South Asian Journal of Business and Management Cases
+Slug: south-asian-journal-of-business-and-management-cases
+ABS: 1
+Field: ETHICS-CSR-MAN
+Publisher: SAGE (with Birla Institute of Management Technology, Greater Noida)
+
+Articles fetched: 9 (front-matter/abstract level for 8; near-full-text for 1: the Zimbabwe presumptive tax case, which yielded full section-heading structure)
+Early stop triggered: No — reached a good-faith sample of 9 distinct articles spanning 2017-2024, sufficient to confirm consistent patterns and a clear historical policy shift.
+
+Deltas found: 3 dimensions
+1. Structural Deviations (PRACTICE ONLY) - Findings organized as labeled Theme A/B/C with named subthemes rather than generic theoretical categories; explicit Background/Research Setting section before Findings.
+2. Other Journal-Specific Patterns (RELAXATION historically / now ENFORCED prohibition) - older issues (pre-~2021) contain classroom teaching cases with learning objectives, a format now explicitly barred.
+3. Length (ENFORCED, hard constraint) - ~5,000 word cap, well below FIELD_SKILL's typical 10,000-18,000+ word management article lengths.
+
+FIELD_SKILL overrides:
+- Word limit override (~5,000 words vs FIELD_SKILL's 10k-18k+)
+- Manuscript type restricted to Qualitative Case Study Research only (5 sub-types: Phenomenon-based, Phenomenon Extension, Theory Building, Review, Methodological); teaching cases and quantitative/applied research explicitly prohibited despite "Cases" in the journal title
+- Abstract must cover purpose, phenomenon/context, methodology, and theoretical contribution (150-300 words depending on source), 5-7 keywords
+
+Access limitation notes:
+- Direct WebFetch of journals.sagepub.com pages mostly returned JS-rendered navigation shells rather than article content; WebSearch snippet extraction and IDEAS/RePEc abstract pages were used as the primary evidence source instead. One article (Zimbabwe tax case) rendered enough via WebFetch to confirm full section-heading structure (Introduction, Background, Research Design, Data Collection, Data Analysis, Findings with Theme A/B/C and subthemes, Discussion, Conclusion, Declarations, Funding, References).
+- No full-text PDF access was available (no EZProxy); all findings are abstract/metadata/heading-level, consistent with task instructions for a lower-tier ABS 1 journal.

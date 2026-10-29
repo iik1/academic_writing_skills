@@ -1,0 +1,24 @@
+Journal: Critical Finance Review
+Slug: critical-finance-review
+ABS: 1
+Field: FINANCE
+
+Articles fetched: 6 (5 abstract/title-level: Loughran 2025 "Do Factors Matter?"; Schneider & Spalt 2025 "Bidder and Target Size Effects..."; Eisfeldt, Kim & Papanikolaou 2022 "Intangible Value"; Chen & Zimmermann 2022 "Open Source Cross-Sectional Asset Pricing"; Pontiff & Singla 2019 "Liquidity Risk?" title-level only. Plus 1 full-text: Welch 2019 special-volume "Introduction" editorial.)
+Also fetched full recent issue tables of contents (Vol 14, issues 1-3, 2025) via RePEc/IDEAS for sampling context.
+
+Early stop triggered: No — dedupe check found no existing skill for this journal; proceeded through full workflow.
+
+Deltas found: 4 dimensions
+1. Abstract length — HARD CONSTRAINT: ~150 words (stricter than generic finance-journal norm).
+2. Table/figure numbering and placement — HARD CONSTRAINT: sequential whole-paper numbering, placeholder tags instead of inline embedding.
+3. Replicability policy — ENFORCED, unusually literal/strict: papers must be replicable "anywhere else in the world," including embedded data "snippets," as a stated rejection criterion (not just a generic replication-package request). This is CFR's core editorial identity, confirmed via editor's own introduction to a replication-focused special volume.
+4. Editorial/introduction voice — PRACTICE ONLY, low-prevalence: editor's own special-volume introductions are notably informal/personal (first-person asides, self-deprecating footnotes) versus standard FIELD_SKILL register; not confirmed for standard research articles, whose abstracts read as normal, unhedged field-consistent prose.
+Also noted (structural, not a delta from FIELD_SKILL per se): CFR runs a distinctive named article type — direct replication/reanalysis papers and paired Critique + non-anonymous author Response — not covered by FIELD_SKILL's generic article structure.
+
+FIELD_SKILL overrides: abstract word limit (~150 words vs. field's 150-250); table/figure numbering scheme (sequential, non-inline) — both from Hard Constraints section.
+
+Access-limitation notes:
+- Primary nowpublishers.com AuthorInstructions and EditorialAims pages returned HTTP 403 on direct WebFetch; content was reconstructed from WebSearch result snippets/summaries of those same pages, which appear to quote the guidelines text directly (title-page/footnote rules, table/figure numbering, citation first-name rule, replicability policy, abstract word count, page/word bounds).
+- Editor's own submission page (cfr.ivo-welch.org/submit/) was successfully fetched and yielded additional detail (submission fee, review timeline, suitability screening, no-appeals policy) not present on the publisher page.
+- Full text of research articles is paywalled; sample is abstract/title-level for 5 of 6 items, consistent with the ABS 1 thin-access allowance in the task instructions. One full-text editorial (Welch 2019) was read in full, providing genuine voice/register evidence beyond abstracts.
+- This is a low-volume, low H-index journal (h-index 14, semi-annual); article sample size reflects genuine scarcity of accessible full text, not under-effort.

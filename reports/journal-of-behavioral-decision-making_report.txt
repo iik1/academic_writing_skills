@@ -1,0 +1,16 @@
+Journal: Journal of Behavioral Decision Making
+Slug: journal-of-behavioral-decision-making
+ABS: 3
+Field: PSYCH (GENERAL)
+
+Articles fetched: 0 full-text (all Wiley/ResearchGate/mirror fetches blocked); 4 titles/scope-level spot-checks via search snippets (bdm.2377, bdm.2388, bdm.2360, bdm.2357). One additional article (bdm.2201) located but not accessible (402). One NSF PAR PDF retrieved but unparseable by available tooling.
+Early stop triggered: yes — access chain exhausted after Wiley (402 on every URL: guidelines, guide.htm, productinformation, abstract pages, formal PDFs, author-manuscript PDFs), ResearchGate (403), and an institutional mirror (502). Continued with search-engine-extracted guideline text instead of true 15-article spot-check.
+
+Deltas found: 3
+ - Length: GUIDELINE ONLY — 10,000-word cap, word count required on page 1 and cover letter (FIELD_SKILL sets no limit).
+ - Citations: GUIDELINE ONLY — APA 6th edition specifically, with stated a/b same-year suffix and DOI/access-date rules.
+ - Structural Deviations: RELAXATION (ABS 3) — scope statement formally welcomes critical-review and theoretical-analysis submissions as first-class types alongside empirical IMRaD, broader than FIELD_SKILL's baseline framing.
+
+FIELD_SKILL overrides: none confirmed beyond the length and citation guideline constraints above (both GUIDELINE ONLY, not contradicted or confirmed in practice due to lack of full-text access).
+
+Access-limitation notes: All onlinelibrary.wiley.com fetches returned HTTP 402 in this environment (no institutional proxy). ResearchGate returned 403; an institutional PDF mirror returned 502. Guideline content was recovered only via search-engine-extracted snippets, which appear to quote the guidelines page directly (word limit, APA 6th ed., font requirements, ethics disclosure). Article-level style dimensions (voice, hedging, statistical reporting, citation density) could not be confirmed from primary text and are marked FIELD DEFAULT by convergence rule rather than positive observation. Abstract length (250 words) sourced from search snippet, not verified against primary guideline page.

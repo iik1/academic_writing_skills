@@ -1,0 +1,24 @@
+Journal: Policy and Practice in Health and Safety
+Slug: policy-and-practice-in-health-and-safety
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 1 full text (open-access accepted manuscript), plus 3 additional articles found only at title/metadata level (abstracts not retrievable due to publisher 403 blocking).
+Early stop triggered: No (dedupe check found no existing skill; proceeded through full research). However, the sample size (1 full text) is well below the 10-15 target due to hard access barriers documented below.
+
+Deltas found (4-5, low confidence, mostly PRACTICE ONLY / RELAXATION):
+- Citation style: Harvard author-date (no comma before year) rather than FIELD_SKILL's APA (Author, Year) convention.
+- Structural: no standalone Discussion section; thematic analysis sections flow directly into a single Conclusion; no numbered hypotheses/propositions.
+- Voice/theoretical framing: practice/policy-oriented critical review rather than theory-extension framing typical of FIELD_SKILL; consistent with ABS-1 relaxation of the field's theory-building expectation.
+- Headings: fully capitalized section headings rather than title case.
+- Journal also published short 2-page editorial/commentary pieces alongside standard articles (observed via reference metadata only, not independently verified).
+
+FIELD_SKILL overrides (Hard Constraints from guidelines): none confirmed — the journal's Instructions for Authors page was inaccessible (tandfonline.com returned HTTP 403 to all fetch attempts), and the journal was discontinued by IOSH after Vol 18 No 2 (2020), so no active guidelines page could be found via Wayback Machine (blocked in this environment) or elsewhere.
+
+Access-limitation notes:
+- tandfonline.com blocked all WebFetch attempts (HTTP 403) for every page tried: about-this-journal, current issue TOC, individual article abstract/full pages, and the general instructions-for-authors URL.
+- web.archive.org (Wayback Machine) is not fetchable in this environment.
+- The journal ceased publication in 2020 (IOSH discontinued it after Vol 18 No 2), which limits how "current" any conventions found would be, and explains why no live submission guidelines exist.
+- One full-text article was recovered via an author's institutional repository (Kingston/Greenwich, gala.gre.ac.uk), which provided reliable structure, citation-style, and voice evidence for a single paper (Umeokafor 2019).
+- Additional article titles/DOIs were found via search-engine snippets (Waterson 2019 editorial; two 2019-2020 Australian workplace articles) but their abstracts could not be retrieved due to the same 403 blocking, so no additional style evidence was extracted from them beyond bibliographic metadata.
+- Given these constraints, the skill file explicitly marks all findings as provisional/PRACTICE ONLY rather than confirmed journal-wide norms, per instructions to document limitations honestly rather than fabricate.

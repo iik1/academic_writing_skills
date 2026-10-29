@@ -1,0 +1,12 @@
+Journal: Business and Human Rights Journal
+Slug: business-and-human-rights-journal
+ABS: 1
+Field: ETHICS-CSR-MAN
+Articles fetched: 5 full front-matter fetches (abstract/keywords/headings/citation style) + several title/abstract snippets via search (~8 more scanned for convergence, not deep-fetched)
+Early stop triggered: No
+Deltas found: 2 dimensions
+  - Citations: ENFORCED — footnote/legal-citation system, not APA author-date (overrides FIELD_SKILL)
+  - Structural Deviations: PRACTICE ONLY — no H1/H2 or P1/P2 apparatus in doctrinal-legal articles; freely-named argument sections instead of Theory/Methods/Results template
+  - Other Journal-Specific Patterns: PRACTICE ONLY — lettered sub-list case-study subheadings (A., B., C.)
+FIELD_SKILL overrides: Citation style (footnotes vs. APA); word limit ceiling tighter than field default (12,000 vs up to 18,000) and footnotes count toward limit
+Access-limitation notes: Full-text of articles is paywalled; assessment relies on publicly visible abstracts, keywords, and section-heading lists via Cambridge Core pages, which was sufficient to establish the citation-style and structural deltas. The journal's dedicated "Style and Citation Guide" document was referenced by the author-instructions page but not independently locatable/fetchable as a standalone URL; citation-style conclusion instead drawn from consistent empirical observation across all articles checked. Journal draws submissions from both legal/doctrinal and management/empirical traditions; sample here skews doctrinal-legal (reflecting apparent majority of recent issues), so findings on structure may not fully generalize to the minority of quantitative empirical BHRJ articles.

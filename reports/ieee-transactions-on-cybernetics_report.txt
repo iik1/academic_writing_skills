@@ -1,0 +1,19 @@
+Journal: IEEE Transactions on Cybernetics
+Slug: ieee-transactions-on-cybernetics
+ABS: 3
+Field: OR&MANSCI
+
+Articles fetched: 4 full abstracts read (via WebSearch/PubMed snippets); 15 article titles surveyed from DBLP Vol. 55 No. 1 (Jan 2025) table of contents for topical/structural confirmation. Full text of any article was not accessible.
+
+Early stop triggered: Yes — deltas stabilized quickly (none beyond hard constraints already in author guidelines); IEEE Xplore itself returned HTTP 418 (blocked) on every direct fetch attempt, so all evidence came from WebSearch snippets, PubMed/ADS mirrors, and DBLP. Stopped after 4 abstracts + 15 titles once it was clear the journal follows FIELD_SKILL norms on voice, structure, argumentation, and reporting with no observed practice-only deltas.
+
+Deltas found: 0 stylistic deltas beyond FIELD_SKILL. All differences are administrative/hard-constraint items already stated in the author guidelines (abstract word count, page limits, IEEE citation numbering, figure/table formatting, conference-paper overlap rule, post-acceptance biography/photo requirement). No PRACTICE ONLY or RELAXATION deltas were observed in the sampled abstracts/titles.
+
+FIELD_SKILL overrides:
+- Abstract: 150-250 words, single paragraph, no equations/footnotes/references (FIELD_SKILL does not specify a word count)
+- Length: ~10 pages, hard cap 12 two-column pages, $175/page overage charge
+- Citations: IEEE numbered bracket style, listed in citation order
+- Conference-paper reuse rule: <75% original material rejected outright
+- Figures: one per page max, 4:1 legibility reduction, color print surcharge
+
+Access-limitation notes: IEEE Xplore blocked all direct WebFetch attempts (HTTP 418 "I'm a teapot"), preventing retrieval of full-text articles, Table of Contents pages, or the "About Journal" scope page directly from the publisher. Evidence was gathered via WebSearch result snippets, PubMed/NCBI listings, NASA ADS abstract mirrors, and DBLP's bibliographic index instead. This is sufficient for a delta-detection judgment (title patterns, abstract style, and stated guidelines all align cleanly with FIELD_SKILL) but means article full-text structural checks (e.g., exact heading order, presence/absence of a standalone Related Work section) could not be directly verified beyond what the field baseline already assumes.

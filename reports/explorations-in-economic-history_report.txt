@@ -1,0 +1,33 @@
+Journal: Explorations in Economic History
+Slug: explorations-in-economic-history
+ABS: 3
+Field: BUS HIST & ECON HIST
+
+Articles fetched: 9 (title/abstract-level detail; full text paywalled in all cases)
+  1. Bianchi-Vimercati, Lecce & Magnaricotte - "Persistent specialization and growth: The Italian land reform" (2026) - title/listing only
+  2. Xu - "Soaring in rationality: Bonds as a partial hedge against hyperinflation" (2026) - title/listing only
+  3. Vickers & Ziebarth - "Can the Great Compression be explained by Wartime Wage Controls?" (2025) - abstract summary
+  4. Cox & Figueroa - "The Inquisition and the decline of science in Spain" (2025) - abstract summary
+  5. Huesler - "Natural disasters, missing pupils: Evidence from colonial Jamaica's school system" (2025) - abstract summary
+  6. Artola Blanco & Gomez-Blanco - "Reassessing the great compression among top earners" (2025) - full abstract via RePEc
+  7. Stelzner & Darity - "The economic functions of extrajudicial violence in the Jim Crow South" (2026) - full abstract + JEL/keywords via RePEc
+  8. Carlson - "Durable consumption, bank distress, economic concerns..." (2025) - abstract summary
+  9. Collins, Ferrara & Fishback - special issue introduction on WWII impacts (2025) - full abstract via RePEc
+
+Early stop triggered: No. Stopped at 9 (not the target 15) because the delta set had clearly stabilised - every article sampled across 2025-2026 issues showed the same pattern (quantitative/econometric mode, quantified abstract findings, JEL codes + keywords), and full text was uniformly paywalled with no additional accessible open-access articles found via RePEc/search snippets beyond this set. Continuing would have yielded diminishing new information given convergence.
+
+Deltas found: 2
+  1. Statistical Reporting - PRACTICE ONLY: sampled articles are uniformly quantitative/econometric (identification strategies, quantified headline results, JEL codes, keywords) rather than the narrative/qualitative pole FIELD_SKILL describes as coexisting in the field. At this journal, quantitative economic history appears to be the dominant default, not one of two co-equal traditions.
+  2. Other Journal-Specific Patterns - PRACTICE ONLY: abstracts front-load the quantified finding and economic mechanism rather than opening with historiographical framing, a sharper results-forward convention than FIELD_SKILL's general abstract description.
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Abstract: unstructured, <=250 words, 1-7 keywords (journal-specific length; FIELD_SKILL does not specify numbers)
+  - Citations: name-year in-text format specified explicitly
+  - Length: short articles 10-14 ms pages + 2-3 tables/figures; survey articles 4,000-8,000 words
+  - Layout: single-column for Word, double-column only for LaTeX
+  (These are journal-specific formatting facts FIELD_SKILL explicitly says it does not cover, so not true "overrides" of field norms, just journal-level specifics.)
+
+Access-limitation notes:
+  - Direct WebFetch of the ScienceDirect guide-for-authors page returned HTTP 403 (paywall/bot-block); guidelines content was obtained via search-engine-extracted snippets referencing that same page.
+  - No full-text articles were accessible; all findings are based on abstracts, JEL codes, and keywords surfaced via IDEAS/RePEc and search snippets.
+  - Did not reach 15 articles; stopped at 9 due to convergence and exhaustion of readily accessible abstract-level sources for this journal within the current access chain.

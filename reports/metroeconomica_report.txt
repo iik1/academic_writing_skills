@@ -1,0 +1,33 @@
+Journal: Metroeconomica
+Slug: metroeconomica
+ABS: 1
+Field: ECON
+Articles fetched: 0 full-text; 18 article titles/metadata across 5 issues (RePEc/IDEAS: Vol 77 Iss 1-3, 2026; Vol 71 Iss 2-4, 2020)
+Early stop triggered: No (proceeded through full good-faith access chain; documented thin access rather than stopping early)
+
+Deltas found: 1 substantive delta
+  - Topical/Theoretical Orientation (PRACTICE ONLY): journal output skews strongly heterodox
+    (Post-Keynesian, Kaleckian, Sraffian/classical, evolutionary/agent-based growth-distribution
+    theory) rather than mainstream neoclassical/reduced-form empirical work assumed as FIELD_SKILL's
+    implicit backdrop.
+  - Tables/Figures submission mechanics (GUIDELINE ONLY): Wiley "Free Format" submission — figures/
+    tables embedded in one manuscript file at initial submission, no house template required.
+  All other dimensions (voice, citation format, hedging, abstract format, structure) recorded as
+  FIELD DEFAULT / Follows FIELD_SKILL norm — no contrary evidence found.
+
+FIELD_SKILL overrides: none identified (no confirmed conflicts; Free Format submission is a
+  mechanics relaxation, not a content override)
+
+Access-limitation notes:
+  - Wiley author guidelines page (onlinelibrary.wiley.com/page/journal/1467999x/homepage/forauthors.html)
+    returned HTTP 403 on direct fetch; content known only via a WebSearch snippet mentioning
+    "Free Format" submission and required abstract/keywords.
+  - Wiley journal homepage (onlinelibrary.wiley.com/journal/1467999x) returned HTTP 402 on direct fetch.
+  - WebSearch tool was intermittently "unavailable" during this session; several queries returned
+    error messages before succeeding on retry.
+  - No full-text articles or abstracts were accessible (all behind Wiley paywall); spot-check relied
+    entirely on RePEc/IDEAS and EconPapers title/author/issue listings, which do not expose abstracts.
+  - Given these constraints, findings are limited to journal scope, editorial identity, submission
+    mechanics (Free Format), and observed topical/theoretical concentration from titles. Statistical
+    reporting, citation density, and structural conventions could not be independently verified and
+    are recorded as following FIELD_SKILL by default rather than confirmed.

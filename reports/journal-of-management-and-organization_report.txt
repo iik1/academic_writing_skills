@@ -1,0 +1,47 @@
+JOURNAL SKILL GENERATION REPORT
+==============================
+
+Journal Name: Journal of Management and Organization
+Slug: journal-of-management-and-organization-writing-style
+ABS Rating: 2
+Field: ETHICS-CSR-MAN
+Publisher: Cambridge University Press
+
+ARTICLES FETCHED: 6
+- Remote work intensity and individual work performance (quantitative, Bayesian mediation)
+- Leading from afar (mixed-methods, scale development with CFA)
+- Dynamic ethical capabilities (theoretical/conceptual propositions)
+- Entrepreneurial resilience in polycrisis (mixed-methods, inductive theory building)
+- Technological change editorial (conceptual synthesis)
+- Digitalization and employee well-being (qualitative expert panel, fuzzy-TISM)
+
+EARLY STOP TRIGGERED: No. Full author guidelines not accessible online (Cambridge Core pages partially rendered), but sufficient article sample (6 articles, 2025-2026, diverse methods) allows confidence in observed norms.
+
+DELTAS FOUND: 6 dimensions with journal-specific deviations from mgmt-field-writing-style baseline
+
+1. Abstract Format (GUIDELINE ONLY): Shorter range (145-180 words observed vs. 150-250 field baseline); always unstructured narrative, no subsection labeling.
+
+2. Citation Density in Discussion (PRACTICE ONLY): Heavier engagement; 4-6 citations per substantial paragraph integrated throughout Discussion vs. field baseline of more clustered citation patterns.
+
+3. Conceptual/Theoretical Articles (RELAXATION): Shorter forms (3,000-6,000 words for editorials/perspectives vs. 8,000-14,000 field baseline); fewer propositions (3-5 typical); more reliance on direct definitional quotations; stronger forward-agenda emphasis.
+
+4. Voice in Methodology (PRACTICE ONLY): Greater passive voice and third-person reference in Methods sections vs. field baseline "we" dominance. Reflects Cambridge house style for procedural clarity.
+
+5. Results/Findings Integration in Mixed-Methods (PRACTICE ONLY): Fluid weaving of quant and qual results ("Survey showed X; case study illustrated through [quote]") vs. segregated Results→Findings field pattern.
+
+6. Hard Constraint—Submission Protocol (ENFORCED): Double-blind review requires separate anonymized title page (uploaded independently) with competing interests, word count, author details. Main manuscript must be author-stripped. ScholarOne Manuscripts platform mandatory.
+
+FIELD_SKILL OVERRIDES: None—no hard constraints conflict with baseline. All deltas are relaxations (shorter abstracts/conceptual pieces) or practice variations (citation density, voice in Methods).
+
+ACCESS LIMITATIONS:
+- Cambridge Core's full author guidelines pages (e.g., "Preparing your materials") did not render complete formatting details in WebFetch attempts.
+- Inferred formatting norms from 6 full open-access articles (all published 2025-2026, all open-access per Cambridge's February 2025 policy change).
+- No explicit word limits, abstract word counts, or citation format details found in publicly accessible guidelines; derived from observed articles.
+- Journal submission system (ScholarOne Manuscripts) contains full guidelines but is not publicly browsable without account login.
+
+CONFIDENCE: Moderate-high for observed norms (6 recent articles, consistent patterns across quantitative, qualitative, mixed-methods, and conceptual pieces). Lower confidence for unstated hard constraints (word limits, abstract format) due to inaccessible guidelines—inferred from practice rather than policy documents.
+
+ARTICLE SOURCES VERIFIED:
+All 6 articles confirmed as open-access (2025-2026) through Cambridge Core homepage and individual article pages. No paywalled content required for spot-check.
+
+FILE STATUS: Skill file written to skills/mgmt/journal-of-management-and-organization_SKILL.md

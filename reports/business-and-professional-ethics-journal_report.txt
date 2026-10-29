@@ -1,0 +1,19 @@
+Journal: Business & Professional Ethics Journal
+Slug: business-and-professional-ethics-journal
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 0 full-text (1 article title/topic identified via search snippet only, no abstract/full-text access)
+Early stop triggered: No (not due to dedupe — task proceeded to completion; effectively stopped early on article sampling due to access blocks, documented below)
+
+Deltas found: 0 confirmed deltas. One low-confidence structural note (PRACTICE ONLY / inference, not confirmed against full text): BPEJ's scope explicitly solicits continental and Anglo-American philosophical argument papers, suggesting the FIELD_SKILL "Theoretical/Conceptual" template (propositions, not hypotheses) may be the closer fit for non-empirical submissions. Not verified against actual published articles.
+
+FIELD_SKILL overrides: none confirmed (guidelines page inaccessible; no HARD_CONSTRAINTS could be extracted)
+
+Access-limitation notes:
+- The journal's submission guidelines page (pdcnet.org/bpej/Submission-Guidelines) returned HTTP 403 Forbidden on every fetch attempt.
+- All PDCNet.org content pages and PDF links (article full text, online-first listing) returned HTTP 403.
+- JSTOR (jstor.org/journal/busiprofeethijou) returned HTTP 403.
+- ResearchGate article page returned HTTP 403.
+- Only journal-level background (Wikipedia, DePaul Institute page) and one article title/topic (via WebSearch snippet, no abstract) were accessible.
+- This is a genuinely thin-access case: publisher platform blocks automated fetching entirely. The resulting skill file is intentionally short and flags all HARD_CONSTRAINTS and delta sections as "not verified" rather than fabricating content. Recommend revisiting with institutional/EZProxy access if this journal becomes a priority.

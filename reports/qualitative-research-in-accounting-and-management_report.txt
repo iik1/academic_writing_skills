@@ -1,0 +1,101 @@
+JOURNAL SKILL GENERATION REPORT
+================================
+
+Journal: Qualitative Research in Accounting and Management
+Slug: qualitative-research-in-accounting-and-management
+ABS Rating: 2
+Field: ACCOUNT
+Publisher: Emerald Group Publishing Limited
+
+SUMMARY
+-------
+Skill file created: qualitative-research-in-accounting-and-management_SKILL.md
+Location: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/accounting/qualitative-research-in-accounting-and-management_SKILL.md
+
+ARTICLES FETCHED
+----------------
+7 articles examined (good-faith sample for ABS 2 journal):
+- Gendron, Y. (2024). "The audit society: opening up a meaningful epistemological agenda." Vol. 21 No. 1
+- Stevenson, J. et al. (2024). "Utilisation of voluntary disclosure via social media as a strategic response to COVID-19." Vol. 21 No. 5
+- Luke, B. (2024). "Three approaches to interviews: tell me about you, them, 'fictitious' others." Vol. 21 No. 5
+- Hofer, A., Aschauer, E., Velte, P. (2024). "Sustainability-oriented targets in executive compensation..." Vol. 21 No. 5
+- Grossi, G., Steccolini, I. et al. (2023). "The future of public sector accounting research. A polyphonic debate." Vol. 20 No. 1
+- Heinzelmann, R. (2016). "Making up performance: the construction of 'performance' in venture capital firms' portfolios." Vol. 13 No. 4
+- IDEAS/RePEc index articles for structural patterns
+
+Rationale: ABS 2 journals are lower-tier; 7 articles is a reasonable sample when full-text access is paywalled. Abstracts, metadata, and article excerpts sufficient to identify structural and stylistic conventions.
+
+EARLY STOP TRIGGERED
+--------------------
+No. Full analysis completed.
+
+DELTAS FOUND
+------------
+4 significant deltas identified and documented:
+
+1. Qualitative-Focused Scope and Methodology Emphasis (RELAXATION)
+   - Journal explicitly accepts ethnographic, case study, interview-based, and interpretive research
+   - Conceptual and viewpoint articles also accepted
+   - Differs from FIELD_SKILL baseline (which encodes quantitative/archival/experimental norms)
+
+2. Structured Abstract with Originality/Value Statement (ENFORCED)
+   - Mandatory 250-word structured abstract (Purpose | Design/Methodology | Findings | Originality/Value)
+   - Follows Emerald publisher standard across all journals
+   - Differs from some accounting journals using unstructured abstracts
+
+3. Conceptual and Viewpoint Articles Accepted (PRACTICE)
+   - Evidenced by Gendron (2024) position piece and editorial guidance
+   - Not systematically addressed in FIELD_SKILL
+
+4. Interview-Based and Ethnographic Research as Primary Methodologies (PRACTICE)
+   - High prevalence of qualitative fieldwork methods in recent issues
+   - Differs from FIELD_SKILL emphasis on archival/experimental work
+
+FIELD_SKILL OVERRIDES
+---------------------
+None. FIELD_SKILL baseline for voice, citation practices, argumentation structure, hedging, and limitations acknowledgment all confirmed as applicable. The journal operates within FIELD_SKILL conventions while relaxing methodological scope to explicitly accommodate qualitative research.
+
+ACCESS LIMITATIONS
+------------------
+Full author guidelines (at emeraldgrouppublishing.com/products/journals/author_guidelines.htm?id=qram) are paywalled (HTTP 403). Word count limits for QRAM manuscripts not explicitly documented in public sources; inferred from Emerald standard practice (8,000–12,000 words typical) and support documentation. Structured abstract (250 words) and citation style (Harvard author-date) confirmed via Emerald publisher standard.
+
+Journal metadata (metadata, abstracts, and article titles) accessible via:
+- Emerald Publishing portal (public)
+- IDEAS/RePEc index (public)
+- Web search results and article summaries
+
+Specific formatting guidelines available only through ScholarOne submission portal during manuscript upload.
+
+HARD CONSTRAINTS DOCUMENTED
+----------------------------
+✓ Structured abstract format (250 words, Purpose | Design/Methodology | Findings | Originality/Value)
+✓ Citation style (Harvard author-date)
+✓ Article types accepted (empirical, conceptual, reviews, viewpoints)
+✓ Submission method (ScholarOne only; no email)
+✓ Double-blind peer review process
+✓ Generative AI for copy-editing permitted (if disclosed)
+✓ Heading conventions (varies; consult recent published articles)
+✓ Table/figure placement (after text or appendix with descriptive captions)
+
+DELTAS VERSUS FIELD_SKILL
+-------------------------
+Dimensions with NO delta (using FIELD_SKILL baseline):
+- Voice and person (first-person plural "we"; active voice)
+- Sentence and paragraph style (medium-long sentences; dense prose in theory sections)
+- Citation density patterns (high introduction; low results; medium conclusion)
+- Limitations acknowledgment (explicit, detailed)
+- Argumentation structure (CARS model: significance → gap → study → results → contributions)
+
+Dimensions WITH delta:
+- Methodological scope (RELAXATION: explicit acceptance of qualitative/interpretive methods, not quantitative focus)
+- Abstract format (ENFORCED: structured with Originality/Value section)
+- Article types (PRACTICE: conceptual and viewpoint pieces common)
+- Qualitative fieldwork prevalence (PRACTICE: higher than in FIELD_SKILL baseline)
+
+ASSESSMENT
+----------
+QRAM occupies the ABS 2 tier and maintains strong alignment with the ACCOUNT field baseline for writing conventions (argumentation, voice, citation). Its primary differentiation is methodological: it is an explicitly qualitative journal and thus relaxes (rather than redefines) the baseline. Authors accustomed to FIELD_SKILL conventions will find themselves on familiar ground; the main adjustment is accepting that qualitative research design, ethnographic methodology, and interview-based findings are the norm—not archival/experimental quantitative work.
+
+The journal's emphasis on structured abstracts and the requirement for an explicit Originality/Value statement are mandatory per Emerald publisher standard, not journal-specific innovations.
+
+The skill document is concise (short file = few deltas) and appropriate for ABS 2 tier and narrow differentiation from field baseline.

@@ -1,0 +1,17 @@
+Journal: Journal of Industrial Economics
+Slug: journal-of-industrial-economics
+ABS: 3
+Field: ECON
+Articles fetched: 10 (abstract/front-matter level only; full text paywalled on Wiley Online Library, which returned HTTP 402 on all direct fetch attempts)
+Early stop triggered: No — stopped at 10 because the delta set had stabilized (no new deltas emerged after article 6-7); guidelines page itself provided most of the hard-constraint detail.
+
+Deltas found (5):
+1. Voice/Register — single authors instructed to use "I" not "we" and direct phrasing ("I find" vs "this paper finds"); multi-author papers still use "we" (matches FIELD_SKILL). RELAXATION/refinement, ENFORCED for single-author case.
+2. Abstract Format — hard 100-word cap (JEL standard), no equations/diagrams/footnotes, must state geographic scope, central message in first sentence. ENFORCED, confirmed by abstract length/format across all sampled articles.
+3. Structural Deviations — empirical/case-study papers explicitly required to have a sound theoretical base, not pure description. ENFORCED per guidelines, consistent with sampled articles (Moschini & Perry, Siebert et al., Scott & Qin all pair empirics with explicit theory/structural models).
+4. Other Journal-Specific Patterns — Roman-numeral headings with minimized subsectioning (II(i), II(ii) notation). GUIDELINE ONLY, not independently verifiable from abstracts.
+5. Citations — square-bracket year citations (not standard parenthetical author-year), full (unabbreviated) journal titles in references. ENFORCED per guidelines.
+
+FIELD_SKILL overrides: Abstract format entirely (FIELD_SKILL is silent on abstract mechanics); single-author "I" vs "we" convention; theory-grounding requirement for empirical work strengthened beyond FIELD_SKILL baseline.
+
+Access limitation notes: Wiley Online Library (onlinelibrary.wiley.com) returned HTTP 402 Payment Required on every direct WebFetch attempt (guidelines page and all individual article pages), so all guideline and abstract content was obtained via WebSearch result summaries (which surface publisher/SSRN/NBER/RePEc/CESifo abstract text) rather than direct full-text fetches. The ULB mirror of the instructions-to-authors page (jindec.ulb.ac.be) was fetchable directly and provided the bulk of the Hard Constraints detail. No full-text article bodies were accessed; all article-level observations are based on abstracts and metadata only, which is sufficient for the abstract-format and voice deltas but limits confidence on in-body structural/heading conventions (labeled GUIDELINE ONLY where unverified).

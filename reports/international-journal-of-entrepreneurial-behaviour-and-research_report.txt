@@ -1,0 +1,43 @@
+Journal: International Journal of Entrepreneurial Behaviour and Research
+Slug: international-journal-of-entrepreneurial-behaviour-and-research
+ABS: 3
+Field: ENT-SBM
+
+Articles fetched: 5 with full structured abstracts (via WebFetch), plus
+~40 titles/snippets from two full issue tables of contents (Vol. 30
+Issue 2-3; Vol. 31 Issue 11). Target of 15 distinct articles not fully
+reached with full-text/full-abstract detail because the direct
+author-guidelines page (emerald.com/ijebr/pages/author-guidelines)
+returned 404 and emeraldgrouppublishing.com/journal/ijebr returned 403
+in this environment; article-abstract pages were accessible via WebFetch
+for a subset. Delta set stabilized after the sampled abstracts converged
+on the standard Emerald structured-abstract format with no further new
+deltas emerging.
+
+Early stop triggered: No (continued until access chain exhausted; delta
+set had stabilized).
+
+Deltas found: 2
+  1. Structural Deviations - reliance on themed special issues with Guest
+     Editorials (PRACTICE ONLY).
+  2. Other Journal-Specific Patterns - mandatory structured abstract
+     format (Purpose/Design-methodology-approach/Findings/[Research
+     limitations-implications]/[Practical implications]/Originality-value)
+     replacing FIELD_SKILL's ABS 4/4* unstructured prose abstract norm
+     (RELAXATION / Emerald house-format requirement, ENFORCED).
+
+FIELD_SKILL overrides: Abstract format only (structured abstract
+supersedes FIELD_SKILL's prose-abstract description). No other field
+baseline dimensions were overridden; voice, argumentation, methods,
+results reporting, discussion structure, citation practice, and hedging
+all follow FIELD_SKILL norms (FIELD DEFAULT).
+
+Access-limitation notes: Could not access the dedicated IJEBR author
+guidelines page directly (403/404 errors on both
+emeraldgrouppublishing.com/journal/ijebr and
+emerald.com/ijebr/pages/author-guidelines). Word/page limits and
+citation-style specifics for IJEBR specifically were not confirmed beyond
+generic Emerald-wide conventions found via WebSearch snippets. No
+full-text articles were accessible (all paywalled beyond abstract pages),
+consistent with expected access limitations for an Emerald ABS-3 title
+without institutional proxy access.

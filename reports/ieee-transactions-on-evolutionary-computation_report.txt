@@ -1,0 +1,23 @@
+Journal: IEEE Transactions on Evolutionary Computation
+Slug: ieee-transactions-on-evolutionary-computation
+ABS: 4
+Field: OR&MANSCI
+Publisher: IEEE (IEEE Computational Intelligence Society)
+
+Articles fetched: 4 confirmed IEEE-TEVC-accepted preprints (via arXiv abstract/comments pages), plus 1 additional arXiv paper referenced in TEVC-related search results without independently confirmed acceptance, plus a Vol. 29 Issue 4 table-of-contents page (titles only, no abstracts). Full text of published articles was not accessible anywhere (IEEE Xplore returns HTTP 418 to automated fetch for all attempted document URLs). Target of 15 was not reached; access chain (IEEE Xplore, CIS guideline pages, mc.manuscriptcentral.com submission portal) was exhausted — all directly IEEE-hosted pages blocked automated access (418/403 errors). Relied on arXiv preprints explicitly marked "Accepted by IEEE TEVC" in their Comments metadata field as the best available substitute for spot-checking style/structure.
+
+Early stop triggered: Yes — access chain exhausted after IEEE Xplore (418), CIS guidelines pages (418), and ScholarOne submission portal (403) all blocked automated fetch. Continued via arXiv preprints and WebSearch snippets instead of abandoning the journal.
+
+Deltas found: 3
+1. Citations — IEEEtran numbered bracket in-text citation style (ENFORCED, IEEE house style; FIELD_SKILL is silent on numbering mechanism)
+2. Structural — three formal article-length tiers (Regular papers 10/15pp, Letters 6/9pp, Survey papers 15/21pp) with mandatory over-length page charges (ENFORCED, stated in guideline search snippets)
+3. Code/data availability as de facto practice in abstracts (PRACTICE ONLY — observed in all 4 sampled accepted papers, not confirmed as a mandatory written guideline)
+
+FIELD_SKILL overrides: Citation numbering convention (numbered brackets vs. unspecified/prose citation); article-length/type tiering (Letters as distinct short-form track not present in FIELD_SKILL's single-structure assumption).
+
+Access-limitation notes:
+- cis.ieee.org guideline pages returned HTTP 418 ("I'm a Teapot") to WebFetch on all attempts — likely active bot-blocking. All guideline facts (page limits, page-charge amounts, reference/caption placement rules, double-blind review note) were recovered only via WebSearch's own extracted snippets of these pages, not via direct page fetch.
+- ieeexplore.ieee.org document pages (e.g., /document/10772359, /document/9844885, /document/10488012) all returned either HTTP 418 or empty content to WebFetch — no full-text or even front-matter could be retrieved directly from IEEE Xplore.
+- mc.manuscriptcentral.com (ScholarOne submission portal) returned HTTP 403.
+- PDF rendering tool (pdftoppm/poppler) was unavailable in this environment, so downloaded arXiv PDFs could not be visually inspected page-by-page; relied on WebFetch's text/metadata extraction and separate arXiv abstract (HTML) pages instead.
+- A third-party blog (manusights.com) surfaced in search results with claims about TEVC submission requirements (e.g., "read like a transactions paper rather than a conference extension," specific required cover-letter language); this source was treated as low-confidence/non-authoritative and excluded from HARD_CONSTRAINTS, since it could not be corroborated against any IEEE-official page and has characteristics of AI-generated SEO content.

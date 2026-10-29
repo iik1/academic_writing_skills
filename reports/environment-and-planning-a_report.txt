@@ -1,0 +1,25 @@
+Journal: Environment and Planning A: Economy and Space
+Slug: environment-and-planning-a
+ABS: 3
+Field: REGIONAL STUDIES, PLANNING AND ENVIRONMENT
+
+Articles fetched: 11 with abstract/keyword content (1 had no abstract available), plus 5 additional titles from current TOC listing (16 items touched total). Sample drawn from IDEAS/RePEc mirrors (journals.sagepub.com TOC/article pages returned HTTP 403 directly) and one Studocu-hosted excerpt.
+
+Early stop triggered: No — sample size was capped by access constraints (direct SAGE pages blocked), not by delta convergence. Deltas were still marginal/PRACTICE-level at stop point; a larger accessible sample might refine the voice-register finding but is unlikely to overturn the hard constraints already fully confirmed from the official guidelines page.
+
+Deltas found (3 dimensions):
+1. Voice and Register — PRACTICE ONLY / low-moderate prevalence. Abstracts skew third-person descriptive more than FIELD_SKILL's "both accepted" framing suggests; one short single-author Exchange-type piece used first-person singular. Sample limited to abstract-level text.
+2. Structural Deviations — ENFORCED. Journal has distinct Commentary and Exchanges submission tracks (shorter, internally reviewed, not full double-anonymized peer review) not covered by FIELD_SKILL.
+3. Other Journal-Specific Patterns — GUIDELINE ONLY. Explicit "pluralist and heterodox" self-framing in scope statement, stronger signal than field baseline's methodological-hybridity description.
+
+FIELD_SKILL overrides (Hard Constraints from guidelines, all confirmed against the official author-instructions page):
+- Word limit 7000-9500 words (Original Manuscripts), all-inclusive count with visual aids converted to word-equivalents (500 words/page)
+- Unstructured abstract, max 250 words; min 3 keywords
+- Sage Harvard reference style specifically (not generic author-date)
+- Double-anonymized review with mandatory title-page "Statements and Declarations" sub-heading block
+- Commentary (1000-3000 words) and Exchanges (2500-4500 words) as distinct manuscript types with internal (non-standard) review
+
+Access-limitation notes:
+- journals.sagepub.com/author-instructions/epn returned 403 on direct WebFetch; guidelines were instead obtained via a cached/mirrored PDF render found through web search, which provided full text.
+- journals.sagepub.com TOC and article abstract pages (direct) returned 403 consistently; all article-level content was retrieved via IDEAS/RePEc (ideas.repec.org/s/sae/envira.html and individual article pages), which mirrors SAGE Economics journal abstracts, plus one Studocu-hosted excerpt for an older article.
+- No full manuscript text was accessible for any sampled article; all findings on voice, structure, and framing are based on abstracts, keywords, and (for TOC-only items) titles alone.

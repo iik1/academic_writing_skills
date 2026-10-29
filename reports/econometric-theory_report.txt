@@ -1,0 +1,18 @@
+Journal: Econometric Theory
+Slug: econometric-theory
+ABS: 4
+Field: ECON
+
+Articles fetched: 27 total (20 from FirstView listing, 8 from Volume 42 Issue 3 latest-issue listing; abstract/title-level access only, no full text)
+Early stop triggered: No (sample continued past 15 through natural batch size of the two listing pages fetched; deltas stabilized around theorem-proof scope/structure and abstract word cap, no new deltas emerged in the second batch)
+
+Deltas found: 4 dimensions
+  1. Structural Deviations (ENFORCED) - no empirical Intro/Data/Identification/Results architecture; theorem/proof-centric organization; distinct Miscellanea short-paper tier (<20pp, ~15pp typical) alongside full Articles
+  2. Abstract length (ENFORCED, HARD_CONSTRAINT) - strict <150 words, tighter than field norm
+  3. Citation first-mention rule (ENFORCED, HARD_CONSTRAINT) - all authors' names required at first citation, "et al." only thereafter
+  4. Statistical Reporting scope shift (PRACTICE ONLY, driven by ENFORCED scope) - "results" are asymptotic/mathematical properties, not empirical magnitudes; FIELD_SKILL's quantitative-magnitude reporting norm does not apply
+  Minor/noted only: ET Interview non-standard content type (PRACTICE ONLY, low frequency)
+
+FIELD_SKILL overrides: Abstract word limit (150 words vs. field's unspecified/looser norm); citation first-mention author list rule (no et al. truncation on first citation)
+
+Access-limitation notes: Journal guidelines pages (instructions-contributors, submitting-your-materials) were publicly accessible via WebFetch and yielded manuscript prep and submission requirements but no explicit rules on theorem/proof formatting, footnote conventions, or table/figure formatting beyond generic PDF-embedding requirements - these are presumed to follow standard mathematical-econometrics convention absent explicit journal statement. Full text of sampled articles was not accessible (paywalled); all article-level observations are based on titles and publisher-provided abstracts only, consistent with task instructions. No access to older/print-only back issues beyond the two listing pages fetched (FirstView and latest issue).

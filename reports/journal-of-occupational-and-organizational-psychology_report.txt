@@ -1,0 +1,19 @@
+Journal: Journal of Occupational and Organizational Psychology
+Slug: journal-of-occupational-and-organizational-psychology
+ABS: 4
+Field: PSYCH (WOP-OB)
+
+Articles fetched: 6 (2 full text via EconStor open-access PDFs; 4 via detailed abstract/practitioner-point snippets from search engines and one institutional repository page). Wiley/BPS Psychub domains consistently returned HTTP 402 Payment Required on direct WebFetch, so all Wiley-hosted content was accessed indirectly via WebSearch snippets or third-party open-access mirrors (EconStor, oparu.uni-ulm.de).
+
+Early stop triggered: No — stopped at 6 due to access-chain exhaustion (Wiley paywalled; EconStor/RePEc mirrors only cover a subset of open-access JOOP articles), not because deltas had stabilised prematurely. Deltas did stabilise across the 6 articles examined (consistent unstructured abstract, consistent Practitioner Points box, consistent APA/CRediT/Data Availability elements).
+
+Deltas found: 3 dimensions
+1. Structural Deviations — mandatory Practitioner Points box (2-4 bullets) after abstract (ENFORCED: stated in guidelines, confirmed in both full-text articles and one additional abstract-level source).
+2. Other Journal-Specific Patterns — visible "Complementary/Exploratory Analyses" robustness section retained in main text rather than pushed entirely to supplement (PRACTICE ONLY, observed in both full-text articles).
+3. Other Journal-Specific Patterns — Data Availability Statement / Transparency and Openness statement and CRediT-style Author Contributions as standard end-of-paper elements (ENFORCED at policy level per guidelines' data-archiving expectation; PRACTICE ONLY confirmation limited to 2 full-text articles).
+
+Additional HARD_CONSTRAINTS captured: 8,000-word limit (appendices included in count, abstract/references/tables/figures excluded); Short Research Notes article type capped at 2,000 words including abstract; unstructured single-paragraph abstract; APA citation style per guidelines.
+
+FIELD_SKILL overrides: None that contradict FIELD_SKILL substantively — the journal tightens/adds requirements (Practitioner Points, word limits, unstructured abstract) rather than redefining field norms, consistent with its ABS 4 status.
+
+Access-limitation notes: All bpspsychub.onlinelibrary.wiley.com and onlinelibrary.wiley.com URLs returned HTTP 402 on direct WebFetch (no EZProxy available in this environment). Guidelines content was reconstructed from WebSearch result snippets/summaries rather than a single authoritative page fetch. Full text was obtained for exactly 2 articles via EconStor open-access mirrors (CC-BY / CC-BY-NC-ND licensed open-access articles); remaining spot-checked articles relied on abstract/practitioner-point text surfaced in search snippets, which is sufficient per task instructions for judging structural/voice deltas but does not permit word-count or sentence-level stylistic verification beyond what FIELD_SKILL already covers.

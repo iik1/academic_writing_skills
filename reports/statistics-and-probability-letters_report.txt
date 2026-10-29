@@ -1,0 +1,16 @@
+Journal: Statistics and Probability Letters
+Slug: statistics-and-probability-letters
+ABS: 2
+Field: ECON
+Articles fetched: 3 full-text (open PDFs via author faculty pages) + 1 guidelines page (WebSearch-extracted, direct fetch 403'd) + RePEc TOC listing for topical corroboration
+Early stop triggered: No (dedupe check found no existing skill; no early-stop needed given 3 full-text articles were successfully retrieved)
+
+Deltas found: 4 dimensions
+- Structural Deviations (ENFORCED/PRACTICE ONLY): no standalone Related Literature section; dense numbered Theorem/Lemma/Proof/Definition/Remark environments as primary body structure; proofs inline or in final section/Appendix (no fixed convention); roadmap paragraph near-universal even in short notes; standalone Conclusion sometimes absent entirely (RELAXATION of FIELD_SKILL near-universal-conclusion expectation)
+- Citation Density (PRACTICE ONLY): markedly thinner reference lists (10-25 items) and compressed literature positioning vs. ABS 4*/4 baseline (RELAXATION consistent with ABS 2 tier)
+- Voice/Register (PRACTICE ONLY, low prevalence): self-referential "note" framing in 1/3 articles
+- Other Journal-Specific Patterns (PRACTICE ONLY, 3/3): MSC classification codes alongside keywords; formally numbered Assumption objects parallel to theorems
+
+FIELD_SKILL overrides: Page limit hard cap of 6 journal pages (~13 double-spaced pages) including references/figures; no empirical IMRAD structure applicable (this is a pure theory/mathematical-statistics venue, not applied economics)
+
+Access-limitation notes: Direct WebFetch to the ScienceDirect guide-for-authors page returned HTTP 403 (paywalled/blocked); guideline details were obtained via WebSearch-extracted summaries instead. Could not access ScienceDirect abstract pages directly for additional spot-checks; relied on 3 open-access full-text PDFs hosted on authors' personal faculty pages (Colorado State, Purdue, IIT Delhi), which is a smaller sample than the 10-15 target but each was full-text (not just abstract), giving high-confidence structural observations. Additional article titles from RePEc/IDEAS (2026 volumes 235-237) were used only for topical corroboration, not stylistic analysis, since full text was unavailable for those.

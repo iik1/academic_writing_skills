@@ -1,0 +1,28 @@
+DELTA DETECTION REPORT
+Journal of Forensic and Investigative Accounting (previously Journal of Forensic Accounting)
+
+Journal Name: Journal of Forensic and Investigative Accounting (previously Journal of Forensic Accounting)
+Slug: journal-of-forensic-and-investigative-accounting-previously-journal-of-forensic-accounting
+ABS Rating: 1
+Field: ACCOUNT
+Publisher: NACVA (National Association of Certified Valuators and Analysts)
+Articles Fetched: 1 full-text article (Volume 16, Issue 1, 2024); limited to single article due to access restrictions
+
+Early Stop Triggered: NO
+- Rationale: ABS 1 journal with niche focus permits good-faith assessment from single well-representative article plus NACVA website information. Article is recent (2024), substantial (34 pages with exercises), and demonstrates clear pedagogical methodology aligned with journal scope. Additional articles attempted but paywalled or certificate-mismatched.
+
+Deltas Found: 3 major dimensions identified
+1. Scope and methodological openness (PRACTICE EMPHASIS) — Journal welcomes applied, practice-oriented, and teaching-focused research alongside empirical work
+2. Integration of pedagogical and implementation sections (JOURNAL-SPECIFIC PRACTICE) — Explicit "Learning Objectives," "Implementation Guidance," and exercise sections encouraged
+3. Extensive regulatory and professional standards citation (PRACTICE EMPHASIS) — Heavy grounding in PCAOB, AICPA, and forensic standards relative to FIELD_SKILL baseline
+
+FIELD_SKILL Overrides: NONE
+- Hard constraints in guidelines align with FIELD_SKILL baseline (author-date citations, Roman numeral headings, structured abstract, standard article structure). No overrides detected.
+
+Access Limitations and Methodology Notes:
+- Official NACVA "Guidelines for Manuscript Preparation (PDF)" and "Editorial Policy and Style Information (PDF)" referenced on journal homepage but PDFs not directly accessible via automated fetch
+- Full-text article access limited: 2024 S3-hosted PDFs have certificate issues; earlier volumes (2020–2022) on deprecated web.nacva.com domain with certificate mismatches
+- Spot-check based on single recent, high-quality, representative article (Fico & Walsh 2024, 34 pages) supplemented with NACVA website information, author guidelines webpage content, and article metadata
+- ABS 1 tier: Lower publication volume than ABS 4*/4 journals; single substantial article acceptable for delta detection given good-faith exhaustion of access options
+
+Verification: All reported deltas supported by evidence from the Vol. 16, 2024 article structure, section headings, content organization, and explicit statements of scope on NACVA website

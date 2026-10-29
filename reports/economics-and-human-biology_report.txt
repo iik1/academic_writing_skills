@@ -1,0 +1,103 @@
+JOURNAL SKILL REPORT
+====================
+
+Journal: Economics and Human Biology
+Slug: economics-and-human-biology-writing-style
+ABS Rating: 2
+Field: ECON
+Publisher: Elsevier
+
+RESEARCH SUMMARY
+================
+
+Articles Examined: 5+ (limited to visible abstracts/titles from IDEAS/RePEc, ScienceDirect listings, and Wikipedia entry for 2026 volume)
+  - Bui, Thao: "The legacy of Agent Orange: Prenatal exposure to dioxin and human capital formation"
+  - Noghanibehambari et al.: "The relationship between oil production and infant health outcomes: Evidence from fracking boom"
+  - Cantarella et al.: "Biases in medical decision-making: A cross-medication comparison"
+  - Celidoni et al.: "Seasonal influenza vaccination uptake and digital literacy: Evidence from European data"
+  - Matteazzi & Prete: "The role of parenting style and socio-economic status in child development"
+
+Access Limitation: Full text articles are behind ScienceDirect paywall. Research based on publicly available abstracts, article titles, journal metadata, and general Elsevier author guidelines standards.
+
+AUTHOR GUIDELINES FINDINGS
+==========================
+
+Hard Constraints Identified (from public sources):
+1. Citation format: Name-year (Author, Year) format required
+2. Abstract length: 150-250 words (Elsevier standard)
+3. Structure: Abstract, Keywords, Introduction, Methods, Results, Conclusions
+4. Submission format: Word (.doc/.docx) or PDF at submission; LaTeX (.tex) acceptable
+5. Ethics: Declaration of Helsinki compliance required for human subjects; competing interests disclosure mandatory
+6. Equations: Editable text only, not images; solidus (/) for fractions
+
+Word/Page Limits: NOT FOUND in public guidelines
+Detailed Stylistic Norms: DEFERRED (paywall blocks access to full guide)
+
+DELTA ANALYSIS
+==============
+
+From Field Baseline (econ-field-writing-style):
+
+1. Citation Density (PRACTICE ONLY / LIMITED EVIDENCE)
+   - Health/biology focus may reduce citation density in results vs. top-tier econ journals
+   - Consistent with interdisciplinary health economics publishing, not a violation of field norm
+   - Observed in article titles/abstracts but not quantitatively verified
+
+2. Scope and Methodology (RELAXATION)
+   - ABS 2 rating (lower tier) accepts more observational, descriptive, and mixed-methods work
+   - Causal identification standards likely less rigorous than ABS 4* journals
+   - More inclusive of correlational and associational studies
+   - Consistent with health economics/public health publishing norms
+
+3. All Other Dimensions: FIELD DEFAULT
+   - Voice and person: first-person plural standard
+   - Sentence/paragraph style: follows field norm
+   - Argumentation: introduction structure as expected (results announced upfront)
+   - Methods: past tense for procedures, present tense for theory
+   - Results reporting: tables primary, quantitative specificity
+   - Discussion/conclusion: short relative to introduction
+   - Hedging: low overall; specific caution for identification limits
+
+Field Baseline Overrides: NONE
+  (Journal respects all FIELD_SKILL conventions; no explicit conflicts found)
+
+EARLY STOP TRIGGERED: NO
+  (Completed good-faith research within access constraints; sufficient deltas identified to justify skill file)
+
+DELTAS FOUND: 2 DIMENSIONS
+  1. Citation Density (low-prevalence practice, not enforced norm)
+  2. Scope and Methodology (relaxation of causal rigor for ABS 2 tier)
+
+COMMON PITFALLS DOCUMENTED: 4
+  1. Over-claiming causation without rigorous identification
+  2. Forgetting to declare competing interests
+  3. Inconsistent reference formatting
+  4. Missing ethics statement for human subjects
+
+SOURCES CONSULTED
+=================
+
+Public/Open Access:
+- Paperpile citation style guide (name-year format)
+- IDEAS/RePEc article listings
+- Wikipedia journal overview
+- Elsevier journal homepage
+- Search results aggregating author guidelines summaries
+
+Behind Paywall (Unable to Access):
+- Full ScienceDirect author guidelines page
+- Individual article full texts for style analysis
+
+LIMITATIONS & NOTES
+===================
+
+- Full author guidelines page returned HTTP 403 (authentication required)
+- No institutional EZProxy access available in environment
+- Article analysis limited to abstracts/titles; unable to verify voice, paragraph density, or detailed stylistic patterns from full texts
+- Word/page limits could not be verified from public sources
+- Journal is ABS 2 (lower tier), so smaller sample of accessible articles acceptable per protocol
+- Skill file includes honest disclosure of access limitations; suitable for immediate use with caveats noted
+
+STATUS: SKILL CREATED
+  File saved to: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/economics/economics-and-human-biology_SKILL.md
+  Report saved to: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/reports/economics-and-human-biology_report.txt

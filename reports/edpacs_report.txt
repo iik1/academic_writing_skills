@@ -1,0 +1,79 @@
+EDPACS SKILL GENERATION REPORT
+==============================
+
+Journal Name: EDPACS (The EDP Audit, Control, and Security Newsletter)
+Slug: edpacs
+ABS Rating: 1
+Field: ACCOUNT
+Publisher: Taylor & Francis
+
+SUMMARY
+-------
+Generated a journal-specific writing skill for EDPACS by identifying deltas from the ACCOUNT field baseline (account-field-writing-style). EDPACS is a practitioner-focused IT audit newsletter, not a traditional research journal, creating substantial structural and methodological differences from the ABS 4*/4 field baseline.
+
+ARTICLES EXAMINED
+-----------------
+Total articles spot-checked: 8 (via metadata, abstracts, and search results)
+- "Advancing AI governance for 2026: From principles to practice" (2026)
+- "Recent innovations in cyber security" (2026)
+- "Mapping a decade of EDPACS (2014–2024): A bibliometric analysis" (2025)
+- "From manual to digital: the evolution of accounting theory in the age of AIS" (2025)
+- "Corruption and Fraud Detection by Public Sector Auditors" (2007)
+- COSO-related auditing research bibliometric study (ResearchGate)
+- Additional metadata from Taylor & Francis and SciSpace (2024-2026)
+
+Full-text access: Limited. Taylor & Francis full-text articles are paywalled. ACM and Academia.edu also restricted. Analyses based on publicly available abstracts, metadata, journal profile descriptions, and bibliometric studies.
+
+EARLY STOP: No (completed comprehensive search within access constraints)
+
+DELTAS FOUND: 5 major, well-evidenced deltas
+1. RELAXATION: Research methodology and empirical requirements (practitioner focus, no hypothesis testing required)
+2. PRACTICE ONLY: Voice and register (slightly less technical, more accessible to practitioners)
+3. RELAXATION: Citation density (lower in body sections, more practitioner experience-based)
+4. PRACTICE ONLY: Structural flexibility (no mandatory hypothesis development → results sequence)
+5. RELAXATION: Statistical reporting not required (not a quantitative research venue)
+
+Plus alignment on hedging, person, voice, citation style, and professional tone.
+
+FIELD_SKILL OVERRIDES
+---------------------
+Journal-specific hard constraints that override FIELD_SKILL:
+
+1. STRUCTURE: Canonical ACCOUNT structure (Intro → Hypothesis Development → Methods → Results → Discussion) is NOT required. Articles follow a more flexible, narrative structure appropriate to practitioner guidance. Sections may be organized by problem statement, guidance recommendations, case examples, etc.
+
+2. RESEARCH METHODOLOGY: No formal hypothesis testing, data collection sections, statistical tables, identification strategies, or robustness checks required. FIELD_SKILL assumes these are near-universal; EDPACS does not.
+
+3. ARTICLE TYPE: Feature articles by practitioners providing guidance, best practices, and pragmatic solutions. Not empirical or archival research.
+
+4. LENGTH: Estimated 5,000–8,000 words per article (inferred from "comprehensive articles" descriptor and Taylor & Francis standards). No explicit limit found.
+
+5. VOICE: Slightly less technically dense, more accessible to practicing IT auditors. Professional formality maintained but explanatory prose more prominent than in research journals.
+
+ACCESS LIMITATIONS
+------------------
+- Full author guidelines for EDPACS are not publicly accessible on Taylor & Francis or through open repositories
+- Full-text articles behind paywall (Taylor & Francis, ACM, Academia.edu, ResearchGate)
+- Could not examine manuscript formatting, abstract structure, or exact heading conventions directly
+- Constraints inferred from public journal profile, general Taylor & Francis standards, and practitioner-focused mission statement
+- A more detailed skill would require institutional access to the journal's author guidelines or a sample of recent PDFs
+
+CONFIDENCE LEVEL
+-----------------
+HIGH for the practitioner/newsletter positioning and resulting methodology/structure deltas (directly stated in public sources)
+MEDIUM for specific formatting details (inferred from Taylor & Francis standards and article titles; not directly verified)
+LOW for exact manuscript length and abstract format specifics (not publicly stated)
+
+SOURCES CONSULTED
+-----------------
+- Taylor & Francis EDPACS homepage and about-the-journal descriptions
+- ACM EDPACS journal mirror
+- Recent EDPACS article titles and metadata (2024–2026)
+- Bibliometric analyses of EDPACS (2014–2024)
+- ResearchGate and SciSpace metadata
+- Taylor & Francis general author services documentation (where available)
+
+CONCLUSION
+----------
+The skill successfully identifies that EDPACS is fundamentally different from the ABS 4*/4 research journals used to build the ACCOUNT field baseline. The journal prioritizes practitioner guidance over empirical research, resulting in relaxed requirements for hypothesis testing, formal methodology, and statistical reporting. The skill documents these deltas clearly so authors can calibrate their expectations when writing for EDPACS.
+
+The skill is complete and ready for use, despite access limitations to full author guidelines. It provides the most actionable guidance achievable given the paywalled nature of detailed editorial policies.

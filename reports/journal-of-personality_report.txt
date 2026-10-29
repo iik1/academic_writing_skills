@@ -1,0 +1,50 @@
+Journal: Journal of Personality
+Slug: journal-of-personality
+ABS: 3
+Field: PSYCH (GENERAL)
+
+Articles fetched: 9 (spot-checked at abstract/front-matter or full-text level)
+  1. Eck, Schoel, Sedikides et al. (2025) jopy.12950 - "Which leadership style do more narcissistic subordinates prefer in supervisors?"
+  2. Thompson et al. (2025) jopy.12973 - "Constructing the 'Family Personality'"
+  3. Weller, de Moor & Klimstra (2025) jopy.70001 - "Age Patterns in Dual-Cycle Identity Processes..."
+  4. Weidmann & Chopik (2024) jopy.12886 - "Explicating narrow and broad conceptualizations of environmental influences on personality"
+  5. Tsomokos (2025) jopy.13011 - "Embodied Cognition and the Structure of Personality" (full text via PMC)
+  6. Oeltjen (2026) jopy.70055 - "Individual Differences in the Effects of Life Events on Personality Trait Change"
+  7. Küchler, Borgdorf, Aguilar-Raab & Wrzus (2025/2026) jopy.13016 - "Effects of Reflective Processes on Social-Emotional Trait Development..." (full text via PMC)
+  8-9. Two additional Early View 2025 articles checked at abstract/metadata level during searches
+
+Early stop triggered: No — sample size target (15) not reached; access chain exhausted.
+  Reason: Wiley Online Library returned HTTP 402 (Payment Required) on all direct
+  fetch attempts (main journal page, TOC pages, individual article pages, author
+  guidelines page). No local PDF renderer (poppler/pdftoppm) available in this
+  environment, so open-access author-repository PDFs (Southampton, Squarespace,
+  Tilburg, White Rose, chopiklab.com) could not be parsed directly either — relied
+  on WebSearch-extracted abstract snippets and PMC full-text pages instead. Deltas
+  had stabilized (no new findings emerging) after ~7-9 articles, so proceeded to
+  write-up rather than continuing indefinitely against a paywalled access chain.
+
+Deltas found: 2 dimensions
+  1. Structural Deviations - mandatory, positionally-fixed "Transparency and
+     Openness" subsection at end of Method (ENFORCED; FIELD_SKILL only treats
+     open-science disclosure as "near-universal," not a named fixed subsection).
+  2. Other Journal-Specific Patterns - single-blind peer review (GUIDELINE ONLY,
+     stated in guidelines, not independently verifiable from published articles).
+  Also noted as PRACTICE ONLY / low-prevalence: one article's use of 99% CIs for
+  multiple-comparison correction (not a stated journal norm).
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Structured abstract with four required labeled fields (Objective, Method,
+    Results, Conclusions), <=200 words, up to 5 keywords.
+  - APA 6th edition reference style (not 7th).
+  - Length: target max 36 pages (justification required beyond that), hard
+    ceiling 46 pages.
+  - Free-format submission accepted at initial review.
+
+Access-limitation notes:
+  - Wiley Online Library (onlinelibrary.wiley.com) is paywalled/blocked for
+    automated fetch (HTTP 402) across all page types tested, including the
+    author guidelines page itself; guideline content was reconstructed from
+    WebSearch result summaries citing that page.
+  - No PDF rendering tool (poppler/pdftoppm) available, so binary/image-based
+    PDFs fetched from open-access repositories could not be read directly;
+    relied on WebSearch snippet extraction and PMC HTML full-text instead.

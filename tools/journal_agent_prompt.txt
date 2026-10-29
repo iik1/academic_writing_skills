@@ -19,7 +19,7 @@ for the ${FIELD} field, derived from ABS 4*/4 journals.
 
 Your job is narrow and precise:
   1. Read the journal's author guidelines
-  2. Spot-check 2-3 recent articles
+  2. Spot-check at least 15 recent articles
   3. Record ONLY what differs from FIELD_SKILL
   4. Classify each finding
   5. Output the SKILL.md
@@ -57,13 +57,16 @@ ACCESS: Use NHH EZProxy prefix for paywalled pages:
 https://nhh.idm.oclc.org/login?url=
 
 ══════════════════════════════════════════════════════
-PHASE 2 - ARTICLE SPOT-CHECK (2-3 articles MAX)
+PHASE 2 - ARTICLE SPOT-CHECK (at least 15 articles)
 ══════════════════════════════════════════════════════
 
-HARD CAPS:
-  - Maximum 3 full-text articles
-  - STOP after 2 if no deltas from FIELD_SKILL are found
-  - Do NOT read more than needed to reach a verdict
+SAMPLING REQUIREMENT:
+  - Spot-check a MINIMUM of 15 distinct recent full-text articles
+  - Sample across multiple issues/years where possible, not one issue
+  - Continue beyond 15 if new deltas are still emerging; stop once
+    the delta set has stabilised (no new deltas across several articles)
+  - If fewer than 15 are accessible after exhausting the access chain,
+    document how many you actually read and why in the report
 
 ACCESS CHAIN (try in order):
   1. Journal website via EZProxy
@@ -71,6 +74,22 @@ ACCESS CHAIN (try in order):
   2. Author faculty pages: search "[title] [author] filetype:pdf"
   3. SSRN: search "[title] site:ssrn.com"
   4. Google Scholar PDF links
+
+PAYWALL TACTICS (important — WebFetch CANNOT log in through EZProxy):
+  Full text is often paywalled, but you rarely need it for style deltas.
+  To reach the 15-article minimum on a paywalled journal:
+  - Enumerate articles from the issue/TOC and advance-articles pages
+    (e.g. .../issue, .../issue/<vol>/<n>, .../advance-articles) to collect
+    individual article URLs across several issues/years.
+  - WebFetch each ARTICLE PAGE directly. The freely-visible front-matter —
+    abstract, JEL codes, keywords, the numbered section-heading list, and
+    visible intro/abstract prose (voice, spelling, hedging) — is enough to
+    judge most deltas. Do NOT abandon a journal just because full text is
+    behind a login.
+  - Prefer open-access articles (often a CC-BY notice / free PDF link) when
+    you need to confirm deeper body-text patterns.
+  Only fall back to metadata-only listings (RePEc/IDEAS) if article pages
+  themselves are unreachable — and say so explicitly in the report.
 
 FOR EACH ARTICLE, observe ONLY:
   - Does it follow the section structure in HARD_CONSTRAINTS?
@@ -83,12 +102,13 @@ DO NOT:
   - Count words or sentences
   - Quote text from articles
   - Describe anything already covered by FIELD_SKILL
-  - Fetch more than 3 articles under any circumstances
+  - Stop before reading 15 articles unless the access chain is exhausted
 
 CONVERGENCE RULE:
-If after 2 articles you have found zero deviations from FIELD_SKILL
-and HARD_CONSTRAINTS align with FIELD_SKILL, stop. Write "Follows
-FIELD_SKILL norm." for all sections. Do not fetch a third article.
+After the 15-article minimum, if HARD_CONSTRAINTS align with FIELD_SKILL
+and no deltas have appeared, write "Follows FIELD_SKILL norm." for all
+sections. A delta observed in only 1 of many articles is PRACTICE ONLY
+and should be flagged as low-prevalence, not stated as a journal norm.
 
 ══════════════════════════════════════════════════════
 PHASE 3 - DELTA CLASSIFICATION

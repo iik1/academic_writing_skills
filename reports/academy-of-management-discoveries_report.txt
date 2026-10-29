@@ -1,0 +1,17 @@
+Journal: Academy of Management Discoveries
+Slug: academy-of-management-discoveries
+ABS: 3
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 6 direct title/abstract-level items plus ~10 additional editorial/policy search snippets confirming the same structural norm. journals.aom.org full-text and TOC pages returned 403 Forbidden throughout; relied on WebSearch snippets, AOM's own guidelines page (fetched successfully), and editorial "About AMD" pieces surfaced via ResearchGate/search results.
+
+Early stop triggered: No — stopped due to access exhaustion (journals.aom.org consistently 403), not premature convergence. The core delta (phenomenon-first, no-hypotheses structure) was confirmed redundantly across many independent sources before stopping, so confidence is high despite low full-text article count.
+
+Deltas found: 3 dimensions
+1. Structural Deviations (ENFORCED) - Replaces FIELD_SKILL's Theory-and-Hypotheses/quantitative-deductive template with a phenomenon-grounded, research-question-driven structure (Introduction grounds phenomenon + RQ -> Findings as "discoveries" -> Discussion as post-hoc theory-gap explanation), applies regardless of quantitative/qualitative method.
+2. Voice and Register (GUIDELINE ONLY / RELAXATION) - Explicit push for simple, accessible, practitioner-legible prose and preserving author voice over reviewer/editor voice.
+3. Other Journal-Specific Patterns (ENFORCED) - Explicit rejection of hypothesis-testing as organizing device; research questions substitute for both hypotheses and propositions in empirical pre-theory work.
+
+FIELD_SKILL overrides: Quantitative-deductive template's Theory & Hypotheses section is not usable at AMD; hypotheses (H1, H2...) discouraged even for quantitative empirical papers.
+
+Access-limitation notes: journals.aom.org blocked all direct WebFetch attempts (403) for article pages and table of contents. studylib.net mirror of the AMD Style Guide could not be extracted (interface-only content, no article body returned). Compensated with AOM's own author-resources guidelines page (fully accessible) and multiple independent editorial statements about journal mission/structure found via WebSearch, which converged consistently on the same phenomenon-first, no-hypotheses norm, giving high confidence in the primary delta despite inability to read full manuscript text.

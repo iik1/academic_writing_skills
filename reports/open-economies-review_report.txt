@@ -1,0 +1,87 @@
+SKILL GENERATION REPORT
+=======================
+
+Journal: Open Economies Review
+Slug: open-economies-review
+ABS Rating: 2
+Field: ECON
+Publisher: Springer Nature
+
+RESEARCH SUMMARY
+================
+
+Articles Fetched/Spot-Checked: 3
+- Patrick Minford, Zhirong Ou, Zheyi Zhu (2024): "Testing for Consumer Risk-Pooling in the Open Economy – further Results" (Volume 36, Issue 3, 2025)
+- Huw Dixon, Theodora Kosma, Pavlos Petroulas (2024): "Explaining the Endurance of Price Level Differences in the Euro Area" (Volume 36, 2025)
+- Roman Stöllinger, Dario Guarascio (2024): "Assessing Digital Leadership: Is the EU Losing Out to the US?" (Volume 36, pages 329–371, 2025)
+
+Access Methods: IDEAS/RePEc metadata, working paper repositories (wiiw, Bank of Greece), citation style guides (Paperpile)
+
+Early Stop: No. Full research executed with good-faith sampling of available sources.
+
+GUIDELINES ACCESS
+=================
+
+Full submission guidelines paywalled on Springer. Main guideline information accessed via:
+- Springer author information snippets visible via search engines
+- Paperpile citation style guide
+- Publisher general policies for Springer economics journals
+- Working paper versions of recent publications
+
+Paywalled URLs requiring authentication:
+- https://link.springer.com/journal/11079/submission-guidelines
+- https://link.springer.com/journal/11079/how-to-publish-with-us
+
+DELTAS FROM FIELD_SKILL (econ-field-writing-style)
+===================================================
+
+Dimension                       | Finding            | Classification      | Description
+------------------------------  | ----------         | ---------------     | -----------
+Abstract Word Limit             | 150-250 words      | ENFORCED            | Narrower than typical Springer max (350) and much tighter than ABS 4*/4 baseline
+Interdisciplinary Accessibility | Emphasized         | RELAXATION + PRACTICE| Guidelines explicitly request introduction "accessible to researchers in other disciplines"
+Data Availability Statement     | Required           | ENFORCED            | Mandatory for all original research (per Springer policy)
+Figure Sizing Specifications    | 84/174 mm width    | ENFORCED            | Technical specs not addressed in FIELD_SKILL baseline
+Citation Style                  | Author-Year        | FIELD DEFAULT       | Matches FIELD_SKILL norm
+Voice and Register              | First-person plural| FIELD DEFAULT       | Observed in articles; matches FIELD_SKILL
+Article Structure              | Standard ECON      | FIELD DEFAULT       | Intro, Methods/Theory, Results, Conclusion; matches FIELD_SKILL
+Statistical Reporting           | Magnitude + CI     | FIELD DEFAULT       | Follows FIELD_SKILL norms observed in spot-check
+
+FIELD_SKILL OVERRIDES
+====================
+
+1. Abstract length: More restrictive (150-250 vs. typical 350 max)
+   - This is the most significant journal-specific constraint
+
+2. Interdisciplinary framing: More explicitly required
+   - Guidelines call out "manner accessible to researchers in other disciplines"
+   - While ABS 4*/4 papers also do this, the explicit requirement is more prescriptive here
+
+3. Data availability: Mandatory statement required
+   - This is a field-wide trend but formally enforced at this journal
+
+NO OVERRIDES to core FIELD_SKILL norms on voice, structure, citation format, statistical reporting, or argumentation patterns were detected.
+
+ARTICLE SAMPLING NOTES
+=====================
+
+Sample size: 3 articles (ABS 2 lower-tier journal; smaller good-faith sample acceptable)
+
+Sampling method:
+- Searched for recent (2024-2025) open-access articles from Open Economies Review
+- Retrieved articles via working paper repositories and IDEAS/RePEc (Springer full-text paywalled)
+- Selected across methodological types: empirical (price differences, consumer risk-pooling) and theory-adjacent (digital task endowments)
+
+Access chain exhausted: Springer paywalls block direct article access. Paywalls redirected to authentication screens for all journal-hosted URLs. Working paper versions and metadata provided sufficient structure assessment.
+
+DELTAS FOUND: 4 distinct
+- Abstract word limit (ENFORCED)
+- Interdisciplinary accessibility emphasis (RELAXATION + PRACTICE)
+- Data availability statement (ENFORCED)
+- Figure sizing (ENFORCED, technical)
+
+CONFIDENCE LEVEL
+================
+
+Medium. The abstract word limit (150-250) is explicitly stated in public sources (Paperpile, Springer snippets). The interdisciplinary accessibility requirement is stated in submission guidelines snippets. Data availability and figure sizing are standard Springer policies confirmed across multiple sources. However, a more complete skill could be developed with access to the full paywalled guidelines, which may reveal additional journal-specific norms not visible from working papers and abstracts.
+
+END REPORT

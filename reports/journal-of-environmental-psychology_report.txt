@@ -1,0 +1,42 @@
+Journal: Journal of Environmental Psychology
+Slug: journal-of-environmental-psychology
+ABS: 3
+Field: PSYCH (GENERAL)
+
+Articles fetched: 9 (abstract/title level; full text paywalled on ScienceDirect,
+direct WebFetch to sciencedirect.com returned HTTP 403 throughout). One full
+abstract obtained (Hogg et al. 2024, eco-anxiety/wellbeing/pro-environmental
+behaviour). Remaining 8 identified via WebSearch snippets with title + partial
+abstract/topic description.
+
+Early stop triggered: No — stopped after delta set stabilised (no new deltas
+emerging after ~7-8 articles) and access chain to ScienceDirect was largely
+exhausted (repeated 403s on guide-for-authors page and article abstract pages).
+
+Deltas found: 2
+  1. Statistical Reporting — GUIDELINE ONLY. Guide for authors explicitly asks
+     for descriptive statistics (SDs, correlations, exact per-cell N) "whenever
+     possible," a reproducibility framing specific to this journal's guidance
+     page, layered on top of FIELD_SKILL's effect-size/CI norm.
+  2. Structural Deviations — RELAXATION (ABS 3 appropriate). Journal names
+     additional lighter-weight article types (brief empirical notes,
+     replication notes capped at 3,000 words, registered reports, letters to
+     the editor) not addressed in FIELD_SKILL.
+
+FIELD_SKILL overrides: none (no HARD_CONSTRAINT directly contradicted
+FIELD_SKILL; both deltas above are additive/tightening, not overrides).
+
+Access-limitation notes:
+- ScienceDirect (sciencedirect.com) blocked all direct WebFetch attempts with
+  HTTP 403, including the guide-for-authors page and multiple article abstract
+  pages. All guideline and article information was reconstructed from
+  WebSearch result snippets, which frequently surface direct quotes from the
+  guide-for-authors page and from article abstracts.
+- scispace.com and the ScienceDirect Editors' Choice page also returned 403 on
+  WebFetch.
+- Could not verify citation style beyond secondary confirmation (APA,
+  consistent with FIELD_SKILL default) since the primary guidelines page could
+  not be fully fetched.
+- No JEP-specific word/page limit for standard research articles was located
+  (Elsevier "free format" submission policy appears to apply); only the
+  Replication Note 3,000-word cap was explicit.

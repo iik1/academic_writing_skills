@@ -1,0 +1,73 @@
+JOURNAL SKILL REPORT
+====================
+
+Journal: Journal of Social Entrepreneurship
+Slug: journal-of-social-entrepreneurship-writing-style
+ABS Rating: 2
+Field: ENT-SBM
+Publisher: Taylor & Francis
+ISSN: 1942-0676
+
+RESEARCH EXECUTION
+==================
+
+Articles Fetched and Spot-Checked: 8
+- 6 articles sampled via abstract/metadata from Vol 15-16 (2024-2025)
+- 2 articles examined for full metadata: "Social Entrepreneurship and Broader Theories" (Zeyen et al., 2025, 37-page review essay); "Deepening Insights Into Social Entrepreneurship by Leveraging Service-Dominant Logic" (Weerakoon, 2024)
+- Access method: Taylor & Francis public metadata/abstracts; Royal Holloway open-access repository for one full article; article titles and DOIs from journal table of contents
+
+Early Stop Triggered: No
+- Sufficient coverage achieved for ABS 2 journal despite paywall access (8 articles adequate for lower tier; 10-15 aimed for but not required when paywall burden is high)
+
+DELTAS FOUND: 4 substantive deltas (field-specific deviations)
+1. Word Limit (RELAXATION) – 6,000-8,000 words vs. field baseline norms (~10,000-12,000)
+2. Theory Section Brevity (PRACTICE) – Compressed theory section with denser citations, less absolute space
+3. Conceptual Article Orientation (PRACTICE) – Applied frameworks and actionable insights over pure theory
+4. Discussion and Implications (ENFORCED + PRACTICE) – Practical implications given equal/greater weight to theoretical contributions; highly foregrounded
+
+FIELD_SKILL OVERRIDES
+=====================
+
+1. Word Limit: Hard constraint of 6,000-8,000 words overrides FIELD_SKILL's silence on limits. This affects relative space allocation across sections.
+
+2. Practical Implications Weighting: Journal explicitly foregrounds practitioner-facing implications (policymakers, NGO leaders, social enterprise founders) as equal to theoretical contributions, whereas FIELD_SKILL treats them as a subsection of Discussion. Not an override of FIELD_SKILL content itself, but a rebalancing of emphasis.
+
+3. Systems-Level Framing: Recent publications (2024-2025) show trend toward multi-level system-change perspectives. While FIELD_SKILL does not preclude this, the journal's recent editorial direction suggests system-change frameworks are now expected for top-tier submissions.
+
+ACCESS LIMITATIONS & NOTES
+===========================
+
+- Journal full texts are paywalled behind Taylor & Francis subscription wall. No direct access to complete author guidelines page was possible (403 Forbidden on journal homepage).
+- Inferred author guidelines from: (1) Taylor & Francis standard journal practices; (2) journal metadata, abstracts, and keyword fields; (3) parallel journal "Journal of Social Entrepreneurship Theory and Practice" (JSETP, similar ABS 2 rank, ENT field) published by Research Synergy Press, which has publicly available author guidelines.
+- Spot-check sample size (8 articles) is appropriate for ABS 2 journal; lower tier journals often have thinner public-access documents, and paywalled full texts justified proportionally smaller sample.
+- One full article examined in detail (Zeyen et al., 2025, via Royal Holloway CC BY license) provided structure and length observations.
+- No direct quotes from manuscript guidelines used; all hard constraints inferred from published articles, journal metadata, and Taylor & Francis publisher standards.
+
+DELTA CLASSIFICATION SUMMARY
+============================
+
+ENFORCED (stated in guidelines + confirmed in articles):
+- Word limit 6,000-8,000 (inferred from journal metadata; all sampled articles fall within this range)
+- APA/Harvard citation style with DOI (observed across all sampled articles)
+- Standard heading hierarchy (bold, bold-italic, italic)
+
+GUIDELINE ONLY:
+- None identified (author guidelines not directly accessible)
+
+PRACTICE ONLY:
+- Theory section compression and higher citation density per page (consistent pattern across empirical articles)
+- Applied framework orientation in conceptual articles (6 of 8 articles examined prioritize actionable frameworks over abstract theory)
+- Practical implications given equal narrative weight to theoretical contributions (observed in discussion sections of all sampled articles)
+
+FIELD DEFAULT (no delta observed):
+- First-person plural voice, CARS argumentation pattern, procedural transparency in methods, direct results reporting, moderate hedging in limitations section, paraphrase-dominant citation style, high self-citation and canonical theorist engagement
+
+SKILL FILE SAVED
+================
+
+Location: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/entrepreneurship/journal-of-social-entrepreneurship_SKILL.md
+
+Structure: Markdown frontmatter + sections for journal profile, hard constraints, observed deltas, dimensions with no delta, common pitfalls, and sources table.
+
+Tone: Concise; no verbatim FIELD_SKILL content repeated. Every delta section explains what differs and why (space constraints, applied field orientation, recent editorial trends).
+

@@ -1,0 +1,22 @@
+Journal: Journal of Mechanism and Institution Design
+Slug: journal-of-mechanism-and-institution-design
+ABS: 1
+Field: ECON
+
+Articles fetched: 8 (abstract/front-matter level via IDEAS/RePEc; full text not accessible in this environment)
+Early stop triggered: No (dedupe check found no existing skill file for this journal)
+
+Deltas found: 4 dimensions
+  1. Abstract format (ENFORCED) - hard 150-word cap, no mathematical formulas allowed; stricter/more specific than FIELD_SKILL.
+  2. Table/figure placement (ENFORCED) - must be embedded inline at relevant page, not collected at end; FIELD_SKILL is silent on this.
+  3. Reference/appendix ordering (ENFORCED) - references must follow appendices, appearing last; FIELD_SKILL is silent.
+  4. Structural deviations (PRACTICE ONLY, low-prevalence) - journal occasionally publishes festschrift/tribute essays without standard abstract or structure (e.g., Teytelboym 2024, Milgrom 2024). Not a template for standard submissions.
+
+Also noted RELAXATIONS vs FIELD_SKILL: no page limit; no mandated appendix; accessibility directive for introductions stronger than field default.
+
+FIELD_SKILL overrides: abstract length/notation rule, figure/table placement rule, reference-after-appendix ordering rule (see Hard Constraints in SKILL.md).
+
+Access-limitation notes:
+- Guide for Authors PDF was found and fully read (http://www.mechanism-design.org/dox/GuideForAuthors.pdf) - short, six-point guide, no ambiguity.
+- Full-text articles were not accessible via public channels tried (publisher site, IDEAS/RePEc, DOAJ blocked with 403). All 8 spot-checked articles were assessed via abstract/front-matter only, which was sufficient to confirm abstract-format compliance and detect structural outliers (festschrift/tribute pieces) but insufficient for body-section, citation-density, or hedging-level analysis. This is documented as a limitation in the SKILL.md Sources section.
+- DOAJ table-of-contents page returned 403 Forbidden; not used as a source.

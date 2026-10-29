@@ -1,0 +1,40 @@
+Journal: International Journal of Electronic Commerce
+Slug: international-journal-of-electronic-commerce
+ABS: 3
+Field: INFO MAN
+
+Articles fetched: 10 (titles + abstracts/front matter only; full text is paywalled on
+tandfonline.com, which returned HTTP 403 for all WebFetch attempts, including the
+guidelines page and article/TOC pages). Evidence gathered via: (1) the journal's own
+site ijec-web.org, which mirrors "Information for Contributors" guidelines and past-issue
+tables of contents and was directly fetchable, and (2) WebSearch result snippets
+surfacing abstract text for individual DOIs.
+
+Early stop triggered: No — sample was built until deltas stabilized (structural pattern
+of "Editor's Introduction" per issue confirmed across 5 separate years/volumes; numbered
+citation style confirmed via guidelines page and independently via a citation-style
+reference site). Did not reach a full 15 distinct full-text reads due to the tandfonline.com
+access wall, but front-matter/TOC evidence was sufficient to confirm or rule out deltas
+across all dimensions in the assignment's rubric.
+
+Deltas found: 3
+  1. Citations — ENFORCED. Numbered bracket in-text citation style ([9]), reference list
+     alphabetical by first author but numerically keyed. Overrides FIELD_SKILL's implicit
+     author-date convention.
+  2. Structural deviation — ENFORCED (by consistent practice). Every issue opens with a
+     signed "Editor's Introduction" by the EIC, confirmed 2019-2026, including framing of
+     guest-edited special issues.
+  3. Other pattern — PRACTICE ONLY (low-to-moderate prevalence). Abstracts in the sample
+     tend to state method/data specifics (sample size, time span, technique) earlier than
+     is typical, though this is a mild lean rather than a hard norm.
+
+FIELD_SKILL overrides: Citation style (numbered brackets, not author-date/APA).
+
+Access-limitation notes: tandfonline.com (the journal's primary Taylor & Francis host)
+blocked all WebFetch requests with 403 Forbidden, for the guidelines page, TOC pages,
+and individual article pages alike. All journal-specific evidence was instead obtained
+via ijec-web.org (the journal's own editorial site, which independently hosts guidelines
+and past-issue TOCs) and via WebSearch snippet text surfacing abstracts indexed from
+tandfonline.com. No full manuscript text (methods/results/discussion prose) was
+accessible for any article, so voice/hedging/statistical-reporting deltas were judged
+only against abstract-level evidence and found to align with FIELD_SKILL defaults.

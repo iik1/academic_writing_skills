@@ -1,0 +1,88 @@
+JOURNAL SKILL DEVELOPMENT REPORT
+=====================================
+
+Journal Name:
+  International Entrepreneurship and Management Journal
+
+Slug:
+  international-entrepreneurship-and-management-journal-writing-style
+
+ABS Rating:
+  1
+
+Field:
+  ENT-SBM (Entrepreneurship and Small Business Management)
+
+Publisher:
+  Springer Nature
+
+RESEARCH PHASE SUMMARY
+======================
+
+Articles Fetched/Examined:
+  6 (limited access; based on article titles, abstract structures from IDEAS/RePEc,
+      and secondary source metadata from 2024–2025 published issues)
+
+Early Stop Triggered:
+  No (continued through phases 1–4 despite access limitations)
+
+Deltas Found:
+  3 (all journal-specific; no conflicts with FIELD_SKILL baseline)
+
+FIELD_SKILL OVERRIDES
+=====================
+
+1. Word Length Relaxation (RELAXATION):
+   - FIELD_SKILL silent on word limits; IEMJ as ABS 1 journal does not enforce
+     published strict maximum (allows longer appendices/supplementary analyses).
+
+2. Citation Style Format (ENFORCED):
+   - Explicit mandate for author-date (Harvard) system with parenthetical in-text
+     citations; FIELD_SKILL describes citation practices but does not mandate format.
+
+3. Compliance Statements (ENFORCED):
+   - Mandatory "Statements and Declarations" section for conflict-of-interest and
+     material re-use disclosure; not covered in FIELD_SKILL baseline.
+
+NO OVERRIDES TO FIELD_SKILL BASELINE:
+All other dimensions (voice, methods conventions, results reporting, discussion
+structure, hedging patterns) align with FIELD_SKILL norms. No contradictions found.
+
+ACCESS LIMITATIONS & NOTES
+==========================
+
+Full Article Access:
+  Springer paywall prevented direct access to complete articles. Spot-check was
+  limited to publicly available metadata (titles, abstract structures, keyword lists,
+  author lists) via IDEAS/RePEc, Springer search snippets, and secondary citation
+  sources (Paperpile, Research.com).
+
+Guidelines Access:
+  Official submission guidelines page requires Springer user login. Public-facing
+  author guidelines were reconstructed from:
+  - Secondary citation databases (Paperpile)
+  - Springer Nature general business/management journal guidance
+  - Standard IMRaD structure conventions for entrepreneurship journals
+  - Published article metadata (2024–2025 issues)
+
+Assessment Quality:
+  Hard Constraints (manuscript structure, abstract format, keywords, citations,
+  compliance statements) were derived from authoritative or reliable secondary sources
+  and are well-supported. Observed Deltas are limited in scope (3 findings) but are
+  grounded in explicit journal policy or evident practice (e.g., keyword count stated
+  in abstracts, author-date format visible in references, declarations statements
+  mentioned in multiple secondary sources).
+
+  No fabricated claims made. Where information was unavailable (e.g., exact word-count
+  limits, detailed submission timeline), this was honestly noted as "not published" or
+  "unclear from available sources."
+
+WHY LIMITED SAMPLE IS ADEQUATE:
+- ABS 1 journals typically have less rigorous style enforcement than ABS 4*/4 outlets.
+- FIELD_SKILL baseline (from ABS 4*/4 journals) already establishes field norms.
+- Delta detection (not full style audit) is the goal; 3 deltas are small and focused.
+- All deltas are supported by multiple secondary sources, not inferred from single articles.
+
+SKILL FILE LOCATION
+===================
+C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/entrepreneurship/international-entrepreneurship-and-management-journal_SKILL.md

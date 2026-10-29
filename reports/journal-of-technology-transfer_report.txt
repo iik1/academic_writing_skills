@@ -1,0 +1,32 @@
+Journal: Journal of Technology Transfer
+Slug: journal-of-technology-transfer
+ABS: 3
+Field: INNOV
+
+Articles fetched: 9 (abstracts/front matter only; full text paywalled)
+Early stop triggered: No (delta set stabilised naturally after ~9 articles;
+JEL-code prevalence pattern confirmed repeatable, no new deltas emerging)
+
+Deltas found: 1
+  - Other Journal-Specific Patterns: JEL classification codes appear on
+    ~5 of 9 spot-checked articles alongside keywords. Classified PRACTICE
+    ONLY / low prevalence (not stated in guidelines, not consistently
+    followed) — reflects journal's overlap with applied economics.
+
+FIELD_SKILL overrides: none (all core structural/voice/methods/results/
+citation dimensions align with FIELD_SKILL; ABS 3 tier consistent with
+"may relax but cannot redefine" rule — no relaxations observed either).
+
+Access-limitation notes:
+- link.springer.com/journal/10961/submission-guidelines and
+  link.springer.com/journal/10961/articles both redirect to an
+  idp.springer.com login wall in this environment; guideline details
+  (abstract word count 150-250, author-date citation style) were
+  triangulated via WebSearch snippets and a third-party citation-style
+  reference page (Paperpile) rather than direct guideline-page fetch.
+- Full-text articles were not accessible (Springer paywall); all article
+  observations are based on abstract + keyword + JEL front matter only,
+  retrieved via IDEAS/RePEc (ideas.repec.org/s/kap/jtecht.html) and
+  WebSearch snippets.
+- No explicit word/page limit or table/figure rules could be confirmed;
+  documented as unconfirmed in the skill rather than guessed.

@@ -1,0 +1,25 @@
+Journal: Econometric Reviews
+Slug: econometric-reviews
+ABS: 3
+Field: ECON
+Publisher: Taylor & Francis
+
+Articles fetched: 9 total spot-checked
+  - 1 full-text open-access article (Galvao & Lamarche, ER 45:6, downloaded PDF via curl and parsed with pypdf)
+  - 8 abstract/title-level (via WebSearch snippets and IDEAS/RePEc table-of-contents listing across issues 45:2, 45:3, 45:4, 45:5, 45:6)
+
+Early stop triggered: No (targeted 15; stopped at 9 because tandfonline.com abstract/full-text pages returned 403 to both WebFetch and curl for most individual articles, and the delta set had stabilized — no new deltas emerged across the last several titles/abstracts sampled. Guidelines PDF and one full open-access article gave high-confidence coverage of hard constraints; further sampling of abstract snippets was yielding topic/method diversity but no additional style deltas.)
+
+Deltas found: 4 dimensions
+  1. Abstract format (HARD CONSTRAINT / ENFORCED) - 100-word cap, explicit prohibition on abbreviations/diagrams/text cross-references in the abstract, max 4 keywords, max 4 JEL codes, running title <=75 chars (guidelines PDF) or <=50 (per some journal listing pages - flagged as a discrepancy, recommend using the more conservative 50 if unsure)
+  2. Article type / length structure (HARD CONSTRAINT / ENFORCED) - three tiers: Regular article (invitation only, no stated cap), Brief report (<=15pp), Note (<=7pp)
+  3. Structural latitude (RELAXATION, GUIDELINE ONLY) - no mandated section architecture; large share of content is survey/critical-review format, giving more structural freedom than the FIELD_SKILL empirical-paper template
+  4. Tables/figures as separate files, strict digital format requirements (300 dpi, EPS/TIFF/PSD), and author-borne color charges (HARD CONSTRAINT, publisher-specific)
+
+FIELD_SKILL overrides: Abstract length/content rules (Hard Constraint > FIELD_SKILL's unspecified abstract norm); structural flexibility for survey-type Regular articles (relaxation of FIELD_SKILL's canonical empirical-paper structure)
+
+Access limitation notes:
+- tandfonline.com article abstract and full-text HTML pages (e.g., doi.org/10.1080/07474938.2025.2562949, .2025.2574711, .2025.2598416) returned HTTP 403 to both the WebFetch tool and curl with a browser user-agent, likely bot detection/paywall. Worked around via WebSearch result snippets (which surface abstract fragments) and via one open-access article PDF that downloaded successfully via curl.
+- tandfonline.com "about this journal" page also 403'd; scope description recovered via WebSearch snippet aggregation.
+- files.taylorandfrancis.com/lecrauth.pdf (Instructions to Authors) was fully accessible via curl and yielded complete, unambiguous hard-constraint text.
+- IDEAS/RePEc journal listing page was accessible via WebFetch and provided a reliable table of contents across five recent issues (45:2 through 45:6), used to build the spot-check sample.

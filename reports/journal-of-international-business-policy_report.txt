@@ -1,0 +1,25 @@
+Journal: Journal of International Business Policy
+Slug: journal-of-international-business-policy
+ABS: 3
+Field: IB&AREA
+
+Articles fetched: 15+ close reads/abstracts, plus a full title/structure survey of ~250 articles across Vol. 2 (2019) - Vol. 9 (2026) via RePEc/IDEAS journal archive.
+Early stop triggered: No (article-type/structural pattern was already saturating by ~15-20 items; continued through the RePEc archive listing for structural confirmation rather than additional abstract-level reads, since Springer full-text/abstract pages were largely login-gated).
+
+Deltas found: 2 dimensions
+  1. Structural Deviations (ENFORCED) - unusually high share of non-standard formats (From the Editors editorials nearly every issue, Perspectives, Commentaries ~4,000 words, book reviews) relative to FIELD_SKILL's empirical/conceptual/review taxonomy.
+  2. Other Journal-Specific Patterns / Policy-actor framing (ENFORCED) - abstract and introduction must be written for a dual audience (academic + policy practitioners), with policy relevance built into research design and stated up front rather than added to the discussion as an afterthought.
+
+FIELD_SKILL overrides (Hard Constraints from author guidelines, not "deltas" per se but binding mechanics):
+  - Abstract: 100-150 words (narrower than FIELD_SKILL's 150-250) + 3-6 keywords.
+  - Length: ~10,000 words max for regular articles/perspectives (all-inclusive); 4,000 words max for research notes/commentaries.
+  - Formatting: double-spaced, 11-pt Times New Roman.
+  - Structure: title page separate and only place for acknowledgments; manuscript fully anonymized; tables/figures placed AFTER the reference list (not inline), each series numbered consecutively in Arabic numerals, each starting a new page.
+  - Citation/reference style: author-date but not full APA — year follows author name directly without parentheses in the reference list.
+  - Explicit prohibitions: no teaching-methods manuscripts, no practitioner-only manuscripts, no manuscripts lacking public-policy relevance; GenAI use must be disclosed.
+
+Access-limitation notes:
+  - Springer Nature Link (link.springer.com) submission-guidelines and article pages are login-gated (303 redirect to idp.springer.com); could not fetch directly.
+  - Palgrave editorial-policy/formatting pages redirect to the same gated Springer Nature Link guidelines page.
+  - Worked around via: (a) a directly-hosted AIB style guide summary PDF (documents.aib.msu.edu), fetched successfully and used as the primary Hard Constraints source; (b) RePEc/IDEAS (ideas.repec.org) for a comprehensive article archive (~250 titles/authors, Dec 2019-Jun 2026) and several full abstracts; (c) EconStor for one working-paper-stage abstract; (d) an open-access PDF of the JIBP founding editorial hosted on White Rose (University of Leeds/Sheffield repository); (e) WebSearch snippets for the "Crafting impactful articles that resonate with policy actors" editorial and a related PMC-hosted companion editorial.
+  - No full-text paywalled articles were read beyond abstracts; conclusions on voice/hedging/citation density rely on abstract-level evidence plus the fully-read founding editorial, consistent with the task's stated tolerance for front-matter-only evidence.

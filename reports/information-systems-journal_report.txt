@@ -1,0 +1,66 @@
+Journal: Information Systems Journal
+Slug: information-systems-journal
+ABS: 4
+Field: INFO MAN
+
+Articles fetched: 8 distinct articles/pieces identified via search-engine
+snippets (full text mostly paywalled; Wiley pages returned HTTP 402 to
+automated fetch consistently). Titles/DOIs:
+1. Baiyere, Salmela, Nieminen, Kankainen (2025) "Assessing digital
+   capabilities for digital transformation—The MIND framework" isj.12519
+2. Seetharaman et al. (2024) "Does location matter in IS research? A
+   developing country perspective from India" isj.12521
+3. Wessel, Mosconi, Indulska, Baiyere (2025) "Digital Transformation:
+   Quo Vadit?" isj.12578 [Research Opinion]
+4. Riemer, Peter, Schwabe, Chatterjee, Adam, Davison (2026) "Generative
+   AI Is Neither Just Another IT Artefact nor a Colleague: Methodological
+   Guidance for IS Scholarship" isj.70027
+5. Holmström et al. "Scholarly Integrity and Generative AI: Five
+   Boundary Violations for IS Scholarship" isj.70044
+6. Grange, Demazure, Ringeval, Bourdeau, Martineau (2025) "The
+   Human-GenAI Value Loop in Human-Centered Innovation" isj.12602
+7. La Paz et al. (2020) "Twenty-five years of the Information Systems
+   Journal: A bibliometric and ontological overview" isj.12260
+8. ISJ Editors manuscript-types page (structural/policy source, not an
+   article, but authoritative on manuscript categories)
+
+Early stop triggered: No — stopped at 8 due to access-chain exhaustion
+(Wiley Online Library blocked all direct fetches with HTTP 402; relied
+entirely on search-engine snippets and the ISJ Editors mirror site for
+guidelines). Deltas had stabilised by this point regardless: the
+dominant, clearly journal-specific finding (multiple manuscript types
+with distinct structures/lengths) was confirmed independently via the
+ISJ Editors guidelines page, not just article sampling.
+
+Deltas found: 3 dimensions
+1. Structural Deviations — ISJ publishes 6 distinct manuscript types
+   (Research Article, Practitioner Paper, Research Opinion, Research
+   Methods Article, Research Commentary, Research Impact), each with
+   different structure/length rules. ENFORCED (stated in guidelines,
+   consistent with sampled Research Opinion piece).
+2. Voice and Register — Research Opinion/Commentary pieces adopt an
+   explicitly argumentative, prescriptive, "provocative" register,
+   diverging from FIELD_SKILL's more measured default. ENFORCED for
+   that manuscript type (stated in guidelines; consistent with Wessel
+   et al. and Riemer et al. framing).
+3. Explicit epistemological/ontological stance requirement for Research
+   Articles — GUIDELINE ONLY / practice unconfirmed (stated in
+   guidelines; could not verify via full-text methods sections due to
+   paywall).
+
+FIELD_SKILL overrides: Length limits (10,000 words Research Article,
+8,000 words Practitioner Paper, 3,000 words Research Commentary) — these
+are journal-specific hard constraints FIELD_SKILL explicitly does not
+specify.
+
+Access-limitation notes: Wiley Online Library (onlinelibrary.wiley.com)
+returned HTTP 402 Payment Required on every direct WebFetch attempt,
+including for abstract-only pages and the author guidelines page itself.
+All article-level information was therefore obtained via WebSearch
+snippets (Google-indexed abstract text) and third-party mirrors
+(ISJ Editors website, CBS/UTU/VTT research portals, ResearchGate,
+Unpaywall/oadoi). No full-text methods or results sections were
+accessible, so statistical reporting and citation-density deltas could
+not be independently verified against FIELD_SKILL and are recorded as
+FIELD DEFAULT (no evidence of deviation found) rather than confirmed
+matches.

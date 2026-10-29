@@ -1,0 +1,26 @@
+Journal: Pacific Basin Finance Journal
+Slug: pacific-basin-finance-journal
+ABS: 2
+Field: FINANCE
+Publisher: Elsevier
+
+Articles fetched: 8 (abstracts via RePEc/IDEAS abstract pages; full text paywalled, no institutional access in this environment)
+Early stop triggered: No — reached a reasonable good-faith sample for an ABS 2 journal per instructions (10-15 target, 8 achieved after exhausting efficient search access).
+
+Deltas found: 2 dimensions
+  1. Structural Deviations — PBFJ operates a distinct pre-registration publication track ("OPEN FOR BUSINESS" initiative, 2023) as an alternative to conventional submission; publishes regardless of statistical significance. Confirmed in 1/8 sampled articles (labeled "A pre-registered report"). Classified ENFORCED but low-prevalence/niche track.
+  2. Geographic/Sample Scope — noted as a submission-fit constraint (Asia-Pacific data required, US-only-data papers out of scope), not a writing-style delta per se.
+
+Hard constraints extracted from guide-for-authors (via WebSearch snippets, direct WebFetch to ScienceDirect returned 403):
+  - Abstract: max 250 words, standalone, no non-standard abbreviations
+  - Highlights: required, 3-5 bullets, max 85 characters each
+  - Keywords: 1-7 required
+  - Double-anonymized review: acknowledgements on title page only, manuscript body de-identified
+  - File format: editable .doc/.docx or .tex required; PDF alone not acceptable; single-column for Word, double-column only for LaTeX
+
+FIELD_SKILL overrides: none beyond the above hard constraints (no voice/citation/hedging/structure overrides found; all core writing-style dimensions follow FIELD_SKILL norm per sampled abstracts).
+
+Access-limitation notes:
+  - Direct WebFetch to sciencedirect.com/journal/pacific-basin-finance-journal/publish/guide-for-authors returned HTTP 403 on two attempts; guideline content was reconstructed from WebSearch result snippets that quote the page directly.
+  - No institutional EZProxy access; full-text articles were not accessible. Spot-check relied on RePEc/IDEAS abstract mirror pages, which reproduce title, authors, abstract, keywords, and JEL codes but not body text — sufficient to assess abstract framing, hedging, and section-heading conventions per task instructions, but not fine-grained prose style.
+  - Sample skews heavily toward China-focused papers (7/8), consistent with the journal's actual publication mix based on TOC search results, not a sampling artifact.

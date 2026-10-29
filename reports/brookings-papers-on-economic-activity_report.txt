@@ -1,0 +1,15 @@
+Journal: Brookings Papers on Economic Activity
+Slug: brookings-papers-on-economic-activity
+ABS: 3
+Field: ECON
+Articles fetched: 6 titles from Fall 2025 issue TOC (full text not accessible), plus 1 General Discussion metadata record (Fall 2024) and 2 individual conference-draft PDFs located but not renderable (Rachel/Auclert/Del Negro Fall 2025; Obstfeld Spring 2025).
+Early stop triggered: Yes - full-text PDF rendering unavailable in this environment (pdftoppm/poppler not installed; WebFetch could not parse binary PDF streams). Relied on guidelines page (fully accessible, very detailed) and issue landing/metadata pages for structural evidence instead of full-text spot-checks.
+
+Deltas found: 3 dimensions
+1. Structural Deviations - ENFORCED - unlabeled introduction section (no "Introduction" heading); paper accompanied by separate discussant comments and a standalone, independently-abstracted General Discussion item.
+2. Length constraints - ENFORCED - 45pp cap for full papers, 15pp for comments/short papers, inclusive of figures/tables/references (FIELD_SKILL is silent on length).
+3. Citation format detail - ENFORCED - "and others" instead of "et al."; exact name matching including accents; issue vs. season self-citation convention pre/post 2006.
+
+FIELD_SKILL overrides: Length limits and heading/introduction-labeling rule are hard constraints not present in FIELD_SKILL at all (FIELD_SKILL explicitly scopes out length limits and journal-specific heading rules).
+
+Access-limitation notes: This environment lacks poppler/pdftoppm, so PDF full-text (conference drafts, General Discussion transcripts) could not be rendered or read despite being located via WebSearch/WebFetch. All structural findings are grounded in the fully-accessible author guidelines page (https://www.brookings.edu/bpea-for-authors/) and publicly visible issue landing pages / RePEc-IDEAS metadata pages, which were sufficient to establish ENFORCED constraints with high confidence. No claims were made from full-text prose voice/register beyond what FIELD_SKILL already covers, since full text was unreadable.

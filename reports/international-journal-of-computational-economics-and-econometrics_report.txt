@@ -1,0 +1,27 @@
+Journal: International Journal of Computational Economics and Econometrics
+Slug: international-journal-of-computational-economics-and-econometrics
+ABS: 1
+Field: ECON
+Publisher: Inderscience Publishers
+
+Articles fetched: 8 (abstract/keyword-level, via RePEc/IDEAS mirrors of Inderscience metadata)
+  1. Kartal, Balaban & Özen - "Investment analytics using association rule mining" (v16, 2026)
+  2. Koukouritakis - "Current account dynamics in selected Southeast Asian economies" (v16, 2026)
+  3. Georgopoulos, Papadogonas & Sfakianakis - "Social cohesion as a determinant of economic activity" (v16, 2026)
+  4. Lakhal & Zorgati - "Russia-Ukraine conflict, commodities and stock market" (v15(4), 2025)
+  5. Kirshin - "Assessment of healthy life years factors across European countries" (v15(4), 2025)
+  6. Rekik & Saâdaoui - "Econometric evidence on the moderating role of board composition" (v15(4), 2025)
+  7. Sales, Torrent & Gupta - "Forecasting real housing price returns of the USA using machine learning" (v15(3), 2025)
+  8. Das & Mukhopadhyay - "Comparative analysis of automatic time-series forecasting approaches" (v15(3), 2025)
+
+Early stop triggered: No (this is the intended sample size for an ABS 1 journal with thin public access; full text universally paywalled at Inderscienceonline, 403 Forbidden)
+
+Deltas found: 0 stated stylistic deltas from FIELD_SKILL. One PRACTICE ONLY / low-prevalence observation: sampled articles skew toward applied econometric/forecasting papers judged on predictive performance (MAPE, model fit) rather than causal identification, reflecting journal scope rather than a writing-style norm.
+
+FIELD_SKILL overrides: none confirmed (no journal-specific word limits, abstract format, or citation style could be located publicly)
+
+Access-limitation notes:
+- Inderscienceonline.com full-text pages returned HTTP 403 Forbidden; could not access full manuscripts.
+- No dedicated "Notes for Authors" / manuscript-preparation PDF for IJCEE specifically was found publicly; only generic Inderscience "Preparing articles" / "Submitting articles" landing pages, which contain no journal-specific formatting detail (word limits, abstract structure, citation style) even at the general Inderscience level accessible without login.
+- All article-level evidence is abstract + keyword level via RePEc/IDEAS mirrors, not full text — sufficient for confirming FIELD_SKILL convergence at introduction/abstract level, but not for citation density or full structural analysis.
+- Hard Constraints section is therefore thinner than usual; skill documents absence of confirmed constraints rather than assuming generic Inderscience defaults apply.

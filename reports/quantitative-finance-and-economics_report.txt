@@ -1,0 +1,19 @@
+Journal: Quantitative Finance and Economics
+Slug: quantitative-finance-and-economics
+ABS: 1
+Field: ECON
+Articles fetched: 7 (front matter extracted via PDF for all; full text/reference lists extracted for 2)
+Early stop triggered: No (dedupe check found no existing skill; proceeded through full pipeline)
+
+Deltas found: 3 dimensions
+  1. Citation Density / Reference formatting - PRACTICE ONLY (ENFORCED in practice): every reference entry carries an inline DOI/URL, heavier than typical ABS 4*/4 ECON bibliographic style.
+  2. Structural labeling - RELAXATION/FIELD DEFAULT: some articles use "Methodology" instead of "Empirical Strategy" as a section title; cosmetic, not structural.
+  3. JEL Codes requirement - ENFORCED in practice: JEL Codes line appears uniformly under Keywords in every sampled article; treated as a de facto formatting norm.
+
+FIELD_SKILL overrides: none identified (no journal-specific rule found that contradicts FIELD_SKILL; guidelines page inaccessible for explicit hard constraints).
+
+Access-limitation notes:
+- The journal's "Instructions for Authors" page (aimspress.com/qfe/news/solo-detail/instructionsforauthors) is JavaScript-rendered; WebFetch returned only navigation chrome and template placeholders, not the actual guideline text, across two attempts.
+- WebSearch tool intermittently returned "unavailable" errors during this session; article discovery relied on a mix of successful WebSearch calls and direct URL guessing/fetching of AIMS Press PDF paths.
+- Word/page limits and explicit prohibitions could not be confirmed from any accessible source; the skill file documents this honestly rather than fabricating values.
+- All structural and abstract/citation-format findings are derived from direct PDF extraction (pdfplumber) of open-access AIMS Press article PDFs, which is a reliable substitute for guideline-page text at this open-access, ABS 1 journal.

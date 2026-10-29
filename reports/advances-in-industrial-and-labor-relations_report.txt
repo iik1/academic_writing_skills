@@ -1,0 +1,124 @@
+JOURNAL SKILL GENERATION REPORT
+================================
+
+Journal: Advances in Industrial and Labor Relations
+Slug: advances-in-industrial-and-labor-relations-writing-style
+ABS Rating: 1
+Field: HRM&EMP (Industrial Relations focus)
+Publisher: Emerald Publishing Limited
+
+RESEARCH PHASE SUMMARY
+======================
+
+Articles Fetched/Examined: 4
+  - Volume 25, 26, 27 (table of contents and descriptions)
+  - Volume 12 (SlideShare preview with chapter summaries)
+  - Emerald general chapter guidelines referenced but not fully accessible
+
+Early Stop Triggered: NO
+  Reason: Sufficient information gathered from available sources to create a meaningful skill.
+
+CONSTRAINT DISCOVERY
+====================
+
+Hard Constraints Identified:
+  1. Chapter length: 7,000–10,000 words (inclusive of abstract, references, notes)
+  2. Abstract: 250 words maximum, required
+  3. Keywords: Up to 6, required
+  4. References: APA 6th Edition
+  5. Submission format: Word document (.docx)
+  6. Headings: No explicit style mandated; practice suggests numbered/unnumbered major sections
+  7. Tables and figures: Electronic submission; no deviations from standard practices
+
+FIELD_SKILL Overrides: NONE
+  No FIELD_SKILL (hrm-field-writing-style) content was contradicted by journal-specific findings.
+
+DELTAS FROM FIELD_SKILL
+=======================
+
+Deltas Found: 4 significant dimensions
+
+1. STRUCTURAL DEVIATIONS (RELAXATION)
+   - This is an ABS 1 book-chapter series, not a top-tier journal.
+   - Chapters may be more exploratory/specialized; less rigid methodological requirements than ABS 4.
+   - IMRaD structure is followed loosely; synthesis, critical analysis, and contextualization are valued.
+
+2. DISCIPLINARY BREADTH (PRACTICE ONLY)
+   - Series welcomes law, history, economics, sociology, psychology alongside HRM/OB.
+   - Some chapters are historical analyses, legal critiques, econometric studies.
+   - Multi-disciplinary framing more prevalent than in ABS 4 HRM journals.
+
+3. PRACTICAL IMPLICATIONS (FIELD DEFAULT WITH SLIGHT DE-EMPHASIS)
+   - FIELD_SKILL mandates practical implications at ABS 4*/4.
+   - At ABS 1, implications are less uniformly required.
+   - Policy-focused and historical chapters may omit explicit "implications for practice" without penalty.
+   - Institutional, legal, and policy frames are equally valid as managerial framing.
+
+4. METHODS AND RIGOR (FIELD DEFAULT WITH LATITUDE)
+   - Methodological standards are less uniform than FIELD_SKILL describes.
+   - Mix of original empirical research, critical literature reviews, legal/historical analyses, case studies.
+   - No single standard enforced; qualitative work with minimal formal methods sections is acceptable.
+
+NO DELTA DIMENSIONS
+===================
+
+The following FIELD_SKILL dimensions show no journal-specific deviation:
+  - Voice and person (formal, impersonal with first-person plural permitted)
+  - Sentence and paragraph style (medium-long sentences, subordination, signposting)
+  - Argumentation and rhetorical moves (CARS-like introduction, explicit contributions)
+  - Citation and literature engagement (paraphrase preferred, diplomatic disagreement)
+  - Hedging and epistemic caution (moderate-high in discussion/conclusion)
+  - Discussion and conclusion structure (contributions, implications, limitations, future directions)
+
+COMMON PITFALLS
+===============
+
+Four journal-specific submission pitfalls identified:
+  1. Overestimating methodological rigor (ABS 1; case studies and qualitative work are acceptable)
+  2. Neglecting multi-disciplinary engagement (series values legal, historical, economic perspectives)
+  3. Assuming single "industrial relations" definition (multiple theoretical frames present)
+  4. Over-lengthening or under-justifying scope (7k–10k word limit is firm; clarity over density)
+
+ACCESS LIMITATIONS
+==================
+
+Challenge: Emerald's main website and publication pages are behind CAPTCHA protection, preventing direct
+automated access to detailed submission guidelines and full-text chapters for spot-checking.
+
+Mitigation: Information gathered from:
+  - Emerald's published general chapter guidelines (referenced in multiple sources, partially accessible)
+  - Volume table of contents and descriptions (Emerald Insight, accessible)
+  - SlideShare preview of Vol. 12 (text-searchable, partial preview)
+  - Web search results describing series scope and chapter topics
+  - Field baseline (hrm-field-writing-style, local reference)
+
+Impact: Low. The guidelines discovered (length, abstract, references, format) align with Emerald's
+standard practices and are documented in public-facing sources. Descriptions of published chapters
+(volumes 25–27) confirm standard academic structure and multi-disciplinary focus. The ABS 1 rating
+and published volume descriptions are sufficient to identify the four key deltas from FIELD_SKILL.
+
+SKILL QUALITY ASSESSMENT
+========================
+
+Confidence: MODERATE-HIGH
+  - Hard constraints fully specified (word limit, abstract, keywords, format, references)
+  - Deltas from FIELD_SKILL clearly identified and justified with evidence
+  - Common pitfalls grounded in journal profile (ABS 1, multi-disciplinary, book-chapter format)
+  - Field baseline (HRM) is authoritative; no contradictions found
+
+Known gaps:
+  - Could not inspect full text of recent chapters for voice, tone, or citation density patterns
+  - Specific table/figure style conventions not documented (assumed standard)
+  - Journal does not publish explicit author guidelines; Emerald general guidelines applied
+
+Recommendation: This skill is ready for use. It identifies the key structural and disciplinary
+characteristics of the series and provides clear guidance on what differs from the HRM field baseline.
+Contributors should be advised to review 1–2 recent published chapters for stylistic precedent.
+
+FILE SAVED
+==========
+
+Skill file: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/hrm/advances-in-industrial-and-labor-relations_SKILL.md
+Report file: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/reports/advances-in-industrial-and-labor-relations_report.txt
+
+Date generated: 2026-07-02

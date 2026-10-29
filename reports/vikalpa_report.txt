@@ -1,0 +1,19 @@
+Journal: Vikalpa: The Journal for Decision Makers
+Slug: vikalpa
+ABS: 1
+Field: ETHICS-CSR-MAN (management, broad-scope)
+Articles fetched: 6 full abstract-level fetches (Zahoor 2026; Baxi & Saradhi 2026; Mohapatra et al. 2026; Jayakar & Mishra 2025; Bangari 2024; Jain et al. 2023), plus a full back-catalog title/section listing (2017-2026, ~150 articles) reviewed for structural/format patterns via RePEc/IDEAS. Guidelines page content obtained via WebSearch-extracted summaries (direct WebFetch of journals.sagepub.com returned only nav/footer boilerplate; the SAGE guidelines PDF resolved to an unrelated third-party article on re-fetch and was discarded).
+
+Early stop triggered: No (target of 10-15 articles was reduced to a smaller full-text/abstract sample because journals.sagepub.com blocks direct content scraping; compensated with a full historical TOC review across ~35 issues for structural patterns, which is a broader-than-usual structural signal even though few full abstracts were fetched).
+
+Deltas found: 3
+ - Abstract length/format: ENFORCED RELAXATION - 80-100 word unstructured abstract vs. FIELD_SKILL's 150-250 words.
+ - Anonymization/Title Page procedure: ENFORCED - explicit separate Title Page with Statements and Declarations section; not specified in FIELD_SKILL.
+ - Article-type breadth (practitioner-reflective pieces, case analyses, colloquium notes, book reviews alongside standard empirical/theoretical articles): PRACTICE ONLY / RELAXATION - wider tolerance for applied/short-form content than FIELD_SKILL's four-template typology assumes.
+
+FIELD_SKILL overrides: Abstract word count/format (80-100 words unstructured, overrides 150-250 word FIELD_SKILL default).
+
+Access-limitation notes:
+ - journals.sagepub.com pages return only navigation/footer content on WebFetch (JS-rendered site); guidelines content was obtained via WebSearch result summaries instead of direct page fetch.
+ - The SAGE guidelines PDF link resolved to a completely unrelated article (a Symphonya journal green-consumer-behaviour paper) when fetched and downloaded as binary; this was verified via pdfplumber text extraction and discarded rather than used as a source.
+ - Full-text articles were not accessible (paywalled); all article-level findings are abstract/title/keyword-level, per instructions for ABS 1 journals with thin public access.

@@ -1,0 +1,22 @@
+Journal: British Journal of Management
+Slug: british-journal-of-management
+ABS: 4
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 2 full/near-full text accessible (Wright et al. COVID-19 reflection piece via PMC9878093; Temerak et al. 2024 attempted but blocked HTTP 403), plus ~5 additional articles reviewed at metadata/abstract-snippet level via WebSearch (Kutaula et al. 2024, McPhail et al. 2024, Jia et al. 2025, and others). Total distinct articles referenced: ~7, short of the 15-article target due to a hard Wiley paywall (HTTP 402/403 on essentially all onlinelibrary.wiley.com full-text and PDF direct-link attempts).
+
+Early stop triggered: No — access chain (WebSearch, WebFetch on guidelines page, WebFetch on Wiley PDFs, WebFetch on PMC mirrors) was exhausted rather than stopped early. Continued until no new deltas emerged from available snippets.
+
+Deltas found (3 dimensions):
+1. Structural Deviations — required "how this paper advances ongoing BJM debates" statement with citation to prior BJM articles (ENFORCED).
+2. Structural/procedural — formal author biography (50-75 words) and strict double-blind anonymization requirement (ENFORCED, more explicit than FIELD_SKILL).
+3. Other Journal-Specific Patterns — explicit methodological plurality welcomed within empirical remit (FIELD DEFAULT, noted not a deviation).
+
+FIELD_SKILL overrides (Hard Constraints only):
+- Word limit: 8,000 words max (excl. abstract/refs/tables/figures) — tighter than FIELD_SKILL's 10,000-18,000+ typical lengths.
+- Abstract: unstructured, max 200 words (vs FIELD_SKILL's 150-250, either structured/unstructured).
+- Citation style: Harvard/author-date system explicitly, footnotes reserved for authorial notes only (not treated as a citation-style choice in FIELD_SKILL).
+- Explicit prohibition: no stand-alone review papers or systematic-review-based conceptual papers (redirected to IJMR); student-survey papers restricted to a specific section.
+- AI-tool use disclosure requirement in Methods/Acknowledgements.
+
+Access-limitation notes: Wiley Online Library (onlinelibrary.wiley.com) blocked all direct WebFetch attempts with HTTP 402 Payment Required; a third-party institutional S3 mirror PDF returned HTTP 403. All hard-constraint facts were obtained via WebSearch's AI-summarized snippets of the guidelines page rather than direct full-page fetch, which is a slightly less reliable source than a raw page read — flagged here for transparency. Full-text spot-checking of a larger article sample was not possible under this journal's paywall; PMC does not index this journal except for occasional open-access or invited pieces (found one: the COVID-19 reflection article), which was used as the primary full-text source.

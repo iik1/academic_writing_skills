@@ -1,0 +1,40 @@
+Journal: Journal of Regional Science
+Slug: journal-of-regional-science
+ABS: 3
+Field: REGIONAL STUDIES, PLANNING AND ENVIRONMENT
+
+Articles fetched: 10 distinct articles (abstracts/front matter only; full
+text paywalled on Wiley Online Library throughout). Sample spans 2025-2026
+issues, topics covering firm mobility, regional inequality, place-based
+policy, natural disasters/banking, municipal amalgamation, Airbnb/housing,
+peripheral relocation, factor markets/innovation.
+
+Early stop triggered: No early stop — delta set stabilized after ~10
+articles with no new structural/stylistic deltas emerging; guidelines page
+was also exhausted (WebFetch blocked with HTTP 402 across all Wiley URLs
+attempted, relied entirely on WebSearch-surfaced snippets and third-party
+mirrors: RePEc/IDEAS, SSRN, arXiv, ResearchGate).
+
+Deltas found: 3 total
+  1. Abstract length ceiling (250 words, unstructured) — tighter/more
+     specific number than FIELD_SKILL's general range (HARD CONSTRAINT,
+     ENFORCED per guidelines page).
+  2. APA citation/reference style — journal-specific addition not covered
+     by FIELD_SKILL (HARD CONSTRAINT, ENFORCED per guidelines page).
+  3. Double-blind review / manuscript anonymization requirement — procedural
+     hard constraint affecting manuscript prep (HARD CONSTRAINT, ENFORCED).
+  Additional low-prevalence/practice-only notes (not elevated to stated
+  norms): heavier explicit naming of identification strategy in abstracts;
+  colon-subtitle title convention.
+
+FIELD_SKILL overrides: Abstract word cap (250 vs. field's ~100-200);
+citation style specified (APA) where field baseline is silent.
+
+Access-limitation notes: Wiley Online Library (onlinelibrary.wiley.com)
+returned HTTP 402 Payment Required for every direct WebFetch attempt
+(guidelines page and all article DOI pages). All information was obtained
+via WebSearch result snippets, which surfaced sufficient abstract text and
+guideline summaries through Google's indexing, RePEc/IDEAS listings,
+SSRN/arXiv preprint versions, and ResearchGate. No full-text article access
+was achieved for any of the 10 sampled articles; observations are limited
+to abstracts, titles, and the guidelines-page summary content.

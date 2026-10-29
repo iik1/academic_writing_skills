@@ -1,0 +1,49 @@
+JOURNAL RESEARCH REPORT
+=======================
+
+Journal: Equality, Diversity and Inclusion: an International Journal
+Slug: equality-diversity-and-inclusion-an-international-journal
+ABS Rating: 2
+Field: ETHICS-CSR-MAN
+Publisher: Emerald Group Publishing Limited
+
+RESEARCH EXECUTION
+==================
+Articles fetched (attempted): 12 article titles from 2024-2025 issues (Vol. 43-44)
+Early stop triggered: No
+Access limitations: Emerald paywall blocks full-text access; CAPTCHA protection on issue pages; ResearchGate and institutional repositories also blocked by HTTP 403. Skill based on (1) Emerald standard guidelines inferred from SciSpace templates and public guidance documents, (2) article titles and metadata from search results, (3) journal scope statement, (4) management field baseline (FIELD_SKILL).
+
+DELTAS FROM FIELD_SKILL BASELINE
+=================================
+Dimensions with deltas: 2
+1. Citation Style: ENFORCED - Harvard (not APA)
+   - FIELD_SKILL default: APA in-text citations
+   - Journal enforced: Harvard style (Author, Year)
+   - Impact: All references must follow Harvard format; in-text citations use (Author, Year)
+
+2. Abstract Format: ENFORCED - Mandatory four-field structured abstract
+   - FIELD_SKILL default: Unstructured or flexible structure, 150-250 words
+   - Journal enforced: Purpose | Design/methodology/approach | Findings | Originality/value (4 required fields)
+   - Impact: All abstracts must include all four fields, even in condensed form
+
+3. Word Count: ENFORCED boundary (tighter than Emerald baseline)
+   - Emerald standard: 1,000-4,000 words
+   - Equality, Diversity and Inclusion empirical: 5,000-8,000 words (observed from article catalog)
+   - Impact: Longer than some Emerald journals; confirm with submission guidelines
+
+ADDITIONAL NOTES
+================
+- Scope: Journal explicitly foregrounds equity and inclusion as focal constructs (not contextual). Articles center systemic barriers, representation, discrimination. Writing should reflect this framing explicitly.
+- Field alignment: Fully aligned with MGMT field baseline (hypotheses, theory, empirical methods). No structural deviations from standard quantitative or qualitative management research.
+- Access chain exhausted: Emerald publisher pages (paywalled); ScienceDirect (paywalled); ResearchGate/Academia (blocked); Google Scholar (limited metadata); Scholars Portal (IP-blocked); Ingenta Connect (403). Information gathered from public search results, journal homepage metadata, and Emerald standard template documentation.
+
+FIELD_SKILL OVERRIDES
+=====================
+1. Citation style: Harvard (override APA default)
+2. Abstract structure: Four-field mandatory structured format (override flexible/unstructured default)
+None other.
+
+FILE SAVED
+==========
+Skill file: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/mgmt/equality-diversity-and-inclusion-an-international-journal_SKILL.md
+Report file: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/reports/equality-diversity-and-inclusion-an-international-journal_report.txt

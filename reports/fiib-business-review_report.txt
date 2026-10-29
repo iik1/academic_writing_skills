@@ -1,0 +1,23 @@
+Journal: FIIB Business Review
+Slug: fiib-business-review
+ABS: 1
+Field: ETHICS-CSR-MAN
+Publisher: SAGE (Fortune Institute of International Business, New Delhi)
+
+Articles fetched: 13 (titles/abstracts via WebSearch/WebFetch of IDEAS/RePEc issue listings and SAGE abstract pages; no full text accessible — no institutional proxy in this environment)
+Early stop triggered: No (reached good-faith sample size for ABS 1 tier)
+
+Deltas found: 3 dimensions
+  1. Structural Deviations (PRACTICE ONLY) — high prevalence of bibliometric/systematic literature reviews (3/13 sampled) relative to FIELD_SKILL's four-template split; explicit journal solicitation of "perspectives" and "case-based research" article types not named in FIELD_SKILL.
+  2. Other Journal-Specific Patterns — titling convention (RELAXATION/PRACTICE ONLY): consistent catchy-title:descriptive-subtitle format, more stylistically loose than typical top-tier MGMT titling.
+  3. Other Journal-Specific Patterns — explicit practitioner-bridging aim (GUIDELINE ONLY, stated in aims/scope, not verifiable in practice from abstracts alone).
+
+FIELD_SKILL overrides (Hard Constraints):
+  - Abstract: structured, max 200 words, IMRAD format (stricter/shorter than FIELD_SKILL's 150-250 word range)
+  - Length: 8,000-10,000 words standard but explicitly also accepts shorter focused papers (relaxation vs. FIELD_SKILL's 10,000-15,000 quantitative norm)
+  - Ethics: explicit IRB/Ethics Committee approval statement required for human-subjects research (not covered in FIELD_SKILL)
+
+Access-limitation notes:
+  - Full text of all sampled articles was paywalled; assessment relies on titles, abstracts, and abstract-level search snippets only.
+  - The official SAGE submission-guidelines PDF could not be parsed (binary/image content); guideline details were corroborated via WebSearch snippets referencing the same PDF and the author-instructions HTML page instead.
+  - Table/figure formatting rules and full results-section reporting conventions could not be verified from available sources; recorded as "no contrary evidence found" rather than confirmed FIELD_SKILL matches.

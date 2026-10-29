@@ -1,0 +1,21 @@
+Journal: International Journal of Happiness and Development
+Slug: international-journal-of-happiness-and-development
+ABS: 1
+Field: ECON
+Publisher: Inderscience Publishers
+
+Articles fetched: 0 full-text/abstract; ~60 titles/metadata surveyed via IDEAS/RePEc index (Vols. 1-10, 2012-2026)
+Early stop triggered: No (ran full pipeline; documented thin access rather than stopping early)
+
+Deltas found: 2
+  1. Structural Deviations (GUIDELINE ONLY / RELAXATION) - 5,000-7,000 word ceiling, shorter than ABS 4*/4 implicit norms
+  2. Other Journal-Specific Patterns (PRACTICE ONLY, low confidence) - journal publishes a mix of empirical econ, psychology-style intervention studies, systematic reviews, and qualitative/discourse studies; not a single-paradigm empirical-econ journal
+
+FIELD_SKILL overrides: length ceiling (5,000-7,000 words vs. no field-level limit); required author biographical note after abstract/keywords (Inderscience template element not covered by FIELD_SKILL)
+
+Access-limitation notes:
+- Journal is fully paywalled on inderscienceonline.com; individual article DOI pages returned HTTP 403.
+- No open-access mirror, SSRN postings, or accessible working-paper versions found for IJHD-specific articles.
+- RePEc/IDEAS provided reliable title/issue/author/page-range metadata across the full journal run, used to assess topical scope and paper-type diversity, but no abstracts or full text were obtained.
+- Voice, hedging, statistical reporting, and citation-density dimensions could not be verified against FIELD_SKILL and were marked "FIELD DEFAULT (unconfirmed)" rather than fabricated.
+- Hard constraints (structure, length, abstract, citation style) are based on Inderscience's publisher-wide "Notes for Authors" template, which is standard across its journal portfolio; no IJHD-specific deviation from this template was found.

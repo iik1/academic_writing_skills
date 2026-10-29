@@ -1,0 +1,21 @@
+Journal: Gender in Management: An International Journal
+Slug: gender-in-management-an-international-journal
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 1 full-text (accepted manuscript, Viewpoint article type) + ~6 title/abstract-level snippets via WebSearch. Target of 10-15 was not reached.
+
+Early stop triggered: No (dedupe check found no existing skill; proceeded through full workflow).
+
+Deltas found: 2 dimensions
+  1. Voice and Register — author positionality statement requirement/practice (guideline text found via search + confirmed in full-text sample). Classified GUIDELINE ONLY / PRACTICE ONLY.
+  2. Structural Deviations — Viewpoint article type uses first-person named-author reflective voice and bulleted (unnumbered) research-agenda closing, distinct from FIELD_SKILL's standard empirical templates. Classified PRACTICE ONLY (article-type-specific).
+
+FIELD_SKILL overrides: none identified (Emerald structured abstract format is recorded as a hard constraint but is Emerald house style, not a genuine field-baseline conflict since FIELD_SKILL doesn't specify abstract format).
+
+Access-limitation notes:
+- emerald.com and emeraldgrouppublishing.com both returned HTTP 403 / CAPTCHA walls on every direct WebFetch attempt (guidelines page, article pages, template page).
+- Successfully obtained ONE full accepted manuscript PDF via an institutional repository mirror (Newcastle University eprints), which provided genuine structural/voice evidence (structured abstract labels, positionality statement, Viewpoint-type conventions).
+- Remaining evidence is limited to WebSearch-returned title/abstract snippets for ~6 additional articles (2025-2026 issues), sufficient to confirm FIELD_SKILL-consistent conventions for standard empirical articles but not enough to make additional confident structural claims.
+- No official word-limit figure could be confirmed from any accessible source; skill notes this honestly rather than fabricating a number.
+- Given the thin access chain, this is a shorter, more conservatively scoped skill than higher-tier journals in this batch, consistent with the ABS 1 good-faith-effort provision.

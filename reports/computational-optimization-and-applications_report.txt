@@ -1,0 +1,20 @@
+Journal: Computational Optimization and Applications
+Slug: computational-optimization-and-applications
+ABS: 3
+Field: OR&MANSCI
+Publisher: Springer Nature
+
+Articles fetched: 7 distinct articles/DOIs examined (2 with full abstract+keywords+section extraction via WebFetch cookie-redirect workaround; 5 via WebSearch title/topic snippets only, full text/abstract inaccessible through search-engine indexing)
+Early stop triggered: No — stopped at 7 because the delta set stabilized quickly (journal tracks Springer's standard math-journal template and FIELD_SKILL almost exactly) and further Springer article pages were increasingly redundant (403/login walls, RePEc listing stale since 2018, no open-access mirror ecosystem comparable to econ journals' SSRN/RePEc).
+
+Deltas found: 0 substantive voice/structure deltas from FIELD_SKILL. All observed differences are Springer publisher-template requirements (abstract word count, heading depth, citation style, figure resolution) rather than journal-specific rhetorical or structural choices — captured as Hard Constraints, not Observed Deltas.
+
+Dimensions with no delta: Voice/person, hedging/epistemic caution, citation density, CARS introduction structure, results/reporting norms, discussion/conclusion integration, appendix use.
+
+FIELD_SKILL overrides: none beyond standard Springer submission mechanics (150-250 word abstract, 4-6 keywords, decimal headings max 3 levels, numbered bracket citations, mandatory Data Availability Statement).
+
+Access-limitation notes:
+- link.springer.com/journal/10589/submission-guidelines and article pages redirect through idp.springer.com auth; successfully retrieved via WebFetch by following the 303/302 redirect chain to the cookies_not_supported fallback URL.
+- Full article text is paywalled throughout; only abstracts, keywords, and section-heading lists were retrievable, consistent with task instructions that front-matter is sufficient for style delta judgment.
+- IDEAS/RePEc listing for this journal (coopap5) is stale (article list dated ~2016-2018) and provides no abstracts; used only to confirm editor name and general topic coverage, not as a primary source.
+- No arXiv-mirrored preprints were confirmed as COAP-published versions (arXiv results returned were general optimization preprints, not verified COAP publications), so they were excluded from the spot-check count.

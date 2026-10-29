@@ -1,0 +1,56 @@
+Journal: Journal of Applied Corporate Finance
+Slug: journal-of-applied-corporate-finance
+ABS: 1
+Field: FINANCE
+
+Articles fetched: 9 (titles/metadata level; full text was not accessible for any
+sampled article — Wiley Online Library returned HTTP 402 Payment Required on
+every direct abstract/article fetch attempted, including the guidelines page
+and Wikipedia overview page in some cases 404/402). Evidence was assembled
+from WebSearch result summaries, RePEc/IDEAS listings (accessible via WebFetch),
+and a cached Wiley guidelines excerpt surfaced through search snippets.
+
+Early stop triggered: No (dedupe check found no existing skill for this journal;
+only an unrelated "Journal of Applied Econometrics" skill existed in the same
+folder).
+
+Deltas found: 3 dimensions
+  - Structural Deviations (PRACTICE ONLY, high-prevalence): roundtable/panel
+    transcripts and case studies are a large, recurring share of published
+    content, a genre FIELD_SKILL does not address.
+  - Voice and Register (PRACTICE ONLY): more accessible, prescriptive,
+    practitioner-essay tone than FIELD_SKILL's identification-first empirical
+    register, inferred from titles/summaries rather than full-text reading.
+  - Other Journal-Specific Patterns: per-issue "Executive Summaries" front-matter
+    item compiling short summaries of all articles in an issue.
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Abstract: 150-200 word unstructured cover-page abstract (vs. FIELD_SKILL's
+    150-250 word norm — narrower range stated).
+  - Headings: specific typographic spec (left-justified, 14-pt, title case,
+    bold, small caps), no numbering requirement mentioned.
+  - Citations: guidelines indicate multiple accepted reference formats
+    (journal articles, book chapters, periodicals each given separate
+    examples) — more flexible than a single rigid FIELD_SKILL-consistent style.
+  - Tables: Arabic numeral numbering (consistent with FIELD_SKILL, stated
+    explicitly in guidelines).
+  - No formal structural template (Data/Results/Robustness) is enforced;
+    introduction is unheaded.
+
+Access-limitation notes:
+  - Wiley Online Library (the sole full-text host) returned HTTP 402 on every
+    article abstract page and the author guidelines page itself; content was
+    only available via search-engine cached summaries.
+  - Two candidate full-text PDFs (CECP-hosted, HBS-hosted, OSU-hosted) were
+    located but were either image/figure-only content or returned 403/were
+    not text-extractable via WebFetch or the Read tool (no local PDF renderer
+    available in this environment).
+  - A comprehensive "JACF Contents" archive PDF (Illinois State University
+    hosted) was found listing decades of titles but could not be parsed as
+    text by WebFetch.
+  - Given these constraints, this skill is built from title-level pattern
+    recognition across ~9 sampled items plus one accessible guidelines
+    snippet, consistent with the ABS 1 "thin access chain, document honestly"
+    allowance in the assignment instructions. No claims about sentence-level
+    style, hedging language, or statistical reporting were made without
+    supporting evidence; those dimensions are marked as not confirmable.

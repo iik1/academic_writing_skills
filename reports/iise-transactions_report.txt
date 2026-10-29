@@ -1,0 +1,49 @@
+Journal: IISE Transactions
+Slug: iise-transactions
+ABS: 3
+Field: OR&MANSCI
+
+Articles fetched: 4 substantive sources examined (1 full-text author-accepted manuscript with supplement,
+retrieved via NSF PAR mirror; 1 abstract via IDEAS/RePEc mirror; 2 articles seen only as reference-list
+context within the full-text source). Direct access to tandfonline.com (journal home, current TOC,
+Instructions for Authors, all article pages) returned HTTP 403 for every WebFetch attempt; guideline
+content was recovered via WebSearch-extracted snippets referencing the Pre-Submission Checklist PDF and
+About-This-Journal page, and via one working PDF fetch (NSF PAR-hosted accepted manuscript) plus one
+RePEc/IDEAS-hosted abstract page. Did not reach the target of 15 distinct articles because of this access
+wall; the full-text manuscript obtained was however unusually rich (44 pages including supplement),
+providing strong direct evidence across nearly all delta dimensions (structure, abstract format,
+citations, data availability statement, reproducibility report, biographies section, conclusion tone).
+
+Early stop triggered: No (continued until the access chain via WebSearch/WebFetch was exhausted; further
+queries returned no new accessible full-text or abstract content beyond what was already captured).
+
+Deltas found: 4 dimensions
+1. Structure — Data Availability Statement + mandatory Reproducibility Report (ENFORCED, journal-specific,
+   no FIELD_SKILL analogue) + Biographies section after references.
+2. Abstract — unstructured single paragraph, ~200-word maximum, framed around problem/methods-results/
+   managerial-implications (specification/relaxation of FIELD_SKILL's generic abstract guidance).
+3. Structural deviation — explicit, directly-phrased practitioner/managerial recommendations in the
+   Conclusion (PRACTICE ONLY, observed in the one full-text article, consistent with journal's applied
+   engineering-practice scope).
+4. Other — four rotating focus areas (Design and Manufacturing; Operations Engineering and Analytics;
+   Quality and Reliability Engineering; Scheduling and Logistics/Supply Chain) affect editorial routing/
+   framing but not manuscript structure.
+
+Confirmed FIELD DEFAULT (no delta): voice/person, sentence/paragraph style, CARS introduction structure,
+author-date citation style and density by section, hedging/epistemic caution, discussion/conclusion
+merging conventions, methods tense and procedural-detail conventions.
+
+FIELD_SKILL overrides: Reproducibility Report and Data Availability Statement requirements (hard
+constraint, journal-specific, no baseline coverage); unstructured abstract with ~200-word cap (baseline
+does not specify word limits per its own scope exclusions).
+
+Access-limitation notes: tandfonline.com blocks WebFetch (403) across all pages (journal home, About page,
+current issue TOC, article abstract/full-text pages, and Instructions for Authors). files.taylorandfrancis.com
+PDF guideline documents (Pre-Submission Checklist, Reproducibility Report template, departmental editorial
+statements) also returned 403 on direct fetch; their content was reconstructed via WebSearch snippet
+extraction, which quoted specific figures (200-word abstract cap, July 15 2021 reproducibility report
+effective date, file-naming convention) with reasonable confidence but could not be independently verified
+against the primary PDF text. Given these constraints, findings rely more heavily on a single deep
+full-text example than the requested 15-article spot-check; classification labels (ENFORCED vs PRACTICE
+ONLY) reflect this — most granular findings are anchored to the one full-text article and flagged
+accordingly in the skill file's "Articles spot-checked" note.

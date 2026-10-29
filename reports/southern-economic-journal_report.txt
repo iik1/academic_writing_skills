@@ -1,0 +1,16 @@
+Journal: Southern Economic Journal
+Slug: southern-economic-journal
+ABS: 2
+Field: ECON
+Articles fetched: 11 (10 with usable abstract/front-matter content; 1 title/metadata only - Dona & Zamarripa, abstract inaccessible)
+Early stop triggered: No
+Deltas found: 2 substantive
+  1. Structural/Editorial - Mandatory Data Appendix for replication (stated in guidelines, standard field practice but explicitly enforced at acceptance here) - ENFORCED
+  2. Other Journal-Specific Patterns - "Conversation Starter" and "Fast Track" submission tracks, unique editorial mechanisms allowing exploratory/non-causal work and resubmission with prior reviews - ENFORCED (stated in guidelines/editorial announcements, distinctive to this journal)
+  Minor: Structural Deviations - narrower-scope, shorter applied papers typical of ABS 2 tier - PRACTICE ONLY / RELAXATION (consistent with ABS-tier rule, not a new norm)
+FIELD_SKILL overrides: Hard length cap of 50 pages (double-spaced, 12pt Times New Roman); unstructured abstract max 200 words; author names/affiliations on first page (not blind at that level)
+Access limitation notes:
+  - Wiley Online Library (onlinelibrary.wiley.com) pages returned HTTP 402 Payment Required on direct WebFetch; guidelines and TOC content were recovered via WebSearch snippet extraction instead.
+  - isfe.uky.edu pages describing Fast Track/Conversation Starter initiatives returned HTTP 404 on direct WebFetch; content recovered via WebSearch cached snippets.
+  - No full-text articles were accessible (all paywalled); all 10 usable observations are abstract/front-matter level, sourced via WebSearch snippets, RePEc/IDEAS, SSRN, arXiv working-paper versions, and author personal/CV pages.
+  - Sample skews toward late 2025-early 2026 issues (Vol 92) since these were most discoverable via search; earlier volumes were not systematically sampled.

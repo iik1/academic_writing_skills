@@ -1,0 +1,21 @@
+Journal: International Journal of Business Competition and Growth
+Slug: international-journal-of-business-competition-and-growth
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 15 (abstract/metadata level; full text paywalled throughout)
+Early stop triggered: No (reached target sample of 15 within good-faith effort)
+
+Deltas found: 4 dimensions
+  - Voice and Register: RELAXATION — applied/findings-first abstracts, not theory-contribution-first
+  - Statistical Reporting: PRACTICE ONLY / low confidence — no explicit hypothesis-revisit language observed in abstracts (full text inaccessible)
+  - Structural Deviations: RELAXATION — broader accepted article types (case studies, best-practice notes, conference reports, book reviews) than FIELD_SKILL's four templates
+  - Other Journal-Specific Patterns: PRACTICE ONLY — India-heavy author/context base (~10/15 sampled), applied topics (CSR, digital marketing, SME growth, banking) rather than theory-testing agenda
+
+FIELD_SKILL overrides: None material for citation style or abstract format (both align with FIELD_SKILL). Length/structure guidance relaxed per ABS 1 tier but does not contradict FIELD_SKILL baseline.
+
+Access-limitation notes:
+- inderscienceonline.com (main journal platform, DOI abstract pages) returns HTTP 403 to direct WebFetch; all such data obtained via search-engine-cached snippets instead.
+- inderscience.com "inarticle.php?artid=" pages were directly fetchable and yielded full abstracts, keywords, and submission dates for most of the sample (2015, 2019-2024 subset).
+- Full author guidelines page (pid=70/71) partially blocked; formatting rules (abstract <150 words, Harvard citation style, Times New Roman 12pt) confirmed via Inderscience's generic cross-journal "Preparing articles" template, which is standard across all Inderscience titles, not journal-specific.
+- No full-text article was accessible for any sampled article; all spot-check findings are abstract/keyword/metadata-level only, as expected for a paywalled ABS 1 journal with no institutional access in this environment.

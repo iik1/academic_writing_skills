@@ -1,0 +1,34 @@
+Journal: Cambridge Journal of Regions, Economy and Society
+Slug: cambridge-journal-of-regions-economy-and-society
+ABS: 3
+Field: REGIONAL STUDIES, PLANNING AND ENVIRONMENT
+
+Articles fetched: ~20 titles/authors across Vol. 14 (2021) - Vol. 19 (2026), 3 with full abstracts read.
+Early stop triggered: No — delta set stabilized after confirming the thematic-issue submission
+model and abstract/length constraints; further article sampling within issues yielded no new
+deltas (all followed FIELD_SKILL norms on voice, methods, hedging, etc.).
+
+Deltas found: 2 substantive dimensions
+  - Structural: journal operates on an invited, themed-issue submission model (Call for Papers ->
+    ~400-word abstract proposal -> invited full paper -> peer review), not open continuous
+    submission. Issues open with a Special-Issue-Editor framing article and often close with an
+    invited commentary/reflection piece.
+  - Other: occasional "reply/response" debate-format pairs within an issue (low prevalence,
+    practice only).
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Abstract: <=100 words (tighter than FIELD_SKILL's 100-200 word range)
+  - Length: <=8,000 words INCLUDING references, tables, and figures
+  - Up to 6 keywords, up to 4 JEL codes
+  - Title <=25 words, no trademarks/proprietary terms/abbreviations
+  - No prior publication elsewhere; full title-page author/affiliation disclosure required
+  - Submission is invitation-only per themed Call for Papers (not general open submission)
+
+Access-limitation notes:
+  - Oxford Academic pages (academic.oup.com/cjres/...) are JS-rendered; direct WebFetch returns
+    only navigation shell, no substantive body text. All guideline and article content was
+    recovered via WebSearch AI-summarized snippets instead of direct page fetch.
+  - No full-text articles were accessible (paywalled); abstracts obtained for 3 articles via
+    search snippets, remainder assessed by title/author/issue-structure pattern only.
+  - RePEc/IDEAS (ideas.repec.org) fetch worked directly and provided the full article index used
+    for structural pattern-spotting (framing articles, commentary pieces, reply pairs).

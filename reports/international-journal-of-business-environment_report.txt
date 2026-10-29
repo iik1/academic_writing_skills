@@ -1,0 +1,35 @@
+Journal: International Journal of Business Environment
+Slug: international-journal-of-business-environment
+ABS: 1
+Field: ETHICS-CSR-MAN (Management field baseline used: mgmt-field-writing-style)
+Publisher: Inderscience Publishers
+
+Articles fetched: 15 titles identified via IDEAS/RePEc listings (vols. 10-17, 2019-2026);
+full abstract + keywords retrieved for 6 of these via RePEc abstract pages.
+Remaining 9 are title-only (full text and abstracts paywalled at inderscienceonline.com;
+403 Forbidden on direct publisher access).
+
+Early stop triggered: No — dedupe check at start found no existing skill for this journal.
+
+Deltas found: 3 dimensions
+  - Abstract length (HARD CONSTRAINT): ~100-150 words vs. FIELD_SKILL's 150-250 words
+  - Citation style (HARD CONSTRAINT): Harvard/author-date with end-alphabetical reference
+    list vs. FIELD_SKILL's APA convention
+  - Structural deviations (PRACTICE ONLY / RELAXATION, ABS-1-tier): applied single-case/
+    single-country designs and literature reviews presented without FIELD_SKILL's full
+    hypothesis-testing or PRISMA-style review apparatus
+
+FIELD_SKILL overrides: Abstract word count, citation style (Harvard vs. APA), and
+manuscript component order/blinding requirement (names/acknowledgements stripped from
+main file) — all from generic Inderscience publisher template, not journal-unique.
+
+Access limitation notes:
+- No journal-specific author guidelines page exists distinct from Inderscience's generic
+  publisher-wide "Preparing articles" / author guidelines templates. IJBE does not appear
+  to publish additional structural requirements beyond this template.
+- inderscienceonline.com (full-text host) returned HTTP 403 on all direct fetch attempts;
+  relied on IDEAS/RePEc mirror for abstracts and Inderscience's own marketing/guidelines
+  pages for scope and submission rules.
+- Full-text article bodies were not accessible for any sampled article; spot-check is
+  based on titles, abstracts, and keywords only, consistent with the good-faith ABS-1
+  sampling allowance.

@@ -1,0 +1,44 @@
+Journal: Occupational and Environmental Medicine
+Slug: occupational-and-environmental-medicine
+ABS: 3
+Field: PSYCH (WOP-OB)
+
+Articles fetched: 10 (abstracts via PubMed; PMIDs 42379889, 42331594, 42315351,
+42270323, 42270322, 42264941, 42248666, 42230157, 42225416, 42259634; all
+2026 issues). One additional PMC editorial (PMC11617977) consulted for
+structural/citation-style flavor but not counted in the 10.
+
+Early stop triggered: No — deltas remained consistent and stabilised across
+the 10-article sample; stopped because the pattern (structured
+Objective/Methods/Results/Conclusion abstracts, clinical/epidemiological
+framing, no hypothesis-driven theory section) was fully stable by article 6-7.
+
+Deltas found: 5 dimensions
+  - Voice and Register (clinical/public-health question framing vs.
+    hypothesis-testing framing; PRACTICE ONLY, consistent)
+  - Statistical Reporting (effect estimates reported densely inline in
+    abstract Results; PRACTICE ONLY / structural)
+  - Citation Density (near-zero in abstracts; front-matter only, unverified
+    for body text)
+  - Structural Deviations (cohort/exposure-outcome epidemiological design,
+    no theoretical framework or hypothesis list; RELAXATION, consistent
+    with ABS 3 status)
+  - Other Journal-Specific Patterns (fixed controlled-vocabulary keyword
+    tagging list)
+
+FIELD_SKILL overrides: None promoted to a new field norm (ABS 3 cannot
+redefine baseline). All classified as PRACTICE ONLY or RELAXATION.
+
+Access-limitation notes:
+  - oem.bmj.com/pages/authors/ returned HTTP 403 Forbidden on every fetch
+    attempt (direct URL and #submission_guidelines anchor); web.archive.org
+    fetches are unsupported in this environment, so no archived snapshot
+    could be retrieved either. HARD_CONSTRAINTS section is therefore based
+    on inference from article front matter only (structured abstract
+    headings, PROSPERO field), not confirmed guideline text. Word/page
+    limits, citation style, heading conventions, table/figure rules, and
+    explicit prohibitions could not be confirmed and are marked "not
+    accessible" in the skill file rather than fabricated.
+  - Full text of all 10 sampled articles was paywalled; only PubMed
+    abstracts and keyword lists were available, consistent with the
+    prompt's allowance for front-matter-only spot-checking.

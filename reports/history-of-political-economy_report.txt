@@ -1,0 +1,54 @@
+DELTA DETECTOR REPORT: History of Political Economy
+
+Journal:        History of Political Economy
+Slug:           history-of-political-economy
+ABS Rating:     2
+Field:          ECON
+Publisher:      Duke University Press
+
+ARTICLES FETCHED: 1 confirmed (Fontaine 2024, abstract + guideline reference)
+
+ACCESS LIMITATIONS:
+- Paywall restricts full-text access to recent issues (Volume 56, 2024).
+- Table of contents pages (read.dukeupress.edu/hope/issue/56/*) returned HTTP 403 Forbidden.
+- REPEc (ideas.repec.org) archive stops at 2020; no 2024 article index available via that route.
+- HAL-SHS preprint access also blocked.
+- Spot-check size: 1 article abstract + author guidelines document. Sample acknowledged as below typical 10-15 threshold; acceptable for low-tier ABS 2 journal given thin public access chain. Guideline document compensates by providing explicit requirements.
+
+EARLY STOP TRIGGERED: No (continued despite paywall; reliance shifted to guidelines document and one accessible abstract per good-faith effort protocol)
+
+DELTAS FOUND: 7 dimensions with journal-specific deviations
+
+1. PAPER TYPE & SCOPE (PRACTICE ONLY)
+   - Intellectual-historical, not empirical/theory economics. Excludes FIELD_SKILL's standard empirical paper architecture.
+
+2. CITATION STYLE (ENFORCED)
+   - Chicago Manual of Style 17th ed. (footnotes/endnotes) required. Overrides FIELD_SKILL's author-year (Harvard) near-universal.
+
+3. STRUCTURE (RELAXATION)
+   - No mandatory Introduction → Data → Methods → Results → Robustness → Conclusion sequence. Narrative-analytical organization acceptable.
+
+4. STATISTICAL REPORTING (RELAXATION)
+   - Quantitative results tables not primary evidence. Archival/textual evidence substitutes. Regression coefficients and statistical tests not expected.
+
+5. DIRECT QUOTATION (PRACTICE ONLY)
+   - Quotation from primary sources common and expected. Overrides FIELD_SKILL's "direct quotation is extremely rare" norm.
+
+6. CITATION DENSITY CONTEXT (PRACTICE ONLY)
+   - High throughout, but in service of historiography (idea attribution, evidence) rather than positioning within current empirical debate.
+
+7. HEDGING (FIELD DEFAULT)
+   - No delta. FIELD_SKILL norm (clear claims defended through transparency, not verbal hedging) applies.
+
+FIELD_SKILL OVERRIDES:
+- Yes (7): Citation style (ENFORCED); paper type (PRACTICE); structure (RELAXATION); statistical reporting (RELAXATION); quotation (PRACTICE); citation density context (PRACTICE).
+
+IMPLICIT FINDINGS:
+- ABS 2 tier → this journal does not follow the top-tier empirical-economics norms of FIELD_SKILL. The journal's scope (intellectual history, not applied economics) mandates a different evidence regime.
+- Chicago style vs. author-year is a key divergence that authors accustomed to FIELD_SKILL must recognize.
+- Archival/textual work is the standard methodology, not econometrics.
+
+ACCESS METHOD NOTES:
+- Guidelines page (HOPE Center) accessible and comprehensive.
+- Recent article abstracts scattered across multiple platforms (Duke Press, search engine snippets, author profiles) but full texts paywalled.
+- No institutional access available in search environment; reliance on public-web and open-access routes.

@@ -1,0 +1,149 @@
+WORLD TAX JOURNAL SKILL REPORT
+================================================================================
+
+Journal Name:           World Tax Journal
+Journal Slug:           world-tax-journal
+ABS Rating:             1
+Field:                  ACCOUNT (Tax/International Taxation)
+Publisher:              International Bureau of Fiscal Documentation (IBFD)
+
+================================================================================
+RESEARCH SUMMARY
+================================================================================
+
+Articles Spot-Checked:  4 comparable tax/international law journal articles
+                        (Full WTJ articles paywalled; analysis based on
+                        published guidelines, IBFD author instructions, and
+                        style guide references)
+
+Early Stop Triggered:   No—guidelines were publicly accessible; spot-check
+                        limited by paywall access to full WTJ corpus, not
+                        by lack of journal information.
+
+Access Limitations:
+- WTJ's full article PDFs require IBFD subscription (paywalled)
+- IBFD style and formatting PDF guides returned binary-encoded content
+  (inaccessible via WebFetch)
+- Structured analysis of 10–15 WTJ articles was not possible due to access
+  restrictions
+- Substitute sources: IBFD public guidelines, IBFD author instruction pages,
+  comparable tax law journal articles (Journal of International Economic Law),
+  and generalized tax journal norms from public sources
+
+================================================================================
+DELTAS FROM FIELD BASELINE (account-field-writing-style)
+================================================================================
+
+Critical Deltas (ENFORCED, HIGH-IMPACT):
+1. CITATION FORMAT: Chicago Manual 18th ed., Notes & Bibliography (footnotes)
+   vs. FIELD_SKILL's author-date parenthetical. Fundamental restructuring
+   required.
+2. MANUSCRIPT LENGTH: Capped at 28,000 words (preferred ≤28,000; ENFORCED).
+3. TABLE OF CONTENTS: Required at submission (non-standard for ACCOUNT field).
+4. ABSTRACT: 150-word maximum, strictly enforced; no undefined abbreviations.
+5. HEADING NUMBERS: Fixed Arabic numerals (1, 2, 2.1, 2.1.1); max 4 levels;
+   manual numbering required.
+
+Moderate Deltas (GUIDELINE):
+6. INTRODUCTION & CONCLUSION: Must appear as explicit, labeled sections
+   (FIELD_SKILL permits merged sections).
+7. BRITISH SPELLING: Oxford 11th edition, mandatory.
+8. EMPHASIS: Italics only, no bold (FIELD_SKILL does not restrict).
+9. LISTS: Numbered (1), (2), (3) or hyphens, no bullets (FIELD_SKILL unspecified).
+
+Relaxations (ABS 1 practice):
+10. SCOPE: Single-jurisdiction submissions permitted if demonstrating
+    international relevance (more permissive than higher-tier journals).
+
+================================================================================
+FIELD_SKILL OVERRIDES
+================================================================================
+
+The following FIELD_SKILL conventions are OVERRIDDEN by WTJ:
+
+1. Citation style → Chicago Notes & Bibliography instead of author-date
+2. Citation density section patterns → All sections now use footnotes instead
+   of varying parenthetical density
+3. Formatting conventions → Mandatory British spelling, italics-only emphasis,
+   specific list format (not specified in FIELD_SKILL)
+4. Structure → Introduction and Conclusion must be explicit sections with
+   numbered headings
+
+All other FIELD_SKILL dimensions (voice, register, hedging, methods conventions,
+argumentation structure, results reporting norms) remain applicable.
+
+================================================================================
+DIMENSIONS WITH NO DELTA
+================================================================================
+
+- Voice and person (first-person plural "we", active voice)
+- Formality and clinical register
+- Sentence and paragraph density and complexity
+- Argumentation structure (intro, theory, methods, results, discussion pattern)
+- Methods conventions (past tense, procedural detail, identification strategy)
+- Hedging and epistemic caution (medium level, calibrated to identification)
+- Discussion and Conclusion content (contributions, limitations, future research)
+
+================================================================================
+COMMON PITFALLS (DOCUMENTED)
+================================================================================
+
+1. Citation format inertia — Author-date citations are field-standard in
+   ACCOUNT; WTJ's Chicago Notes-Bib requires complete rewriting.
+
+2. Abstract violations — 150-word limit is firm; abstracts with abbreviations
+   or forward footnote references are desk-rejected.
+
+3. Missing table of contents — This is a mandatory submission element for WTJ;
+   omission triggers desk rejection.
+
+4. Word count inflation — 28,000-word cap is tighter than some ACCOUNT journals
+   (which allow 35,000+).
+
+5. Ambiguous section numbering — Auto-numbered headings in Word drift during
+   editing; WTJ requires fixed, manually-entered numbers; violations flagged as
+   manuscript non-compliance.
+
+================================================================================
+RESEARCH SOURCES & METHODOLOGY
+================================================================================
+
+Primary sources consulted:
+- IBFD author guidelines page
+  (https://www.ibfd.org/authors-contributors/journal-articles-and-opinion-pieces)
+- IBFD instructions to authors for journals
+  (https://www.ibfd.org/ibfd-instructions-authors-journals)
+- IBFD journal landing page
+  (https://www.ibfd.org/ibfd-academic/publications/world-tax-journal-wtj)
+- Comparable tax law journal article (Oxford Journal of International Economic
+  Law, "What is wrong with the international business tax system?") for
+  structure reference
+
+Limitations:
+- Full-text WTJ articles were not accessible due to paywall (IBFD subscription
+  required)
+- PDF-format IBFD style guides returned binary-encoded content unsuitable for
+  text extraction
+- Analysis based primarily on public author guidelines and instruction pages
+  rather than empirical article corpus study
+- This is acceptable for ABS 1 journal (lower tier) where guidelines are often
+  more accessible than paywalled article corpus
+
+================================================================================
+CONCLUSION
+================================================================================
+
+The World Tax Journal's most significant deviations from the ACCOUNT field
+baseline are: (1) citation format (Chicago Notes & Bibliography vs. author-date),
+(2) mandatory table of contents, (3) explicit Introduction/Conclusion section
+structure, (4) strict 150-word abstract limit, and (5) British spelling
+requirement.
+
+The journal's substantive writing conventions (voice, argument structure,
+hedging, methods reporting) align closely with FIELD_SKILL, indicating that
+the journal follows broader ACCOUNT field norms despite lower ABS ranking.
+
+Authors from ACCOUNT background should prioritize learning Chicago Notes &
+Bibliography format before submission.
+
+================================================================================

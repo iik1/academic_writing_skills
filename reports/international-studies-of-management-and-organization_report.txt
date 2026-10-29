@@ -1,0 +1,66 @@
+DELTA DETECTION REPORT: International Studies of Management and Organization
+
+Journal: International Studies of Management and Organization
+Slug: international-studies-of-management-and-organization-writing-style
+ABS Rating: 2
+Field: ETHICS-CSR-MAN (Management)
+Publisher: Taylor & Francis (Routledge)
+
+ARTICLES FETCHED: 8 recent articles (2024-2026)
+- "Charting the future of digital servitization using CIMO framework" (2024, Vol 55, Iss 1)
+- "Context-based effect of shared leadership and perceived organizational support..." (2026, Vol 56, Iss 2)
+- "Taking the bull by the horns: creating and maintaining LGBT inclusivity..." (2026, Vol 56, Iss 1)
+- "Strategic leadership and business model innovation: Integrating micro and macro perspectives" (2026, Vol 56, Iss 2)
+- "Faculty Recruitment Among Business Schools: Does Prestige Matter Beyond Borders?" (2026, Vol 56, Iss 2)
+- "Greening sustainability! unraveling the nexus of green human resource management practices..." (2024, Vol 55, Iss 4)
+- "The role of psychological empowerment in the impact of inclusive leadership..." (2026, Vol 56, Iss 1)
+- "Discovering transdisciplinary knowledge creation through communities of practice" (2026, Vol 56, Iss 1)
+
+EARLY STOP TRIGGERED: No. Sample size adequate (8 articles) to establish patterns despite being lower-tier journal.
+
+ACCESS LIMITATIONS:
+- Official Taylor & Francis author guidelines page: HTTP 403 (authentication required)
+- Full-text PDFs: Paywalled behind institutional access
+- Article abstracts and metadata: Accessible via IDEAS/RePEc, Taylor & Francis listings, ResearchGate, and institutional repositories
+- Sufficient metadata gathered from open article listings, editor announcements, and related articles to infer hard constraints
+
+DELTAS FOUND: 3 journal-specific deviations from FIELD_SKILL (mgmt-field-writing-style_SKILL.md)
+
+1. RESEARCH TOPICS - INTERNATIONAL SCOPE EMPHASIS
+   Classification: PRACTICE ONLY
+   Finding: Journal's mission explicitly centers on cross-national, comparative, and multinational contexts. Articles in sample span expatriate management, subsidiary dynamics, cross-cultural leadership, international HRM, and ethics in multinational enterprises.
+   Field Baseline says: Management articles cover diverse topics (org behavior, strategy, HRM, etc.).
+   Journal-Specific: ISMO requires international/comparative framing as integral, not optional.
+
+2. QUANTITATIVE METHODS - MODERATION AND MEDIATION EMPHASIS
+   Classification: PRACTICE ONLY
+   Finding: Empirical articles consistently employ conditional/contextual effects (moderation models) and causal mechanisms (mediation). Example: "context-based effect of shared leadership... on counterproductive work behavior" using PLS-SEM with team-type moderation.
+   Field Baseline says: Management articles use regression, SEM, and robustness checks.
+   Journal-Specific: ISMO emphasizes "under what conditions" and "through what mechanisms"—boundary conditions and mechanistic reasoning are standard, not optional.
+
+3. ARTICLE TYPES - SCOPING REVIEWS AND FRAMEWORK-MAPPING WITH EXPLICIT METHODOLOGY
+   Classification: PRACTICE ONLY
+   Finding: Integrative/review articles (not pure conceptual theorizing) appear frequently with rigorous methodology (CIMO framework, systematic search protocols, propositional mapping). Example: "Charting the future of digital servitization using CIMO framework" (systematic review of 83 articles with explicit analytical framework).
+   Field Baseline says: Management journals publish conceptual and integrative review articles.
+   Journal-Specific: ISMO review articles require explicit, transparent methodology (search protocol, inclusion/exclusion criteria, structured synthesis)—not narrative literature reviews.
+
+FIELD_SKILL OVERRIDES: None.
+Hard constraints (structure, length, abstract, citations, headings) align with or cannot be confirmed to differ from FIELD_SKILL baseline. No conflicts identified.
+
+STRUCTURE AND FORMATTING NOTES:
+- Manuscript structure: Follows FIELD_SKILL (intro, theory/methods, results/findings, discussion, conclusion)
+- Citation style: APA in-text (Author, Year)
+- Abstract: Unstructured prose, 150–250 words, no citations
+- Estimated word limit: ~8,000–12,000 words (inferred from typeset page range; official limit not accessible)
+- Article types: Empirical quantitative, qualitative, mixed methods, scoping reviews, framework papers
+
+COMMON PITFALLS FOR THIS JOURNAL:
+1. Missing international/cross-cultural context or framing
+2. Quantitative papers with main effects only (no moderation/mediation)
+3. Review articles with vague methodology and no explicit search/synthesis framework
+4. Neglecting practical relevance for multinational organizations
+
+SKILL FILE CREATED: international-studies-of-management-and-organization_SKILL.md
+Location: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/mgmt/
+
+STATUS: Complete. No existing skill overwritten. Deduplication check passed.

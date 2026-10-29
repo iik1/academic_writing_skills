@@ -1,0 +1,24 @@
+Journal: Journal of Air Transport Management
+Slug: journal-of-air-transport-management
+ABS: 1
+Field: ECON
+Publisher: Elsevier
+
+Articles fetched: 8 (abstracts only, via RePEc/IDEAS; ScienceDirect blocked direct fetch with 403 on both guide-for-authors and article pages)
+Early stop triggered: No (this is an ABS 1 journal; 8 abstracts judged a reasonable good-faith sample given the access chain, per instructions allowing a smaller sample for lower-tier journals)
+
+Deltas found: 1 substantive (PRACTICE ONLY)
+  - Subject-matter mix skews toward applied operations-research / optimization / engineering-adjacent papers (genetic algorithms, MILP, multi-agent systems) rather than purely econometric identification papers. Labeled PRACTICE ONLY, not a stated norm; flagged as a "Common Pitfall" to avoid over-forcing a reduced-form econometric template.
+  - All other dimensions (voice, hedging, citation format/density, statistical reporting, structure) converged with FIELD_SKILL -> labeled FIELD DEFAULT.
+
+FIELD_SKILL overrides: none identified. Citation style, abstract format, structure all consistent with FIELD_SKILL defaults / standard Elsevier house style.
+
+Additional hard constraints not in FIELD_SKILL (documented, not true overrides, but additive submission requirements):
+  - Highlights required at submission (Elsevier standard).
+  - Graphical Abstract required/encouraged (531x1328 px, TIFF/EPS/PDF/MS Office; subject to Elsevier GenAI policy).
+
+Access-limitation notes:
+  - ScienceDirect guide-for-authors page returned HTTP 403 to WebFetch; guideline content reconstructed indirectly via WebSearch snippets and third-party citation-style mirrors (Paperpile, scispace).
+  - No full-text articles were accessible; all spot-check evidence is abstract-level only, sourced via RePEc/IDEAS (ideas.repec.org/s/eee/jaitra.html and individual article pages).
+  - Word/page limits and structured-abstract requirements could not be confirmed from any accessible source and are left undocumented in the skill rather than fabricated.
+  - Semantic Scholar API attempts returned HTTP 429 (rate limited); not used as a source.

@@ -1,0 +1,18 @@
+Journal: China Finance Review International
+Slug: china-finance-review-international
+ABS: 1
+Field: FINANCE
+
+Articles fetched: 15 (abstract/title level via IDEAS/RePEc and Emerald abstract-preview pages; no full text accessible - all Emerald full-text pages returned CAPTCHA/403 in this environment)
+Early stop triggered: No (reached target sample of 10-15 via secondary access routes)
+
+Deltas found: 1 major (ENFORCED)
+  - Abstract format: mandatory Emerald structured abstract (Purpose / Design-methodology-approach / Findings / Originality-value, ~250-word cap) replaces FIELD_SKILL's single-paragraph abstract. Confirmed present in every sampled CFRI abstract (e.g. Yang/Cai/Webb 2025; AI-carbon-emissions article; housing-policy article; American-options-pricing article).
+  - Minor/non-delta note: journal scope is not strictly China-gated despite the title - several sampled accepted articles are on India, BRICS panels, and OECD countries. Recorded as a scope observation, not a writing-style delta.
+
+FIELD_SKILL overrides: Abstract structure (see above). No other confirmed overrides - citation style (Harvard) is functionally equivalent to FIELD_SKILL's author-date convention; section structure, heading numbering, voice/register, and hedging could not be distinguished from FIELD_SKILL given abstract-only access, and are recorded as FIELD DEFAULT.
+
+Access limitation notes:
+- The journal's official author-guidelines pages (emerald.com/cfri/author-guidelines and emeraldgrouppublishing.com/journal/cfri) both returned CAPTCHA/403 walls; no institutional EZProxy access available in this environment.
+- Word/page-limit figures (5,000-10,000 words) come from a secondary aggregator search snippet, not the primary guidelines page, and are flagged as approximate/unverified in the skill file.
+- All 15 sampled articles were assessed at abstract/title level only (via IDEAS/RePEc mirrors and Emerald's public abstract-preview pages); full-text prose (voice, citation density, robustness treatment) could not be verified and is marked FIELD DEFAULT by default rather than asserted as a confirmed delta.

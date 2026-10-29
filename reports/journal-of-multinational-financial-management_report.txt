@@ -1,0 +1,17 @@
+Journal: Journal of Multinational Financial Management
+Slug: journal-of-multinational-financial-management
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 7 (abstracts/topic summaries via WebSearch snippets; no full text accessible)
+Early stop triggered: No (ran full good-faith process; stopped adding articles once evidence saturated and it was clear no journal-specific delta was emerging)
+
+Deltas found: 0. No dimension showed a confirmed, evidenced delta from finance-field-writing-style. All sections marked "Follows FIELD_SKILL norm" / FIELD DEFAULT.
+
+FIELD_SKILL overrides: none confirmed.
+
+Access-limitation notes:
+- The ScienceDirect Guide for Authors page (https://www.sciencedirect.com/journal/journal-of-multinational-financial-management/publish/guide-for-authors) returned HTTP 403 Forbidden on every direct WebFetch attempt, including via the Elsevier.com redirect and a Google cache attempt.
+- Guideline content was reconstructed only from WebSearch result snippets, which confirmed: highlights required at submission, keywords required (abbreviations only if field-standard), and standard Elsevier publishing-ethics boilerplate. No confirmed word/page limits, no confirmed abstract word cap, JEL code requirement unconfirmed.
+- Full-text articles are paywalled; RePEc/IDEAS/EconPapers pages either 404'd or returned stale cached content from 2006-2007. All 7 spot-checked articles were assessed via WebSearch-surfaced abstract snippets or topic summaries only, not full text.
+- Given the thin access chain and ABS 2 tier, this is a good-faith, intentionally short skill per the assignment's instructions for lower-tier/niche journals.

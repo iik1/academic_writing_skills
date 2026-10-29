@@ -1,0 +1,39 @@
+Journal: Asian Review of Accounting
+Slug: asian-review-of-accounting
+ABS: 2
+Field: ACCOUNT
+
+Articles fetched: 7 (abstract-level, via search-engine extraction; no full-text access achieved)
+  - Sun, Houqe, Bhuiyan & Zaman (2025) - audit fees / financial secrecy culture
+  - Sun, L. (2025) - corporate culture and discontinued operations
+  - Guan, Wen & Liu (2025) - share lockup / tone management
+  - Soetanto & Agustia (2024) - financial statement comparability and cash holding
+  - Khan, Jan & Zia-ul-haq (2024) - AI adoption, audit quality, integrated reporting
+  - Chen (2024) - IFRS 15 impact on revenue/earnings quality
+  - Kumar, Sureka & Pandey (2020) - bibliometric retrospective of ARA 1992-2019
+
+Early stop triggered: No (target of 10-15 not reached; documented as good-faith effort per
+instructions for ABS 2 / thin-access journal - direct emerald.com pages returned CAPTCHA/403
+walls repeatedly; relied on WebSearch snippet extraction and IDEAS/RePEc listings instead).
+
+Deltas found: 1 substantive delta (Emerald structured-abstract requirement: Purpose /
+Design-methodology-approach / Findings / Originality-value fields, max 250 words). This is
+an Emerald house-wide policy rather than ARA-unique, but is recorded as a HARD_CONSTRAINT
+since FIELD_SKILL does not specify structured-abstract fields.
+All other dimensions (voice, statistical reporting, citation density, structural pattern,
+hedging, methods conventions) converged with FIELD_SKILL - no deviations observed in the
+sampled abstracts, including no relaxation of rigor despite the ABS 2 tier.
+
+FIELD_SKILL overrides: none (abstract structure is additive, not a conflict/override of
+FIELD_SKILL content, since FIELD_SKILL is silent on Emerald-specific abstract fields).
+
+Access-limitation notes:
+- Direct fetches to emerald.com/ara and emeraldgrouppublishing.com pages consistently
+  returned CAPTCHA challenge pages or 403 Forbidden.
+- All article and guideline content was obtained via WebSearch's search-engine-extracted
+  snippets or third-party indexes (IDEAS/RePEc), not direct full-text or full guideline-page
+  fetch.
+- No full-text article was read; all observations are abstract/title-level only, per the
+  PHASE 2 allowance for paywalled/thin-access journals.
+- Given ABS 2 tier and thin access chain, sample size of 7 was accepted as a good-faith
+  effort rather than pursuing further retries against blocked pages.

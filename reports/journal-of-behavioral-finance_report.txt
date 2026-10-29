@@ -1,0 +1,21 @@
+Journal: Journal of Behavioral Finance
+Slug: journal-of-behavioral-finance
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 12 (title/abstract-level; full text inaccessible for all — tandfonline.com and SSRN both returned HTTP 403 to direct fetch)
+Early stop triggered: No (reached target sample size of 10-15 via WebSearch snippets)
+
+Deltas found: 3 dimensions
+  1. Citation style — ENFORCED. Journal guidelines require numbered/bracket in-text citations (e.g., "Smith [1990]"), not FIELD_SKILL's author-year parenthetical norm. This is the most significant delta and directly overrides FIELD_SKILL.
+  2. Voice and register — GUIDELINE ONLY / RELAXATION. Guidelines explicitly ask for plainer, more accessible prose ("write the way you talk," "colorful language encouraged") vs. FIELD_SKILL's high-formality/dense-register default. Modest support in title framing from spot-check sample.
+  3. Manuscript formatting (tables/figures/references on separate trailing pages, one exhibit per page) — ENFORCED, but this is a submission-formatting artifact rather than a stylistic delta.
+  Additional PRACTICE-ONLY note: many sampled titles foreground a specific dataset/case in the title (e.g., "Evidence from Robinhood Traders," "Kodak Manic Episode") — a mild framing pattern, not a rule.
+
+FIELD_SKILL overrides: Citation style (bracket/numbered instead of author-year parenthetical) is the sole direct override. Length cap (~30 pages double-spaced) and equation-minimization rule are journal-specific additions not covered by FIELD_SKILL (which explicitly excludes word/page limits).
+
+Access-limitation notes:
+- tandfonline.com (journal's home platform) blocked all direct WebFetch attempts with HTTP 403, including the official guidelines PDF (files.taylorandfrancis.com/hbhfauth.pdf) and individual article pages.
+- SSRN working-paper PDF delivery link also returned 403.
+- All 12 spot-checked articles were assessed via WebSearch-surfaced titles and short abstract summaries only, not full text. This limits confidence on within-article dimensions (citation density, hedging calibration, sentence-level voice) — these are marked FIELD DEFAULT for lack of contrary evidence rather than confirmed matches.
+- HARD_CONSTRAINTS were reconstructed from a secondary mirror of the author instructions (dremanbehavioralfinance.org/journals/instructions.html) which appears to reproduce the journal's official (Taylor & Francis) author guidelines; this was corroborated by independent WebSearch summaries of the same official PDF (agreement on APA style, 30-page limit, double-spacing), giving reasonable but not first-hand confidence.

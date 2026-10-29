@@ -1,0 +1,73 @@
+JOURNAL SKILL GENERATION REPORT
+================================
+
+Journal: European Journal of International Management
+Slug: european-journal-of-international-management-writing-style
+ABS Rating: 2
+Field: IB&AREA
+Publisher: Inderscience Enterprises Ltd.
+
+EXECUTION SUMMARY
+-----------------
+Early stop triggered: No
+Articles fetched: 3 (abstracts and metadata from 2026 Vol. 28)
+Deltas found: 3 material deltas
+
+DELTAS IDENTIFIED
+-----------------
+1. Abstract word limit (ENFORCED): <150 words (vs. FIELD_SKILL 150-250 range)
+   - Material tightening; requires ruthless compression of research aims, methods, conclusions
+
+2. Language specification (ENFORCED): Explicit requirement for UK English and UK terminology
+   - FIELD_SKILL does not specify language variety
+   - Affects spelling (-ise vs. -ize, colour vs. color), vocabulary (postgraduate vs. graduate student)
+
+3. Article word ceiling (ENFORCED): 5,000-7,000 words for main text (excluding figures, tables, references)
+   - FIELD_SKILL does not specify total word count
+   - Below typical 8,000-12,000 range at higher-tier journals
+   - Forces tighter argumentation; abbreviated literature reviews common
+
+FIELD_SKILL OVERRIDES
+---------------------
+Yes, 2:
+- Abstract length: EJIM caps at <150 (FIELD_SKILL allows up to 250)
+- Article length: EJIM caps main text at 7,000 (FIELD_SKILL silent but field practice often allows longer)
+
+ACCESS LIMITATIONS & METHODOLOGY NOTES
+--------------------------------------
+Full-text access to EJIM articles is behind Inderscience paywall. Spot-check limited to:
+- Abstract and metadata from 3 articles (2026 Vol. 28)
+- Inderscience general author guidelines (https://www.inderscience.com/mobile/inauthors/index.php)
+- Journal homepage and calls for papers on Inderscience website
+
+No institutional EZProxy access available in this environment. Good-faith effort relied on:
+- Publicly visible guideline pages (Inderscience author guidelines)
+- Publisher landing pages (journal homepage)
+- Article metadata and abstracts from publisher website
+- Inderscience general guidelines applicable to all journals in their portfolio
+
+Full-text article analysis was not possible due to paywall restriction, but abstract format, length, citation patterns (via metadata), and explicit publisher requirements were examined and documented.
+
+DIMENSIONALITY COVERAGE
+-----------------------
+Dimensions with no delta from FIELD_SKILL (verified against baseline):
+- Voice and person (first-person acceptable, passive acceptable)
+- Citation density (Harvard format expected, no contradiction to FIELD_SKILL)
+- Hedging and epistemic caution (moderate hedging expected)
+- Results presentation (tables + prose narrative)
+- Discussion/conclusion norms (loop back, limitations, future research)
+- Sentence and paragraph style
+- Argument structure (CARS introduction, contributions, limitations)
+
+FIELD BASELINE USED
+-------------------
+international-business-field-writing-style (FIELD_SKILL)
+Location: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/fields/international-business-field-writing-style_SKILL.md
+
+SKILL FILE LOCATION
+-------------------
+C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/international-business/european-journal-of-international-management_SKILL.md
+
+TIMESTAMP
+---------
+Generated: 2026-07-02

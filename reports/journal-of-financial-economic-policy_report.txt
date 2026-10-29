@@ -1,0 +1,21 @@
+Journal: Journal of Financial Economic Policy
+Slug: journal-of-financial-economic-policy
+ABS: 1
+Field: FINANCE
+
+Articles fetched: 0 full-text; 3 abstracts/metadata confirmed via indexed snippets/RePEc; ~10 additional titles surveyed via RePEc listing (topic-level only, no abstracts).
+Early stop triggered: No (task instructions permit a smaller good-faith sample for ABS 1 journals; access chain was thin throughout, documented rather than fabricated).
+
+Deltas found: 1 confirmed delta, 1 low-confidence practice note
+- Structural Deviations (ENFORCED): Mandatory structured abstract (Purpose / Design-methodology-approach / Findings / Originality-value) replacing FIELD_SKILL's unstructured single-paragraph abstract default. This is Emerald's house-wide format, confirmed present in JFEP-indexed abstracts.
+- Other Journal-Specific Patterns (PRACTICE ONLY / RELAXATION): Sampled titles skew toward applied, single-country/emerging-market empirical policy studies, consistent with ABS 1 tier relaxation of the ABS 4*/4 rigor baseline. Not confirmed at full-text prose level.
+
+FIELD_SKILL overrides: Abstract format only (structured vs. unstructured). No other confirmed overrides.
+
+Access-limitation notes:
+- emerald.com/jfep pages (author guidelines, issue browse, article-abstract pages) all returned a CAPTCHA wall via WebFetch and could not be read directly in this environment.
+- emeraldgrouppublishing.com author guidelines mirror returned HTTP 403.
+- Could not confirm word/page limits, citation style specifics, heading conventions, table/figure rules, or explicit prohibitions from a directly accessible JFEP-specific source. These are marked "not confirmed" in the skill file rather than fabricated, with Emerald's known house-wide conventions noted as inferred background where relevant.
+- RePEc/IDEAS listing (ideas.repec.org/s/eme/jfeppp.html) was accessible and used for recent article titles/topics (2024-2025 issues).
+- One PMC-indexed abstract (Ghana openness-policy paper, JFEP) was accessible and confirmed the structured-abstract format directly.
+- Two additional JFEP articles were found only as title/topic-level ResearchGate listings, not full abstracts.

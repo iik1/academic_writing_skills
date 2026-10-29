@@ -1,0 +1,20 @@
+Journal: Advances in Taxation
+Slug: advances-in-taxation
+ABS: 2
+Field: ACCOUNT
+
+Articles fetched: 11 chapter titles/authors identified across 2 volumes (Vol. 31: 8 chapters; Vol. 30: 3 chapters), plus 1 full abstract read in detail (Krieg & Li, Vol. 31). No full-text chapters were accessible.
+
+Early stop triggered: No (dedupe check found no existing skill for this journal; proceeded through full pipeline).
+
+Deltas found: 1 low-confidence delta (PRACTICE ONLY) — this venue is an editor-curated annual book series rather than a rolling-issue journal, and appears to include standalone literature-review chapters and an editor retrospective/review note per volume more often than the ABS 4*/4 baseline. All other dimensions (voice, statistical reporting, citation density, hedging, discussion/conclusion norms) showed no observable delta from FIELD_SKILL, though confidence is limited by thin evidence.
+
+FIELD_SKILL overrides: none confirmed (no hard constraints could be verified due to access blocks).
+
+Access-limitation notes:
+- Emerald's insight.com platform (emerald.com/insight/...) returned CAPTCHA verification screens on every direct fetch attempt, blocking the journal's official guidelines page and all full-text articles.
+- emeraldgrouppublishing.com PDF advance-information flyer returned 403 Forbidden.
+- RePEc/IDEAS does not appear to index this series distinctly (searches returned unrelated "advances in taxation theory" papers, not this book series).
+- Relied on third-party booksellers (indiepubs.com successfully fetched a full table of contents for Vol. 31) and search-engine snippets for chapter titles, plus one abstract extracted via search snippet (Krieg & Li).
+- Abstract format (structured vs. unstructured) could not be confirmed directly for this journal; inferred only by analogy to a sister Emerald "Advances in..." book series (Advances in Accounting Behavioral Research), and flagged as low-confidence/GUIDELINE ONLY in the skill file.
+- Given the ABS 2 tier and thin public information, the skill file is intentionally short and flags most sections as "not accessible" or "no delta observed" rather than fabricating detail.

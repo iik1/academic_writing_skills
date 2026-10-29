@@ -1,0 +1,22 @@
+Journal: Journal of the Association of Environmental and Resource Economists (JAERE)
+Slug: journal-of-the-association-of-environmental-and-resource-economists
+ABS: 3
+Field: ECON
+
+Articles fetched: 14 (abstract/front-matter level; full text paywalled at journals.uchicago.edu, which returned HTTP 403 to automated fetch)
+Early stop triggered: No (delta set stabilized after ~10-12 articles; continued to 14 for coverage across 2022-2026)
+
+Deltas found: 2 substantive dimensions
+  1. Length/Abstract (HARD_CONSTRAINT): 16,000-word all-inclusive manuscript cap; 150-word unstructured abstract cap. Both are journal-specific numeric limits absent from FIELD_SKILL.
+  2. Tables and Figures (HARD_CONSTRAINT, RELAXATION-adjacent emphasis): explicit editorial guidance that self-explanatory tables/figures (informative titles, headers, notes) affect acceptance/citation likelihood -- more prescriptive than FIELD_SKILL's general expectation.
+  3. Explicit Prohibitions (HARD_CONSTRAINT): binding replication-documentation requirement for empirical papers; no dual submission.
+  4. Other Journal-Specific Patterns (PRACTICE ONLY, low-prevalence): occasional interdisciplinary framing hook in a subset of abstracts (e.g., groundwater scarcity and violence, radon risk maps and housing prices) reflecting AERE's cross-disciplinary charter -- not a stated norm, does not override FIELD_SKILL Introduction structure.
+
+All other dimensions (voice/person, sentence style, introduction structure, methods conventions, results reporting, discussion/conclusion, hedging) were FIELD DEFAULT -- no delta observed.
+
+FIELD_SKILL overrides: length caps (16,000 words incl. references/tables/figures; 150-word abstract), replication-documentation requirement, and citation ordering rule (chronological-then-alphabetical for same-year, "et al." at every mention for 3+ authors).
+
+Access-limitation notes:
+- journals.uchicago.edu/journals/jaere/instruct and /prep-gen both returned HTTP 403 to direct WebFetch; all guideline content was reconstructed from Google/Bing-indexed snippets of those pages via WebSearch.
+- No full-text articles were accessible (UChicago Press paywall); all 14 spot-checked articles were assessed via abstracts/front matter from RePEc/IDEAS (ideas.repec.org/s/ucp/jaerec.html and per-DOI pages) and WebSearch-indexed abstract snippets.
+- No JEL codes or explicit keyword lists were visible for most articles beyond a handful (a few RePEc pages did list JEL codes: Q53/H23/R21; D04/L98/Q25/R22; Q54/F18/H23).

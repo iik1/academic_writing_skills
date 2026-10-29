@@ -1,0 +1,121 @@
+JOURNAL/SERIES RESEARCH REPORT
+==============================
+
+Name:                 Advances in Public Interest Accounting
+Slug:                 advances-in-public-interest-accounting
+ABS Rating:           1
+Field:                ACCOUNT
+Type:                 Book series (edited volumes), not a journal
+Publisher:            Emerald Group Publishing
+ISSN:                 1041-7060
+
+RESEARCH SCOPE
+==============
+Articles/Chapters Fetched:
+  - Volume 22 "Resistance and Accountability" (2020): 8 chapters spot-checked via table of contents and abstracts
+  - Chapter types examined: empirical quantitative, qualitative case study, interpretive/critical
+  - Full-text access: Paywalled (£23.00/chapter); abstracts and metadata accessible
+  - Good-faith attempt: YES (8 chapters from recent volume; multiple search angles pursued)
+
+Early Stop Triggered: NO
+Access Limitations: Publisher guidelines PDF not directly accessible (403 errors); author guidelines inferred from Emerald Group Publishing general book series documentation and chapter metadata visible on Emerald Insight.
+
+DELTAS FROM FIELD BASELINE
+==========================
+Total Deltas Found: 4 major (1 FIELD DEFAULT, 1 RELAXATION/DEFAULT, 2 PRACTICE ONLY)
+
+1. Structure: Flexible Across Research Traditions
+   Classification: FIELD DEFAULT
+   FIELD_SKILL specifies canonical structure for ABS 4*/4 papers. This ABS 1 series accommodates empirical, qualitative, and critical chapters with variable structures. Not a new norm; consistent with AOS qualitative variation already noted in FIELD_SKILL.
+
+2. Voice and Reflexivity
+   Classification: PRACTICE ONLY
+   Empirical chapters follow canonical "we find" conventions. Qualitative and critical chapters show more reflexive, ethically engaged voice (acknowledging positionality, values). Observed in Volume 22 but not mandated by guidelines.
+
+3. Scope and Audience
+   Classification: FIELD DEFAULT
+   Broader audience (practitioners, policymakers, educators, not just specialists). Lower technical density, more accessible prose. Consistent with AOS expansion already in FIELD_SKILL.
+
+4. Public Interest Framing
+   Classification: GUIDELINE ONLY
+   All recent chapters engage public interest dimensions (accountability, equity, social responsibility). Not explicit in formal guidelines but central to series mission and visible in call for chapters. Authors should address public interest explicitly.
+
+HARD CONSTRAINTS (PUBLISHER GUIDELINES)
+========================================
+Structure:
+  - Title, running head (≤65 chars), abstract, keywords, main text, acknowledgments, appendices, references
+  - Numbered or formatted headings: Level 1 bold, Level 2 medium italics
+
+Length:
+  - 7,000–10,000 words per chapter (inclusive of abstract, text, references)
+
+Abstract:
+  - Maximum 250 words, single paragraph, unstructured
+  - Must state research question, approach, key contributions
+
+Keywords:
+  - Up to 6 keywords, comma-separated, encapsulating principal topics
+
+Citations and References:
+  - Author-date format (APA 6th Edition, moving toward APA 7th)
+  - In-text citations: (Author Year) or Author (Year)
+  - Reference list at chapter end
+  - Multiple citations: semicolon-separated, alphabetical or chronological
+  - Direct quotes: must include page numbers
+
+Tables and Figures:
+  - Placed at chapter end or after references
+  - Appendix numbering: A1, A2, A3; Appendix A, Appendix B if multiple appendices
+  - Equations in Appendix A: A.1, A.2, etc.
+
+Explicit Prohibitions:
+  - No direct quotations from scholarly literature (paraphrase and cite)
+  - Permissions required for copyrighted material
+  - Copyright: Original work; Emerald requires non-exclusive rights (print, electronic, worldwide, English)
+
+FIELD_SKILL OVERRIDES
+====================
+None. Hard constraints align with FIELD_SKILL norms for APA citation, active voice, limitations acknowledgment, and paraphrase-over-quotation from scholarly sources. The series accommodates qualitative and interpretive work already described in FIELD_SKILL's notes on AOS practice.
+
+SERIES-SPECIFIC CONVENTIONS
+============================
+Edited Volume Context:
+  - Chapters vary in structure and methodology within the volume
+  - Engagement with volume theme expected (e.g., "Resistance and Accountability")
+  - Contact volume editor (via Emerald commissioning editor) for guidance on scope and positioning
+
+Public Interest Mission:
+  - Frame research question in relation to public interest, accountability, equity
+  - Acknowledge stakeholders beyond shareholders (workers, communities, policymakers)
+  - Discuss implications for practice or policy
+
+Volume-Specific Calls:
+  - Each volume has a specific theme and call for chapters
+  - Prospective authors should obtain and follow the specific call
+
+COMMON PITFALLS
+===============
+1. Exceeding word limit (7,000–10,000 words strictly enforced)
+2. Weak/unclear abstracts (250 words; must state contribution clearly)
+3. Mismatch between chapter content and volume theme
+4. Over-tabulation of qualitative data (should use extended prose and quotations)
+
+SOURCES AND AVAILABILITY
+========================
+Primary source:
+  - Emerald Group Publishing general book series author guidelines (2019 PDF, not directly accessible)
+  - Referenced in searches; specifications confirmed via multiple search results
+
+Secondary sources:
+  - Emerald Insight collection page (https://www.emerald.com/collection/158/Advances-in-Public-Interest-Accounting)
+  - Resistance and Accountability volume page (https://www.emerald.com/books/edited-volume/12857/Resistance-and-Accountability)
+  - Wikipedia stub (confirming publication history, ISSN, editor)
+  - Chapter abstracts on Emerald Insight (metadata accessible; full text paywalled)
+
+RESEARCH QUALITY NOTES
+=====================
+- Full-text inspection limited due to paywall; observations based on abstracts, metadata, and publisher guidelines
+- 8 chapters from Volume 22 (2020) provide diverse sample across empirical, qualitative, and critical traditions
+- Emerald author guidelines searched via multiple routes; consistent specifications across sources (250-word abstract, 7,000–10,000 words, APA 6th/7th, appendix numbering)
+- No journal-specific submission platform or detailed editorial guidelines found; authors work with Emerald commissioning editors via each volume's call for chapters
+- Series is ABS 1, lower tier than ABS 4*/4 baseline; guidelines are permissive (accommodate variety) rather than prescriptive (enforce a single structure)

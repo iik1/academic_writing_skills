@@ -1,0 +1,24 @@
+Journal: Journal of Income Distribution
+Slug: journal-of-income-distribution
+ABS: 1
+Field: ECON
+
+Articles fetched: 10 distinct articles spot-checked (3 full-text via PDF download and extraction; 3 abstract/metadata pages via WebFetch; 4 title/abstract-only via search results and RePEc listing).
+  Full-text: Cuesta et al. 2018 (48pp policy review), Esteban 2018 (invited lecture transcript), Hümbelin & Farys 2018 (empirical tax redistribution paper)
+  Abstract-level: Hérault & Jenkins 2022, Wildauer & Kapeller 2019, Kumar 2025
+  Title/abstract-snippet only: Thewissen et al. 2018, Rana & Kamal 2018, Atems & Shand 2020, Parcero 2020
+
+Early stop triggered: No — sample of 10 reached per instructions for ABS 1 journal (lower bound of 10-15 range).
+
+Deltas found: 4 dimensions
+  1. Citation Density — PRACTICE ONLY / low-prevalence (policy-review subgenre shows much higher density than FIELD_SKILL norm; standard papers conform)
+  2. Structural Deviations — RELAXATION (journal accepts invited-lecture transcripts and review essays alongside standard IMRAD papers; ABS 1 tier relaxes but does not redefine FIELD_SKILL structure)
+  3. Other Journal-Specific Patterns — JEL code inclusion inconsistent (GUIDELINE ONLY/low-prevalence); author affiliation given as title-page footnote symbols rather than numbered note (PRACTICE ONLY, cosmetic)
+  4. Headings — unnumbered descriptive headings observed as house practice (no explicit guideline found)
+
+FIELD_SKILL overrides: none identified (no HARD_CONSTRAINT from author guidelines contradicts FIELD_SKILL; guidelines are too thin to specify anything that would override)
+
+Access limitation notes:
+  - The journal's own OJS-hosted author guidelines pages (About/Submissions/Information for Authors) contain almost no substantive content beyond accepted file formats (OpenOffice/Word/RTF/PDF/TEX) and a dual-submission prohibition. No stated structure, length, abstract format, citation style, or heading rules were found on the guidelines pages themselves.
+  - Full-text access was achieved for 3 articles via direct PDF download from the journal's own RePEc mirror (glendon.yorku.ca/repec/uploads/repec/jid/articles/*.pdf), which bypassed paywall restrictions on the OJS platform itself (jid.journals.yorku.ca returned 404 for direct article PDF links in some cases; the RePEc mirror worked via curl with -k to bypass a certificate verification issue).
+  - HARD_CONSTRAINTS in the skill are therefore inferred primarily from observed article practice rather than a stated style guide, and this is flagged explicitly in the skill file.

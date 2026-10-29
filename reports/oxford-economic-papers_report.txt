@@ -1,0 +1,18 @@
+Journal: Oxford Economic Papers
+Slug: oxford-economic-papers
+ABS: 3
+Field: ECON
+Publisher: Oxford University Press (Oxford Academic)
+
+Articles fetched: 8 spot-checked (2 with abstract text retrieved: Ho 2025 "Tariffs and innovation..." DOI 10.1093/oep/gpaf021; Gebrewolde, Rockey & Ullah 2025 "The global gender gap in labour income" DOI 10.1093/oep/gpaf011; remaining 6 by title only from issue table of contents). Full text was not accessible for any article (paywalled). No 15 distinct full articles were reachable; stopped after the access chain (guidelines page, issue TOC, WebSearch snippets, RePEc/IDEAS) was exhausted and no new deltas were emerging.
+
+Early stop triggered: Yes — access-limited, not delta-saturation-limited. The General Instructions page at academic.oup.com/oep/pages/General_Instructions is JavaScript-rendered and WebFetch could only retrieve navigation/JEL-menu content, not the substantive guidelines text. Key hard constraints (150-word abstract cap, prior-publication/working-paper policy, data-availability policy, mandatory Funding section, Licence to Publish requirement) were recovered indirectly via WebSearch result snippets that quoted or summarized the guidelines page, not via direct page fetch.
+
+Deltas found: 0 stylistic deltas from FIELD_SKILL. All hard constraints identified are journal-specific submission/policy requirements (abstract word cap, data policy, funding section placement, working-paper freeze after acceptance) rather than voice/structure/statistical-reporting deltas. No dimension showed a stylistic deviation from FIELD_SKILL in the accessible abstracts.
+
+FIELD_SKILL overrides: none identified (no stylistic conflicts found; only journal-specific procedural/submission requirements layered on top, per Hard Constraints section of the skill file).
+
+Access-limitation notes:
+- academic.oup.com/oep/pages/General_Instructions did not yield extractable body text via WebFetch (likely client-side rendered); relied on WebSearch snippets quoting this page for hard constraints.
+- Full-text articles were paywalled throughout; abstract-only or title-only spot-checking was used, consistent with instructions.
+- No SSRN/NBER/RePEc full-text working paper versions of OEP-published articles were located during this pass (attempts for the Ho and Gebrewolde et al. papers found only abstract-level text and one author's own PDF mirror).

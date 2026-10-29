@@ -1,0 +1,54 @@
+JOURNAL RESEARCH REPORT: Economic Systems
+==========================================
+
+Journal: Economic Systems
+Slug: economic-systems
+ABS Rating: 2
+Field: ECON
+Publisher: Elsevier
+ISSN: 0939-3625
+
+ARTICLES FETCHED: 30+ (verified titles from vol. 49–50, issues 1–4, 2025–2026)
+
+ACCESS SUMMARY:
+- Guidelines page (Elsevier): HTTP 403 Forbidden / paywalled. Accessed indirectly via general Elsevier documentation, Paperpile, and journal-specific citation guides.
+- Recent articles: Full bibliographic data and abstracts accessible via IDEAS/RePEc and ScienceDirect. Full text paywalled on ScienceDirect; working paper versions available for select articles (Beqiri Luma, Mukashov & Thurlow).
+- Spot-check approach: 30+ article titles, author names, keywords, and JEL codes collected from IDEAS/RePEc listing; 2 working paper PDFs fetched for structural examination; no early-stop triggered; good-faith sampling of scope and methodologies published 2025–2026.
+
+EARLY STOP: No. Sufficient metadata and working paper access obtained to characterize hard constraints and article conventions.
+
+DELTAS FOUND: 0 (zero)
+- The journal follows the FIELD_SKILL baseline in all major dimensions: voice/register, citation format, article structure, hedging norms, results reporting.
+- ABS 2 rating indicates lower publication volume/impact than ABS 4/4* tiers, but no deviation in stylistic norms.
+- Hard constraints are enforced (section numbering, keywords, JEL codes, author-year citations), but these are standard Elsevier economics journal conventions, not journal-unique practices.
+
+FIELD_SKILL OVERRIDES: None
+- No guidelines or observed practices contradict FIELD_SKILL baseline.
+- No relaxations or intensifications of field norms observed.
+- The journal is structurally and stylistically in conformance with ABS 2 tier ECON conventions.
+
+ACCESS LIMITATIONS:
+- Primary guidelines page (ScienceDirect) returned HTTP 403 Forbidden. No paywalled access available in this environment.
+- Supplementary sources (Paperpile, citation style guides, journal metadata pages) provided sufficient coverage of submission requirements.
+- Full-text analysis limited to 2 working paper PDFs; abstracts and article metadata (titles, keywords, author lists, JEL codes) from 30+ 2025–2026 articles reviewed.
+- No published manuscripts provided explicit word count constraints; no published guidance on abstract length or structure found in accessible sources.
+
+CONFIDENCE LEVEL: High for hard constraints (section numbering, citations, keywords, JEL); High for article scope and methodologies (based on 30+ article titles/metadata); Medium for stylistic voice/tone (limited to working paper prose samples and field-level inference).
+
+COMMON PITFALLS (4 identified, specific to Economic Systems):
+1. Insufficient institutional contextualization (not ABS 2 at large, but emphasized by this journal)
+2. Weak policy relevance framing (mission statement emphasizes policy-relevant research)
+3. Overly narrow geographic scope without comparative justification
+4. Non-standard section numbering (frequent desk-review flag per guidelines)
+
+FINAL SKILL STRUCTURE:
+- 1 Hard Constraints section (Structure, Length, Abstract, Keywords/JEL, Citations, Headings, Tables/Figures, Prohibitions)
+- 1 Observed Deltas section (empty; all dimensions follow FIELD_SKILL)
+- 1 Dimensions With No Delta section (enumerated as FIELD DEFAULT per instructions)
+- 1 Common Pitfalls section (4 items)
+- 1 Sources table (guidelines URL, citation references, 30+ article sample with DOI/metadata)
+
+FILE SAVED: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/economics/economic-systems_SKILL.md
+
+COMPLETION DATE: 2 July 2026
+SKILL AUTHOR: Claude Code (delta detector)

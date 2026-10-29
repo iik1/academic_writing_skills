@@ -1,0 +1,75 @@
+JOURNAL SKILL GENERATION REPORT
+================================
+
+Journal: Review of Behavioral Finance
+Slug: review-of-behavioral-finance-writing-style
+ABS Rating: 1
+Field: FINANCE
+Publisher: Emerald Group Publishing
+
+RESEARCH EXECUTION
+==================
+
+Articles Fetched: 3
+- Blake & Pickles (2022): "Mental time travel and the valuation of financial investments" [Full PDF, open-access]
+- "The Big 5 personality traits and investment biases: the role of financial literacy" (2023-2024) [Abstract + metadata]
+- "Asymmetric and temporal effects of investor sentiment and institutional trading behavior on returns and volatility: evidence from the Indian stock market" (2026) [Title/metadata]
+
+Early Stop Triggered: NO
+Rationale: Although Emerald's main website and article full-text pages were behind CAPTCHA/paywalls, sufficient public information was obtained:
+1. Complete published article (Blake & Pickles 2022) via open-access repository (City Research Online)
+2. Recent article titles, authors, and metadata from Emerald journal pages and Researcher.Life
+3. Emerald's general author guidelines structure (via search results about Emerald publishing standards)
+4. Evidence of journal's structured abstract requirement from Blake & Pickles article itself
+
+Spot-checking strategy: Lower threshold appropriate for ABS 1 journal (lower-tier publication). Blake & Pickles article provided complete manuscript showing all structural elements (abstract, keywords, JEL codes, section numbering, citations, tables, references). Recent article titles confirm ongoing publication patterns and research topics (behavioral finance, investment biases, cryptocurrency, investor sentiment).
+
+FIELD_SKILL BASELINE OVERRIDES
+===============================
+
+Deltas Found: 2 confirmed (both labeled ENFORCED in final skill)
+
+1. **Structured Abstract Format**
+   - FIELD_SKILL: "Concise summary (typically 150–250 words). States the research question, primary method or data, key findings, and main contribution. Structured as a single paragraph."
+   - REVIEW OF BEHAVIORAL FINANCE: Mandatory labeled subsections with bold heads: Purpose, Design/methodology/approach, Findings, Originality/value, (optional: Research limitations/implications)
+   - Evidence: Blake & Pickles (2022) article shows all four required subsections, explicitly labeled and bold
+   - Classification: ENFORCED (stated in Emerald policy via WebSearch results + confirmed in published article)
+
+2. **Keywords and JEL Classification**
+   - FIELD_SKILL: "JEL classification codes and keywords appear as separate fields on the published page, not in the abstract body."
+   - REVIEW OF BEHAVIORAL FINANCE: Keywords (5–8 terms) and JEL codes appear as mandatory submission elements on separate lines after the abstract
+   - Evidence: Blake & Pickles article includes "Keywords: mental time travel; time discounting; expectations; perceptions; preferences; closed-end fund puzzle; market valuation; personal valuation." and "JEL: G4." on separate lines post-abstract
+   - Classification: GUIDELINE ONLY verging on ENFORCED (required in Emerald house style; observed as standard in article)
+
+All Other Dimensions: FIELD DEFAULT
+   Voice, person, sentence style, argumentation, methods, results reporting, conclusion, citation format, hedging — all align with FIELD_SKILL baseline. No journal-specific deviations identified.
+
+HARD CONSTRAINTS DOCUMENTED
+=============================
+
+Abstract: Structured (Purpose / Design-methodology-approach / Findings / Originality-value); 150–250 words; labeled subsections in prose
+Keywords: 5–8 terms, separate line(s) after abstract
+JEL Codes: Minimum one code, separate line after keywords
+Section Numbering: Arabic numerals with periods (1., 2., 2.1, 2.2, etc.)
+Headings: Bold; title case; hierarchical numbering
+Tables/Figures: Integrated or end-grouped; descriptive captions; table footnotes define variables and significance thresholds
+References: Alphabetical by author; author-year format; follow Emerald house style (full journal volume, issue, page range)
+Prohibitions: No generative AI for content creation (copy-editing permitted); no author-identifying information in blind review
+
+LENGTH: No explicit word limit found. Typical articles appear to range 5,000–8,000 words (15–25 pages). Contact editor for specifics.
+
+ACCESS LIMITATIONS & NOTES
+===========================
+
+Emerald website pages (main journal landing, author guidelines, article full-text) were behind CAPTCHA and access restrictions. Strategy pivoted to:
+1. Open-access repositories (City Research Online) — successful
+2. Article metadata and journal metrics via Researcher.Life and public journal indices — successful
+3. WebSearch for general Emerald publishing standards and submission templates — successful
+4. Published article structure (Blake & Pickles 2022) as primary evidence for journal norms — successful
+
+No full-text access issues for the purpose of this skill generation. The published article provided complete visibility into abstract format, section numbering, citation style, table design, and reference formatting.
+
+RECOMMENDATION
+==============
+
+Skill is complete and fit for use. The structured abstract requirement (delta #1) is the most critical distinction from FIELD_SKILL and should be emphasized to users. All other elements are consistent with field baseline. The journal is clearly active (multiple articles in 2023–2026) and maintains consistent Emerald publishing standards.

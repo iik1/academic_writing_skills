@@ -1,0 +1,22 @@
+Journal: Annals of Economics and Statistics
+Slug: annals-of-economics-and-statistics
+ABS: 1
+Field: ECON
+
+Articles fetched: 11 (abstract/metadata level across issues 152, 158, 159, 160; plus title-level survey of issues 149-160 for structural consistency check)
+Early stop triggered: No (good-faith sample achieved; access chain limited by paywalls/TLS error, documented per instructions for ABS 1 tier)
+
+Deltas found: 0 prose-level deltas from FIELD_SKILL. Hard constraints recorded (administrative/formatting, not style deltas):
+  - Abstract capped at 150 words (ENFORCED)
+  - Soft length target ~17,000 words / 45 pages (GUIDELINE ONLY)
+  - Mandatory JEL codes + keywords (ENFORCED, confirmed in all sampled articles)
+  - LaTeX/BibTeX typesetting for accepted manuscripts (administrative)
+  - Single-blind review, no simultaneous submission, COPE ethics (administrative)
+
+FIELD_SKILL overrides: none (no journal-specific voice/structure/hedging/citation deltas found)
+
+Access-limitation notes:
+  - JSTOR full text paywalled for all sampled articles.
+  - One working-paper PDF mirror (univ-gustave-eiffel.fr, Daly tax incentives paper) returned a TLS certificate verification error via WebFetch; could not confirm full-text prose style for that article, relied on WebSearch-extracted abstract/metadata instead.
+  - No accessible open-access full-text version found for any sampled article; conclusions on structure/voice rest on abstracts, titles, JEL codes, and keywords only, which is sufficient to confirm hard constraints but not fine-grained prose deltas.
+  - Journal appears to follow general ABS 4/4* ECON field norms in structure and register at the level observable (abstract style, JEL/keyword usage); no evidence of relaxation beyond the shorter abstract cap and shorter overall length target typical of a general-interest ABS 1 outlet.

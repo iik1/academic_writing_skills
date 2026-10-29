@@ -1,0 +1,20 @@
+Journal: Economic Inquiry
+Slug: economic-inquiry
+ABS: 3
+Field: ECON
+
+Articles fetched: 15 titles/records reviewed (2022-2026), full text inaccessible (Wiley paywall returned HTTP 402 on every direct attempt); relied on RePEc/IDEAS listings, WEAI/Wiley abstract-level search snippets, and a university department page.
+Early stop triggered: No — sample size target (15) reached via titles/metadata; deltas had stabilized by article ~10 (replication-genre pattern and abstract length cap were confirmed early and no new delta categories emerged afterward).
+
+Deltas found: 4 dimensions
+  1. Abstract word limit (100 words, no equations/diagrams/footnotes) — ENFORCED, tighter than field norm.
+  2. "No revisions" optional submission track (accept/reject only, no R&R) — ENFORCED, unique among sampled journals.
+  3. Recognized "Replication of ___" standalone article genre — PRACTICE ONLY / structural pattern, confirmed in 3 of 15 sampled titles.
+  4. Voice tilt toward McCloskey "Economical Writing" plain-style brevity + explicit gender-inclusive language guidance — GUIDELINE ONLY, stated in submission materials/policies, not strictly field-redefining.
+
+FIELD_SKILL overrides: Abstract length norm (100-word cap vs. field's unstated 150-250 word tolerance). All other structural, voice, methods, results, citation, and hedging conventions follow FIELD_SKILL.
+
+Access-limitation notes:
+- All Wiley onlinelibrary.wiley.com full-text and abstract-page direct fetches returned HTTP 402 Payment Required; no institutional EZProxy access in this environment.
+- Compensated via WebSearch-extracted abstract/metadata snippets, WEAI's own guideline and policy pages (weai.org), and RePEc/IDEAS article listings, which were fetchable directly.
+- No article full text was read; assessment of structural/voice deltas relies on titles, confirmed article-type categories (replication series), and the journal's own stated policies rather than close reading of body prose.

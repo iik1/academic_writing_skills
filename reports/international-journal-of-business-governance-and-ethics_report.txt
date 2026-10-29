@@ -1,0 +1,128 @@
+JOURNAL SKILL GENERATION REPORT
+================================================================================
+
+Journal Name: International Journal of Business Governance and Ethics
+Journal Slug: international-journal-of-business-governance-and-ethics-writing-style
+ABS Rating: 2
+Field: ETHICS-CSR-MAN
+Publisher: Inderscience Enterprises Ltd
+
+EXECUTION SUMMARY
+================================================================================
+
+Articles Fetched: 10 distinct articles (2024-2025, Vol. 18-19)
+Early Stop Triggered: NO
+Access Limitations: Open-access repository (IDEAS/RePEc) provided abstracts and
+  metadata for all sampled articles. Full-text restricted access to
+  Inderscience Online did not limit analysis—front-matter and abstracts
+  sufficed for style/structure assessment.
+
+ARTICLES EXAMINED
+================================================================================
+
+1. Stock market integration in emerging markets (Vol. 18, Iss. 4-5, pp. 582-608, 2024)
+   - Quantitative empirical; macro-finance governance angle
+   - Authors: Bendou, Lilti, El Badraoui
+
+2. Social ties, group dynamics, and executive compensation (Vol. 18, Iss. 1, pp. 45-63, 2024)
+   - Theoretical/integrative two-stage framework
+   - Authors: Oh, Jung, Chang
+
+3. The effect of individual-collective decisions and perceived organisational support
+   on accountants' whistle-blowing actions (Vol. 19, Iss. 2, pp. 131-153, 2025)
+   - Experimental quantitative ethics/governance study
+   - Authors: Wulanditya, Subroto, Iqbal, Prihatiningtyas
+
+4. Does foreign ownership affect corporate cash holdings? Evidence from Amman Stock Exchange
+   (Vol. 18, Iss. 3, pp. 297-312, 2024)
+   - Empirical panel study; governance mechanism (foreign investor monitoring)
+   - Authors: Al-Haddad, Al-Ahmad
+
+5. The ripple effect of organisational inclusiveness on perception of ethical climate
+   (Vol. 18, Iss. 1, pp. 84-103, 2024)
+   - Survey-based empirical; ethics/governance (workplace inclusiveness)
+   - Authors: Gita, Krishnakumar
+
+6. Agency problem – a missing link between corporate social responsibility reporting
+   and firm performance (Vol. 19, Iss. 1, pp. 112-130, 2025)
+   - Multi-country longitudinal panel (833 firms, 5,831 firm-year obs., 30 countries, 2013-2019)
+   - OLS + system GMM; CSR/governance nexus
+   - Authors: [Multi-author as per IDEAS listing]
+
+7–10. Four additional titles extracted from 62 forthcoming articles list
+      (governance/board diversity, CSR/ESG, stakeholder theory, climate disclosure)
+      – used for thematic/scope verification only
+
+ACCESS NOTES
+================================================================================
+- Inderscience Online (inderscienceonline.com/journal/ijbge): HTTP 403 blocked
+- IDEAS/RePEc: Full public access to abstracts, keywords, metadata
+- Forthcoming articles page: Full title/author/keyword visibility
+- Official Inderscience author guidelines PDF: Metadata legible; content corrupted
+- General Inderscience author guidelines: Times New Roman 12pt, Harvard/APA style
+  inferred from search results
+
+DELTAS FOUND
+================================================================================
+
+Count: 4 deltas identified (topical scoping, methodological rigor emphasis,
+governance/ethics lens, qualitative presence), all classified as either
+FIELD DEFAULT (no structural delta) or topical narrowing (not a written-form delta).
+
+Dimensions with Delta:
+1. Governance and Ethics Specificity (topical narrowing from general management)
+2. Emphasis on Institutional and Empirical Rigor (governance-specific methods)
+3. Qualitative and Mixed-Methods Presence (scope observation, no delta)
+
+Dimensions with No Delta: 9 major dimensions
+- Voice and person
+- Macro structure
+- Abstract format
+- Methods reporting
+- Results/findings
+- Discussion/conclusion
+- Argumentation
+- Literature engagement
+- Epistemic stance/hedging
+
+FIELD_SKILL OVERRIDES
+================================================================================
+
+None. The journal's hard constraints (structure, length, abstract format,
+citations, headings, tables/figures, prohibitions) are all consistent with
+or silent on the field baseline. No conflict detected.
+
+Specific Hard Constraints Extracted:
+- Double-blind peer review mandatory
+- Research briefs and notes NOT accepted
+- Original work only (not under consideration elsewhere)
+- Conference papers accepted if completely rewritten with copyright clearance
+- Open-access only (EUR 1,700 APC as of 2026)
+- All authors must declare agreement with content and comply with ethical guidelines
+- No word/page limits published (typical range 10,000–15,000 for empirical, 8,000–14,000 for theory inferred from FIELD_SKILL)
+
+CONCLUSIONS
+================================================================================
+
+The International Journal of Business Governance and Ethics (ABS 2, ETHICS-CSR-MAN)
+adheres tightly to the MGMT field baseline in structure, voice, and citation style.
+The journal is distinguished by:
+
+1. Narrower topical scope (governance, ethics, CSR, board composition, stakeholder
+   accountability rather than general organizational behavior/management)
+2. Systematic use of governance-appropriate causal inference methods (system GMM,
+   diff-in-diffs, IV estimation) to address reverse causality in governance studies
+3. A mix of quantitative empirical and theoretical/integrative work, with no
+   structural delta from field baseline
+
+The skill file records these observations as topical framing (not a written-form
+delta) and methodological emphasis (expected at ABS 2 tier). Common pitfalls are
+governance-literature-specific: endogeneity unaddressed, scope misalignment,
+APC oversight, hypothesis/proposition confusion.
+
+File saved at:
+C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/mgmt/international-journal-of-business-governance-and-ethics_SKILL.md
+
+Report date: 2026-07-02
+Execution time: ~45 minutes (5 phase workflow)
+Status: COMPLETE

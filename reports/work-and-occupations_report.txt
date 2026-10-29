@@ -1,0 +1,56 @@
+Journal: Work and Occupations
+Slug: work-and-occupations
+ABS: 3
+Field: HRM&EMP
+
+Articles fetched: 10 distinct WOX articles spot-checked (2021-2026 span).
+One (Kowalski 2025, "Unfulfilled: Collaborative Robots and the Persistence
+of Tough Jobs in e-Commerce Warehousing") retrieved and read in full text
+via an open-access Cornell eCommons PDF mirror. The remaining nine were
+assessed via abstract/front-matter content surfaced through WebSearch
+snippets (Damelang & Otto 2024; Thebaud & Pedulla 2022; Skaggs & Aparicio
+2023; Rainey & Melzer 2021; Gevaert et al. 2021; Peters & Melzer 2022;
+Letourneau, Robey & Lamont 2026; Woronkowicz, Noonan & Skaggs 2026
+editorial). Direct WebFetch of journals.sagepub.com pages consistently
+returned only the site's JS-rendered homepage shell rather than
+article/guidelines content, so all guideline text and most abstracts were
+obtained via WebSearch's indexed snippets instead of direct page fetches.
+
+Early stop triggered: No. Sample size (10) is below the target of 15 but
+represents a good-faith attempt; further searches for additional distinct
+WOX articles increasingly surfaced adjacent-but-different journals (Work,
+Employment and Society; ILR Review; New Technology, Work and Employment)
+rather than new WOX articles, and the delta set had stabilized by article
+~7-8 (no new structural/voice patterns emerged in the final few checks).
+
+Deltas found: 3
+1. Voice and Register - PRACTICE ONLY: heavy, consistent first-person
+   singular/plural voice even in fully quantitative regression papers
+   (goes beyond FIELD_SKILL's "increasingly common" framing).
+2. Structural Deviations - RELAXATION: quantitative articles integrate
+   theory-building into thematic subheaded sections culminating in open
+   research questions, rather than a standalone literature review section
+   ending in a numbered hypothesis list (FIELD_SKILL describes the latter
+   as near-universal in quantitative HRM&EMP papers; not observed here).
+3. Other Journal-Specific Patterns - PRACTICE ONLY: use of explanatory
+   footnotes/endnotes alongside author-date citations.
+
+FIELD_SKILL overrides: none identified beyond the RELAXATION noted above
+(this is an ABS 3 journal, so relaxations are labeled as such rather than
+treated as a new field norm per the assignment's ABS tier rules).
+
+Access-limitation notes:
+- No institutional EZProxy access; all evidence gathered via public
+  WebSearch snippets, publisher abstract pages, and one open-access
+  full-text PDF mirror (Cornell eCommons institutional repository).
+- journals.sagepub.com pages (both the guidelines page and individual
+  article pages) render via JavaScript; WebFetch could not retrieve their
+  actual content and returned only navigation/homepage shell text in every
+  attempt. All guideline details (abstract word count, keyword count,
+  citation style, biographical note requirement) were instead sourced from
+  WebSearch's own indexed snippets of that same guidelines page, which is
+  weaker evidence than a direct fetch but was internally consistent across
+  two independent search queries.
+- Abstract-only articles could not be checked for internal section-heading
+  structure or footnote usage; those observations rest primarily on the
+  single full-text article obtained.

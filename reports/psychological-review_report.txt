@@ -1,0 +1,41 @@
+Journal: Psychological Review
+Slug: psychological-review
+ABS: 4
+Field: PSYCH (GENERAL)
+
+Articles fetched: 1 full-text (Tsang et al., "Social Exploration," 10.1037/rev0000499, via
+CHORUS-hosted author manuscript PDF); 4 additional articles at title/abstract level only
+(Frost et al. 2025; Goudeau et al. 2024; Livingston et al. 2024 [Theoretical Note]; Gluth,
+Deakin, & Rieskamp 2026). Guidelines fetched from apa.org/pubs/journals/rev (official) and
+cross-checked against a secondary aggregator (manusights.com) for length/abstract-format
+specifics not itemized on the official page.
+
+Early stop triggered: No — access chain for additional full-text articles was exhausted
+(PsycNet record pages returned only "Loading..." placeholders via WebFetch; no other open
+full texts were found in the time available). One strong full-text source plus multiple
+title-level sources was judged sufficient given the very distinctive and unambiguous
+scope/structure signal (theory-only journal) that dominates all findings.
+
+Deltas found: 2 major, plus 2 minor/practice-only patterns.
+  1. Structural Deviations (ENFORCED) — journal accepts only theoretical contributions;
+     no Method/Results section; thematic construct-organized structure throughout, not
+     merely a minority variant as FIELD_SKILL frames it.
+  2. Citation Density (ENFORCED) — uniformly high citation density across the entire
+     paper (not just Intro/Discussion), since the whole paper functions as literature
+     synthesis.
+  3. Closing hypothesis-table device (PRACTICE ONLY, low prevalence, n=1).
+  4. Distinct "Theoretical Note" submission type (GUIDELINE-STATED, confirmed by one
+     2024 example title).
+
+FIELD_SKILL overrides: Structure and citation-density guidance for this journal
+supersede the empirical-report defaults in FIELD_SKILL; all other dimensions
+(voice/person, sentence style, argumentation, hedging, citation formatting) follow
+FIELD_SKILL defaults with no journal-specific delta.
+
+Access-limitation notes: Could not access full text of any article beyond the single
+CHORUS-hosted manuscript; PsycNet record pages are JS-rendered and returned only
+loading placeholders to WebFetch. No paywall-bypass or institutional access attempted,
+per instructions. The secondary guidelines aggregator (manusights.com) was used only to
+corroborate length/abstract-length details not itemized on the official APA page; its
+claims (e.g., "abstract under 250 words," "15,000 word" length-justification threshold)
+are treated as provisional and flagged as such in the skill file.

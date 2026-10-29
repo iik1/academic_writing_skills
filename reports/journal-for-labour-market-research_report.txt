@@ -1,0 +1,21 @@
+Journal: Journal for Labour Market Research
+Slug: journal-for-labour-market-research
+ABS: 1
+Field: ECON
+Publisher: Springer Nature / Institute for Employment Research (IAB)
+
+Articles fetched: 15 (titles, authors, abstracts/metadata identified via WebSearch and RePEc listing; 1 full-text accessed via econstor.eu mirror of Schnabel 2025 "Unions and employers' associations in Germany"; remainder accessed as abstract/metadata snippets only, not full text)
+
+Early stop triggered: No (reached target sample of 15 via good-faith mixed-access method)
+
+Deltas found: 2 dimensions
+  1. JEL codes + keywords as standard front matter (PRACTICE ONLY / notable-but-not-a-deviation, since FIELD_SKILL is silent on JEL codes entirely)
+  2. Interdisciplinary audience relaxation of narrow-economist-only vocabulary assumption (RELAXATION, stated in journal scope)
+
+FIELD_SKILL overrides: none (no hard constraint found that contradicts FIELD_SKILL; word/page limits and detailed submission-guidelines text were inaccessible due to a login-wall redirect on the official Springer guidelines page)
+
+Access-limitation notes:
+- https://link.springer.com/journal/12651/submission-guidelines and /aims-and-scope both redirect (303) to idp.springer.com login wall in this environment; could not fetch full guideline text directly.
+- Compensated using: WebSearch snippets referencing the guidelines page, the IAB (Institute for Employment Research) journal page, RePEc/IDEAS article listing, and one full-text article obtained via econstor.eu open repository mirror.
+- Word/page limits and detailed table/figure formatting rules could not be confirmed from any accessible source; documented as "undocumented" rather than fabricated.
+- Most of the 15 spot-checked articles were assessed via title + abstract snippet only (not full text), consistent with ABS 1 good-faith sampling guidance for a lower-tier, thinly-indexed journal.

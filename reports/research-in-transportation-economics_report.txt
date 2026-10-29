@@ -1,0 +1,44 @@
+Journal: Research in Transportation Economics
+Slug: research-in-transportation-economics
+ABS: 1
+Field: ECON
+Publisher: Elsevier
+
+Articles fetched: 6 with full abstract/keyword/JEL text (Jourquin 2025 v111; Shi & Goulias 2025 v110;
+Abass, Aljoufie & Gbban 2025 v113; Cebeci et al. 2025 v112; Gaspay et al. 2025 v113;
+Schwieterman & Craig 2023 v101). Additionally reviewed titles of ~30 more articles across
+volumes 101-117 (2023-2026) via RePEc/IDEAS listing page for topical/structural context.
+
+Early stop triggered: No (target of 10-15 was not fully reached; documented access limitation below,
+per instructions allowing a smaller good-faith sample for ABS 1 journals).
+
+Deltas found: 2 substantive
+  1. Statistical Reporting - RELAXATION (PRACTICE ONLY): mix of quantitative and purely
+     qualitative/case-study/scoping-review abstracts, broader than FIELD_SKILL's
+     empirical/theory-paper assumption.
+  2. Structural Deviations - PRACTICE ONLY: journal accepts scoping reviews and multi-case
+     policy studies alongside standard econometric papers; broader article-type acceptance
+     than FIELD_SKILL baseline implies.
+  All other dimensions (voice, citation density/format, headings, tables/figures, hedging):
+  FIELD DEFAULT, no delta.
+
+FIELD_SKILL overrides: none identified (no conflicting mandatory structure found).
+
+Hard constraints identified from guidelines (Elsevier standard, confirmed via search-indexed
+guide-for-authors snippets since direct fetch of the guide-for-authors page returned HTTP 403):
+  - Abstract: unstructured, max 250 words, must stand alone, minimal/no references.
+  - Double-anonymized peer review.
+  - AI policy: authors may use AI tools with human oversight; reviewers/editors may not use
+    generative AI in evaluation.
+  - No journal-specific citation style, heading convention, or table/figure rule found beyond
+    standard Elsevier practice.
+
+Access-limitation notes:
+  - sciencedirect.com guide-for-authors and journal landing pages returned HTTP 403 to direct
+    WebFetch (paywall/bot-block); guideline content was reconstructed from WebSearch's
+    indexed snippets of the same pages, which is a lower-fidelity but non-fabricated source.
+  - Full text of all sampled articles was inaccessible; all article-level observations are
+    based on abstract, keyword, and JEL code content only, consistent with instructions for
+    a lower-tier journal with thin public access.
+  - WebSearch tool intermittently returned "unavailable" errors on several queries; retried
+    with reformulated queries until results returned.

@@ -1,0 +1,48 @@
+Journal: Studies in Nonlinear Dynamics and Econometrics
+Slug: studies-in-nonlinear-dynamics-and-econometrics
+ABS: 2
+Field: ECON
+Publisher: Walter de Gruyter (De Gruyter Brill)
+
+Articles fetched: 7 full abstracts (with keywords/JEL codes) read directly via RePEc/IDEAS:
+  - Abbara & Zevallos (2023), SNDE 27(1)
+  - Gkillas et al. (2023), SNDE 27(1)
+  - Wang et al. (2023), SNDE 27(3)
+  - Blazsek, Escribano & Licht (2022), SNDE 26(3)
+  - Schmidt & Schweikert (2022), SNDE 26(2)
+  - Bazgour et al. (2021), SNDE 25(1)
+  - Aadland, Finnoff & Huang (2020), SNDE 25(3)
+Plus: titles/authors of 6 further articles surveyed from the 2026 v30 issues 1-2 table of contents
+(title-only, no abstract access attempted for these).
+
+Early stop triggered: No. Full good-faith spot-check completed; sample size (7 full abstracts,
+13 titles total) is appropriate for an ABS 2 journal per task instructions.
+
+Deltas found: 0 substantive deltas from FIELD_SKILL (econ-field-writing-style). All observed
+dimensions (voice, structure, citation format, hedging, statistical reporting) converge with
+FIELD_SKILL. One PRACTICE ONLY / low-prevalence observation noted but classified as consistent
+with (not deviating from) FIELD_SKILL: several abstracts foreground methodological novelty ahead
+of empirical findings, reflecting the journal's stated scope emphasis on statistical/theoretical
+methods -- not recorded as a formal delta.
+
+FIELD_SKILL overrides (Hard Constraints from author guidelines, all publisher-level requirements
+not covered by FIELD_SKILL, so not "overrides" of field norms but additive journal-specific rules):
+  - Abstract: single paragraph, max 250 words, no footnotes/tables/figures/equations, avoid references
+  - Reference style: CMS (Chicago) author-date per journal style sheet (matches FIELD_SKILL default)
+  - Headings: numbered, title case, uppercase after colon (even for articles), no end period,
+    max 4 subsection levels, min 2 subheadings per subdivided level
+  - Tables/figures: strict formatting (Arabic numerals, editable source format for tables,
+    300 dpi min for figures, no color/shading/vertical lines in tables, no frames on figures)
+  - Equations: must be editable text, not images
+  - JEL codes required at submission
+  - Explicit prohibitions: no AI/LLM authorship credit, no honorary authorship, no AEA Author
+    Randomization Tool, no author-list changes post-acceptance, non-standard abbreviations
+    discouraged unless used >3 times, inclusive language policy (prefer "they")
+  - Title page must declare word count, table/figure count, and supplementary material status
+
+Access-limitation notes: No institutional access; all guideline material came from the publicly
+downloadable De Gruyter Instructions for Authors PDF (fetched via curl after WebFetch returned
+HTTP 405 on the HTML landing page). All article-level evidence is abstract/keyword/JEL-level only
+(full text paywalled) via RePEc/IDEAS mirrors -- sufficient to confirm structural and voice
+conformance with FIELD_SKILL but not fine-grained prose-level metrics. No existing skill file for
+this journal was found prior to this run (dedupe check via Glob returned no matches).

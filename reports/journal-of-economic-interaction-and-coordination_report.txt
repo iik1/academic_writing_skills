@@ -1,0 +1,18 @@
+Journal: Journal of Economic Interaction and Coordination
+Slug: journal-of-economic-interaction-and-coordination
+ABS: 1
+Field: ECON
+Articles fetched: 5 full abstracts (with keywords/JEL) read in full; ~35 additional article titles/author lists surveyed across 6 issues (Vol 20 Issues 1-4, Vol 21 Issues 1-3) via RePEc/IDEAS and EconPapers TOC listings; 1 arXiv preprint cross-check for an article also published in this journal.
+Early stop triggered: No — good-faith sample obtained despite publisher paywall; documented as thin/abstract-level access per instructions for ABS 1 journals.
+
+Deltas found: 1 substantive, both low-prevalence/practice-only
+  - Statistical Reporting: PRACTICE ONLY / FIELD DEFAULT for ABM subfield — results reported as qualitative/mechanism-tied simulation findings rather than point estimates with CIs, because the journal's dominant paper type is agent-based modeling/simulation rather than reduced-form empirical work. Not a stated journal rule; a subfield reporting-style fact FIELD_SKILL does not directly address.
+  - Topical concentration: heavy skew toward agent-based/computational simulation papers tied to the WEHIA workshop community (PRACTICE ONLY, not a structural or stylistic deviation).
+
+FIELD_SKILL overrides: none confirmed. All structural, abstract-format, citation, and voice dimensions checked follow FIELD_SKILL defaults.
+
+Access-limitation notes:
+  - Springer's submission-guidelines page (link.springer.com/journal/11403/submission-guidelines) and every full-text article page attempted redirected to Springer's IDP authentication wall (403-equivalent) in this environment. No institutional EZProxy access available.
+  - Guidelines content in the skill's "Hard Constraints" section is reconstructed only from WebSearch snippet metadata (double-blind review, plagiarism screening, no simultaneous submission — standard Springer-wide policies) and could not be independently confirmed against the live page. This is flagged explicitly in the skill file as provisional.
+  - Full-text article bodies were never accessible; all article-level evidence is abstract + keywords + JEL codes via RePEc/IDEAS/EconPapers mirrors, which do not paywall bibliographic/abstract metadata even though Springer does.
+  - Because access was abstract-only, no claims were made about section headings, table/figure conventions, in-text citation formatting, or length limits beyond what FIELD_SKILL already covers.

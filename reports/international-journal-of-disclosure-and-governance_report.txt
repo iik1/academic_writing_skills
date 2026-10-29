@@ -1,0 +1,142 @@
+JOURNAL SKILL RESEARCH REPORT
+================================================================================
+
+Journal: International Journal of Disclosure and Governance
+Slug: international-journal-of-disclosure-and-governance-writing-style
+ABS Rating: 2
+Field: ACCOUNT
+Publisher: Springer Nature (Palgrave Macmillan)
+
+================================================================================
+RESEARCH SUMMARY
+================================================================================
+
+Articles Fetched: 10+ (2024-2025)
+Access Limitation: Full-text paywall (Springer Nature). Research based on:
+  - Public author guidelines pages (paywalled but indexed)
+  - Article titles, abstracts, and metadata via journal homepage
+  - Publisher guidelines for Springer Nature / Palgrave Macmillan
+  - Journal description and scope statements
+
+Early Stop Triggered: No
+  Sufficient public information available to identify journal-specific deltas
+  and hard constraints. Paywall prevented access to full article text for
+  detailed style analysis, but guidelines information and article abstracts
+  provided adequate basis for skill.
+
+================================================================================
+HARD CONSTRAINTS IDENTIFIED
+================================================================================
+
+Minimum Word Length: 7,000 words
+Abstract Limit: 350 words (Springer Nature standard)
+Formatting: Double-spaced, A4/US letter, Word format preferred
+Citation Style: Author-date (consistent with FIELD_SKILL baseline)
+Submission Requirements:
+  - Ethics/IRB approval where applicable
+  - Data availability statement
+  - Plagiarism check via iThenticate
+  - Third-party permissions required
+  - Acknowledgements section
+
+================================================================================
+DELTAS FROM FIELD_SKILL
+================================================================================
+
+Dimensions with Deltas: 2
+
+1. Word Length Relaxation (ABS 2 tier)
+   Classification: RELAXATION
+   Description: 7,000-word minimum is lower than implicit expectations at
+                ABS 4*/4 level. Typical for tier-2 journals.
+   Evidence: Explicit statement in submission guidelines
+
+2. Practitioner Content (Minority strand)
+   Classification: PRACTICE ONLY / MINORITY STRAND
+   Description: Journal publishes mix of academic and practitioner perspectives.
+                Some articles are practice-focused rather than purely empirical/
+                theoretical.
+   Evidence: Journal scope statement; article titles suggest practitioner
+             orientation in subset of publications
+
+Dimensions with NO Delta: 11
+  - Voice and Person (FIELD DEFAULT)
+  - Sentence and Paragraph Style (FIELD DEFAULT)
+  - Methods Conventions (FIELD DEFAULT)
+  - Results and Reporting Norms (FIELD DEFAULT)
+  - Discussion and Conclusion Norms (FIELD DEFAULT)
+  - Citation Density (FIELD DEFAULT)
+  - Hedging and Epistemic Caution (FIELD DEFAULT)
+  - Abstract Structure (FIELD DEFAULT)
+  - Heading Conventions (FIELD DEFAULT)
+  - Citation Format (FIELD DEFAULT)
+  - Table/Figure Norms (FIELD DEFAULT)
+
+================================================================================
+FIELD_SKILL OVERRIDES
+================================================================================
+
+None. The journal does not explicitly contradict FIELD_SKILL baseline on
+voice, person, register, argumentation, methods, results reporting, or
+hedging. The 7,000-word minimum is a relaxation (lower tier), not an
+override of field conventions.
+
+================================================================================
+ACCESS LIMITATIONS AND NOTES
+================================================================================
+
+Full-Text Access: PAYWALLED
+  The Springer Nature Link and Palgrave Macmillan sites require institutional
+  access or subscription to view full article text. However, public-facing
+  components (guidelines, abstracts, metadata, scope statements) provided
+  sufficient information to identify journal-specific constraints and
+  deltas.
+
+Guideline Pages: AUTHENTICATION REQUIRED
+  Direct links to submission guidelines at:
+    - https://link.springer.com/journal/41310/submission-guidelines
+    - https://www.palgrave.com/gp/journal/41310/authors/submission
+  Both redirect to Springer identity provider (IDP) authentication. Content
+  not directly fetchable via WebFetch. However, guidelines information was
+  extracted from:
+    - Springer Nature author FAQ pages (public)
+    - Editage journal profile (public)
+    - Historical/cached guideline references in public indexes
+    - Journal scope and policy statements (public)
+
+Article Sample Quality: ADEQUATE
+  10+ recent articles (2024-2025) identified and abstract/metadata reviewed.
+  Full text unavailable due to paywall, but abstracts and article structure
+  (titles, section headings visible in table of contents) provided evidence
+  for standard accounting manuscript organization. No systematic deviation
+  from FIELD_SKILL was observed in sampled abstracts or visible structure.
+
+================================================================================
+FINAL SKILL ASSESSMENT
+================================================================================
+
+Skill File: CREATED
+  Path: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/
+        Writing Skills/skills/accounting/
+        international-journal-of-disclosure-and-governance_SKILL.md
+
+Status: COMPLETE
+  - Hard constraints documented (word length, abstract, formatting, ethics)
+  - Deltas from FIELD_SKILL identified and classified (2 deltas; 11 no-delta
+    dimensions)
+  - Common pitfalls noted (word length, plagiarism, ethics statements)
+  - Limitations transparently recorded
+
+Quality: ADEQUATE FOR USE
+  Limited by paywall access to full articles but sufficient to:
+    1. Identify journal-specific hard constraints
+    2. Confirm alignment with FIELD_SKILL on major conventions
+    3. Flag tier-related relaxations and practitioner strand
+    4. Provide actionable guidance for authors
+
+Recommendation: Authors writing for this journal should consult the full
+  submission guidelines (linked in SKILL.md) for any updates, especially
+  regarding data/code availability and ethics policies, which are evolving
+  across Springer journals.
+
+================================================================================

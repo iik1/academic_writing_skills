@@ -1,0 +1,41 @@
+Journal: Journal of Economic History
+Slug: journal-of-economic-history
+ABS: 3
+Field: BUS HIST & ECON HIST
+
+Articles fetched: 8 distinct articles/pages (abstracts, titles, headings) plus
+3 guideline pages (author-instructions, style-sheet, preparing-your-materials).
+Full text mostly paywalled; relied on abstracts/headings/reference-list
+conventions and search-engine snippets. One older article (David & Temin
+1974) used only to confirm reference-list formatting continuity, not as a
+style sample.
+
+Early stop triggered: No — deltas stabilized after ~8 articles; converged
+around two clear findings (author-date citation, unnumbered thematic
+headings) that repeated consistently, so continued sampling was not needed.
+
+Deltas found: 2 substantive dimensions
+  1. Structural Deviations — unnumbered, narrative-thematic headings even in
+     quantitative economic history pieces (tighter than FIELD_SKILL's allowance
+     for numbered data/methods/results structure). RELAXATION/refinement,
+     ENFORCED in practice.
+  2. Citation Density — author-date (Harvard) parenthetical citation required,
+     not footnote-heavy citation. ENFORCED (stated in style sheet, consistent
+     with sampled reference lists).
+
+FIELD_SKILL overrides (HARD_CONSTRAINTS from guidelines):
+  - 14,000-word cap (articles), 7,500-word cap (notes/comments), 40-page limit
+  - 99-word max unstructured abstract, no author names, double-spaced/indented
+  - Author-date in-text citation, max 3 authors then "et al.", no ibid/op.cit
+  - Unnumbered section headings only
+  - Strict table/figure formatting (horizontal rules only, no bold, italic
+    variables, computer-generated figures only, alt-text required)
+  - No contractions; no bullet/numbered lists or hypotheses in body text
+  - openICPSR data deposit requirement; double-anonymized peer review
+
+Access-limitation notes: No institutional EZProxy access; could not read
+full-text bodies of recent articles behind Cambridge Core paywall. Relied on
+publisher abstract/preview pages, WebSearch snippets, and RePEc/IDEAS index
+for title-level coverage. This is sufficient to confirm heading style and
+citation-list conventions but not fine-grained sentence-level voice, which is
+assumed to follow FIELD_SKILL absent contrary evidence.

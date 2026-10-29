@@ -1,0 +1,19 @@
+Journal: Financial Review
+Slug: financial-review
+ABS: 3
+Field: FINANCE
+
+Articles fetched: 15 (abstract/front-matter level, via IDEAS/RePEc and one WebSearch snippet), spanning 2020, 2024, 2025, 2026 issues.
+Early stop triggered: No — reached the target sample of 15 with delta set stabilized (no new deltas emerging after ~10 articles).
+
+Deltas found: 2 substantive dimensions
+1. Structural Deviations (PRACTICE ONLY / low-prevalence) — journal occasionally publishes perspective/research-agenda articles (non-IMRaD) alongside standard empirical papers. Observed in 1 of 15 sampled articles ("Puzzles, Tensions, and the Research Agenda for Biodiversity Finance").
+2. Citations (RELAXATION, ENFORCED at submission stage) — guidelines explicitly permit any consistent citation style for initial manuscript submission ("Free Format" policy), relaxing the implied author-year norm at the submission stage. Published articles still converge on standard author-year format.
+
+FIELD_SKILL overrides:
+- Length: hard ceiling of ~40 double-spaced pages of text (references included), 60 pages total manuscript — not specified in FIELD_SKILL, added as a hard constraint.
+- Table/figure placement: submission version requires tables/figures on separate pages at the end of the manuscript with legends, rather than in-text — a submission-formatting hard constraint not covered by FIELD_SKILL.
+
+Access-limitation notes:
+- Direct WebFetch of the Wiley author guidelines page (onlinelibrary.wiley.com/page/journal/15406288/homepage/forauthors.html) returned HTTP 402 Payment Required; guideline content was instead obtained via WebSearch-extracted summary of the same page.
+- Full text of all 15 sampled articles was paywalled; all spot-checks relied on IDEAS/RePEc abstract pages (bla/finrev series) plus one WebSearch-extracted abstract snippet (Bessembinder 2026). No JEL codes/keywords were visible on any RePEc abstract page for this journal — inconclusive whether this reflects the journal's practice or an indexing gap, so not reported as a delta.

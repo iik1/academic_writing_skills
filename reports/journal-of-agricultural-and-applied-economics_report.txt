@@ -1,0 +1,20 @@
+Journal: Journal of Agricultural & Applied Economics
+Slug: journal-of-agricultural-and-applied-economics
+ABS: 1
+Field: ECON
+Publisher: Cambridge University Press (on behalf of Southern Agricultural Economics Association)
+
+Articles fetched: 12 (abstract/heading-level via Cambridge Core article pages; full text paywalled/no EZProxy access)
+Early stop triggered: No
+
+Deltas found: 5
+ - Abstract length (100-word hard cap) — ENFORCED
+ - Standalone Literature Review section more common than FIELD_SKILL default — PRACTICE ONLY
+ - "Results and Discussion" merged section more consistent than FIELD_SKILL "practice varies" — PRACTICE ONLY
+ - Cambridge end-matter block (Data Availability, Author Contributions, Competing Interests, Funding Statement) — ENFORCED, publisher-level, not in FIELD_SKILL
+ - Distinct "Review Article" submission type with non-IMRaD thematic structure — GUIDELINE ONLY / FIELD DEFAULT for that subtype
+ - (minor) JEL codes commonly but not universally present — GUIDELINE ONLY, low-enforcement
+
+FIELD_SKILL overrides: Abstract format (100-word cap vs. no cap specified in FIELD_SKILL); citation style (custom Cambridge/JAAE author-date format vs. generic economics author-year); mandatory anonymization for double-blind review; footnote restriction (no citation-only footnotes).
+
+Access limitation notes: No institutional EZProxy access. Relied on Cambridge Core public article pages (abstract, keywords, JEL codes, section headings visible without login) and WebSearch snippets for additional titles/abstracts. Full-text prose (sentence style, hedging density, citation density) could not be verified directly; assumed to follow FIELD_SKILL absent contrary evidence. Two of the three official guidelines pages fetched (instructions-contributors) were sparse and redirected to the "preparing-your-materials" page, which was the primary source for HARD_CONSTRAINTS.

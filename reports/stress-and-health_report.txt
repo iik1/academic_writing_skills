@@ -1,0 +1,44 @@
+Journal: Stress and Health
+Slug: stress-and-health
+ABS: 3
+Field: PSYCH (GENERAL)
+
+Articles fetched: 9 (metadata/abstract level via search snippets only; full text
+consistently blocked by Wiley paywall — WebFetch returned HTTP 402 Payment Required
+for every onlinelibrary.wiley.com URL attempted, including guidelines page and
+individual articles). PMC/Frontiers editorial hits found in search were confirmed
+to be from a Frontiers Research Topic, NOT the Wiley journal Stress and Health,
+and were excluded from the analysis.
+
+Early stop triggered: No — access chain was exhausted (Wiley paywall + no
+open-access mirrors found for this journal's content) rather than reaching
+delta saturation from full-text reading. Documented as an access limitation.
+
+Deltas found: 2 dimensions
+  - Structural Deviations (PRACTICE ONLY / low-prevalence): frequent systematic
+    review / meta-analysis submissions alongside standard empirical reports.
+  - Other Journal-Specific Patterns (ENFORCED): explicit named data-accessibility
+    statement with public-repository link requirement, more concrete than
+    FIELD_SKILL's general data-availability expectation.
+  - (GUIDELINE ONLY) Registered Reports format offered but uptake unconfirmed.
+
+FIELD_SKILL overrides: none identified beyond the length/manuscript-type hard
+constraints (Research Article ≤35 pp, Short Communication/Registered Report
+≤17 pp, double-spaced A4 12-pt) and APA 7th edition citation style, which
+FIELD_SKILL does not specify and are therefore additive rather than
+overriding/conflicting.
+
+Access-limitation notes:
+- onlinelibrary.wiley.com/page/journal/15322998/homepage/forauthors.html
+  (author guidelines) returned HTTP 402 on every WebFetch attempt; guideline
+  content was reconstructed from WebSearch result snippets/cached excerpts
+  only, not the live page.
+- All individual article URLs (doi.org/10.1002/smi.*) on Wiley Online Library
+  also returned HTTP 402; could not verify full-text structure, abstract
+  format, in-article headings, or statistical reporting style directly.
+  Analysis relies on abstract/title-level search snippets for 9 articles.
+- No PMC, ResearchGate, or other open-access full-text mirrors were found for
+  this journal's articles.
+- Abstract format (structured vs. unstructured, word limit) could not be
+  confirmed from any accessible source; left as "Follows FIELD_SKILL norm
+  pending verification" in the skill file rather than asserted.

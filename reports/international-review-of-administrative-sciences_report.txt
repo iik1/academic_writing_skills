@@ -1,0 +1,21 @@
+Journal: International Review of Administrative Sciences
+Slug: international-review-of-administrative-sciences
+ABS: 3
+Field: PUB SEC
+
+Articles fetched: 13 (titles + abstract summaries via publisher TOC aggregator and search-indexed snippets; no full-text access obtained - all SAGE full-text pages returned 403 or were paywalled)
+Early stop triggered: No (delta set stabilized around the "Points for Practitioners" and word-limit findings after ~10 articles; continued to 13 for confirmation)
+
+Deltas found: 2 dimensions
+  1. Structural Deviations (ENFORCED) - mandatory, distinctly labeled "Points for Practitioners" component attached to the abstract, required by guidelines and confirmed present across sampled abstracts.
+  2. Other Journal-Specific Patterns (ENFORCED/RELAXATION) - 7,000-word all-inclusive cap (title page, abstract, notes, references, tables, bio statement), tighter than FIELD_SKILL's ABS 4*/4-derived assumptions.
+
+FIELD_SKILL overrides:
+  - Length: FIELD_SKILL specifies no word limits; this journal imposes a hard 7,000-word all-inclusive cap.
+  - Abstract: FIELD_SKILL describes structured abstracts as common field-level; this journal uses an unstructured abstract but mandates a separately labeled "Points for Practitioners" element, a stronger/more formal requirement than FIELD_SKILL's general practitioner-implications tendency.
+
+Access-limitation notes:
+  - journals.sagepub.com/author-instructions/ras returned HTTP 403 on direct WebFetch; guidelines content obtained via WebSearch-extracted summaries instead.
+  - iias-iisa.org news page on the Review Article format failed WebFetch (certificate verification error); content obtained via WebSearch summary.
+  - No full-text articles were accessible; all article-level evidence is title/abstract/Points-for-Practitioners snippets surfaced via search engines or a secondary legal/publishing aggregator (vLex).
+  - SAGE Harvard citation style confirmed as standard author-date; no delta from FIELD_SKILL.

@@ -1,0 +1,52 @@
+Journal: Industrial Law Journal
+Slug: industrial-law-journal
+ABS: 3
+Field: HRM&EMP
+Publisher: Oxford University Press
+
+Articles fetched: 8 (5 articles + 3 case notes from Vol. 54 Issue 1, March
+2025, plus 2 additional 2025 advance articles: Lokiec "Regulating the
+Employer's Power"; Davidov "A Theory of the Contract of Employment").
+Full text mostly paywalled; abstracts and front-matter accessed via
+WebFetch/WebSearch snippets, RePEc/ideas.repec.org listing, and OUP
+Oxford Academic pages.
+
+Early stop triggered: Yes. Stopped at 8 articles because the delta
+pattern was immediate and overwhelming: this journal is a doctrinal
+legal-scholarship outlet (articles, commentaries, case notes/legislation
+notes, book reviews), not an empirical HRM&EMP journal. No sampled
+article showed hypotheses, a methods section, or quantitative/qualitative
+empirical results reporting of the kind FIELD_SKILL describes. Further
+sampling was unlikely to change this conclusion, so I stopped once the
+genre mismatch (and its consequences for every FIELD_SKILL dimension)
+was clearly established across multiple issues/years.
+
+Deltas found: 5 dimensions
+- Voice and Register (genre difference: doctrinal/normative legal
+  argumentation, not empirical social-science prose)
+- Statistical Reporting (not applicable - no empirical methods section
+  observed)
+- Citation Density (OSCOLA legal-authority footnotes, not author-date
+  scholarly literature citations)
+- Structural Deviations (no lit review/hypotheses/methods/results split;
+  distinct shorter genres - commentaries, case notes/legislation notes)
+- Other Journal-Specific Patterns (comparative-jurisdiction framing;
+  legislative reform proposals as a recurring article type)
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+- Word limits: 12,000 words (articles, incl. footnotes); 6,000
+  (commentaries); 5,000 (case/legislation notes) - FIELD_SKILL specifies
+  no limits
+- Abstract: unstructured, max 200 words - FIELD_SKILL silent on this
+- Citation style: OSCOLA 4th ed. footnotes - FIELD_SKILL silent on
+  citation style/format
+- Figures: alt-text requirement under legend - FIELD_SKILL silent
+- Double-anonymised peer review - FIELD_SKILL silent
+
+Access-limitation notes: No full-text articles were accessible (OUP
+paywall); all findings rest on abstracts, article/case-note titles,
+issue tables of contents, and the guidelines page, which OUP made
+publicly viewable. This was sufficient to establish the journal's genre
+(doctrinal legal analysis rather than empirical HRM research) with high
+confidence, since this is evident from titles, abstracts, and submission
+categories (articles/commentaries/case notes/book reviews) alone.

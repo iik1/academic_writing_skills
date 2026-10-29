@@ -1,0 +1,40 @@
+Journal: Journal for Global Business Advancement
+Slug: journal-for-global-business-advancement
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 4 (2 with abstract/methodology detail visible via search snippets;
+2 with title/DOI/metadata only). All full-text and even full-abstract pages were
+paywalled or returned 403 (Inderscience Online, ResearchGate, SSRN direct pages).
+
+Early stop triggered: No — this is the maximum good-faith sample achievable given
+the access chain for this ABS 1 niche journal. Did not fabricate additional articles.
+
+Deltas found: 2
+  - Statistical Reporting (PRACTICE ONLY, low-prevalence): PLS-SEM and survey-based
+    methods observed rather than archival panel/regression designs.
+  - Other Journal-Specific Patterns (RELAXATION, tier-driven, unconfirmed via
+    full text): likely shorter/more applied contribution framing typical of ABS 1
+    outlets; not directly evidenced.
+
+FIELD_SKILL overrides (Hard Constraints from Inderscience standard author guide,
+which applies journal-wide with no JGBA-specific deviation found):
+  - Length: 5,000-7,000 words excluding figures/tables/references.
+  - Citations: Harvard (author-date) style, alphabetical reference list, DOIs
+    required where available.
+  - Language: UK English spelling/terminology.
+  - Keywords: ~10-15 words/phrases; bio notes ~100 words (max 150) per author.
+  - Explicit prohibition: briefs and research notes NOT published (unusual for
+    an Inderscience journal — most sister journals accept notes).
+
+Access-limitation notes:
+  - Inderscience Online journal platform (inderscienceonline.com) returned 403
+    Forbidden on all attempts.
+  - ResearchGate and SSRN article pages returned 403 Forbidden; content was
+    obtained only via WebSearch-generated snippets/summaries of those pages.
+  - No detailed JGBA-specific manuscript-structure or heading conventions were
+    found beyond the cross-journal Inderscience author guide; treated as
+    FIELD_DEFAULT/Inderscience-standard rather than fabricated.
+  - Given the thin access chain, the skill file is intentionally short and
+    conservative, with all uncertain claims flagged PRACTICE ONLY or RELAXATION
+    rather than stated as confirmed journal norms.

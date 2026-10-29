@@ -1,0 +1,205 @@
+JOURNAL SKILL DEVELOPMENT REPORT
+================================================================================
+
+Journal Name:        Accounting, Finance & Governance Review
+Journal Slug:        accounting-finance-and-governance-review
+ABS Rating:          1
+Field:               ACCOUNT (Accounting)
+Publisher:           Irish Accounting and Finance Association (IAFA)
+
+================================================================================
+EXECUTION SUMMARY
+================================================================================
+
+Articles Fetched:    12 (complete sample)
+  - Systematic/Scoping Reviews: 7
+  - Qualitative Participatory Research: 2
+  - Empirical Archival: 2
+  - Analytical/Special Issue: 1
+
+Early Stop Triggered: No. Sufficient public access via Scholastica platform allowed
+  comprehensive sampling across multiple methodologies and years (2023–2026).
+
+Access Method:       All articles publicly accessible via open-access Scholastica platform.
+  Author guidelines also fully available at afgr.scholasticahq.com/for-authors.
+
+================================================================================
+HARD CONSTRAINTS IDENTIFIED (From Official Guidelines)
+================================================================================
+
+1. Word Limit:        8,000 words maximum (ENFORCED)
+2. Abstract:          100 words maximum, unstructured narrative format
+3. Keywords:          Up to 6 keywords required
+4. Cover Page:        Mandatory separate cover page with title, author(s), affiliation(s),
+                      and single correspondence address
+5. Citation Style:    Author-date in-text format (consistent with FIELD_SKILL)
+6. Submission:        Via Scholastica platform only
+7. Review Process:    Double-blind peer review for all submissions passing desk review
+8. Open Access:       Publication under Creative Commons CC-BY-NC-4.0; authors retain
+                      unrestricted copyright
+
+================================================================================
+DELTAS FROM FIELD_SKILL (account-field-writing-style)
+================================================================================
+
+Delta 1: Methodological Scope (RELAXATION)
+  Issue:    FIELD_SKILL baseline derives from ABS 4*/4 quantitative archival/experimental
+            tradition. AFGR explicitly welcomes broader range: empirical research,
+            analytical papers, systematic reviews, qualitative studies, pedagogical work,
+            critical essays.
+  Evidence: 7 of 12 sampled articles are systematic/scoping reviews; 2 are qualitative
+            participatory; only 2 are traditional empirical archival. This breadth is
+            not reflected in FIELD_SKILL norms.
+  Status:   PRACTICE ONLY (observed; not stated in guidelines, but overwhelming in
+            publication record)
+  Action:   Acknowledged in Skill; authors should expect reviews and qualitative work
+            to be valued.
+
+Delta 2: Citation Density in Review and Qualitative Articles (PRACTICE ONLY)
+  Issue:    FIELD_SKILL specifies variable citation density by section (high intro/theory,
+            low results) for archival papers. Reviews and qualitative work show high
+            density throughout because methodology integrates literature throughout.
+  Evidence: Systematic review articles (Batt 2025, Hasan & Miah 2024, Oliveira 2025,
+            Smith & Hayden 2025) all maintain high citation throughout. Empirical archival
+            papers (Miller 2024, Hammami & Sioud 2026) follow FIELD_SKILL pattern.
+  Status:   PRACTICE ONLY (methodological necessity, not a deviation in style proper)
+  Action:   Noted; no override needed; authors following different methods will
+            naturally follow different citation patterns.
+
+Delta 3: Hedging in Qualitative and Review Work (PRACTICE ONLY)
+  Issue:    FIELD_SKILL specifies medium hedging calibrated to identification strength.
+            Qualitative and review papers use more tentative language throughout
+            (e.g., "suggest," "may indicate," "appears to") because systematic reviews
+            frame findings as patterns across studies, not definitive claims.
+  Evidence: Oliveira et al. (2025): "findings suggest organizations must adopt...",
+            "accounts that matter may reflect...". Hasan & Miah (2024): "may enhance",
+            "could potentially". These show higher baseline hedging than FIELD_SKILL
+            predicts.
+  Status:   PRACTICE ONLY (methodological necessity for review work)
+  Action:   Noted in Skill; not a violation but a genre convention.
+
+Delta 4: Discussion and Conclusion Structure (PRACTICE ONLY)
+  Issue:    FIELD_SKILL notes Discussion and Conclusion merged is "more common" in
+            accounting. AFGR systematic reviews and qualitative work more often separate:
+            Conclusion, Limitations (or Research Gaps), Future Research Directions.
+  Evidence: Smith & Hayden (2025): separate "Conclusion and Future Research" section.
+            Hasan & Miah (2024): separate "Research Gaps" and "Future Research Directions"
+            sections. Qualitative participatory work (O'Donohoe & Sheenan 2025) includes
+            standalone "Limitations" and "Contributions & Implications" sections.
+  Status:   PRACTICE ONLY (review/qualitative convention, not empirical archival)
+  Action:   Noted; authors using these methods should expect separated sections to be
+            valued.
+
+Delta 5: Research Gaps and Limitations Emphasis (PRACTICE ONLY)
+  Issue:    FIELD_SKILL mentions limitations as standard in conclusions. AFGR articles,
+            especially reviews and qualitative, dedicate full sections (e.g., "Research
+            Gaps," "Future Research Directions") to gaps and limitations even in
+            shorter papers.
+  Evidence: Almost all 12 articles include explicit research gaps or future research
+            sections. Empirical archival (Miller 2024, Hammami & Sioud 2026) follow
+            FIELD_SKILL pattern; reviews and qualitative work go further.
+  Status:   PRACTICE ONLY (emphasis, not reversal)
+  Action:   Noted; reflects journal's openness to exploratory/agenda-setting work.
+
+DIMENSIONS WITH NO DELTA:
+  - Voice and register (we-dominant, formal, clinical)
+  - Sentence length and paragraph density
+  - Introduction structure (CARS-like gap framing)
+  - Contribution positioning (explicit, required)
+  - Confidence calibration (empirical archival work)
+  - Causal language (reserved for identified variation)
+  - Methods conventions (past tense, procedural detail)
+  - Results reporting structure (empirical work)
+  - Statistical reporting (precise coefficients, significance)
+  - Reference format (author-date)
+
+================================================================================
+FIELD_SKILL OVERRIDES
+================================================================================
+
+The following FIELD_SKILL norms are overridden by AFGR hard constraints:
+
+1. FIELD_SKILL does not specify word limit; AFGR enforces 8,000-word maximum.
+   Override: Yes. Authors must respect hard limit.
+
+2. FIELD_SKILL does not specify abstract word limit; AFGR enforces 100-word maximum.
+   Override: Yes. Requires ruthless editing.
+
+3. FIELD_SKILL does not require a separate cover page; AFGR mandates it.
+   Override: Yes. Must be provided at submission.
+
+4. FIELD_SKILL derived from quantitative archival tradition; AFGR welcomes systematic
+   reviews, qualitative, and pedagogical work.
+   Override: Not a reversal; a relaxation. Authors should not assume quantitative
+   archival is the only path.
+
+5. FIELD_SKILL does not specify keyword count; AFGR specifies "up to 6."
+   Override: Yes. Do not exceed 6.
+
+================================================================================
+ADDITIONAL NOTES
+================================================================================
+
+- Journal is fully open-access, no author fees. Encourages accessibility.
+- Publication under CC-BY-NC-4.0 is more restrictive than some open-access
+  journals (non-commercial use only), but offers author benefit of retained
+  copyright.
+- Editorial approach described as "eclectic and pluralistic" (IAFA website).
+  This is consistent with the broad methodological welcome observed in
+  publication record.
+- ABS 1 status (lower tier than ABS 4*/4 baseline) does not mean lower rigor;
+  it reflects perhaps regional focus or smaller audience rather than quality
+  relaxation. Spot-checked articles show rigorous methodology across all types.
+- Journal has published a special issue on "Systematic Literature Reviews in
+  Accounting, Finance and Governance" (2025), signaling explicit institutional
+  support for review methodology.
+
+================================================================================
+DELTA CLASSIFICATION SUMMARY
+================================================================================
+
+ENFORCED (stated in guidelines AND confirmed in articles): 5
+  1. Word limit (8,000 words)
+  2. Abstract limit (100 words)
+  3. Keywords (up to 6)
+  4. Cover page (mandatory)
+  5. Citation style (author-date)
+
+GUIDELINE ONLY (stated but rarely followed): 0
+  (All guidelines appear to be enforced in practice.)
+
+PRACTICE ONLY (observed in articles but not explicitly stated): 5
+  1. Broad methodological scope (reviews, qualitative welcome)
+  2. High citation density in reviews (methodological necessity)
+  3. Tentative hedging in qualitative/review work (methodological necessity)
+  4. Separated conclusion/limitations/future research (review/qualitative convention)
+  5. Explicit research gaps sections (emphasis; agenda-setting valued)
+
+FIELD DEFAULT (no deviation): 11
+  (All voice, register, introduction structure, contribution, methods, results,
+   statistical reporting, reference format conventions follow FIELD_SKILL)
+
+RELAXATION (ABS 1 journal relaxes ABS 4*/4 norms): 1 major
+  1. Methodological scope (accepts reviews, qualitative, pedagogical alongside
+     archival empirical)
+
+================================================================================
+CONCLUSION
+================================================================================
+
+The Accounting, Finance & Governance Review is a journal that adheres closely to
+FIELD_SKILL norms for voice, register, argumentation, and reporting conventions.
+Its primary delta from the ABS 4*/4 baseline is methodological: it welcomes systematic
+reviews, qualitative studies, and pedagogical work alongside empirical archival
+research. This reflects its ABS 1 status and its institutional role as the journal
+of the Irish Accounting and Finance Association, serving a broader audience than
+purely quantitative research communities.
+
+Hard constraints on word/abstract length and cover page requirements are non-negotiable
+and must be observed. Beyond these, authors can be confident that FIELD_SKILL provides
+reliable guidance, with the understanding that review and qualitative methodologies
+will naturally follow their own convention patterns (higher hedging, integrated citations,
+separated conclusion sections, explicit gap identification).
+
+Skill file: accounting-finance-and-governance-review_SKILL.md
+Report file: accounting-finance-and-governance-review_report.txt

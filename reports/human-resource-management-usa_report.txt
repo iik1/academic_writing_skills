@@ -1,0 +1,56 @@
+Journal: Human Resource Management (USA)
+Slug: human-resource-management-usa
+ABS: 4
+Field: HRM&EMP
+
+Articles fetched: 14 distinct articles (abstract/front-matter level only; full text
+paywalled behind Wiley Online Library subscription, which this environment does not
+have). Spot-checked via search-engine-extracted abstract snippets, ResearchGate/SSRN
+mirrors, and publisher landing page metadata. Span 2023-2026, mix of empirical,
+conceptual/critical-reflection, and systematic/narrative review article types.
+
+Early stop triggered: No. Went beyond the 15-target discovery loop informally but
+settled at 14 confirmed, distinct, citable articles once new deltas stopped emerging
+(the same structural pattern - high share of conceptual/review pieces alongside
+empirical papers - kept recurring without producing new categories of delta).
+
+Deltas found: 2 dimensions
+  1. Structural Deviations (PRACTICE ONLY) - unusually high proportion of
+     conceptual/critical-reflection and literature-review/research-agenda articles
+     relative to a typical HRM&EMP empirical-hypothesis-testing profile; consistent
+     with guidelines explicitly listing conceptual analyses as a first-class article
+     type.
+  2. Other Journal-Specific Patterns (PRACTICE ONLY) - topical concentration on
+     algorithmic/AI-related HRM phenomena across several recent empirical articles
+     and special issue calls; not a formal style rule, noted only as framing context.
+
+All other FIELD_SKILL dimensions (voice/person, sentence style, argumentation/CARS
+structure, methods conventions, results reporting, discussion/conclusion norms,
+citation density, hedging) showed FIELD DEFAULT - no journal-specific deviation
+observed.
+
+FIELD_SKILL overrides (Hard Constraints from author guidelines):
+  - Word/page limit: ~10,000 words / 35 pages for Original Articles (not specified
+    in FIELD_SKILL by design).
+  - Abstract format: explicit author's choice of structured or unstructured
+    (FIELD_SKILL is silent on this by design).
+  - Citation style: APA (FIELD_SKILL does not specify by design).
+  - Double-blind peer review requiring a separate anonymized title page.
+  - Mandatory ORCID, Data Availability Statement, IRB/ethics statement for Original
+    Articles, and a data transparency table when reusing a dataset across
+    manuscripts.
+  - Figure legends required in two places (beneath each uploaded image AND as a
+    complete in-text list).
+
+Access-limitation notes:
+  - Live Wiley author-guidelines page (onlinelibrary.wiley.com/page/journal/1099050x/
+    homepage/forauthors.html) returned HTTP 402 Payment Required on direct fetch;
+    guidelines were instead retrieved via a Wayback Machine snapshot dated
+    2024-09-26, which appears current based on cross-referencing with 2025/2026
+    search results (submission portal, article types, and policies match live
+    search snippets).
+  - No full-text article access (no EZProxy/institutional access in this
+    environment); all 14 spot-checked articles were assessed via abstract-level
+    search snippets and secondary mirrors (ResearchGate, SSRN, EconBiz), sufficient
+    to judge structural/topical patterns but not sentence-level style, hedging
+    density, or exact citation practice within body text.

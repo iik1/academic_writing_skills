@@ -1,0 +1,18 @@
+Journal: Journal of Management and Governance
+Slug: journal-of-management-and-governance
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 10 (abstract/front-matter level only, via search-engine snippets and RePEc/IDEAS mirror; full text paywalled behind Springer login redirect)
+Early stop triggered: No (reached target sample size of 10 within acceptable range for ABS 1 tier)
+
+Deltas found: 1 dimension with a minor delta, 1 with low-prevalence practice-only observation
+- Length: RELAXATION — stated word limit 8,000-14,000 words vs. FIELD_SKILL's 10,000-15,000 for quantitative deductive papers
+- Structural/topical scope: PRACTICE ONLY / low-prevalence — sample skewed heavily toward quantitative, hypothesis-testing governance studies (board composition, ownership, executive pay, family-firm governance, CSR/ESG disclosure, bank governance); no qualitative or purely conceptual pieces observed, though journal scope does not formally exclude them
+
+FIELD_SKILL overrides: none (only a relaxation of the length ceiling; no structural/voice/citation norm redefined)
+
+Access-limitation notes:
+- Springer Nature's link.springer.com pages (submission guidelines, journal homepage, individual article pages, volume/issue listings) all triggered a 303 redirect to an IDP login wall (idp.springer.com/authorize) when fetched directly via WebFetch in this environment. No full-text or raw guidelines page content could be retrieved directly.
+- All hard constraints (word limit, double-blind review, title-page anonymization, LLM/generative-AI disclosure policy) and all article abstracts were obtained via WebSearch-extracted snippets of these same Springer pages, cross-referenced against the RePEc/IDEAS mirror (ideas.repec.org/s/kap/jmgtgv.html) for the article listing.
+- Because full text was inaccessible, statistical-reporting norms, citation density, and discussion/conclusion structure could not be verified beyond abstract-level evidence; the skill notes where FIELD_SKILL alignment is assumed by absence of contrary evidence rather than confirmed directly.

@@ -1,0 +1,59 @@
+ADVANCES IN ECONOMETRICS - DELTA DETECTION REPORT
+
+Journal Name: Advances in Econometrics
+Slug: advances-in-econometrics
+ABS Rating: 2
+Field: ECON
+Publisher: Emerald Group Publishing Limited
+
+RESEARCH SUMMARY
+================
+
+Articles Fetched: 4 volume overviews + 9 chapter abstracts/metadata
+Early Stop Triggered: No
+Access Limitations: Emerald paywall blocks full-text HTML and PDF access to most chapter content; research relied on public metadata, guidelines summaries, and open-access information from series homepage and IDEAS/RePEc.
+
+DELTAS FOUND: 3 (all structural/process-related)
+===============
+
+1. SUBMISSION MECHANISM (ENFORCED DELTA)
+   - This series does NOT accept direct submissions like a traditional journal
+   - Operates exclusively via Call-for-Papers for themed annual volumes
+   - Researchers must wait for calls aligned with their topic
+   - This is fundamentally different from journal-submission model in FIELD_SKILL
+
+2. ARTICLE TYPE DIVERSITY (PRACTICE ONLY)
+   - Series frequently publishes festschrift volumes (essays honoring econometricians)
+   - Chapters may be surveys, methodological reviews, or applied case studies
+   - Not restricted to original empirical research with novel identification
+   - More expository and reflective tone permitted than FIELD_SKILL assumes
+
+3. SUBMISSION FORMAT AND WORKFLOW (ENFORCED CONSTRAINT)
+   - Must submit as Word document (.docx)
+   - Must complete Contributor/Chapter Transfer Agreement form
+   - Chapter-based structure: Title, Abstract (250w max), Keywords (6 max), Main text, References
+
+FIELD_SKILL OVERRIDES
+=====================
+None identified. Manuscript structure, voice, argumentation, statistical reporting, and citation norms all align with FIELD_SKILL baseline (ABS 4*/4 conventions). The ABS 2 rating does not entail a relaxation of field norms; it reflects journal prestige tier rather than stylistic difference.
+
+HARD CONSTRAINTS (Guidelines Compliance)
+=========================================
+- Abstract: 250 words maximum (mandatory)
+- Keywords: Up to 6 (mandatory)
+- Citations: APA 7th Edition preferred (APA 6th acceptable)
+- Word count: Negotiated per contract; no fixed limit stated publicly
+- Figures/Tables: Type as part of manuscript, indicate position in text
+- Submission: Word document + signed agreement form
+
+ACCESS NOTES
+============
+- Emerald paywall blocks full-text access to most chapter PDFs and HTML versions
+- Series homepage (advancesineconometrics.com) is public and states no direct submissions
+- Editor list and recent volume information available via IDEAS/RePEc (public)
+- Emerald Author Guidelines PDF (2019) was blocked by server (403 Forbidden)
+- Individual chapter content not fully accessible; assessment based on metadata, table of contents, and publicly available summaries
+
+CONFIDENCE LEVEL: MODERATE
+===========================
+Sufficient information gathered from public sources (series homepage, editor information, recent volume metadata, and Emerald book series standards) to create a reliable skill. Unable to examine full chapter text due to paywall; however, chapter abstracts, table of contents, and stated editorial requirements provide adequate basis for delta detection. The dominant delta (call-for-papers process vs. direct submission) is explicitly stated on the series homepage and is unambiguous.

@@ -1,0 +1,21 @@
+Journal: Journal of School Psychology
+Slug: journal-of-school-psychology
+ABS: 3
+Field: PSYCH (WOP-OB)
+
+Articles fetched: 0 full-text (spot-check target of 15 not met)
+Early stop triggered: yes — access chain exhausted after ScienceDirect returned HTTP 403 on all direct WebFetch attempts (guide-for-authors page, volume/issue listings, individual article pages), and ResearchGate mirror of the key editorial also returned 403. No PMC/open-access mirrors of JSP articles were located via WebSearch.
+
+Deltas found: 2
+  1. Structural Deviations (ENFORCED) — Journal runs an active "Registered Reports and Replications" editorial initiative: authors can submit preregistered original studies (reviewed on methodology) or exact/conceptual replications, with preregistration required to follow the Joint Psychological Societies Preregistration Task Force checklist. Not covered by FIELD_SKILL.
+  2. Other Journal-Specific Patterns (ENFORCED) — Explicit requirement to follow the APA Inclusive Language Guide (2nd ed.) in addition to APA Publication Manual (7th ed.) bias-free language guidelines, stated directly in the guide for authors.
+
+FIELD_SKILL overrides: none identified (no conflicting hard constraints found; guidelines largely defer to APA 7th ed. formatting, consistent with FIELD_SKILL baseline).
+
+Access-limitation notes:
+- ScienceDirect blocked all direct WebFetch requests with HTTP 403 (guide-for-authors, volume pages S104/S107, individual article abstract pages).
+- ResearchGate mirror of the Registered Reports/Replications editorial also returned 403.
+- No PMC, arXiv, SSRN, or author-repository copies of JSP articles were found via WebSearch.
+- All findings rely on WebSearch-returned snippets/summaries rather than full-page or full-text fetches.
+- Confirmed via snippets: double-anonymized review process (Editor-in-Chief/Action Editors see author identity, reviewers do not); anonymized manuscript submission requirement; APA 7th ed. + APA Inclusive Language Guide (2nd ed.) requirement; Registered Reports and Replications initiative.
+- Not confirmed (no accessible source): abstract word limit/structure, manuscript length limits, table/figure-specific rules, heading conventions beyond APA default.

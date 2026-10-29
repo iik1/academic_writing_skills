@@ -1,0 +1,123 @@
+JOURNAL SKILL GENERATION REPORT
+==============================
+
+Journal Name:                    Asia Pacific Journal of Human Resources
+Journal Slug:                    asia-pacific-journal-of-human-resources
+ABS Rating:                      2
+Field:                           HRM&EMP
+Publisher:                       Wiley-Blackwell
+
+RESEARCH PHASE SUMMARY
+======================
+
+Articles Fetched:                5+ (spot-checked via metadata; full-text paywalled)
+Early Stop Triggered:            No (sufficient accessible information collected)
+Access Chain Exhausted:          Yes (Wiley OL, Ovid, PMC all paywalled for full text)
+
+DELTAS FROM FIELD_SKILL FOUND
+=============================
+
+Total Significant Deltas:        4
+
+1. ARTICLE LENGTH CONSTRAINT (RELAXATION/STRUCTURAL DELTA)
+   - FIELD_SKILL: Does not specify word limits
+   - JOURNAL REQUIREMENT: 8,500 words max (including abstract, refs, tables, figures, footnotes)
+   - IMPACT: Significantly tighter than typical ABS 4/4* journals (10,000–12,000 words)
+   - CLASSIFICATION: Enforced hard constraint
+
+2. PRACTITIONER KEY POINTS REQUIREMENT (ENFORCED/PRACTICE ONLY)
+   - FIELD_SKILL: Mentions practical implications as part of discussion
+   - JOURNAL REQUIREMENT: 3–5 mandatory "key points" (15 words max each) for practitioners
+   - IMPACT: Unique to APJHR; more formal/explicit than field baseline
+   - CLASSIFICATION: Enforced; journal-specific innovation
+
+3. UNSTRUCTURED ABSTRACT FORMAT (ENFORCED)
+   - FIELD_SKILL: Does not specify abstract structure
+   - JOURNAL REQUIREMENT: Single-paragraph unstructured abstract (150 words max, no labeled sections)
+   - IMPACT: More narrative-friendly than structured (Background/Methods/Results/Conclusion) format
+   - CLASSIFICATION: Enforced guideline; common at lower-tier journals
+
+4. CITATION FORMAT FLEXIBILITY (GUIDELINE ONLY)
+   - FIELD_SKILL: Assumes fixed citation style
+   - JOURNAL REQUIREMENT: "Free Format" policy—any author-date variant acceptable if consistent
+   - IMPACT: Relaxation compared to strict APA/Harvard enforcement
+   - CLASSIFICATION: Guideline; reduces friction for authors with different citation habits
+
+FIELD_SKILL OVERRIDE SUMMARY
+=============================
+
+None. FIELD_SKILL baseline on voice, register, methods reporting, ethical standards, and discussion norms is fully compatible with APJHR requirements. No contradictions detected.
+
+HARD CONSTRAINTS CONFIRMED
+===========================
+
+Structure:       Abstract, introduction, methods, results, conclusions required
+                 Separate title page for anonymization (double-blind review)
+
+Word Limit:      8,500 words max (Original Articles)
+                 Review Articles may exceed with editorial approval
+
+Abstract:        Unstructured, single paragraph, 150 words max
+
+Key Points:      3–5 practitioner-facing points, 15 words max each (journal-specific requirement)
+
+Citations:       Author-date system; any consistent format acceptable
+                 Max 80 references (or more for Review Articles with approval)
+
+Headings:        Numbered/lettered hierarchical structure
+                 Standard IMRaD section labels
+
+Tables/Figures:  Must include legends/captions
+                 Highest resolution possible
+                 Submitted separately or embedded clearly
+
+Submission:      Via Research Exchange (Wiley platform)
+                 Anonymized main text + separate title page
+                 Double-blind review
+
+Ethics:          Conflict-of-interest disclosures mandatory
+                 Ethical approval required for human subjects research
+                 Data sharing encouraged (public repository)
+
+Anonymization:   No author identifiers in main manuscript
+                 Author names/affiliations omitted from supplementary materials
+
+References:      80 references max for Original Articles
+                 Free Format (any author-date variant, consistent throughout)
+
+ACCESS LIMITATIONS & NOTES
+==========================
+
+- Full-text article access blocked by paywall (Wiley, Ovid, most platforms)
+- Guidelines page (Wiley author guidelines) returned HTTP 402 Payment Required
+- Hard constraints and submission categories extracted from secondary sources:
+  * Paperpile citation database
+  * CitationSy citation format reference
+  * Journal metadata aggregators (SciSpace, Resurchify, Researcher.Life, AskBisht)
+  * Journal announcement pages and WebSearch results
+  * Article metadata visible on Wiley table-of-contents pages (abstract/title level)
+
+- No contradictions detected between stated guidelines and published article structure
+- Journal actively publishing (Volume 63 in 2025; Volume 62 in 2024; 4 issues/year)
+- ABS 2 classification and ranking confirmed across multiple sources (Australian Business Deans Council 2025)
+
+ARTICLE SAMPLE VERIFICATION
+===========================
+
+Recent articles identified from Volume 63 (2025) Issue 2 (April):
+- Ferrer et al.: "Current State and Future Challenges in the Post-COVID World of Work"
+- Wang et al.: "The Mediating Role of Corporate Reputation and Green Dynamic Capability"
+- Babar et al.: "Moderating Role of Knowledge Sharing"
+
+Volume 63 Issue 3 (July 2025) and Issue 4 (October 2025) confirmed as published.
+All articles follow standard IMRaD structure visible in abstracts/metadata.
+
+CONCLUSION
+==========
+
+Skill document successfully generated. APJHR is an ABS 2 applied HRM journal with moderate deviations from the FIELD_SKILL baseline, primarily in the enforcement of strict word limits (8,500 words) and a unique practitioner key-points requirement. No FIELD_SKILL content needs revision; all journal-specific deltas are documented in the skill file.
+
+File saved: /skills/hrm/asia-pacific-journal-of-human-resources_SKILL.md
+Report saved: /reports/asia-pacific-journal-of-human-resources_report.txt
+
+Date generated: 2026-07-02

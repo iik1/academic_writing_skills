@@ -1,0 +1,46 @@
+Journal: Industrial Relations Journal
+Slug: industrial-relations-journal
+ABS: 3
+Field: HRM&EMP
+Publisher: Wiley-Blackwell
+
+Articles fetched: 12 (abstract/front-matter level only; full text paywalled
+in all cases; accessed via WebSearch-cached snippets of Wiley/RePEc/
+ResearchGate pages, not direct WebFetch, since Wiley pages returned
+HTTP 402 Payment Required on every direct WebFetch attempt)
+
+Early stop triggered: No — sample spans 2024-2026, includes empirical
+quantitative, empirical qualitative, systematic review, and conceptual
+article types. Delta set stabilised (structural relaxation + APA citation
+style) well before 12 articles; continued slightly past that point to
+confirm the range of article types.
+
+Deltas found: 3
+  1. Structural Deviations (RELAXATION) - journal accepts conceptual/
+     critical essays with no original data and systematic-review articles
+     alongside standard empirical papers, more broadly than FIELD_SKILL's
+     top-tier baseline implies.
+  2. Other Journal-Specific Patterns (PRACTICE ONLY, low-prevalence) -
+     frequent reliance on small-N / single-country qualitative case
+     studies as primary empirical base.
+  3. Citations (HARD_CONSTRAINT, additive) - explicit APA reference style
+     required; FIELD_SKILL is silent on citation style so this is not a
+     conflict, just additional information.
+
+FIELD_SKILL overrides: none (no direct contradictions found; only
+additions/relaxations within what FIELD_SKILL already allows for varies-
+by-journal dimensions)
+
+Access-limitation notes:
+- Wiley's live author-guidelines and abstract pages returned HTTP 402
+  Payment Required on every direct WebFetch attempt in this session; all
+  guideline and abstract content was reconstructed from WebSearch's
+  cached-snippet summaries of those same pages (RePEc, ResearchGate,
+  Scribd mirrors, and Wiley SERP snippets).
+- Word/page limit could not be confirmed with confidence: a cached
+  snippet suggested "6,000-8,000 words" but this may be conflated with a
+  different, similarly named journal (International Relations). The
+  skill file flags this explicitly as unconfirmed rather than asserting
+  it as fact.
+- No dedicated "Aims and Scope" page content beyond a one-line summary
+  was retrievable due to the same paywall/402 issue.

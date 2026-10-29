@@ -1,0 +1,22 @@
+Journal: Decisions in Economics and Finance
+Slug: decisions-in-economics-and-finance
+ABS: 1
+Field: ECON
+Publisher: Springer (AMASES official journal)
+
+Articles fetched: 6 full abstract/JEL/keyword records via IDEAS/RePEc (DOIs: 10.1007/s10203-022-00384-9, 10.1007/s10203-019-00272-9, 10.1007/s10203-024-00463-z, v37(2)2014 p453-474), plus a title-level survey of ~15 additional articles across issues from 2011-2012 and 2025 via RePEc journal listing and Springer search snippets.
+
+Early stop triggered: No (dedupe check found no existing skill file for this journal).
+
+Access limitations:
+- Springer's article pages and submission-guidelines page redirect to idp.springer.com login wall in this environment; full text was never accessible.
+- Submission guidelines content was reconstructed from WebSearch result summaries (which appear to have indexed the guidelines page content) rather than direct WebFetch of the live page. No explicit word/page limit could be found via this route.
+- No full-text article was read; all article-level findings are abstract/keyword/JEL-level observations only, consistent with instructions for a lower-tier journal with thin public access.
+
+Deltas found: 2
+1. Structural Deviations (PRACTICE ONLY, low-prevalence relative to FIELD_SKILL empirical track) - journal's real profile is mathematical finance/stochastic control papers; FIELD_SKILL's theory-paper track applies, not the empirical-paper track.
+2. Other Journal-Specific Patterns (PRACTICE ONLY) - JEL codes (4/6 sampled) and keyword lists (6/6 sampled) are standard front matter.
+
+FIELD_SKILL overrides (Hard Constraints): none that contradict FIELD_SKILL; only additive disclosure requirements (funding, competing interests, ethics approval, data/code standards) and LaTeX/Springer template submission format, none of which existed in FIELD_SKILL scope.
+
+Notes: This is a niche, math-heavy ABS 1 journal. Confidence in the "no delta" dimensions (voice, hedging, citation format) is moderate-low since no full text was read; abstract-level evidence did not contradict FIELD_SKILL defaults.

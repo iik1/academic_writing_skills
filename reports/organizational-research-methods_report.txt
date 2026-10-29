@@ -1,0 +1,41 @@
+Journal: Organizational Research Methods
+Slug: organizational-research-methods
+ABS: 4
+Field: ORG STUD
+
+Articles fetched: 7 counted ORM articles (plus 1 adjacent Journal of Management article
+consulted for context but not counted): Aguinis, Ramani, & Villamor (2019) full-text open
+PDF; Schabram, Myers, & Hardin (2024/2026) abstract; Brown, Power, & Gore (2024) abstract;
+Rockmann & Vough (2023) abstract/summary; "How Many Interviews Do I Need?" (2026) title;
+"On the Nuisance of Control Variables in Causal Regression Analysis" (2023) title;
+Hollands, Haensse, & Lin-Hi (2024) mixed-methods resilience study abstract snippet.
+
+Early stop triggered: No — access chain (WebSearch/WebFetch, no institutional proxy) was
+exhausted for full-text retrieval; most ORM content is subscription-paywalled on SAGE.
+Sufficient abstract/title-level signal was gathered across 7 articles plus one full-text
+retrospective to reach delta stabilization; continuing would very likely have surfaced the
+same recurring pattern (methods-focused, tutorial/typology/critique framing) rather than new
+deltas.
+
+Deltas found: 3 substantive dimensions
+1. Voice and Register — abstracts frame contribution around methodological/measurement
+   advances rather than theory contribution; explicit editorial expectation of accessibility
+   to non-methodologist readers despite technical content.
+2. Hard Constraint: Citations — explicit requirement to follow current-edition APA style
+   (stated in guidelines), stricter/more specific than FIELD_SKILL's generic author-date norm.
+3. Hard Constraint: Explicit Prohibitions / blinding — double-anonymized review strictly
+   enforced with specific anonymization requirements (file name, headers, footers).
+   Also reaffirmed (not new, already flagged in FIELD_SKILL): methods-journal structural
+   deviation (worked demonstrations/simulations instead of hypothesis tests) and heavier
+   technical/notation density in Methods sections.
+
+FIELD_SKILL overrides: APA citation style (overrides generic author-date convention);
+double-anonymized review requirement (adds an explicit blinding constraint FIELD_SKILL does
+not specify).
+
+Access-limitation notes: No institutional EZProxy access in this environment. Full text of
+sampled ORM articles was paywalled on journals.sagepub.com; relied on WebSearch-derived
+abstracts/summaries, one open-access full-text retrospective article (Aguinis et al. 2019,
+available as an open PDF), the SAGE submission-guidelines PDF (partially image-based, read
+via the Read tool after WebFetch download), and ooir.org / academic aggregator listings for
+recent article titles and publication dates.

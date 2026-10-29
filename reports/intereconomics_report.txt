@@ -1,0 +1,13 @@
+Journal: Intereconomics
+Slug: intereconomics
+ABS: 1
+Field: ECON
+Articles fetched: 12 (2 full-text; 4 abstract/metadata via PMC mirrors; 2 issue tables of contents providing ~15 additional titles/authors surveyed for structure patterns; guidelines pages x2)
+Early stop triggered: No
+Deltas found: 4
+  - Structural Deviations (ENFORCED): no numbered sections, no IMRAD, no formal abstract
+  - Voice and Register (PRACTICE ONLY / RELAXATION): more accessible, less "we"-dominant, policy-brief tone
+  - Statistical Reporting (FIELD DEFAULT adapted): quantitative claims present but no full econometric apparatus, consistent with short format
+  - Other Journal-Specific Patterns (PRACTICE ONLY): closing section often titled "Summary" rather than "Conclusion"
+FIELD_SKILL overrides: Structure (no numbered chapters/parts - HARD CONSTRAINT from guidelines), Length (3,000-5,000 words for Articles, shorter for Editorial/Forum/Letter from America - HARD CONSTRAINT), Abstract (none required - HARD CONSTRAINT/observed)
+Access-limitation notes: Intereconomics does not have a conventional abstract-landing-page architecture on most third-party indexers (PMC mirror pages returned metadata only, not body text, for several older pieces). Two full articles were read directly from the publisher's own site (intereconomics.eu) which was sufficient to confirm structural conventions (descriptive non-numbered headings, no abstract, "Summary" as closing section) consistently across all sampled pieces. No paywall issues encountered on publisher's own site since content is open access under CC BY 4.0.

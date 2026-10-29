@@ -1,0 +1,15 @@
+Journal: International Journal of Research in Marketing
+Slug: international-journal-of-research-in-marketing
+ABS: 4
+Field: MKT
+Articles fetched: 10 substantive articles (abstracts) + 2 co-editor editorial pieces
+Early stop triggered: No (delta set stabilized after ~10 articles; continued to 12 sources for confidence)
+
+Deltas found: 3 dimensions
+1. Citation formatting (RELAXATION) - guide for authors explicitly does not enforce strict reference style at submission, contra FIELD_SKILL's APA default.
+2. Voice/register and structural framing (PRACTICE ONLY / ENFORCED) - co-editors' 2026 editorial ("How to publish in a top marketing journal") explicitly states managerial/stakeholder actionability is a shared evaluation criterion across ALL subfields (quant, behavioral, strategy, inductive), stronger than FIELD_SKILL's theory-primary default for behavioral work.
+3. Article-type/structural diversity (PRACTICE ONLY) - bibliometric/LDA review papers, qualitative expert-interview taxonomy papers, and large-panel econometric studies all observed as standard formats, broader than FIELD_SKILL's three templates.
+
+FIELD_SKILL overrides: Citation style (references need not be strict APA at submission).
+
+Access-limitation notes: Direct WebFetch to ScienceDirect guide-for-authors page returned HTTP 403; guidelines content reconstructed from WebSearch-indexed excerpts of the same page. Full text of all sampled articles was paywalled; relied on publicly indexed abstracts, IDEAS/RePEc listings, SSRN/arXiv preprints, and search-engine-extracted summaries. No full-text access chain (RePEc/SSRN mirrors) was checked article-by-article beyond what surfaced in search; this is documented as an abstract-level review consistent with task instructions.

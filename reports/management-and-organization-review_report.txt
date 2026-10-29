@@ -1,0 +1,16 @@
+Journal: Management and Organization Review
+Slug: management-and-organization-review
+ABS: 3
+Field: IB&AREA
+
+Articles fetched: 17 (Vol. 20 Iss. 1 [Feb 2024]: 6; Vol. 19 Iss. 1 [2023]: 7 incl. Dialogue/Debate/Perspectives pieces; FirstView [Jan-Jun 2026]: 10 — note some overlap counted, total distinct abstracts read = 17)
+Early stop triggered: No — sampling stopped after delta set stabilised across three issue sources.
+
+Deltas found: 3 dimensions
+  - Voice and Register: ENFORCED (explicit active-voice/first-person rule, stronger statement than field default)
+  - Structural Deviations: ENFORCED (rigid, capitalized, named six-section skeleton for empirical papers)
+  - Other Journal-Specific Patterns: PRACTICE ONLY (heavy thematic specialization in Chinese/emerging-market context; blind-review self-citation depersonalization rule; submission file hygiene requirements)
+
+FIELD_SKILL overrides: Structure (mandatory named headings), Abstract (200-word cap, unstructured), Citations (2-author always both names; 7+ authors et al. even at first mention), Headings (capitalization/case rules per level), Tables/Figures (no vertical lines, 2 decimal places, tab-separated, p-value asterisk convention), explicit self-citation depersonalization rule for blind review.
+
+Access-limitation notes: Full text of sampled articles was paywalled; relied on abstract/front-matter visible via Cambridge Core issue listings and FirstView listing, which was sufficient for structural and voice observations per task instructions. No 403s encountered; all fetches succeeded.

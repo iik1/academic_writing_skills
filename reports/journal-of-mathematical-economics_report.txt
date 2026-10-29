@@ -1,0 +1,23 @@
+Journal: Journal of Mathematical Economics
+Slug: journal-of-mathematical-economics
+ABS: 3
+Field: ECON
+Publisher: Elsevier
+
+Articles fetched: 9 full abstracts/working papers spot-checked (Beal/Munich/Techer; Hagiwara/Ochiai/Yamamura; Kunimoto/Zhang; Arribillaga/Masso/Neme; Sugiura; Jacobo), plus ~20 recent titles/authors reviewed from RePEc table of contents (vols 122-124) for structural pattern confirmation.
+
+Early stop triggered: No — reached convergence naturally. Deltas stabilized after ~7 articles; remaining checks confirmed rather than added new findings. Direct full-text access to ScienceDirect was blocked (403); relied on SSRN/working-paper versions, RePEc/IDEAS listings, and WebSearch-extracted abstract snippets, which the assignment explicitly permits.
+
+Deltas found: 2 dimensions
+1. Structural Deviations (PRACTICE ONLY, high-prevalence) — near-uniform pure-theory Definition-Theorem-Proof structure organized around a single characterization/equivalence result, narrower than FIELD_SKILL's general theory-paper template range.
+2. Other Journal-Specific Patterns / Abstract compression (RELAXATION, permissible at ABS 3) — abstracts state one main result in 1-2 sentences rather than previewing multiple contributions with quantitative magnitudes as FIELD_SKILL describes.
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+- Abstract: 250-word max, avoid references/undefined abbreviations.
+- Required: 3-5 Highlights (<=85 chars each), 1-7 keywords, up to 6 JEL codes.
+- Editable source files only (.doc/.docx or .tex); no PDF submissions.
+- Explicit scope screen: mathematically correct/novel work without real economic content is out of scope.
+
+No delta found in: voice/person, citation format (author-date), hedging, sentence/paragraph style (theory-paper formality already anticipated by FIELD_SKILL).
+
+Access-limitation notes: ScienceDirect guide-for-authors page returned 403 on direct WebFetch; guideline content was obtained via WebSearch snippet extraction instead. No full-text JME articles were accessible; all article-level evidence comes from abstracts via SSRN, working-paper repositories, job-market-paper PDFs, and RePEc/IDEAS metadata pages.

@@ -1,0 +1,23 @@
+Journal: British Journal of Social Psychology
+Slug: british-journal-of-social-psychology
+ABS: 3
+Field: PSYCH (GENERAL)
+
+Articles fetched: 7 abstracts read in full (PubMed) + 2 abstract snippets (WebSearch) = 9 total spot-checked items
+Early stop triggered: No (target of 15 not reached; access chain exhausted — Wiley publisher pages returned HTTP 402 Payment Required on every direct fetch attempt, restricting access to PubMed abstracts and search-snippet abstracts only)
+
+Deltas found: 2 dimensions
+  1. Structural Deviations (submission process) - ENFORCED - pre-submission gating via Editor-in-Chief-invited extended abstract (~300-500 words) before full manuscript submission
+  2. Other Journal-Specific Patterns - PRACTICE ONLY / RELAXATION - journal publishes a substantial share of qualitative/critical discourse-analytic social psychology alongside standard quantitative IMRaD work, broader than FIELD_SKILL's quantitative-centric baseline
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Word limit: 7,000 words main text (excludes abstract, references, figures, tables); over-limit papers returned unreviewed
+  - Citation style: APA Publication Manual, full journal titles (not abbreviated), DOIs required where available
+  - Systematic reviews must be pre-registered with anonymous link provided to reviewers
+  - Free-format submission offered pre-review (Wiley-wide practice)
+  - Double-blind (anonymous) peer review
+
+Access-limitation notes:
+  - All Wiley/bpspsychub.onlinelibrary.wiley.com pages returned HTTP 402 Payment Required on direct WebFetch, including the author guidelines page and all article/TOC pages. Guidelines content was reconstructed from WebSearch result snippets only (title, word limit, citation rules, submission process, open science policy).
+  - Article spot-check relied entirely on PubMed abstract pages (freely accessible) and WebSearch snippets, not full text or publisher abstract pages. This is sufficient for voice, structure, and abstract-format observations per task instructions, but statistical-reporting-in-Results and citation-density-in-Discussion could not be directly verified since full text was never accessible.
+  - Stopped at 7 full abstracts + 2 snippets (9 total) rather than 15 because the delta set had stabilized (all abstracts unstructured, first-person plural, consistent with FIELD_SKILL) and further PubMed/WebSearch queries were returning diminishing new information given the 402 wall on full text.

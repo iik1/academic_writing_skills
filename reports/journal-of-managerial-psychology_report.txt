@@ -1,0 +1,20 @@
+Journal: Journal of Managerial Psychology
+Slug: journal-of-managerial-psychology
+ABS: 3
+Field: PSYCH (WOP-OB)
+
+Articles fetched: 5 (1 full abstract via WebFetch of article page; 8 titles/foci from a special-issue TOC; 4 additional abstract snippets via WebSearch-extracted content for a 2026 psychological-contract-breach study, a transformational leadership/work engagement study, a qualitative crisis-management study, and an emotional intelligence/CFA-SEM study)
+Early stop triggered: No (deltas stabilized around 5-8 sources; access chain largely exhausted for full text since journal is subscription-only via Emerald with no open-access mirror found for these titles)
+
+Deltas found: 5 dimensions
+- Citations (Harvard style body-text, not APA) — ENFORCED, HARD_CONSTRAINT override
+- Abstract (Emerald structured abstract, 250-word cap, practical implications summary on abstract page) — ENFORCED, HARD_CONSTRAINT override
+- Length (7,500 words feature articles; 4,000-word Brief Reports type) — ENFORCED, HARD_CONSTRAINT override
+- Statistical Reporting (named acceptable/unacceptable methods: Hayes/Cheung-Lau mediation vs Baron-Kenny; HLM vs OLS for nested data; CFA required) — ENFORCED
+- Practical implications prescriptiveness (stakeholder-organized, substantial not pro-forma) — ENFORCED
+- Structural deviations: single-study designs more accepted at ABS 3 than field's multi-study trend — PRACTICE ONLY / RELAXATION
+- Replication study acceptance policy — GUIDELINE ONLY
+
+FIELD_SKILL overrides: Citations (Harvard not APA in-text); Abstract format (Emerald structured headings, 250-word cap); Length (7,500-word hard cap, absent from FIELD_SKILL)
+
+Access-limitation notes: Emerald's main author-guidelines page (emerald.com/jmp/author-guidelines, /for-authors) returned 403/404 to WebFetch; guideline content was reconstructed from WebSearch snippets, Emerald's cross-journal structured-abstract convention, and a JMP-specific editorial article (Vol 35(6), p.453) that was successfully fetched in full and provided most of the journal-specific substance. Full-text articles are paywalled; all article-level evidence is abstract/TOC-level, consistent with task instructions that this is sufficient for style-delta judgment.

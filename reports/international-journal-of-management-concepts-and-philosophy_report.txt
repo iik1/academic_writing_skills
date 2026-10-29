@@ -1,0 +1,21 @@
+Journal: International Journal of Management Concepts and Philosophy (IJMCP)
+Slug: international-journal-of-management-concepts-and-philosophy
+ABS: 1
+Field: ETHICS-CSR-MAN
+Publisher: Inderscience Enterprises Ltd
+
+Articles fetched: 14 distinct articles spot-checked (title + abstract level; no full text accessible).
+Early stop triggered: No — reached target sample size via WebSearch snippets and inderscience.com/info/inarticle.php abstract pages after inderscienceonline.com blocked WebFetch with 403.
+
+Deltas found: 3 dimensions
+1. Structural Deviations — wider article-type mix than FIELD_SKILL's four templates (thought pieces, reflective commentary, philosophical essays alongside conventional empirical papers), explicitly licensed by scope statement and confirmed in sample. PRACTICE ONLY / GUIDELINE-supported.
+2. Structural Deviations — bibliometric/literature-review papers are a recurring article type (4 of 14 sampled), higher proportion than FIELD_SKILL's Integrative Review template implies for top-tier outlets. RELAXATION (ABS 1 tier).
+3. Other Journal-Specific Patterns — purely conceptual/philosophical essays argued in continuous prose without AMR-style numbered propositions (P1, P2...). PRACTICE ONLY / RELAXATION.
+
+FIELD_SKILL overrides: none (no hard constraints found that contradict FIELD_SKILL; all differences are relaxations/breadth, not redefinitions).
+
+Access-limitation notes:
+- inderscienceonline.com (main article host, TOC/abstract pages) returned HTTP 403 for all WebFetch attempts — could not access full text or structured TOC listings directly.
+- Worked around via WebSearch snippets and the alternate inderscience.com/info/inarticle.php?artid=... abstract pages, which were fetchable and gave full abstract text + keywords for several articles (artid 117979, 135091, 133784).
+- No dedicated "author guidelines" PDF was located publicly; relied on the journal's jhome.php scope/policy page (Inderscience general submission policies: double-blind review, no briefs/notes, no prior publication, no publication charges for standard articles).
+- No word/page limit, citation style specifics, or table/figure rules could be confirmed as journal-specific (generic Inderscience house style assumed, not verified against a journal-specific template document).

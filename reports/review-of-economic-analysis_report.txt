@@ -1,0 +1,11 @@
+Journal: Review of Economic Analysis
+Slug: review-of-economic-analysis
+ABS: 1
+Field: ECON
+Articles fetched: 11 (abstract/metadata level; full-text PDF extraction not accessible via automated fetch)
+Early stop triggered: No
+Deltas found: 2
+  - Structural Deviations: JEL codes required by guidelines but absent in all 11 spot-checked published articles (GUIDELINE ONLY / not enforced)
+  - Other Journal-Specific Patterns: sample skews toward applied cross-country/panel empirical papers using threshold, quantile, VECM/FMOLS methods with policy framing (PRACTICE ONLY, tendency not exclusive)
+FIELD_SKILL overrides: none (no conflicts found; hard constraints are additive formatting/structure rules not covered by FIELD_SKILL, e.g. abstract 200-word cap, Arabic-numeral headings, first-page JEL/keyword block, reference alphabetical-then-chronological ordering)
+Access-limitation notes: Journal's OJS platform (University of Waterloo) allows open-access abstract pages to be fetched, but PDF full-text links route through a "view" wrapper page that automated WebFetch could not resolve to body text. Analysis therefore relies on abstracts, keywords, and metadata across 11 articles spanning Vol. 17 No. 4 (2025) and Vol. 18 No. 1-2 (2026), which is consistent with the good-faith lower-tier sampling standard. No paywalls encountered; the journal is fully open access. No JEL codes were found in any article's published metadata despite the guidelines requiring them.

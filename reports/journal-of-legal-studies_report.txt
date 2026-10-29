@@ -1,0 +1,35 @@
+Journal: Journal of Legal Studies
+Slug: journal-of-legal-studies
+ABS: 3
+Field: ECON
+Publisher: University of Chicago Press
+
+Articles fetched: 8 (abstracts/front matter only, via WebSearch cached snippets; full text paywalled)
+- Guim Alfago, Klick & Mungan, "Punishment Menus" (2026, Vol 55/1)
+- Shavell, "On the Law of the Household" (2026, Vol 55/1)
+- Bartlett, "Standardization and Innovation in Venture Capital Contracting" (2026, Vol 55/1)
+- Porat, "Behavior-Based Price Discrimination and Data Protection in the Age of Algorithms" (2026, Vol 55/1)
+- Sommers & Bohns, "Forms of Commitment" (2026, Vol 55/1) [title/TOC only]
+- Fu, Xu & Zhang, "Does Legality Produce Political Legitimacy?" (2025, Vol 54/2)
+- Katz & Sandroni, "The Judging Game" (2025, Vol 54/2)
+- Liu & Strahilevitz, "Cash Substitution and Deferred Consumption as Data-Breach Harms" (2025, Vol 54/2)
+
+Early stop triggered: No — deltas stabilized after ~8 articles combined with clear guideline page; direct full-text access exhausted (journals.uchicago.edu returned 403 to WebFetch; relied on WebSearch cached extracts, SSRN, chicagounbound, NBER working papers).
+
+Deltas found: 3 dimensions
+- Citation Density / format — footnote citation convention (law-journal style) rather than author-year in-text (ENFORCED per style sheet post-acceptance; any style accepted at submission)
+- Structural Deviations — motivating hooks frequently rooted in specific legal doctrine/statute/case rather than purely economic stylized fact (PRACTICE ONLY, reflects scope not a structural rule change)
+- Other Journal-Specific Patterns — full-name-then-surname convention, no titles (ENFORCED)
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+- Fixed manuscript order: title page -> abstract -> text/citations -> footnotes -> appendixes -> tables -> figure legends -> figures
+- Abstract: strict 150-word limit, unstructured
+- Citation style: Chicago Manual of Style 16th ed. governing general style; footnote-based citation per accepted-paper style sheet (any reasonable style at submission)
+- Heading numbering: 1. FULL CAPS / 1.1. Caps and Lowercase / 1.1.1. Italic Caps and Lowercase
+- All tables/figures (incl. appendixes) must be cited in text in order of appearance
+- Name convention: full name at first mention, surname thereafter, no titles
+
+Access-limitation notes:
+- journals.uchicago.edu/journals/jls/instruct returned HTTP 403 to direct WebFetch; guideline content obtained via WebSearch's cached extraction of the same page.
+- Full text of all 8 spot-checked articles was paywalled; assessment relied on abstracts and front matter (title, authors, journal metadata) sourced via WebSearch from SSRN, chicagounbound (Chicago Unbound repository), NBER, and university/author pages.
+- No RePEc/IDEAS abstract text was available beyond a TOC listing (titles/authors/pages only).

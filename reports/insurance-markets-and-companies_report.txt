@@ -1,0 +1,35 @@
+Journal: Insurance Markets and Companies
+Slug: insurance-markets-and-companies
+ABS: 1
+Field: FINANCE
+
+Articles fetched: 0 full-text; 4 abstract/metadata-level (via WebSearch snippets only)
+Early stop triggered: No (ran full process; access chain exhausted rather than early-stopped)
+
+Deltas found: 2 dimensions
+  1. Structural Deviations - Publisher mandates explicit AIMRaD (empirical) / AITbRaD (theoretical)
+     section framework, more explicitly named/enforced than FIELD_SKILL's looser structure description.
+     Confidence: PLAUSIBLE (publisher-template level; not independently confirmed against full-text
+     articles from this specific journal due to access block).
+  2. Citations - References must follow Business Perspectives' own citation style guide OR APA,
+     rather than FIELD_SKILL's bare author-year convention. RELAXATION/formalization, not a new norm.
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Abstract: unstructured, 150-250 words, no citations/tables/figures inside abstract (explicit
+    publisher prohibition, stronger than FIELD_SKILL's abstract description).
+  - Length: 4,000-6,000 words excluding front/back matter; title <= 15 words.
+  - Citation style: APA or Business Perspectives' own guide (not bare author-year).
+
+Access-limitation notes:
+  - The entire businessperspectives.org domain returned HTTP 403 Forbidden to WebFetch for every
+    URL tried this session: journal landing page, individual article pages, PDF download links,
+    and issue listing pages.
+  - Aggregators tried (DOAJ, Paperity, SciSpace) either mirrored the block or returned empty content.
+  - All findings reconstructed from WebSearch result snippets (which quote/paraphrase fragments of
+    guideline pages and article abstracts/keywords/JEL codes), not full-text reads.
+  - Could not reach the 10-15 article spot-check target; only 4 articles were identifiable even at
+    abstract/metadata level. Documented explicitly in the skill file as a low-confidence, thin-evidence
+    base per the assignment's good-faith-effort allowance for ABS 1 journals.
+  - Guidelines used are the publisher-wide Business Perspectives "for authors and editors" template,
+    which appears to apply uniformly across their journal portfolio (including this one); no
+    journal-specific deviations from that template were found or could be confirmed.

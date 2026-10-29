@@ -1,0 +1,129 @@
+DELTA-DETECTION REPORT: The Journal of Wealth Management
+========================================================
+
+Journal Name: The Journal of Wealth Management
+Slug: the-journal-of-wealth-management-writing-style
+ABS Rating: 1
+Field: FINANCE
+Publisher: Portfolio Management Research (PMR)
+
+RESEARCH SUMMARY
+================
+
+Phase 1 (Author Guidelines): COMPLETED
+- Guidelines URL: https://pmr-journals.pm-research.com/index.php/jwm/about/submissions
+- Access: Public, fully accessible
+- Completeness: Comprehensive; all required hard constraints documented
+
+Phase 2 (Article Spot-Check): COMPLETED
+- Articles identified: 5 (Fall 2024 and prior issues)
+- Full-text access: Limited (paywalled behind PMR auth); abstracts and bibliographic info available
+- Titles sampled:
+  * "An ICAPM for Goals-Based Investing" (Mladina, 2024)
+  * "Presidential Elections and Asset Returns: An Update and Extension for Active Investors" (Grant & Trahan, Fall 2024)
+  * "Analyzing the Performance of Real Estate Investment Trusts and the Impact of COVID-19" (Malhotra, Zhang, Kanuri)
+  * "Reducing the Carbon Footprint of an Index" (Fall 2024)
+  * "Navigating the Net-Zero Maze: Guidelines for Investors to Assess Effective Corporate Transitioning" (Fall 2024)
+
+Access Limitation: Full-text articles behind PMR paywall. Inferred style patterns from:
+- Journal submission guidelines (explicit)
+- Journal mission and scope statements
+- Author information pages
+- Citations and bibliographic metadata
+- Abstract availability
+
+Early stop triggered: NO. Sufficient information gathered from explicit guidelines to assess deltas.
+
+DELTAS FOUND
+============
+
+Total dimensions with deltas: 7
+Total dimensions with no delta: 9
+
+Deltas by category:
+
+1. HARD CONSTRAINTS (Enforced)
+   - Target word length: 4,000 words (vs. field estimate of 3,000–7,500)
+   - Abstract format: Non-technical, unstructured, exactly 160 words
+   - Introduction structure: Exactly 4 required elements (question, industry importance, solution type, roadmap)
+   - Target audience: Practitioners, not academics; plain English requirement explicit
+   - Exhibits: Called "Exhibits" (not tables/figures); color + B&W distinguishability required
+   - Copyright: Exclusive worldwide assignment with severe distribution restrictions
+   - Font/spacing: Specific (12pt Times New Roman, single-spaced with 12pt space before paragraphs)
+
+2. VOICE AND REGISTER (Enforced)
+   - Practitioner-first, not academic-first
+   - Explicit prohibition on jargon ("minimize technical jargon")
+   - Papers written "primarily for academics" desk-rejected
+
+3. CONCLUSION (Enforced)
+   - Must be "brief summary reflecting abstract content"
+   - Tighter than FIELD_SKILL's 1–4 paragraph standard
+
+4. CITATION FORMAT (Enforced but standard)
+   - Chicago Manual of Style 17th Edition, Chapter 15 (author-date)
+   - Consistent with FIELD_SKILL expectation
+
+5. COPYRIGHT AND REPRODUCIBILITY (Enforced)
+   - Exclusive assignment (restrictive vs. higher-tier journals)
+   - SSRN/ResearchGate posting prohibited without permission
+   - Lower pressure for immediate reproducibility
+
+6. INTRODUCTION STRUCTURE (Enforced, more rigid)
+   - FIELD_SKILL: 8-move typical structure, with literature and roadmap
+   - JWM: Exactly 4 elements; academic positioning explicitly prohibited
+
+7. ABSTRACT STRUCTURE (Enforced, unique)
+   - Unstructured, plain-language, practitioner-facing
+   - Typical finance abstracts may include methodological detail; JWM prohibits this
+
+FIELD_SKILL OVERRIDES
+=====================
+
+The following field-level norms are overridden by JWM hard constraints:
+
+1. Technical density: FIELD_SKILL expects "high, domain-specific vocabulary used freely"; JWM requires justification and plain-language explanation for all technical terms.
+
+2. Audience assumption: FIELD_SKILL targets "reviewers in this field" with econometric competence; JWM targets portfolio managers, accountants, lawyers, advisors with high domain knowledge of wealth management but not necessarily econometrics.
+
+3. Introduction framing: FIELD_SKILL allows academic positioning (literature contribution, theory extension); JWM prohibits academic-first framing at desk stage.
+
+4. Copyright and distribution: FIELD_SKILL assumes open-science norms (data packages, preprints); JWM enforces exclusive rights and restricts preprint posting.
+
+5. Conclusion scope: FIELD_SKILL allows future-research discussion and extended limitation acknowledgment; JWM mandates brief summary tied to abstract.
+
+ACCESS AND LIMITATIONS NOTES
+============================
+
+- Author guidelines: Fully accessible, comprehensive, explicit
+- Published articles: PMR backend requires institutional login; full texts not accessible in this research environment
+- Inferences about article style: Based entirely on explicit guidelines and mission statements, not direct examination of published full texts
+- Quality confidence: HIGH for hard constraints (all from explicit published guidelines); MEDIUM-HIGH for style norms (inferred from mission/audience statements and 5 article titles/abstracts)
+- Recommendation: Skill is complete for hard constraints; practitioners submitting to JWM should consult at least one published article for voice/tone verification, as full-text spot-check was not possible
+
+DELTAS BY CLASSIFICATION
+========================
+
+ENFORCED (stated in guidelines AND confirmed observable in journal mission/scope):
+- 4,000-word target length
+- 160-word abstract limit (non-technical)
+- 4-element introduction requirement
+- Plain English / anti-jargon mandate
+- Practitioner-first audience
+- Exclusive copyright assignment
+- Exhibit format and color requirement
+
+GUIDELINE ONLY (stated but not verified in sample articles due to access limits):
+- Specific font sizes and spacing (stated, not verified in sample)
+- Roadmap requirement in introduction (stated, not verified)
+
+PRACTICE ONLY (observed but not stated in guidelines):
+- None identified; most observed patterns align with explicit guidelines
+
+FIELD DEFAULT (no deviation from FIELD_SKILL):
+- Active voice, confident register for findings
+- Statistical significance notation and precision
+- Robustness treatment requirement
+- Citation density by section
+- Methods detail and replication pressure
+- First-person plural voice

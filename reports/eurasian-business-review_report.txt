@@ -1,0 +1,84 @@
+JOURNAL SKILL GENERATION REPORT
+===============================
+
+Journal Name: Eurasian Business Review
+Slug: eurasian-business-review
+ABS Rating: 2
+Field: ETHICS-CSR-MAN
+Publisher: Springer Nature (Eurasia Business and Economics Society)
+
+RESEARCH PHASE SUMMARY
+======================
+
+Articles Fetched (Attempted): 9 article titles from 2025-2026 Springer catalog
+Articles Fully Accessible: 0 (all full texts behind paywall; abstracts/metadata accessible)
+Early Stop Triggered: No (good-faith effort completed; limited by paywall but sufficient public information available)
+
+HARD CONSTRAINTS IDENTIFIED (from guidelines)
+==============================================
+
+1. Manuscript Length: 20 pages max (450 words/page), including figures, tables, appendices, references
+2. Abstract: 150–250 words, unstructured format; no citations; no undefined abbreviations
+3. Keywords: 4–6 required
+4. Citation Style: Harvard (Author Year parenthetical format)
+5. Heading System: Decimal numbering (1., 1.1, 1.1.1) with max 3 levels
+6. Article Structure: Abstract → Introduction → Theoretical/Literature → Methods → Results → Discussion → Conclusion (for empirical work)
+7. Article Types: Empirical (quantitative/qualitative) and theoretical articles; Position Articles by leading scholars
+8. Double-Blind Review: Required; anonymization mandatory
+9. Acceptance Rate: 7% (highly selective, ABS 2 tier)
+10. Review Timeline: 85%+ receive first response within 3 months; 95%+ within 4 months
+
+DELTAS FROM FIELD_SKILL (mgmt-field-writing-style)
+===================================================
+
+Delta Found: YES
+
+Dimensions with Deltas: 4 significant deltas identified
+
+1. MANUSCRIPT LENGTH (RELAXATION/STRICTER)
+   - FIELD_SKILL allows: 10,000–18,000 words (~15–25 pages)
+   - EURASIAN BR requires: 20 pages (450 words/page) = ~9,000 words max
+   - Impact: Forces compression of all sections; introductions much shorter; limits hypothesis development; tables must be space-efficient
+   - Classification: ENFORCED (stated in guidelines)
+
+2. HEADING NUMBERING (STRUCTURAL DEVIATION)
+   - FIELD_SKILL: Hierarchical levels (##, ###) or named levels (Introduction, Theory, Methods)
+   - EURASIAN BR: Decimal numbering system (1., 1.1, 1.1.1) required
+   - Impact: Formatting change; affects document structure and cross-referencing
+   - Classification: ENFORCED (stated in guidelines)
+
+3. POSITION ARTICLES (ARTICLE TYPE ADDITION)
+   - FIELD_SKILL: Covers empirical (quantitative/qualitative) and theoretical/conceptual articles
+   - EURASIAN BR: Adds Position Articles (by leading scholars; state of art + future research agenda; no empirical data)
+   - Impact: New article type not in baseline; parallel to integrative reviews but distinct
+   - Classification: GUIDELINE ONLY (explicitly invited but not required)
+
+4. QUANTITATIVE EMPHASIS (PRACTICE ONLY)
+   - FIELD_SKILL: Balanced coverage of quantitative and qualitative empirical work
+   - EURASIAN BR: Strong skew toward quantitative hypothesis-testing papers
+   - Evidence: Article titles sampled (CEO turnover/alliances, ESG performance, sanctions impacts, IT systems effects, stock liquidity, earnings management)
+   - Impact: Qualitative papers face higher acceptance bar; structural norms lean toward regression-based methods
+   - Classification: PRACTICE ONLY (observed in article sample but not explicitly stated in available guidelines)
+
+FIELD_SKILL OVERRIDES
+====================
+
+None. The deltas are either additions (Position Articles), stricter applications (20-page limit), or formatting changes (decimal headings). FIELD_SKILL foundations (CARS intro, theory development, hypothesis framing, results interpretation, discussion structure, voice, hedging) remain valid and are not contradicted.
+
+ACCESS LIMITATIONS & NOTES
+==========================
+
+- Springer requires institutional authentication for full submission guidelines, aims/scope, and full-text articles
+- Public access achieved via: Author guidelines (abstract visible), citation style guides (Paperpile, Zotero), journal metadata, Wikipedia overview, article titles and keywords
+- Full-text analysis limited: Cannot observe introduction voice, citation density patterns in methods/results, or hedging norms at sentence level
+- Quantitative emphasis inferred from: article title patterns (N=9), journal scope description ("advanced empirical methodologies and quantitative analyses"), and field descriptions; not verified by full-text reading
+- Short-listed articles (accessible titles): CEO Turnover and Strategic Alliances (2026); Market Competition and ESG Performance (2026); Impact of Sanctions on Firm Performance (2026); Building Digital Bridges (2026); Industry-Specific Effects of IT Systems (2026); Does Business Strategy Enhance Stock Liquidity (2026); Managerial Climate Awareness and Earnings Management (2026); AI Adoption in Fintech Entrepreneurship (2026); Gender Gap in CEO Compensation (2026)
+
+CONCLUSION
+==========
+
+Eurasian Business Review is a highly selective (7% acceptance), lower-tier (ABS 2) journal with clear hard constraints on length and structure. The quantitative emphasis and decimal heading requirement are key deviations from MGMT field baseline. The 20-page limit is the most impactful constraint, requiring significant compression compared to top-tier MGMT outlets. Position Articles represent a secondary article type for leading scholars. No contradictions with FIELD_SKILL baseline found; all deltas are enhancements, relaxations, or format changes.
+
+File saved: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/mgmt/eurasian-business-review_SKILL.md
+
+Report generated: 2026-07-02

@@ -1,0 +1,16 @@
+Journal: Review of Asset Pricing Studies
+Slug: review-of-asset-pricing-studies
+ABS: 3
+Field: FINANCE
+Articles fetched: 11 (abstracts/front matter; full text paywalled, no institutional access)
+Early stop triggered: No — sampling stopped at 11 because deltas had stabilized (consistent 100-word abstract cap and double-blind submission mechanics across every article/guideline source; no new dimensions emerging) and the accessible-abstract chain (Oxford Academic, SSRN, IDEAS/RePEc, WebSearch snippets) was largely exhausted for additional distinct titles without full-text access.
+
+Deltas found: 2
+  1. Abstract length — RAPS enforces a hard 100-word cap vs FIELD_SKILL's 150-250 word norm (ENFORCED; stated in guidelines and confirmed by uniformly compact, numbers-forward abstracts in all sampled articles).
+  2. Double-blind submission mechanics — anonymized manuscript body, separate title/author page, no acknowledgments/funding statements in the main PDF (ENFORCED; procedural, not a prose-style delta, but affects acknowledgments/self-citation phrasing during review).
+
+All other dimensions (structure, voice/person, sentence style, introduction rhetorical moves, methods conventions, results reporting, conclusion norms, citation density, hedging) followed FIELD_SKILL norm with no journal-specific deviation observed.
+
+FIELD_SKILL overrides: Abstract word limit (100 words, overriding the 150-250 word field baseline).
+
+Access-limitation notes: No EZProxy/institutional access in this environment. Full text of all sampled articles was paywalled; analysis relied on abstracts and front matter retrieved via Oxford Academic (WebFetch, sometimes redirected through DOI), SSRN abstract pages, IDEAS/RePEc, and WebSearch-extracted abstract snippets. This was sufficient to confirm the abstract-length and structural-style deltas but did not allow verification of in-text robustness-section placement, footnote density, or table design conventions at the journal level beyond the general guidelines page.

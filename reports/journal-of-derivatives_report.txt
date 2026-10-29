@@ -1,0 +1,22 @@
+Journal: Journal of Derivatives
+Slug: journal-of-derivatives
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 8 (abstract/front-matter level only; full text was paywalled and jod.pm-research.com blocked direct WebFetch requests with 403/404). Evidence drawn from WebSearch-cached abstract snippets and third-party mirrors (SSRN, ResearchGate, arXiv preprints, university research portals).
+
+Early stop triggered: No — this is the expected/planned depth for an ABS 2 journal per the task instructions (good-faith smaller sample, documented access limitations), not an early stop due to failure.
+
+Deltas found: 4 dimensions
+  1. Voice and Register — dual practitioner/academic audience explicitly required; abstracts read as plain technical descriptions rather than contribution-forward rhetorical framing (GUIDELINE + PRACTICE)
+  2. Structural Deviations — "Innovations" section and stand-alone expository/educational article format not covered by FIELD_SKILL's single canonical empirical template (GUIDELINE)
+  3. Math-narrative separation — explicit, distinctive requirement that heavy mathematics be separable from the logical flow so a non-technical reader can follow the paper (ENFORCED, stronger than FIELD_SKILL's general equation-integration norm)
+  4. Formatting/language tolerance at initial review — explicitly relaxed vs. the polish FIELD_SKILL implies for ABS 4*/4 (RELAXATION, ABS-tier appropriate)
+
+FIELD_SKILL overrides: None outright contradicted; the math-separation and dual-audience requirements sharpen/override the general FIELD_SKILL equation-integration and academic-voice assumptions specifically for this journal.
+
+Access-limitation notes:
+- jod.pm-research.com returns 403/404 on direct WebFetch for all content and abstract pages; all article evidence is via WebSearch result snippets and third-party cross-listings (SSRN, ResearchGate, arXiv, university research portals).
+- No full-text articles were read (methods, results, discussion sections not observed) — findings are abstract-level only, consistent with instructions for a thin-access ABS 2 journal.
+- The official guidelines document is the 2017 "Version of August 2017" PDF (archived at NYU Stern faculty page); the current jod.pm-research.com/authors landing page could not be fetched directly, but WebSearch snippets of it are consistent with the 2017 PDF content, suggesting no major changes since 2017.
+- JOD is poorly indexed in RePEc/IDEAS, limiting the number of distinct articles discoverable via that route; sample was built primarily from WebSearch results surfacing jod.pm-research.com URLs directly.

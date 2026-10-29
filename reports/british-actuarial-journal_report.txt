@@ -1,0 +1,34 @@
+Journal: British Actuarial Journal
+Slug: british-actuarial-journal
+ABS: 1
+Field: FINANCE
+
+Articles fetched: 4 full abstract/structure reads via WebFetch (Operational resilience in the UK
+financial sector: practical guidance, 2025; Quantum internal models for Solvency II and
+quantitative risk management, 2025; Biodiversity & justice; On contemporary mortality models
+for actuarial use I: practice, 2025), plus ~5-6 additional titles/abstracts corroborated via
+WebSearch snippets (Validating operational risk models, Inequality - actuarial perspectives,
+Reinventing Pareto, Hush hush federated learning, Behavioural economics for insurance nudges,
+Bridging transparency and predictive power, Examination of EV vs ICEV accident factors).
+Total distinct articles touched: ~10-11.
+
+Early stop triggered: No.
+
+Deltas found: 5 dimensions
+- Structural Deviations: sessional paper + published discussion transcript format (PRACTICE ONLY / journal convention)
+- Voice and Register: practitioner/policy-oriented framing vs. FIELD_SKILL empirical-identification register (PRACTICE ONLY)
+- Structural Deviations (headings): practitioner-implications closing sections (e.g. "Implications for Actuaries") in place of/alongside a Conclusion (PRACTICE ONLY)
+- Other Journal-Specific Patterns: numbered-paragraph cross-referencing convention (ENFORCED, stated in guidelines)
+- Hard Constraints layer: abstract 100-200 words unstructured with no references; citation punctuation (& before last author, initials-first reference list); heading sentence-case titles; explicit table/figure file-supply and cross-reference rules; no PowerPoint/Word-image/GIF figures (all ENFORCED per guidelines)
+
+FIELD_SKILL overrides: Abstract format, citation list punctuation, heading/title case, and
+table/figure submission rules are journal-specific hard constraints layered on top of (not
+contradicting) FIELD_SKILL's general author-year citation and table-centric reporting norms.
+
+Access-limitation notes: WebFetch could reliably extract only abstract- and section-heading-level
+content for BAJ articles (Cambridge Core renders full text behind additional JS/session handling
+not fully retrievable via WebFetch), consistent with the ABS 1 good-faith sampling allowance in
+the assignment instructions. No full-text prose was read; classification of voice/register deltas
+relies on abstract phrasing and section-heading patterns only, and is flagged PRACTICE ONLY
+rather than a stronger claim. Guidelines pages (instructions-contributors and preparing-your-
+materials) were both accessible and detailed, giving high confidence in the Hard Constraints section.

@@ -1,0 +1,51 @@
+Journal: Journal of Financial Market Infrastructures
+Slug: journal-of-financial-market-infrastructures
+ABS: 1
+Field: FINANCE
+
+Articles fetched: 9 (abstracts/front-matter only; full text paywalled behind Risk.net subscription)
+  1. "On par: a money view of stablecoins" - Aldasoro, Mehrling, Neilson
+  2. "Skin in the game: risk analysis of central counterparties" - Cont, Ghamami (JFMI 12(2) 2025)
+  3. "Quantum-readiness for the financial system: a road map" - Auer et al.
+  4. "A liquidity black hole..." - Heijmans, van der Woerd
+  5. "Instant payments as the new normal: how much more money do the banks need?" - Hellqvist, Korpinen
+  6. "The crypto Wild West: a deep dive into the market volatility of junk coins versus Bitcoin" - Duarte, Sol Murta, Oliveira
+  7. "Responsible use of artificial intelligence in financial market infrastructures" - Cruz Lopez
+  8. "An econometric investigation on the stability of stablecoins" - AlAsadi et al.
+  9. "Locked out by loyalty: entry deterrence through rebates in payment card markets" - Lubbersen
+
+Early stop triggered: No — completed both phases (guidelines + article spot-check) within
+the good-faith effort appropriate for an ABS 1, thinly-documented journal.
+
+Deltas found: 4 dimensions
+  - Voice/Register: policy-roadmap prose more prescriptive/normative than typical FIELD_SKILL
+    finance voice, tied to the journal's heavy central-bank/BIS/regulator authorship (PRACTICE
+    ONLY / RELAXATION for the policy track).
+  - Structural Deviations: dual submission tracks (technical papers vs policy/forum papers)
+    with different word limits and no forced empirical-paper structure for forum pieces
+    (ENFORCED, stated in guidelines and consistent with sample).
+  - Citation Density: no delta found (FIELD DEFAULT).
+  - Other Journal-Specific Patterns: published abstracts commonly exceed the stated 150-200
+    word cap (GUIDELINE ONLY, not strictly enforced).
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Manuscript file order incl. separate title page, key messages bullet list, declarations
+    of interest section (publisher-wide Risk Journals requirement, not in FIELD_SKILL).
+  - Word limits: 10,000 words (technical papers) / 7,000 words (forum papers).
+  - Abstract: 150-200 words, single paragraph, no references.
+  - Citations: Chicago-style author-date in text, APA-style reference list (more prescriptive
+    than FIELD_SKILL's generic author-year norm).
+  - Figures/tables: vector formats required, rasterized formats prohibited, minimized count.
+  - Blind review (author-anonymized main text).
+  - Explicit AI-usage disclosure policy.
+
+Access-limitation notes:
+  - No dedicated JFMI-specific style guide exists; guidelines were sourced from the
+    publisher-wide "Risk Journals submission guidelines" page (Infopro Digital Risk Ltd),
+    which explicitly governs JFMI as one of its journals.
+  - Full text of all sampled articles is paywalled on Risk.net; assessment relies on
+    abstracts, titles, and front-matter extracted via WebSearch/WebFetch (including SSRN,
+    IDEAS/RePEc, and BIS working-paper mirrors for two articles that had open preprints).
+  - One direct PDF fetch (BIS working paper mirror of "On par: a money view of stablecoins")
+    returned only binary/encoded content and could not be parsed for structural detail;
+    abstract-level information was obtained via secondary search instead.

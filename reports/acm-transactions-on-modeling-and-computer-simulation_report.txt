@@ -1,0 +1,39 @@
+Journal: ACM Transactions on Modeling and Computer Simulation (TOMACS)
+Slug: acm-transactions-on-modeling-and-computer-simulation
+ABS: 3
+Field: OR&MANSCI
+
+Articles fetched: 16 titles/abstracts examined (Vol. 35, Nos. 1-2, 2025), plus 2 individually confirmed
+abstracts with detail (DOI 10.1145/3682059, DOI 10.1145/3670401). Full text of all articles was
+inaccessible - ACM Digital Library blocks automated WebFetch (HTTP 403) across the guidelines page,
+about page, and table-of-contents pages. Relied on WebSearch result snippets, dblp.org table of
+contents, and a Paperpile citation-style summary page.
+
+Early stop triggered: No formal early stop - access chain (ACM DL direct fetch) was exhausted
+immediately (403 on all dl.acm.org URLs attempted), so research shifted entirely to search-snippet
+and third-party metadata sources (dblp, paperpile, ResearchGate/IEEE mirrors, arXiv). This yielded
+enough signal to reach delta stabilization after ~16 titles/abstracts examined.
+
+Deltas found: 3
+  1. Structural: TOMACS publishes standalone "Reproducibility Report" articles - third-party papers
+     independently validating a prior TOMACS paper's computational results, tied to the journal's
+     formal RCR (Reproducing Computational Results) badge program. Not covered by FIELD_SKILL.
+  2. Hard constraint: Numbered/bracketed citation style ([2], [5-8]) - FIELD_SKILL is agnostic on
+     citation numbering conventions.
+  3. Hard constraint: Explicit dual submission categories (methodological vs. application-driven
+     research) that authors must self-identify - not in FIELD_SKILL.
+  Minor/contextual: recurring guest-editorial "Introduction to the Special Issue" articles opening
+  PADS/QEST special issues (PRACTICE ONLY, not journal-unique).
+
+FIELD_SKILL overrides: none that contradict FIELD_SKILL outright - all deltas are additive
+(reproducibility program, citation format, submission categories) rather than overriding voice,
+argumentation, or hedging norms, which follow FIELD_SKILL defaults.
+
+Access-limitation notes: dl.acm.org returned HTTP 403 for every direct WebFetch attempt (author
+guidelines, about page, and all table-of-contents pages), including from Google's cached search
+results interface. All guideline content was reconstructed from WebSearch-generated summaries of
+cached ACM pages, which may omit some fine-grained formatting details (e.g., exact CCS Concepts
+placement, precise structured-abstract field requirements) not surfaced in search snippets. No
+paywalled full-text article was read in this pass; all judgments on voice/register/structure rely on
+abstracts, titles, and table-of-contents metadata, which is consistent with the task's stated
+tolerance for front-matter-only spot-checks under paywall constraints.

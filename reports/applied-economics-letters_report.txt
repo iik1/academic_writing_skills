@@ -1,0 +1,21 @@
+Journal: Applied Economics Letters
+Slug: applied-economics-letters
+ABS: 1
+Field: ECON
+Publisher: Taylor & Francis
+
+Articles fetched: 14 (abstract/metadata level only; no full text accessible)
+Early stop triggered: No (good-faith sample reached for ABS 1 tier; access chain exhausted rather than deliberately truncated)
+
+Deltas found: 2
+  1. Structural Deviations - RELAXATION (length-driven compression of the full ABS 4*/4 section apparatus into a ~2,000-word all-inclusive format)
+  2. Length - HARD CONSTRAINT (~2,000 words inclusive of tables, references, footnotes; observed article lengths of 5-9 pages corroborate)
+
+FIELD_SKILL overrides: Length constraint overrides FIELD_SKILL's silence on word limits (FIELD_SKILL explicitly excludes journal-specific length rules from its scope). No other overrides.
+
+Access-limitation notes:
+- tandfonline.com/journals/rael20/for-authors (primary Instructions for Authors page): HTTP 403, inaccessible.
+- All tandfonline.com/doi/full/... full-text article pages: HTTP 403, inaccessible.
+- Word-limit figure (2,000 words, inclusive of tables/references/footnotes) sourced from a secondary community report (econjobrumors.com thread), not the primary guidelines page. Flagged as reasonably reliable but not primary-source-verified.
+- Article-level observations limited to titles, abstracts, and published page ranges via RePEc/IDEAS and WebSearch-extracted abstract snippets. No full article bodies were read, so citation density, section headings, and in-text hedging could not be directly assessed; these are marked FIELD DEFAULT by absence of contrary evidence rather than positive confirmation.
+- Sample skews toward China-focused corporate finance/governance topics circa 2025-2026 issues, reflecting what was discoverable via search rather than a stratified random sample across the journal's full topical range.

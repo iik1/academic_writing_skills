@@ -1,0 +1,137 @@
+FINANCIAL HISTORY REVIEW - DELTA DETECTION REPORT
+
+Journal:        Financial History Review
+Slug:           financial-history-review
+ABS Rating:     2
+Field:          BUS HIST & ECON HIST
+Publisher:      Cambridge University Press
+Edition:        Fully open access (Gold OA from Vol 32, Issue 1, Jan 2025)
+
+RESEARCH SCOPE
+==============
+Focused on recent articles from Financial History Review volumes 31–32 (2024–2025).
+
+Articles examined: 11 distinct articles
+- 4 from Volume 31, Issue 2 (August 2024)
+- 4 from Volume 32, Issue 3 (December 2025)
+- 3 abstract-only from open-access collection
+
+Access limitations: All articles examined were freely available through Cambridge Core's open-access collection (full text for recent issues; abstracts for some earlier articles). No paywalls encountered.
+
+AUTHOR GUIDELINES ACCESSIBILITY
+================================
+Author guidelines fully accessible via Cambridge Core website.
+Guidelines location: https://www.cambridge.org/core/journals/financial-history-review/information/author-instructions
+
+HARD CONSTRAINTS IDENTIFIED (from author guidelines)
+====================================================
+
+Structure:
+- Three article types: Articles, Shorter Papers, "The Past Mirror" (notes, surveys, debates)
+- Traditional scholarly structure: opening section establishing puzzle/argument, literature review (often woven in), methods/sources section (where applicable), substantive sections (chronological or thematic), conclusion
+- ENFORCED
+
+Length:
+- Articles: ~8,000 words maximum (including footnotes, tables, figures)
+- Graph/table on A4 page ≈ 300 words
+- ENFORCED
+
+Abstract & Keywords:
+- Max 200 words
+- Max 4 keywords
+- Unstructured (not background/methods/results format)
+- ENFORCED
+
+Citations:
+- Chicago Manual of Style Notes and Bibliography system (numbered footnotes)
+- Footnotes double-spaced, numbered consecutively, grouped at end of manuscript
+- Footnotes restricted to source citation only (no substantive argument/commentary)
+- Bibliography: alphabetical by author surname (capitals), after footnotes
+- ENFORCED
+
+Manuscript Format:
+- Double-spaced throughout
+- A4 (29cm x 21cm or 11" x 8"), wide margins
+- Pages numbered consecutively from title page
+- Main text: Word (.docx/.doc) or RTF
+- Tables/Figures: separate PDF document
+- Language: English (native-speaker review encouraged for non-native authors)
+- ENFORCED
+
+Submission:
+- ScholarOne system (mc.manuscriptcentral.com/fhr)
+- ENFORCED
+
+DELTAS FROM FIELD BASELINE
+===========================
+
+Delta 1: Strict Word Limit (~8,000 words)
+- Field baseline does NOT specify length constraints
+- FHR's tight limit is a RELAXATION relative to top-tier (ABS 4) journals
+- Reflects ABS 2 positioning
+- Forces disciplined synthesis and argument compression
+- Figures/tables count toward limit, incentivizing selective use
+- CLASSIFICATION: RELAXATION (but enforced constraint specific to this journal)
+
+Delta 2: Footnote Content Restriction
+- Field baseline permits substantive commentary and argument in footnotes
+- FHR explicitly prohibits substantive content in footnotes (source citation only)
+- This is a RELAXATION that forces argumentative moves into main text
+- Results in tighter, more linear writing than field baseline allows
+- CLASSIFICATION: RELAXATION / ENFORCED CONSTRAINT
+
+Delta 3: Abstract Word Limit (200 words max)
+- At lower end of field practice (some allow 250+ words)
+- Compels economical previewing of argument and contribution
+- CLASSIFICATION: RELAXATION / ENFORCED CONSTRAINT
+
+NO DELTAS OBSERVED in:
+- Voice and register (formal scholarly, narrative character, first-person plural and impersonal both accepted)
+- Sentence and paragraph style (medium-long sentences, substantial paragraphs, lighter signposting than social science)
+- Argumentation patterns (CARS-like structure, historiographical framing, counter-narratives valued)
+- Methods conventions (procedural detail, past tense, reflexivity valued)
+- Results and reporting norms (narrative integration vs. distinct sections depending on quantitative/qualitative)
+- Discussion and conclusion norms (restatement of contribution, positioning within debates, generalizability discussion)
+- Citation density (high throughout, citations to primary and secondary sources)
+- Hedging and epistemic caution (moderate hedging, confident central claims valued, uncertainty about counterfactuals flagged)
+
+All above dimensions follow FIELD_SKILL baseline without observable deviation.
+
+FIELD BASELINE OVERRIDES
+========================
+None. FHR's specific constraints (word limit, footnote restriction, abstract length) supplement rather than contradict the field baseline. Where FHR is silent, FIELD_SKILL baseline applies.
+
+KEY FINDINGS SUMMARY
+====================
+Financial History Review is a disciplined, tightly-scoped journal that maintains the narrative-analytical character of business and economic history while imposing strict length and formatting constraints appropriate to an ABS 2 publication. The most salient difference from the field baseline is the mandatory word limit (~8,000 words including all supporting material) and the restriction of footnotes to source citation only, both of which enforce more linear, compressed argumentation than some field journals permit.
+
+The journal does NOT relax the field's expectations for historiographical engagement, evidence accumulation, or scholarly voice; it simply constrains how much space authors have to develop these elements.
+
+Research articles submitted must adhere to the Chicago Notes-Bibliography system, be double-spaced on A4 with wide margins, and include 200-word abstract with 4 keywords. Tables and figures (supplied separately as PDF) must be sourced and interpreted, not left standalone. Submission is via ScholarOne.
+
+All author guidelines were accessible; no institutional paywalls encountered. Open-access flip (Gold OA from Vol 32, Issue 1) means recent articles are freely available for spot-checking and style verification.
+
+EARLY STOP TRIGGERED
+====================
+No. Sufficient public information obtained from author guidelines and 11 accessible articles to generate robust skill.
+
+DELTA CLASSIFICATION SUMMARY
+=============================
+- RELAXATION/ENFORCED CONSTRAINT: 3 (word limit, footnote restriction, abstract length)
+- FIELD DEFAULT: 8 (all other dimensions)
+- GUIDELINE ONLY: 1 (word limits for Shorter Papers and Past Mirror contributions not explicitly stated)
+- PRACTICE ONLY: 0
+
+Total dimensions examined: 12
+Dimensions with observable journal-specific deltas: 3
+Dimensions with no delta from field baseline: 9
+
+SOURCES CONSULTED
+=================
+1. Cambridge University Press author instructions page
+2. Cambridge Core journal homepage and open-access articles collection
+3. 11 full-text and abstract articles from volumes 31–32 (2024–2025)
+4. WebSearch for field context and journal information
+5. No institutional access required; all sources publicly available
+
+Report generated: 2 July 2026

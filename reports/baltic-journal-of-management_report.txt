@@ -1,0 +1,18 @@
+Journal: Baltic Journal of Management
+Slug: baltic-journal-of-management
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 9 (abstract/metadata-level via search snippets; full text inaccessible)
+Early stop triggered: No (dedupe check found no existing skill; research proceeded to completion under thin-access conditions)
+
+Deltas found: 1 dimension (Structural Deviations — mandatory Emerald structured abstract: Purpose / Design-methodology-approach / Findings / Research limitations-implications / Practical implications / Originality-value, plus Keywords and Paper type). Also one PRACTICE ONLY/RELAXATION note under "Other Journal-Specific Patterns" regarding smaller samples and more varied methods/contexts typical of ABS 1 tier vs. the FIELD_SKILL top-tier baseline.
+
+FIELD_SKILL overrides: Abstract format (structured Emerald template overrides FIELD_SKILL's unstructured-or-structured 150-250 word narrative abstract description).
+
+Access-limitation notes:
+- emerald.com, emerald.com/insight, and emeraldgrouppublishing.com pages were blocked by CAPTCHA ("unusual traffic") or returned HTTP 403 on every direct WebFetch attempt, including the author guidelines page, journal homepage, and individual article pages.
+- All findings were obtained via WebSearch-extracted snippets (title, abstract text, DOI/metadata) rather than direct page fetches, per the "search-engine-extracted abstract snippets" fallback permitted for thin-access journals.
+- academia.edu PDF fetch also returned 403.
+- No full-text article was read in this pass; only abstracts (Purpose/Design-methodology-approach/Findings/Originality-value fields) and journal scope/aims text were accessible.
+- Given the ABS-1 tier and the good-faith-effort allowance for niche/low-tier journals, the skill was completed with a smaller, metadata-level sample (9 articles spanning 2013-2025) rather than 10-15 full-text reads.

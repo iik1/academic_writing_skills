@@ -1,0 +1,19 @@
+Journal: International Tax and Public Finance
+Slug: international-tax-and-public-finance
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 10 with full abstract/keywords/JEL (via IDEAS/RePEc mirrors); 20 additional titles surveyed for topical range (total 30 items examined across Vol. 32 2025 and Vol. 33 2026 issues).
+
+Early stop triggered: No. Full good-faith spot-check completed; convergence with FIELD_SKILL observed (no early stop needed since access chain via RePEc worked well).
+
+Deltas found: 1 substantive delta
+  - Structural Deviations: Short Papers submission track (6,000-word cap exclusive of references, max 5 figures/tables, cover page must self-report word count and figure/table count) — ENFORCED, stated in guidelines, not present in FIELD_SKILL baseline.
+
+FIELD_SKILL overrides: None beyond the Short Papers track constraint (word/figure caps apply only to that submission category).
+
+Access limitation notes:
+- Springer's own submission-guidelines page and article full-text pages redirect to an authentication wall (idp.springer.com) in this environment; direct WebFetch could not retrieve them.
+- Guideline details (abstract 150-250 words, no undefined abbreviations, Short Papers 6,000-word/5-figure cap, Data Availability Statement requirement, "appropriate number" of JEL codes) were recovered via WebSearch's cached snippets of the Springer guidelines pages, not direct page fetch.
+- Article-level spot-checks used IDEAS/RePEc mirror pages (ideas.repec.org) for abstracts, keywords, and JEL codes rather than Springer full text, which was sufficient for front-matter-level style judgments per task instructions.
+- No access to full article text (methods/results prose) was possible; all structural/voice conclusions rely on FIELD_SKILL convergence assumption plus abstract-level evidence, consistent with instructions for ABS 2 tier.

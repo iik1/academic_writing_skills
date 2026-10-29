@@ -1,0 +1,26 @@
+Journal: Journal of International Accounting, Auditing and Taxation
+Slug: journal-of-international-accounting-auditing-and-taxation
+ABS: 3
+Field: ACCOUNT
+Publisher: Elsevier
+
+Articles fetched: 5 abstracts read in full (Benkraiem et al. 2025; EPU/tax morale/religiosity 2025; Chyz et al. 2023); plus a title-level scan of ~13 additional 2024-2026 articles via RePEc listing (topic/structure only, no full abstract pull)
+
+Early stop triggered: No (delta set converged naturally; ScienceDirect full-text access chain exhausted after 403s on all direct sciencedirect.com fetches - relied on RePEc/IDEAS mirrors and search-engine-extracted snippets of the guide-for-authors page)
+
+Deltas found: 0 style/structure deltas from FIELD_SKILL. All voice, argumentation, methods, results, and hedging dimensions confirmed FIELD DEFAULT.
+
+Journal-specific notes (submission-mechanics, not prose-style deltas):
+- Abstract: unstructured, max 250 words, 1-6 single-word-preferred keywords (standard Elsevier house style)
+- Highlights file required at submission (3-5 bullet points), separate from manuscript
+- Explicit prohibition: generative AI/AI-assisted tools banned for graphical-abstract/artwork production (narrow cover-art exception with editor permission)
+- Scope requirement: US-only samples must demonstrate significant international-accounting focus
+
+FIELD_SKILL overrides: none identified
+
+Access-limitation notes:
+- ScienceDirect (sciencedirect.com) blocked all direct WebFetch attempts with HTTP 403, including the guide-for-authors page and individual article abstract pages
+- Guide-for-authors content was reconstructed from WebSearch result snippets that had cached/extracted portions of the ScienceDirect page
+- Article abstracts were retrieved via RePEc/IDEAS mirror pages (ideas.repec.org), which proved accessible and reliable
+- Journal citation style (author-date specifics, reference list format) could not be independently confirmed beyond standard Elsevier convention already captured in FIELD_SKILL
+- No JEL classification codes were visible on any sampled RePEc abstract page

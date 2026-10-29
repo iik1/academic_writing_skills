@@ -1,0 +1,100 @@
+SKILL GENERATION REPORT
+Journal of Small Business and Entrepreneurship
+========================================================================================
+
+JOURNAL METADATA
+----------------
+Journal name:           Journal of Small Business and Entrepreneurship
+Slug:                   journal-of-small-business-and-entrepreneurship
+ABS 2024 rating:        1 (lower tier)
+Field:                  ENT-SBM (Entrepreneurship and Small Business Management)
+Publisher:              Taylor & Francis Group
+Guidelines URL:         https://www.tandfonline.com/journals/rsbe20 (paywalled)
+
+RESEARCH EXECUTION SUMMARY
+--------------------------
+Access method:          WebSearch, WebFetch (public web)
+Author guidelines:      Attempted to fetch from Taylor & Francis; paywalled
+                        Full guidelines unavailable
+Article access:         Journal hosted on Taylor & Francis Online (paywalled)
+                        Table of contents and issue metadata accessible via search
+                        Full-text articles not accessible
+
+ARTICLES SPOT-CHECKED
+---------------------
+Count:                  3 titles retrieved (lower-tier journal; limited open access)
+Source:                 Web search of JSBE Vol. 37-38 (2025-2026)
+Access method:          Search result titles only; no full-text or abstract access
+                        achieved
+
+Article titles observed (metadata only):
+1. "The influence of indigenous entrepreneurial practices on community resilience
+   in informal African markets: evidence from Nigeria" (Adetan et al., 2025)
+2. "The influence of strategic schema and decisiveness of managers on entrepreneurial
+   alertness: exploring the role of experience in shaping information processing"
+   (Chaki et al., 2025)
+3. "How risk-taking affects pioneering orientation in tourism MSEs in developing
+   economies: a business growth perspective" (De la Gala-Velásquez et al., 2025)
+
+EARLY STOP TRIGGERED
+--------------------
+YES. Access barriers precluded comprehensive spot-check (target: 10-15 articles;
+achieved: 3 title-only observations). Taylor & Francis maintains aggressive
+paywall on both author guidelines and full-text articles. No institutional
+EZProxy or open-access mirror (ResearchGate, arXiv, author pages) accessible
+for this journal in this environment. Good-faith effort documented; continued
+attempts would be unproductive.
+
+DELTAS FOUND
+------------
+Count: 1 substantive finding
+
+1. Bilingual publication (English/French) — ENFORCED
+   - JSBE explicitly publishes in both English and French
+   - FIELD_SKILL makes no mention of language options
+   - This is journal-specific but not a stylistic delta (no rewriting required)
+   - Classified as ENFORCED (stated in publisher description)
+
+NO SYSTEMATIC STYLISTIC DEVIATIONS from FIELD_SKILL observed in available metadata.
+
+FIELD_SKILL BASELINE OVERRIDES
+-------------------------------
+NONE. No hard constraints identified in JSBE author guidelines that contradict
+FIELD_SKILL. All dimensions not explicitly addressed in JSBE author guidelines
+(abstract structure, citation density, voice/person, hedging, etc.) default to
+FIELD_SKILL norms.
+
+ACCESS LIMITATION NOTES
+-----------------------
+This skill represents a RESOURCE-LIMITED audit. The journal's author guidelines
+are not available to unauthenticated web users. Taylor & Francis requires
+institutional login or subscription to view formatting requirements, word limits,
+citation style, heading conventions, and abstract specifications.
+
+Inferences made:
+- Assumed standard Taylor & Francis manuscript conventions (7,000–10,000 words)
+  based on adjacent T&F journals in ENT field
+- Assumed FIELD_SKILL structural and stylistic norms apply where JSBE guidelines
+  are unavailable (double-blind review and ethics enforcement are confirmed;
+  the rest is inferred)
+
+Honest limitation: This skill is COMPLIANT but INCOMPLETE. A researcher with
+institutional access to the full Taylor & Francis author guidelines would likely
+discover:
+- Exact word/page limits
+- Required abstract structure (e.g., unstructured vs. structured; word count)
+- Citation style (Chicago notes-bibliography, Harvard author-date, APA, etc.)
+- Specific heading hierarchy and formatting
+- Table/figure labeling conventions
+- Preferred statistical reporting (e.g., confidence intervals vs. p-values)
+- Whether supplementary appendices are encouraged or discouraged
+
+These details could not be audited and are not recorded in this skill.
+
+SKILL FILE GENERATED
+--------------------
+Path: skills/entrepreneurship/journal-of-small-business-and-entrepreneurship_SKILL.md
+Status: SAVED
+Content: Documented confirmed bilingual publication policy; flagged access
+         limitations; defaulted all unconfirmed dimensions to FIELD_SKILL baseline
+         per protocol; included honest note on incomplete access

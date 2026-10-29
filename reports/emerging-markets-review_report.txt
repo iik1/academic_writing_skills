@@ -1,0 +1,43 @@
+Journal: Emerging Markets Review
+Slug: emerging-markets-review
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 9 (abstracts + keywords only, via RePEc/IDEAS mirrors; full text was paywalled on ScienceDirect throughout)
+Early stop triggered: No (dedupe check found no existing skill; proceeded through full pipeline)
+
+Deltas found: 1 structural delta + 1 low-prevalence practice note
+  - Structural Deviations (GUIDELINE ONLY): Journal offers a "Perspectives" short-form
+    article track, capped at 4,000 words, for forward-looking commentary on economic/
+    market developments. This is a distinct submission category not present in
+    FIELD_SKILL, which only models standard full-length research articles.
+  - Other Journal-Specific Patterns (PRACTICE ONLY, low-prevalence): Several sampled
+    abstracts front-load explicit identification-strategy/method naming very early in
+    the abstract. This is consistent with, not a deviation from, FIELD_SKILL's
+    "preview empirical approach" norm — noted but not classified as a journal rule.
+  All other dimensions (voice, sentence style, argumentation, methods, results
+  reporting, discussion/conclusion, citations, hedging, abstract length/format)
+  converged with FIELD_SKILL — labeled FIELD DEFAULT.
+
+FIELD_SKILL overrides: none required (no direct conflicts found; only an addition —
+  the Perspectives track — which supplements rather than overrides FIELD_SKILL)
+
+Access-limitation notes:
+  - Direct WebFetch to sciencedirect.com (guide-for-authors page and individual
+    article abstract pages) returned HTTP 403 throughout. Guideline content was
+    reconstructed via WebSearch result snippets that surface indexed/cached text
+    from the same guide-for-authors page (abstract rules: <=250 words; keywords:
+    1-7; highlights: 3-5 bullets, <=85 characters each, optional separate file;
+    Perspectives track: <=4000 words).
+  - Article-level detail was obtained via RePEc/IDEAS mirror pages
+    (ideas.repec.org/a/eee/ememar/...), which reproduce title, abstract, and
+    keywords/JEL codes when available, but not full text. No full-text methods,
+    results, tables, or reference-list formatting could be directly verified.
+    Consequently, statistical-reporting, table-design, and citation-density
+    findings are recorded as FIELD DEFAULT by inference from abstract-level
+    evidence and absence of any contradicting signal, rather than from direct
+    full-text confirmation. This is disclosed in the skill's Sources section
+    and flagged as lower confidence than the guideline-derived Hard Constraints.
+  - Sample size (9 abstracts) is below the 10-15 target but was treated as an
+    acceptable good-faith sample for an ABS 2 journal given the paywall access
+    chain, per task instructions.

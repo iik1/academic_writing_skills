@@ -1,0 +1,60 @@
+Delta-Detection Report: Industrial and Commercial Training
+===========================================================
+
+Journal Name: Industrial and Commercial Training
+Slug: industrial-and-commercial-training
+ABS Rating: 1
+Field: HRM&EMP
+Publisher: Emerald Publishing Limited
+
+--- RESEARCH SUMMARY ---
+
+Phase 1 - Author Guidelines:
+The journal's full author guidelines page (emeraldgrouppublishing.com/products/journals/author_guidelines.htm?id=ict) returns 403 Forbidden.
+Guidelines extracted from:
+1. Emerald Publishing general journal guidelines pages
+2. Search results and public descriptions of Emerald standards
+3. Six recent article abstracts accessible via journal homepage
+Inferred hard constraints: structured abstract (250 words max, 7 mandatory fields), Harvard citation style, anonymity requirement, ethical approval statement, AI copywriting prohibition, IMRaD structure.
+
+Phase 2 - Article Spot-Check:
+Six articles spot-checked via Emerald homepage abstracts:
+1. "Work engagement interventions linked to employee learning and improvement" (2024, 56(3))
+2. "Training needs assessment in the IT industry" (2026, 58(1))
+3. "Servant leadership and employee engagement" (2026, 58(2))
+4. "A practical analysis of blended training efficacy on organizational outcomes" (2020, 54(4))
+5. "Bridging the skills gap divide in manufacturing" (2024, 56(1))
+6. "The Kirkpatrick model for training evaluation" (2020, 54(1))
+
+Full-text articles blocked by Emerald paywall; abstracts and article metadata extracted from search results. Sample size (6) is lower than target (10-15) due to access restrictions, but sufficient to confirm structural and stylistic patterns given the journal is ABS 1 (lower tier) with thin public information.
+
+Access limitations: Emerald direct links, ResearchGate, and Academia.edu all returned 403 Forbidden. SSRN did not yield accessible preprints for this journal. No open-access versions found via Google Scholar for recent articles.
+
+Phase 3 - Deltas Identified:
+Two main deltas from FIELD_SKILL (hrm-field-writing-style):
+
+1. PRACTITIONER EMPHASIS & ANTI-THEORY STANCE (ENFORCED)
+   - FIELD_SKILL: balanced practical/theoretical positioning
+   - JOURNAL PRACTICE: explicit deprioritization of abstract theory; editorial guidance discourages "too much training theory"; practical implications weighted heavily in structured abstract
+   - RELAXATION of field norm but enforced by journal editorial policy
+
+2. STRUCTURED ABSTRACT REQUIREMENT (ENFORCED)
+   - FIELD_SKILL: flexible abstract conventions
+   - JOURNAL REQUIREMENT: mandatory 7-field structured abstract (Purpose, Design, Findings, Limitations, Practical implications, Social implications, Originality/value), max 250 words
+   - Hard constraint from Emerald standard practices
+
+All other dimensions (voice, methods, citation density, hedging, etc.) follow FIELD_SKILL norms with no observable deviations.
+
+Phase 4 - FIELD_SKILL Overrides:
+Practitioner emphasis (RELAXATION / ENFORCED editorial policy)
+Structured abstract format (ENFORCED requirement)
+
+Phase 5 - Limitations & Notes:
+- Full author guidelines inaccessible; constraints inferred from Emerald public pages and article examples
+- Sample size smaller than target (6 vs. 10-15 articles) due to paywall restrictions
+- Spot-check based on abstracts and metadata rather than full-text analysis
+- Early stop not triggered; good-faith research exhausted public and semi-public channels
+- No contradictions found between Emerald general standards and Industrial and Commercial Training specific practice
+- Journal is low ABS tier (1) with limited public information; this is expected and acceptable per brief instructions
+
+Deltas found: 2 (practitioner emphasis, structured abstract)

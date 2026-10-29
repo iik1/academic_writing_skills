@@ -1,0 +1,18 @@
+Journal: International Economic Review
+Slug: international-economic-review
+ABS: 4
+Field: ECON
+Articles fetched: 13 (abstracts/titles/metadata; full text gated on Wiley, so abstract-level spot-check only)
+Early stop triggered: No — sampling stopped after 13 because deltas had stabilized (only two identified: page limit, Klein Lecture feature) and no new deltas emerged in the last several articles.
+
+Deltas found: 2
+  1. Length — HARD CONSTRAINT: 50-page cap, single-sided, double-spaced (explicit, stated in guidelines; FIELD_SKILL has no such cap).
+  2. Other Journal-Specific Patterns — PRACTICE ONLY / institutional feature: annual "Klein Lecture" published with distinctive labeled title; does not affect regular-submission writing style.
+
+FIELD_SKILL overrides: One — the 50-page length cap overrides FIELD_SKILL's silence on length.
+
+Access-limitation notes:
+- Wiley Online Library journal/article pages returned HTTP 402 (Payment Required) on direct WebFetch; could not retrieve full guidelines page or full-text articles directly.
+- Author guidelines were reconstructed from WebSearch-extracted snippets of the Wiley "for authors" page and from the Penn Economics Department submissions page (economics.sas.upenn.edu/ier/submissions), which was directly fetchable.
+- The journal's detailed house style guide is explicitly stated to be available only on request from the editorial office (not publicly posted), so citation/heading/table formatting specifics could not be independently verified beyond field defaults.
+- All 13 sampled articles were assessed via abstract/title/metadata only (RePEc/IDEAS, SSRN, and search-engine-extracted Wiley snippets), not full text, consistent with the assignment's allowance for front-matter-only spot-checks when full text is paywalled.

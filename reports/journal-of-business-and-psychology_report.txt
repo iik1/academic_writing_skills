@@ -1,0 +1,35 @@
+Journal: Journal of Business and Psychology
+Slug: journal-of-business-and-psychology
+ABS: 3
+Field: PSYCH (WOP-OB)
+Articles fetched: 9 (front-matter/abstracts via WebFetch/WebSearch; full text not accessible - paywalled)
+Early stop triggered: No (deltas stabilized around 9 articles; guidelines page also could not be fetched directly due to Springer login redirect, worked around via WebSearch cached summaries)
+
+Deltas found: 2 dimensions
+  - Structural Deviations: journal offers an optional Results-Masked Review
+    (Registered Reports) track via a dedicated site (jbp.charlotte.edu),
+    with Stage 1 (Intro+Method only, pre-registered) / Stage 2 (add
+    Results+Discussion, frozen Introduction/hypotheses) submission process.
+    GUIDELINE/ENFORCED for that track only; standard submissions are
+    FIELD DEFAULT (confirmed across all 9 articles sampled).
+  - Other Journal-Specific Patterns: explicit APA JARS reporting guidance
+    stated in guidelines (GUIDELINE ONLY).
+
+FIELD_SKILL overrides: none required (structure, voice, abstract content,
+citation density, statistical reporting all align with field baseline)
+
+Hard constraints recorded: 5,000-8,000 word length (excl. figures/tables/
+refs/abstract), unstructured APA abstract 175-250 words, APA 7th ed.
+citation style, double-spaced/numbered pages, discouragement of pure
+literature reviews, dataset citation requirement, no post-acceptance
+authorship changes.
+
+Access-limitation notes: Springer's submission-guidelines page and all
+article pages redirect through an idp.springer.com login/cookie flow;
+full text was not directly retrievable. Guideline details (length,
+abstract word count, APA edition) were obtained via WebSearch result
+snippets citing the guidelines page rather than a direct page fetch.
+Article abstracts and visible section headings were obtained via WebFetch
+following the redirect chain, which succeeded for abstract/front-matter
+content in most cases. No full-text methods/results sections were
+accessible, consistent with standard paywall behavior for this journal.

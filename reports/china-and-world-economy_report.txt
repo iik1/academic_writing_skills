@@ -1,0 +1,26 @@
+Journal: China and World Economy
+Slug: china-and-world-economy
+ABS: 1
+Field: ECON
+
+Articles fetched: 11 (abstract/title level via IDEAS/RePEc mirrors; Wiley Online Library blocked full text/abstract pages with HTTP 402 in this environment)
+Early stop triggered: No — completed a good-faith spot-check across 2022-2025 issues; did not reach the 10-15 full-text ideal due to Wiley paywall, but reached 11 distinct abstract-level observations plus 2 title-only entries, judged sufficient for ABS 1.
+
+Deltas found: 2 dimensions
+  - Structural Deviations (PRACTICE ONLY / RELAXATION): Journal publishes policy-perspective/essay pieces (e.g., Perkins 2023) alongside standard empirical IMRAD papers, admitting a wider structural range than FIELD_SKILL's empirical/theory dichotomy.
+  - Other Journal-Specific Patterns (topic framing): All sampled articles are China-specific in subject matter; motivating hooks should orient toward China policy relevance rather than general economic theory contribution. Not a prose-mechanics delta.
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Abstract: unstructured, <=150 words, no abbreviations/references (FIELD_SKILL is silent on this)
+  - Citation style: Harvard author-date, explicit prohibition on "ibid."/"op cit.", page numbers required for quotations
+  - Word limit: 7,000-12,000 words total
+  - Keywords: 4-6, alphabetical; JEL codes: 2-4
+  - American English spelling required
+  - Table formatting: no vertical rules between columns; tables self-contained
+  - No abbreviations in title; no unpublished data in reference list
+
+Access-limitation notes:
+  - Wiley Online Library (onlinelibrary.wiley.com) returned HTTP 402 Payment Required for all direct WebFetch attempts, including the author guidelines page itself, table-of-contents pages, and individual article abstract/full-text pages.
+  - Guidelines content was recovered via WebSearch-extracted snippets of the Wiley guidelines page and a corroborating mirror at journal.hep.com.cn/cwe/EN/guidelines (fetched successfully).
+  - Article-level evidence relied on IDEAS/RePEc (ideas.repec.org/s/bla/chinae.html) abstract mirrors, which provide reliable abstracts but not full-text prose, so voice/register and citation-format deltas could not be directly confirmed in practice — these dimensions are reported as FIELD DEFAULT based on abstract-level consistency with FIELD_SKILL rather than confirmed full-text observation.
+  - ResearchGate full-text access also blocked (HTTP 403).

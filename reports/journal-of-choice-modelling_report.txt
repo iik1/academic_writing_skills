@@ -1,0 +1,21 @@
+Journal: Journal of Choice Modelling
+Slug: journal-of-choice-modelling
+ABS: 1
+Field: ECON
+Publisher: Elsevier
+
+Articles fetched: 10 distinct articles at abstract/title-listing level (no full text readable). Sources: RePEc/IDEAS listing pages, ScienceDirect/SSRN/White Rose search-engine snippets. One open-access PDF (White Rose, Cazor et al. 2025) was fetched but returned as unreadable raw PDF binary, so it contributed only its already-known abstract, not structural detail.
+
+Early stop triggered: No — good-faith effort completed across guidelines + 10 articles per instructions for an ABS 1 journal.
+
+Deltas found: 2 dimensions
+1. Structural Deviations (PRACTICE/GUIDELINE) — JOCM has a five-way article-type system (standard research paper, research note, software paper, data paper, review paper) not present in FIELD_SKILL, which only covers empirical/theory IMRaD templates.
+2. Other Journal-Specific Patterns (ENFORCED) — explicit AI-disclosure requirement: AI/AI-assisted tools used as part of research design/methods must be disclosed in Methods (model name, version, manufacturer); general AI writing assistance not restricted. Also noted a RELAXATION: less emphasis on discipline-wide "importance" framing in introductions, consistent with ABS 1 tier vs ABS 4*/4 baseline.
+
+FIELD_SKILL overrides: Abstract word limit hard-capped at 250 words (FIELD_SKILL specifies no length); abstract must be unstructured, single paragraph, no references, non-standard abbreviations avoided.
+
+Access-limitation notes:
+- ScienceDirect guide-for-authors page returned HTTP 403 on direct WebFetch; content reconstructed from WebSearch snippets only.
+- jocm.org.uk (journal's own guide/homepage) returned HTTP 521 (site down) on direct WebFetch; content reconstructed from WebSearch snippets only.
+- No full article text was successfully read; all 10 sampled articles are abstract-level or title/listing-level only. One open-access PDF fetched but not machine-readable as text via WebFetch.
+- Given the thin, mostly-listing-level evidence, "no delta" conclusions for voice, statistical reporting, and citation density are marked provisional/low-confidence in the skill file rather than stated as confirmed norms.

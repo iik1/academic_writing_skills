@@ -1,0 +1,18 @@
+Journal: IEEE Transactions on Systems, Man, and Cybernetics: Systems
+Slug: ieee-transactions-on-systems-man-and-cybernetics-systems
+ABS: 3
+Field: OR&MANSCI
+
+Articles fetched: 5 (abstract/title-level only; full text paywalled/inaccessible for all)
+Early stop triggered: Yes — access chain exhausted after IEEE Xplore blocked WebFetch (HTTP 418) on document and issue pages; relied on WebSearch snippets for article-level observation instead of the target 15 full spot-checks.
+
+Deltas found: 3 dimensions
+- Structure (HARD_CONSTRAINT): mandatory IEEE two-column template, Abstract + 3-4 Index Terms, separate numbered References, three-paragraph author biography + photo — ENFORCED (stated in guidelines; consistent with all observed metadata)
+- Length (HARD_CONSTRAINT): ~12 pages typical, 14-page hard cap, $175/page overlength charge beyond 10 — ENFORCED
+- Abstract (HARD_CONSTRAINT): 100-250 words, single paragraph, no citations/equations/tables/abbreviations/footnotes — ENFORCED, tighter than FIELD_SKILL's generic description
+- Citations (HARD_CONSTRAINT): IEEE numeric bracket style, not author-date — ENFORCED
+- Structural deviations (topical composition toward control theory/algorithmic engineering): PRACTICE ONLY / low-prevalence observation, does not override FIELD_SKILL
+
+FIELD_SKILL overrides: Structure (mandatory IEEE template + biography/photo requirement), Length (explicit page caps and surcharges), Abstract (word count and content prohibitions), Citations (numeric bracket style replacing field-generic approach)
+
+Access-limitation notes: IEEE Xplore document and recent-issue pages returned HTTP 418 or empty content to WebFetch, blocking direct full-text or abstract-page retrieval. The official ieeesmc.org author-guidelines page was fully retrievable and is the primary source for all HARD_CONSTRAINTS. Article-level observations rely on WebSearch-surfaced abstract snippets and titles (5 distinct papers, spanning 2013-2026) rather than full-text reads. No deltas in voice, hedging, argumentation, methods conventions, or results reporting were found relative to FIELD_SKILL; all such dimensions are recorded as FIELD DEFAULT.

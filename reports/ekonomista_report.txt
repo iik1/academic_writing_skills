@@ -1,0 +1,47 @@
+Journal: Ekonomista
+Slug: ekonomista
+ABS: 1
+Field: ECON
+
+Articles fetched: 12 distinct articles spot-checked
+  - Issue 2/2024 (5 articles, abstract/TOC level): Jankowska & Götz; Jajuga, Pociecha & Szreder;
+    Matera & Skodlarski; Markowski & Ostrowska; Lisicki & Szewieczek
+  - Issue 1/2025 (6 articles, TOC level): Kantorowicz & Moszoro; Koryś, Tymiński & Bukowski;
+    Banaszewska; Sawulski & Kiełczewska; Totleben & Piątek; Lewczuk
+  - Zajkowska & Broniatowska, "Should I Stay or Should I Go? Transitions to Inactivity in Poland,"
+    Ekonomista 3/2025, pp. 352-378 (full abstract + metadata level)
+  - Issue 3/2025 TOC also reviewed for structural/language patterns (6 further titles, no abstracts
+    visible)
+
+Early stop triggered: No. Full sample of 12+ articles across 3 issues (2024-2025) obtained via
+publisher's own website; no paywall blocked access to guidelines or TOC/abstract-level content.
+
+Deltas found: 2 substantive deltas + 1 structural/publisher-level note
+  1. Statistical Reporting - PRACTICE ONLY / low-prevalence (single full abstract observed was
+     more qualitative than FIELD_SKILL's quantitative-magnitude norm; plausibly a RELAXATION
+     tied to the short 1,000-character abstract cap, not confirmed across multiple articles)
+  2. Structural Deviations - bilingual publication (Polish/English side by side in same issues);
+     not a stylistic delta but a journal characteristic not addressed by FIELD_SKILL at all
+  3. Other Journal-Specific Patterns - journal carries editor's notes, polemical discussion pieces,
+     and book reviews as recurring content types alongside standard research articles
+
+FIELD_SKILL overrides (Hard Constraints from author guidelines):
+  - Length: 45,000 characters max for articles (~6,500-7,500 words) - materially shorter than
+    typical ABS 4*/4 empirical papers
+  - Abstract: ~1,000 characters (~140-160 words), must cover aim/justification/method/results,
+    plus 3-5 keywords and 3-5 JEL codes
+  - Citations: explicit APA-7 mandate for both in-text citations and reference list
+  - Figures: black-and-white/greyscale only, vector formats (PDF/EPS/Excel) required
+  - Double-blind anonymization: strict - no author names/affiliations, no identifiable
+    self-citations, no acknowledgments/grant/conference references in review version
+  - Structure guidance: IMRAD suggested (not mandated) for empirical papers, looser than
+    FIELD_SKILL's more granular section breakdown
+
+Access-limitation notes:
+  - Full text of sampled articles was not accessible (paywalled/behind editorial system); relied
+    on publisher TOC pages, one full abstract+metadata page, and the "Dla autorów" guidelines PDF
+    fetched directly from the publisher's own site (no proxy/institutional access needed - PDF was
+    publicly linked).
+  - Most TOC entries only exposed title, authors, pages, DOI, and language - not full abstracts -
+    so voice/register/statistical-reporting deltas beyond the single full abstract are necessarily
+    thin; flagged as low-prevalence rather than asserted as journal norms per the convergence rule.

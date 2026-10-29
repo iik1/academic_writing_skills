@@ -1,0 +1,37 @@
+Journal: Investment Analysts Journal
+Slug: investment-analysts-journal
+ABS: 1
+Field: FINANCE
+
+Articles fetched: 9 (abstract/metadata level; full text paywalled/inaccessible for all)
+Early stop triggered: No — reached a good-faith sample of 9 distinct articles across 2024-2025 for an ABS 1 journal.
+
+Deltas found: 1 substantive delta, plus several convergence/no-delta confirmations
+  - Other Journal-Specific Patterns (PRACTICE ONLY): Journal scope is more internationally diverse
+    (US, China, South Korea, Western Europe, South Africa) than its "Investment Analysts"
+    / South African society name suggests.
+  - All other dimensions (structure, voice, citations, statistical reporting, hedging) showed
+    no observable deviation from FIELD_SKILL at the abstract/metadata level available.
+
+FIELD_SKILL overrides: none confirmed. No hard formatting/length/structure constraints could be
+independently verified because the public "Instructions for Authors" page on tandfonline.com
+returned 403 Forbidden, and full author guidelines are gated behind the journal's Editorial
+Manager submission portal (editorialmanager.com/iaj/), which is not publicly browsable.
+
+Access-limitation notes:
+  - tandfonline.com/journals/riaj20/about-this-journal and the author-submission instructions
+    page both returned HTTP 403 Forbidden via WebFetch.
+  - Journal is not indexed on RePEc/IDEAS under a taf/riaj series (searched, not found), so
+    that route for abstracts/working papers was unavailable.
+  - journals.co.za (Sabinet host for this journal) also returned 403 on direct fetch.
+  - All 9 article observations are based on WebSearch-extracted abstract/metadata snippets
+    (title, abstract summary, JEL codes where shown), not full-text PDFs, since tandfonline.com
+    full-text pages are paywalled/blocked for this environment.
+  - One indirect source (iassa.co.za/journals, the Investment Analysts Society of South Africa
+    page) provided limited guideline-level information: originality requirement, double-blind
+    peer review, "readability and good writing style" as an evaluation criterion, and pointer
+    to the Editorial Manager portal for detailed author instructions. This was accessed via
+    WebFetch successfully (not 403).
+  - Given the thin public information available for this ABS 1 journal, the skill is
+    intentionally short and flags several dimensions as unconfirmed rather than fabricating
+    specifics.

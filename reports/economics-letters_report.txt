@@ -1,0 +1,26 @@
+Journal: Economics Letters
+Slug: economics-letters
+ABS: 3
+Field: ECON
+Publisher: Elsevier
+
+Articles fetched: 2 with full/usable abstracts (Schertler & Theissen 2026 "Green acquisitions"; Harakeh et al. 2024 "The impact of blockchain adoption on corporate investment efficiency"), plus 4 additional titles confirmed via RePEc/IDEAS table of contents without retrievable abstract text (Choi & Munro; Bar-Isaac; Alemanni et al.; Choi & Adhikari). Total distinct titles surveyed: ~13 from the 2024-2026 RePEc listing.
+
+Early stop triggered: No — access chain was exhausted (ScienceDirect blocks automated fetch with 403; RePEc listing page omits abstract text; no open-access working paper versions found for sampled titles) rather than hitting a 15-article target or delta convergence early.
+
+Deltas found: 2 dimensions
+1. Structural Deviations (RELAXATION, ABS 3, format-driven) - multi-section FIELD_SKILL architecture compressed under ~2,000-word ceiling; abstracts present motivation/method/result in one dense paragraph.
+2. Other Journal-Specific Patterns (PRACTICE ONLY) - single central finding per paper rather than multiple enumerated contributions, driven directly by length limit.
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+- Length: ~2,000-word ceiling including tables/figures/references (no such limit in FIELD_SKILL)
+- Abstract: unstructured, <=100 words
+- Highlights: required, 3-5 bullets, <=85 characters each
+- JEL codes: up to 6 required
+- Submission fee: USD 125 non-refundable
+- Review process: accept-as-is-or-reject, brief editor cover letter, no detailed referee reports (no R&R norm)
+
+Access-limitation notes:
+- sciencedirect.com/journal/economics-letters (main landing page) and the guide-for-authors page both returned HTTP 403 to direct WebFetch; guideline content was recovered via WebSearch snippet extraction instead.
+- No open-access preprint/working-paper versions of sampled 2024-2026 articles were found via WebSearch (NBER/IZA/SSRN did not surface matches for this journal's short-format papers), so full-text style spot-checking (paragraph density, tense mixing, robustness section presence) could not be directly verified beyond abstract-level text.
+- Sample of usable abstracts (2) is below the 15-article target; documented per instructions as a good-faith attempt given the paywall/403 access chain.

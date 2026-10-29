@@ -1,0 +1,37 @@
+Journal: Banks and Bank Systems
+Slug: banks-and-bank-systems
+ABS: 1
+Field: FINANCE
+
+Articles fetched: 0 full-text (publisher site returns HTTP 403 to automated fetch for both
+guidelines page and article pages; ResearchGate article page also 403'd). 15 distinct articles'
+titles/topics/abstract snippets/JEL codes were gathered via web search (search-engine cached/
+indexed content), spanning issues 157, 172, 344, 389, 395, 414, 438, 449, 464, 472, 476, 503.
+
+Early stop triggered: No. Full 15-article good-faith sample completed via indirect (search-index)
+access given publisher blocks direct fetching.
+
+Deltas found: 3
+  1. Structural Deviations - GUIDELINE ONLY/ENFORCED (stated). Journal explicitly names AIMRaD
+     structure (Abstract, Introduction, Methods, Results, Discussion), which is more prescriptive
+     and Methods/Discussion-labeled than FIELD_SKILL's generic finance structure (Data/Empirical
+     Analysis + Conclusion merge). Could not verify actual section headers in full text (403).
+  2. Citation Density - RELAXATION. Hard 50-source reference cap, alphabetical reference list
+     required. FIELD_SKILL assumes no ceiling at ABS 4*/4. This is a tier-appropriate relaxation,
+     not a new norm.
+  3. Other Journal-Specific Patterns - PRACTICE ONLY. Sampled article titles skew toward applied,
+     single-country/regional empirical and bibliometric studies rather than causal-identification-
+     heavy papers; contribution framing likely more descriptive than FIELD_SKILL's aggressive
+     novelty-claim norm for top-tier outlets.
+
+FIELD_SKILL overrides: AIMRaD structure naming; 50-source reference cap; abstract must not cite
+sources or reference tables/figures; keyword must include country/region if absent from title.
+
+Access-limitation notes: businessperspectives.org returns HTTP 403 to WebFetch on all pages tried
+(journal landing page, guidelines page, individual article pages). ResearchGate article page also
+403'd. DOAJ toc page also 403'd. All findings are based on WebSearch result snippets (search-engine
+indexed/cached text), which were consistent across multiple independent queries for the guideline
+figures (150-250 word abstract, 4000-6000 word papers, 50-source cap, AIMRaD structure, JEL/keyword
+rules) giving reasonable confidence in the Hard Constraints section. No full manuscript text was
+read, so the Observed Deltas section is necessarily more tentative than higher-tier skill files
+built from full-text spot-checks; this is flagged inline in the skill file itself.

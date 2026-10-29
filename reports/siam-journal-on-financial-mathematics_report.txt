@@ -1,0 +1,29 @@
+Journal: SIAM Journal on Financial Mathematics
+Slug: siam-journal-on-financial-mathematics
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 12 (abstracts/metadata only; full text paywalled behind SIAM epubs)
+Early stop triggered: No
+
+Deltas found: 5 dimensions
+  - Voice and Register: lower hedging than FIELD_SKILL baseline (proof-backed claims stated flatly)
+  - Statistical Reporting: FIELD_SKILL's regression/economic-magnitude conventions largely inapplicable; results are theorems/closed-form formulas/numerical convergence rates instead
+  - Citation Density: abstract-level references explicitly minimized per guidelines
+  - Structural Deviations: no universal Data/Robustness sections; MSC codes replace JEL codes
+  - Other Journal-Specific Patterns: numbered/bracketed in-text citation style explicitly permitted, unlike FIELD_SKILL's author-year-only norm
+
+FIELD_SKILL overrides (HARD_CONSTRAINTS from guidelines):
+  - Abstract: one paragraph, max 250 words, must stand independently, minimize formulas/citations, no JEL codes (uses MSC codes)
+  - Citations: alphabetical or citation-order reference list; in-text may use [#, p. XX], Author [#, p. XX], or Author (Year, p. XX) — numeric-bracket forms sanctioned, not just author-year
+  - Structure: no mandated empirical-paper section list; follows math-paper convention (setup/theorem/proof/numerics)
+  - Length: Short Communications capped at 10-12 pages; running head max 50 characters
+  - Figures/Tables: professional quality only, no hand-drawn elements, "Lena image" explicitly banned, tables/algorithms excluded from figure numbering
+  - Submission: no simultaneous submission, prior conference-proceedings version must be disclosed in cover letter and title-page footnote
+
+Access-limitation notes:
+  - epubs.siam.org (publisher site) serves a JS-rendered navigation shell to unauthenticated WebFetch requests; table-of-contents and full-text article pages could not be read directly.
+  - Instructions for Authors page WAS fully retrieved and is the primary source for HARD_CONSTRAINTS.
+  - Editorial Policy page did not yield usable content (shell only).
+  - Spot-check relied on arXiv preprints of papers later published in SIFIN, WebSearch result snippets, and third-party metadata mirrors (dblp, institutional repository pages). No full manuscript bodies were read — observations on structure/voice are based on abstracts, MSC codes, and metadata only.
+  - Given the ABS 2 tier and thin public full-text access, this is treated as a good-faith smaller sample per task instructions.

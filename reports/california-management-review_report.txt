@@ -1,0 +1,47 @@
+Journal: California Management Review
+Slug: california-management-review
+ABS: 3
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 19 (title/author/summary level, across Vol. 64 Issue 1, Vol. 64 Issue 2
+special issue "Global Value Chains", Vol. 65 Issue 4 special issue "Strategic Agility") plus
+1 full-text CMR Insights piece read in full ("Want a Healthier Workforce? Take a Look at
+Your Pay Strategy"). SAGE journals.sagepub.com abstract/full-text pages for 3 additional
+2025 articles were attempted but returned only site navigation chrome (JS-rendered, no
+article content) and were excluded from the analysis.
+
+Early stop triggered: No — delta set stabilized naturally after ~19 articles; practitioner
+voice, format tiers, and Chicago endnote citation pattern were consistent across all
+accessible sources.
+
+Deltas found: 4 dimensions
+  1. Voice and Register — stronger, explicit practitioner mandate (jargon-free, prescriptive
+     advice required) vs. FIELD_SKILL's general managerial-relevance note. ENFORCED.
+  2. Citation Density — Chicago endnote style produces a lighter in-text citation footprint
+     than FIELD_SKILL's dense APA in-text norm. ENFORCED / RELAXATION.
+  3. Structural Deviations — no mandatory Theory/Hypotheses or Theoretical-Background
+     template; articles organized around frameworks/takeaways; shorter formats compress or
+     omit theory sections. PRACTICE ONLY / RELAXATION (ABS-3 appropriate).
+  4. Other Journal-Specific Patterns — CMR Insights format (500-3,000 words, open access,
+     online-only, "Key Takeaways" structure) has no FIELD_SKILL analogue. ENFORCED for that
+     track.
+
+FIELD_SKILL overrides (HARD_CONSTRAINTS beyond field defaults):
+  - Citation style: Chicago 18th ed. endnotes, not APA in-text.
+  - Abstract: ~100 words (vs FIELD_SKILL's 150-250 word norm), plus 3+ keywords.
+  - Length tiers: In-Depth 6,000-8,000 words; Spotlight 3,000-4,000; Insight 500-3,000;
+    Quick Submit 500-8,000. All exclude tables/figures/endnotes.
+  - Headings: max 3 descending levels, brief and descriptive.
+  - Tables/figures: separate native high-res files, not embedded.
+  - Blind review: no author names anywhere in manuscript, figures, or filenames.
+  - No simultaneous submission, no previously published material, no submission fee.
+
+Access-limitation notes:
+  - SAGE's journals.sagepub.com platform serves JS-rendered pages; WebFetch could not
+    retrieve actual abstract/full-text content from that domain (returned only nav/footer
+    template). All article-level evidence was instead drawn from the Berkeley-hosted
+    cmr.berkeley.edu site, which publishes open issue tables of contents with author-written
+    summaries, and one full CMR Insights article hosted there.
+  - No full In-Depth Article full text was accessible (paywalled on SAGE); structural/voice
+    conclusions for that track rely on issue-level summaries plus the one full-text Insights
+    piece and the explicit guidelines page.

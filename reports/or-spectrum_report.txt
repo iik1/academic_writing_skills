@@ -1,0 +1,43 @@
+Journal: OR Spectrum
+Slug: or-spectrum
+ABS: 3
+Field: OR&MANSCI
+Publisher: Springer Nature (with Gesellschaft für Operations Research e.V.)
+
+Articles fetched: 6 full abstracts read in detail (RePEc/IDEAS abstract pages);
+~85 additional article titles/keywords scanned across issues from March 2022
+through June 2026 for topical/structural pattern-spotting.
+
+Early stop triggered: No. Continued sampling until delta set stabilised
+(no new deltas emerged after the 5th-6th abstract; remaining effort spent
+confirming absence of JEL codes and confirming topical mix via titles).
+
+Deltas found: 3
+  1. No JEL classification codes used, even in finance/economics-adjacent
+     papers (PRACTICE ONLY).
+  2. Heavier concentration of applied/computational/logistics papers
+     relative to ABS 4/4* theoretical benchmark in FIELD_SKILL (RELAXATION,
+     PRACTICE ONLY — expected at ABS 3 tier).
+  3. Literature-review/survey articles are a visibly regular, recurring
+     article type (FIELD DEFAULT for the type generally, but more
+     prominent in this journal's actual output than the field norm implies).
+
+FIELD_SKILL overrides: none (no HARD_CONSTRAINT from guidelines
+contradicted FIELD_SKILL; all observed guideline items were generic
+Springer Nature production/formatting requirements, not journal-specific
+overrides).
+
+Access-limitation notes:
+- link.springer.com/journal/291/submission-guidelines and
+  /aims-and-scope both returned a 303 redirect to a Springer IDP login
+  wall (idp.springer.com/authorize) in this environment; direct WebFetch
+  of guideline pages was not possible. Guideline content (abstract length
+  150-250 words, LaTeX template, single-blind review, EPS/TIFF figure
+  formats, Arabic numeral table numbering) was recovered via WebSearch
+  result snippets/cache rather than direct page fetch.
+- Full-text articles on link.springer.com were also blocked by the same
+  login wall; all article-level evidence came from RePEc/IDEAS abstract
+  pages instead, which do not always include full abstracts (one item,
+  "Multi-criteria optimization in industry," had no abstract available).
+- No SSRN, ResearchGate, or author-homepage copies were needed since
+  RePEc/IDEAS provided sufficient abstract-level coverage.

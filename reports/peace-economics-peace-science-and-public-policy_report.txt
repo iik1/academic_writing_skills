@@ -1,0 +1,36 @@
+Journal: Peace Economics, Peace Science and Public Policy
+Slug: peace-economics-peace-science-and-public-policy
+ABS: 1
+Field: ECON
+
+Articles fetched: 20 (title/author/issue level only; no full-text or abstract-level access obtained)
+Early stop triggered: No — this was a good-faith full attempt, but public access to full text/abstracts was thin and exhausted rather than deliberately truncated.
+
+Deltas found: 1 substantive delta + minor formatting constraints
+  - ENFORCED: Chicago Manual of Style author-date citation system, with specific mechanics
+    (page numbers in direct citations, same-year multi-work lettering alphabetized by title,
+    full author lists required in reference-list entries even when in-text uses "et al.",
+    no shortened URLs, DOIs required where available).
+  - Minor/GUIDELINE ONLY formatting constraints from the standard De Gruyter author-guidelines
+    template: table/figure submission rules, equation typesetting (no images), heading-case
+    consistency, color/emphasis conventions. These are boilerplate shared across many De Gruyter
+    journals, not distinctively PEPS content, but are included as Hard Constraints since they
+    are stated in the journal's own guidelines PDF.
+  - No confirmed deltas in voice, register, hedging, statistical reporting, or introduction/
+    conclusion rhetorical structure — insufficient full-text access to check these; marked
+    FIELD DEFAULT rather than fabricated.
+
+FIELD_SKILL overrides: Citation format only (Chicago author-date specifics override the
+  generic "author-year" description in econ-field-writing-style).
+
+Access-limitation notes:
+  - degruyterbrill.com journal landing/issue/article pages returned HTTP 405 to the WebFetch
+    tool consistently; the official Instructions-for-Authors PDF was retrieved successfully
+    only via a direct curl download with a browser user-agent string.
+  - Individual RePEc/IDEAS article pages for specific volumes/issues returned HTTP 404.
+  - WebSearch could not surface abstract text for any of the 20 sampled articles; only titles,
+    authors, issue numbers, and page ranges were recoverable, via one successful WebFetch of
+    the RePEc series listing page (ideas.repec.org/s/bpj/pepspp.html).
+  - Given the ABS 1 tier and thin access chain, the skill documents a smaller, honest sample
+    (title-level for 20 articles, full guidelines text) rather than fabricating full-text
+    style findings.

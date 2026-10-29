@@ -1,0 +1,34 @@
+DELTA DETECTION REPORT: Asia Pacific Business Review
+
+Journal: Asia Pacific Business Review
+Slug: asia-pacific-business-review-writing-style
+ABS Rating: 2
+Field: IB&AREA (International Business & Area Studies)
+Publisher: Routledge / Taylor & Francis Journals
+
+ARTICLES FETCHED: 2
+- Full-text access: 0 (paywalled)
+- Metadata/abstract access: 2 (via IDEAS/RePEc)
+  1. Shuming Zhao et al. (2023), "The role of leadership in human resource management," Vol. 29(1), pp. 1–10
+  2. Mingjun Hou (2023), "Digital economy, enterprise digital transformation, and digital business model," Vol. 29(4), pp. 1200–1210
+
+EARLY STOP TRIGGERED: Yes
+Reason: After exhausting publicly available access chains (Taylor & Francis paywall, Ingenta Connect, SciSpace, direct PDF links), only metadata was accessible. Full-text articles and the journal's official author guidelines could not be retrieved. Further spot-checking would not yield additional structural data. Two metadata samples are sufficient to support the inferences drawn (consistency with FIELD_SKILL norms) but insufficient to discover additional journal-specific deltas beyond the two identified in the skill document.
+
+DELTAS FOUND: 2
+1. Editorial roles and special issues (PRACTICE classification) – journal regularly publishes thematic special issues with guest-edited introductions; may indicate higher prevalence of agenda-setting pieces than FIELD_SKILL baseline suggests
+2. Geographic/regional specificity emphasis (PRACTICE classification) – strong thematic clustering around country-specific and region-specific contexts (China, Korea, Vietnam, Japan, Thailand); suggests geographic context may be more central to evaluation criteria than FIELD_SKILL assumes
+
+FIELD_SKILL OVERRIDES: None
+The journal's observed practice is consistent with FIELD_SKILL norms on voice, citation density, methods detail, results reporting, discussion structure, and hedging. No contradictions detected.
+
+ACCESS LIMITATIONS:
+- Journal's official "Instructions for authors" page (hosted on Taylor & Francis Online) is behind paywall and not publicly accessible
+- Taylor & Francis general manuscript guidelines (PDFs on files.taylorandfrancis.com and authorservices.taylorandfrancis.com) are paywalled
+- All full-text articles on tandfonline.com and Ingenta Connect are paywalled
+- SciSpace, ResearchGate, and arXiv searches did not return accessible preprints or institutional repository versions
+- Inferred hard constraints from Taylor & Francis standard practices rather than journal-specific documentation
+
+Hard constraints recorded in SKILL.md are based on publicly documented Taylor & Francis standards (abstract length 100–200 words, heading hierarchy, citation style author-date) and are marked as inferred, not confirmed. Authors must consult the journal's official "Instructions for authors" for binding requirements.
+
+REPORT STATUS: Complete. Skill file created and documented with transparency about limitations.

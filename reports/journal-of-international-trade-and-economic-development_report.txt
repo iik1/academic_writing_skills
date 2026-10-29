@@ -1,0 +1,21 @@
+Journal: Journal of International Trade and Economic Development
+Slug: journal-of-international-trade-and-economic-development
+ABS: 1
+Field: ECON
+
+Articles fetched: 0 full-text/abstracts; 19 titles+authors identified via a scispace mirror of the RePEc/IDEAS listing (Vol 22 No 1, Vol 31 No 4, Vol 33 No 2/5, Vol 34 No 4, and Vol 35 No 1-4 current issues, spanning 2013-2026). No abstract text, section headings, or full text could be retrieved.
+
+Early stop triggered: No — all access avenues were exhausted in good faith (WebFetch to tandfonline.com main pages, instructions-for-authors page, individual DOI article pages, files.taylorandfrancis.com PDF guideline path, RePEc/IDEAS direct page, authorservices.taylorandfrancis.com layout guide) before concluding the skill with an honest "insufficient evidence" writeup rather than continuing to retry.
+
+Deltas found: 0. No dimension could be confirmed to differ from econ-field-writing-style baseline due to lack of readable source material.
+
+FIELD_SKILL overrides: none (no hard constraints could be confirmed).
+
+Access-limitation notes:
+- Taylor & Francis (tandfonline.com) returned HTTP 403 Forbidden on every direct WebFetch attempt in this environment: journal homepage, about-this-journal page, instructions-for-authors action URL, current TOC page, and multiple individual article DOI pages.
+- files.taylorandfrancis.com/rjteauth.pdf (the standard T&F per-journal instructions PDF naming pattern) also returned 403.
+- authorservices.taylorandfrancis.com (publisher-wide manuscript layout guide) also returned 403 on direct fetch; only a WebSearch-generated summary snippet was available, which was not journal-specific.
+- ideas.repec.org direct article page returned 404.
+- A scispace.com mirror of RePEc/IDEAS listings successfully returned a list of ~19 recent article titles and author surnames but no abstracts.
+- WebSearch queries targeting article abstracts, JEL codes, and keywords for this journal returned no relevant snippets — only tangential arXiv/PMC papers on trade topics, not this journal's own content.
+- Given this unusually thin access chain, the skill file was written honestly noting "Not accessible" for all Hard Constraints sections and "no deltas could be established with confidence" rather than fabricating journal-specific norms. This is a lower-confidence skill than typical for the pipeline; a future pass with institutional/EZProxy access to tandfonline.com would likely be able to substantially improve it.

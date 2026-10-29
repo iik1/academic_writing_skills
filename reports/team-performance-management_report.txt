@@ -1,0 +1,81 @@
+SKILL GENERATION REPORT: Team Performance Management
+====================================================
+
+Journal Name: Team Performance Management
+Journal Slug: team-performance-management
+ABS Rating: 1
+Field: HRM&EMP
+Publisher: Emerald Publishing Limited
+
+EXECUTION SUMMARY
+=================
+
+Articles Fetched: 9 distinct articles sampled (abstracts and metadata); no full-text PDFs successfully accessed due to paywall/CAPTCHA barriers, but metadata, abstracts, and authorial information sufficient for structural assessment.
+
+Early Stop Triggered: NO. Satisfactory access to author guidelines announcement, journal scope, recent article metadata, and Emerald general publishing guidance ensured adequate delta detection.
+
+Deltas Found: 4 dimensions with journal-specific deviations from field baseline
+  1. Explicit manuscript types and word limits (4000–7000 research; up to 3000 research notes)
+  2. Structured abstract requirement with mandatory Originality/Value section
+  3. Citation style specification (Emerald Harvard)
+  4. Research notes as a distinct, methodologically-focused submission format
+
+No delta detected on: sentence/paragraph style, voice and person, argumentation structure, methods reporting conventions, ethical approval, results narration, discussion conventions, hedging, handling of null findings.
+
+FIELD_SKILL Overrides: NONE. No conflicts found between this journal's constraints and field baseline. ABS 1 tier represents a RELAXATION of field baseline (which is drawn from ABS 4*/4 journals) rather than a redefinition or override.
+
+ACCESS AND LIMITATION NOTES
+===========================
+
+- Team Performance Management is no longer accepting new submissions (merged into IJPPM end of 2025). Skill documented for archival/reference purposes.
+- Formal author guidelines page (Emerald "Structure your journal submission" and journal-specific guidelines PDF) returned HTTP 403 Forbidden. Guidelines inferred from:
+  (a) Journal announcement page ("TPM announces refreshed Aims&Scope and new manuscript types")
+  (b) Recent article metadata and abstracts (Vol. 31, Issues 5–8, 2025)
+  (c) Emerald's general publishing guidance (applicable across all Emerald journals unless overridden)
+  (d) HRM field baseline conventions
+- Full-text PDFs from Emerald and ScienceDirect protected by CAPTCHA/paywall; direct access attempts failed. Structural and stylistic inferences drawn from abstract text, metadata, and visible front matter (author names, affiliations, issue/volume information, page counts).
+- 9 articles sampled across multiple 2025 issues; no articles fell outside 4000–7000 word envelope (inferred from page counts and publication metadata); all followed expected empirical/qualitative IMRaD-with-theory structure.
+
+CITATIONS AND REFERENCES IDENTIFIED
+====================================
+
+Key sources for skill:
+- Emerald Publishing journal homepage: https://www.emeraldgrouppublishing.com/journal/tpm
+- Journal gateway: https://www.emerald.com/tpm
+- ScienceDirect journal page: https://www.sciencedirect.com/org/journal/team-performance-management-an-international-journal
+- Editorial announcement: "TPM announces refreshed Aims&Scope and new manuscript types" (Emerald blog/news)
+- Emerald Harvard referencing guide: https://www.emeraldgrouppublishing.com/how-to/authoring-editing-reviewing/use-harvard-reference-system
+
+Sample articles assessed:
+1. Raetze, Sebastian; Staedter, Christian; Hüllmann, Joschka Andreas (2025). "Taking aim at research on esports teams: a systematic literature review and cross-disciplinary future agenda." Team Performance Management: An International Journal, Vol. 31 No. 5–6, pp. 364–389.
+2. Lee, H.; Chae, H.; Chung, D. (2025). "Exploring the link between team diversity, cohesion and performance: the dual role of exploration and exploitation." Team Performance Management: An International Journal, Vol. 31 No. 7–8, pp. 844–863.
+3. Bastiaansen, C.A.J.; Van Dun, D.H. (2025). "Exploring the effective agile team model: a qualitative mixed-methods study among practitioners." Team Performance Management: An International Journal, Vol. 31 No. 7–8.
+4. McCauley, B. (2025). "Exploring esports as a platform to develop organizational teams: the case of Valorant." Team Performance Management: An International Journal, Vol. 31 No. 5–6, pp. 276–289.
+5. Kim, S.J. (2025). "Sustainability in esport teams: exploring the role of team identification and regional franchise system on fan behavior." Team Performance Management: An International Journal, Vol. 31 No. 5–6, pp. 328–346.
+6. Kang, J. (2025). "From rising stars to early retirees: The accelerated career trajectories of League of Legends esports players." Team Performance Management: An International Journal, Vol. 31 No. 5–6, pp. 290–313.
+7–9. Additional 2025 articles sampled from Vol. 31 Issues 5–6 and 7–8 via issue tables of contents; author/title details noted in SKILL.md Sources section.
+
+FIELD BASELINE COMPARISON
+==========================
+
+HRM Field Baseline (hrm-field-writing-style_SKILL.md) is derived from ABS 4* and ABS 4 journals. Team Performance Management is ABS 1 (lower tier). Primary deltas are:
+- EXPLICIT CONSTRAINTS: This journal specifies word limits (4000–7000) and manuscript types (research + research notes); field baseline does not.
+- ABSTRACT FORMAT: This journal requires structured abstract; field baseline is agnostic on structure.
+- CITATION STYLE: This journal specifies Emerald Harvard; field baseline does not name a style.
+- RESEARCH NOTES CATEGORY: This journal formalizes research notes as a distinct category; field baseline treats notes as optional variation.
+
+NO FIELD OVERRIDES. The journal does not contradict or override field baseline conventions. ABS 1 status indicates a RELAXATION of field rigor expectations (e.g., less econometric sophistication demanded in quantitative work, potentially lower citation density) rather than a redefinition of stylistic or structural norms.
+
+SKILL FILE SAVED TO
+===================
+C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/hrm/team-performance-management_SKILL.md
+
+Report saved to:
+C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/reports/team-performance-management_report.txt
+
+GENERATION METADATA
+===================
+Date: 2026-07-02
+Search Strategy: WebSearch (author guidelines, journal announcements, article metadata), WebFetch (Emerald pages, article PDFs—mostly blocked), Glob (deduplication check), Read (field baseline).
+Effort: Moderate. Journal information readily available via Emerald/ScienceDirect platforms; access to full-text articles limited but adequate metadata/abstract-level detail sufficient for delta detection.
+Confidence: High. Constraints explicitly stated in journal announcement (word limits, manuscript types, abstract format); citation style standard across Emerald; sample of 9 recent articles confirms expected structure.

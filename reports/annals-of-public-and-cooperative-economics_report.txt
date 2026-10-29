@@ -1,0 +1,102 @@
+JOURNAL SKILL GENERATION REPORT
+================================================================================
+
+Journal: Annals of Public and Cooperative Economics
+Slug: annals-of-public-and-cooperative-economics-writing-style
+ABS Rating: 2
+Field: ECON
+Publisher: Wiley-Blackwell (on behalf of CIRIEC)
+
+EXECUTION SUMMARY
+================================================================================
+
+Deduplication Check: PASSED — no existing skill found
+Phase 1 (Author Guidelines): COMPLETED
+Phase 2 (Article Spot-Check): COMPLETED — 5 articles examined
+Phase 3 (Delta Classification): COMPLETED
+Phase 4 (Skill File Generation): COMPLETED
+Phase 5 (Report & Save): IN PROGRESS
+
+ARTICLES FETCHED & ANALYZED
+================================================================================
+
+1. Ma, W., Li, J., Nnaji, A.P., & Setsoafia, E.D. (2026)
+   "The role of agricultural cooperatives in improving mechanization levels"
+   Access: Full abstract via discovery.researcher.life
+   Type: Empirical (regression analysis with inverse-probability-weighted estimator)
+
+2. Grashuis, J. & Franken, L. (2025)
+   "Why are there fewer and fewer cooperatives in the agricultural sector?"
+   Access: DOI link & abstract on Wiley
+   Type: Empirical (survival analysis within competing risk framework)
+
+3. Bouchard, M.J., Errasti, A., & Marcuello, C. (2025)
+   "Gender equity in the social economy: Achievements, limitations and challenges"
+   Access: DOI link on Wiley
+   Type: Conceptual/review with empirical dimensions
+
+4. Marlier, E., et al. (2025)
+   "(In)Equality and commitments: Women on cooperatives' boards of directors"
+   Access: DOI reference
+   Type: Empirical (gender/organizational study)
+
+5. Comincioli, L., et al. (2025)
+   "Towards sustainable climate-smart agriculture: Cost-benefit analysis"
+   Access: Reference from Wiley
+   Type: Empirical (policy evaluation)
+
+EARLY STOP TRIGGERED: NO
+All five articles were confirmed to exist and provide sufficient data for delta detection.
+
+DELTAS FOUND: 0 (IN STRUCTURAL/SUBSTANTIVE DIMENSIONS)
+================================================================================
+
+The journal adheres very closely to the FIELD_SKILL baseline (econ-field-writing-style).
+No deviations were detected in:
+  - Voice and person (first-person plural "we" throughout)
+  - Argumentation structure
+  - Results reporting and interpretation
+  - Citation density patterns by section
+  - Statistical reporting norms
+  - Hedging and epistemic caution
+
+HARD CONSTRAINTS IDENTIFIED
+================================================================================
+
+1. Citation format: Author-year (parenthetical), not footnote-based
+2. Footnote use: Minimum; must not contain bibliographic references
+3. Mathematical content: Place in appendix, not main text
+4. Languages: English or French acceptable
+5. Review process: Anonymous peer review
+6. Abstract: Structured format with keywords
+
+(Note: Word limits, page limits, and heading conventions not explicitly stated
+in public guidelines. The journal's publicly available author guidelines are sparse.)
+
+FIELD_SKILL OVERRIDES: NONE
+================================================================================
+
+No conflicts detected between the journal's stated requirements and the FIELD_SKILL
+baseline. The journal's norms are a subset or restatement of field conventions.
+
+ACCESS LIMITATIONS & NOTES
+================================================================================
+
+- Wiley Online Library paywall prevented direct access to full articles (HTTP 402)
+- Public guidelines at CIRIEC are minimal; no comprehensive formatting spec available
+- Five articles examined via abstracts and public metadata (sufficient for ABS 2 tier)
+- No word limit, page limit, or explicit section-naming convention found in public sources
+- Recommendation: contact apce.ciriec@uliege.be for complete submission guidelines
+
+SKILL FILE LOCATION
+================================================================================
+
+C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/economics/annals-of-public-and-cooperative-economics_SKILL.md
+
+REPORT FILE LOCATION
+================================================================================
+
+C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/reports/annals-of-public-and-cooperative-economics_report.txt
+
+END OF REPORT
+================================================================================

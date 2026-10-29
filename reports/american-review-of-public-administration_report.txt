@@ -1,0 +1,20 @@
+Journal: American Review of Public Administration
+Slug: american-review-of-public-administration
+ABS: 3
+Field: PUB SEC
+Publisher: SAGE
+
+Articles fetched: 15 (via Crossref API metadata: titles, authors, abstracts; no full text accessible — SAGE paywalled, direct SAGE pages returned 403)
+Early stop triggered: No — sampled Crossref's 20 most recent works for the journal (30 total pulled), used 15 with substantive abstracts (excluded a book review and a brief editorial with no abstract content from the delta-analysis count but noted them as a structural observation)
+
+Deltas found: 2 dimensions
+  1. Abstract format — ENFORCED: unstructured 150-250 word abstract (stated in guidelines, confirmed in all 15 sampled abstracts) — this is a RELAXATION of FIELD_SKILL's structured-abstract default, appropriate for an ABS 3 journal.
+  2. Methodological pluralism / short-form content — PRACTICE ONLY: sample shows experimental, survey, qualitative-interview, and legal/archival designs side by side, plus recurring editorials and book reviews as regular content types not addressed by FIELD_SKILL.
+
+FIELD_SKILL overrides: Abstract structure (unstructured, not structured) overrides FIELD_SKILL's default expectation of a structured abstract at the field level.
+
+Access-limitation notes:
+- journals.sagepub.com/author-instructions/arp and journals.sagepub.com/home/arp both returned HTTP 403 to direct WebFetch; guideline content was recovered via WebSearch's cached-page summarization instead.
+- The SAGE-hosted submission-guidelines PDF was fetched but was an image/binary PDF with no extractable text; guideline details (abstract word count, keyword count, APA style, anonymization, no publication fees) came from the WebSearch cache summary of the guidelines page, not independently cross-verified against the PDF.
+- No full-text articles were accessible (all SAGE full text is paywalled in this environment); all 15 spot-checked articles were assessed via title + abstract + author metadata from the Crossref API only. Structural claims (heading conventions, hypothesis numbering, table/figure conventions, discussion section norms) could not be directly verified from full text and are marked FIELD DEFAULT by absence of contrary evidence rather than positive confirmation.
+- 8,000-word manuscript limit is sourced from a secondary aggregator (not the guidelines page itself) and is flagged GUIDELINE ONLY / moderate confidence in the skill file.

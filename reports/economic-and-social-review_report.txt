@@ -1,0 +1,26 @@
+Journal: Economic and Social Review
+Slug: economic-and-social-review
+ABS: 1
+Field: ECON
+
+Articles fetched: 11 (abstracts/titles/front-matter recovered; full text mostly inaccessible - paywalled or non-extractable binary PDF)
+Early stop triggered: No
+
+Deltas found: 3 substantive dimensions
+  - Structural Deviations (RELAXATION): word/abstract limits well below ABS 4*/4 norm (4,000-9,000 words body; 100-word abstract cap)
+  - Voice and Register (PRACTICE ONLY): applied/descriptive/policy framing common in titles and abstracts, alongside standard causal-estimate framing
+  - Other Journal-Specific Patterns (PRACTICE ONLY, low-prevalence): occasional quoted-phrase subtitles drawn from qualitative fieldwork (1 of 11 articles)
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Word limits: 4,000-9,000 words main papers; 3,000 words notes/reviews
+  - Abstract: max 100 words
+  - Blind review: separate cover page, no author ID in main file
+  - Citation style: author-year, e.g. "Walsh (1981, p. 36)"
+  - Tables/figures placed in-text, not end-collected
+  - Underlining prohibited (use italics)
+
+Access-limitation notes:
+  - esr.ie/about and esr.ie/issue/archive returned 404 on direct WebFetch; content recovered via Google-cached search snippets and the OJS mirror at esr.ie/index.php/esr/...
+  - Full-text PDFs (e.g., Childcare in Ireland download) could not be parsed as text (binary PDF, no pdftoppm available in environment); relied on abstracts and metadata instead
+  - No access to Web of Science/Scopus; RePEc/IDEAS and WebSearch snippets served as primary secondary sources
+  - Sample composed of abstract/title-level evidence rather than full-text reads throughout; this is disclosed per the lower-tier good-faith sampling allowance

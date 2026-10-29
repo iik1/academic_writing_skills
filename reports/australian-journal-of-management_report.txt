@@ -1,0 +1,120 @@
+AUSTRALIAN JOURNAL OF MANAGEMENT - DELTA DETECTION REPORT
+========================================================
+
+Journal Name: Australian Journal of Management
+Slug: australian-journal-of-management
+ABS Rating: 2
+Field: ETHICS-CSR-MAN (and broader MGMT)
+Publisher: SAGE Publications
+
+RESEARCH COMPLETION SUMMARY
+===========================
+
+Articles Fetched / Spot-Checked: 8+ (Special issue Vol 50, Issue 3, 2025)
+  - Limited to abstract/metadata due to SAGE paywall
+  - Full text access blocked; authors/titles accessible from journal contents page
+  - Articles on compassion in management, ethics, organizational behavior sampled via titles and abstracts
+
+Early Stop Triggered: NO
+  - Sufficient public-facing guidelines accessible (SAGE author instructions page, UNSW institutional page, WebSearch consolidation)
+  - Paywall prevented full-text spot-check but did not prevent guideline extraction and delta analysis
+
+Author Guidelines Status: COMPLETE
+  - Found via SAGE Journals author instructions page
+  - Confirmed via WebSearch results and UNSW Business School resource page
+  - PDF guideline downloads blocked (binary encoding), but text summaries accessible through publisher pages
+
+HARD CONSTRAINTS IDENTIFIED
+============================
+
+1. Abstract Format & Length
+   - Unstructured (not IMRAD) prose, max 250 words
+   - Must cover purpose, findings, conclusions
+   - No citations
+
+2. Keywords
+   - 4-5 keywords minimum
+   - Listed after abstract
+   - For discoverability and reviewer matching
+
+3. Article Length
+   - Typical: ~8,000 words
+   - No stated maximum; longer articles accepted if justified
+   - Represents RELAXATION vs. field baseline (10,000-15,000 typical for ABS 4*/4)
+
+4. Citation Style
+   - SAGE Harvard (author-date format)
+   - (Author, Year) or Author (Year)
+   - Multiple citations: alphabetical or chronological order
+   - 3+ authors: et al. from first citation
+
+5. Ethical Approval Statement
+   - Required for human-subjects research
+   - Must include: full committee name, institution, approval number
+   - Typically in Methods section
+
+6. Explicit Prohibitions
+   - Preprint citations discouraged; update to published version
+   - Originality required; no simultaneous submissions elsewhere
+
+DELTAS FROM FIELD_SKILL
+=======================
+
+DELTA 1: Keywords Requirement
+  Classification: ENFORCED (stated in guidelines, confirmed in journal instructions)
+  Description: FIELD_SKILL does not mention keyword requirements. Australian Journal of Management requires 4-5 keywords minimum after abstract.
+  Evidence: Multiple guideline sources; keywords essential for SAGE search engine and peer reviewer matching.
+
+DELTA 2: Abstract Format (Unstructured, Not Structured)
+  Classification: ENFORCED (journal explicitly specifies unstructured)
+  Description: FIELD_SKILL notes "Structured or unstructured; both appear across outlets." This journal explicitly requires UNSTRUCTURED (prose format, not IMRAD-style sections). Max 250 words.
+  Evidence: WebSearch results and guideline summaries consistently specify unstructured format.
+
+DELTA 3: Article Length (Shorter Guideline)
+  Classification: RELAXATION (typical 8,000 vs. field baseline 10,000-15,000)
+  Description: FIELD_SKILL cites "10,000–15,000 words" for typical empirical papers in top management outlets. Australian Journal of Management targets ~8,000 words standard. This is consistent with ABS 2 tier (lower-ranking journal), not a content change but a permissible length reduction.
+  Evidence: Multiple sources (SAGE, UNSW, WebSearch) confirm "around 8,000 words" as typical.
+
+NO OVERRIDES OF FIELD_SKILL IN OTHER DIMENSIONS
+================================================
+- Voice/person, hedging, citation density, argumentation, methods reporting, discussion/conclusion: all follow FIELD_SKILL defaults
+- No deviations in structural patterns, theoretical approach, or epistemic stance
+- No explicit language prohibitions beyond preprint discouragement (standard SAGE policy)
+
+FIELD_SKILL OVERRIDE SUMMARY
+============================
+NONE. Hard constraints (abstract, keywords, length, citation style, ethics statement) are either:
+  1. Not covered by FIELD_SKILL (keywords) → added as journal-specific requirement
+  2. Aligned with FIELD_SKILL flexibilities (abstract unstructured option stated in baseline)
+  3. Relaxations consistent with journal tier (shorter article length typical for ABS 2)
+
+ACCESS LIMITATIONS & NOTES
+==========================
+1. SAGE Paywall
+   - Journal homepage accessible but content restricted
+   - Author guidelines page navigation accessible; full PDF blocked by Cloudflare
+   - Article full-text access requires subscription
+
+2. Spot-Check Sample Size
+   - Target: 10-15 articles across issues/years
+   - Achieved: 8+ article titles/abstracts from Vol 50, Issue 3 (2025 special issue on compassion)
+   - Limitation: Could not read full text to verify section naming, methodology reporting, results presentation
+   - Mitigation: Guidelines-based analysis sufficient; no contradictions observed between stated requirements and accessible metadata
+
+3. Public-Facing Sources Used
+   - SAGE Journals author instructions aggregated summaries
+   - UNSW Business School (institutional host) information page
+   - WebSearch consolidation from guideline descriptions
+   - IDEAS/RePEc entry (publication metadata)
+   - Journal homepage and issue contents (navigation only)
+
+CONFIDENCE LEVEL
+================
+HIGH for hard constraints (abstract, keywords, length, citation style, ethics) — these appear consistently across multiple public sources.
+MODERATE for granular style details (heading formatting, table/figure rules) — not specified in available guidelines; deferred to FIELD_SKILL.
+
+CONCLUSION
+==========
+Australian Journal of Management follows standard management field conventions (mgmt-field-writing-style) with minimal journal-specific deviations. Primary additions are keyword requirement and explicit unstructured abstract format. Shorter typical article length (8,000 vs. 10,000-15,000) is consistent with ABS 2 ranking and does not represent a change in standards, merely expected scope.
+
+Skill file written with high confidence. No field overrides required.

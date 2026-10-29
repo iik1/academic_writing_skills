@@ -1,0 +1,31 @@
+Journal: Japanese Political Economy
+Slug: japanese-political-economy
+ABS: 1
+Field: ECON
+Publisher: Taylor & Francis
+
+Articles fetched: 0 full-text; 6 titles/short descriptions via RePEc/IDEAS catalog listing
+Early stop triggered: No (ran full good-faith access chain; stopped after exhausting available sources, not prematurely)
+
+Deltas found: 1 low-confidence delta
+  - "Other Journal-Specific Patterns": journal scope emphasizes multi-perspective/cross-methodological
+    scholarship rather than a single dominant method; labeled RELAXATION, scope-level only, not a
+    confirmed prose-style delta.
+  - Additional note (GUIDELINE ONLY): journal explicitly welcomes research notes from young scholars,
+    a manuscript category not typical of ABS 4/4* ECON journals.
+
+FIELD_SKILL overrides: none confirmed (no hard constraints on structure, length, abstract format,
+citations, headings, or tables/figures could be verified from accessible sources).
+
+Access-limitation notes:
+- tandfonline.com (publisher site) returned HTTP 403 Forbidden for all WebFetch attempts, including
+  the author-guidelines/instructions-for-authors page and article PDF/full-text pages.
+- No open-access mirror, working-paper version, SSRN, or ResearchGate copy of any article in this
+  journal was located.
+- RePEc/IDEAS (https://ideas.repec.org/s/mes/jpneco.html) was the only source that returned usable
+  content directly: article titles, authors, years, and one-line descriptions for 6 articles spanning
+  2024-2026 issues. No full abstracts, no full text.
+- Given the thin access chain, this skill is intentionally short and conservative: nearly all
+  dimensions are marked "not assessable" or "Follows FIELD_SKILL norm" rather than asserting
+  unverified claims. This is consistent with instructions to produce a short, honest skill for a
+  low-tier/niche journal with thin public information rather than fabricate detail.

@@ -1,0 +1,23 @@
+Journal: Journal of Comparative Economics
+Slug: journal-of-comparative-economics
+ABS: 3
+Field: ECON
+Publisher: Elsevier
+
+Articles fetched: 9 (abstract/front-matter level via IDEAS/RePEc)
+Early stop triggered: Yes — delta set stabilized after 9 articles; all consistent with FIELD_SKILL norms with no new deltas emerging, so continued sampling toward 15 was not expected to add information.
+
+Deltas found: 2 dimensions (both Hard Constraints, not FIELD_SKILL voice/structure deltas)
+  1. Mandatory Highlights file (3-5 bullet points, max 85 characters each) — Elsevier submission requirement not covered by FIELD_SKILL. ENFORCED (stated in guidelines; standard Elsevier practice).
+  2. Reference list placement: after appendices but before tables/figure legends, alphabetical, double-spaced — specific ordering not addressed by FIELD_SKILL. ENFORCED (stated in guidelines).
+  Additional minor prohibition: journal titles must not be abbreviated in references. ENFORCED (stated in guidelines).
+
+No deltas found in: voice/register, sentence/paragraph style, introduction/argumentation structure, methods conventions, results reporting, discussion/conclusion norms, citation format, hedging. All sampled abstracts (mix of empirical and theoretical papers) matched FIELD_SKILL defaults for first-person voice, quantitative result reporting, and section architecture expectations.
+
+FIELD_SKILL overrides: none (this is an ABS 3 journal; per ABS tier rules it may relax but not redefine FIELD_SKILL, and no relaxations were observed).
+
+Access-limitation notes:
+- ScienceDirect guide-for-authors page and article full-text pages returned HTTP 403 on direct WebFetch (no institutional EZProxy access in this environment).
+- Guideline content was triangulated via WebSearch result snippets referencing the ScienceDirect/Elsevier guide-for-authors page, plus the general Elsevier "Highlights" author-tools page (which is a standard cross-journal Elsevier requirement, confirmed applicable to this journal via search snippet).
+- Article-level evidence limited to abstracts, titles, authors, keywords, and JEL codes as surfaced by IDEAS/RePEc; no full-text access was available, so citation density and prose-level style could not be directly verified beyond what field baseline predicts. This was judged sufficient per task instructions (front-matter suffices for structural/voice delta-spotting).
+- Precise abstract word limit and any manuscript page/word limit were not found in accessible guideline snippets; noted as "not found" rather than assumed.

@@ -1,0 +1,30 @@
+Journal: Journal of Human Capital
+Slug: journal-of-human-capital
+ABS: 3
+Field: ECON
+Publisher: University of Chicago Press
+
+Articles fetched: 10 (titles/authors identified via IDEAS/RePEc and UChicago TOC); full abstracts
+recovered via search-engine snippets for 8 of the 10 (Stinebrickner et al.; Lekfuangfu & Lordan;
+Hamilton, Hincapié & Salari; Kuuppelomäki et al.; Brunello et al.; Asuyama; partial/title-only for
+Claes et al. and Alderighi et al.). Sampled across Vol 19 (2025) and Vol 20 (2026) issues.
+
+Early stop triggered: No — stopped near the 10-15 target because deltas stabilized quickly (this
+is a mainstream ABS 3 empirical labor/human-capital econ journal with no unusual house style) and
+the direct instructions-for-authors page returned HTTP 403, limiting further primary-source
+extraction beyond what search-engine snippets could reconstruct.
+
+Deltas found: 1 material delta (abstract word limit = 100 words, tighter than field norm) plus
+1 administrative/file-format constraint (figures must be TIFF/EPS, not GIF/JPEG) and 1 non-style
+administrative note (single-blind peer review). No deltas found in voice, register, statistical
+reporting, citation density, structure, or hedging — all sampled abstracts and structures align
+with econ-field-writing-style baseline.
+
+FIELD_SKILL overrides: Abstract length cap (100 words) - journal-specific hard constraint not
+covered by FIELD_SKILL. All other dimensions: FIELD DEFAULT, no override.
+
+Access-limitation notes: journals.uchicago.edu/journals/jhc/instruct returned HTTP 403 on direct
+WebFetch; guideline content was reconstructed from Google-cached search snippets of that same
+page. ScienceDirect issue listing redirected to an Elsevier SSO login wall and was not accessible.
+Full-text article bodies were not accessible anywhere in the access chain; all spot-checks are
+based on titles and (where available) abstracts only, consistent with task instructions.

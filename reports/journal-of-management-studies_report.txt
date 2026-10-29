@@ -1,0 +1,17 @@
+Journal: Journal of Management Studies
+Slug: journal-of-management-studies
+ABS: 4
+Field: ETHICS-CSR-MAN (mgmt-field-writing-style baseline)
+
+Articles fetched: 8 with abstract-level detail (via WebSearch snippets, Wiley full text blocked with HTTP 402 throughout); ~7 additional titles scanned via RePEc listing for topical/structural confirmation (total ~15 items reviewed).
+
+Early stop triggered: No — access chain (guidelines page + WebSearch snippets + RePEc listing) was exhausted; Wiley Online Library returned HTTP 402 Payment Required on every direct article URL attempted, so front-matter/abstract-level review was the practical ceiling.
+
+Deltas found: 3 dimensions
+  1. Structural Deviations - JMS supports two non-standard, editorially curated article types beyond FIELD_SKILL's four templates: Point-CounterPoint (structured debate, editorial review only, ~9,000-12,000 words Point / ~7,000 words CounterPoint) and JMS Says (personal/reflective essay, no theory-building expected, max ~4-5 references, editorial review only). ENFORCED.
+  2. Other Journal-Specific Patterns - Explicit, strongly worded double-blind anonymity enforcement (no self-identifying language/self-citation) and an explicit AI-use transparency disclosure requirement. ENFORCED (per guidelines).
+  3. Hard constraints tightening FIELD_SKILL: abstract capped at 200 words (vs FIELD_SKILL's 150-250 range), 4-6 alphabetized keywords required, endnotes only (no footnotes), tables/figures on separate end pages with Roman/Arabic numeral conventions, 10,000-13,000 word standard article limit.
+
+FIELD_SKILL overrides: abstract word limit (200 max), footnote prohibition (endnotes only), tables/figures placement (separate pages, not inline).
+
+Access-limitation notes: Wiley Online Library (onlinelibrary.wiley.com) returned HTTP 402 Payment Required for every article page attempted, including the official "For Authors" mirror page. All article-level evidence came from WebSearch-extracted abstract snippets, RePEc article listings, and third-party summaries (ResearchGate, CoLab, university press pages), not full text. The primary guidelines page at journalofmanagementstudies.ac.uk was fully accessible and used as the authoritative source for Hard Constraints. No full-text statistical reporting or citation-density spot-checks were possible; those dimensions are marked FIELD DEFAULT based on abstract-level consistency only, with lower confidence than a full-text review would provide.

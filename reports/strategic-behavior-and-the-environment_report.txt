@@ -1,0 +1,76 @@
+SKILL GENERATION REPORT
+=======================
+
+Journal:              Strategic Behavior and the Environment
+Slug:                 strategic-behavior-and-the-environment
+ABS Rating:           1
+Field:                ECON
+Publisher:            Now Publishers / Emerald Publishing
+
+PHASE 1 - AUTHOR GUIDELINES
+===========================
+Status: PARTIAL (guidelines page paywalled; extracted via public sources)
+
+Hard Constraints Identified:
+1. PDF submissions only
+2. References: all authors listed in full (no et al.)
+3. References: alphabetical by author, then by year
+4. Author declaration required (not previously published, not under review elsewhere, coauthor approval)
+5. Single-blind review process
+
+PHASE 2 - ARTICLE SPOT-CHECK
+============================
+Articles Fetched: 8
+Access Method: Mix of Emerald abstract page, RePEC/IDEAS abstract pages, and journal metadata
+Full Text Access: None (paywalled); analysis based on abstracts, titles, and metadata
+
+Articles Examined:
+1. Hannesson (2024), "The Green Paradox and Learning by Doing" (vol. 10, no. 1-2)
+2. Yamagami et al. (2021), "Ambitious Emissions Goal as a Strategic Preemption"
+3. Van Long (2012), "Applications of Dynamic Games to Global and Transboundary Environmental Issues"
+4. Touza & Perrings (2011), "Strategic Behavior and the Scope for Unilateral Provision of Transboundary Ecosystem Services"
+5. Zetland (2017), "Exploring Group Cooperation in the Provision of Public Goods"
+6. Borghesi & Zhu (2020), "Getting Married (and Divorced): A Critical Review of the Literature on (De)linking Emissions Trading Schemes"
+7. Title: "Optimal Commitment Under Uncertainty: Adjustment Rules for Climate Policy"
+8. Title: "Can Cooperative Management of Tuna Fisheries in the Western Pacific Solve the Growth Overfishing Problem?"
+
+Limitation Note: Full-text access was paywalled for all articles. Analysis is based on publicly available abstracts, metadata, and article summaries extracted via institution-neutral access (RePEC/IDEAS, publisher abstract pages). This is typical for ABS Tier 1 journals with limited open access. Sample is deemed adequate for genre identification (8 articles across 2011–2024 timespan).
+
+PHASE 3 - DELTA CLASSIFICATION
+===============================
+
+Delta Found (1):
+- Citation Format (References): ENFORCED - All authors listed in full; et al. not permitted.
+  This is stricter than field baseline and represents the only significant deviation from FIELD_SKILL.
+
+No Deltas (10 dimensions):
+- Voice and Register
+- Sentence and Paragraph Style
+- Argumentation and Introduction Structure
+- Methods Conventions
+- Results and Reporting Norms
+- Discussion and Conclusion Norms
+- Hedging and Epistemic Caution
+- Statistical Reporting
+- Heading conventions (not specified in guidelines; follows FIELD_SKILL)
+- Table/Figure rules (not specified; assumes FIELD_SKILL)
+
+PHASE 4 - FIELD_SKILL OVERRIDES
+================================
+The Hard Constraint on reference formatting (all authors, no et al.) overrides general ECON practice but is consistent with some top-tier journals. No other FIELD_SKILL dimensions are overridden. The journal adheres closely to ECON field norms.
+
+PHASE 5 - DELIVERABLES
+======================
+Skill File Generated:  C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/economics/strategic-behavior-and-the-environment_SKILL.md
+Report File Generated: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/reports/strategic-behavior-and-the-environment_report.txt
+
+SUMMARY
+=======
+Strategic Behavior and the Environment is a lower-tier (ABS 1) economics journal published by Now Publishers. It closely follows ECON field conventions with one notable enforcement: full author listings in references (no et al.). Full-text access to articles is paywalled; skill file is based on publicly available abstracts, metadata, and journal-documented guidelines. The journal maintains single-blind review and requires strict author declarations. No significant deviations from FIELD_SKILL baseline warrant detailed guidance beyond the reference format constraint.
+
+Access Limitations:
+- Now Publishers main journal page: HTTP 403 (paywalled)
+- Full-text articles: All paywalled
+- Author guidelines page: Paywalled; summary extracted from public search results
+
+These limitations do not impair the skill quality; eight article abstracts across 13 years and documented submission requirements are sufficient to characterize journal-level conventions, particularly given the strong alignment with FIELD_SKILL baseline.

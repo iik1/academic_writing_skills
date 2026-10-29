@@ -1,0 +1,51 @@
+DELTA DETECTION REPORT
+International Journal of Economic Theory
+
+JOURNAL
+  Name: International Journal of Economic Theory
+  Publisher: Wiley-Blackwell
+  ISSN: 1742-7363
+  Editors: Kazuo Nishimura, Makoto Yano
+  ABS Rating: 2
+  Field: Economics (ECON)
+
+SLUG
+  international-journal-of-economic-theory
+
+ARTICLES FETCHED
+  Sample size: 12 articles
+  Issues covered: Volume 21 Issues 3-4 (Dec 2025), Volume 22 Issues 1-2 (Mar-Jun 2026)
+  Access method: Open-access abstract repositories (IDEAS/RePEc, Wiley abstract pages, NBER, MPRA preprints)
+  Early stop triggered: No
+
+DELTAS FOUND
+  Total delta dimensions: 4
+  - Accessibility and Scope (RELAXATION)
+  - Theory-Specific Emphasis (PRACTICE)
+  - Mathematical Exposition (PRACTICE)
+  - Structural Diversity (PRACTICE)
+
+  All other dimensions (voice, register, sentence style, argumentation, methods conventions, results reporting, citation practices, hedging): FIELD DEFAULT
+
+FIELD_SKILL OVERRIDES
+  Hard constraint overrides: 3
+  1. Manuscript structure ordering (strict order: title page, abstract/keywords, text, references, appendices, figure legends)
+  2. Title formatting (no abbreviations)
+  3. Language (mandatory US spelling per Merriam-Webster; mandatory abbreviation introduction protocol)
+
+  All other FIELD_SKILL norms apply unchanged.
+
+ACCESS LIMITATIONS & NOTES
+  - Full author guidelines PDF (2020 Instructions) inaccessible (HTTP 402 at Wiley)
+  - Wiley author guidelines page inaccessible (HTTP 402)
+  - Abstract word limit not explicitly stated in accessible sources; inferred 250 words from peer Wiley economics journals
+  - Keyword count not stated; inferred 5-6 from Wiley conventions
+  - Citation format not explicitly stated in accessible guidelines; assumed FIELD_SKILL applies (author-date)
+  - Full-text access to recent articles paywalled; spot-check relied on abstracts and preprint summaries
+  - Assessment based on 12 open-access article summaries across two recent volumes; no barriers to scope/structure assessment
+
+SKILL COMPLETENESS
+  Coverage level: Moderate - guidelines skeleton (hard constraints) extracted; field deltas identified via article review; incomplete detail on word limits and exact formatting specs due to paywall
+  Confidence: High for scope/structure/emphasis; Medium for formatting minutiae
+  File saved: Yes
+  Report saved: Yes

@@ -1,0 +1,43 @@
+Journal: Milbank Quarterly
+Slug: milbank-quarterly
+ABS: 3
+Field: PUB SEC
+
+Articles fetched: 7 read in detail (abstracts, Policy Points, section headings,
+intro tone); ~15 additional articles/titles scanned via issue-summary pages
+(March 2023-February 2026 issues) to confirm structural consistency.
+
+Early stop triggered: No — deltas kept emerging modestly through the sample,
+but converged clearly around the mandatory Policy Points box, the fixed
+four-part structured abstract, and AMA numbered citation style. Full text was
+paywalled for all sampled articles; relied on PMC open-access front matter,
+publisher abstract pages, and search-engine abstract snippets.
+
+Deltas found: 4 dimensions
+  1. Structural deviations — mandatory Policy Points box (2-3 bullets, <100
+     words) ahead of abstract (ENFORCED)
+  2. Structural deviations — fixed four-heading structured abstract
+     (Context/Methods/Findings/Conclusions), stricter than FIELD_SKILL's
+     generic structured-abstract description (ENFORCED)
+  3. Citation density — numbered/Vancouver AMA-style citations instead of
+     field-default author-date (ENFORCED)
+  4. Other journal-specific patterns — explicit prohibition on footnotes/
+     endnotes; body content must be integrated into text (ENFORCED)
+  Minor/low-confidence: lighter hedging in introductions of centennial/
+  editorial pieces sampled (PRACTICE ONLY, may not generalize to standard
+  empirical Original Scholarship); topical (non-generic) section headings
+  (PRACTICE ONLY).
+
+FIELD_SKILL overrides: citation style (numbered/AMA vs. author-date),
+abstract structure (fixed 4-heading template vs. generic structured
+abstract), mandatory Policy Points box, no-footnotes rule.
+
+Access-limitation notes: No EZProxy access; all full-text Milbank Quarterly
+articles behind Wiley paywall (HTTP 402 on direct DOI fetch attempted).
+Relied on PMC open-access mirrors (available for many 2023 centennial-issue
+articles), Milbank Memorial Fund's own author-facing article pages, and
+WebSearch-extracted abstract snippets from PubMed/Wiley listings. No
+full-text Original Scholarship article (as opposed to Perspective/editorial)
+was read beyond its abstract and Policy Points, so results/discussion-section
+prose conventions were not directly verified and were left as FIELD DEFAULT
+by default rather than confirmed.

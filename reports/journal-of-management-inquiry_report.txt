@@ -1,0 +1,17 @@
+Journal: Journal of Management Inquiry
+Slug: journal-of-management-inquiry
+ABS: 3
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 6-7 distinct articles/abstracts spot-checked (1 full-text essay via author's personal site; 5-6 abstracts/metadata via search-engine snippets across Essay, Empirical, and Provocations and Provocateurs sections, spanning 2023-2025 issues). Direct SAGE article-page fetches were consistently blocked (WebFetch returned only navigation chrome, not article content), so evidence relies on the official guidelines PDF, one open PDF hosted by an author, and search-engine-extracted abstract/metadata snippets.
+
+Early stop triggered: No — access chain was exhausted via available tools (WebSearch/WebFetch) after deltas stabilized; SAGE journal pages are not fetchable in this environment.
+
+Deltas found: 3 dimensions
+1. Voice and Register — Essay-genre pieces use a markedly personal, reflective first-person register beyond FIELD_SKILL norm (PRACTICE ONLY, genre-specific).
+2. Structural Deviations — Non-empirical sections (Essay, Provocations and Provocateurs, Generative Curiosity) skip Methods/Results and formal hypothesis/proposition labeling entirely; Provocations and Provocateurs has a hard 6-page/6-reference limit and is invitation-only (ENFORCED, stated in guidelines and confirmed in sampled articles).
+3. Other Journal-Specific Patterns — Essay-genre pieces use discursive endnotes carrying substantive argument, more extensive than FIELD_SKILL's definitional-aside footnoting norm (PRACTICE ONLY).
+
+FIELD_SKILL overrides: none for the Empirical section (follows FIELD_SKILL fully). For non-empirical sections, the journal relaxes/omits the hypothesis-vs-proposition convention and the standard IMRaD-like template, and imposes a novel short-form (6-6) constraint not present in FIELD_SKILL at all.
+
+Access-limitation notes: SAGE's journals.sagepub.com article pages return only site navigation/menu chrome to WebFetch (no article body), so abstracts and structural details were sourced from WebSearch snippets, one author-hosted PDF, and the official guidelines PDF (which itself required PDF binary extraction via the Read tool since WebFetch could not parse it directly). No full-text access to any Empirical-section article was obtained; the Empirical-section "no delta" conclusion rests on one detailed abstract (Johansen et al.) rather than full text.

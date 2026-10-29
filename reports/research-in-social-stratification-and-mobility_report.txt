@@ -1,0 +1,20 @@
+Journal: Research in Social Stratification and Mobility
+Slug: research-in-social-stratification-and-mobility
+ABS: 3
+Field: SOC SCI
+
+Articles fetched: 9 (title/abstract or full-text level, drawn from 2022-2025 issues; no strict 15-article target reached because ScienceDirect blocked direct fetches with HTTP 403 throughout the session and full text was only recoverable for 1 article via PMC/PMC mirror)
+Early stop triggered: yes - convergence reached after ~9 spot-checks; deltas stabilized (only publisher-level Highlights requirement and generative-AI disclosure policy emerged as journal-specific; all content/style dimensions matched FIELD_SKILL)
+
+Deltas found: 2
+  - Highlights requirement (3-5 bullets, <=85 characters each, separate file) - ENFORCED, publisher-level (Elsevier), not covered by FIELD_SKILL
+  - Explicit generative AI disclosure requirement for authors; reviewers/editors barred from using generative AI in peer review - ENFORCED
+
+FIELD_SKILL overrides: none (no conflicts found; journal aligns with SOC SCI field baseline on structure, voice, hedging, citation density, and statistical reporting norms)
+
+Access-limitation notes:
+- www.sciencedirect.com and www.elsevier.com guide-for-authors pages returned HTTP 403 on direct WebFetch; guideline content was reconstructed from WebSearch result snippets instead.
+- No RePEc/IDEAS indexing found for this journal (sociology journal, not economics-indexed).
+- Only one article was accessible at full-text depth (PMC mirror of "Family, community, and the rural social mobility advantage"); remaining 8 were abstract/title-level only via WebSearch snippets.
+- A Frontiers-hosted "Research Topic" editorial (PMC12604990) discussing longitudinal stratification research was consulted for general tone confirmation only; it is NOT an RSSM-published item and was not used as a structural/style source.
+- No explicit numeric word/page limit for main text or abstract was found in accessible guideline snippets.

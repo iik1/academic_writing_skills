@@ -1,0 +1,19 @@
+Journal: African Finance Journal
+Slug: african-finance-journal
+ABS: 1
+Field: FINANCE
+
+Articles fetched: 9 (abstracts/front-matter, spanning 2003-2026, v5-v28), plus full RePEc listing of ~150 article titles (2003-2026) reviewed for topical/scope patterns.
+Early stop triggered: No (good-faith sample of 9 direct abstract fetches is within the acceptable range for an ABS 1 journal; full text was not accessible at all via public channels, so front-matter was the maximum obtainable depth).
+
+Deltas found: 2 substantive, both PRACTICE ONLY / RELAXATION, plus one scope note.
+  1. Statistical Reporting - RELAXATION: abstract-level quantitative precision (exact coefficients/metrics) is common but not consistently enforced, unlike the near-universal expectation implied by FIELD_SKILL at ABS 4*/4 level.
+  2. Other Journal-Specific Patterns (scope) - PRACTICE ONLY: near-universal explicit African country/regional framing across sampled articles; topical scope is Africa-specific by mandate.
+  3. Other Journal-Specific Patterns (methods) - PRACTICE ONLY: applied/computational methods (PLS-SEM, GMM, ML/neural nets, PSO) are prominent alongside standard panel econometrics.
+
+FIELD_SKILL overrides: none identified (no HARD_CONSTRAINTS found that contradict FIELD_SKILL; guidelines page did not yield structure/length/citation specifics — the detailed "Instructions to Authors" PDF was not retrievable).
+
+Access-limitation notes:
+- Full text of all articles is paywalled (journals.co.za returned 403 Forbidden on direct fetch); assessment relies entirely on abstracts, keywords, and JEL codes via IDEAS/RePEc and the publisher's abstract catalog page.
+- The journal's detailed "Instructions to Authors" PDF (referenced from https://www.africagrowth.com/afj.htm) could not be located/fetched via WebSearch or WebFetch in this session; structure, length, citation style, and heading conventions are therefore recorded as "not independently verifiable" rather than fabricated.
+- Journal identity note: initial searches surfaced several similarly-named but distinct African finance journals (African Review of Economics and Finance, African Development Finance Journal, African Accounting and Finance Journal). Confirmed the correct target via Wikipedia and RePEc: African Finance Journal, published by Africagrowth Institute with UCT and the African Finance Association, ISSN indexed as afj/journl in RePEc.

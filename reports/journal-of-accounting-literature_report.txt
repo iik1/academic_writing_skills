@@ -1,0 +1,42 @@
+Journal: Journal of Accounting Literature
+Slug: journal-of-accounting-literature
+ABS: 3
+Field: ACCOUNT
+Articles fetched: 8 (Bhattacharya & Gupta 2025; Zhong et al. 2025; Muttakin & Khan 2025;
+  Bisogno, Abate & Citro 2025; Hussinki et al. 2025; Olbert 2025; Barani et al. 2025;
+  Neurodiversity SLR 2025) — sampled across Vol. 47 Issues 1 and 5, covering archival/DiD,
+  meta-analysis, structured literature review, and systematic literature review formats.
+Early stop triggered: No — delta set stabilized after ~8 articles; structured-abstract
+  finding was confirmed identically across every methodology type sampled, and no new
+  deltas emerged in later articles.
+
+Deltas found: 2 major dimensions
+  1. Abstract Format (ENFORCED) — Emerald mandatory structured abstract with sub-headings
+     (Purpose, Design/methodology/approach, Findings, Originality/value, plus conditional
+     Research limitations/Practical implications/Social implications). Confirmed universally,
+     including for a quantitative archival difference-in-differences paper, contradicting
+     FIELD_SKILL's unstructured single-paragraph abstract default.
+  2. Structural Deviations (ENFORCED / journal-defining) — JAL's article population is
+     dominated by structured/systematic literature reviews, bibliometric analyses, and
+     meta-analyses far more than the FIELD_SKILL baseline (drawn from ABS 4*/4 empirical-
+     dominant journals). Review articles follow a review-specific shape (search methodology,
+     thematic findings, future research agenda) rather than hypothesis-driven IMRaD.
+
+FIELD_SKILL overrides: Abstract format (structured vs. unstructured) is the primary override.
+  All other dimensions (voice, hedging, citation style/density, methods conventions, results
+  reporting for empirical papers) follow FIELD_SKILL defaults with no observed deviation.
+
+Access-limitation notes:
+  - The journal's dedicated author-guidelines page (emerald.com/jal author-guidelines and
+    emeraldgrouppublishing.com/journal/jal) returned 404/403 and could not be fetched directly.
+  - Findings on abstract structure, referencing style, and AI-use/ethics policy were
+    corroborated via (a) Emerald's general/cross-journal author-guidelines and policy pages,
+    which are stated to apply uniformly across Emerald journals, and (b) consistent, repeated
+    confirmation at the article level across 8 sampled JAL papers spanning different methods
+    and issues.
+  - Full text of sampled articles was paywalled; abstracts, keywords, and article-classification
+    metadata (via Emerald abstract pages and WebSearch snippets) were sufficient to establish
+    the abstract-structure and article-type deltas with high confidence.
+  - Word/page limits and heading-numbering conventions specific to JAL could not be confirmed
+    due to the inaccessible guidelines page; noted as unconfirmed in the skill file rather
+    than fabricated.

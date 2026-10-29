@@ -1,0 +1,100 @@
+DELTA DETECTION REPORT: Applied Economic Perspectives and Policy
+
+Journal: Applied Economic Perspectives and Policy
+Slug: applied-economic-perspectives-and-policy
+ABS Rating: 2
+Field: ECON
+Publisher: Wiley-Blackwell (American Agricultural and Applied Economics Association)
+
+PHASE 1 - AUTHOR GUIDELINES
+============================
+
+Status: BLOCKED (Paywall)
+Access Outcome: Publisher guidelines are located at https://onlinelibrary.wiley.com/page/journal/20405804/homepage/author-guidelines but are behind Wiley's HTTP 402 paywall and require institutional subscription or AAEA membership.
+
+Attempted Access Routes:
+1. Direct Wiley author guidelines page - HTTP 402 (paywalled)
+2. Wiley journal main page - HTTP 402 (paywalled)
+3. AAEA official journal page - Accessible (confirms guidelines exist but directs to paywalled Wiley link)
+4. Google Scholar cached versions - No publicly cached guidelines located
+5. ResearchGate / SSRN repositories - HTTP 403 (blocked)
+6. University repositories (ageconsearch.umn.edu) - HTTP 403 (blocked)
+
+Outcome: Official HARD_CONSTRAINTS could not be extracted. AEPP does maintain formal author guidelines per AAEA website, but these are not publicly accessible.
+
+PHASE 2 - ARTICLE SPOT-CHECK
+=============================
+
+Target: 10-15 recent articles (2024-2025)
+Achieved: 0 full-text articles reviewed (all behind paywall)
+Abstract/Metadata Reviewed: Yes, 5+ article titles and abstracts from Google Scholar
+
+Articles Identified (Titles Only):
+1. "The future of agricultural and applied economics departments" (Dorfman, Irwin, Gopinath et al., 2024)
+2. "Have agricultural and applied economists lost sight of the land-grant mission?" (Wilson, Hochhaus, 2024)
+3. "Factors affecting recent food price inflation in the United States" (2024)
+4. "Food Economics: Teaching for the future of agriculture, nutrition, and health" (2025)
+5. "Row Crops and the US Agricultural Trade Deficit: Recent Trends and Policy Issues" (2025)
+6. "African Americans and federal land policy: Exploring the Homestead Acts" (2024)
+7. "Political Returns to Ad Hoc Farm Payments" (Janzen, Malone, Schaefer, Scheitrum, 2023)
+8. "Perspectives on stakeholder participation in the design of economic experiments for agricultural policymaking" (2024)
+
+Access Status for All: Wiley Online Library DOI links returned HTTP 402 Payment Required.
+
+Early Stop Triggered: YES
+Reason: After exhausting 8+ distinct access routes and finding all full-text and detailed abstract pages behind paywall, continuing attempts became unproductive. The journal's publisher (Wiley) does not permit public access to full-text content or detailed methodology sections needed to spot-check style deltas.
+
+PHASE 3 - DELTA CLASSIFICATION
+===============================
+
+Deltas Detected: 0
+
+Reason: Without access to representative full-text articles, the following style dimensions could not be verified:
+- Actual section structure used in published articles
+- Voice and register (first-person plural usage, passive voice prevalence)
+- Citation density and format in practice
+- Statistical reporting conventions in results sections
+- Hedging and epistemic caution in claims
+- Prose density and sentence length
+- Any journal-specific deviations from ECON field baseline
+
+Classification Rule Applied: Per instructions, practice observed in only 1 of many articles is labeled PRACTICE ONLY, not a norm. With zero articles fully reviewed, no deltas can be classified as ENFORCED, GUIDELINE ONLY, or PRACTICE ONLY. All dimensions default to FIELD DEFAULT (no detectable deviation).
+
+PHASE 4 - FIELD_SKILL OVERRIDES
+================================
+
+None confirmed. The journal's ABS 2 tier is lower than the ABS 4*/4 baseline used for FIELD_SKILL derivation. Lower-tier journals typically relax page/word limits and may have different impact expectations, but do not redefine prose conventions or section architecture. In the absence of explicit guidelines or verified practice, AEPP is assumed to follow ECON field baseline.
+
+PHASE 5 - SKILL OUTPUT
+======================
+
+File Saved: YES
+Path: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/economics/applied-economic-perspectives-and-policy_SKILL.md
+
+Skill Content:
+- Name: applied-economic-perspectives-and-policy-writing-style
+- Structure: Follows template with Hard Constraints, Observed Deltas, Dimensions With No Delta, Common Pitfalls, and Sources sections
+- Hard Constraints section: Explains access limitations and directs authors to official resources
+- Observed Deltas: "No deltas confirmed" (honest reporting of access block)
+- All style dimensions: Labeled FIELD DEFAULT with note that field baseline should be applied
+- Common Pitfalls: Unable to identify (access limited)
+
+Report Output:
+Path: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/reports/applied-economic-perspectives-and-policy_report.txt (this file)
+
+SUMMARY
+=======
+
+Journal: Applied Economic Perspectives and Policy (ABS 2, ECON)
+Skill Created: YES
+Deltas Found: 0
+Field Overrides: None
+Recommended Practice: Authors submitting to AEPP should follow ECON field baseline until official guidelines are verified via institutional access or direct contact with AAEA/journal editors.
+
+Access Limitations:
+- Publisher (Wiley) does not permit public access to author guidelines or full-text articles
+- Journal maintains formal submission requirements that exist but are paywalled
+- No open-access or preprint ecosystem observed for AEPP articles
+- Prospective authors must contact journal directly or access via institutional subscription
+
+Honesty Assessment: This is a short but honest skill. The journal exists, is well-established (ABS 2), and has formal guidelines. However, those guidelines were not publicly accessible during this analysis. Rather than fabricate style deltas or copy field baseline verbatim, the skill documents the access limitation and directs users to official sources. This is appropriate for a lower-tier journal with thin public information footprint.

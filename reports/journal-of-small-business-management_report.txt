@@ -1,0 +1,19 @@
+Journal: Journal of Small Business Management
+Slug: journal-of-small-business-management
+ABS: 3
+Field: ENT-SBM
+
+Articles fetched: 15 (abstract/front-matter level only; full text paywalled)
+Early stop triggered: No — full spot-check target reached; deltas had stabilized by ~10 articles
+
+Deltas found: 2 dimensions
+- Structural Deviations: Higher-than-baseline proportion of review/conceptual/synthesis articles (PRACTICE ONLY, RELAXATION for ABS 3)
+- Other Journal-Specific Patterns: Broader methodological pluralism (fsQCA, single-case qualitative, mixed methods) vs. FIELD_SKILL's quant/survey-archival emphasis; heavily international/non-US samples (PRACTICE ONLY, RELAXATION)
+
+FIELD_SKILL overrides: none identified (no hard constraints could be confirmed to conflict with FIELD_SKILL; guidelines page inaccessible)
+
+Access-limitation notes:
+- Taylor & Francis Instructions for Authors page (tandfonline.com/journals/ujbm20) returned HTTP 403 on every WebFetch attempt (multiple URL variants tried, including direct DOI redirects and PDF landing pages). Could not confirm word/page limits, abstract format rules, citation style, heading conventions, table/figure rules, or explicit prohibitions from a primary source.
+- ICSB project page (icsb.org/project/jsbm/) was accessible but contains only journal description/scope, not submission formatting guidance.
+- All 15 sampled articles were read at abstract/front-matter level via search-engine snippets, RePEc/IDEAS, and open-access institutional repository mirrors (Lancaster ePrints, RWTH Aachen, DTU Orbit, ResearchGate); no full-text access was available to verify in-body statistical reporting, heading structure, or citation formatting in detail.
+- Citation style (APA-like author-date) is widely reported by third-party citation-management sites (Paperpile) but was not independently confirmed against a primary JSBM style guide.

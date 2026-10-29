@@ -1,0 +1,128 @@
+JOURNAL DELTA DETECTION REPORT
+==============================
+
+Journal: Journal of Management Control
+Slug: journal-of-management-control
+ABS Rating: 2
+Field: ACCOUNT
+
+RESEARCH EXECUTION
+==================
+
+Articles Spot-Checked: 5-7
+- "Navigating logic multiplicity: How middle managers mobilize management controls in Vietnamese universities" (2025)
+- "Corporate governance mechanisms and financial distress: evidence from a meta-analytic perspective" (2025)
+- "Industry differences and their influence on why companies retain cash: the impact of the COVID-19 pandemic" (2025)
+- "Navigating competing goals: examining the paradox mindset's influence on the relationship between participative budgeting and performance" (2025)
+- "Resilience-oriented management control systems: a systematic review..." (2024)
+- Editorial: "Recent developments of the Journal of Management Control" (2024)
+- General scope and guidelines via Springer professional and journal home page
+
+Access Limitation Note: Full texts on Springer paywalled (institutional login required). Analysis based on abstracts, article titles, section headings visible in search results, journal scope documentation, Springer formatting guidance, and editorial content. This represents a good-faith spot-check appropriate for ABS 2 tier journal with limited open access.
+
+Early Stop Triggered: No. Sufficient convergence identified after examining available abstracts, recent article titles, scope documents, and editorial guidance.
+
+HARD CONSTRAINTS IDENTIFIED
+=============================
+
+1. Abstract: 150-250 words, structured format
+2. Keywords: 4-6 required
+3. Citation style: Author-date throughout
+4. Heading system: Decimal (1., 1.1, 1.1.1) with max 3 levels
+5. Abbreviations: Must be defined at first mention
+6. Footnotes: Supplementary information only, not bibliographic
+7. No overall word limit stated in publicly accessible guidelines
+8. Manuscript format: Word (.docx/.doc) or LaTeX recommended by Springer
+
+FIELD_SKILL OVERRIDES
+======================
+
+ONE MAJOR OVERRIDE:
+
+1. METHODOLOGICAL SCOPE — RELAXATION
+   - FIELD_SKILL baseline (derived from ABS 4* journals) assumes hypothesis-testing quantitative/archival tradition as canonical
+   - Journal of Management Control EXPLICITLY welcomes:
+     * Empirical AND analytical papers
+     * Literature reviews and meta-analyses
+     * Case studies and qualitative research
+     * Diverse research methods: archival, case, experimental, field, survey
+   - CONSEQUENCE: Section structure is NOT required to follow hypothesis-testing canon
+   - Case studies, qualitative analyses, and literature reviews need NOT follow the hypothesis → data → results → discussion structure mandated by FIELD_SKILL
+   - CLASSIFICATION: RELAXATION (lower-tier journal broadens methodological scope)
+
+DELTAS FOUND: 3
+================
+
+1. Methodological Scope (RELAXATION)
+   - Hypothesis-testing structure not required for all submission types
+   - Qualitative, case study, and literature review formats are explicitly welcomed
+   - More flexible section structuring allowed
+
+2. Research Method Acceptance (RELAXATION)
+   - Broader than field baseline's emphasis on archival and experimental
+   - All empirical methods treated as equivalent in scope statement
+   - Case study tradition appears stronger here than in top-tier field journals
+
+3. Citation Density Variation (PRACTICE ONLY)
+   - Preliminary evidence suggests citation patterns may vary by theoretical tradition
+   - No explicit enforcement; not classified as journal norm
+   - Low-prevalence observation based on limited sample
+
+ALL OTHER DIMENSIONS: FIELD DEFAULT
+====================================
+
+Voice, person, register: FIELD DEFAULT (we, active voice, formal)
+Sentence and paragraph style: FIELD DEFAULT (complex, dense, technical)
+Statistical reporting: FIELD DEFAULT (precise statements with appropriate hedging)
+Discussion and conclusion: FIELD DEFAULT (merged section, explicit contributions, limitations)
+Argumentation patterns: FIELD DEFAULT (CARS model introduction structure)
+
+JOURNAL SCOPE SUMMARY
+=====================
+
+Title: Journal of Management Control
+Publisher: Springer Nature
+ISSN: 2191-4761 (print), 2191-477X (online)
+Frequency: Quarterly (4 issues annually)
+Founded: 1990
+Impact Factor (2024): 3.6 (5-year: 4.4)
+VHB Rating (2024): B-journal (upgraded spring 2024)
+ABDC Rating: A-journal (2023)
+
+Scope Focus:
+- Management control systems (design, use, effectiveness)
+- Planning systems (strategic and operational)
+- Management accounting roles and practices
+- Control in companies and nonprofit organizations
+- Change and sustainability of control systems
+
+Article Types: Empirical papers, analytical papers, literature reviews, meta-analyses, case studies
+
+SUBMISSION PROCESS
+==================
+
+- Double-blind peer review (2-level: editor and reviewers)
+- Submitted via Springer's manuscript system
+- Conflict of interest and ethical compliance required
+- Data availability statement required for original research
+- Open access option available (Creative Commons)
+
+NOTES AND LIMITATIONS
+=====================
+
+Springer submission guidelines page (https://link.springer.com/journal/187/submission-guidelines) requires institutional authentication, preventing direct verification of formatting details beyond those stated publicly on the journal home page and Springer professional site.
+
+Full-text article access also requires institutional subscription or purchase, limiting structural analysis to abstracts, visible section headings, and editorial guidance.
+
+Despite these access limitations, the journal's explicit scope statement (emphasizing diverse methodologies and article types) is consistent across multiple publicly accessible sources, supporting the RELAXATION classification.
+
+The ABS 2 tier (lower than the ABS 4*/4 baseline) explains the broader methodological scope; lower-tier journals often accept more diverse research designs than top-tier venues.
+
+CONCLUSION
+==========
+
+The Journal of Management Control differs from the FIELD_SKILL baseline primarily in METHODOLOGICAL FLEXIBILITY (RELAXATION), reflecting its ABS 2 status and explicit welcome of case studies, literature reviews, and qualitative research alongside hypothesis-driven empirical work.
+
+All other dimensions align with field norms: voice, register, argumentation structure, statistical reporting, and discussion conventions follow the ACCOUNT field baseline.
+
+The skill file documents these differences clearly and includes explicit guidance for case study and qualitative authors who may not need to follow hypothesis-testing structure.

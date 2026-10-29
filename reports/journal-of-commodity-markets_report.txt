@@ -1,0 +1,37 @@
+Journal: Journal of Commodity Markets
+Slug: journal-of-commodity-markets
+ABS: 3
+Field: FINANCE
+Publisher: Elsevier
+
+Articles fetched: 15 (title/abstract/keyword level; full text paywalled on ScienceDirect,
+direct WebFetch to sciencedirect.com returned 403 for all attempts). Sourced via WebSearch
+snippet extraction and WebFetch of RePEc/IDEAS abstract pages instead.
+
+Early stop triggered: No — sample continued until delta set stabilized around 12-13 articles;
+remaining articles confirmed no new deltas.
+
+Deltas found: 1 substantive delta + several submission-mechanics notes.
+  - Other Journal-Specific Patterns (PRACTICE ONLY / RELAXATION): topical concentration on
+    connectedness/spillover/quantile-network methods applied to narrow commodity-pair settings,
+    more applied-empirical and less identification-centric in framing than typical ABS 4/4*
+    finance papers described in FIELD_SKILL. Not a redefinition of baseline rigor (ABS 3 cannot
+    override FIELD_SKILL) — documented as a RELAXATION/fit consideration only.
+  - Submission mechanics (not style deltas, but HARD_CONSTRAINTS worth noting): editable
+    source files required (no PDF-only figures/tables), up to 6 JEL codes required, optional
+    "Highlights" file, flexible reference format at submission (house style applied at proof).
+
+All other dimensions (voice, hedging, citation format, introduction structure, methods/
+robustness conventions, results reporting, conclusion structure): FIELD DEFAULT — no delta
+from finance-field-writing-style.
+
+FIELD_SKILL overrides: none identified (no journal-specific rule contradicts FIELD_SKILL).
+
+Access-limitation notes:
+- ScienceDirect abstract/guide pages returned HTTP 403 on direct WebFetch throughout; all
+  content was obtained via WebSearch result snippets (which quote publisher-supplied
+  abstract/guideline text) and via WebFetch of RePEc/IDEAS mirror pages, which do carry full
+  abstracts, keywords, and JEL codes for several articles.
+- No full-text articles were accessible (expected for a subscription Elsevier journal without
+  EZProxy in this environment); spot-check relied on title/abstract/keyword-level signal only,
+  consistent with task instructions.

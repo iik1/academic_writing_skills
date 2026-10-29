@@ -1,0 +1,20 @@
+Journal: European Review of Economic History
+Slug: european-review-of-economic-history
+ABS: 3
+Field: BUS HIST & ECON HIST
+
+Articles fetched: 17 (title/abstract level only; no full text accessible without institutional login)
+  - Vol 28 Iss 3 (2024): 6 articles
+  - Vol 29 Iss 1 (2025): 5 articles
+  - Vol 30 Iss 1 (2026): 6 articles (titles also appeared in Advance Articles listing)
+  - Advance Articles (2026): 2 additional distinct titles beyond Vol 30/1, plus 1 fully fetched abstract (Iorgulescu & Putz, grain futures speculation)
+
+Early stop triggered: No. Sample spanned 2024-2026 and deltas stabilized (no new structural deltas emerged after ~10 articles); stopped at 17 as a good-faith, representative multi-year sample given full text is paywalled.
+
+Deltas found: 2 dimensions
+  1. Structural Deviations (ENFORCED) - end-of-manuscript placement of footnotes/tables/figures with in-text placement markers; mandatory OPEN ICPSR data/code deposit + Data Availability Statement (stricter than FIELD_SKILL, which specifies no data-sharing mandate).
+  2. Other Journal-Specific Patterns (RELAXATION/practice note) - unusually short 100-word unstructured abstract (vs FIELD_SKILL's general "compact abstract" description); sampled articles skew quantitative/econometric economic history rather than narrative business history, suggesting this journal's practice leans toward the applied-economics end of the FIELD_SKILL spectrum.
+
+FIELD_SKILL overrides: Manuscript order (footnotes and tables/figures collected at end rather than embedded), abstract length (100 words), citation/reference format specifics (author-date, capitalized-surname reference list), text mechanics (AmE spelling, italicized foreign terms, quotation mark conventions, number spelling rules), OPEN ICPSR data deposit mandate. All other dimensions (voice, sentence style, argumentation/CARS pattern, methods conventions, results/discussion norms, hedging) follow FIELD_SKILL norm with no journal-specific deviation observed.
+
+Access-limitation notes: No EZProxy/institutional access available. Journal has migrated hosting from Cambridge University Press to Oxford University Press (academic.oup.com/ereh); older editorial-policy PDF found on Cambridge assets server is likely superseded by the current OUP general_instructions page, which was used as the authoritative source. Full text of all sampled articles was paywalled; assessment relies on title/abstract-level front matter only, consistent with task instructions. No JEL codes or keywords were visible on any fetched abstract page (not flagged as a stated requirement either way in the guidelines, so treated as a non-finding rather than a delta).

@@ -1,0 +1,45 @@
+JOURNAL SKILL GENERATION REPORT
+===============================
+
+Journal Name: Work, Aging and Retirement
+Journal Slug: work-aging-and-retirement
+ABS Rating: 2
+Field: HRM&EMP
+Publisher: Oxford University Press
+
+ARTICLE FETCH SUMMARY
+---------------------
+Articles spot-checked: 10 (good-faith sample)
+- Empirical articles: 7 (Growney et al. 2025, El Khawli et al. 2025, Rudolph & Zacher 2025, Piszczek et al. 2024, Guillemyn & Horemans 2024, Sousa-Ribeiro et al. 2024, Garcia Morales et al. 2024)
+- Research Reports: 1 (Liu et al. 2024)
+- Review articles: 2+ (referenced in advance articles list)
+
+Access Method: Public abstracts via Oxford Academic; full-text PDFs paywalled but abstracts and front-matter snippets sufficient to identify structure, voice, and tone deltas.
+
+EARLY STOP TRIGGERED: No
+Justification: Author guidelines fully accessible; sufficient abstract/front-matter access across multiple years (2024-2025) to identify consistent patterns. Journal-specific structure requirements are clearly stated in guidelines. ABS 2 tier justifies this smaller but representative sample.
+
+DELTAS FOUND: 5 substantive deltas recorded
+
+1. Voice and Register (PRACTICE ONLY): Passive voice more prevalent in Methods/Results than FIELD_SKILL suggests current trend toward "we"
+2. Structural Deviations (ENFORCED): Research reports have hard 2,500-word limit; regular articles have no limit
+3. Data Availability Statement (ENFORCED): Mandatory data availability or justification statement—beyond typical field practice
+4. Hedging with Temporal/Trajectory Framing (PRACTICE ONLY): Strong emphasis on longitudinal/panel designs invites temporal qualification
+5. International and Longitudinal Scope (PRACTICE ONLY): Consistent pattern favoring multi-wave data and cross-national designs (not required, but typical)
+
+FIELD_SKILL OVERRIDES: None
+Explanation: APA 6th edition citations align with common field practice; abstract format (unstructured, max 250 words) is consistent with field variation; IMRaD structure is baseline. No fundamental departure from HRM field conventions detected. The journal operates within field norms while emphasizing specific methodological preferences (longitudinal, international).
+
+ACCESS LIMITATIONS NOTES
+------------------------
+- Full-text PDFs behind paywall (Oxford University Press / Silverchair); WebFetch redirects to token-protected URLs
+- Public abstracts and article metadata fully available via Oxford Academic
+- Author guidelines page completely accessible
+- Cannot verify exact word counts or citation density in full articles, but abstract review and guidelines inspection sufficient to document structural requirements and identify observable patterns in framing/tone
+- This is an ABS 2 journal with publicly available guidelines; no institutional access required to generate skill
+
+SKILL FILE LOCATION
+-------------------
+C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/hrm/work-aging-and-retirement_SKILL.md
+
+REPORT COMPLETED: 2026-07-02

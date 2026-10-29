@@ -1,0 +1,17 @@
+Journal: International Journal of Arts Management
+Slug: international-journal-of-arts-management
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 0 full-text; 6 titles/authors identified via WebSearch (title-level only, no abstract text accessible)
+Early stop triggered: No (exhausted good-faith access chain — guidelines pages fully accessible; article full text/abstracts not openly indexed)
+
+Deltas found: 3
+  1. Structural — four distinct manuscript categories (Research Papers, Case Studies w/ teaching notes, Book Reviews, Practitioner Perspectives), each with own word-count band. ENFORCED.
+  2. Length — 7,000-9,000 words (research papers) vs FIELD_SKILL's 10,000-18,000; shorter category bands overall. RELAXATION (ABS 1 tier).
+  3. Citation style — simplified Author-Date Chicago Style vs FIELD_SKILL's APA. ENFORCED.
+  Minor: abstract length 150 words (vs FIELD_SKILL 150-250); table/figure placement at manuscript end, not inline; strict anonymization requirement for blind review.
+
+FIELD_SKILL overrides: citation style (Chicago author-date, not APA); table/figure placement (end of manuscript); length bands (shorter, category-specific).
+
+Access-limitation notes: This is a thin-access ABS 1 journal. No open-access full text or visible abstracts were found via WebSearch/WebFetch (JSTOR, SDA Bocconi, HEC Montréal pages returned metadata/titles only, not full abstracts). Publisher guidelines and style guide pages (gestiondesarts.hec.ca, revue.hec.ca) were fully accessible and used as the primary source for hard constraints. Voice, hedging, and statistical-reporting deltas could not be confirmed against article text and were left as FIELD DEFAULT rather than asserted from title-only evidence.

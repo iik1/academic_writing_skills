@@ -1,0 +1,40 @@
+Journal: Journal of Asian Economics
+Slug: journal-of-asian-economics
+ABS: 1
+Field: ECON
+Publisher: Elsevier
+
+Articles fetched: 10 (RePEc/IDEAS abstract pages, Volumes 99-101, 2025)
+Early stop triggered: No (target of 10-15 partially met; direct full-text and
+ScienceDirect access were paywalled/blocked (403), so sampling relied on
+RePEc/IDEAS abstract-level records, which was sufficient to judge abstract
+format, keyword/JEL practice, and topical framing but not fine-grained prose
+style within body sections)
+
+Deltas found: 2, both PRACTICE ONLY / low-prevalence-to-moderate:
+  1. Geographic framing requirement - abstracts/titles foreground an explicit
+     Asian country or region even for generically-framed research questions.
+  2. China-dominant sample composition - majority of sampled articles are
+     China-focused, though India, Korea, Turkey, and BRICS studies also
+     appear; this is a submission-pattern observation, not an editorial rule.
+
+FIELD_SKILL overrides: none identified. No structural, citation, or word-limit
+constraints found that override FIELD_SKILL. Abstract is unstructured
+single-paragraph, consistent with FIELD_SKILL norms.
+
+Access-limitation notes:
+- Direct fetch of the ScienceDirect "Guide for Authors" page returned HTTP 403
+  (paywall/bot-block). Guideline content was reconstructed from search-engine
+  cached summaries and knowledge of standard Elsevier economics-journal
+  templates (submission fee $100, single-blind review, optional highlights/
+  graphical abstract).
+- No explicit numeric word/page limit could be confirmed from any accessible
+  source; this is flagged as "not stated" rather than assumed absent.
+- JEL codes were present in roughly half of sampled abstracts and absent
+  (not extracted by the abstracting tool) in the other half; not treated as
+  a meaningful delta given inconsistent visibility in the RePEc abstract
+  records themselves.
+- Could not access full-text body sections (introduction, methods, results
+  prose) for any article due to paywall; all structural/voice comparisons
+  against FIELD_SKILL rely on title/abstract/keyword-level evidence only,
+  which showed no detectable deviation.

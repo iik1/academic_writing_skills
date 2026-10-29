@@ -1,0 +1,32 @@
+Journal: Scandinavian Journal of Work, Environment and Health
+Slug: scandinavian-journal-of-work-environment-and-health
+ABS: 3
+Field: PSYCH (WOP-OB)
+
+Articles fetched: 7 (spot-check converged before reaching 15; guidelines page + facts page also fetched)
+  1. Backes J, Mueller SI, Geissler A, Ehlig D - Occupational health interventions' impact on absenteeism and economic returns (systematic review), Scand J Work Environ Health 2026;52(2):79-97
+  2. van Ooijen R, Koning PWC, Boot CRL, Brouwer S - employer characteristics and continued employment, 2021;47(6):435-445
+  3. Pahwa M et al. - glyphosate use and non-Hodgkin lymphoma, North American Pooled Project
+  4. Ryynänen K et al. - biopsychosocial training for low-back pain, cluster RCT
+  5. Bonde JP et al. - health correlates of workplace bullying, 3-wave prospective study, 2016;42(1):17-25
+  6. Jaspers S, Karlsen I, Aust B - workplace violence editorial, 2025;51(5):349-354
+  7. Pega F et al. - WHO/ILO Joint Estimates burden of disease from occupational risk factors
+
+Early stop triggered: yes - stopped at 7 articles because the delta set had stabilized (consistent structured-abstract format, Vancouver citations, no theory/practical-implications headings, concise applied register across epidemiology, RCT, review, and editorial article types) and further full-text access was largely unavailable (most content behind normal but non-paywalled abstract pages; deeper full-text fetch not needed since deltas were already clear from guidelines + abstracts).
+
+Deltas found: 4 dimensions
+  1. Voice and Register - RELAXATION (plainer, more concise, less theory-forward than ABS 4/4* field norm; applied multidisciplinary occupational-health audience)
+  2. Statistical Reporting - PRACTICE ONLY / low-prevalence (epidemiological reporting - ORs, DALYs, incidence - alongside standard psychosocial-survey reporting; scope-driven, not a stated rule)
+  3. Structural Deviations - ENFORCED (no Theoretical Background/Hypotheses heading, no Practical Implications heading; both otherwise common in ABS 4/4* WOP-OB journals per FIELD_SKILL)
+  4. Other Journal-Specific Patterns - ENFORCED (Vancouver numbered citation style replaces field-default author-date)
+
+FIELD_SKILL overrides (HARD_CONSTRAINTS beyond FIELD_SKILL's scope):
+  - Structured 4-field abstract (Objectives/Methods/Results/Conclusions), 250-word cap
+  - 4,000-word body limit (original articles), ~40 references, 5 tables/figures
+  - Vancouver/ICMJE numbered citation style (not author-date)
+  - Reporting-guideline checklists mandatory (STROBE/CONSORT/PRISMA/MOOSE/TREND/STARD/MIAME/COREQ per design)
+  - Open access only (CC-BY 4.0), fee EUR 3200 (EUR 1600 short communications)
+  - Tables/figures placed at manuscript end, not embedded
+  - No software-package citations; no unpublished/personal-communication citations
+
+Access-limitation notes: Journal content is generally openly accessible (open-access since 2021), so no paywall issues were encountered. Full-text bodies beyond abstracts were not systematically fetched, since abstract-level structure, citation style, and register were sufficient to establish all deltas per task instructions (front-matter/abstract-level observation is explicitly permitted). No 403s or access failures encountered.

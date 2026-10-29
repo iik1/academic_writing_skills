@@ -1,0 +1,26 @@
+Journal: Journal of Cultural Economy
+Slug: journal-of-cultural-economy
+ABS: 3
+Field: SOC SCI
+
+Articles fetched: 13 (title + abstract snippet level; full text paywalled on Taylor & Francis Online for all sampled items)
+Early stop triggered: No — stopped at 13 because the delta set had clearly stabilized (consistent qualitative/theoretical/STS pattern across 2023-2026 sample) and further paywalled full-text access was not available via public channels.
+
+Deltas found: 4 dimensions
+  - Voice and Register (RELAXATION / PRACTICE ONLY — leans further toward theoretical/essayistic register than FIELD_SKILL's general qualitative allowance)
+  - Statistical Reporting (ENFORCED — journal explicitly states it rarely/never publishes large-N econometric/quantitative work, making most of FIELD_SKILL's quantitative reporting norms inapplicable)
+  - Structural Deviations (PRACTICE ONLY / RELAXATION — conceptual/case-based organization is the norm rather than the quantitative Data/Methods/Results/Discussion template)
+  - Other Journal-Specific Patterns (PRACTICE ONLY — recurring theoretical vocabulary: performativity, market devices, valuation, governmentality, ANT/STS)
+
+FIELD_SKILL overrides (Hard Constraints from author guidelines):
+  - Word limit: ~10,000 words including notes/references (not strict)
+  - No required section structure specified
+  - No abstract word limit or structured-abstract format specified
+  - No citation style specified in accessible guidelines text
+  - Explicit prohibition: journal "rarely, if ever" publishes quantitative research with large datasets and complex econometric/statistical analysis
+
+Access-limitation notes:
+  - Full text of all sampled articles was paywalled; analysis relied on titles, abstracts, and search-engine-extracted snippets via WebSearch/WebFetch (tandfonline.com abstract pages, IDEAS/RePEc listing, journal's own author-guidelines microsite).
+  - Direct WebFetch of tandfonline.com "for-authors" and "current issue" pages returned HTTP 403; guideline content was instead obtained from the journal's own guidelines microsite (journalofculturaleconomy.org) and via WebSearch snippets.
+  - No independent Instructions-for-Authors PDF found separate from the journalofculturaleconomy.org guidelines page; citation style and table/figure formatting rules could not be confirmed from any accessible source.
+  - Note: "Journal of Cultural Economics" (Springer, a distinct econ journal) surfaced in search results and was excluded as a false match.

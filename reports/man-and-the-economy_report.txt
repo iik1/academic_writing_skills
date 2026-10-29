@@ -1,0 +1,22 @@
+Journal: Man and the Economy
+Slug: man-and-the-economy
+ABS: 1
+Field: ECON
+
+Articles fetched: 8 full metadata/abstract-level articles read directly (de Mello-Sampayo 12(2)2025; Awoleye/Dada/Al-Faryan 12(1)2025 remittances; Sheng Hong 10(2)2023 Coase theorem; DeWeaver & Roumasset 12(1)2025 tenancy; Chen & Liao 11(2)2024 exclusive contracts; Dada/Awoleye/Al-Faryan 10(1)2023 EKC; Sheng Hong 10(1)2023 filial piety). Plus table-of-contents review across Vol. 3, 4, 7, 10, 11, 12 to establish article-type taxonomy (short essays/tributes vs full research articles).
+
+Early stop triggered: No — reached a reasonable good-faith sample for an ABS 1 journal given thin/paywalled access chain.
+
+Deltas found: 3 substantive, plus supporting notes
+  1. Structural Deviations (ENFORCED) — journal maintains formal non-standard article-type taxonomy (Research Notes, Voices from the Field, Marketplace for Ideas, Wisdom of the Past, Letters from Readers) alongside Original Articles; several TOC entries are 1-12 page essay/tribute pieces, not full IMRAD papers.
+  2. Statistical Reporting (PRACTICE ONLY / RELAXATION) — JEL codes inconsistently present; several sampled pieces are qualitative/essayistic rather than quantitative, so FIELD_SKILL's "near-universal reporting apparatus" assumption doesn't hold across all published content (though it does hold for the applied econometric papers sampled).
+  3. Voice and Register (PRACTICE ONLY, low confidence) — some articles read as discursive/argumentative essays rather than tightly quantified empirical prose, consistent with the journal's explicit anti-formalist Coase Society mission; flagged low-confidence since only abstract-level text was available.
+  Additional non-delta observation: broader-than-typical topic scope (institutional/legal economics, history of thought, philosophical argument) noted as PRACTICE ONLY, not a formatting rule.
+
+FIELD_SKILL overrides: None that contradict FIELD_SKILL outright — the deltas found relax or add to FIELD_SKILL (article-type variety, tolerance for non-quantitative essays) rather than replacing its core empirical/theory-paper norms, which still apply to the journal's standard research articles.
+
+Access-limitation notes:
+- degruyterbrill.com pages returned HTTP 405 on direct WebFetch; journal scope and article-type descriptions were recovered via WebSearch snippet extraction instead.
+- The journal-specific "Instructions for Authors" PDF and the mc.manuscriptcentral.com/manecon submission portal could not be accessed (login-walled / not found at guessed URL).
+- All article-level evidence is abstract/keyword/JEL/TOC-level only; full text was paywalled for every sampled article. This is consistent with the assignment's allowance for thin-access ABS 1 journals.
+- Hard Constraints section is therefore partly inferred rather than confirmed against a canonical style guide; this is stated explicitly in the skill file's Sources section.

@@ -1,0 +1,57 @@
+Journal: Policy Studies Journal
+Slug: policy-studies-journal
+ABS: 3
+Field: PUB SEC
+
+Articles fetched: 6 (abstract/metadata level only, via search-engine snippets;
+no full text accessible). Titles/DOIs:
+- Koski, "Four More Years! (of Policy Process Research in a Trump
+  Administration)" - psj.70025
+- Shanahan, "Narrative Power in the Narrative Policy Framework" - psj.70038
+- Garic & Leifeld, "A Three-Stage Model of the Maturation of Nascent Policy
+  Subsystems Toward Stable Advocacy Coalitions..." - psj.70047 (open-access
+  PDF located at Essex repository, but text extraction failed - binary/
+  compressed PDF stream)
+- Maor, "Emotion and the Advocacy Coalition Framework: An Affective
+  Dynamics Perspective" - psj.70104
+- Kerr, "Applying Systems Thinking and Participatory Design to Policy
+  Development" - psj.70092
+- Gandy, "How Can Researchers Have Greater Policy Impact?" - psj.70120
+
+Early stop triggered: Yes - stopped short of the 15-article target after
+exhausting the practical access chain. All Wiley Online Library article
+and guidelines pages returned HTTP 402 (Payment Required) on direct
+WebFetch. No open-access mirror (SSRN, ResearchGate, RePEc/IDEAS) full
+text was found for these articles beyond the one Essex repository PDF,
+whose text layer could not be parsed by the fetch tool. Further searching
+returned only additional abstract-level snippets rather than new
+structural information, so continued sampling was unlikely to surface
+new deltas beyond the ones already identified.
+
+Deltas found: 2 dimensions
+1. Structural Deviations - PSJ operates two manuscript tracks: the main
+   track (must foreground theoretical contribution to public policy
+   theory) and Policy Theory and Practice (PT&P), a rolling special-issue
+   track for practice-facing/theory-applying/evaluative work and
+   replications. This dual-track structure is not present in FIELD_SKILL.
+   Classified ENFORCED (stated in guidelines; operationalized via a
+   required submission-system field).
+2. Structural Deviations (article length options) - Journal offers two
+   short-form article types (Research Notes and Perspectives), each
+   capped at 3,000-5,000 words, not addressed in FIELD_SKILL. Classified
+   ENFORCED.
+
+FIELD_SKILL overrides: none identified (no conflicting requirement found;
+deltas are additive journal-specific options, not contradictions of the
+field baseline).
+
+Access-limitation notes: Direct WebFetch to onlinelibrary.wiley.com
+consistently returned HTTP 402 Payment Required for both the author
+guidelines page and individual article DOI pages, indicating a Wiley
+paywall/bot-block rather than a true 403. All information was reconstructed
+from WebSearch result snippets (which include Wiley-indexed abstract text)
+plus one unparseable open-access PDF. Full-text structural details
+(section headings, hypothesis numbering conventions, citation style,
+table/figure formatting, exact abstract word limit, exact full-article
+word limit) could not be confirmed and are marked "not confirmed from
+accessible sources" in the skill file rather than asserted.

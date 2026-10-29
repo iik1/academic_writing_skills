@@ -1,0 +1,43 @@
+Journal: Economic and Business Review
+Slug: economic-and-business-review
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 9 (abstract/front-matter level; full text not accessible in this environment)
+  - Persakis & Kolias (2025, 27(1)) - Investor Sentiment and Audit Quality in Korean Financial Reporting
+  - Hafeez & Drnovšek (2025, 27(1)) - Bibliometric Insights into Emotions in Crowdfunding
+  - Zdrilić, Došenović Bonča & Aleksić (2025, 27(1)) - Systematic Literature Review, Interorganizational Employee Mobility
+  - Gracner, Cadogan & Pfajfar (2025, 27(2)) - Customer Prioritization
+  - Pathak & Joshi (2025, 27(2)) - Organization-Employee Relationship and Well-Being
+  - Pustovrh (2025, 27(2)) - Startup Accelerator Returns
+  - Tran, Le & Nguyen (2025, 27(3)) - CSR Disclosure and Financial Performance, Vietnam
+  - Henrekson, Jonung & Lundahl (2025, 27(3)) - Opinion Article on PhD training in economics
+  - Istenič, Redek & Farčnik (2024, 26(1)) - Gender/Age Wage-Productivity Gaps, Slovenia
+
+Early stop triggered: No (completed good-faith sample of 9 articles + full guidelines page)
+
+Deltas found: 2 dimensions
+  - Structural Deviations (PRACTICE ONLY): EBR publishes three article types per issue -
+    Original Articles, Review Articles, and Opinion Articles (position/advocacy pieces).
+    The Opinion Article category is not addressed in FIELD_SKILL.
+  - Other Journal-Specific Patterns (PRACTICE ONLY): Wide topical breadth within single
+    issues spanning labor econ, finance, marketing, entrepreneurship, HR/OB; no journal-wide
+    topical narrowing beyond general "economics and business."
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Abstract: non-structured, max 200 words, must include 5 keywords + up to 3 JEL codes
+    (FIELD_SKILL allows structured or unstructured, 150-250 words - EBR is stricter/narrower, RELAXATION/CONSTRAINT)
+  - Citations: APA 7th edition explicitly mandated
+  - Headings: numbered Arabic hierarchical system mandatory (1, 1.1, 1.1.1...)
+  - Tables: "be sparing" instruction, footnote convention with superscript lowercase letters
+  - Data availability statement required (FAIR principles) - not covered in FIELD_SKILL
+  - LLMs cannot be listed as authors
+
+Access-limitation notes:
+  Full-text manuscripts were not retrievable in this environment - the Digital Commons
+  platform (bepress) only rendered abstract/front-matter pages via WebFetch, not full PDFs.
+  All spot-check observations are therefore based on abstracts, keywords, subject
+  classifications, and issue tables of contents rather than full-text structural/statistical/
+  citation-density analysis. This is disclosed in the skill's Sources section. Given this is
+  an ABS 1 journal, a 9-article abstract-level sample plus full guidelines review was judged
+  a reasonable good-faith effort per task instructions.

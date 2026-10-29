@@ -1,0 +1,32 @@
+Journal: Journal of Rural Studies
+Slug: journal-of-rural-studies
+ABS: 3
+Field: REGIONAL STUDIES, PLANNING AND ENVIRONMENT
+
+Articles fetched: 6 abstracts/front-matter (4 with full abstract text, 2 title/topic only).
+Early stop triggered: Yes — ScienceDirect article pages return HTTP 403 to automated fetch tools,
+and this journal is not indexed on RePEc/IDEAS, so evidence was limited to search-engine-surfaced
+abstract snippets and secondary aggregator pages rather than direct full-text or full-abstract access.
+Delta set stabilized quickly (no new deltas emerging after article 3-4), consistent with this journal
+being closely related to the ABS-4 journals used to build the field baseline.
+
+Deltas found: 0 stylistic deltas. 1 hard-constraint clarification beyond FIELD_SKILL scope:
+  - Abstract: firm 250-word cap (FIELD_SKILL only specifies a 100-200 word norm without a hard limit)
+  - Highlights required (3-5 bullets, max 85 characters each) — standard Elsevier submission
+    mechanic, not previously covered by FIELD_SKILL since FIELD_SKILL journals include non-Elsevier
+    outlets
+  - Double-anonymized peer review and mandatory generative-AI-use declaration — administrative/
+    ethics requirements, not writing-style deltas
+
+FIELD_SKILL overrides: none (no voice, structure, citation, or reporting norm in FIELD_SKILL is
+contradicted by this journal's guidelines or spot-checked articles).
+
+Access-limitation notes: Guide for authors page (sciencedirect.com/journal/journal-of-rural-studies/
+publish/guide-for-authors) returned 403 Forbidden on direct WebFetch; all guideline content was
+reconstructed from WebSearch result snippets that quote the page. Individual ScienceDirect article
+pages also returned 403 on direct fetch; abstracts were obtained via WebSearch snippets only, not
+full text. RePEc/IDEAS does not index this journal. No SSRN or open-access repository copies were
+found for the sampled articles. As a result, only front-matter/abstract-level evidence was available
+for all 6 articles, and the target of ~15 distinct articles was not reached — the search-snippet
+access chain was exhausted without surfacing further reliably distinct, on-topic abstracts beyond
+what is reported above.

@@ -1,0 +1,16 @@
+Journal: Journal of Emerging Market Finance
+Slug: journal-of-emerging-market-finance
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 6 (front matter only — 3 with full abstract/keywords/JEL extracted, 3 confirmed at title/listing level; full text paywalled throughout)
+Early stop triggered: No
+
+Deltas found: 3 dimensions
+  1. Abstract length — ENFORCED delta (100-word unstructured abstract vs. FIELD_SKILL's 150-250 words)
+  2. Citation style — ENFORCED delta (explicit APA style requirement vs. FIELD_SKILL's unspecified author-year format)
+  3. Topical/regional scope — PRACTICE ONLY / RELAXATION (strong Indian-market empirical skew observed in 5 of 6 sampled articles; not a formal rule)
+
+FIELD_SKILL overrides: Abstract length (100 words, unstructured); citation style (APA, explicitly named)
+
+Access-limitation notes: No institutional EZProxy access. Full text of all sampled SAGE articles is subscription-gated. Relied on the SAGE submission-guidelines page (successfully retrieved in full via PDF export) plus IDEAS/RePEc abstract pages for front matter (abstract, keywords, JEL codes). Statistical reporting norms, table design, and structural section patterns inside the body text could not be directly verified against FIELD_SKILL; skill notes this as FIELD DEFAULT by default/no contrary evidence rather than a confirmed match. Sample size (6) is smaller than the 10-15 target but consistent with the ABS 2 good-faith allowance given the thin public access chain.

@@ -1,0 +1,37 @@
+Journal: Eurasian Economic Review
+Slug: eurasian-economic-review
+ABS: 1
+Field: ECON
+Publisher: Springer Nature (official journal of Eurasia Business and Economics Society)
+
+Articles fetched: 0 full-text; 15 titles/abstract-level summaries gathered via RePEc/IDEAS
+and EconPapers issue listings plus search-engine abstract snippets (Vol. 15 2025 and
+Vol. 16 2026). No full-text article was accessible.
+
+Early stop triggered: No — full good-faith effort made across guidelines page, aims and
+scope page, RePEc/IDEAS, EconPapers, ResearchGate, Paperity, and direct article DOI pages.
+All Springer-hosted pages (link.springer.com and www.springer.com for journal 40822)
+returned a 303 redirect to a Springer IDP login wall in this environment, so guidelines
+and full text could not be read directly. ResearchGate and Paperity returned 403 Forbidden.
+
+Deltas found: 1 low-confidence PRACTICE ONLY delta ("concise research" framing suggesting
+shorter papers than ABS 4*/4 norm, unconfirmed against an explicit word limit) plus one
+GUIDELINE ONLY note about distinct article-type categories (Original Research, Review
+Article, Brief Communication, Continuing Education) sourced from a search aggregator, not
+the primary guidelines page. No confirmed structural, citation, or voice deltas from
+FIELD_SKILL — all core dimensions logged as FIELD DEFAULT.
+
+FIELD_SKILL overrides: none confirmed (guidelines page inaccessible; no hard constraints
+could be verified to override the field baseline).
+
+Access-limitation notes: Springer's submission-guidelines and aims-and-scope pages for
+this journal (link.springer.com/journal/40822/*) are gated behind an authentication
+redirect (idp.springer.com) in this environment and could not be fetched. Full-text
+article pages on link.springer.com are similarly gated. Secondary sources used instead:
+EBES society publications page (accessible, gave scope description and "concise research"
+phrasing), IDEAS/RePEc and EconPapers article listings (accessible, gave 15 article titles
+and topic summaries across two volumes), and WebSearch snippet extraction for a small
+number of abstract excerpts. ResearchGate and Paperity journal pages returned 403
+Forbidden. Given the thin public access chain for this ABS 1 journal, the skill is
+appropriately short and flags most dimensions as unverifiable rather than fabricating
+detail.

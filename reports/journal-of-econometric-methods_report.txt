@@ -1,0 +1,24 @@
+Journal: Journal of Econometric Methods
+Slug: journal-of-econometric-methods
+ABS: 1
+Field: ECON
+
+Articles fetched: 6 with full abstract/JEL/keyword front matter (via IDEAS/RePEc), plus title-level review of ~45 articles across Volumes 8-15 (2019-2026) via IDEAS/RePEc tables of contents.
+Early stop triggered: No
+Deltas found: 3 dimensions
+  - Structural Deviations (PRACTICE ONLY / RELAXATION): journal publishes a substantial share of short-form content (notes as short as 4 pages, pedagogical pieces, software notes) alongside standard full-length papers
+  - Citation Density (PRACTICE ONLY): further compressed relative to FIELD_SKILL in short notes due to space constraints
+  - Other Journal-Specific Patterns (PRACTICE ONLY / niche): recurring pedagogical/teaching-note angle (undergraduate econometrics applications) not present in FIELD_SKILL sample
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Citation style: Chicago Manual of Style author-date (not generic economics author-date); "et al." disallowed in reference list (all authors must be named)
+  - No explicit word/page limit; short notes and pedagogical pieces are an accepted format
+  - Tables: no lists/images/dashed lines; large tables to supplementary material/appendix
+  - Equations: formula editor required (not images), numbered sequentially, blank line before/after
+  - No shortened URLs; DOI required wherever available
+
+Access-limitation notes:
+  - degruyterbrill.com (publisher's own site) returned HTTP 405 on WebFetch for all journal/article pages, and raw curl fetch returned JS-shell HTML with no rendered content — publisher site was effectively inaccessible for content extraction.
+  - Relied on IDEAS/RePEc (https://ideas.repec.org/s/bpj/jecome.html and individual article pages) as a reliable secondary source for abstracts, JEL codes, keywords, and full title lists across volumes.
+  - Full text of all articles was paywalled; no full-text access was obtained. All spot-check findings are based on abstract/JEL/keyword front matter and titles only, per instructions.
+  - The journal's official "Instructions for Authors" PDF is a generic De Gruyter template (shared boilerplate covering many De Gruyter journals across disciplines, including a "review article" section list with "expert opinion"/"highlights" fields clearly not intended for standard econometrics research articles) rather than a journal-specific style guide; this is noted explicitly in the skill so future users do not misapply the review-article template to standard papers.

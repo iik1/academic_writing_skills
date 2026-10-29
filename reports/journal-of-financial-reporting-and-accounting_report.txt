@@ -1,0 +1,19 @@
+Journal: Journal of Financial Reporting and Accounting
+Slug: journal-of-financial-reporting-and-accounting
+ABS: 1
+Field: FINANCE
+
+Articles fetched: 12 distinct abstracts (RePEc/IDEAS), full text was paywalled on Emerald for all sampled articles.
+Early stop triggered: No (reached target sample size of 10-12).
+
+Deltas found: 3 dimensions
+  - Statistical Reporting: survey/questionnaire + PLS-SEM dominant method rather than archival regression; JEL codes frequently absent (PRACTICE ONLY / RELAXATION)
+  - Structural Deviations: mandatory 5-part Emerald structured abstract (Purpose/Design-methodology-approach/Findings/Practical implications or Research limitations/Originality-value), max 250 words (ENFORCED)
+  - Other Journal-Specific Patterns: emerging-market + accounting-technology thematic skew; reduced identification-strategy rigor relative to FIELD_SKILL (PRACTICE ONLY / RELAXATION)
+
+FIELD_SKILL overrides: Abstract format (structured, 5 headings, 250-word cap) overrides FIELD_SKILL's single-paragraph abstract norm.
+
+Access-limitation notes:
+- Direct WebFetch to emerald.com and emeraldgrouppublishing.com pages returned CAPTCHA blocks; guideline content was recovered via WebSearch result summaries and cross-referenced against known generic Emerald author-guideline structure (structured abstract requirement, AI/ethics policy, ScholarOne submission).
+- Full text of all sampled articles was paywalled; all spot-check observations are based on structured abstracts, keywords, and metadata visible via RePEc/IDEAS pages, consistent with the assignment's guidance for thin-access lower-tier journals.
+- One 2025 article (JFRA-01-2025-0066) was referenced in search results but its abstract page returned 404 on direct fetch; not counted in the 12 confirmed abstracts.

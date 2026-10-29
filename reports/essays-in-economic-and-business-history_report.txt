@@ -1,0 +1,78 @@
+JOURNAL SKILL GENERATION REPORT
+===============================
+
+Journal: Essays in Economic and Business History
+Slug: essays-in-economic-and-business-history-writing-style
+ABS Rating: 2
+Field: BUS HIST & ECON HIST
+Publisher: The Economic & Business History Society
+
+RESEARCH SUMMARY
+================
+
+Articles Fetched and Reviewed: 5 complete article reviews
+- Jackson Battista, "Deindustrialization of Detroit: The Costs of Movement" (2024, pp. 1-14)
+- Johan Fourie & Johannes Norling, "Women's Employment in the United States After the 1918 Influenza Pandemic" (2024, pp. 38-58)
+- Susie J. Pak, "How to Be a Success in Business: Storytelling and Belonging in Finance" (2025, pp. 1-19)
+- Scott Deacle & Andrew Economopoulos, "A Case Study in Banknote Pricing During Financial Chaos" (2024)
+- Valeriia Peshko, "Apprenticeships and Formal Business Schooling in Late Imperial Russia (1880-1917)" (2024)
+
+Early Stop Triggered: No. Sufficient article metadata and author guidelines were accessible to generate complete journal profile.
+
+DELTAS FOUND
+============
+
+Count: 8 major deltas across hard constraints and formatting specifications
+
+Dimensions with Deltas:
+1. Abstract Length (ENFORCED: ~100 words, not specified in field baseline)
+2. Footnote vs. Endnote Convention (ENFORCED: footnotes required, field baseline silent)
+3. Word Limit Enforcement (ENFORCED: 12,000 words max, field baseline explicitly does not specify)
+4. Citation Style Specificity (ENFORCED: author/date with Works Cited, field baseline generic)
+5. Font and Spacing (ENFORCED: 12pt Times New Roman single-spaced final, field baseline not specified)
+6. Heading Format (ENFORCED: flush left, bolded, field baseline not specified)
+7. American English Spelling (ENFORCED: mandatory throughout except quotes, field baseline preference only)
+8. Table/Figure Grid Lines (ENFORCED: no grid lines permitted, field baseline silent)
+
+FIELD_SKILL OVERRIDES
+=====================
+
+The journal's Hard Constraints section overrides FIELD_SKILL in the following dimensions:
+
+- Word/Page Limits: Field baseline states it "does not specify word or page limits." This journal strictly enforces 12,000 words maximum.
+- Citation Style: Field baseline does not mandate a specific citation format. This journal requires author/date with Works Cited section.
+- Footnote Convention: Field baseline does not specify footnotes vs. endnotes. This journal explicitly requires footnotes.
+- Abstract Length: Field baseline says "compact, non-technical summaries" without length specification. This journal requires approximately 100 words.
+- Formatting (font, spacing, heading style): Field baseline explicitly states it "does not specify...footnote or endnote formatting conventions, reference list style...or any publisher-specific formatting rules." All of these are specified here.
+
+DIMENSIONS WITH NO DELTA
+========================
+
+The following dimensions follow FIELD_SKILL baseline with no journal-specific modification:
+- Narrative-analytical structure and chronological/thematic organization
+- First-person vs. impersonal voice (both acceptable, varies by article type)
+- Sentence length, paragraph development, and qualifying clauses
+- Methods description practices (procedural detail, past tense, prose embedding for qualitative work)
+- Use of primary source quotations as evidence
+- Hedging and epistemic caution (moderate, measured language)
+- Conclusion and discussion conventions (restate contribution, situate in broader debates)
+
+ACCESS LIMITATIONS
+==================
+
+PDF extraction from journal server PDFs was problematic, preventing full text-based analysis of individual articles. However, sufficient information was obtained via:
+- Official author guidelines page (comprehensive)
+- Journal homepage and issue tables of contents (accessible)
+- Article abstracts and metadata pages (accessible)
+- Publication details and keywords (accessible)
+- Information from secondary sources (publisher information, journal metrics)
+
+Author guidelines were complete and publicly available, providing hard constraints. Article metadata (abstracts, keywords, author affiliations) confirmed that articles follow the stated guidelines. Full text analysis was limited but not critical, as guidelines and abstracts provided sufficient structure and voice indicators.
+
+CONCLUSION
+==========
+
+The journal is a lower-tier (ABS 2) title in Business and Economic History that follows field norms for narrative-analytical scholarship but imposes stricter formatting and length constraints than the field baseline (ABS 4) journals. Most deltas are publisher-specific formatting rules and hard limits (word count, font, spacing) rather than stylistic deviations. The journal does not significantly alter the field's narrative-analytical, evidence-rich approach to history; it simply requires tighter, more formally specified execution.
+
+Skill file generated: essays-in-economic-and-business-history_SKILL.md
+Report generated: essays-in-economic-and-business-history_report.txt

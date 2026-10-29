@@ -1,0 +1,31 @@
+Journal: International Journal of Central Banking
+Slug: international-journal-of-central-banking
+ABS: 3
+Field: FINANCE
+
+Articles fetched: 19 titles/abstracts sampled across Vol. 18 Iss. 3, Vol. 20 Iss. 1/3, Vol. 21 Iss. 1/4, Vol. 22 Iss. 1;
+full abstract+JEL+keyword front matter read for 2 articles ("One Hundred Inflation Shocks: Seven Stylized Facts";
+"Monetary Policy Shocks and Inflation Inequality").
+
+Early stop triggered: No — sample was broadened across issues/years and stabilized around consistent
+policy-relevant scope and short-abstract convention; stopped after delta set stabilized (~19 titles, no full-text
+paywall access available for most).
+
+Deltas found (3, dimensions):
+1. Abstract length — journal enforces strict 100-word cap vs FIELD_SKILL's 150-250 word norm (ENFORCED, stated in
+   guidelines, consistent with observed abstract terseness).
+2. Length ceiling — 40 pages all-in (references/tables/figures included), not addressed in FIELD_SKILL (ENFORCED,
+   stated in guidelines).
+3. Scope/framing pattern — nearly all sampled titles are central-bank policy relevant (monetary transmission,
+   inflation dynamics, macroprudential/financial stability); authors should frame contribution in policy terms
+   (PRACTICE ONLY / journal mission framing, not a stated rule).
+Additional format-only items: tables/figures collected at manuscript end for submission, 6"x9" print trim
+consideration, mandatory AI-use disclosure statement (ENFORCED, stated in guidelines).
+
+FIELD_SKILL overrides: Abstract word limit (100 vs 150-250); explicit 40-page ceiling.
+
+Access-limitation notes: No EZProxy/institutional access. Author guidelines page fetched successfully via WebFetch
+(rendered HTML). Full-text PDFs on ijcb.org did not extract as readable text with the available WebFetch tool
+(binary/stream content only) — relied on journal's own abstract landing pages (HTML), IDEAS/RePEc issue listings,
+and WebSearch snippets for abstract text, JEL codes, and keywords instead. This was sufficient to assess
+structural/stylistic deltas per task instructions.

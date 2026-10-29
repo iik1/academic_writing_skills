@@ -1,0 +1,18 @@
+Journal: Journal of Risk and Insurance
+Slug: journal-of-risk-and-insurance
+ABS: 3
+Field: FINANCE
+
+Articles fetched: 15 (titles/abstracts via RePEc/IDEAS and Wiley search snippets; full text paywalled - 402 Payment Required on all direct Wiley DOI fetches)
+Early stop triggered: No (deltas were sparse but consistent; stopped after confirming stability across 15 titles/abstract snippets, consistent with the journal's standard empirical-finance structure)
+
+Deltas found: 3 dimensions
+  - Abstract length: 150-word hard cap (tighter than FIELD_SKILL's 150-250 word range) - ENFORCED (stated in guidelines)
+  - Citation style: no mandated style, any consistent format accepted - GUIDELINE ONLY / relaxation vs. typical author-year mandate
+  - Submission structure: single consolidated anonymized document (text+tables+figures+references+supplementary material together) rather than separate uploads - ENFORCED (stated in guidelines)
+  - Data policy: mandatory deposit to named JRI Dataverse repository before Early View - ENFORCED, stricter/more specific instantiation of FIELD_SKILL's generic replication-package norm
+  - Formatting mechanics: 1.5 line spacing, 12pt font, <=45 pages guidance (no hard cap) - ENFORCED/RELAXATION
+
+FIELD_SKILL overrides: abstract word limit (150 vs 150-250); citation style flexibility (vs. implied author-year default); page-limit softness (guidance not hard cap)
+
+Access-limitation notes: All Wiley Online Library DOI pages returned HTTP 402 Payment Required when fetched directly (no institutional EZProxy access in this environment). Compensated using jri.pub (ARIA's own mirror of submission guidelines, fully accessible) and WebSearch result snippets/abstracts for article-level spot-checks, plus RePEc/IDEAS for tables of contents and article titles across Vol 92-93 (2025-2026 issues). No full-text articles were read; front-matter (titles, partial abstracts, scope) was sufficient to confirm no additional structural/voice deltas beyond those documented above.

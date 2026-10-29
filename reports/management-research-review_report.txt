@@ -1,0 +1,22 @@
+Journal: Management Research Review
+Slug: management-research-review
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 6 read (abstract/title level via search snippets and one PMC full text); additional titles surveyed via RePEc index for scope only (not counted as read).
+Early stop triggered: No — full-text access exhausted due to platform blocking (CAPTCHA on emerald.com, 403 on emeraldgrouppublishing.com), not due to reaching a target sample early. Proceeded to write skill with documented access limitations per instructions for thin-access, ABS 1 journals.
+
+Deltas found: 2
+  1. Structural Deviations — structured abstract requirement (Purpose/Design-methodology-approach/Findings/Originality-value, max 250 words) vs. FIELD_SKILL's default of unstructured abstracts. ENFORCED (Emerald house style, confirmed via secondary sources and abstract pattern in sampled MRR article).
+  2. Other Journal-Specific Patterns — literature review/bibliometric review articles treated as a routine, regular article type rather than a specialist review-only outlet category. PRACTICE ONLY / RELAXATION (ABS 1 tier).
+
+FIELD_SKILL overrides:
+  - Abstract format: structured (Purpose/Design-methodology-approach/Findings/Originality-value), 250-word max — overrides FIELD_SKILL's unstructured-abstract default.
+  - Author anonymity: strict double-anonymized review, no author-identifying info anywhere including figures/captions.
+  - Explicit prohibition on generative AI/LLM use for drafting any manuscript content (abstract, literature review, etc.).
+
+Access-limitation notes:
+  - emerald.com/mrr/pages/author-guidelines: CAPTCHA-blocked on all direct WebFetch attempts.
+  - emeraldgrouppublishing.com/products/journals/author_guidelines.htm?id=mrr: 403 Forbidden.
+  - emerald.com article pages (full text): CAPTCHA-blocked; all article-level findings are from search-engine snippets, RePEc/IDEAS index, or one open-access PMC-hosted bibliometric review citing MRR's abstract format.
+  - No full MRR article body text was read in this session; findings limited to abstracts, titles, and general Emerald house-style documentation via secondary sources.

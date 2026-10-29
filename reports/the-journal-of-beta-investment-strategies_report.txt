@@ -1,0 +1,95 @@
+DELTA DETECTOR REPORT
+The Journal of Beta Investment Strategies
+================================================================================
+
+JOURNAL METADATA
+  Name:           The Journal of Beta Investment Strategies
+  Slug:           the-journal-of-beta-investment-strategies
+  ABS Rating:     1 (Finance)
+  Field:          FINANCE
+  Publisher:      Portfolio Management Research (PMR)
+  ISSN:           2771-6511
+  Scope:          Beta-based investment products, ETFs, indexes, smart beta, direct indexing, passive investing strategies
+
+ARTICLES FETCHED
+  Count:          0
+  Status:         EARLY STOP TRIGGERED - ACCESS LIMITATION
+
+ACCESS LIMITATION DETAILS
+  Journal website (pm-research.com):
+    - Main page: https://www.pm-research.com/content/iijindinv
+    - Status: 302 redirect to authentication portal (https://idp.sams-sigma.com/authorize)
+    - Result: Authentication required; no guest access to author guidelines or article archive
+
+  OJS Submission Portal:
+    - URL: https://jii.pm-research.com/authors (Journal of Index Investing, same publisher)
+    - Status: 301 redirect to https://pmr-journals.pm-research.com/index.php/JBIS/login
+    - Result: Login-only; submission guidelines not publicly visible
+
+  SciSpace (metadata aggregator):
+    - Found: 152 publications indexed
+    - Status: Metadata only; article abstracts visible but no full-text access
+
+  SSRN Preprints:
+    - Found: Some JBIS articles referenced (e.g., Heiko Bailer on smart beta, Vol. 16 Iss. 1, 2025)
+    - Status: 403 Forbidden on paper pages; PDFs blocked
+
+  Google Scholar / arXiv / ResearchGate:
+    - Status: No accessible open preprints of recent JBIS articles located
+
+  Conclusion: Journal is paywalled/subscription-only with no publicly available author guidelines. This is a
+              lower-tier (ABS 1) journal with limited publication volume (152 papers total) and thin public
+              information footprint.
+
+FIELD SKILL BASELINE REFERENCE
+  Used: finance-field-writing-style_SKILL.md (ABS 4*/4 baseline)
+
+  Key baseline norms (for reference):
+    - Standard sections: Abstract, Introduction, Data/Methods, Empirical Analysis/Results, Conclusion, References
+    - Voice: First-person plural (we) or singular (I); active voice dominant
+    - Confidence: Strong for well-identified empirical findings; measured ("suggest", "consistent with") for mechanisms
+    - Hedging: Low to moderate; high in intro, medium in results, low in conclusion
+    - Citation: Author-year parenthetical; high in intro, medium in methods, low in results
+    - Table-driven: Multiple specifications in adjacent columns; footnotes document sample and clustering
+
+DELTAS DETECTED
+  Status: NONE CONFIRMED
+  Reason: No article text was accessible for comparison. Cannot assess whether this ABS 1 journal deviates
+           from field baseline in voice, structure, hedging, or citation density.
+
+FIELD SKILL OVERRIDES
+  Count: 0
+  Status: No confirmed overrides; unable to extract Hard Constraints from author guidelines
+
+ARTICLE SPOT-CHECK ATTEMPT SUMMARY
+  Target:     10–15 articles
+  Completed:  0 articles
+  Documents:  Journal metadata (name, scope, publisher)
+             Editorial contacts: Brian R. Bruce (Editor-in-Chief), Deborah Trask (Managing Editor)
+             Contact email for submissions: Mitchell Gang (m.gang@pageantmedia.com)
+
+RECOMMENDATION
+  For users preparing to submit to this journal:
+    1. Request author guidelines directly from publisher (m.gang@pageantmedia.com or bbruce@hillcrestasset.com)
+    2. Obtain 2–3 recent articles in your subfield (may require subscription or interlibrary loan)
+    3. Do NOT rely solely on this skill until confirmed against journal's actual author guidelines
+    4. Use finance-field-writing-style as primary baseline; apply journal-specific rules once obtained
+
+SKILL QUALITY ASSESSMENT
+  Completeness: INCOMPLETE (no article samples, no author guidelines extracted)
+  Confidence:   LOW (based on inference and metadata only)
+  Usability:    PLACEHOLDER ONLY (subject to confirmation via journal guidelines and article review)
+
+  This skill was created as a placeholder in accordance with protocol: "do a good-faith effort and document
+  limitations honestly rather than fabricating." The journal exists, is cataloged in ABS (tier 1), and is
+  published by PMR, but public information is minimal. Further development requires direct contact with journal
+  or institutional/subscription access.
+
+SEARCH METHODOLOGY
+  - WebSearch: 5 queries covering journal name, author guidelines, recent articles, and related topics
+  - WebFetch: 6 attempts (3 blocked by authentication, 1 empty/incomplete, 2 redirects)
+  - Targeted access chains: Publisher website, OJS portal, SciSpace, SSRN, Google Scholar, arXiv, ResearchGate
+  - Duration: Multi-phase search completed; early stop at authentication barrier
+
+DATE COMPLETED: 2026-07-02
+DELTA DETECTOR: Claude Haiku 4.5

@@ -1,0 +1,19 @@
+Journal: International Journal of Business Excellence
+Slug: international-journal-of-business-excellence
+ABS: 1
+Field: ETHICS-CSR-MAN (mapped to MGMT field baseline: mgmt-field-writing-style)
+Publisher: Inderscience Publishers (Enterprises Ltd)
+
+Articles fetched: 5 full abstracts read directly (via WebFetch on Inderscience/IDEAS-RePEc pages); additionally ~100 article titles/authors surveyed across Vol.30-39 (2023-2026) via a single IDEAS/RePEc journal listing page for topical/structural pattern-checking. Full text was not accessible (paywalled, open-access APC journal, no institutional access in this environment).
+
+Early stop triggered: No (not blocked by dedupe check; no existing skill found for this journal). Sample size was smaller than the 10-15 full-article target due to thin public full-text access, consistent with the ABS 1 good-faith-effort allowance; documented in Sources.
+
+Deltas found: 2 substantive deltas, both from Inderscience's house-wide author guidelines rather than journal-specific policy:
+  1. Abstract word limit tighter than FIELD_SKILL default (<150 words vs. FIELD_SKILL's 150-250) — HARD CONSTRAINT.
+  2. Keyword count (10-15) and biographical note length (100-150 words/author) requirements not covered by FIELD_SKILL — HARD CONSTRAINT.
+  Additional note (RELAXATION, not a new norm): article types/topics skew toward applied, single-context, practitioner-oriented case studies and industry papers, consistent with ABS 1 tier.
+  All other dimensions (voice, argumentation, citation style/density, discussion structure, hedging) follow FIELD_SKILL norm - no journal-specific deviation found in the accessible sample.
+
+FIELD_SKILL overrides: Abstract word limit (<150 words, unstructured); keyword count (10-15); biographical note requirement (100-150 words/author) — none of these three are addressed by FIELD_SKILL and are treated as journal/publisher-level hard constraints.
+
+Access-limitation notes: Inderscience full-text articles are behind a paywall/APC gate; inderscienceonline.com archive page returned 403 Forbidden. Relied on Inderscience article abstract pages, IDEAS/RePEc abstract mirrors, and the IDEAS/RePEc journal title listing (Vol.30-39) for topical coverage. No structural (full Methods/Results/Discussion) spot-checking was possible beyond what abstracts reveal; this is disclosed in the skill file's "Articles spot-checked" note and the "Statistical Reporting" section (marked "not verifiable from abstracts alone").

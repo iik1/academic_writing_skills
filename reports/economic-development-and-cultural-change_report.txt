@@ -1,0 +1,19 @@
+Journal: Economic Development and Cultural Change
+Slug: economic-development-and-cultural-change
+ABS: 3
+Field: ECON
+Publisher: University of Chicago Press
+
+Articles fetched: 15 titles identified (vols. 73-74, 2024-2026 issues); 5 with abstract text retrieved in full, 1 with partial info, 10 titles only.
+Early stop triggered: No (access chain exhausted at publisher paywall/403 before reaching 15 full abstracts; proceeded with good-faith spot-check per instructions).
+
+Deltas found: 2 (both PRACTICE ONLY, low-confidence classification)
+  1. Structural Deviations - title convention ("X: Evidence from [Country]") common but not a stated rule.
+  2. Other Journal-Specific Patterns - heavy skew toward RCT/field-experiment micro-development designs in LMIC settings; topical scope match, not a style delta.
+
+FIELD_SKILL overrides: none identified (no conflicts between EDCC hard constraints and econ-field-writing-style; all EDCC-specific requirements are submission/formatting mechanics: abstract 150-200 words unstructured, file section ordering, figures one-per-page, Word/RTF/LaTeX final file format, single-blind review, submission fee with waivers).
+
+Access-limitation notes:
+- Direct WebFetch to journals.uchicago.edu returned HTTP 403 for /instruct, /prep-gen, and /about pages; guideline content was recovered via WebSearch result snippets instead (abstract word limit, manuscript section ordering, figure rules, file format, language requirements).
+- Full text of all sampled articles is paywalled; used IDEAS/RePEc abstract pages and WebSearch snippets. Two article abstracts (Molina-Millán & Macours; Subramanian) could not be retrieved in full text, only title/partial description.
+- No JEL classification requirement text or citation-style specifics beyond field defaults found in accessible guideline snippets.

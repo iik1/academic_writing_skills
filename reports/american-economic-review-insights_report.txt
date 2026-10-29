@@ -1,0 +1,27 @@
+Journal: American Economic Review: Insights
+Slug: american-economic-review-insights
+ABS: 3
+Field: ECON
+
+Articles fetched: 7 (abstract-page level; 1 additional full-text PDF attempted but unreadable/corrupted)
+  - Reynolds (aeri.20230588)
+  - Chen & Zhong (aeri.20240216)
+  - Armangué-Jubert, Guner & Ruggieri (aeri.20230564)
+  - Arnold, Dobbie & Hull (aeri.20240249)
+  - Campbell & Martin (aeri.20240061)
+  - Bobrov, Kamdar & Ulate (aeri.20240184)
+  - Acemoglu & Lensman (aeri.20230353) - working-paper PDF mirror fetched but text extraction failed (corrupted/binary); only bibliographic metadata used
+
+Early stop triggered: No. Stopped at 7 because the delta set had clearly stabilized (all 6 abstract-page articles showed consistent abstract length, page-length/exhibit-count patterns matching the stated word cap) and further search results were returning repeats/guideline pages rather than new articles.
+
+Deltas found: 3 dimensions
+  1. Statistical Reporting - ENFORCED prohibition on significance asterisks in tables (relaxation/refinement vs FIELD_SKILL general norm)
+  2. Structural Deviations - ENFORCED compression driven by 7,000-word/5-exhibit hard cap; robustness/background material pushed to Supplemental Appendix
+  3. Other Journal-Specific Patterns - ENFORCED 100-word abstract cap forcing setup-method-result-only abstracts (no motivation/roadmap in abstract)
+
+FIELD_SKILL overrides: none that contradict FIELD_SKILL outright; all deltas are refinements/compressions layered on top of the ECON baseline (ABS 3 journals may relax but not redefine baseline per instructions - labeled accordingly).
+
+Access-limitation notes:
+- No institutional access; relied on AEA's public guidelines/style-guide pages (fully accessible, unusually detailed and explicit for a journal site) plus publisher abstract pages for article-level spot-checks.
+- Full text of articles was generally paywalled; one working-paper mirror (MIT) was found and fetched but the PDF extraction returned corrupted/binary content, so only its bibliographic metadata (page count, journal/volume) was usable.
+- Abstract-page-level data (abstract text, JEL codes, page length) was sufficient to confirm the word/exhibit-cap constraint empirically (all 6 articles with legible metadata ran 15-20 published pages, consistent with the 6,000-7,000 word cap) and to confirm abstract-length compliance well under the 100-word ceiling.

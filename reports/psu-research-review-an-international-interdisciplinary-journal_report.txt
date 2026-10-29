@@ -1,0 +1,20 @@
+Journal: PSU Research Review: An International Interdisciplinary Journal
+Slug: psu-research-review-an-international-interdisciplinary-journal
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 0 full-text; 6 abstract/title-level via search-engine snippets
+Early stop triggered: No (research completed to the extent access allowed; did not hit the 10-article good-faith minimum due to systematic CAPTCHA blocking, not early abandonment)
+
+Deltas found: 2
+  1. Structural Deviations - Emerald structured abstract format (Purpose / Design-methodology-approach / Findings / Practical implications / Social implications / Originality-value) - ENFORCED, confirmed present in sampled articles
+  2. Other Journal-Specific Patterns - broader interdisciplinary/SDG/practitioner scope than typical single-discipline MGMT journal; RELAXATION of novelty/contribution bar consistent with ABS 1 tier
+
+FIELD_SKILL overrides: none identified beyond the structured-abstract format noted above (which FIELD_SKILL already treats as journal-dependent)
+
+Access-limitation notes:
+- emerald.com/prr (homepage, aims-and-scope, author-guidelines, and all individual article pages) returned a CAPTCHA/"unusual traffic" verification wall on every WebFetch attempt. No full text was retrievable.
+- The canonical author guidelines URL (emeraldgrouppublishing.com/services/publishing/prr/authors.htm) returned HTTP 403.
+- All evidence is derived from WebSearch result snippets (titles, abstract fragments, section-heading labels surfaced by the search engine's indexing of Emerald pages) rather than direct page reads.
+- Could not independently verify word limits, citation style specifics, heading conventions, or explicit prohibitions for this journal; these are inferred from Emerald's generic house style, flagged as unconfirmed in the skill file.
+- Given the thin, blocked access chain, the skill file documents these limitations explicitly rather than fabricating specifics.

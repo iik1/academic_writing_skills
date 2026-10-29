@@ -1,0 +1,25 @@
+Journal: Atlantic Economic Journal
+Slug: atlantic-economic-journal
+ABS: 1
+Field: ECON
+Articles fetched: 7 (abstract/front-matter level only; full text paywalled behind Springer login gate)
+Early stop triggered: No (reached good-faith target sample for ABS 1 tier)
+
+Deltas found: 3
+  1. Voice and Register — GUIDELINE ONLY / ENFORCED in practice: guidelines explicitly ask authors to minimize first-person pronouns; all 7 spot-checked abstracts use impersonal third person, contradicting FIELD_SKILL's "we"-default norm.
+  2. Structural Deviations — PRACTICE ONLY / RELAXATION: strict 25-page cap produces visibly shorter articles than ABS 4/4* norm (one sampled article was only 3 published pages).
+  3. Heading typography — ENFORCED: bold unnumbered main headings, italic subheadings, vs. FIELD_SKILL's numbered Roman/Arabic heading assumption.
+
+FIELD_SKILL overrides:
+  - Voice: impersonal/minimized first-person overrides FIELD_SKILL's "we" default.
+  - Length: 25-page hard cap (12pt, 1" margins) not addressed by FIELD_SKILL.
+  - Abstract: 150-250 words, unstructured, 4-5 keywords, avoid acronyms.
+  - Headings: bold/italic unnumbered vs. numbered convention.
+  - Citation format details: and/& usage rules, et al. for 3+ authors, lowercase-letter suffixes for same-year works.
+  - Figures: black-and-white only in main manuscript; color only in online supplementary appendix.
+  - Format prohibitions: no PDF-only submissions, no "computer output dump" tables.
+
+Access-limitation notes:
+  - Springer Nature Link (link.springer.com) submission-guidelines, aims-and-scope, and all individual article pages redirect through an idp.springer.com authentication gate that could not be bypassed (no institutional EZProxy access in this environment). All Springer content was therefore accessed indirectly via WebSearch result snippets (abstracts, publication metadata) rather than full text.
+  - The IAES-hosted submission instructions page (iaes.org) was fully accessible and served as the authoritative source for HARD_CONSTRAINTS.
+  - Article sample is abstract/front-matter level only (title, abstract, keywords, publication metadata) — no full-text structural or citation-density verification was possible. This is consistent with the task's acceptance of front-matter-level evidence for lower-tier journals.

@@ -1,0 +1,37 @@
+Journal: Fuzzy Optimization and Decision Making
+Slug: fuzzy-optimization-and-decision-making
+ABS: 3
+Field: OR&MANSCI
+
+Articles fetched: 12 (abstract/keyword level, via IDEAS/RePEc mirror of Springer records)
+Early stop triggered: No — stopped at 12 because delta set had stabilised (same two patterns —
+review-article prevalence and uncertainty-theory topical dominance — kept recurring with no new
+categories emerging) and further Springer full-text access was blocked by login redirects.
+
+Deltas found: 2
+  1. Structural Deviations — recognized review/survey-article format (systematic-review structure
+     as an accepted alternative to theorem/algorithm structure). PRACTICE ONLY, low-to-moderate
+     prevalence (3/12 sampled articles were surveys/bibliometric reviews).
+  2. Other Journal-Specific Patterns — dominant use of Liu's uncertainty theory (uncertain
+     differential equations, uncertain calculus/programming) as the journal's primary formal
+     framework rather than classical fuzzy-set treatments. PRACTICE ONLY, observed in majority
+     of sample.
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Citation style: author-date (Harvard/parenthetical), e.g. (Littman 2015) — FIELD_SKILL does
+    not specify a citation format, so this is journal-level information, not a contradiction.
+  - Manuscript types explicitly include review articles and short communications alongside
+    research articles.
+  - No specific word/page limits found in accessible guideline text.
+  - Standard Springer originality/no-dual-submission prohibition (field default, not a deviation).
+
+Access-limitation notes:
+  - link.springer.com journal guideline pages (submission-guidelines, aims-and-scope) and all
+    link.springer.com/article/... pages 303-redirected to idp.springer.com login and were not
+    retrievable via WebFetch in this environment. Guideline content was triangulated from
+    WebSearch result snippets (which quote the guidelines page) and from generic Springer
+    "Instructions for Authors" cross-journal templates.
+  - Article-level content (abstracts, keywords) was instead retrieved successfully via the
+    ideas.repec.org RePEc mirror (spr/fuzodm series), which is not paywalled. Full article text
+    was not accessible anywhere in the chain (no OA copies located for the sampled articles), so
+    spot-check observations are limited to abstract/keyword/title level, per task instructions.

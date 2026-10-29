@@ -1,0 +1,33 @@
+Journal: Japan and the World Economy
+Slug: japan-and-the-world-economy
+ABS: 1
+Field: ECON
+Publisher: Elsevier
+
+Articles fetched: 3 full abstracts (with JEL codes/keywords) read directly via RePEc/IDEAS;
+~35 additional article titles/authors surveyed across volumes 69-78 (2023-2026) via RePEc
+series listing for topical/structural pattern-checking. Author guidelines page
+(sciencedirect.com guide-for-authors) returned HTTP 403 on direct fetch; only
+WebSearch-cached snippets were usable (graphical abstract spec, AI-use policy, appeal policy).
+
+Early stop triggered: No (exhausted reasonably available access chain for this ABS 1 title;
+full-text and guideline page both paywalled/blocked, so relied on abstract-level and
+search-snippet evidence per instructions for thin-access journals).
+
+Deltas found: 0 substantive deltas from FIELD_SKILL. All observed dimensions (voice,
+abstract format, statistical reporting, citation/JEL/keyword conventions, argumentation
+structure) match FIELD_SKILL defaults. One tentative RELAXATION noted (ABS 1 tier likely
+implies lighter robustness/identification bar than ABS 4*/4) but not directly confirmed
+from abstract-only access.
+
+FIELD_SKILL overrides: none identified.
+
+Access-limitation notes:
+- Guide-for-authors page blocked (403) via WebFetch; used WebSearch snippet fallback only.
+- Full text of sampled articles not accessible (paywalled); relied on RePEc/IDEAS abstract
+  pages (which reproduce publisher abstracts, JEL codes, and keywords in full) plus
+  Elsevier/Elsevier Shop scope-statement snippets.
+- Sample of 3 full abstracts is smaller than the 10-15 target but justified per instructions
+  for a lower-tier (ABS 1), thin-access journal; supplemented with ~35 titles for broader
+  topical corroboration (no full-text style signal from titles alone, used only to confirm
+  subject-matter scope, not style deltas).

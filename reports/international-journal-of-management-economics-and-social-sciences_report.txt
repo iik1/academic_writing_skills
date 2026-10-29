@@ -1,0 +1,34 @@
+Journal: International Journal of Management, Economics and Social Sciences (IJMESS)
+Slug: international-journal-of-management-economics-and-social-sciences
+ABS: 1
+Field: ETHICS-CSR-MAN
+Articles fetched: 10 (abstracts/front-matter only, spanning 2022-2025; full-text PDF fetch failed - corrupted/unparseable extraction)
+Early stop triggered: No (dedupe check found no existing skill file for this journal)
+
+Deltas found: 6 dimensions
+  1. Structure - prescriptive section order including mandatory standalone "Implications" and
+     "Limitations and future directions" sections (beyond FIELD_SKILL's flexible Discussion/Conclusion)
+  2. Length - hard page caps (35 pages empirical / 40 review / 50 absolute max) with USD 30/page
+     overage fee, rather than FIELD_SKILL's word-count norms
+  3. Abstract - unstructured, max 200 words, mandated past tense
+  4. Keywords/JEL codes - exactly 5 keywords + 1-3 JEL codes required (JEL codes not part of
+     FIELD_SKILL at all, since it's a pure management baseline)
+  5. Citations - modified APA with distinct "Author, year: page number" format for quotes
+  6. Section-level tense/voice prescriptions - explicit per-section tense and voice rules
+     (Introduction: active/minimal first person; Lit Review: present tense; Methodology: past;
+     Results: past/passive; Discussion: present/active/interpretive; Conclusion/Implications: present)
+  Also noted: explicit ban on Generative AI for Literature Review drafting; statistical
+  significance markers specified including a marginal 10% tier (†p<.10).
+
+FIELD_SKILL overrides: length (page-based cap vs. word-count), structure (mandatory Implications/
+Limitations sections), abstract format specifics, JEL code requirement.
+
+Access-limitation notes: No full-text articles could be read - the one PDF fetch attempted
+returned corrupted/binary content that could not be parsed for section-by-section structural
+verification. All spot-check findings are based on the reliable guidelines page plus 10
+abstract/keyword/JEL front-matter pages and tables of contents. This is sufficient to confirm
+abstract format, required metadata (keywords/JEL), and topical scope (heavy African/Nigerian
+economics-management empirical focus, applied econometrics plus qualitative interview studies
+and systematic reviews) but not to verify in-body citation density or exact section-heading
+compliance at full-text granularity. Documented per instructions as a good-faith effort for a
+lower-tier (ABS 1), thin-public-information journal.

@@ -1,0 +1,45 @@
+Journal: Journal of Policy Analysis and Management
+Slug: journal-of-policy-analysis-and-management
+ABS: 3
+Field: PUB SEC
+Articles fetched: 10 (abstract/metadata level; full text paywalled on Wiley;
+  one accepted working-paper PDF located but not text-extractable)
+Early stop triggered: No — sample stabilized around consistent deltas
+  (plain-language mandate, no-main-text-regression-tables rule, six-department
+  structure) after ~8-10 articles; access chain (Wiley paywall, no EZProxy)
+  was the binding constraint on going further, not delta instability.
+
+Deltas found: 3 substantive + 1 low-confidence/unconfirmed
+  1. Statistical Reporting — regression tables/equations excluded from main
+     text per guidelines (ENFORCED)
+  2. Voice/Register — stricter-than-baseline plain-language/jargon-avoidance
+     mandate (GUIDELINE ONLY / PRACTICE ONLY, consistent with sampled abstracts)
+  3. Structural — six named article departments (Feature Research Article,
+     Point/Counterpoint, Methods for Policy Analysis, Policy Insights, Policy
+     Retrospectives, Book Reviews) with differing peer-review/length rules
+     (STRUCTURAL DELTA, stated in guidelines)
+  4. Length — an unconfirmed ~3,000-word cap surfaced in one search snippet;
+     could not verify it applies to standard Feature Research Articles rather
+     than a shorter department; flagged as a pitfall, not asserted as fact
+
+FIELD_SKILL overrides: None that contradict the baseline outright; the
+  regression-table placement rule and department-specific structure refine/
+  add to FIELD_SKILL rather than override its core claims.
+
+Access-limitation notes:
+  - Wiley Online Library (onlinelibrary.wiley.com) returned HTTP 402 Payment
+    Required on all direct WebFetch attempts (guidelines page, TOC pages,
+    individual article abstract pages). All Wiley-sourced content in the
+    skill file was reconstructed from Google/Bing search-result snippets,
+    which is lower-confidence than a direct fetch — flagged accordingly in
+    the skill file's Guidelines URL and Sources sections.
+  - IDEAS/RePEc journal series page (ideas.repec.org/s/wly/jpamgt.html) was
+    fetchable and gave a clean list of recent article titles/authors, which
+    seeded the spot-check sample.
+  - One accepted-version working paper PDF (Bollinger & Troske, Code
+    Louisville, hosted on gattonweb.uky.edu) was located but WebFetch could
+    not parse the binary PDF content; abstract-level detail was obtained via
+    search snippet instead.
+  - No full-text article was read in this pass; all findings are abstract/
+    guideline-snippet level, appropriately labeled as lower-confidence where
+    relevant (e.g., the voice/register delta).

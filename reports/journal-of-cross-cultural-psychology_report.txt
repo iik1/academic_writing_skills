@@ -1,0 +1,40 @@
+Journal: Journal of Cross-Cultural Psychology
+Slug: journal-of-cross-cultural-psychology
+ABS: 3
+Field: PSYCH (GENERAL)
+
+Articles fetched: 3 (title/abstract level only, via search-engine snippets)
+Early stop triggered: Yes — access chain exhausted. SAGE journal pages
+(both author-instructions and individual article DOI pages) returned
+HTTP 403 to direct WebFetch. No open-access mirrors (PMC, ResearchGate
+full text, SSRN) were found for JCCP articles specifically. Relied on
+WebSearch snippet extraction from SAGE guideline pages and article
+title/metadata pages instead of full-text review.
+
+Deltas found: 2
+  1. Brief Report as formal short-form submission track (max 10 pages,
+     ENFORCED) — structural deviation from FIELD_SKILL's IMRaD default.
+  2. Heavy multi-country/cross-national comparative sampling as dominant
+     design pattern (PRACTICE ONLY, low-confidence, title-level evidence
+     only) — noted but not elevated to a stated stylistic norm.
+
+FIELD_SKILL overrides:
+  - Abstract: unstructured, 150-200 words (journal-specific number;
+    FIELD_SKILL does not specify a word count).
+  - Length: 15-35 double-spaced pages (regular), 10 pages max (brief
+    reports) — journal-specific figures not in FIELD_SKILL.
+  - Citations: APA reference style explicitly stated (consistent with
+    FIELD_SKILL but confirmed explicitly).
+
+Access-limitation notes:
+  - journals.sagepub.com/author-instructions/jcc returned 403 on direct
+    WebFetch; content obtained via WebSearch result snippets only.
+  - Individual JCCP article DOI pages (journals.sagepub.com/doi/...) also
+    returned 403 on direct WebFetch.
+  - No PMC/open-access full-text mirrors located for JCCP articles
+    specifically (PMC results returned were from other journals citing
+    or adjacent to cross-cultural psychology, not JCCP itself).
+  - Voice, hedging, statistical reporting, and citation-density dimensions
+    could not be verified against full text; skill notes these as
+    "FIELD DEFAULT (unverified)" rather than asserting confirmed
+    convergence.

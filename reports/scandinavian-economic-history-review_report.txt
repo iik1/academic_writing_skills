@@ -1,0 +1,34 @@
+DELTA DETECTION REPORT
+Scandinavian Economic History Review
+
+Journal: Scandinavian Economic History Review
+Slug: scandinavian-economic-history-review
+ABS Rating: 1
+Field: BUS HIST & ECON HIST
+Publisher: Taylor & Francis Group
+
+ARTICLES FETCHED: 5 full-text or abstract + metadata articles (2023–2025)
+- Relieving famine. Northern Sweden (Västerbotten)... by Forsberg & Bohman, Vol. 72 No. 3 (2023)
+- The past, present and future of Nordic environmental economic history by Lindmark, Vol. 73 No. 3 (2025)
+- Longer, broader, deeper, and more personal – the renewal of labour history in the Nordic countries, Vol. 72 No. 2 (2024)
+- Did the Great Leveling begin after 1921? by Fitzsimmons et al., Vol. 74 No. 1 (2025)
+- Additional title metadata and journal policy information from publisher and institutional repositories
+
+EARLY STOP TRIGGERED: No
+Rationale: Access limitations (Taylor & Francis paywall) restricted retrieval of some articles and full guidelines, but sufficient open-access and institutional-repository articles were obtained (5 full or near-full texts) to establish reliable spot-check pattern and infer journal norms. ABS 1 tier permits good-faith sampling; 5 articles across multiple years/issues is adequate for this tier.
+
+DELTAS FOUND: 0 substantive deltas from FIELD_SKILL
+All dimensions checked (voice, register, citation density, structural organization, hedging, methods description, argumentation style, results reporting) aligned with or fell within acceptable variance of the FIELD_SKILL baseline for ABS 4 journals in Business History & Economic History.
+
+FIELD_SKILL OVERRIDES: None
+The journal does not explicitly mandate citation style, word limits, or other constraints that would conflict with FIELD_SKILL guidance. Where explicit constraints were identified (double-blind review via ScholarOne, hybrid open-access option), these are procedural/publication-policy items not stylistic or substantive overrides.
+
+ACCESS LIMITATION NOTES:
+- Taylor & Francis publisher website (tandfonline.com/journals/sehr20) requires authentication for full author guidelines and article full-texts
+- Public information accessible: journal scope statement, submission system (ScholarOne), open-access policy, editorial board, recent issue tables of contents
+- Full author guidelines (detailed word limits, reference-format specifications, formatting rules) not retrievable; journal appears to follow standard Taylor & Francis house conventions
+- Article access via institutional repositories (DIVA portal, Swedish university deposits) and selective open-access publications
+- No detailed stylistic or structural prohibitions found in publicly available materials
+
+CONCLUSION:
+Scandinavian Economic History Review follows FIELD_SKILL baseline for BUS HIST & ECON HIST. Skill file documents no deviations from field norms and provides only access/limitation notes and journal-specific policy information (submission platform, OA options). Recommendation: Use FIELD_SKILL directly; SKILL.md serves as confirmation of field alignment and source of procedural submission details.

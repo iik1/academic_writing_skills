@@ -1,0 +1,21 @@
+Journal: Economic and Industrial Democracy
+Slug: economic-and-industrial-democracy
+ABS: 3
+Field: HRM&EMP
+Publisher: SAGE Publications Ltd
+
+Articles fetched: 16 (title/abstract level only, via WebSearch snippets and aggregator sites; no full-text access)
+Early stop triggered: No (continued sampling until delta set stabilised; deltas were minimal and consistent across the sample)
+
+Deltas found: 2 substantive dimensions
+  1. Abstract format (Hard Constraint, ENFORCED): unstructured ~100-word abstract + 5-6 keywords, shorter/less structured than typical ABS 4/4* HRM&EMP abstracts.
+  2. Topical/theoretical orientation (PRACTICE ONLY, not a formatting rule): strong and consistent lean toward institutionalist/labour-sociology framing (trade unions, codetermination, collective bargaining, political economy) versus the psychological/managerial pole tolerated by FIELD_SKILL; frequent comparative/cross-national or historical-longitudinal framing.
+
+FIELD_SKILL overrides: None that redefine the baseline (journal is ABS 3, cannot redefine FIELD_SKILL). The abstract-length constraint is a RELAXATION/journal-specific hard constraint, not a field-level change.
+
+Access-limitation notes:
+- Direct WebFetch of journals.sagepub.com pages (author-instructions and article/DOI pages) consistently returned generic site navigation only (likely JS-rendered content not captured by the fetch tool), not the actual guideline or abstract text.
+- The SAGE submission-guidelines PDF was image-based and not machine-readable via WebFetch.
+- All guideline details (100-word unstructured abstract, 5-6 keywords, double-blind review, no fees, Word/LaTeX accepted) were recovered via WebSearch snippets that had already parsed the guidelines page content.
+- All 16 sampled articles were accessed at title/abstract snippet level only (via WebSearch results and the ooir.org altmetric aggregator), consistent with task instructions permitting search-engine-extracted snippets when full text is inaccessible.
+- No article contradicted FIELD_SKILL on structure, voice, methods, results reporting, or hedging; the delta set stabilised quickly (by article ~8-10) and additional sampling only reinforced the same two observations.

@@ -1,0 +1,42 @@
+Journal: International Journal of Contemporary Management
+Slug: international-journal-of-contemporary-management
+ABS: 1
+Field: ETHICS-CSR-MAN (general management journal; MGMT field baseline used)
+
+Articles fetched: 13 (abstracts/metadata only, via IDEAS/RePEc; full text paywalled/inaccessible in this environment)
+Early stop triggered: No
+
+Deltas found: 2 substantive dimensions
+  1. Structural Deviations (ENFORCED) - single mandatory main-text section sequence
+     (Introduction -> Theoretical Background -> Research Methodology -> Results ->
+     Discussion -> Conclusions) applied uniformly regardless of article type, vs.
+     FIELD_SKILL's four article-type-dependent templates.
+  2. Other Journal-Specific Patterns (ENFORCED) - Emerald-style structured abstract
+     required (Purpose / Design-methodology-approach / Findings / Practical
+     implications [optional] / Social implications [optional] / Originality-value),
+     max 250 words, 5-8 keywords. FIELD_SKILL only specifies unstructured
+     150-250 word abstracts.
+  Additional low-confidence practice-only notes: high prevalence of systematic
+  literature reviews in sampled issues; frequent (not required) Polish/CEE
+  organizational context in empirical papers.
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Fixed section order (see above), overriding FIELD_SKILL's four templates
+  - Word count 7,000-9,000 words including tables/figures/references
+  - Title <= 15 words
+  - Structured abstract (Emerald scheme), max 250 words, 5-8 keywords
+  - APA 2017/7th edition citation style
+  - No footnotes/endnotes except when absolutely necessary
+  - No active hyperlinks in submitted file
+  - Author-blind submission (strip identifying metadata)
+  - Ethics committee/Helsinki Declaration statement required for human-subjects research
+  - Ghostwriting statement required at submission
+
+Access-limitation notes:
+  - Full text of sampled articles was not accessible; all article-level
+    observations are based on abstracts, section-heading schemes, and keyword
+    lists retrieved via IDEAS/RePEc pages, which was sufficient to confirm
+    structured-abstract compliance and general topical/structural patterns.
+  - The official Submission Guidance PDF was successfully downloaded and read
+    in full (6 pages), providing detailed, high-confidence hard constraints.
+  - No access issues encountered with the guidelines document itself.

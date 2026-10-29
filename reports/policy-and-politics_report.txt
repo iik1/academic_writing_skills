@@ -1,0 +1,59 @@
+Journal: Policy and Politics
+Slug: policy-and-politics
+ABS: 3
+Field: PUB SEC
+
+Articles fetched: 6 (abstract/metadata/blog-summary level only; full text
+uniformly blocked by publisher platform, HTTP 403 to all direct fetch
+attempts against bristoluniversitypressdigital.com, including both /view/
+and /abstract/ XML paths). Titles: "How policy narratives shape
+sustainability governance" (Angst et al., ahead of print); "Uncovering
+motivations behind open government policy" (ahead of print); "Policy
+coordination and integration in local government: perspectives on
+barriers" (De Wulf, Voets & Molenveld, 2023, Vol 51(3)); "Global Public
+Policy studies" (Porto de Oliveira, 2022, Vol 50(1)); "Policy & Politics:
+a perspective on the first half century" (2022, Vol 50(1)); "Inferential
+reasoning in policy analysis" (Aagaard, Easton & Head, 2024).
+
+Early stop triggered: No — access chain (publisher platform, DOI
+redirects, RePEc/IDEAS, PMC, ResearchGate, Ghent institutional repository
+PDF) was exhausted for full text; abstract/metadata/blog-summary evidence
+was used instead per instructions, and the delta set stabilised after
+~6 articles plus the guidelines.
+
+Deltas found: 3
+  1. Citation Density — RELAXATION (PRACTICE ONLY / low-moderate
+     confidence): 5,000-8,000 word cap including references likely
+     constrains citation stacking density below FIELD_SKILL's "high
+     throughout" default.
+  2. In-text citation ordering — ENFORCED: stacked citations ordered
+     chronologically (oldest to newest), not alphabetically.
+  3. Abstract format — GUIDELINE ONLY: 100-word unstructured abstract cap,
+     too short to accommodate FIELD_SKILL's structured abstract
+     convention.
+
+FIELD_SKILL overrides:
+  - Abstract: 100-word max, unstructured (overrides FIELD_SKILL's
+    structured-abstract default).
+  - Length: hard 5,000-8,000 word cap including references (FIELD_SKILL
+    does not specify).
+  - Citation style: Harvard author-date with chronological in-text
+    ordering (FIELD_SKILL specifies author-date generally but not
+    ordering convention).
+  - Anonymisation: manuscript file must exclude all identifying details
+    (title, author, affiliations, abstract, keywords) — procedural
+    double-anonymous review requirement.
+
+Access-limitation notes: The publisher platform
+(bristoluniversitypressdigital.com) returned HTTP 403 to every direct
+WebFetch attempt, for both ahead-of-print and archived articles, on both
+/view/ and /abstract/ URL paths, and for the PDF editorial/production
+guidelines document (binary, not text-extractable). All article-level
+findings therefore rely on WebSearch result snippets, the Policy &
+Politics journal blog (policyandpoliticsblog.com, author-written summaries
+of published articles), and one open-access institutional-repository PDF
+(Ghent University) that could not be text-extracted (Dutch-language,
+compressed PDF streams). No full-text article was read in this session.
+Confidence in structural/statistical-reporting deltas is correspondingly
+lower than for the hard constraints, which came from the journal's own
+guidelines page.

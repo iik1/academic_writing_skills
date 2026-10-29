@@ -1,0 +1,75 @@
+DELTA DETECTION REPORT: Journal of Agrarian Change
+
+Journal: Journal of Agrarian Change
+Slug: journal-of-agrarian-change-writing-style
+ABS Rating: 2
+Field: ECON
+Publisher: Wiley-Blackwell
+
+=== ARTICLES FETCHED ===
+Total articles spot-checked: 5 (below 10-15 target due to paywall limitations)
+- Paprocki, "How is Climate Change Changing Agrarian Studies?" 2025 (LSE repository PDF, binary format)
+- Mezzadri et al., "The social reproduction of agrarian change" 2024 (abstract/metadata)
+- White & Taylor, "Labour and Land in Indonesia: An Introduction" 2025 (EUR repository PDF, binary format)
+- Karaçimen & Değirmenci, 2025 (metadata only)
+- Barbesgaard, 2025 (metadata only)
+
+Access method: Combination of Wiley author guidelines page summaries (paywalled but described in search results), institutional repository pre-prints (EUR, LSE), and journal metadata.
+
+=== EARLY STOP? ===
+No. Journal has sufficient public information via guidelines and metadata to support delta analysis, though full-text analysis was constrained by paywall.
+
+=== DELTAS FOUND ===
+Count: 3 substantive deltas + 6 dimensions with no delta
+
+ENFORCED (stated in guidelines, confirmed in practice):
+1. Word limit: 8,000–10,000 words (explicit in author guidelines)
+2. Abstract length: 100–150 words (explicit in author guidelines)
+3. Harvard referencing style (explicit; standard Wiley)
+4. Manuscript format: fully anonymized, double-spaced, numbered pages (explicit)
+
+PRACTICE ONLY:
+1. Article type diversity: journal publishes research articles, reviews, essays, and book reviews (not limited to empirical/theory papers as in FIELD_SKILL baseline). Observed in special issues and article catalog but not explicitly mandated.
+
+RELAXATION:
+1. Section ordering flexibility: free format submission permitted (explicit in guidelines). Differs from FIELD_SKILL emphasis on canonical ordering (Introduction → body → Conclusion).
+2. Reference style flexibility: free format submission allows any internally consistent style initially; Wiley converts to Harvard at proofs (explicit in guidelines).
+
+FIELD DEFAULT (no delta):
+- Voice and person (first-person plural "we" accepted, not mandated)
+- Active voice preference (field norm, not journal-specific)
+- Citation density patterns (follows field baseline)
+- Hedging norms (field preference for clear claims applies; no journal-specific rule)
+- Results reporting and table/figure conventions (field norm applies)
+- Literature positioning and argumentation (field norm applies)
+
+=== FIELD_SKILL OVERRIDES ===
+Yes, one key override:
+
+**FIELD_SKILL states:** "Typical Article Structure" → Introduction, substantive body sections (Background/Literature, Methods, Results, Extensions), Conclusion—with "near-universal across all types" requirement for Introduction, substantive body, and Conclusion.
+
+**JAC overrides with:** Free format submission; section ordering flexible; abstract, introduction, methods, results, conclusions must be present but not necessarily in that order.
+
+This is a **RELAXATION**, consistent with lower-tier (ABS 2) journals permitting more flexibility than ABS 4*/4 venues.
+
+=== ACCESS LIMITATIONS ===
+- Wiley Online Library paywall prevented full-text article access
+- Two PDFs retrieved (Paprocki, White) were binary-compiled and not text-extractable by tools
+- Abstract content and journal metadata supplemented analysis
+- Author guidelines page itself paywalled; accessed via search-engine summaries and Wiley template references (SciSpace, Typeset)
+- No access to journal's actual citation style examples, detailed formatting rules, or prose-level style samples
+
+=== CONFIDENCE ASSESSMENT ===
+Hard constraints (word limit, abstract length, citation style, anonymity, manuscript format) are HIGHLY CONFIDENT (stated explicitly in multiple sources).
+
+Deltas (free format, section flexibility, article type diversity) are MODERATELY CONFIDENT (explicit in guidelines but not verified across large sample of published articles).
+
+Dimensions with no delta are CAUTIOUS—lack of full-text samples means subtle voice, hedging, or reporting norms may exist but are unverified. Analysis assumes alignment with FIELD_SKILL baseline due to absence of contradictory evidence, not affirmation.
+
+=== SUMMARY ===
+Journal of Agrarian Change is a lower-tier (ABS 2) outlet in agrarian political economy published by Wiley-Blackwell. It deviates from the ECON field baseline primarily by:
+1. Relaxing section ordering requirements (free format permitted)
+2. Accepting diverse article types beyond empirical/theory papers (essays, reviews)
+3. Explicitly constraining word length (8,000–10,000 words vs. no limit in baseline)
+
+These are consistent with lower-tier journal conventions and interdisciplinary scope (development + agriculture, not pure economics).

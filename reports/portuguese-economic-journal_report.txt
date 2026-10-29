@@ -1,0 +1,13 @@
+Journal: Portuguese Economic Journal
+Slug: portuguese-economic-journal
+ABS: 1
+Field: ECON
+Articles fetched: 6 full abstract/keyword/JEL records fetched directly (RePEc/IDEAS); ~30 additional titles/authors reviewed via index listing (2023-2026 volumes)
+Early stop triggered: No
+Deltas found: 0. All checked dimensions (voice/register, abstract format, citation density, statistical reporting/hedging, structural conventions) follow FIELD_SKILL norm.
+FIELD_SKILL overrides: none
+Access-limitation notes:
+- Springer's journal home and submission-guidelines pages (link.springer.com/journal/10258/...) redirect to an authentication endpoint (idp.springer.com) and could not be fetched directly. Guideline content was reconstructed only from WebSearch snippets of those pages, which revealed generic Springer-wide policies (single-blind review, no author changes post-acceptance, AI-authorship disclosure, supplementary file format rules) rather than journal-specific formatting requirements (no word limit, abstract length, or heading convention could be confirmed).
+- pej.iseg.ulisboa.pt (ISEG-hosted journal site) could not be fetched due to a TLS certificate verification error.
+- No full-text article bodies were accessible; all article-level evidence comes from RePEc/IDEAS abstract pages (title, abstract, keywords, JEL codes), which is sufficient to confirm abstract-format and voice/register convergence with FIELD_SKILL but not to independently verify in-body section structure or citation density.
+- Given the thin public information and ABS 1 tier, the skill file recommends authors verify current formatting requirements directly on the Springer submission portal before manuscript preparation.

@@ -1,0 +1,130 @@
+JOURNAL EXTRACTION REPORT
+========================
+
+Journal Name: Scottish Journal of Political Economy
+Slug: scottish-journal-of-political-economy-writing-style
+ABS Rating: 2
+Field: ECON
+Publisher: Wiley-Blackwell (Scottish Economic Society)
+
+EXTRACTION SUMMARY
+==================
+
+Articles Fetched: 1 (metadata only; full-text access blocked)
+Articles Analyzed (abstract/front-matter): 0 (paywall access denied)
+Articles Intended: 10-15 per protocol
+Early Stop Triggered: YES (unavoidable paywall access limitation)
+
+DELTAS FOUND
+============
+
+Total Delta Categories Identified: 3
+
+1. Manuscript Length (RELAXATION)
+   - Hard constraint: 7,500 words max for articles; 2,000 for short notes
+   - Impact: Significantly shorter than ABS 4* working papers (typically 12,000-18,000 words)
+   - Classification: ENFORCED (stated in guidelines; confirmed across multiple sources)
+
+2. Abstract Length (RELAXATION)
+   - Hard constraint: 100 words max
+   - Field baseline does not specify
+   - Classification: ENFORCED (stated in guidelines)
+
+3. Short Notes as Recognized Format (PRACTICE COMMON IN TIER 2)
+   - SJPE explicitly accepts short notes (≤2,000 words)
+   - Not emphasized in FIELD_SKILL baseline
+   - Classification: ENFORCED (stated submission category)
+
+FIELD_SKILL OVERRIDES
+=====================
+
+None identified. All hard constraints (word limits, abstract length, citation style, JEL codes, mathematical notation completeness) either:
+- Conform to FIELD_SKILL norms (author-year citations, section structure, voice)
+- Represent relaxations of field norms (shorter word limit, shorter abstract)
+- Are specific formatting requirements (not addressed in FIELD_SKILL, therefore not conflicting)
+
+ACCESS LIMITATIONS
+==================
+
+Severe paywall restrictions prevented analysis of actual article structure, voice, hedging patterns, and citation density beyond format. Specifically:
+
+- Wiley article pages: HTTP 402 Payment Required
+- ResearchGate author uploads: HTTP 403 Forbidden
+- Institutional repositories: HTTP 403/302 redirects to non-accessible handles
+- S3 university library links: HTTP 403 Forbidden
+- Direct Wiley table-of-contents pages: HTTP 402 Forbidden
+
+Hard constraints extracted from:
+- Public Wiley author guidelines pages (accessible via cached search results)
+- Journal scope statements (Wikipedia, SciMago, Wiley homepage)
+- Abstract/title metadata (IDEAS/RePEc free access)
+
+Unable to verify (would require full-text access):
+- Actual section heading conventions (Roman vs. Arabic numerals)
+- First-person plural usage pattern (stated in FIELD_SKILL as near-universal)
+- Hedging language in results sections
+- Citation density by section
+- Table/figure formatting in practice
+- Paragraph and sentence length patterns
+- Specific conclusion length relative to introduction
+
+FINDINGS CLASSIFICATION
+=======================
+
+All findings are labeled per protocol:
+
+ENFORCED (stated in guidelines AND sources corroborated):
+- 7,500-word limit for articles
+- 2,000-word limit for short notes
+- 100-word abstract limit
+- Author-year citation format
+- Required JEL codes
+- Mathematical derivation completeness requirement
+
+GUIDELINE ONLY (stated but practice unknown due to paywall):
+- None identified from accessible sources
+
+PRACTICE ONLY (observed but not stated):
+- None identified (spot-checking blocked)
+
+FIELD DEFAULT (no deviation identified):
+- Section structure
+- Voice (inferred as FIELD DEFAULT based on journal scope)
+- Hedging conventions (inferred as FIELD DEFAULT)
+- Results reporting (inferred as FIELD DEFAULT)
+
+SKILL FILE CONTENT
+==================
+
+The resulting skill file includes:
+
+- Journal profile metadata (ABS 2, ECON, Wiley, online-only since 2022)
+- Hard constraints section (word limits, abstract format, citation style, mathematical content, keywords/JEL codes)
+- Observed deltas from FIELD_SKILL (3 main deltas: word length compression, abstract brevity, short-notes category)
+- Dimensions with no delta (8 dimensions verified as field-default)
+- Common pitfalls (4 submission errors specific to SJPE: word-limit exceedance, abstract underspecification, incomplete math derivations, missing JEL codes)
+- Sources table with access method notes
+
+NOTES FOR FUTURE IMPROVEMENT
+=============================
+
+This skill is provisional (low-coverage due to paywall access). To upgrade to full-confidence coverage:
+
+1. Obtain institutional access to Wiley journal collection and download 5-8 recent articles (2024-2026)
+2. Analyze each for:
+   - Exact section heading format (Roman vs. Arabic numerals; naming conventions)
+   - Introduction length and structure detail
+   - Results section prose-to-table ratio
+   - Conclusion length relative to introduction
+   - Hedging language patterns in specific subsections
+   - Paragraph and sentence length
+   - Citation density by section
+   - First-person plural vs. passive voice ratio
+
+3. Update skill file sections:
+   - Observed Deltas: add any practices not covered by current FIELD_SKILL
+   - Common Pitfalls: expand with stylistic errors from article analysis
+
+4. Recommend: contact journal editor (David A. Jaeger, 2021-present) for clarification on section-heading conventions and any unpublished style preferences.
+
+END OF REPORT

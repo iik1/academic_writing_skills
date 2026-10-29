@@ -1,0 +1,66 @@
+JOURNAL SKILL CREATION REPORT
+====================================================
+
+Journal: Journal of Governmental & Non-Profit Accounting
+Slug: journal-of-governmental-and-non-profit-accounting-writing-style
+ABS Rating: 1
+Field: ACCOUNT
+Publisher: American Accounting Association (Government and Nonprofit Section)
+
+ARTICLES FETCHED
+================
+5 articles analyzed by title and abstract (paywalled full-text access prevented larger sample)
+- Feng & Greenlee (2024). Governance, Performance, and Compensation in Nonprofit Organizations
+- Hsu & McAllister (2024). The Impact of Voluntarily Filing Form 990 on Donations
+- Kugel & Mercado (2024). Good Governance in Not-for-Profit Organizations
+- Guragai et al. (2025). The Relationship Between Budget Participation and Internal Control
+- Gupta & Verma (2024). An Analysis of Nonprofit Organization Federal Income Tax Avoidance
+
+EARLY STOP TRIGGERED
+====================
+No. Convergence on journal norms was reached via author guidelines (Editorial Policy, AAA Manuscript Prep Guide) and editorial scope description. Full-text article analysis would refine observations about variance in section naming and hedge language frequency, but hard constraints and major deltas are documented from guidelines.
+
+DELTAS FOUND
+============
+Total deltas identified: 3
+
+1. Manuscript Length (ENFORCED RELAXATION)
+   - ~7,000 words (20-25 pages) vs. ABS 4* baseline of 55 pages
+   - Reflects lower-tier journal page budgets
+
+2. Breadth of Research Traditions (ENFORCED)
+   - Journal explicitly welcomes quantitative, qualitative, mixed-method, descriptive, and theoretical work
+   - FIELD_SKILL derived from quantitative archival/experimental work
+   - Canonical structure less universal; greater variance in sequencing tolerated
+
+3. Tone and Register: Accessibility Balance (PRACTICE)
+   - Articles slightly less technical than ABS 4* baseline
+   - Direct statement of results even without full mechanistic identification
+   - Reflects journal's goal to reach both academic and practitioner audiences
+
+FIELD_SKILL OVERRIDES
+=====================
+None. The journal's hard constraints (manuscript length, format, citation style, heading structure) conform to AAA Manuscript Preparation Guide standards, which do not conflict with ACCOUNT baseline. The breadth-of-traditions delta and accessibility tone are journal-specific modulations of the field norm, not overrides.
+
+ACCESS LIMITATION NOTES
+=======================
+- Full-text articles in JOGNA are paywalled (AAA members/institutional subscribers only)
+- Author guidelines are publicly available at https://aaahq.org/Research/Journals/Journal-of-Governmental-and-Nonprofit-Accounting/Guide-for-Authors
+- AAA Manuscript Preparation Guide publicly available at https://aaahq.org/Research/Journals/Manuscript-Preparation-Guide
+- Article samples (n=5) analyzed via abstract/title/faculty profile references; no full-text stylistic deep-dive performed
+- No institutional EZProxy access available in analysis environment
+- Sample size smaller than ideal (5 vs. 10-15 target) but sufficient to identify hard constraints and major editorial patterns
+
+CONFIDENCE LEVEL
+================
+High for hard constraints (length, format, citation, heading, disclosure requirements)
+Medium for stylistic observations (tone/register variance) — inferred from scope statement and article abstracts; would benefit from full-text review of 10+ articles for confirmation
+
+SKILL FILE LOCATION
+===================
+C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/accounting/journal-of-governmental-and-non-profit-accounting_SKILL.md
+
+REPORT GENERATED
+================
+Date: 2026-07-02
+Analysis method: Web search + author guidelines + editorial policy + AAA Manuscript Prep Guide

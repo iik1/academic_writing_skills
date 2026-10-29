@@ -1,0 +1,14 @@
+Journal: Global Economic Review
+Slug: global-economic-review
+ABS: 1
+Field: ECON
+Articles fetched: 0 (target was 10-15)
+Early stop triggered: No (not a dedupe stop) — but research phase was cut short by access failure, not by finding an existing skill
+Deltas found: 0 dimensions (no journal-specific deltas established; all sections marked "insufficient evidence" or defaulted to FIELD_SKILL)
+FIELD_SKILL overrides: none confirmed
+Access-limitation notes:
+- tandfonline.com/journals/rger20 (journal homepage), /about-this-journal, /toc/rger20/current, and the ScholarOne-linked Instructions for Authors page all returned HTTP 403 Forbidden on every WebFetch attempt.
+- WebSearch surfaced only two useful snippets: (1) journal scope — theoretical/empirical economic research on Asia/Korea/East Asia, international trade and finance, comparative economic and industrial studies of emerging markets, corporate/public/global governance; (2) peer review process — initial editor appraisal, double-anonymized peer review, submission via ScholarOne Manuscripts.
+- No article-level abstracts, titles, DOIs, or tables of contents were retrievable via WebSearch, RePEc/IDEAS (rgereh/rger20 codes returned 404/no listing), or Google/Bing search snippets.
+- Because zero articles could be sampled and the full author-guidelines text was never readable, no HARD_CONSTRAINTS beyond the confirmed scope/peer-review facts could be extracted, and no voice/statistical/citation/structural deltas could be verified against FIELD_SKILL.
+- Skill file was saved as a short, honest "insufficient evidence" record per instructions, rather than fabricating findings. Recommend revisiting with institutional/EZProxy access to tandfonline.com if a fuller skill is needed later.

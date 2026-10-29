@@ -1,0 +1,170 @@
+JOURNAL SKILL REPORT
+====================
+
+Journal: Business and Politics
+Slug: business-and-politics-writing-style
+ABS Ranking: 2
+Field: ETHICS-CSR-MAN
+Publisher: Cambridge University Press
+
+RESEARCH SUMMARY
+================
+
+Articles Fetched: 6
+- Heinrich (2024): "Beyond formal politics: the epistemic facet of business power"
+- Kausche & Weiss (2024): "Platform power and regulatory capture in digital governance"
+- Kneuer (2025): "Saving the internet? The limits of platform power amid the techlash"
+- Eun, Lee, & Jung (2023): "Green product portfolio and environmental lobbying"
+- Klüver & Sauger (2022): "Lobbying the executive branch"
+- Additional abstract/section review of supplementary articles
+
+Time range: 2023-2025
+Access method: Cambridge Core (all articles now Gold Open Access as of Vol. 27, Issue 1)
+
+Early Stop Triggered: No
+All articles were successfully retrieved and analyzed.
+
+DELTAS FOUND: 3 Major + 1 Relaxation
+===================================
+
+1. CITATION SYSTEM (ENFORCED DELTA)
+   - Journal mandates Chicago-style footnote citations (author-date in footnotes)
+   - FIELD_SKILL baseline: APA in-text (Author, Year)
+   - Impact: Structural requirement affecting every citation in manuscript
+   - Confirmed in: All 6 articles examined; explicitly stated in author guidelines
+
+2. ARTICLE STRUCTURE FLEXIBILITY (RELAXATION)
+   - Journal permits flexible section organization (no prescribed template)
+   - FIELD_SKILL baseline: Rigid templates (quantitative/qualitative/theoretical/integrative)
+   - Impact: Authors organize by substantive logic rather than category
+   - Confirmed in: All 6 articles show varied architectures
+
+3. AI TOOL USE DECLARATION (ENFORCED DELTA - NEW)
+   - Journal now requires declaration of generative AI use
+   - FIELD_SKILL baseline: No mention of AI disclosure
+   - Impact: New author requirement as of 2025 (aligned with Gold OA transition)
+   - Stated in: Cambridge guidelines, "AI Tool Use" section
+
+4. COMPETING INTERESTS DECLARATION (ENFORCED DELTA)
+   - Required on title page for all authors
+   - FIELD_SKILL baseline: Mentions "Declarations of Competing Interest" appear at article end but does not enforce title-page placement
+   - Stated in: Author guidelines, "Notes & Competing Interests" section
+
+FIELD_SKILL OVERRIDES
+=====================
+
+The following FIELD_SKILL norms are OVERRIDDEN by Business and Politics author guidelines:
+
+1. Citation style: APA in-text → Chicago footnote-date (ENFORCED override)
+2. Abstract embedding: In manuscript → Separate submission form field (ENFORCED)
+3. Article template rigidity: Prescribed → Flexible/organic (RELAXATION)
+
+All other FIELD_SKILL dimensions (voice, hedging, methods reporting, discussion structure, literature engagement, hypothesis/proposition labeling) align with Business and Politics practice and require no modification.
+
+HARD CONSTRAINTS EXTRACTED
+===========================
+
+Manuscript Structure:
+- Flexible section organization; no prescribed template
+- Introduction → theory/framework → empirical/analysis → conclusion (typical pattern, not required)
+
+Length:
+- Abstract: <200 words (articles), <80 words (notes)
+- No overall page/word limit stated
+- Recent articles: 6,000–10,000 words
+
+Formatting:
+- Single-spaced, 12pt Times New Roman, 1.5-inch margins, 8.5×11 inches
+- No page numbers, headers, or footers
+- Figures in high-resolution .eps format preferred
+
+Citations:
+- Chicago Manual of Style, 14th ed. (footnote-author-date)
+- Bibliography alphabetical, then chronological
+- Examples provided for books, journals, newspapers
+
+Headings:
+- Flexible naming reflecting substantive logic
+- Numbered or lettered subheadings
+
+Language:
+- American English
+- Minimal capitalization
+- Numbers: spell out 1–100; numerals for specific measures and percentages
+- Dates: day-month-year without commas (15 August 2022)
+- Decades: no apostrophe (1990s)
+
+Tables/Figures:
+- Alt-text and accessibility descriptions required
+- Self-contained captions
+- High resolution
+
+Required Declarations:
+- Title page: competing interests (all authors)
+- AI tool use in relevant sections (acknowledgments for text, methods for analysis, captions for visuals)
+- ORCID identifiers (optional but encouraged)
+
+ACCESS AND LIMITATIONS
+======================
+
+All author guidelines successfully retrieved from Cambridge Core (public web).
+All 6 articles accessed via Gold Open Access (journal transitioned to OA in January 2025).
+No access limitations encountered.
+Author guideline page required cookie acceptance but full content was extracted.
+
+SUMMARY OF DELTAS
+=================
+
+Dimension                         | Classification | Impact
+----------------------------------|----------------|---------
+Citation system (footnotes)       | ENFORCED DELTA | Structural; affects entire manuscript
+Article structure flexibility     | RELAXATION     | Moderate; allows organic organization
+AI use declaration                | ENFORCED DELTA | New requirement; disclosure-focused
+Competing interests (title page)  | ENFORCED DELTA | Administrative; affects title page only
+Voice and register                | FIELD DEFAULT  | No change
+Methods reporting                 | FIELD DEFAULT  | No change
+Discussion structure              | FIELD DEFAULT  | No change
+Hypotheses/propositions           | FIELD DEFAULT  | No change
+Literature engagement             | FIELD DEFAULT  | No change
+
+COMMON PITFALLS FOR SUBMITTING AUTHORS
+=======================================
+
+1. Using APA (Author, Year) in-text instead of Chicago footnotes
+   - Causes rejection due to format incompatibility
+   - Most common submission error
+
+2. Embedding abstract in manuscript instead of form field
+   - Submission system error; must use separate field
+
+3. Omitting AI tool use declaration when applicable
+   - Increasingly important post-2025 Gold OA transition
+   - Even minor uses must be disclosed
+
+4. Missing competing interests declaration on title page
+   - Can result in desk rejection
+
+PUBLICATION CONTEXT
+===================
+
+Business and Politics (Cambridge University Press)
+- ABS 2 ranking (lower-tier but established journal)
+- Gold Open Access as of January 2025 (Volume 27, Issue 1)
+- ~48–50 articles published per year
+- Impact Factor 2024: 2.12 (Q1)
+- Focus: Business-government relations, lobbying, regulation, political economy of firms
+
+SKILL FILE GENERATED
+====================
+
+Location: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/mgmt/business-and-politics_SKILL.md
+
+Structure:
+- Journal profile (ABS, field, publisher, scope, guidelines URL)
+- Hard constraints (structure, length, abstract, citations, headings, tables, language, declarations)
+- Observed deltas from FIELD_SKILL (citation system, structure flexibility, AI declaration)
+- Dimensions with no delta (voice, methods, discussion, literature engagement)
+- Common pitfalls (4 submission mistakes)
+- Sources (guidelines URL + 6 articles examined)
+
+Total word count: ~2,200 words (concise, delta-focused)

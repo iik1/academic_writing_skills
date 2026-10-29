@@ -1,0 +1,20 @@
+Journal: Computational Statistics and Data Analysis
+Slug: computational-statistics-and-data-analysis
+ABS: 3
+Field: ECON
+Articles fetched: 8 with abstract/title-level detail (full abstracts for 2: Goepp/Bouaziz/Nuel 2025, Stindl/Bi/Grazian 2025; partial abstract for Wang & Yao 2026; title+context for 5 more), plus 13 additional titles catalogued across volumes 202-223 (2024-2026) for structural triangulation. Total distinct articles referenced: ~21.
+Early stop triggered: No — access chain (ScienceDirect direct fetch) was exhausted (403 Forbidden on all ScienceDirect URLs, including guide-for-authors page and article pages). Compensated via WebSearch snippets, IDEAS/RePEc mirror (successfully fetched via WebFetch), and secondary abstract sources.
+
+Deltas found (5 dimensions):
+1. Voice/Register — OUT-OF-DOMAIN delta: journal content is statistical/computational methodology, not economics; FIELD_SKILL's econ-specific argumentation template (policy hook, literature-gap framing, identification strategy) does not apply.
+2. Statistical Reporting — PRACTICE ONLY: abstracts report theoretical/statistical properties (consistency, asymptotics, algorithmic performance) rather than economic magnitudes.
+3. Citation Density — PRACTICE ONLY: literature engaged is statistical/methodological, not economic.
+4. Structural Deviations — PRACTICE ONLY: no Data/Empirical Strategy/Institutional Setting sections; structure follows problem-model-theory-simulation-application-conclusion pattern typical of statistics journals.
+5. Other Journal-Specific Patterns — PRACTICE ONLY: simulation study + real-data application near-universal.
+
+FIELD_SKILL overrides (HARD_CONSTRAINTS): Abstract capped at 250 words, unstructured, no citations unless essential (author-year), avoid uncommon abbreviations. AI-assisted artwork/graphical abstracts prohibited; AI tools permitted for prep only with human oversight/accountability.
+
+Access-limitation notes:
+- ScienceDirect (sciencedirect.com) returned HTTP 403 Forbidden for all direct WebFetch attempts, including the official Guide for Authors page and individual article abstract pages. All guideline and article content was reconstructed via WebSearch result snippets (which quote ScienceDirect/Elsevier text) and via the IDEAS/RePEc mirror (ideas.repec.org), which was fetchable directly.
+- No full-text articles were accessible; all observations are abstract/title-level, consistent with task instructions for paywalled venues.
+- Journal is ABS-classified under ECON but its actual content/readership is statistics and computational methods; this is noted explicitly in the skill as a scope caveat rather than treated as a standard economics-journal delta.

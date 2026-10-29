@@ -1,0 +1,45 @@
+Journal: Journal of Occupational Health Psychology
+Slug: journal-of-occupational-health-psychology
+ABS: 4
+Field: PSYCH (WOP-OB)
+
+Articles fetched: 5 with usable abstract/detail-level data (via WebSearch
+snippets from PubMed/PMC/Ovid abstract pages), plus a 20-title list of
+sample articles (2001-2021) from apa.org/pubs/journals/ocp/sample used for
+topical/structural confirmation, plus a short recent-titles list from
+ooir.org. Two full manuscript PDFs (2025-34777-001, 2025-14405-001) were
+located and fetched but could not be rendered to extractable text in this
+environment (no poppler-utils; WebFetch's own summarization could not
+recover section-level detail beyond DOI/font metadata).
+
+Early stop triggered: No. Delta set stabilized after the accessible
+sources were exhausted; author guidelines page was fully retrievable via
+WebFetch, so no early stop was needed on that front.
+
+Deltas found: 2
+  1. Structural Deviations - Research Notes / "Kevin's Corner" short-format
+     track (<=20 double-spaced pages) as a second accepted manuscript type
+     alongside the standard <=40-page format. GUIDELINE ONLY.
+  2. Other Journal-Specific Patterns - observed concentration of single-study,
+     large-N intensive-longitudinal/experience-sampling designs (diary,
+     multilevel, latent transition models) in spot-checked articles, a
+     higher prevalence than the multi-study-package trend FIELD_SKILL flags
+     as increasingly favored field-wide. PRACTICE ONLY, does not override
+     FIELD_SKILL's acceptance of single strong-design studies.
+
+FIELD_SKILL overrides: none (both deltas are additive/practice notes, not
+contradictions of FIELD_SKILL).
+
+Access-limitation notes:
+- No EZProxy/institutional access; relied entirely on WebSearch snippets,
+  publisher abstract/landing pages (Ovid, PubMed, PMC), and the APA
+  journal's own guidelines and sample-article pages.
+- Full text was paywalled for every spot-checked article; abstract-level
+  and title-level evidence only.
+- Two manuscript PDFs were successfully located (open preprint-style
+  manuscript versions on psycnet.org/psycnet.apa.org) but could not be
+  text-extracted in this environment, so they contributed only DOI/topic
+  confirmation, not section-level detail.
+- Given the strong alignment between hard constraints and FIELD_SKILL, and
+  no new deltas emerging across the accessible sample, further searching
+  was judged unlikely to change conclusions.

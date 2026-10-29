@@ -1,0 +1,21 @@
+Journal: Journal of the Asia Pacific Economy
+Slug: journal-of-the-asia-pacific-economy
+ABS: 1
+Field: ECON
+
+Articles fetched: 15 (titles/abstract summaries, no full text) across Vol. 29 Iss. 4 (Oct 2024) through Vol. 31 Iss. 2 (Apr 2026), via RePEc/IDEAS mirror.
+Early stop triggered: No — good-faith sample completed given ABS 1 tier and thin public access.
+
+Deltas found: 2 (both under "Other Journal-Specific Patterns")
+1. Mandatory institutional/policy framing — ENFORCED (stated in guidelines, corroborated by sample of single-country/region applied studies).
+2. Preference against narrow technique/method-forward papers — RELAXATION (ABS 1 tier context; journal explicitly steers away from ABS 4*-style methodological framing).
+
+No deltas found in: structure, voice/register, statistical reporting, citation density/format, hedging.
+
+FIELD_SKILL overrides: none (no conflicting hard constraints found — publisher Instructions for Authors page was inaccessible, 403 Forbidden).
+
+Access limitation notes:
+- Direct WebFetch to tandfonline.com pages (main journal page, about-this-journal, authorSubmission instructions) returned HTTP 403 Forbidden consistently.
+- Editorial policy/scope content was recovered via WebSearch's cached summary of the about-this-journal page rather than direct fetch.
+- Full manuscript text of sampled articles was not accessible (no open-access full text found); spot-check relied on titles and short abstract summaries from RePEc/IDEAS.
+- No explicit word/page limits, abstract format, citation style specifics, or table/figure rules could be confirmed from any accessible source. These sections in the skill are marked "not specified in accessible material" rather than fabricated.

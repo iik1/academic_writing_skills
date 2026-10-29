@@ -62,11 +62,11 @@ FIELD_FOLDERS = {
 CLAUDE_PATH   = r"C:\Users\s14454\AppData\Roaming\npm\claude.cmd"
 CLAUDE_MODEL  = "claude-sonnet-4-5"   # standard 200K context — avoids "extra usage" error
 EZPROXY       = "https://nhh.idm.oclc.org/login?url="
-MAX_ARTICLES  = 3          # hard cap per journal agent
+MAX_ARTICLES  = 15         # minimum articles per journal agent (see prompt Phase 2)
 BATCH_SIZE    = 4          # concurrent agents
 LAUNCH_DELAY  = 20         # seconds between agent launches within a batch
 BATCH_PAUSE   = 30         # seconds between batches
-AGENT_TIMEOUT = 1800       # seconds per agent (30 min — some journals are slow to scrape)
+AGENT_TIMEOUT = 3600       # seconds per agent (60 min — 15+ article spot-check is slower)
 MAX_RETRIES   = 2          # quota retries (reduced: prefer waiting over hammering)
 
 
@@ -217,6 +217,7 @@ JOURNALS = [
     ("Ecological Economics",                  "https://www.sciencedirect.com/journal/ecological-economics", "3", "ECON", "ecological-economics"),
     ("Economic Theory",                       "https://www.springer.com/journal/199",       "3",  "ECON", "economic-theory"),
     ("European Economic Review",              "https://www.sciencedirect.com/journal/european-economic-review", "3", "ECON", "european-economic-review"),
+    ("European Review of Agricultural Economics", "https://academic.oup.com/erae/pages/General_Instructions", "3", "ECON", "european-review-agricultural-economics"),
     ("Experimental Economics",                "https://www.springer.com/journal/10683",     "3",  "ECON", "experimental-economics"),
     ("Games and Economic Behavior",           "https://www.sciencedirect.com/journal/games-and-economic-behavior", "3", "ECON", "games-economic-behavior"),
     ("Health Economics",                      "https://onlinelibrary.wiley.com/journal/10991050", "3", "ECON", "health-economics"),

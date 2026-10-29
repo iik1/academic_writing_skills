@@ -1,0 +1,44 @@
+Journal: European Journal of Law and Economics
+Slug: european-journal-of-law-and-economics
+ABS: 1
+Field: ECON
+Publisher: Springer Nature
+
+Articles fetched: 9 (metadata/abstracts only, no full text)
+  - Berggren (2026) "Rules without morals: modeling Buchanan's relatively absolute absolutes"
+  - Banerjee & Poddar (2026) "Anti-piracy enforcements and innovation quality"
+  - Zdybel (2025) "Spontaneous institutions: a typology" [full abstract + JEL/keywords read]
+  - Buiten (2024) "Product liability for defective AI" [abstract read]
+  - Berneri, Larcom, Peng & She (2024) "The impact of law on moral and social norms: evidence from facemask fines"
+  - Yousfi & Loukil (2024) "Environmental laws in France: What are the effects of the Grenelle laws on firms?"
+  - Harnay, Llense, Rebérioux & Roudaut (2024) "Gender equality within boards: comparing quota and soft law"
+  - Benson et al. (2024) "Harmonising cryptocurrency regulation in Europe"
+  - Grolleau, Mungan & Mzoughi (2024) "Punishment menus and their deterrent effects"
+
+Early stop triggered: No (reached good-faith sample of 9 for ABS 1 tier; direct Springer
+full-text access blocked by institutional login wall on link.springer.com article pages).
+
+Deltas found: 2
+  1. Abstract length hard constraint: 150-250 words, unstructured (ENFORCED, stated in guidelines).
+  2. JEL codes + keywords near-universal in practice (PRACTICE ONLY / de facto enforced,
+     confirmed in every sampled article with visible metadata, e.g. Zdybel 2025 has 5 keywords
+     and 5 JEL codes including K00).
+  Additional soft observation (PRACTICE ONLY, topic-driven, not a structural rule change):
+  3. Legal-doctrinal/regulatory framing common in a subset of articles (institutional typology,
+     liability rules, statutory design) alongside conventional econometric law-and-economics
+     papers — noted as emphasis variation, not a distinct rhetorical structure.
+
+FIELD_SKILL overrides: Abstract word count (150-250 words) is the only true hard override;
+everything else (voice, structure, hedging, citation style, methods conventions) follows
+FIELD_SKILL defaults with no confirmed deviation.
+
+Access-limitation notes:
+- link.springer.com article and submission-guidelines pages redirect to idp.springer.com
+  (institutional login) in this environment; full text was not accessible for any article.
+- Guideline details (abstract word count, journal scope) were recovered via WebSearch-indexed
+  snippets of the Springer pages rather than direct fetch.
+- Article-level findings rest entirely on abstracts, keywords, JEL codes, and titles retrieved
+  via RePEc/IDEAS mirror pages and WebSearch snippets — no full-text sections (intro structure,
+  robustness sections, conclusion wording) were directly verified. Structural/voice dimensions
+  are therefore reported as FIELD DEFAULT by reasonable inference from field-wide econ norms
+  and abstract-level evidence, not from direct full-text confirmation.

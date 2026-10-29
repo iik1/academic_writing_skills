@@ -1,0 +1,111 @@
+DELTA DETECTION REPORT: Statistical Analysis and Data Mining
+================================================================
+
+Journal:         Statistical Analysis and Data Mining: An ASA Data Science Journal
+Slug:            statistical-analysis-and-data-mining-writing-style
+ABS Rating:      1
+Field:           ECON
+Publisher:       Wiley-Blackwell (ASA)
+
+PHASE 1: AUTHOR GUIDELINES
+Status:          Accessed via public search results (paywalled direct access)
+Guidelines URL:  https://onlinelibrary.wiley.com/page/journal/19321872/homepage/forauthors.html
+
+Key Hard Constraints Extracted:
+- Free Format submission accepted
+- Required sections: Abstract, Introduction, Methods, Results, Conclusions
+- Abstract: 80-200 words, single paragraph (unstructured)
+- Keywords: up to 7 required
+- Citation style: flexible, any consistent format acceptable
+- Data/code availability: MANDATORY at submission, with detailed README files
+- No explicit word/page limit stated
+
+PHASE 2: ARTICLE SPOT-CHECK
+Articles Fetched:   4 papers
+- Laska (2024) "Treeless Absolute Random Forest" (PMC open-access)
+- Pireddu et al. (2024) "Data Mining Strategies in Construction" (PMC open-access)
+- Tomčić et al. (2024) "Hub-aware Random Walk Graph Embedding" (arXiv preprint)
+- Web abstract for recent Wiley articles (access limited by paywall)
+
+Access Chain:
+  Tier 1: Wiley Online Library (paywalled—402 Payment Required)
+  Tier 2: PubMed Central (open access for 2 articles)
+  Tier 3: arXiv (open access for 1 preprint version)
+  Tier 4: Web abstracts via search engines (limited metadata)
+
+Early Stop Triggered:  NO
+  Sufficient samples (4 articles) across multiple years (2023-2024) and article types
+  (methodology, review, applied research). Convergence pattern established.
+
+Spot-Check Scope:
+- Full structural analysis of 2 PMC articles
+- Preprint version analysis of 1 Wiley article
+- Web metadata review for additional context
+- All sampled articles examined for section headings, methods detail,
+  computational emphasis, data availability statements
+
+PHASE 3: DELTAS FOUND
+
+Deltas from FIELD_SKILL baseline (econ-field-writing-style):
+
+1. Manuscript Type Scope (PRACTICE ONLY)
+   - Journal explicitly publishes reviews and methodological papers as primary content
+   - FIELD_SKILL assumes empirical/theoretical original work; this journal integrates methods/reviews
+
+2. Section Architecture (PRACTICE ONLY)
+   - Background section often standalone and substantial
+   - Application section for methods papers marked as "usually desirable"
+   - Simulations section distinct from Results (when both present)
+
+3. Computational Detail (PRACTICE ONLY)
+   - Methods sections emphasize algorithm specification, pseudocode, closed-form estimators
+   - More rigorous than typical ECON field standard
+
+4. Data/Code Availability (ENFORCED)
+   - Mandatory submission requirement, not optional
+   - Datasets + code + README files required in zip archive
+   - More stringent than ECON field norm
+
+5. Citation Flexibility (PRACTICE ONLY)
+   - Any consistent citation style accepted (author-date, numbered, Chicago, etc.)
+   - Journal standardizes in production; no single enforced style
+
+No deltas detected in:
+- Voice, person, hedging conventions
+- Statistical reporting norms
+- Sentence/paragraph style
+- Citation density by section
+- Robustness and limitations acknowledgment
+
+PHASE 4 & 5: DELIVERABLES
+
+FIELD_SKILL Overrides:
+  - Data/Code Availability: mandatory (ENFORCED), vs. optional field norm
+  - Methods computational detail: elevated emphasis vs. field norm
+  - Article scope: includes reviews and methods papers as primary, vs. field norm
+
+Skill File Saved:   YES
+  Path: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/economics/statistical-analysis-and-data-mining_SKILL.md
+
+Report File Saved:  YES
+  Path: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/reports/statistical-analysis-and-data-mining_report.txt
+
+NOTES AND LIMITATIONS
+
+- Wiley author guidelines page returned 402 Payment Required; guidelines metadata extracted
+  from public search results and secondary sources (Editage, LetPub, Wiley public statements)
+- Full-text access to published Wiley articles paywalled; substituted PMC open-access versions
+  and arXiv preprints where available
+- Four articles is a good-faith sample for ABS 1 tier journal with thin public access;
+  convergence detected across all samples (consistent section structure, emphasis on data/code,
+  computational detail in methods)
+- Journal offers Free Format submission, reducing pre-publication style burden and reducing
+  stylistic deltas vs. field baseline
+
+SUMMARY
+
+Statistical Analysis and Data Mining is a specialist data mining and computational statistics journal
+(ABS 1, lower tier than ECON field baseline journals). It differs from FIELD_SKILL baseline primarily in:
+(1) data/code availability as enforced requirement, (2) elevated computational/algorithmic detail in methods,
+(3) broader scope including reviews and methods papers. Most FIELD_SKILL conventions apply unchanged.
+Skill file is focused and concise, documenting only substantive deltas.

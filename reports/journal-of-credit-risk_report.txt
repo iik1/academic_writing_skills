@@ -1,0 +1,39 @@
+Journal: Journal of Credit Risk
+Slug: journal-of-credit-risk
+ABS: 1
+Field: FINANCE
+
+Articles fetched: 15 (front-matter level: titles, abstracts, key messages; full text paywalled)
+Early stop triggered: No — good-faith sample of 15 reached, exceeding the 10-15 target despite ABS 1 tier.
+
+Deltas found: 3 dimensions
+  1. Structural Deviations — ENFORCED: mandatory "Key messages" bullet block (3-4 bullets, ~85 char max each) as
+     a distinct front-matter element alongside the abstract; not present in FIELD_SKILL. GUIDELINE ONLY: explicit
+     prescribed section skeleton (Introduction/Literature Review/Data/Methodology/Results/Discussion/Conclusion).
+  2. Voice and Register — PRACTICE ONLY / RELAXATION: dual academic-practitioner remit (accepts "technical papers"
+     alongside research papers); titles/key-messages skew more applied/direct than typical ABS 4*/4 framing.
+     Consistent with ABS 1 relaxation, not a new field norm.
+  3. Other Journal-Specific Patterns — GUIDELINE ONLY: two-tier word-limit system (10,000 words research papers;
+     7,000 words forum/technical papers) not described in FIELD_SKILL, which deliberately excludes word limits.
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Manuscript order: title page -> figure/table legends -> abstract -> keywords -> key messages -> title ->
+    blinded main text -> Declarations of Interest/Acknowledgements -> references.
+  - Word limits: 10,000 (research papers) / 7,000 (forum/technical papers).
+  - Abstract: single paragraph, 150-200 words, no citations.
+  - Citations: Chicago-style author-date in text; APA-style reference list; DOIs where available.
+  - Footnotes: max two sentences each, used sparingly.
+  - Spelling/punctuation: Webster's dictionary / Chicago Manual of Style.
+  - Double-blind submission: no author identification in main-text PDF.
+  - Figures/tables: legends listed separately near front; also submitted as separate editable vector files
+    (EPS/SVG/PDF), min 300dpi raster; keep quantity minimal.
+
+Access-limitation notes:
+  - No JCR-specific guidelines page exists separately from the shared Risk Journals (Infopro Digital / Risk.net)
+    submission guidelines, which govern all journals in that stable (Journal of Risk, Journal of Operational
+    Risk, etc.). Treated as authoritative for JCR since no journal-specific override page was found.
+  - Full text of all sampled articles is paywalled behind Risk.net subscription; spot-check relied on
+    publicly visible titles, abstracts, and "key messages" bullet blocks on article landing pages and issue
+    listing pages, plus RePEc/IDEAS index. This is sufficient to judge structural/front-matter deltas but not
+    fine-grained voice/citation-density patterns within full text, which are therefore assumed to follow
+    FIELD_SKILL absent contrary evidence.

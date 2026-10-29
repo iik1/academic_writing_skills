@@ -1,0 +1,37 @@
+Journal: Organization and Environment
+Slug: organization-and-environment
+ABS: 3
+Field: ORG STUD
+
+Articles fetched: 0 full-text/abstract-level articles. journals.sagepub.com
+returned HTTP 403 Forbidden for every direct WebFetch attempt (homepage,
+author-instructions page, table of contents pages, individual article
+PDF/abstract pages). A handful of article titles/topics (Schaltegger et al.
+business-model papers, Lyon & Montgomery "means and end of greenwash",
+Morgan "Reflections on Images of Organization", GRONEN special-issue CFP on
+nonfinancial disclosure) surfaced via WebSearch snippets, but no abstract
+text or structural detail was retrievable for any of them.
+
+Early stop triggered: No formal early stop (convergence not reached because
+no article-level data was obtained at all, not because deltas stabilized).
+Effectively an access-chain exhaustion rather than a delta-convergence stop.
+
+Deltas found: 1 (Abstract Format - RELAXATION/specification: explicit
+150-word abstract cap, 75-word author bio paragraph requirement, 3-5
+keyword minimum; these are ENFORCED per guidelines but not spot-check
+confirmed in articles due to access limits).
+
+FIELD_SKILL overrides: none identified beyond the abstract length/format
+specification above (guidelines are silent on structure, voice, methods,
+results, discussion, and citation-density conventions, so FIELD_SKILL
+remains the operative baseline for all of those dimensions).
+
+Access-limitation notes: WebFetch was blocked (403) on every
+journals.sagepub.com URL tried, including /home/oae, /author-instructions/oae,
+/loi/oae, /toc/OAE/current, and individual /doi/pdf and /doi/abs URLs.
+WebSearch returned a usable extracted-text summary of the author-instructions
+page (used for Hard Constraints) but did not return usable abstract or
+full-text content for any individual article via PMC, ResearchGate, Google
+Scholar, or SAGE itself. Phase 2 (15-article spot-check) could not be
+completed; this is documented transparently in the skill file's "Access
+Limitations" section rather than fabricating findings.

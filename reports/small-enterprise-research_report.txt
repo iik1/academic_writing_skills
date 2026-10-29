@@ -1,0 +1,104 @@
+JOURNAL SKILL GENERATION REPORT
+================================
+
+Journal: Small Enterprise Research
+Slug: small-enterprise-research-writing-style
+ABS Rating: 1
+Field: ENT-SBM (Entrepreneurship and Small Business Management)
+Publisher: Taylor & Francis
+
+PHASE 1: AUTHOR GUIDELINES
+==========================
+Status: Partial access only
+- Journal homepage accessible at https://www.tandfonline.com/journals/rser20
+- Full "Instructions for Authors" PDF inaccessible (HTTP 403 Forbidden)
+- General Taylor & Francis formatting standards applied by inference
+- Retrieved journal metadata: established 1992, double-blind peer review, welcomes empirical/theoretical/methodological studies and practitioner contributions
+- Scope: MSME entrepreneurship and management
+
+PHASE 2: ARTICLE SPOT-CHECK
+===========================
+Articles fetched: 4 (limited to metadata/abstract level due to paywall)
+
+Accessible article metadata:
+1. "Going global, staying resilient: dual-Role drivers in SMEs" (Ribeiro et al., Vol. 33 No. 1, Dec 2025)
+   - Type: Systematic review (198 articles analyzed, 2001-2025)
+   - Keywords: SME internationalization, organizational resilience, capabilities
+   - Access: ResearchGate link available but full-text paywalled
+
+2. "Market acuity, entrepreneurial hustle, and resilience of nascent entrepreneurial ventures" (Onwe, Vol. 33 No. 1, Jan 2026)
+   - Type: Empirical quantitative (n=413 entrepreneurs, Nigeria)
+   - Methods: Two-way parallel mediation model
+   - Access: Taylor & Francis full-text link available but paywalled
+
+3. "Professionalizing the family business: role of business family attributes" (Dahwa, Vol. 33, Feb 2026)
+   - Topic: Family business professionalization
+   - Access: Title/author metadata accessible only
+
+4. General journal metadata indicates recent articles on:
+   - Digital technology integration in tourism micro-enterprises
+   - Franchise network continuance through economic cycles
+   - Opportunity-oriented entrepreneurial identity and innovation
+
+Spot-check limitation: Full-text access blocked by Taylor & Francis paywall. Unable to verify article structure, heading conventions, citation density, voice/register, or statistical reporting norms beyond field baseline for this specific journal. Confidence in structural deltas is accordingly lower.
+
+PHASE 3: DELTA CLASSIFICATION
+==============================
+
+Deltas identified: 3 (low to moderate confidence due to access limitations)
+
+1. Practitioner Orientation [RELAXATION - ABS 1 tier]
+   - Field baseline (ABS 4*/4): Researcher-to-researcher positioning
+   - SER practice: Explicit welcome for practitioner-authored contributions and policy perspectives
+   - Evidence: Journal scope statement and call for papers
+   - Manifestation: Practical implications may be foregrounded earlier; applied framing acceptable
+
+2. Methodological Pluralism [PRACTICE ONLY - no structural delta]
+   - Field baseline: Heavy quantitative/empirical emphasis
+   - SER practice: Explicit equal welcome for qualitative, mixed, and quantitative
+   - Evidence: Journal scope statement
+   - Manifestation: No visible delta in article structure or conventions; affects scope fit only
+
+3. Scope Specialization [FIELD DEFAULT - no delta]
+   - SER is narrowly specialized in MSMEs and entrepreneurship (tighter scope than field baseline)
+   - This reflects a tighter audience/context, not a writing convention change
+
+FIELD_SKILL OVERRIDES
+=====================
+None. No dimensions where SER hard constraints override the field baseline in terms of writing conventions. The journal follows Taylor & Francis general norms, which align closely with ENT-SBM baseline conventions.
+
+EARLY STOP TRIGGERED
+====================
+No. Full review completed despite access constraints.
+
+ACCESS LIMITATIONS
+==================
+1. Journal's full "Instructions for Authors" document inaccessible (HTTP 403)
+2. Full-text article access blocked by Taylor & Francis paywall
+3. Publisher-specific formatting guidelines for SER not retrievable
+4. No ResearchGate or preprint full-text versions available for this journal's recent articles
+5. Limited article sample (4 titles vs. ideal 10-15) due to paywall constraints
+
+Impact on skill quality:
+- Hard Constraints section relies on Taylor & Francis general standards rather than SER-specific requirements
+- No verification of heading conventions, heading levels, or specific figure/table format norms
+- No confirmation of abstract word limit, keyword count, or reference style specifics
+- Citation density and statistical reporting norms inferred from field baseline, not verified in articles
+- Hedging language, voice register, and sentence structure not empirically sampled from this journal
+
+DELTAS FOUND
+============
+3 dimensions with deltas:
+1. Practitioner orientation [RELAXATION]
+2. Methodological pluralism [PRACTICE ONLY]
+3. No additional writing-convention deltas (voice, citation density, hedging, structure all follow baseline)
+
+EARLY STOP REASON
+=================
+No early stop. Access limitations encountered but research continued to completion with available information.
+
+OVERALL ASSESSMENT
+==================
+Skill file created successfully but with moderate confidence. The journal's general orientation, scope, and methodology welcome are clear, but specific writing conventions (headings, abstract format, citation style, statistical reporting norms) could not be verified empirically due to paywall access. The skill prioritizes FIELD_SKILL baseline compliance and documents observable deltas (practitioner orientation, methodological plurality) with appropriate uncertainty labels.
+
+Recommendation: When this journal's guidelines become accessible or institutional access is available, perform a second-pass review to confirm Hard Constraints section and verify/refine observed deltas.

@@ -1,0 +1,19 @@
+Journal: Business Perspectives and Research
+Slug: business-perspectives-and-research
+ABS: 1
+Field: ETHICS-CSR-MAN (mgmt-field-writing-style baseline used; journal content in practice is general management/finance/governance, not ethics/CSR-specific)
+
+Articles fetched: 6 read at abstract-level detail (full abstract or near-full abstract text retrieved via search-engine snippets); 21 additional article titles/authors surveyed across Vol. 14 Issues 1-3 (2026) via RePEc/IDEAS index for topical and title-convention coverage. No full-text articles were accessible (no institutional proxy in this environment).
+
+Early stop triggered: No. Full good-faith effort completed; access chain exhausted (SAGE journals.sagepub.com TOC/article pages are JS-rendered and returned only navigation shell to WebFetch; PDF full-text fetch also failed to extract readable content). Proceeded with WebSearch-snippet-derived abstracts and RePEc static index as the best available alternative, per assignment instructions.
+
+Deltas found: 3
+1. Length (RELAXATION) - initial submission strictly 6,000-8,000 words, narrower than FIELD_SKILL's general 10,000-15,000+ word range for quantitative deductive management papers.
+2. Abstract (HARD_CONSTRAINT / narrower than FIELD_SKILL) - unstructured, exactly 200 words (FIELD_SKILL allows 150-250).
+3. Structural/Prohibitions (ENFORCED) - stricter explicit double-blind anonymization (identifying info confined to separate title page) and explicit preprint prohibition, both stated more explicitly than typical FIELD_SKILL guidance.
+
+Also noted as PRACTICE ONLY (not stated in guidelines, low-confidence pattern): frequent colon-separated title + descriptive/methodological subtitle convention; strong topical skew toward quantitative firm-level/archival studies on Indian and emerging-market contexts (panel regressions, DEA, event studies).
+
+FIELD_SKILL overrides: none that contradict FIELD_SKILL's core structural/voice/argumentation/methods conventions - all core dimensions (voice/person, argumentation, methods tense and reporting, results/findings presentation, discussion/conclusion structure, citation density, hedging) follow FIELD_SKILL norm (FIELD DEFAULT). Only word-count band, abstract word count, keyword count (4-6, stated explicitly, not in FIELD_SKILL), and anonymization/preprint rules diverge, all consistent with the ABS 1 tier relaxing rather than redefining the baseline.
+
+Access-limitation notes: No EZProxy/institutional access in this environment. SAGE's journals.sagepub.com TOC and article abstract pages are JavaScript-rendered and WebFetch could not retrieve article content from them directly (only site navigation/homepage shell returned). A directly linked PDF (10.1177/22785337211045182) also failed to extract as readable text via WebFetch. All article-level evidence in the skill file was obtained through WebSearch result snippets (which surface search-engine-indexed abstract text) and the RePEc/IDEAS static article index (https://ideas.repec.org/s/sae/busper.html), which was accessible and provided titles/authors across multiple recent issues. This is consistent with the assignment's allowance for a smaller, documented good-faith sample for ABS 1 journals with a thin public access chain.

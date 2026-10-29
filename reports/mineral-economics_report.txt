@@ -1,0 +1,21 @@
+Journal: Mineral Economics
+Slug: mineral-economics
+ABS: 1
+Field: ECON
+Publisher: Springer Nature (Raw Materials Group / Luleå University of Technology)
+
+Articles fetched: 0 full-text/abstract fetches succeeded (all link.springer.com article and guidelines pages returned 303 auth redirects / 403). Title-level survey only: ~150+ article titles across 9 issues (Vol. 36 Iss. 3, 2023 through Vol. 39 Iss. 2, 2026) retrieved via ideas.repec.org/s/spr/minecn.html.
+
+Early stop triggered: No (no existing skill found in dedupe check; proceeded through all phases with degraded access).
+
+Deltas found: 2
+  1. Structural Deviations (PRACTICE ONLY) - journal publishes commentaries, memorial pieces, and book reviews alongside standard research articles, unlike FIELD_SKILL's single empirical/theory template assumption.
+  2. Other Journal-Specific Patterns (RELAXATION) - content mix skews toward applied forecasting/econometric and resource-curse panel studies with lighter identification burden than FIELD_SKILL's ABS 4* baseline implies; scope/topic observation, not a prose-style change.
+
+FIELD_SKILL overrides: none confirmed with high confidence. One GUIDELINE ONLY candidate (abstract length 150-250 words) surfaced via search snippet but could not be verified against the primary guidelines page directly.
+
+Access-limitation notes:
+- Springer's link.springer.com serves a 303 redirect to an IDP auth wall for both the submission-guidelines page and all sampled article pages, blocking WebFetch entirely in this session.
+- WebSearch tool intermittently returned "unavailable" errors during the session, limiting query volume.
+- RePEc/IDEAS mirror (ideas.repec.org/s/spr/minecn.html) provided a full title/author/issue index but no abstract text, so voice, hedging, citation density, and statistical reporting norms could not be directly verified against FIELD_SKILL.
+- Given the thin access chain, the skill is intentionally short and flags most dimensions as unconfirmed/FIELD DEFAULT rather than fabricating findings. This is consistent with the assignment's guidance for ABS 1 / thin-access journals.

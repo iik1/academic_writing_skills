@@ -1,0 +1,18 @@
+Journal: Australian Accounting Review
+Slug: australian-accounting-review
+ABS: 2
+Field: ACCOUNT
+Articles fetched: 10 (abstract-level, via RePEc/IDEAS and search snippets)
+Early stop triggered: No
+
+Deltas found: 3 substantive dimensions
+  - Abstract format: unstructured, 200-word cap, PLUS a separate ~60-word "summary at a glance" for the table of contents (ENFORCED, not in FIELD_SKILL)
+  - Structural flexibility: Free Format submission at initial stage; no rigid numbered-section template enforced (RELAXATION vs. FIELD_SKILL's ABS 4*/4 structural norm)
+  - Article mix: journal publishes short editorial/commentary/"prognostication" pieces without abstracts and systematic-review/qualitative pieces alongside standard archival-empirical articles, broader than FIELD_SKILL's hypothesis-testing template (PRACTICE ONLY)
+
+FIELD_SKILL overrides: Abstract word cap (200) and the "summary at a glance" requirement; structural rigidity relaxed via Free Format submission.
+
+Access-limitation notes:
+- Wiley Online Library pages (onlinelibrary.wiley.com) returned HTTP 402 Payment Required on direct WebFetch; all guideline and article content was obtained via WebSearch snippet extraction and RePEc/IDEAS abstract pages (ideas.repec.org/s/bla/ausact.html) instead.
+- Several sampled RePEc entries (Weber 2023; Bradbury & Howieson 2022; Potter, Ravlic & Wright 2013) had no abstract available online — these are editorial/commentary pieces, which is itself a useful structural data point about the journal's content mix.
+- Could not confirm word/page limits for full manuscripts, table/figure formatting specifics beyond revision-stage file-splitting, or detailed statistical-reporting conventions due to paywalled full text; these are left as "not found" rather than fabricated.

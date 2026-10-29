@@ -1,0 +1,19 @@
+Journal: Quarterly Journal of Austrian Economics
+Slug: quarterly-journal-of-austrian-economics
+ABS: 1
+Field: ECON
+Publisher: Ludwig von Mises Institute
+
+Articles fetched: 6 distinct pieces (5 standard research articles + 1 published memorial-lecture transcript), spanning 2006-2026, via publisher article pages and mises.org (no full-text/institutional access available; abstracts, JEL codes, and section-heading lists only).
+
+Early stop triggered: No. Dedupe check found no existing skill file for this journal; proceeded through full workflow.
+
+Deltas found: 4 dimensions
+  1. Structural Deviations (PRACTICE ONLY / RELAXATION) - descriptive, content-specific headings instead of generic Introduction/Data/Results/Conclusion labels; no consistent standalone numbered Introduction/Conclusion.
+  2. Genre Range (PRACTICE ONLY) - journal also publishes memorial-lecture transcripts and short comments/replies (capped 5 pages), genres FIELD_SKILL does not address.
+  3. Topical Emphasis (PRACTICE ONLY, high prevalence) - large share of sampled output is intellectual history/exegesis of specific Austrian economists rather than original empirical/model-based work.
+  4. Citation Style (HARD_CONSTRAINT, no FIELD_SKILL analog) - Chicago Manual of Style 14th ed. mandated; footnotes explanatory only, never for citation.
+
+FIELD_SKILL overrides: Citation format (Chicago 14th ed., explanatory-only footnotes) overrides FIELD_SKILL's silence on citation style; word/abstract limits (10,000 words exclusive of references, 250-word abstract) are journal-specific constraints FIELD_SKILL explicitly leaves unscoped.
+
+Access-limitation notes: No EZProxy/institutional access in this environment. QJAE full text sits behind a Scholastica-hosted access wall for most articles. Skill was built from publicly visible abstracts, JEL classifications, and section-heading lists (via publisher article pages and mises.org), not full-text prose. This is adequate for structural/citation-format deltas but insufficient to positively confirm sentence-level voice, hedging, or statistical-reporting norms; those dimensions are marked FIELD DEFAULT by absence of contrary evidence, documented as such in the skill file.

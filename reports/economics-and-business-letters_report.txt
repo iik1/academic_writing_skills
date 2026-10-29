@@ -1,0 +1,34 @@
+Journal: Economics and Business Letters
+Slug: economics-and-business-letters
+ABS: 1
+Field: ECON
+Publisher: Oviedo University Press (Universidad de Oviedo)
+
+Articles fetched: 4 direct abstract pages (Hamamura & Hayakawa 2024; Apergis & Apergis 2024;
+Dvoulety 2023; age-of-entrepreneurial-decision article) plus a table-of-contents scan covering
+~20 additional titles across Vol. 12-14 (2023-2025).
+
+Early stop triggered: No (dedupe check found no existing skill for this journal).
+
+Deltas found: 2 dimensions
+  - Structural Deviations (RELAXATION): 2,500-word letter format forces compression vs.
+    FIELD_SKILL's fuller empirical structure; required sections are Introduction, Methods,
+    Data, Results, Concluding Remarks, References — no standalone Related Literature or
+    Robustness/Extensions section.
+  - Other Journal-Specific Patterns (PRACTICE ONLY): Abstracts (max 120 words) state the
+    single main finding tersely rather than the fuller multi-contribution style seen in
+    longer FIELD_SKILL papers; a natural consequence of length limits, not a distinct voice norm.
+
+FIELD_SKILL overrides:
+  - Structure: empirical papers must use Introduction/Methods/Data/Results/Concluding
+    Remarks/References (not the full FIELD_SKILL 7-part structure).
+  - Length: hard 2,500-word cap (excl. abstract, references, tables) — far shorter than
+    typical ABS 4*/4 papers.
+  - Abstract: hard 120-word cap with mandatory first-page bundle (title, abstract, keywords,
+    JEL codes).
+
+Access-limitation notes: No EZProxy/institutional access in this environment. Full text of
+sampled articles was not retrievable (paywalled or no open PDF found); assessment relies on
+the publicly visible guidelines page (reunido.uniovi.es) plus RePEc/IDEAS abstract pages and
+volume tables of contents. This is consistent with the good-faith-effort standard for an
+ABS 1 journal with thin public full-text availability.

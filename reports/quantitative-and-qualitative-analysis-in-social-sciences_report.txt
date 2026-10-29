@@ -1,0 +1,28 @@
+Journal: Quantitative and Qualitative Analysis in Social Sciences (QASS)
+Slug: quantitative-and-qualitative-analysis-in-social-sciences
+ABS: 1
+Field: ECON
+
+Articles fetched: 0 full-text/abstract; 10 title-only entries across archive/forthcoming pages
+(Vol 2-5, 2007-2011 archive; 4 forthcoming 2023 titles). No abstracts, no full text,
+no DOI-resolvable records found via WebSearch, RePEc/IDEAS, or Citefactor (404).
+
+Early stop triggered: No (completed good-faith effort per thin-access protocol for ABS 1 journal)
+
+Deltas found: 2
+ - Structural: JEL classification as mandatory standalone element between Abstract and Keywords (ENFORCED)
+ - Length/Abstract constraint: 7,500-word total cap (incl. tables/figures) and 40-word abstract cap,
+   both far stricter than field norm (GUIDELINE/ENFORCED per explicit "returned without consideration" language)
+
+FIELD_SKILL overrides: length limit (7,500 words), abstract length (40 words), reference placement
+(before figures/tables, after appendix), figures/tables on separate sheets not embedded in text.
+
+Access-limitation notes:
+- Publisher domain in assignment (www.qass.org.uk) is dead/unreachable; live site is qass.uk.
+- No traditional academic publisher identified; site appears independently/self-published via WordPress.
+- Journal publication record appears sparse and irregular (archive stops at 2011, forthcoming list dated 2023),
+  suggesting low volume/frequency.
+- No full text or abstracts accessible for any article; voice, hedging, statistical-reporting, and
+  citation-density deltas could not be empirically confirmed and are marked FIELD DEFAULT by absence
+  of contrary evidence rather than by positive confirmation.
+- Skill should be treated as provisional pending better access to full-text articles.

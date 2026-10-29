@@ -1,0 +1,78 @@
+JOURNAL SKILL REPORT
+====================
+
+Journal Name: Public and Municipal Finance
+Slug: public-and-municipal-finance
+ABS Rating: 1
+Field: FINANCE
+Publisher: Business Perspectives (Sumy, Ukraine)
+
+RESEARCH EXECUTION
+==================
+
+Articles Fetched: 10+ article titles identified from 2024-2025 issues; full-text PDFs inaccessible (HTTP 403 Forbidden)
+Early Stop Triggered: NO (research completed with available resources)
+Access Limitations: Publisher website and full-text articles require authentication or are behind paywall. Author guidelines page not directly publicly retrievable. Analysis based on:
+  - Web search aggregation of journal policies
+  - DOAJ metadata
+  - Journal homepage metadata
+  - Article titles and abstracts from search results
+  - Cross-reference with Business Perspectives publisher standards
+
+DELTAS FOUND: 4 key dimensions differ from FIELD_SKILL
+
+1. Word Limit (ENFORCED — RELAXATION)
+   - Hard constraint: 4,000–6,000 words (1,000–2,000 for short communications)
+   - FIELD_SKILL does not specify explicit word limits
+   - This is substantially shorter than typical ABS 4*/4 journal submissions
+   - Requires ruthless editing and prioritization of core empirical narrative
+
+2. Abstract Format Algorithm (GUIDELINE ONLY — DEVIATION)
+   - Journal guidance suggests formulaic structure: relevance → aim/object → methodology → results → conclusions → practical value
+   - FIELD_SKILL emphasizes research question, method, findings, contribution (less prescriptive)
+   - Emphasis on "practical value" differs from mainstream finance journal abstracts
+   - May reflect broader stakeholder audience (not purely academic)
+
+3. Citation Handling for Non-Latin Scripts (GUIDELINE ONLY — PUBLISHER-LEVEL RULE)
+   - Requires transliteration with English translation in brackets
+   - FIELD_SKILL covers standard author-year format but does not address this
+   - Likely relevant for Ukraine-focused research or references to Cyrillic-script sources
+
+4. Emphasis on Practical Implications (PRACTICE OBSERVED — STAKEHOLDER ORIENTATION)
+   - Article titles suggest stronger emphasis on policy and practitioner relevance
+   - Examples: "Enhancing administrative service delivery," "Does the concept of value for money increase budget performance?"
+   - Reflect journal's positioning toward politicians, civil servants, finance professionals
+   - Recommend explicitly stating practical implications alongside academic contributions
+
+FIELD_SKILL OVERRIDES
+====================
+
+NONE — The journal's guidelines align with field norms for:
+  - Voice and person (first-person active voice)
+  - Formality and tone (high formality, no colloquialisms)
+  - Confidence calibration (strong empirical claims; measured language for mechanisms)
+  - Sentence and paragraph style (complex, dense)
+  - Argumentation structure (introduction roadmap, literature positioning, contributions)
+  - Methods conventions (explicit identification, systematic robustness)
+  - Results reporting (tables primary; prose guided tour; economic significance)
+  - Conclusion structure (restatement → implications → limitations → future work)
+  - Hedging vocabulary and calibration (low-to-moderate; calibrated to claim type)
+
+SKILL FILE LOCATION
+===================
+C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/finance/public-and-municipal-finance_SKILL.md
+
+REPORT GENERATED
+================
+Date: 2026-07-02
+Researcher: Claude Haiku 4.5
+Task: Delta Detection for ABS 1 Finance Journal
+
+NOTES
+=====
+- Journal is full open-access (CC BY license) since August 2019, so author IP is unrestricted
+- Acceptance rate ~29%; median time to decision ~75 days
+- Published quarterly in English since January 2025
+- Indexed in DOAJ, with moderate citation impact (IF 2024 = 2.24, Q2 quartile)
+- Access to full-text articles and author guidelines was blocked; analysis relied on published metadata and policy aggregation from multiple sources
+- No systematic deviation from FIELD_SKILL baseline; journal follows standard finance conventions adapted for ABS 1 tier and public/municipal finance specialization

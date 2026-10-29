@@ -1,0 +1,57 @@
+Journal: Journal of the Royal Statistical Society. Series B: Statistical Methodology
+Slug: journal-of-the-royal-statistical-society-series-b-statistical-methodology
+ABS: 4
+Field: ECON
+Publisher: Oxford University Press (for the Royal Statistical Society)
+
+Articles fetched: 8 full/partial abstract-level fetches (Conformalized Bayesian
+Inference [arXiv 2511.05746]; grouped-data goodness-of-fit [doi
+10.1093/jrsssb/qkag084]; long-term causal inference under persistent
+confounding [JRSSB 87(2):362]; discussion contribution to Whiteley et al.
+Manifold Hypothesis paper [JRSSB 88(2):418]; sparse Bayesian learning via
+hierarchical prior normalization [arXiv 2505.23753]; normal approximations in
+nonparametric empirical Bayes [arXiv 2605.31599]) plus a batch of 5-6
+advance-article titles/one-line summaries pulled from the advance-articles
+listing page (Online Inference Under Over-Parameterized Models, Goodness-of-Fit
+for Grouped Data, Time Series Classification, HMC Sampling, Adaptive
+Experiment Inference, Causal Inference with Network Spillovers). Did not reach
+15 distinct full abstracts; most Series B content sits behind Oxford Academic
+paywall beyond the abstract, and several arXiv preprint PDFs returned only
+partial/binary-encoded text via WebFetch. Stopped once the delta set
+stabilised (structural genre split between standard papers and Discussion
+Papers, plus formal theorem-numbering convention) rather than continuing to
+force additional paywalled fetches.
+
+Early stop triggered: yes - deltas stabilised after ~8 articles; the
+dominant and recurring delta (Discussion Paper track with discussant
+contributions) was confirmed directly by fetching one discussion contribution
+in full, and no new delta categories emerged across the remaining fetches.
+
+Deltas found: 3
+  1. Structural Deviations - Discussion Paper submission track (main paper +
+     400-word discussant contributions + authors' reply; distinct 16-page cap
+     and quarterly deadlines) - ENFORCED.
+  2. Other Journal-Specific Patterns - formal, heavy theorem/lemma/proposition
+     numbering (numbered sequentially by type, not nested under section
+     numbers) - ENFORCED (stated in guidelines, confirmed in formal-results
+     papers sampled).
+  3. Statistical Reporting - theory-first orientation where a "Numerical
+     Studies"/"Simulation Studies" section substitutes for FIELD_SKILL's
+     empirical "Results" section - PRACTICE ONLY / FIELD DEFAULT (statistics
+     venue norm, not a further deviation beyond what FIELD_SKILL's
+     theory-paper conventions already anticipate).
+
+FIELD_SKILL overrides: page-length ceiling (~30 pages target, unlikely
+acceptance beyond), 200-word unstructured abstract with alphabetized
+keywords and no citations/abbreviations, Harvard/author-year citation style
+standardized at production, mandatory public data/code with DOIs before
+acceptance, AI-use disclosure requirement, UK spelling requirement,
+double-spaced 12pt formatting.
+
+Access-limitation notes: No EZProxy/institutional access; relied on Oxford
+Academic public guideline pages, RSS.org.uk PDF notes for authors, arXiv
+preprint versions of Series B papers, and Oxford Academic advance-article
+abstract pages. Several arXiv PDF fetches returned encoded/binary content
+rather than clean text, limiting full-text section-by-section review to
+abstract- and outline-level detail in those cases. No paywalled full-text
+Series B articles were accessed.

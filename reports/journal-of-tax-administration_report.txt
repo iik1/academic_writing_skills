@@ -1,0 +1,94 @@
+JOURNAL SKILL GENERATION REPORT
+================================================================================
+
+Journal Name: Journal of Tax Administration
+Slug: journal-of-tax-administration-writing-style
+ABS Rating: 2
+Field: ACCOUNT
+Publisher: University of Exeter Business School (Tax Administration Research Centre) / Chartered Institute of Taxation
+
+================================================================================
+RESEARCH SUMMARY
+================================================================================
+
+Articles Fetched: 6 articles across volumes 8-10 (2023-2025)
+  - Griffiths & Handford (2025, v10i1): Tax Exceptionalism - New Zealand context
+  - Purba & Tran (2025, v10i1): Profit Shifting - Indonesia multinational study
+  - Thiemann (2024, v9i1): Cryptocurrencies - EU taxation empirical analysis
+  - Wilson & Oats (2023, v8i1): Literature Review - recent tax admin scholarship
+  - Siglé et al. (2025, v10i1): Audit Quality - experience and technology readiness
+  - Media Discourse article (2025, v10i1): Ireland/UK taxation coverage
+
+Author Guidelines Access: SUCCESSFUL - obtained detailed formatting, abstract, heading, table/figure, and submission requirements from official JOTA website.
+
+Early Stop Triggered: NO - sufficient public access to guidelines and article samples achieved. Journal is open-access; all resources publicly available.
+
+================================================================================
+DELTAS FOUND: 6 MAJOR DEVIATIONS
+================================================================================
+
+1. ABSTRACT WORD LIMIT (ENFORCED)
+   - Journal specifies: Maximum 120 words
+   - FIELD_SKILL specifies: "Short, structured summary" but no word limit given
+   - Classification: ENFORCED (stated in guidelines, confirmed in abstracts reviewed)
+
+2. ABSTRACT STRUCTURE (ENFORCED)
+   - Journal specifies: Unstructured, single paragraph only
+   - FIELD_SKILL mentions: "Structured summary"
+   - Classification: ENFORCED (explicit in guidelines; observed in all articles)
+
+3. AI CONTENT PROHIBITION (ENFORCED)
+   - Journal specifies: Papers written using ChatGPT or similar AI tools are not accepted
+   - FIELD_SKILL: No mention of AI restrictions
+   - Classification: ENFORCED (explicit policy stated)
+
+4. HEADING NUMERIC STYLE (ENFORCED)
+   - Journal specifies: Arabic numerals with period (1., 2., 3.) for Level 1; specific font sizing
+   - FIELD_SKILL notes: "Practice varies; Roman vs. Arabic numerals"
+   - Classification: ENFORCED (detailed prescriptive requirement)
+
+5. DIVERSE READERSHIP CALIBRATION (ENFORCED)
+   - Journal specifies: Tailor for academics, policymakers, practitioners, administrators (non-specialists)
+   - FIELD_SKILL assumes: "Specialist in accounting research"
+   - Classification: ENFORCED (explicit in guidelines; observed in article abstracts/intros written for general understanding)
+
+6. TABLE/FIGURE PLACEMENT (ENFORCED)
+   - Journal specifies: Within text at appropriate points, not at end
+   - FIELD_SKILL: Mentions tables as "primary vehicle" but does not specify placement rules
+   - Classification: ENFORCED (explicit in guidelines; observed in articles)
+
+================================================================================
+FIELD_SKILL OVERRIDES
+================================================================================
+
+The following FIELD_SKILL norms are superseded by journal-specific requirements:
+
+1. Abstract format: Unstructured (single paragraph) replaces "structured summary"
+2. Technical audience: Non-specialists (policymakers, practitioners) replaces assumption of "specialist in accounting research"
+3. Heading numbering: Enforces Arabic numerals with period (1., 2., 3.), not variable practice
+4. Content origin: No AI-generated text (explicit prohibition not in FIELD_SKILL)
+
+No other overrides identified. Citation density, voice, statistical reporting, and structural norms align with FIELD_SKILL baseline.
+
+================================================================================
+ACCESS LIMITATIONS AND NOTES
+================================================================================
+
+- All author guidelines and article access: PUBLIC and OPEN-ACCESS (no paywalls encountered)
+- Journal operates fully open-access model (established 2015)
+- PDF full-text downloads available but not fully readable in extraction; HTML article views provided metadata and structural information
+- Six articles examined represent good coverage of journal scope (empirical, theoretical, literature reviews; tax compliance, auditing, international tax issues)
+- No access barriers encountered; research was straightforward due to journal's public-facing resources
+
+================================================================================
+CONFIDENCE ASSESSMENT
+================================================================================
+
+Confidence Level: HIGH
+- All hard constraints extracted directly from official author guidelines
+- Six articles across multiple years provide structural/stylistic confirmation
+- Journal's open-access model ensures data integrity and public verifiability
+- Guidelines are detailed and prescriptive; minimal ambiguity in interpretation
+- No conflicting evidence across articles examined
+
+================================================================================

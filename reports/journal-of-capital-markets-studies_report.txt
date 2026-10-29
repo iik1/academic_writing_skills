@@ -1,0 +1,19 @@
+Journal: Journal of Capital Markets Studies
+Slug: journal-of-capital-markets-studies
+ABS: 1
+Field: FINANCE
+
+Articles fetched: 6 (title/abstract/keyword-level only; full text inaccessible)
+Early stop triggered: No (proceeded through good-faith effort per ABS 1 protocol; documented thin access rather than stopping)
+
+Deltas found: 2 dimensions
+1. Abstract format (ENFORCED) - JCMS/Emerald requires a structured abstract (Purpose / Design-methodology-approach / Findings / Originality-value, <=250 words) vs. FIELD_SKILL's single-paragraph unstructured abstract norm.
+2. Structural/scope deviation (RELAXATION) - As ABS 1, JCMS publishes a wider range of paper types (systematic literature reviews, bibliometric studies, descriptive/institutional pieces) than the identification-driven empirical norm described in FIELD_SKILL. Also notes an explicit "paper type" classification field required at submission (PRACTICE ONLY / Emerald house style).
+
+FIELD_SKILL overrides: Abstract structure (structured Emerald-style abstract overrides FIELD_SKILL's unstructured-paragraph norm).
+
+Access-limitation notes:
+- Direct JCMS author guidelines subpage (emeraldgrouppublishing.com/journal/jcms authors section) returned 403/blocked; relied on Emerald's general/house-style author guidelines (which JCMS follows) plus WebSearch snippets referencing JCMS specifics (Platinum OA via TCMA funding, double-blind review, ScholarOne submission).
+- All Emerald.com article pages hit a CAPTCHA wall on direct WebFetch; article content was retrieved via WebSearch snippets and IDEAS/RePEc abstract pages instead.
+- Could not access full text for any article; assessment of voice, hedging, statistical reporting, and citation density deltas is unconfirmed and marked as such (assumed FIELD DEFAULT pending future access).
+- Word/page limits for JCMS specifically not independently confirmed; general Emerald word-count convention applied as GUIDELINE ONLY.

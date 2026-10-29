@@ -1,0 +1,23 @@
+Journal: Journal of Economic and Financial Sciences
+Slug: journal-of-economic-and-financial-sciences
+ABS: 1
+Field: ECON
+Publisher: AOSIS (Pty) Ltd, with University of Johannesburg College of Business and Economics
+
+Articles fetched: 8 full structured abstracts + 1 corrigendum metadata record (9 total records), all from the current volume, Vol 19 No 1 (2026), plus one corrigendum referencing Vol 17 (2024). The site's issue archive link redirected back to the current issue in this environment, so deeper historical volumes were not reachable; this is disclosed in the skill's Journal Profile section.
+
+Early stop triggered: No — good-faith target of 10-15 was not fully met (9 records), but access chain (archive navigation) was exhausted; documented per instructions for a thin-access ABS 1 journal.
+
+Deltas found: 3 dimensions
+1. Structural Deviations (ENFORCED) — mandatory 7-heading structured abstract for Original Research (Orientation, Research purpose, Motivation for the study, Research approach/design and method, Main findings, Practical/managerial implications, Contribution/value-add), 4-heading for Review Articles; visible JEL Codes and SDG tags appended to article metadata.
+2. Voice and Register (PRACTICE ONLY) — abstract prose is terser/more fragment-style due to structured template and 250-word cap, versus FIELD_SKILL's flowing unstructured abstract norm.
+3. Other Journal-Specific Patterns (RELAXATION) — country/exchange-specific scope framed briefly in Orientation/Motivation fields rather than a fuller motivating hook, driven by word-limit constraints.
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+- Structured abstract format (250/150 word caps, fixed headings) overrides FIELD_SKILL's free-form abstract assumption.
+- Word/reference/table caps (8000 words / 60 refs / 7 tables for ORA; 5000/15/4 for Review; 1000/5/2 for Book Review) — FIELD_SKILL does not specify these (out of scope by design).
+- Harvard (author-date) citation style — matches FIELD_SKILL default, confirmed, no override needed.
+- No footnotes; no Symbol font; unlocked files; Oxford/British English spelling — journal-specific prohibitions not covered by FIELD_SKILL.
+- Max 4 heading levels — journal-specific formatting rule.
+
+Access-limitation notes: Full text of articles was not accessible (paywalled/behind reader view); all findings derive from structured abstracts, keywords, JEL codes, and metadata visible on public article pages, which was sufficient to confirm structured-abstract compliance and metadata-tagging practice but not to assess in-body prose style, citation density by section, or robustness-section conventions in full text. WebSearch tool was intermittently unavailable ("Web search error: unavailable") for several queries; WebFetch on direct URLs was used as the primary method instead. No independent confirmation of citation style or heading-level practice was possible beyond guidelines text, since full-text bodies were not retrievable.

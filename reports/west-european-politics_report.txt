@@ -1,0 +1,13 @@
+Journal: West European Politics
+Slug: west-european-politics
+ABS: 3
+Field: SOC SCI
+
+Articles fetched: 11 (abstract/front-matter level via WebSearch snippets; no full text accessible)
+Early stop triggered: No — stopped at 11 because delta set had stabilised (no new structural/voice/statistical deltas emerging from additional abstracts) and the T&F access chain (WebFetch to tandfonline.com) was fully blocked (HTTP 403) for all direct URL attempts, including guidelines, about-journal, and individual DOI pages.
+
+Deltas found: 2 journal-specific hard constraints beyond FIELD_SKILL scope (word limits: 8,000 words long article / 3,000 words short article; double-blind anonymisation requirement), plus 1 PRACTICE ONLY observation (dual character: comparative quantitative studies alongside single-country election-report pieces) and 1 GUIDELINE ONLY observation (symposium/special issue submission track via dedicated email, 4-6 articles). No deltas found in voice, register, statistical reporting, citation density, hedging, or discussion/conclusion norms — all FIELD DEFAULT.
+
+FIELD_SKILL overrides: Word limit (8,000/3,000 words) — FIELD_SKILL does not specify journal word limits, so this is additive rather than a true override.
+
+Access-limitation notes: Every direct WebFetch to tandfonline.com (author guidelines page, about-this-journal page, and individual article abstract/full pages) returned HTTP 403 Forbidden. All evidence was reconstructed indirectly via WebSearch result snippets, a third-party GitHub database of political science journal word limits (erikgahner/poliscijournals), and institutional repository search hits (Oxford ORA, ResearchGate, EUI Cadmus — the Cadmus PDF link itself also 403'd on direct fetch). Citation style and table/figure formatting rules could not be verified and are flagged as unconfirmed in the skill file. Abstract exact word-limit could not be confirmed; estimated from observed abstract lengths in search snippets (roughly 100-180 words).

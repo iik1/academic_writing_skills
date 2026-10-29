@@ -1,0 +1,210 @@
+DELTA DETECTION REPORT
+Human Resource Development Review
+================================================================================
+
+Journal Name:          Human Resource Development Review
+Journal Slug:          human-resource-development-review
+ABS Rating:            2
+Field:                 HRM&EMP
+Publisher:             SAGE Publications
+
+RETRIEVAL SUMMARY
+================================================================================
+Articles Fetched:      4 distinct publications sampled
+- Ekuma (2024) AI and Automation in HRD: Systematic Review
+- Lee & Lee (2024) People Analytics: Integrative Literature Review
+- Pandey & Mahesh (2025) People-Centric HRM: Systematic Literature Review
+- Journal scope and policy documentation from SAGE and Wikipedia
+
+Early Stop Triggered:   No
+Access Limitations:     PDFs from some sources returned binary/encoded content.
+                       Full text access restricted for most articles behind SAGE paywall.
+                       Relied on abstracts, journal scope statements, and author guidelines.
+
+HARD CONSTRAINTS IDENTIFIED
+================================================================================
+Structure:             Non-empirical work only. Theory, conceptual articles,
+                       integrative literature reviews, theory-building methods,
+                       foundations of HRM. NO empirical field-based studies
+                       (quantitative, qualitative, or mixed methods).
+
+Length:                Maximum 40 pages (including abstract, keywords, references,
+                       tables, figures). Hard limit.
+
+Abstract:              Unstructured, ~150 words. Purpose, major findings/
+                       contributions, conclusions.
+
+Keywords:              Minimum 4-5, specific to topic, listed after abstract.
+
+Citations:             APA format. Every in-text citation must have reference
+                       match (identical spelling, year). Update preprints to
+                       published versions; citations to preprints discouraged.
+
+Formatting:            Word format preferred. Double-spaced text and abstract.
+                       Submit via Sage Track.
+
+Headings:              Clear, consistent levels required. No single mandatory
+                       structure (varies by article type).
+
+Explicit Prohibitions: Field-based empirical studies (data collection from
+                       populations, organizations, individuals) are explicitly
+                       NOT accepted. Empirical method/design papers are rejected.
+
+DELTAS FROM FIELD_SKILL
+================================================================================
+Count:  4 major/critical deltas; 2 minor/practice-level variations; 9 dimensions
+        with no delta
+
+Critical Delta 1: Article Type and Scope (ENFORCED)
+    - FIELD_SKILL assumes diversity: empirical quantitative, qualitative,
+      mixed-method studies PLUS conceptual and review articles.
+    - HRDR accepts ONLY non-empirical work: theory, conceptual models,
+      integrative reviews with theoretical implications, theory history,
+      metatheory, taxonomy/typology development.
+    - Implication: Empirical researcher must reposition work as theoretical
+      synthesis or move to different journal. This is the journal's defining
+      constraint.
+
+Major Delta 2: Argument Structure (PRACTICE ONLY)
+    - FIELD_SKILL describes CARS-like structure (context → gap → solution)
+      typical of empirical papers.
+    - HRDR integrative reviews establish CONCEPTUAL gaps (not empirical gaps),
+      conduct systematic review, synthesize, conclude with theory-building
+      implications. No uniform structure enforced.
+    - Theory articles may skip formal "gap" entirely, instead presenting new
+      model/framework.
+    - Implication: Structure is flexible by article type; no single prescription.
+
+Major Delta 3: Methods Section (N/A)
+    - FIELD_SKILL details empirical methods (sample, measures, estimation,
+      robustness, ethics approval).
+    - HRDR has no empirical research, so traditional methods sections do NOT
+      apply. Integrative reviews may include "Approach" section (databases,
+      selection criteria, synthesis method), but this is methodological
+      documentation of the review process, not empirical methodology.
+    - Implication: Authors should not include empirical methods sections. For
+      reviews, document review process explicitly and systematically.
+
+Major Delta 4: Results/Findings (N/A)
+    - FIELD_SKILL describes quantitative results tables and qualitative findings
+      organized thematically with participant quotations.
+    - HRDR does not report empirical findings. Integrative reviews present
+      synthesized themes/patterns/insights from reviewed literature. Theory
+      articles present new theoretical propositions and frameworks.
+    - Implication: No results tables, no participant data, no new empirical
+      findings reported.
+
+Minor Delta 1: Voice/Register (Practice, aligned overall)
+    - FIELD_SKILL notes HRM&EMP tolerates more narrative/interpretive prose
+      than economics. HRDR's emphasis on theory-building and conceptual
+      synthesis likely encourages slightly more interpretive, discursive tone
+      than strict field norm, especially in integrative reviews framing
+      synthesis arguments.
+    - Implication: Slightly more interpretive framing acceptable; still formal
+      and academic.
+
+Minor Delta 2: Practical Implications (Practice)
+    - FIELD_SKILL treats practical implications as required for applied field.
+    - HRDR expects implications for theory-building and future HRD practice/
+      policy, but emphasis is on theory advancement first. Practitioner
+      implications secondary to theoretical contribution.
+    - Implication: Frame practitioner implications as consequences of
+      theoretical insight, not primary contribution.
+
+FIELD_SKILL OVERRIDE SUMMARY
+================================================================================
+Field baseline assumption about article types (empirical research as core
+output) is incompatible with HRDR's scope. The journal is exclusively
+theory-focused. This is the only major override; most other conventions
+(citation style, voice, hedging, discussion structure) align with field norms.
+
+DIMENSIONS WITH NO DELTA
+================================================================================
+- Sentence and paragraph style (medium to long, subordinated)
+- Signposting and transitions (expected and common)
+- Discussion and conclusion structure (revisiting contributions, limitations,
+  future research)
+- Acknowledgements, ethics statements, author contributions (standard)
+- Hedging and epistemic caution (moderate to high)
+- Citation engagement norms (paraphrase preferred, seminal + recent work cited
+  together)
+
+COMMON PITFALLS (JOURNAL-SPECIFIC)
+================================================================================
+1. Submitting empirical research (quantitative, qualitative, mixed-method field
+   studies). This is the most common rejection reason. HRDR is a theory-only
+   journal. If your work is empirical, reposition as theoretical synthesis or
+   submit elsewhere.
+
+2. Misunderstanding article type. "Literature review" is not always acceptable;
+   it must be integrative, systematic, and with clear theoretical implications.
+   Narrative summaries and descriptive reviews are rejected.
+
+3. Overstating empirical claims. When building theory from other studies' data,
+   distinguish between prior empirical evidence (cited) and your theoretical
+   contribution (novel).
+
+4. Exceeding 40 pages. Initial submissions over 40 pages may be desk-rejected.
+   Conceptual work is dense; prioritize concision and clarity.
+
+ASSESSMENT
+================================================================================
+HRDR represents a significant departure from the field baseline in scope and
+article type. The FIELD_SKILL baseline assumes a healthy mix of empirical
+research (the core output of HRM&EMP journals at ABS 4*/4 levels). HRDR, as
+an ABS 2 journal, has carved out a specialized niche: theory development only.
+
+This is not a "relaxation" of field norms (lower rigor), but a different
+editorial philosophy—value is placed on conceptual clarity, theoretical
+synthesis, and meta-theoretical contribution rather than on empirical evidence
+and methodological rigor. For scholars transitioning from empirical work to
+HRDR submissions, the shift is substantial.
+
+All other conventions (voice, citation density, discussion structure, hedging,
+practical implications) remain aligned with HRM&EMP field norms. The skill
+captures the critical distinction (article type/scope) and flags the second-
+order implications (no empirical methods, no results sections, flexible
+structure).
+
+SOURCES ACCESSED
+================================================================================
+[1] https://journals.sagepub.com/author-instructions/hrd — SAGE author
+    guidelines page (limited content extraction due to page structure)
+
+[2] https://journals.sagepub.com/home/HRD — Journal homepage
+
+[3] https://journals.sagepub.com/doi/10.1177/15344843231224009 — Ekuma (2024)
+    AI and Automation in HRD: Systematic Review (paywalled; abstract and
+    metadata accessed)
+
+[4] https://journals.sagepub.com/doi/abs/10.1177/15344843231217181 — Lee & Lee
+    (2024) People Analytics and HRD: Integrative Literature Review (abstract
+    and metadata)
+
+[5] https://journals.sagepub.com/doi/10.1177/09722629231182853 — Pandey &
+    Mahesh (2025) People-Centric HRM (abstract and metadata)
+
+[6] https://en.wikipedia.org/wiki/Human_Resource_Development_Review — Journal
+    overview with scope statement and editorial philosophy
+
+[7] https://cdn.ymaws.com/www.ahrd.org/resource/resmgr/imported/HRDRManuscriptGuidelines.pdf
+    — AHRD manuscript guidelines (PDF; binary content)
+
+[8] WebSearch queries: journal scope, ABS rating, article types, author
+    guidelines, sample articles (2024–2025), manuscript structure
+
+CONCLUSION
+================================================================================
+The SKILL.md file has been written to capture HRDR's defining constraint
+(theory-only scope) and the secondary implications (no empirical methods, no
+results sections, flexible article structure). The journal is well-
+differentiated from the field baseline and clearly communicated in scope,
+making author guidance relatively straightforward: if your work is empirical
+research, this is not the right venue. If your work is theoretical synthesis,
+integrative review, or conceptual model development, HRDR is appropriate, and
+the conventions align largely with HRM&EMP field norms on voice, citation,
+discussion, and practical implications.
+
+================================================================================
+Report compiled: 2026-07-02
+Field baseline: hrm-field-writing-style_SKILL.md

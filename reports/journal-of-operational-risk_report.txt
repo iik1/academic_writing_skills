@@ -1,0 +1,27 @@
+Journal: Journal of Operational Risk
+Slug: journal-of-operational-risk
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 12 (front-matter/abstract level only, across 3 issues: Vol.20 No.4 Dec 2025, Vol.20 No.3 Sep 2025, Vol.19 No.1 Mar 2024)
+Early stop triggered: No (target of 10-15 met via good-faith front-matter sampling; full text paywalled)
+
+Deltas found: 3 dimensions
+1. Voice and Register — RELAXATION (more descriptive/applied register than ABS 4*/4 assertive contribution-driven framing; consistent with ABS 2 tier, not a new norm)
+2. Structural Deviations — PRACTICE ONLY (many articles are conceptual/survey/bibliometric papers rather than standard empirical Data/Methodology/Results skeleton)
+3. Other Journal-Specific Patterns — PRACTICE ONLY (broader, more applied/practitioner topic scope than mainstream finance; several papers closer to management/risk-management style)
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+- Abstract: 150-200 words (FIELD_SKILL says 150-250) — narrower range
+- Word limits: research papers <=10,000 words; forum papers <=7,000 words (not specified in FIELD_SKILL)
+- Title page separate from anonymized main text (blind review) with running header <=50 chars, word count, figure/table count
+- Keywords (4-6) and "key messages" (3-4 bullets, <=85 chars each) required
+- Citations: author-date per Chicago Manual of Style in-text; APA reference list format
+- Tables/figures: minimized, submitted as separate editable vector files (EPS/SVG/PDF), 300dpi minimum if raster
+- Footnotes: <=2 sentences each
+- GenAI use restricted to data extraction/background research/editing only
+- Declarations of Interest + Acknowledgements sections required
+
+Access limitation notes:
+- No Journal of Operational Risk-specific guidelines page found; guidelines are shared across the entire Risk.net "Risk Journals" portfolio (applies uniformly to Journal of Operational Risk, Journal of Risk, Journal of Credit Risk, etc.)
+- All 12 articles were sampled at title/author/abstract level via issue table-of-contents pages (WebFetch); full text is paywalled behind Risk.net subscription, so fine-grained prose-level observations (sentence length, hedging vocabulary, citation density) could not be directly verified in full text — inferences are based on abstract framing and structural signals only.

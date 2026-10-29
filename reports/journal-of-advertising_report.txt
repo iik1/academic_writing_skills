@@ -1,0 +1,20 @@
+Journal: Journal of Advertising
+Slug: journal-of-advertising
+ABS: 3
+Field: MKT
+
+Articles fetched: 8 distinct articles identified with title/abstract-level confirmation via search-indexed snippets (tandfonline.com blocks direct WebFetch with HTTP 403 on all pages tried, including TOC pages, article full-text pages, and the about-journal page). No full-text article bodies were readable; abstract/scope-level evidence only.
+Early stop triggered: No — access chain (WebFetch direct, WebSearch snippets, ResearchGate, author-site PDFs, AAA-hosted guidelines page, web.archive.org) was exhausted rather than stopped early. web.archive.org fetch is disabled in this environment; journalofadvertising.org (legacy AAA guidelines host) no longer resolves via DNS. One author-hosted PDF (bear.warrington.ufl.edu) downloaded but could not be rendered (no pdftoppm/poppler in environment).
+
+Deltas found: 2 dimensions
+  1. Structural Deviations — GUIDELINE ONLY: distinct "Research Note" article type (max 6,000 words, all-inclusive) alongside standard 12,000-word Original Research Articles/Literature Reviews.
+  2. Other Journal-Specific Patterns — PRACTICE ONLY: (a) recurring emphasis on public policy, ethics, regulation, and social responsibility framing beyond generic managerial relevance; (b) rising share of computational/content-analysis and network-analysis methodology articles.
+
+FIELD_SKILL overrides: none that contradict FIELD_SKILL; word-count ceiling (12,000/6,000, all-inclusive) is a firm journal-specific constraint layered on top of FIELD_SKILL's 8,000-16,000 word general range.
+
+Access-limitation notes:
+- tandfonline.com returned HTTP 403 for every direct WebFetch attempt (author guidelines page, about-this-journal page, current-issue TOC, individual article full-text and abstract pages). All journal-specific facts were obtained via WebSearch result snippets, which for this publisher often surface abstract text even when the underlying page cannot be fetched directly.
+- Legacy AAA-hosted guidelines page (journalofadvertising.org) no longer resolves (DNS failure); guideline content (abstract ~100 words, no structured-abstract requirement) recovered only via cached search snippets referencing that page.
+- web.archive.org is blocked in this environment, preventing a Wayback Machine fallback for the dead guidelines URL.
+- One candidate full-text PDF (Ryu, Affonso & Sela 2025, hosted on a co-author's university site) was fetched but could not be parsed (WebFetch returned raw PDF binary/stream data; local Read tool lacks pdftoppm/poppler-utils to render it).
+- No deltas found in macro structure, voice, hypothesis form, statistical reporting, citation style/density, or hedging — sample is consistent with FIELD_SKILL defaults throughout.

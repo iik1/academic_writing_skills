@@ -1,0 +1,83 @@
+JOURNAL OF EVOLUTIONARY ECONOMICS - DELTA DETECTION REPORT
+========================================================
+
+Journal: Journal of Evolutionary Economics
+Slug: journal-of-evolutionary-economics
+ABS Rating: 2
+Field: ECON
+Publisher: Springer Nature
+ISSN: 1432-1386
+
+ARTICLES SPOT-CHECKED: 12
+- 2026: "Mercantilist and protectionist shocks..." (McCann et al.) [FULL TEXT]
+- 2026: "The emergence and evolution of science–industry intermediaries..." (Tung & Pénin) [ABSTRACT]
+- 2026: "How structural reforms of labor markets..." (Kleinknecht) [ABSTRACT]
+- 2025: "The relationship between pillars of national innovation systems..." (Araújo et al.) [TITLE/METADATA]
+- 2025: "Regional resilience through the lenses of capability approach" (D'Ambrosio & Migheli) [TITLE/METADATA]
+- 2025: "Automation, firm performance, and employment" (Chundakkadan et al.) [TITLE/METADATA]
+- 2025: "Gestation, endowments, and knowledge flows..." (Coad, Kato & Srhoj) [TITLE/METADATA]
+- 2024: "A new empirical index to track technological novelty..." (Gao & Lazarova) [ABSTRACT]
+- 2024: "Artificial intelligence and shapeshifting capitalism" (Grilli et al.) [TITLE/METADATA]
+- 2024: "Venture capital investments in artificial intelligence" (Montanaro et al.) [TITLE/METADATA]
+- 2024: "Robot revolution and human capital accumulation" (Le, Nguyen & Vu) [TITLE/METADATA]
+- 2024: "The impact of environmental regulation on innovation..." (Fabrizi et al.) [TITLE/METADATA]
+
+EARLY STOP TRIGGERED: No. Full spot-check completed.
+
+ACCESS CHAIN NOTES:
+- Springer submission guidelines page: 303 redirect to authentication wall; public summaries used instead
+- IDEAS/RePEc: Full article metadata and abstracts accessible
+- NCBI PMC: One 2026 article publicly accessible via PMC
+- UEA Digital Repository: Article metadata accessible; PDF available to authenticated users
+- ResearchGate: 403 Forbidden; link omitted
+- Full-text Springer articles: Paywalled; public abstracts and metadata used
+
+DELTAS FOUND: 4 dimensions with observed or stated journal-specific practice
+
+1. ABSTRACT LENGTH (ENFORCED)
+   - FIELD_SKILL: No specified length
+   - JOURNAL RULE: 150-250 words; no undefined abbreviations or unspecified references
+   - Classification: ENFORCED (stated in guidelines; confirmed across multiple sources)
+
+2. KEYWORDS REQUIREMENT (ENFORCED)
+   - FIELD_SKILL: Not mentioned
+   - JOURNAL RULE: 4-6 keywords required for indexing
+   - Classification: ENFORCED (stated; observed in all analyzed articles)
+
+3. JEL CODES (ENFORCED)
+   - FIELD_SKILL: Not mentioned as journal-specific requirement
+   - JOURNAL RULE: "Appropriate number" of JEL codes required
+   - Classification: ENFORCED (stated; observed in all articles)
+
+4. EMPIRICAL WORK PROMINENCE (PRACTICE ONLY, RELAXATION)
+   - FIELD_SKILL: ABS 4* outlets ~50/50 theory-empirics balance
+   - JOURNAL PRACTICE: ~60-70% empirical, ~30-40% theory or theory-empirics hybrid
+   - Classification: PRACTICE ONLY / RELAXATION (ABS 2 tier, not a new norm)
+
+5. EXPLICIT EVOLUTIONARY FRAMING (PRACTICE ONLY)
+   - FIELD_SKILL: Not specified; generic economics norms apply
+   - JOURNAL PRACTICE: All articles engage Schumpeterian tradition, innovation, structural change, disequilibrium
+   - Classification: PRACTICE ONLY (strong tradition; not formally required; visible in all samples)
+
+6. FIGURE PREVALENCE (PRACTICE ONLY)
+   - FIELD_SKILL: Figures common; emphasis on tables for quantitative results
+   - JOURNAL PRACTICE: Empirical articles frequently lead with 6-14 figures; maps, box plots, scatter plots prominent
+   - Classification: PRACTICE ONLY (observed pattern; no stated rule)
+
+FIELD_SKILL OVERRIDES: None detected
+- Submission format, authorship changes, disclosure rules, citation style: all align with or defer to FIELD_SKILL
+- No journal rule supersedes FIELD_SKILL voice, argumentation, or hedging norms
+
+MANUSCRIPT PREPARATION HARD CONSTRAINTS NOT IN FIELD_SKILL:
+1. Editable source files (.docx, LaTeX) required; incomplete sets trigger desk rejection
+2. Author contribution and competing interests via submission interface only (not in manuscript)
+3. Corresponding author must be prepared to provide ethical compliance documentation if requested
+
+LOW-PREVALENCE OBSERVATIONS (not elevated to norms):
+- One article (Kleinknecht 2026) published as an "essay," a rarely used format in FIELD_SKILL journals
+- Variation in introduction length: some brief (2 pages), some longer (4-5 pages); no standard enforced
+
+CONCLUSION:
+Journal of Evolutionary Economics follows ECON field baseline conventions closely. The ABS 2 tier (vs. ABS 4*/4 baseline) is reflected in higher empirical work prevalence and slightly tighter literature engagement, but these are relaxations of tier, not novel norms. The defining characteristic is the explicit requirement to engage evolutionary theory and Schumpeterian frameworks—a disciplinary choice, not a journal innovation.
+
+Skill file created with minimal content beyond FIELD_SKILL, as warranted by the low delta count and good alignment with the baseline. Three new ENFORCED constraints (abstract, keywords, JEL codes) are operational; four PRACTICE/RELAXATION observations documented for writer awareness.

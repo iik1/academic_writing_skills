@@ -1,0 +1,14 @@
+Journal: Sport Management Review
+Slug: sport-management-review
+ABS: 2
+Field: SECTOR
+Articles fetched: 17 (abstract/metadata level; full body text was inaccessible due to paywall + tandfonline.com 403 blocks on all direct fetch attempts, including PDF links)
+Early stop triggered: no (continued sampling until pattern stabilized across qualitative, quantitative, and conceptual/review article types with no new deltas emerging)
+Deltas found: 0 (all dimensions classified FIELD DEFAULT; no ENFORCED/GUIDELINE ONLY/PRACTICE ONLY deltas could be confirmed given access limitations)
+FIELD_SKILL overrides: none confirmed — hard constraints (word limits, explicit prohibitions, table/figure rules) could not be retrieved from guidelines due to persistent HTTP 403 blocks on tandfonline.com; documented as unknown rather than asserted
+
+Notes:
+- tandfonline.com (Taylor & Francis) blocked all direct WebFetch attempts, including the author-guidelines page and article PDFs, with HTTP 403. Evidence was gathered instead from RePEc/IDEAS abstract pages, WebSearch snippets of Taylor & Francis "Full article" pages, and one author faculty page (danielfunk.com).
+- The journal migrated from Elsevier/ScienceDirect to Taylor & Francis for current volumes (27-29, 2024-2026); legacy Elsevier "Guide for Authors" content is stale and should not be used.
+- Because guidelines could not be fetched directly, Hard Constraints for length, table/figure rules, and explicit prohibitions are marked "unknown" rather than asserted — this skill is weaker on ENFORCED-tier evidence than journals with directly fetchable guidelines. Recommend a follow-up pass if EZProxy or an alternate access route becomes available.
+- Not in the dispatch_journal_agents.py registry (SECTOR list is ABS 3/4 tourism/hospitality/transport journals); skill generated manually as a delta-detection pass against sector-field-writing-style, mirroring the process used for journal-sports-economics.

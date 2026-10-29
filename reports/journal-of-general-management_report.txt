@@ -1,0 +1,23 @@
+Journal: Journal of General Management
+Slug: journal-of-general-management
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 5 (abstract/title level via search snippets; full text inaccessible — SAGE article pages are JS-rendered and WebFetch only returned homepage/navigation content)
+Early stop triggered: No (proceeded through full good-faith spot-check per ABS 1 allowance)
+
+Deltas found: 4 dimensions
+1. Length — HARD CONSTRAINT — normal article length 4,000-6,000 words (FIELD_SKILL norm is 10,000-18,000+ words). Substantial compression.
+2. Abstract — HARD CONSTRAINT — unstructured synopsis of max 100 words + min 5 keywords (FIELD_SKILL norm is 150-250 words).
+3. Citations — HARD CONSTRAINT — SAGE Harvard style (author-date), not APA: up to 3 authors before "et al." (vs APA's 2), et al. set upright not italic, no ibid./op.cit., same-author multiple works ordered oldest-to-newest.
+4. Other Journal-Specific Patterns — PRACTICE-level — journal explicitly frames itself around practitioner/policymaker knowledge exchange ("thought leadership"), suggesting heavier weighting of managerial implications than typical FIELD_SKILL guidance.
+Also noted as RELAXATION (not new norm): implied shorter Theory/Discussion sections given the word cap — inferred, not explicitly stated.
+
+FIELD_SKILL overrides: Length, Abstract format, Citation style (SAGE Harvard vs APA) — all three are HARD_CONSTRAINTS that override FIELD_SKILL.
+
+Access-limitation notes:
+- journals.sagepub.com/author-instructions/gem and /doi/full/... pages are JS-rendered SPAs; WebFetch consistently returned only navigation/footer content regardless of exact URL used.
+- All guideline details (word limits, synopsis length, keyword minimum, SAGE Harvard citation rules) were recovered via WebSearch's search-engine-extracted snippets of the same pages, cross-validated across multiple queries for consistency.
+- Article-level evidence (5 articles) is abstract/title-level only, sourced via WebSearch snippets from SAGE abstract pages, ResearchGate, and one external repository (iris.luiss.it, which returned 403 on direct fetch but was indexed by search).
+- No RePEc/IDEAS indexing found for this journal.
+- Full-text reading of any article was not achieved; this is documented as an inherent limitation of an ABS 1 journal with no open-access mandate and paywalled SAGE hosting, consistent with the assignment's expectation of thin access chains for lower-tier journals.

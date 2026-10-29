@@ -1,0 +1,28 @@
+Journal: Journal of Investment Strategies
+Slug: journal-of-investment-strategies
+ABS: 1
+Field: FINANCE
+
+Articles fetched: 16 (front-matter/abstracts only; full text paywalled, no institutional access)
+Early stop triggered: No (reached good-faith target sample of 15+ across 2011-2025 issues)
+
+Deltas found: 3 dimensions
+  1. Structural Deviations - distinct "Forum" discussion-paper article type (7,000-word cap, practitioner framing, does not follow full IMRaD-style structure) - ENFORCED
+  2. Structural Deviations - required "Key messages" bullet block (3-4 bullets, max 85 chars each) before main text - ENFORCED
+  3. Other Journal-Specific Patterns - abstracts skew toward applied/practitioner framing over identification-heavy empirical framing - PRACTICE ONLY / RELAXATION (consistent with ABS 1 tier)
+
+FIELD_SKILL overrides (Hard Constraints):
+  - Abstract word count: 150-200 words (narrower than FIELD_SKILL's 150-250)
+  - Citation style: Chicago Manual of Style author-date in-text + APA-formatted reference list (FIELD_SKILL does not specify a particular manual)
+  - Required title page with running header (<=50 chars), word count, figure/table count
+  - Blind review: no author names/affiliations in main text
+  - Word limits: 10,000 (research papers) / 7,000 (Forum papers)
+  - Footnotes: sparing use, max two sentences each
+  - GenAI restricted to data extraction/background research/editing only, not drafting
+  - Published papers must not be posted online post-publication
+
+Access-limitation notes:
+  - No EZProxy/institutional access in this environment; all Risk.net article pages are paywalled beyond title/author/abstract.
+  - Used publisher issue-listing pages, RePEc/IDEAS index, and search-engine abstract snippets rather than full-text PDFs.
+  - Author guidelines page fetched is the house-wide "Risk Journals Submission Guidelines" page, which applies uniformly across Risk.net journals including this one (no separate JIS-specific guidelines page was found).
+  - Sample spans 2011-2025 issues; structure/voice observations are based on abstracts and section-list visibility only, not full statistical reporting or citation-density counts within body text.
