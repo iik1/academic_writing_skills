@@ -1,4 +1,20 @@
 ---
+name: mkt-field-writing-style
+description: >
+  Normative academic writing conventions for the MKT field,
+  derived exclusively from ABS 4* and ABS 4 journals. Use this skill
+  as a baseline prior when writing for any journal in the MKT field.
+  Trigger on phrases like "write for a MKT journal", "what does
+  MKT writing look like", "field norms for MKT", or when a
+  journal-specific skill references this baseline. Superseded by
+  journal-specific skills where they conflict.
+---
+
+# Academic Writing Conventions: Marketing (MKT)
+
+**Skill metadata** (carried over from the original frontmatter):
+
+```yaml
 field: MKT
 abs_journals_used:
   - Journal of Consumer Research
@@ -11,9 +27,7 @@ abs4_star_journals: 4
 abs4_journals: 2
 articles_reviewed: 9
 last_updated: 2026-04-23
----
-
-# Academic Writing Conventions: Marketing (MKT)
+```
 
 ## 1. Macro Structure
 

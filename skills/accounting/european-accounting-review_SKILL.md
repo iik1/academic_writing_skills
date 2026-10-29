@@ -1,4 +1,19 @@
 ---
+name: european-accounting-review-writing-style
+description: >
+  Journal-specific writing conventions for European Accounting Review
+  (ABS 3, ACCOUNT). Use alongside account-field-writing-style,
+  which provides the field baseline. This skill records only what differs
+  from that baseline. Trigger on phrases like "write for European Accounting Review",
+  "submit to European Accounting Review", "match European Accounting Review style", or when
+  reviewing a draft against this journal's requirements.
+---
+
+# European Accounting Review — Journal-Specific Delta
+
+**Skill metadata** (carried over from the original frontmatter):
+
+```yaml
 journal: European Accounting Review
 publisher: Routledge (Taylor & Francis) for the European Accounting Association (EAA)
 abs_rating: 3
@@ -11,9 +26,7 @@ skill_type: DELTA
 baseline: ACCOUNT_FIELD_SKILL
 generated: 2026-04-21
 articles_checked: 2
----
-
-# European Accounting Review — Journal-Specific Delta
+```
 
 This file records ONLY deviations from the ACCOUNT field baseline. Dimensions not listed here conform to FIELD DEFAULT. Apply all ACCOUNT field norms first, then apply these overrides.
 
