@@ -1,3 +1,14 @@
+---
+name: entrepreneurship-theory-practice-writing-style
+description: >
+  Journal-specific writing conventions for Entrepreneurship Theory and Practice
+  (ABS 4*, ENT-SBM). Use alongside entrepreneurship-field-writing-style,
+  which provides the field baseline. This skill records only what differs
+  from that baseline. Trigger on phrases like "write for ETP",
+  "submit to Entrepreneurship Theory and Practice", "match ETP style", or when
+  reviewing a draft against this journal's requirements.
+---
+
 # Entrepreneurship Theory and Practice (ETP) — Journal-Specific Writing Skill
 
 **Journal**: Entrepreneurship Theory and Practice  

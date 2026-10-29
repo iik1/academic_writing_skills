@@ -1,3 +1,4 @@
+---
 name: journal-financial-economics-writing-style
 description: >
   Journal-specific writing conventions for Journal of Financial Economics
@@ -6,6 +7,7 @@ description: >
   from that baseline. Trigger on phrases like "write for Journal of Financial Economics",
   "submit to Journal of Financial Economics", "match Journal of Financial Economics style", or when
   reviewing a draft against this journal's requirements.
+---
 
 # Journal Writing Skill: Journal of Financial Economics
 

@@ -1,3 +1,14 @@
+---
+name: ijfe-writing-style
+description: >
+  Journal-specific writing conventions for International Journal of Finance and Economics
+  (ABS 3, FINANCE). Use alongside finance-field-writing-style,
+  which provides the field baseline. This skill records only what differs
+  from that baseline. Trigger on phrases like "write for IJFE",
+  "submit to International Journal of Finance and Economics", "match IJFE style", or when
+  reviewing a draft against this journal's requirements.
+---
+
 # Writing Style Skill: International Journal of Finance and Economics (IJFE)
 
 ## Journal Profile

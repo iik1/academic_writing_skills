@@ -1,3 +1,14 @@
+---
+name: management-accounting-research-writing-style
+description: >
+  Journal-specific writing conventions for Management Accounting Research
+  (ABS 3, ACCOUNT). Use alongside account-field-writing-style,
+  which provides the field baseline. This skill records only what differs
+  from that baseline. Trigger on phrases like "write for Management Accounting Research",
+  "submit to Management Accounting Research", "match Management Accounting Research style", or when
+  reviewing a draft against this journal's requirements.
+---
+
 # Management Accounting Research — Journal-Specific Writing Skill
 
 **Journal:** Management Accounting Research (MAR)
