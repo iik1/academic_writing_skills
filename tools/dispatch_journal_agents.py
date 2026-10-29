@@ -27,6 +27,8 @@ import threading
 from pathlib import Path
 from datetime import datetime, timedelta
 
+from inject_ai_patterns import InjectError, add_section_text, load_fragment
+
 
 # ─────────────────────────────────────────────
 # PATHS
@@ -522,9 +524,18 @@ def extract_and_save(stdout, slug, journal_name, field=None):
         report_match.group(1).strip() if report_match else "(no report)"
     )
 
+    # Add the canonical "Avoiding AI-Writing Patterns" block (tools/ai_patterns_fragment.md).
+    # If that fails (e.g. the agent wrote the section twice), save the skill as generated
+    # and report the failure so the journal can be retried.
+    try:
+        skill_content = add_section_text(skill_content, load_fragment())
+        reason = "ok"
+    except InjectError as exc:
+        reason = f"ai_patterns_inject_failed: {exc}"
+
     (skill_dir / f"{slug}_SKILL.md").write_text(skill_content, encoding="utf-8")
     (reports_dir / f"{slug}_report.txt").write_text(report_content, encoding="utf-8")
-    return True, "ok"
+    return reason == "ok", reason
 
 
 # ─────────────────────────────────────────────

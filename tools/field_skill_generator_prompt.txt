@@ -131,6 +131,7 @@ PHASE 4 - WRITE FIELD_SKILL.md
 
 Produce the complete FIELD_SKILL.md using EXACTLY this structure.
 Do not add, remove, or rename any section.
+Do NOT write an "Avoiding AI-Writing Patterns" section: the pipeline adds it automatically.
 
 ---
 name: ${FIELD_SLUG}-field-writing-style

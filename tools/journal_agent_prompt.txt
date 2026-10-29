@@ -138,6 +138,7 @@ CRITICAL OUTPUT RULES:
   - NEVER repeat FIELD_SKILL content verbatim
   - NEVER describe field conventions as if journal-specific
   - Keep it short: few deltas = short file
+  - Do NOT write an "Avoiding AI-Writing Patterns" section, even though FIELD_SKILL has one: the pipeline adds it automatically
   - Every entry must include its delta classification label
 
 ---

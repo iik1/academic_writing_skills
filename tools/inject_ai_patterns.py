@@ -22,11 +22,14 @@ without BOM) and line endings (LF or CRLF) are kept. Idempotent: a second run ch
 nothing.
 
 If any file has zero sections or more than one, nothing is written and the script exits 1.
+With --add-missing, a file with no section gets one before "## Sources" instead
+(dispatch_journal_agents.py does this for every skill it generates).
 
 Usage:
   python inject_ai_patterns.py                      # all skills under skills/
   python inject_ai_patterns.py --dry-run            # report only, write nothing
   python inject_ai_patterns.py path/to/x_SKILL.md   # specific files only
+  python inject_ai_patterns.py --add-missing path/to/new_SKILL.md
 """
 
 import argparse
@@ -141,18 +144,40 @@ def inject_text(text, fragment):
     return (BOM if bom else "") + out
 
 
+def add_section_text(text, fragment):
+    """
+    Like inject_text, but a skill with no section gets one: inserted before the "## Sources"
+    heading (or appended at the end), preceded by a "---" separator. Used for newly
+    generated skills, which are written without the section.
+    """
+    if any(l.rstrip() == HEADING for l in text.splitlines()):
+        return inject_text(text, fragment)
+
+    newline = "\r\n" if "\r\n" in text else "\n"
+    lines = text.replace("\r\n", "\n").rstrip("\n").split("\n")
+    sources = next((i for i, l in enumerate(lines) if l.startswith("## Sources")), len(lines))
+    head, tail = lines[:sources], lines[sources:]
+    while head and head[-1].strip() == "":
+        head.pop()
+    if head and head[-1].strip() != SEPARATOR:
+        head += ["", SEPARATOR]
+    lines = head + ["", HEADING] + build_middle(fragment, at_eof=not tail) + tail
+    return newline.join(lines) + newline
+
+
 def find_skills(skills_dir=SKILLS_DIR):
     return sorted(skills_dir.rglob("*_SKILL.md"))
 
 
-def inject_files(paths, fragment, dry_run=False):
+def inject_files(paths, fragment, dry_run=False, add_missing=False):
     """Inject into every path. Writes nothing unless every file parses. Returns changed paths."""
+    inject = add_section_text if add_missing else inject_text
     updates, errors = [], []
     for path in paths:
         try:
             raw = path.read_bytes()
             text = raw.decode("utf-8")
-            new = inject_text(text, fragment)
+            new = inject(text, fragment)
         except (InjectError, UnicodeDecodeError) as exc:
             errors.append(f"{path}: {exc}")
             continue
@@ -174,12 +199,15 @@ def main():
                         help="skill files to process (default: every *_SKILL.md under skills/)")
     parser.add_argument("--fragment", type=Path, default=FRAGMENT)
     parser.add_argument("--dry-run",  action="store_true", help="report changes, write nothing")
+    parser.add_argument("--add-missing", action="store_true",
+                        help="add the section to skills that have none, instead of failing")
     args = parser.parse_args()
 
     paths = args.paths or find_skills()
     try:
         fragment = load_fragment(args.fragment)
-        changed = inject_files(paths, fragment, dry_run=args.dry_run)
+        changed = inject_files(paths, fragment, dry_run=args.dry_run,
+                               add_missing=args.add_missing)
     except InjectError as exc:
         print(f"ERROR: nothing written.\n{exc}", file=sys.stderr)
         sys.exit(1)
