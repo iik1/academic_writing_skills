@@ -25,8 +25,9 @@ Matching:
      (ignoring case, punctuation, "&"/"and" and a leading "The") is stored unconfirmed;
      anything else is left unmatched with the top candidates listed.
 
-Reviewing: to accept a name match, set "confirmed": true. To fix or fill in a match, set
-"source_id" (and "display_name"), "method": "manual" and "confirmed": true.
+Reviewing: to accept matches, run --confirm with their slugs (or set "confirmed": true by
+hand). To fix or fill in a match, set "source_id" (and "display_name"), "method": "manual"
+and "confirmed": true.
 
 Re-running skips journals already in the map, so a run stopped by OpenAlex's daily budget
 continues where it left off. --refresh re-resolves the unconfirmed ones (e.g. after adding
@@ -40,10 +41,12 @@ Usage:
   python build_openalex_sources.py --field STRAT
   python build_openalex_sources.py --slug strategic-management-journal
   python build_openalex_sources.py --issn-csv tools/abs_ajg_2024_full_list.csv --refresh
+  python build_openalex_sources.py --confirm mis-quarterly nature
 """
 
 import argparse
 import csv
+import html
 import json
 import re
 import sys
@@ -95,8 +98,9 @@ def norm_issn(text):
 
 
 def norm_name(name):
-    """Lower-case, "&" -> "and", no punctuation or leading "the", single spaces."""
-    name = name.lower().replace("&", " and ")
+    """HTML entities decoded (OpenAlex has "&amp"), lower-case, "&" -> "and", no punctuation
+    or leading "the", single spaces."""
+    name = html.unescape(name).lower().replace("&", " and ")
     name = re.sub(r"[^a-z0-9 ]+", " ", name)
     name = re.sub(r"^\s*the\s+", "", name)
     return " ".join(name.split())
@@ -336,6 +340,20 @@ def summarize(sources, slugs):
     return "\n".join(lines)
 
 
+def confirm(slugs):
+    """Mark reviewed matches as confirmed. Refuses slugs that are missing or have no match."""
+    sources = load_map()
+    bad = [s for s in slugs if not (sources.get(s) or {}).get("source_id")]
+    if bad:
+        sys.exit(f"ERROR: nothing written; not in the map or unmatched: {', '.join(bad)}")
+    for slug in slugs:
+        e = sources[slug]
+        e["confirmed"] = True
+        e.pop("note", None)
+        print(f"  confirmed {slug}: {e['display_name']} ({e['source_id']})")
+    save_map(sources)
+
+
 def main():
     parser = argparse.ArgumentParser(description="Match registry journals to OpenAlex sources.")
     parser.add_argument("--field",    type=str, default=None)
@@ -344,7 +362,13 @@ def main():
                         help="CSV with journal titles and ISSNs, e.g. the ABS AJG list")
     parser.add_argument("--refresh",  action="store_true",
                         help="re-resolve journals already in the map (except manual/confirmed)")
+    parser.add_argument("--confirm",  nargs="+", metavar="SLUG",
+                        help="mark these slugs' matches as confirmed after review (no requests)")
     args = parser.parse_args()
+
+    if args.confirm:
+        confirm(args.confirm)
+        return
 
     if not (OPENALEX_MAILTO or OPENALEX_API_KEY):
         sys.exit("ERROR: set OPENALEX_MAILTO (and OPENALEX_API_KEY if OpenAlex requires one) "
