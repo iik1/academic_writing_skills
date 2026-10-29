@@ -1,0 +1,2298 @@
+{
+  "aaaj": {
+    "journal": "Accounting, Auditing and Accountability Journal",
+    "source_id": "S4210224324",
+    "display_name": "Accounting Auditing & Accountability Journal",
+    "issn_l": "0951-3574",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0951-3574"
+    ]
+  },
+  "abacus": {
+    "journal": "Abacus",
+    "source_id": "S161221442",
+    "display_name": "Abacus",
+    "issn_l": "0001-3072",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1467-6281"
+    ]
+  },
+  "academy-management-annals": {
+    "journal": "Academy of Management Annals",
+    "source_id": "S27614628",
+    "display_name": "Academy of Management Annals",
+    "issn_l": "1941-6067",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1941-6520"
+    ]
+  },
+  "academy-management-journal": {
+    "journal": "Academy of Management Journal",
+    "source_id": "S117778295",
+    "display_name": "Academy of Management Journal",
+    "issn_l": "0001-4273",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0001-4273"
+    ]
+  },
+  "academy-management-learning-education": {
+    "journal": "Academy of Management Learning and Education",
+    "source_id": "S45682993",
+    "display_name": "Academy of Management Learning and Education",
+    "issn_l": "1537-260X",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1537-260X"
+    ]
+  },
+  "academy-management-review": {
+    "journal": "Academy of Management Review",
+    "source_id": "S46763546",
+    "display_name": "Academy of Management Review",
+    "issn_l": "0363-7425",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0363-7425"
+    ]
+  },
+  "accounting-business-research": {
+    "journal": "Accounting and Business Research",
+    "source_id": "S323237",
+    "display_name": "Accounting and Business Research",
+    "issn_l": "0001-4788",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0001-4788"
+    ]
+  },
+  "accounting-forum": {
+    "journal": "Accounting Forum",
+    "source_id": "S131296671",
+    "display_name": "Accounting Forum",
+    "issn_l": "0155-9982",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0155-9982"
+    ]
+  },
+  "accounting-horizons": {
+    "journal": "Accounting Horizons",
+    "source_id": "S181356434",
+    "display_name": "Accounting Horizons",
+    "issn_l": "0888-7993",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0888-7993"
+    ]
+  },
+  "accounting-organizations-society": {
+    "journal": "Accounting, Organizations and Society",
+    "source_id": "S198892436",
+    "display_name": "Accounting Organizations and Society",
+    "issn_l": "0361-3682",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0361-3682"
+    ]
+  },
+  "accounting-review": {
+    "journal": "Accounting Review",
+    "source_id": "S160506855",
+    "display_name": "The Accounting Review",
+    "issn_l": "0001-4826",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0001-4826"
+    ]
+  },
+  "administrative-science-quarterly": {
+    "journal": "Administrative Science Quarterly",
+    "source_id": "S143668711",
+    "display_name": "Administrative Science Quarterly",
+    "issn_l": "0001-8392",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0001-8392"
+    ]
+  },
+  "aej-applied": {
+    "journal": "American Economic Journal: Applied Economics",
+    "source_id": "S42893225",
+    "display_name": "American Economic Journal Applied Economics",
+    "issn_l": "1945-7782",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1945-7782"
+    ]
+  },
+  "aej-economic-policy": {
+    "journal": "American Economic Journal: Economic Policy",
+    "source_id": "S158011328",
+    "display_name": "American Economic Journal Economic Policy",
+    "issn_l": "1945-7731",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1945-7731"
+    ]
+  },
+  "aej-macroeconomics": {
+    "journal": "American Economic Journal: Macroeconomics",
+    "source_id": "S170166683",
+    "display_name": "American Economic Journal Macroeconomics",
+    "issn_l": "1945-7707",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1945-7707"
+    ]
+  },
+  "aej-microeconomics": {
+    "journal": "American Economic Journal: Microeconomics",
+    "source_id": "S96919139",
+    "display_name": "American Economic Journal Microeconomics",
+    "issn_l": "1945-7669",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1945-7669"
+    ]
+  },
+  "american-economic-review": {
+    "journal": "American Economic Review",
+    "source_id": "S23254222",
+    "display_name": "American Economic Review",
+    "issn_l": "0002-8282",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0002-8282"
+    ]
+  },
+  "american-journal-political-science": {
+    "journal": "American Journal of Political Science",
+    "source_id": "S90314269",
+    "display_name": "American Journal of Political Science",
+    "issn_l": "0092-5853",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1540-5907",
+      "0092-5853"
+    ]
+  },
+  "american-journal-sociology": {
+    "journal": "American Journal of Sociology",
+    "source_id": "S122471516",
+    "display_name": "American Journal of Sociology",
+    "issn_l": "0002-9602",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0002-9602"
+    ]
+  },
+  "american-political-science-review": {
+    "journal": "American Political Science Review",
+    "source_id": "S176007004",
+    "display_name": "American Political Science Review",
+    "issn_l": "0003-0554",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0003-0554"
+    ]
+  },
+  "american-sociological-review": {
+    "journal": "American Sociological Review",
+    "source_id": "S157620343",
+    "display_name": "American Sociological Review",
+    "issn_l": "0003-1224",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0003-1224"
+    ]
+  },
+  "annals-operations-research": {
+    "journal": "Annals of Operations Research",
+    "source_id": "S57667410",
+    "display_name": "Annals of Operations Research",
+    "issn_l": "0254-5330",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0254-5330"
+    ]
+  },
+  "annals-statistics": {
+    "journal": "Annals of Statistics",
+    "source_id": "S119757635",
+    "display_name": "The Annals of Statistics",
+    "issn_l": "0090-5364",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0090-5364"
+    ]
+  },
+  "annals-tourism-research": {
+    "journal": "Annals of Tourism Research",
+    "source_id": "S51885707",
+    "display_name": "Annals of Tourism Research",
+    "issn_l": "0160-7383",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0160-7383"
+    ]
+  },
+  "annual-review-financial-economics": {
+    "journal": "Annual Review of Financial Economics",
+    "source_id": "S4210170931",
+    "display_name": "Annual Review of Financial Economics",
+    "issn_l": "1941-1367",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1941-1367"
+    ]
+  },
+  "annual-review-sociology": {
+    "journal": "Annual Review of Sociology",
+    "source_id": "S61274580",
+    "display_name": "Annual Review of Sociology",
+    "issn_l": "0360-0572",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0360-0572"
+    ]
+  },
+  "antipode": {
+    "journal": "Antipode",
+    "source_id": "S47624153",
+    "display_name": "Antipode",
+    "issn_l": "0066-4812",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1467-8330",
+      "0066-4812"
+    ]
+  },
+  "applied-linguistics": {
+    "journal": "Applied Linguistics",
+    "source_id": "S183798913",
+    "display_name": "Applied Linguistics",
+    "issn_l": "0142-6001",
+    "method": "name",
+    "confirmed": true,
+    "issns_tried": [],
+    "candidates": [
+      {
+        "source_id": "S108074651",
+        "display_name": "Annual Review of Applied Linguistics",
+        "issn_l": "0267-1905",
+        "publisher": "Cambridge University Press",
+        "homepage_url": "http://journals.cambridge.org/APL",
+        "works_count": 820
+      },
+      {
+        "source_id": "S174221484",
+        "display_name": "International Journal of Applied Linguistics",
+        "issn_l": "0802-6106",
+        "publisher": "Wiley",
+        "homepage_url": "https://onlinelibrary.wiley.com/journal/14734192",
+        "works_count": 1917
+      },
+      {
+        "source_id": "S2764731898",
+        "display_name": "IRAL - International Review of Applied Linguistics in Language Teaching",
+        "issn_l": "0019-042X",
+        "publisher": "De Gruyter",
+        "homepage_url": null,
+        "works_count": 2220
+      }
+    ]
+  },
+  "auditing": {
+    "journal": "Auditing: A Journal of Practice & Theory",
+    "source_id": "S75845752",
+    "display_name": "Auditing A Journal of Practice & Theory",
+    "issn_l": "0278-0380",
+    "method": "name",
+    "confirmed": true,
+    "issns_tried": [],
+    "candidates": []
+  },
+  "behavioral-research-accounting": {
+    "journal": "Behavioral Research in Accounting",
+    "source_id": "S41393910",
+    "display_name": "Behavioral Research in Accounting",
+    "issn_l": "1050-4753",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1050-4753"
+    ]
+  },
+  "british-accounting-review": {
+    "journal": "British Accounting Review",
+    "source_id": "S197396629",
+    "display_name": "The British Accounting Review",
+    "issn_l": "0890-8389",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0890-8389"
+    ]
+  },
+  "british-journal-sociology": {
+    "journal": "British Journal of Sociology",
+    "source_id": "S173252385",
+    "display_name": "British Journal of Sociology",
+    "issn_l": "0007-1315",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1468-4446",
+      "0007-1315"
+    ]
+  },
+  "business-strategy-environment": {
+    "journal": "Business Strategy and the Environment",
+    "source_id": "S205793605",
+    "display_name": "Business Strategy and the Environment",
+    "issn_l": "0964-4733",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1099-0836",
+      "0964-4733"
+    ]
+  },
+  "cambridge-journal-economics": {
+    "journal": "Cambridge Journal of Economics",
+    "source_id": "S67103694",
+    "display_name": "Cambridge Journal of Economics",
+    "issn_l": "0309-166X",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0309-166X"
+    ]
+  },
+  "computers-in-industry": {
+    "journal": "Computers in Industry",
+    "source_id": "S60779006",
+    "display_name": "Computers in Industry",
+    "issn_l": "0166-3615",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0166-3615"
+    ]
+  },
+  "computers-operations-research": {
+    "journal": "Computers and Operations Research",
+    "source_id": "S173256270",
+    "display_name": "Computers & Operations Research",
+    "issn_l": "0305-0548",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0305-0548"
+    ]
+  },
+  "contemporary-accounting-research": {
+    "journal": "Contemporary Accounting Research",
+    "source_id": "S65924262",
+    "display_name": "Contemporary Accounting Research",
+    "issn_l": "0823-9150",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1911-3846"
+    ]
+  },
+  "corporate-governance-international-review": {
+    "journal": "Corporate Governance: An International Review",
+    "source_id": "S77308338",
+    "display_name": "Corporate Governance An International Review",
+    "issn_l": "0964-8410",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1467-8683"
+    ]
+  },
+  "critical-perspectives-accounting": {
+    "journal": "Critical Perspectives on Accounting",
+    "source_id": "S66510378",
+    "display_name": "Critical Perspectives on Accounting",
+    "issn_l": "1045-2354",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1045-2354"
+    ]
+  },
+  "decision-sciences": {
+    "journal": "Decision Sciences",
+    "source_id": "S177792750",
+    "display_name": "Decision Sciences",
+    "issn_l": "0011-7315",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1540-5915"
+    ]
+  },
+  "development-change": {
+    "journal": "Development and Change",
+    "source_id": "S137192870",
+    "display_name": "Development and Change",
+    "issn_l": "0012-155X",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1467-7660",
+      "0012-155X"
+    ]
+  },
+  "ecological-economics": {
+    "journal": "Ecological Economics",
+    "source_id": "S136211407",
+    "display_name": "Ecological Economics",
+    "issn_l": "0921-8009",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0921-8009"
+    ]
+  },
+  "econometrica": {
+    "journal": "Econometrica",
+    "source_id": "S95464858",
+    "display_name": "Econometrica",
+    "issn_l": "0012-9682",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0012-9682"
+    ]
+  },
+  "economic-journal": {
+    "journal": "Economic Journal",
+    "source_id": "S45992627",
+    "display_name": "The Economic Journal",
+    "issn_l": "0013-0133",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0013-0133"
+    ]
+  },
+  "economic-theory": {
+    "journal": "Economic Theory",
+    "source_id": "S579031",
+    "display_name": "Economic Theory",
+    "issn_l": "0938-2259",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0938-2259"
+    ]
+  },
+  "economy-society": {
+    "journal": "Economy and Society",
+    "source_id": "S25250876",
+    "display_name": "Economy and Society",
+    "issn_l": "0308-5147",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0308-5147"
+    ]
+  },
+  "ejor": {
+    "journal": "European Journal of Operational Research",
+    "source_id": "S103321696",
+    "display_name": "European Journal of Operational Research",
+    "issn_l": "0377-2217",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0377-2217"
+    ]
+  },
+  "energy-journal": {
+    "journal": "Energy Journal",
+    "source_id": "S102805530",
+    "display_name": "The Energy Journal",
+    "issn_l": "0195-6574",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0195-6574"
+    ]
+  },
+  "entrepreneurship-theory-practice": {
+    "journal": "Entrepreneurship Theory and Practice",
+    "source_id": "S187626162",
+    "display_name": "Entrepreneurship Theory and Practice",
+    "issn_l": "1042-2587",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1042-2587"
+    ]
+  },
+  "environment-planning-d": {
+    "journal": "Environment and Planning D: Society and Space",
+    "source_id": "S4210219814",
+    "display_name": "Environment and Planning D Society and Space",
+    "issn_l": "0263-7758",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0263-7758"
+    ]
+  },
+  "environmental-science-technology": {
+    "journal": "Environmental Science & Technology",
+    "source_id": "S13479253",
+    "display_name": "Environmental Science & Technology",
+    "issn_l": "0013-936X",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0013-936X"
+    ]
+  },
+  "european-accounting-review": {
+    "journal": "European Accounting Review",
+    "source_id": "S171424506",
+    "display_name": "European Accounting Review",
+    "issn_l": "0963-8180",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0963-8180",
+      "1468-4497"
+    ]
+  },
+  "european-economic-review": {
+    "journal": "European Economic Review",
+    "source_id": "S69338747",
+    "display_name": "European Economic Review",
+    "issn_l": "0014-2921",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0014-2921"
+    ]
+  },
+  "european-financial-management": {
+    "journal": "European Financial Management",
+    "source_id": "S131852005",
+    "display_name": "European Financial Management",
+    "issn_l": "1354-7798",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1468-036X"
+    ]
+  },
+  "european-journal-finance": {
+    "journal": "European Journal of Finance",
+    "source_id": "S82316188",
+    "display_name": "European Journal of Finance",
+    "issn_l": "1351-847X",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1351-847X"
+    ]
+  },
+  "european-review-agricultural-economics": {
+    "journal": "European Review of Agricultural Economics",
+    "source_id": "S32361082",
+    "display_name": "European Review of Agricultural Economics",
+    "issn_l": "0165-1587",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0165-1587"
+    ]
+  },
+  "european-sociological-review": {
+    "journal": "European Sociological Review",
+    "source_id": "S159327246",
+    "display_name": "European Sociological Review",
+    "issn_l": "0266-7215",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0266-7215"
+    ]
+  },
+  "experimental-economics": {
+    "journal": "Experimental Economics",
+    "source_id": "S181493553",
+    "display_name": "Experimental Economics",
+    "issn_l": "1386-4157",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1386-4157"
+    ]
+  },
+  "finance-stochastics": {
+    "journal": "Finance and Stochastics",
+    "source_id": "S172526255",
+    "display_name": "Finance and Stochastics",
+    "issn_l": "0949-2984",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0949-2984"
+    ]
+  },
+  "financial-accountability-management": {
+    "journal": "Financial Accountability and Management",
+    "source_id": "S178634671",
+    "display_name": "Financial Accountability and Management",
+    "issn_l": "0267-4424",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1468-0408"
+    ]
+  },
+  "financial-management": {
+    "journal": "Financial Management",
+    "source_id": "S157946625",
+    "display_name": "Financial Management",
+    "issn_l": "0046-3892",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0046-3892"
+    ]
+  },
+  "food-policy": {
+    "journal": "Food Policy",
+    "source_id": "S63571384",
+    "display_name": "Food Policy",
+    "issn_l": "0306-9192",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0306-9192"
+    ]
+  },
+  "games-economic-behavior": {
+    "journal": "Games and Economic Behavior",
+    "source_id": "S94044085",
+    "display_name": "Games and Economic Behavior",
+    "issn_l": "0899-8256",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0899-8256"
+    ]
+  },
+  "global-strategy-journal": {
+    "journal": "Global Strategy Journal",
+    "source_id": "S2765008422",
+    "display_name": "Global Strategy Journal",
+    "issn_l": "2042-5791",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "2042-5805"
+    ]
+  },
+  "health-economics": {
+    "journal": "Health Economics",
+    "source_id": "S145200904",
+    "display_name": "Health Economics",
+    "issn_l": "1057-9230",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1099-1050"
+    ]
+  },
+  "human-resource-management-journal": {
+    "journal": "Human Resource Management Journal",
+    "source_id": "S113497174",
+    "display_name": "Human Resource Management Journal",
+    "issn_l": "0954-5395",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1748-8583"
+    ]
+  },
+  "ieee-transactions-engineering-management": {
+    "journal": "IEEE Transactions on Engineering Management",
+    "source_id": "S154533451",
+    "display_name": "IEEE Transactions on Engineering Management",
+    "issn_l": "0018-9391",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0018-9391"
+    ]
+  },
+  "ijchm": {
+    "journal": "International Journal of Contemporary Hospitality Management",
+    "source_id": "S125977778",
+    "display_name": "International Journal of Contemporary Hospitality Management",
+    "issn_l": "0959-6119",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0959-6119"
+    ]
+  },
+  "ijfe": {
+    "journal": "International Journal of Finance and Economics",
+    "source_id": "S146099957",
+    "display_name": "International Journal of Finance & Economics",
+    "issn_l": "1076-9307",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1099-1158",
+      "1076-9307"
+    ]
+  },
+  "ijhm": {
+    "journal": "International Journal of Hospitality Management",
+    "source_id": "S148599315",
+    "display_name": "International Journal of Hospitality Management",
+    "issn_l": "0278-4319",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0278-4319"
+    ]
+  },
+  "ijopm": {
+    "journal": "International Journal of Operations and Production Management",
+    "source_id": "S164321952",
+    "display_name": "International Journal of Operations & Production Management",
+    "issn_l": "0144-3577",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0144-3577"
+    ]
+  },
+  "ijpe": {
+    "journal": "International Journal of Production Economics",
+    "source_id": "S184816971",
+    "display_name": "International Journal of Production Economics",
+    "issn_l": "0925-5273",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0925-5273"
+    ]
+  },
+  "ijpr": {
+    "journal": "International Journal of Production Research",
+    "source_id": "S65690446",
+    "display_name": "International Journal of Production Research",
+    "issn_l": "0020-7543",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0020-7543"
+    ]
+  },
+  "industrial-corporate-change": {
+    "journal": "Industrial and Corporate Change",
+    "source_id": "S145507837",
+    "display_name": "Industrial and Corporate Change",
+    "issn_l": "0960-6491",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0960-6491"
+    ]
+  },
+  "information-systems-research": {
+    "journal": "Information Systems Research",
+    "source_id": "S202812398",
+    "display_name": "Information Systems Research",
+    "issn_l": "1047-7047",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1047-7047"
+    ]
+  },
+  "informs-journal-computing": {
+    "journal": "INFORMS Journal on Computing",
+    "source_id": "S165318533",
+    "display_name": "INFORMS journal on computing",
+    "issn_l": "0899-1499",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1091-9856"
+    ]
+  },
+  "insurance-mathematics-economics": {
+    "journal": "Insurance: Mathematics and Economics",
+    "source_id": "S198325475",
+    "display_name": "Insurance Mathematics and Economics",
+    "issn_l": "0167-6687",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0167-6687"
+    ]
+  },
+  "international-journal-accounting": {
+    "journal": "International Journal of Accounting",
+    "source_id": "S5835822",
+    "display_name": "The International Journal of Accounting",
+    "issn_l": "0020-7063",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1094-4060"
+    ]
+  },
+  "international-journal-forecasting": {
+    "journal": "International Journal of Forecasting",
+    "source_id": "S39841227",
+    "display_name": "International Journal of Forecasting",
+    "issn_l": "0169-2070",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0169-2070"
+    ]
+  },
+  "international-organization": {
+    "journal": "International Organization",
+    "source_id": "S160686149",
+    "display_name": "International Organization",
+    "issn_l": "0020-8183",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0020-8183"
+    ]
+  },
+  "international-studies-quarterly": {
+    "journal": "International Studies Quarterly",
+    "source_id": "S91639875",
+    "display_name": "International Studies Quarterly",
+    "issn_l": "0020-8833",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0020-8833"
+    ]
+  },
+  "jebo": {
+    "journal": "Journal of Economic Behavior and Organization",
+    "source_id": "S62201805",
+    "display_name": "Journal of Economic Behavior & Organization",
+    "issn_l": "0167-2681",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0167-2681"
+    ]
+  },
+  "jeem": {
+    "journal": "Journal of Environmental Economics and Management",
+    "source_id": "S200872515",
+    "display_name": "Journal of Environmental Economics and Management",
+    "issn_l": "0095-0696",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0095-0696"
+    ]
+  },
+  "jfqa": {
+    "journal": "Journal of Financial and Quantitative Analysis",
+    "source_id": "S193228710",
+    "display_name": "Journal of Financial and Quantitative Analysis",
+    "issn_l": "0022-1090",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0022-1090"
+    ]
+  },
+  "journal-academy-marketing-science": {
+    "journal": "Journal of the Academy of Marketing Science",
+    "source_id": "S92522684",
+    "display_name": "Journal of the Academy of Marketing Science",
+    "issn_l": "0092-0703",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0092-0703"
+    ]
+  },
+  "journal-accounting-economics": {
+    "journal": "Journal of Accounting and Economics",
+    "source_id": "S62142384",
+    "display_name": "Journal of Accounting and Economics",
+    "issn_l": "0165-4101",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0165-4101"
+    ]
+  },
+  "journal-accounting-public-policy": {
+    "journal": "Journal of Accounting and Public Policy",
+    "source_id": "S86762183",
+    "display_name": "Journal of Accounting and Public Policy",
+    "issn_l": "0278-4254",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0278-4254"
+    ]
+  },
+  "journal-accounting-research": {
+    "journal": "Journal of Accounting Research",
+    "source_id": "S111116695",
+    "display_name": "Journal of Accounting Research",
+    "issn_l": "0021-8456",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1475-679X"
+    ]
+  },
+  "journal-american-taxation-association": {
+    "journal": "Journal of the American Taxation Association",
+    "source_id": "S6014304",
+    "display_name": "Journal of the American Taxation Association",
+    "issn_l": "0198-9073",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0198-9073"
+    ]
+  },
+  "journal-applied-psychology": {
+    "journal": "Journal of Applied Psychology",
+    "source_id": "S166002381",
+    "display_name": "Journal of Applied Psychology",
+    "issn_l": "0021-9010",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0021-9010"
+    ]
+  },
+  "journal-association-information-systems": {
+    "journal": "Journal of the Association for Information Systems",
+    "source_id": "S30879505",
+    "display_name": "Journal of the Association for Information Systems",
+    "issn_l": "1536-9323",
+    "method": "name",
+    "confirmed": true,
+    "issns_tried": [],
+    "candidates": [
+      {
+        "source_id": "S2765074683",
+        "display_name": "Pacific Asia journal of the Association for Information Systems",
+        "issn_l": "1943-7536",
+        "publisher": "Association for Information Systems",
+        "homepage_url": null,
+        "works_count": 303
+      },
+      {
+        "source_id": "S4210189807",
+        "display_name": "Journal of the Midwest Association for Information Systems",
+        "issn_l": "2689-1646",
+        "publisher": "Association for Information Systems",
+        "homepage_url": "https://aisel.aisnet.org/jmwais/all_issues.html",
+        "works_count": 59
+      },
+      {
+        "source_id": "S4210196073",
+        "display_name": "Journal of the Southern Association for Information Systems",
+        "issn_l": "2325-3940",
+        "publisher": "University of Michigan Library",
+        "homepage_url": "http://www.jsais.org",
+        "works_count": 54
+      }
+    ]
+  },
+  "journal-banking-finance": {
+    "journal": "Journal of Banking and Finance",
+    "source_id": "S2876017",
+    "display_name": "Journal of Banking & Finance",
+    "issn_l": "0378-4266",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0378-4266"
+    ]
+  },
+  "journal-business-finance-accounting": {
+    "journal": "Journal of Business Finance and Accounting",
+    "source_id": "S48254654",
+    "display_name": "Journal of Business Finance &amp Accounting",
+    "issn_l": "0306-686X",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1468-5957",
+      "0306-686X"
+    ]
+  },
+  "journal-business-logistics": {
+    "journal": "Journal of Business Logistics",
+    "source_id": "S38350834",
+    "display_name": "Journal of Business Logistics",
+    "issn_l": "0735-3766",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "2158-1592"
+    ]
+  },
+  "journal-business-venturing": {
+    "journal": "Journal of Business Venturing",
+    "source_id": "S66201313",
+    "display_name": "Journal of Business Venturing",
+    "issn_l": "0883-9026",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0883-9026"
+    ]
+  },
+  "journal-consumer-psychology": {
+    "journal": "Journal of Consumer Psychology",
+    "source_id": "S163545350",
+    "display_name": "Journal of Consumer Psychology",
+    "issn_l": "1057-7408",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1057-7408"
+    ]
+  },
+  "journal-consumer-research": {
+    "journal": "Journal of Consumer Research",
+    "source_id": "S145429826",
+    "display_name": "Journal of Consumer Research",
+    "issn_l": "0093-5301",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0093-5301"
+    ]
+  },
+  "journal-corporate-finance": {
+    "journal": "Journal of Corporate Finance",
+    "source_id": "S152282257",
+    "display_name": "Journal of Corporate Finance",
+    "issn_l": "0929-1199",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0929-1199"
+    ]
+  },
+  "journal-development-economics": {
+    "journal": "Journal of Development Economics",
+    "source_id": "S101209419",
+    "display_name": "Journal of Development Economics",
+    "issn_l": "0304-3878",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0304-3878"
+    ]
+  },
+  "journal-development-studies": {
+    "journal": "Journal of Development Studies",
+    "source_id": "S61808140",
+    "display_name": "The Journal of Development Studies",
+    "issn_l": "0022-0388",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0022-0388"
+    ]
+  },
+  "journal-econometrics": {
+    "journal": "Journal of Econometrics",
+    "source_id": "S127742747",
+    "display_name": "Journal of Econometrics",
+    "issn_l": "0304-4076",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0304-4076"
+    ]
+  },
+  "journal-economic-literature": {
+    "journal": "Journal of Economic Literature",
+    "source_id": "S127708089",
+    "display_name": "Journal of Economic Literature",
+    "issn_l": "0022-0515",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0022-0515"
+    ]
+  },
+  "journal-economic-perspectives": {
+    "journal": "Journal of Economic Perspectives",
+    "source_id": "S72880728",
+    "display_name": "The Journal of Economic Perspectives",
+    "issn_l": "0895-3309",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0895-3309"
+    ]
+  },
+  "journal-economic-theory": {
+    "journal": "Journal of Economic Theory",
+    "source_id": "S149131268",
+    "display_name": "Journal of Economic Theory",
+    "issn_l": "0022-0531",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0022-0531"
+    ]
+  },
+  "journal-empirical-finance": {
+    "journal": "Journal of Empirical Finance",
+    "source_id": "S145875555",
+    "display_name": "Journal of Empirical Finance",
+    "issn_l": "0927-5398",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0927-5398"
+    ]
+  },
+  "journal-european-economic-association": {
+    "journal": "Journal of the European Economic Association",
+    "source_id": "S165087003",
+    "display_name": "Journal of the European Economic Association",
+    "issn_l": "1542-4766",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1542-4774"
+    ]
+  },
+  "journal-european-social-policy": {
+    "journal": "Journal of European Social Policy",
+    "source_id": "S187013691",
+    "display_name": "Journal of European Social Policy",
+    "issn_l": "0958-9287",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0958-9287"
+    ]
+  },
+  "journal-financial-econometrics": {
+    "journal": "Journal of Financial Econometrics",
+    "source_id": "S207154782",
+    "display_name": "Journal of Financial Econometrics",
+    "issn_l": "1479-8409",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1479-8409"
+    ]
+  },
+  "journal-financial-economics": {
+    "journal": "Journal of Financial Economics",
+    "source_id": "S149240962",
+    "display_name": "Journal of Financial Economics",
+    "issn_l": "0304-405X",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0304-405X"
+    ]
+  },
+  "journal-financial-intermediation": {
+    "journal": "Journal of Financial Intermediation",
+    "source_id": "S5984737",
+    "display_name": "Journal of Financial Intermediation",
+    "issn_l": "1042-9573",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1042-9573"
+    ]
+  },
+  "journal-financial-markets": {
+    "journal": "Journal of Financial Markets",
+    "source_id": "S127646213",
+    "display_name": "Journal of Financial Markets",
+    "issn_l": "1386-4181",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1386-4181"
+    ]
+  },
+  "journal-financial-reporting": {
+    "journal": "Journal of Financial Reporting",
+    "source_id": "S4210219378",
+    "display_name": "Journal of Financial Reporting",
+    "issn_l": "2380-2146",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "2380-2154"
+    ]
+  },
+  "journal-financial-services-research": {
+    "journal": "Journal of Financial Services Research",
+    "source_id": "S79175213",
+    "display_name": "Journal of Financial Services Research",
+    "issn_l": "0920-8550",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0920-8550"
+    ]
+  },
+  "journal-financial-stability": {
+    "journal": "Journal of Financial Stability",
+    "source_id": "S121634618",
+    "display_name": "Journal of Financial Stability",
+    "issn_l": "1572-3089",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1572-3089"
+    ]
+  },
+  "journal-futures-markets": {
+    "journal": "Journal of Futures Markets",
+    "source_id": "S136612413",
+    "display_name": "Journal of Futures Markets",
+    "issn_l": "0270-7314",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1096-9934"
+    ]
+  },
+  "journal-health-economics": {
+    "journal": "Journal of Health Economics",
+    "source_id": "S166621295",
+    "display_name": "Journal of Health Economics",
+    "issn_l": "0167-6296",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0167-6296"
+    ]
+  },
+  "journal-human-resources": {
+    "journal": "Journal of Human Resources",
+    "source_id": "S62957338",
+    "display_name": "The Journal of Human Resources",
+    "issn_l": "0022-166X",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0022-166X"
+    ]
+  },
+  "journal-international-business-studies": {
+    "journal": "Journal of International Business Studies",
+    "source_id": "S38024979",
+    "display_name": "Journal of International Business Studies",
+    "issn_l": "0047-2506",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0047-2506"
+    ]
+  },
+  "journal-international-economics": {
+    "journal": "Journal of International Economics",
+    "source_id": "S198098467",
+    "display_name": "Journal of International Economics",
+    "issn_l": "0022-1996",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0022-1996"
+    ]
+  },
+  "journal-international-money-finance": {
+    "journal": "Journal of International Money and Finance",
+    "source_id": "S10747938",
+    "display_name": "Journal of International Money and Finance",
+    "issn_l": "0261-5606",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0261-5606"
+    ]
+  },
+  "journal-labor-economics": {
+    "journal": "Journal of Labor Economics",
+    "source_id": "S8557221",
+    "display_name": "Journal of Labor Economics",
+    "issn_l": "0734-306X",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0734-306X"
+    ]
+  },
+  "journal-law-economics": {
+    "journal": "Journal of Law and Economics",
+    "source_id": "S998097505",
+    "display_name": "The Journal of Law and Economics",
+    "issn_l": "0022-2186",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0022-2186"
+    ]
+  },
+  "journal-management": {
+    "journal": "Journal of Management",
+    "source_id": "S122767448",
+    "display_name": "Journal of Management",
+    "issn_l": "0149-2063",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0149-2063"
+    ]
+  },
+  "journal-marketing": {
+    "journal": "Journal of Marketing",
+    "source_id": "S142990027",
+    "display_name": "Journal of Marketing",
+    "issn_l": "0022-2429",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0022-2429"
+    ]
+  },
+  "journal-marketing-research": {
+    "journal": "Journal of Marketing Research",
+    "source_id": "S119950638",
+    "display_name": "Journal of Marketing Research",
+    "issn_l": "0022-2437",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0022-2437"
+    ]
+  },
+  "journal-monetary-economics": {
+    "journal": "Journal of Monetary Economics",
+    "source_id": "S6711363",
+    "display_name": "Journal of Monetary Economics",
+    "issn_l": "0304-3932",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0304-3932"
+    ]
+  },
+  "journal-money-credit-banking": {
+    "journal": "Journal of Money, Credit and Banking",
+    "source_id": "S2058785",
+    "display_name": "Journal of money credit and banking",
+    "issn_l": "0022-2879",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1538-4616"
+    ]
+  },
+  "journal-of-finance": {
+    "journal": "Journal of Finance",
+    "source_id": "S5353659",
+    "display_name": "The Journal of Finance",
+    "issn_l": "0022-1082",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1540-6261"
+    ]
+  },
+  "journal-of-politics": {
+    "journal": "Journal of Politics",
+    "source_id": "S95650557",
+    "display_name": "The Journal of Politics",
+    "issn_l": "0022-3816",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0022-3816"
+    ]
+  },
+  "journal-operational-research-society": {
+    "journal": "Journal of the Operational Research Society",
+    "source_id": "S169988927",
+    "display_name": "Journal of the Operational Research Society",
+    "issn_l": "0160-5682",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0160-5682"
+    ]
+  },
+  "journal-operations-management": {
+    "journal": "Journal of Operations Management",
+    "source_id": "S142306484",
+    "display_name": "Journal of Operations Management",
+    "issn_l": "0272-6963",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1873-1317"
+    ]
+  },
+  "journal-political-economy": {
+    "journal": "Journal of Political Economy",
+    "source_id": "S95323914",
+    "display_name": "Journal of Political Economy",
+    "issn_l": "0022-3808",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0022-3808"
+    ]
+  },
+  "journal-public-economics": {
+    "journal": "Journal of Public Economics",
+    "source_id": "S199447588",
+    "display_name": "Journal of Public Economics",
+    "issn_l": "0047-2727",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0047-2727"
+    ]
+  },
+  "journal-purchasing-supply-management": {
+    "journal": "Journal of Purchasing and Supply Management",
+    "source_id": "S55239356",
+    "display_name": "Journal of Purchasing and Supply Management",
+    "issn_l": "1478-4092",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1478-4092"
+    ]
+  },
+  "journal-service-research": {
+    "journal": "Journal of Service Research",
+    "source_id": "S125608309",
+    "display_name": "Journal of Service Research",
+    "issn_l": "1094-6705",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1094-6705"
+    ]
+  },
+  "journal-social-policy": {
+    "journal": "Journal of Social Policy",
+    "source_id": "S178021067",
+    "display_name": "Journal of Social Policy",
+    "issn_l": "0047-2794",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0047-2794"
+    ]
+  },
+  "journal-supply-chain-management": {
+    "journal": "Journal of Supply Chain Management",
+    "source_id": "S97320426",
+    "display_name": "Journal of Supply Chain Management",
+    "issn_l": "1055-6001",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1745-493X"
+    ]
+  },
+  "journal-sustainable-tourism": {
+    "journal": "Journal of Sustainable Tourism",
+    "source_id": "S167854760",
+    "display_name": "Journal of Sustainable Tourism",
+    "issn_l": "0966-9582",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0966-9582"
+    ]
+  },
+  "journal-travel-research": {
+    "journal": "Journal of Travel Research",
+    "source_id": "S157485431",
+    "display_name": "Journal of Travel Research",
+    "issn_l": "0047-2875",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0047-2875"
+    ]
+  },
+  "journal-urban-economics": {
+    "journal": "Journal of Urban Economics",
+    "source_id": "S147692640",
+    "display_name": "Journal of Urban Economics",
+    "issn_l": "0094-1190",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0094-1190"
+    ]
+  },
+  "long-range-planning": {
+    "journal": "Long Range Planning",
+    "source_id": "S9435936",
+    "display_name": "Long Range Planning",
+    "issn_l": "0024-6301",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0024-6301"
+    ]
+  },
+  "management-accounting-research": {
+    "journal": "Management Accounting Research",
+    "source_id": "S114140714",
+    "display_name": "Management Accounting Research",
+    "issn_l": "1044-5005",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1044-5005"
+    ]
+  },
+  "management-science": {
+    "journal": "Management Science",
+    "source_id": "S33323087",
+    "display_name": "Management Science",
+    "issn_l": "0025-1909",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0025-1909"
+    ]
+  },
+  "marketing-science": {
+    "journal": "Marketing Science",
+    "source_id": "S163534328",
+    "display_name": "Marketing Science",
+    "issn_l": "0732-2399",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0732-2399"
+    ]
+  },
+  "mathematical-finance": {
+    "journal": "Mathematical Finance",
+    "source_id": "S133335107",
+    "display_name": "Mathematical Finance",
+    "issn_l": "0960-1627",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1467-9965"
+    ]
+  },
+  "mathematical-programming": {
+    "journal": "Mathematical Programming",
+    "source_id": "S193920097",
+    "display_name": "Mathematical Programming",
+    "issn_l": "0025-5610",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0025-5610"
+    ]
+  },
+  "mathematics-operations-research": {
+    "journal": "Mathematics of Operations Research",
+    "source_id": "S55826652",
+    "display_name": "Mathematics of Operations Research",
+    "issn_l": "0364-765X",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0364-765X"
+    ]
+  },
+  "mis-quarterly": {
+    "journal": "MIS Quarterly",
+    "source_id": "S57293258",
+    "display_name": "MIS Quarterly",
+    "issn_l": "0276-7783",
+    "method": "name",
+    "confirmed": true,
+    "issns_tried": [],
+    "candidates": [
+      {
+        "source_id": "S48312676",
+        "display_name": "MIS Quarterly Executive",
+        "issn_l": "1540-1960",
+        "publisher": "Indiana University Press",
+        "homepage_url": null,
+        "works_count": 171
+      }
+    ]
+  },
+  "modern-language-journal": {
+    "journal": "Modern Language Journal",
+    "source_id": "S72851247",
+    "display_name": "Modern Language Journal",
+    "issn_l": "0026-7902",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1540-4781"
+    ]
+  },
+  "msom": {
+    "journal": "Manufacturing and Service Operations Management",
+    "source_id": "S81410195",
+    "display_name": "Manufacturing & Service Operations Management",
+    "issn_l": "1523-4614",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1523-4614"
+    ]
+  },
+  "nature": {
+    "journal": "Nature",
+    "source_id": "S137773608",
+    "display_name": "Nature",
+    "issn_l": "0028-0836",
+    "method": "name",
+    "confirmed": true,
+    "issns_tried": [],
+    "candidates": [
+      {
+        "source_id": "S64187185",
+        "display_name": "Nature Communications",
+        "issn_l": "2041-1723",
+        "publisher": "Nature Portfolio",
+        "homepage_url": "http://www.nature.com/ncomms/index.html",
+        "works_count": 93803
+      },
+      {
+        "source_id": "S137905309",
+        "display_name": "Nature Genetics",
+        "issn_l": "1061-4036",
+        "publisher": "Nature Portfolio",
+        "homepage_url": "https://www.nature.com/ng/",
+        "works_count": 11895
+      },
+      {
+        "source_id": "S203256638",
+        "display_name": "Nature Medicine",
+        "issn_l": "1078-8956",
+        "publisher": "Nature Portfolio",
+        "homepage_url": "http://www.nature.com/nm/index.html",
+        "works_count": 16825
+      }
+    ]
+  },
+  "naval-research-logistics": {
+    "journal": "Naval Research Logistics",
+    "source_id": "S182666042",
+    "display_name": "Naval Research Logistics (NRL)",
+    "issn_l": "0894-069X",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1520-6750"
+    ]
+  },
+  "new-political-economy": {
+    "journal": "New Political Economy",
+    "source_id": "S146242404",
+    "display_name": "New Political Economy",
+    "issn_l": "1356-3467",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1356-3467"
+    ]
+  },
+  "omega": {
+    "journal": "Omega",
+    "source_id": "S4210190151",
+    "display_name": "Omega",
+    "issn_l": "0305-0483",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0305-0483"
+    ]
+  },
+  "operations-research": {
+    "journal": "Operations Research",
+    "source_id": "S125775545",
+    "display_name": "Operations Research",
+    "issn_l": "0030-364X",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0030-364X"
+    ]
+  },
+  "organization-science": {
+    "journal": "Organization Science",
+    "source_id": "S206124708",
+    "display_name": "Organization Science",
+    "issn_l": "1047-7039",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1047-7039"
+    ]
+  },
+  "oxford-bulletin-economics-statistics": {
+    "journal": "Oxford Bulletin of Economics and Statistics",
+    "source_id": "S92565720",
+    "display_name": "Oxford Bulletin of Economics and Statistics",
+    "issn_l": "0305-9049",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1468-0084",
+      "0305-9049"
+    ]
+  },
+  "personnel-psychology": {
+    "journal": "Personnel Psychology",
+    "source_id": "S84664706",
+    "display_name": "Personnel Psychology",
+    "issn_l": "0031-5826",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1744-6570",
+      "0031-5826"
+    ]
+  },
+  "politics-society": {
+    "journal": "Politics and Society",
+    "source_id": "S49968029",
+    "display_name": "Politics & Society",
+    "issn_l": "0032-3292",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0032-3292"
+    ]
+  },
+  "production-operations-management": {
+    "journal": "Production and Operations Management",
+    "source_id": "S149070780",
+    "display_name": "Production and Operations Management",
+    "issn_l": "1059-1478",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1937-5956"
+    ]
+  },
+  "production-planning-control": {
+    "journal": "Production Planning and Control",
+    "source_id": "S165057322",
+    "display_name": "Production Planning & Control",
+    "issn_l": "0953-7287",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0953-7287"
+    ]
+  },
+  "progress-human-geography": {
+    "journal": "Progress in Human Geography",
+    "source_id": "S193412822",
+    "display_name": "Progress in Human Geography",
+    "issn_l": "0309-1325",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0309-1325"
+    ]
+  },
+  "psychological-science": {
+    "journal": "Psychological Science",
+    "source_id": "S58854535",
+    "display_name": "Psychological Science",
+    "issn_l": "0956-7976",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0956-7976"
+    ]
+  },
+  "public-administration-review": {
+    "journal": "Public Administration Review",
+    "source_id": "S76877748",
+    "display_name": "Public Administration Review",
+    "issn_l": "0033-3352",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1540-6210",
+      "0033-3352"
+    ]
+  },
+  "quantitative-finance": {
+    "journal": "Quantitative Finance",
+    "source_id": "S182689569",
+    "display_name": "Quantitative Finance",
+    "issn_l": "1469-7688",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1469-7688"
+    ]
+  },
+  "quarterly-journal-economics": {
+    "journal": "Quarterly Journal of Economics",
+    "source_id": "S203860005",
+    "display_name": "The Quarterly Journal of Economics",
+    "issn_l": "0033-5533",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0033-5533"
+    ]
+  },
+  "rand-journal-economics": {
+    "journal": "RAND Journal of Economics",
+    "source_id": "S34139249",
+    "display_name": "The RAND Journal of Economics",
+    "issn_l": "0741-6261",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1756-2171",
+      "0741-6261"
+    ]
+  },
+  "reliability-engineering-system-safety": {
+    "journal": "Reliability Engineering and System Safety",
+    "source_id": "S202403813",
+    "display_name": "Reliability Engineering & System Safety",
+    "issn_l": "0951-8320",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0951-8320"
+    ]
+  },
+  "research-policy": {
+    "journal": "Research Policy",
+    "source_id": "S9731383",
+    "display_name": "Research Policy",
+    "issn_l": "0048-7333",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0048-7333"
+    ]
+  },
+  "review-accounting-studies": {
+    "journal": "Review of Accounting Studies",
+    "source_id": "S11853582",
+    "display_name": "Review of Accounting Studies",
+    "issn_l": "1380-6653",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1380-6653"
+    ]
+  },
+  "review-economic-dynamics": {
+    "journal": "Review of Economic Dynamics",
+    "source_id": "S163499366",
+    "display_name": "Review of Economic Dynamics",
+    "issn_l": "1094-2025",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1094-2025"
+    ]
+  },
+  "review-economic-studies": {
+    "journal": "Review of Economic Studies",
+    "source_id": "S88935262",
+    "display_name": "The Review of Economic Studies",
+    "issn_l": "0034-6527",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0034-6527"
+    ]
+  },
+  "review-economics-statistics": {
+    "journal": "Review of Economics and Statistics",
+    "source_id": "S180061323",
+    "display_name": "The Review of Economics and Statistics",
+    "issn_l": "0034-6535",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0034-6535"
+    ]
+  },
+  "review-financial-studies": {
+    "journal": "Review of Financial Studies",
+    "source_id": "S170137484",
+    "display_name": "Review of Financial Studies",
+    "issn_l": "0893-9454",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0893-9454"
+    ]
+  },
+  "review-international-political-economy": {
+    "journal": "Review of International Political Economy",
+    "source_id": "S2875300",
+    "display_name": "Review of International Political Economy",
+    "issn_l": "0969-2290",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0969-2290"
+    ]
+  },
+  "review-of-finance": {
+    "journal": "Review of Finance",
+    "source_id": "S131117787",
+    "display_name": "Review of Finance",
+    "issn_l": "1572-3097",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1572-3097"
+    ]
+  },
+  "risk-analysis": {
+    "journal": "Risk Analysis",
+    "source_id": "S161248890",
+    "display_name": "Risk Analysis",
+    "issn_l": "0272-4332",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1539-6924",
+      "0272-4332"
+    ]
+  },
+  "scandinavian-journal-economics": {
+    "journal": "Scandinavian Journal of Economics",
+    "source_id": "S165253824",
+    "display_name": "Scandinavian Journal of Economics",
+    "issn_l": "0347-0520",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1467-9442",
+      "0347-0520"
+    ]
+  },
+  "science": {
+    "journal": "Science",
+    "source_id": "S3880285",
+    "display_name": "Science",
+    "issn_l": "0036-8075",
+    "method": "name",
+    "confirmed": true,
+    "issns_tried": [],
+    "candidates": [
+      {
+        "source_id": "S13479253",
+        "display_name": "Environmental Science & Technology",
+        "issn_l": "0013-936X",
+        "publisher": "American Chemical Society",
+        "homepage_url": "http://pubs.acs.org/journals/esthag/",
+        "works_count": 71167
+      },
+      {
+        "source_id": "S86852077",
+        "display_name": "The Science of The Total Environment",
+        "issn_l": "0048-9697",
+        "publisher": "Elsevier BV",
+        "homepage_url": "https://www.journals.elsevier.com/science-of-the-total-environment",
+        "works_count": 83600
+      },
+      {
+        "source_id": "S42323631",
+        "display_name": "Applied Surface Science",
+        "issn_l": "0169-4332",
+        "publisher": "Elsevier BV",
+        "homepage_url": "https://www.journals.elsevier.com/applied-surface-science",
+        "works_count": 69849
+      }
+    ]
+  },
+  "siam-journal-optimization": {
+    "journal": "SIAM Journal on Optimization",
+    "source_id": "S928796702",
+    "display_name": "SIAM Journal on Optimization",
+    "issn_l": "1052-6234",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1052-6234"
+    ]
+  },
+  "social-forces": {
+    "journal": "Social Forces",
+    "source_id": "S130611943",
+    "display_name": "Social Forces",
+    "issn_l": "0037-7732",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0037-7732"
+    ]
+  },
+  "social-science-medicine": {
+    "journal": "Social Science and Medicine",
+    "source_id": "S106822843",
+    "display_name": "Social Science & Medicine",
+    "issn_l": "0277-9536",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0277-9536"
+    ]
+  },
+  "social-science-research": {
+    "journal": "Social Science Research",
+    "source_id": "S59311786",
+    "display_name": "Social Science Research",
+    "issn_l": "0049-089X",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0049-089X"
+    ]
+  },
+  "socio-economic-review": {
+    "journal": "Socio-Economic Review",
+    "source_id": "S147547362",
+    "display_name": "Socio-Economic Review",
+    "issn_l": "1475-1461",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1475-1461"
+    ]
+  },
+  "sociological-review": {
+    "journal": "Sociological Review",
+    "source_id": "S181098927",
+    "display_name": "The Sociological Review",
+    "issn_l": "0038-0261",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0038-0261"
+    ]
+  },
+  "sociology": {
+    "journal": "Sociology",
+    "source_id": "S79135273",
+    "display_name": "Sociology",
+    "issn_l": "0038-0385",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0038-0385"
+    ]
+  },
+  "sociology-health-illness": {
+    "journal": "Sociology of Health and Illness",
+    "source_id": "S123166236",
+    "display_name": "Sociology of Health & Illness",
+    "issn_l": "0141-9889",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1467-9566",
+      "0141-9889"
+    ]
+  },
+  "strategic-management-journal": {
+    "journal": "Strategic Management Journal",
+    "source_id": "S102949365",
+    "display_name": "Strategic Management Journal",
+    "issn_l": "0143-2095",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1097-0266"
+    ]
+  },
+  "strategic-organization": {
+    "journal": "Strategic Organization",
+    "source_id": "S11394615",
+    "display_name": "Strategic Organization",
+    "issn_l": "1476-1270",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1476-1270"
+    ]
+  },
+  "strategy-science": {
+    "journal": "Strategy Science",
+    "source_id": "S4210183760",
+    "display_name": "Strategy Science",
+    "issn_l": "2333-2050",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "2333-2050"
+    ]
+  },
+  "supply-chain-management": {
+    "journal": "Supply Chain Management: An International Journal",
+    "source_id": "S59007373",
+    "display_name": "Supply Chain Management An International Journal",
+    "issn_l": "1359-8546",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1359-8546"
+    ]
+  },
+  "tourism-management": {
+    "journal": "Tourism Management",
+    "source_id": "S6814119",
+    "display_name": "Tourism Management",
+    "issn_l": "0261-5177",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0261-5177"
+    ]
+  },
+  "transportation-research-a": {
+    "journal": "Transportation Research, Part A: Policy and Practice",
+    "source_id": "S159637997",
+    "display_name": "Transportation Research Part A Policy and Practice",
+    "issn_l": "0965-8564",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0965-8564"
+    ]
+  },
+  "transportation-research-b": {
+    "journal": "Transportation Research, Series B: Methodological",
+    "source_id": "S96305778",
+    "display_name": "Transportation Research Part B Methodological",
+    "issn_l": "0191-2615",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0191-2615"
+    ]
+  },
+  "transportation-research-d": {
+    "journal": "Transportation Research, Part D: Transport and Environment",
+    "source_id": "S45181156",
+    "display_name": "Transportation Research Part D Transport and Environment",
+    "issn_l": "1361-9209",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1361-9209"
+    ]
+  },
+  "transportation-research-e": {
+    "journal": "Transportation Research, Part E: Logistics and Transportation Review",
+    "source_id": "S173966628",
+    "display_name": "Transportation Research Part E Logistics and Transportation Review",
+    "issn_l": "1366-5545",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "1366-5545"
+    ]
+  },
+  "transportation-science": {
+    "journal": "Transportation Science",
+    "source_id": "S130252234",
+    "display_name": "Transportation Science",
+    "issn_l": "0041-1655",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0041-1655"
+    ]
+  },
+  "world-development": {
+    "journal": "World Development",
+    "source_id": "S85457386",
+    "display_name": "World Development",
+    "issn_l": "0305-750X",
+    "method": "issn",
+    "confirmed": true,
+    "issns_tried": [
+      "0305-750X"
+    ]
+  }
+}
