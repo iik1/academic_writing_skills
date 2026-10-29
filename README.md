@@ -15,6 +15,8 @@ Every journal skill builds on a **field baseline**. There are two layers:
 
 You can use either layer alone. For the best result when targeting a submission, use the journal skill (it already incorporates the field conventions).
 
+Every skill, field and journal alike, also ends with the same **Avoiding AI-Writing Patterns** section. It merges this library's own rules with all of [academic-humanizer](https://github.com/AIScientists-Dev/academic-humanizer) v0.3.3: general and academic AI tells, what to preserve (evidence-tied hedging, passive voice, "we"), claim-evidence discipline, voice and venue matching, a funding-proposal mode, and an audit, rewrite, report process with a change log. Any single skill therefore carries the full discipline on its own. The section is maintained in one place, `tools/ai_patterns_fragment.md`, and written into every skill by `tools/inject_ai_patterns.py`; `tools/check_ai_patterns.py` verifies the result.
+
 ---
 
 ## Field Baselines
@@ -220,4 +222,4 @@ Skills marked with `Articles spot-checked: 0` in their corresponding `reports/` 
 
 ## License
 
-MIT. See `LICENSE`.
+MIT. See `LICENSE`. The AI-writing patterns section includes MIT-licensed material from academic-humanizer and humanizer; see `THIRD_PARTY_NOTICES.md`.

@@ -5,6 +5,7 @@ AI-Writing Patterns Self-Check
 Run after inject_ai_patterns.py. Asserts, for every *_SKILL.md under skills/:
   - exactly one start marker and one end marker, in order
   - the block between them (markers included) equals tools/ai_patterns_fragment.md
+  - the block contains no em dash
   - the text outside the section equals the text outside the section at the baseline commit,
     and the section itself is exactly heading, blank, block, blank, "---"
   - the frontmatter parses and its name is unchanged from the baseline (skills whose
@@ -33,6 +34,7 @@ from inject_ai_patterns import (
 
 # Baseline commit from issue #2: the 21-rule rollout merged with the origin/main cleanup.
 BASELINE = "f3580953abb0fc47d284d95b87c6e9b1032d121b"
+EM_DASH  = "—"
 
 
 def git(*args, stdin=None):
@@ -82,6 +84,7 @@ def check_file(text, base_text, fragment):
         f"{len(starts)} start and {len(ends)} end markers"
     assert starts[0] < ends[0], "end marker before start marker"
     assert lines[starts[0]:ends[0] + 1] == fragment, "block differs from the fragment"
+    assert not any(EM_DASH in l for l in fragment), "block contains an em dash"
 
     head, middle, tail = split_section(lines)
     base_head, _, base_tail = split_section(to_lines(base_text))
