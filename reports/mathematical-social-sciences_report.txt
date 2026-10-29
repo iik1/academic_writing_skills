@@ -1,0 +1,40 @@
+DELTA DETECTION REPORT: Mathematical Social Sciences
+
+Journal: Mathematical Social Sciences
+Slug: mathematical-social-sciences
+ABS Rating: 2
+Field: ECON
+Publisher: Elsevier
+
+ARTICLES FETCHED: 6 distinct articles (2025-2026 issues)
+- Nash implementation in a many-to-one matching market (arXiv:2305.13956)
+- Limited attention and models of choice (arXiv:2502.14879)
+- Public good provision with a governor (arXiv:2210.10642)
+- Envy-freeness and maximum Nash welfare for mixed divisible and indivisible goods (arXiv:2302.13342)
+- Direct or representative democracy? Co-Voting! (Gersbach et al., 2026)
+- When social networks polarize (de Vos, Grabisch, Rusinowska, 2026)
+
+EARLY STOP TRIGGERED: No. Access chain was sufficient; 6 articles is a defensible sample for an ABS 2 journal.
+
+DELTAS FOUND: 1 major practice emphasis, 1 length characteristic
+
+1. MATHEMATICAL FORMALISM EMPHASIS (PRACTICE EMPHASIS)
+   - Higher density of formal notation and theorem-lemma-proof architecture than FIELD_SKILL baseline
+   - Reflects explicit journal guidance ("no bounds limit technical level")
+   - Not a violation; an enhancement aligned with journal's mathematical scope
+   - Dimension: Mathematical Formalism and Proof Architecture
+
+2. ARTICLE LENGTH (FIELD DEFAULT)
+   - Typical 15-30 pages vs. 40-60 for ABS 4*/4 baseline
+   - Appropriate for ABS 2 tier; no conflict with FIELD_SKILL
+
+FIELD_SKILL OVERRIDES: None. FIELD_SKILL baseline is fully compatible with Mathematical Social Sciences norms.
+
+ACCESS LIMITATION NOTES:
+- Elsevier author guidelines page is paywalled (403 Forbidden on both ScienceDirect and Elsevier domains)
+- Key constraints extracted from search results, ScienceDirect landing pages, and journal metadata
+- Author guidelines confirm: self-contained articles, mathematical rigor expected, data availability mandatory, no technical level bounds
+- All 6 sampled articles accessed via arXiv preprints or institutional repositories (open access alternatives)
+- No full-text paywall barriers encountered for article spot-check phase
+
+SKILL FILE SAVED: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/economics/mathematical-social-sciences_SKILL.md

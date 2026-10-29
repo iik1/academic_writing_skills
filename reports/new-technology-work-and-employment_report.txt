@@ -1,0 +1,37 @@
+Journal: New Technology, Work and Employment
+Slug: new-technology-work-and-employment
+ABS: 3
+Field: HRM&EMP
+Publisher: Wiley-Blackwell
+
+Articles fetched: 13 (1 full-text open-access special-issue introduction read in full via PDF;
+12 additional articles/titles from 2021-2025 sampled via abstract/title-level WebSearch snippets
+due to Wiley paywall returning HTTP 402/403 on direct fetch attempts)
+
+Early stop triggered: No — search was continued until delta set stabilised; access chain
+(Wiley direct fetch, WebSearch, open-access repository PDF) was exhausted for additional
+full-text sampling given paywall restrictions in this environment.
+
+Deltas found: 3 dimensions
+  1. Abstract format — 150-word cap (stricter/shorter than typical HRM&EMP field practice) [ENFORCED, stated in guidelines]
+  2. Citation style — Harvard (author-date), not APA [ENFORCED, stated in guidelines; FIELD_SKILL is silent on citation style]
+  3. Editorial stance/argumentation — explicit welcome of critical, debate-generating, more overtly
+     political-economy-oriented framing than FIELD_SKILL's default diplomatic/cumulative
+     disagreement norm [RELAXATION, appropriate to ABS 3 tier, confirmed by journal's own scope
+     statement and by tone of spot-checked special-issue article]
+  Additional low-prevalence structural note: frequent special-issue editorial-style intro articles
+  that summarise contributions thematically rather than following IMRaD — documented as
+  PRACTICE ONLY / contextual, not a norm for standalone empirical submissions.
+
+FIELD_SKILL overrides: Harvard citation style; 150-word abstract cap; mandatory double-blind
+anonymisation with separate title page; mandatory cover letter with explicit scope-fit
+justification.
+
+Access-limitation notes: Wiley Online Library (onlinelibrary.wiley.com) returned HTTP 402/403
+on all direct WebFetch attempts (author guidelines page, table-of-contents pages). Author
+guideline content was recovered via WebSearch snippet extraction (abstract requirements,
+Harvard style, double-blind policy, cover letter, data-sharing) rather than direct page fetch.
+Full text was accessible for only one article (an open-access special-issue introduction hosted
+on a university repository, eprints.whiterose.ac.uk). All other articles were assessed at the
+title/abstract-snippet level only, sufficient to judge topical scope and confirm no additional
+deltas emerged, per task instructions on convergence.

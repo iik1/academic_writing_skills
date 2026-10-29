@@ -1,0 +1,54 @@
+Journal: International Journal of Rehabilitation Research
+Slug: international-journal-of-rehabilitation-research
+ABS: 3
+Field: PSYCH (WOP-OB)
+
+Articles fetched: 11 full abstract records read (PubMed), 1 additional article
+listed for cross-reference (12 total identified across 2 PubMed result pages,
+sorted by date, 2025-2026 issues).
+
+Early stop triggered: No formal early stop — deltas (abstract structure)
+stabilised clearly after ~6-7 articles and were confirmed consistent through
+all 11 read. Stopped at 11 because the delta set had stabilized and guideline
+pages remained inaccessible after repeated retries.
+
+Deltas found: 1 major, journal-level norm
+  - Abstract structure: unstructured narrative abstracts (no labeled
+    Objective/Methods/Results/Conclusion fields) across all 11 sampled
+    articles, spanning original research, RCTs/cross-sectional studies,
+    scoping reviews, a case report, a qualitative study, a psychometric
+    validation study, and a theoretical review. This is a RELAXATION of the
+    FIELD_SKILL baseline's "structured or semi-structured abstracts" norm.
+    Classified as PRACTICE ONLY but elevated to a stated journal norm given
+    11/11 consistency (not confirmed against the primary guidelines page,
+    which was inaccessible).
+
+No other deltas found. Voice/register, statistical reporting precision,
+hedging of causal language, and citation practices at the abstract level all
+matched FIELD_SKILL defaults.
+
+FIELD_SKILL overrides: none identified beyond the abstract-structure
+relaxation noted above (ABS-3 tier permits relaxation, not redefinition, per
+task instructions).
+
+Access-limitation notes:
+- The journal's official "Information for Authors" page
+  (journals.lww.com/intjrehabilres/.../informationforauthors.aspx) returned
+  HTTP 402 Payment Required on every fetch attempt.
+- The Ovid/Editorial Manager author-instructions page
+  (edmgr.ovid.com/ijrr/accounts/ifauth.htm) returned HTTP 402.
+- The KTDRR third-party guidelines directory page returned HTTP 403; the only
+  usable content was a search-engine snippet confirming "ICMJE" manuscript
+  style, which could not be independently verified.
+- archive.org/Wayback Machine fetches are disabled in this environment, so no
+  historical snapshot of the guidelines page could be retrieved as a
+  workaround.
+- As a result, HARD_CONSTRAINTS (structure, length, citation style, headings,
+  tables/figures, explicit prohibitions) could not be populated from primary
+  guideline text; the skill file documents this limitation explicitly rather
+  than fabricating constraints.
+- Full text of sampled articles was not accessible (all behind Wolters Kluwer
+  paywall); all spot-check findings are based on PubMed abstract records,
+  which is sufficient for abstract-structure and voice/register observations
+  but not for verifying in-text citation density, heading conventions, or
+  table/figure formatting.

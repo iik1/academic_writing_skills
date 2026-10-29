@@ -1,0 +1,19 @@
+Journal: Journal of Management Information Systems
+Slug: journal-of-management-information-systems
+ABS: 4
+Field: INFO MAN
+Articles fetched: 10 (editorials + research-article abstract/front-matter pages via jmis-web.org and search-indexed snippets; full text of tandfonline.com articles was inaccessible - 403 Forbidden on direct fetch)
+Early stop triggered: No - delta set stabilized after ~8 items; continued to 10 for confirmation.
+
+Deltas found: 2 dimensions
+  - Citations (Hard Constraint + Citation Density delta): numbered-bracket in-text citations [9] with alphabetized-and-numbered reference list, NOT author-date. ENFORCED.
+  - Abstract (Hard Constraint + Other Journal-Specific Patterns): 150-word cap, no citations permitted in abstract. ENFORCED.
+
+FIELD_SKILL overrides:
+  - Citation style (numbered brackets vs. generic author-date assumption)
+  - Abstract length/no-citation rule (stricter than field baseline, which does not specify this)
+
+Access-limitation notes:
+  - tandfonline.com (primary publisher platform) returned HTTP 403 Forbidden on all WebFetch attempts; relied on jmis-web.org (JMIS's own open-access-style site hosting editorials and some article pages) plus WebSearch-extracted abstract snippets.
+  - Most jmis-web.org "articles" pages accessible were special-issue/editorial introductions rather than full standalone research articles, so section-heading-level structural detail (e.g., exact subheading wording) could not be directly confirmed from full research-article bodies. Citation style, abstract format, and word limits were nonetheless corroborated consistently across all accessible items and the official guidelines page.
+  - No deltas found for voice, hedging, methods, results, or discussion conventions; these follow FIELD_SKILL defaults based on available abstract-level evidence.

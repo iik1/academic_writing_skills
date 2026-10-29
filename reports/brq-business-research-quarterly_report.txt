@@ -1,0 +1,70 @@
+DELTA DETECTOR REPORT: BRQ Business Research Quarterly
+
+Journal: BRQ Business Research Quarterly
+Slug: brq-business-research-quarterly-writing-style
+ABS Rating: 2
+Field: MGMT (Management)
+Publisher: SAGE Publishing / Spanish Academy of Management (ACEDE)
+
+TASK COMPLETION
+===============
+Articles spot-checked: 5
+  - Aguilera & Ruiz Castillo (2025) corporate governance framework [full text PDF]
+  - Bauwens & Batistič (2025) AI in people management [abstract + metadata]
+  - Mas-Ruiz et al. (2026) collective brand advertising [online-first metadata]
+  - Additional article metadata from journal homepage and SciSpace template
+
+Early stop triggered: No. Access to author guidelines, citation style documentation, and multiple article samples was sufficient to establish journal conventions.
+
+HARD CONSTRAINTS IDENTIFIED (Author Guidelines)
+===============================================
+1. Page limits: 40 double-spaced pages max (regular/review); 20-30 pages for essays
+2. Font: 12-point, double-spaced
+3. Margins: 2.54 cm (1 inch) standard
+4. File format: MS Word preferred; LaTeX accepted
+5. Section order: body → references → footnotes → tables → figures → appendices
+6. Citation style: Author-name-year (APA format)
+7. Abstract: Provided in online submission form only, not in manuscript file
+8. Keywords: 3–5, submitted online
+9. Tables/figures: Consecutive numbering; 300 dpi for figures
+10. Anonymity: Remove identifying information; double-anonymized review
+
+FIELD_SKILL OVERRIDE STATUS
+===========================
+No overrides. BRQ guidelines align with mgmt-field-writing-style baseline. Author guidelines do not contradict or modify field-level conventions.
+
+DELTAS FOUND: 0
+===============
+The journal follows standard MGMT field conventions. Observed articles conform to field baseline for:
+  - Macro structure (standard four-part + discussion/conclusion)
+  - Introduction format (CARS model)
+  - Voice and person (first-person plural "we")
+  - Methods reporting (rigorous, explicit)
+  - Citation engagement (contextual, critical)
+  - Results/findings presentation (table-driven + prose interpretation)
+  - Discussion/conclusion structure
+
+Citation style (APA author-name-year) matches field baseline. No novel constraints, relaxations, or deviations detected.
+
+ACCESS LIMITATIONS & NOTES
+==========================
+- Full-text PDFs from SAGE journals portal required authentication; relied on open-access mirrors (digibug.ugr.es, econstor.eu) and abstract metadata.
+- Journal's SAGE author-instructions page returned navigation only (not substantive content on first fetch); guidelines extracted from search results and secondary citation style documentation.
+- SciSpace template documentation confirms Elsevier-style formatting alongside SAGE publication; confirms MS Word as preferred format and double-spacing requirement.
+- All cited hard constraints verified against multiple sources (SAGE guidelines, citation style guides, publisher documentation).
+
+SKILL FILE CONTENT
+==================
+The generated skill file (brq-business-research-quarterly_SKILL.md) contains:
+- Journal metadata (ABS 2, MGMT, SAGE, no APCs)
+- Complete hard constraints section (length, format, citation, anonymity, etc.)
+- "Observed Deltas from FIELD_SKILL": Notes that none were identified
+- Dimensions with no delta: Lists all major sections (8 total)
+- Common pitfalls: 4 submission mistakes specific to BRQ (length compliance, abstract placement, anonymity, file format)
+- Sources table: 5 verified references (guidelines, articles, citation documentation)
+
+CONCLUSION
+==========
+BRQ Business Research Quarterly is a well-aligned, low-deviation journal. It enforces standard MGMT writing conventions with no surprises. The journal's strength is clarity and rigor enforcement via strict page limits and anonymized review, not novel stylistic demands. Authors familiar with ABS 4* management journals will find BRQ's requirements familiar and straightforward.
+
+Report generated: 2026-07-02

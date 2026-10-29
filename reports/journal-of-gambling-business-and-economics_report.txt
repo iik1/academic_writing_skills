@@ -1,0 +1,35 @@
+Journal: Journal of Gambling Business and Economics
+Slug: journal-of-gambling-business-and-economics
+ABS: 1
+Field: ECON
+Publisher: University of Buckingham Press (UBP), OJS platform (ubplj.org)
+
+Articles fetched: 5 accessed at abstract/front-matter level (full text paywalled for all but one);
+1 additional issue table-of-contents scanned (4 titles, no abstracts available) for structural/topic
+context. Total distinct articles touched: ~9 (5 with abstract-level content, 4 title-only).
+
+Early stop triggered: No — WebSearch tool was intermittently unavailable at the start of the session
+(returned "unavailable" errors on first two queries); retried successfully after reload and proceeded
+with WebFetch as primary access method. No early stop on the journal itself.
+
+Deltas found: 3 dimensions
+  1. Citations (HARD CONSTRAINT) — legal/OSCOLA-style citation format required instead of
+     economics-standard author-year. ENFORCED (stated in guidelines).
+  2. Length (HARD CONSTRAINT) — target ~6,000 words vs. FIELD_SKILL's implicit ABS4-length norms.
+     ENFORCED (stated in guidelines).
+  3. Voice/Register and Structural Deviations — journal explicitly welcomes qualitative,
+     practitioner-facing, and policy-survey papers alongside quantitative empirical work; at least
+     one spot-checked article (Lantz 2026) is a qualitative oral-history study with heavier direct
+     quotation than FIELD_SKILL norm. PRACTICE ONLY / RELAXATION, low-prevalence in small sample,
+     documented as such rather than as a universal journal norm.
+
+FIELD_SKILL overrides: Citation style (legal-style, not author-year); word limit (~6,000 words,
+not ABS4-style length); manuscript front-matter requirements (title page, running title <=50 chars,
+6 keywords, ~250-word abstract) are journal-specific additions not covered by FIELD_SKILL.
+
+Access-limitation notes: Full text of nearly all spot-checked articles was subscription-gated;
+analysis relied on publicly visible abstracts, keywords, and table-of-contents metadata via WebFetch
+against ubplj.org (OJS). WebSearch tool returned transient "unavailable" errors on the first two
+queries of the session; subsequent WebSearch and WebFetch calls succeeded normally. Given this is an
+ABS 1, niche/interdisciplinary journal with a small back-catalogue and heavy paywalling, a 5-article
+abstract-level sample plus one TOC scan was treated as a good-faith sufficient sample per instructions.

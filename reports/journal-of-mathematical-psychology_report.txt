@@ -1,0 +1,50 @@
+Journal: Journal of Mathematical Psychology
+Slug: journal-of-mathematical-psychology
+ABS: 3
+Field: PSYCH (GENERAL)
+
+Articles fetched (full-text or abstract, confirmed JMP): 0
+Early stop triggered: Yes — access chain exhausted after extensive search
+  (ScienceDirect guide-for-authors and issue pages returned HTTP 403 on all
+  direct fetch attempts; no open-access mirror of a JMP article found on
+  PMC, arXiv, ResearchGate, Semantic Scholar, or via Google-style WebSearch
+  snippets during this session). Candidate preprints surfaced by search
+  (e.g., "Bayesian Regression Analysis with the Drift-Diffusion Model",
+  "Reinforcement Learning Measurement Model") were checked and found to
+  target other journals (Statistics in Medicine) or had no confirmed JMP
+  affiliation.
+
+Deltas found: 3
+  1. Structural Deviations — journal accepts purely theoretical/formal
+     papers (model/theorem/proof structure) not following empirical IMRaD;
+     PRACTICE ONLY / inferred from scope description, not confirmed by
+     spot-check.
+  2. Citation Density and Style — in-text citation is APA (ENFORCED per
+     guidelines), but reference-list formatting is explicitly NOT strictly
+     policed at submission (RELAXATION relative to FIELD_SKILL's implied
+     style-manual adherence).
+  3. Other Journal-Specific Patterns — distinct "tutorial article" type
+     with its own suitability-check guidance, not paralleled in FIELD_SKILL
+     (GUIDELINE ONLY).
+
+FIELD_SKILL overrides: none that contradict FIELD_SKILL outright; the
+above are additions/relaxations layered on top of the field baseline.
+
+Access-limitation notes:
+- ScienceDirect (sciencedirect.com) blocked all direct WebFetch attempts
+  with HTTP 403, including the guide-for-authors page and all volume/issue
+  listing pages. All guide-for-authors content in the skill file was
+  reconstructed from WebSearch-returned indexed snippets of that same page,
+  not a direct read.
+- No full-text or abstract-level content from an article confirmed to be
+  published in Journal of Mathematical Psychology could be retrieved
+  through any available channel (PMC, arXiv, ResearchGate, Semantic
+  Scholar, institutional repositories). The one open-access PDF located
+  (UCL Discovery repository copy of a JMP article, vol 107, 2022) could
+  not be parsed by available tools (binary/compressed PDF stream, no
+  pdftoppm/OCR available in this environment).
+- As a result, the "Observed Deltas" section of the skill file is
+  lower-confidence than usual — inferred from stated journal scope and
+  article-type descriptions rather than confirmed against real manuscripts.
+  Flagged explicitly in the skill file for future revisit if full-text
+  access becomes available.

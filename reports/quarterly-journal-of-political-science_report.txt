@@ -1,0 +1,21 @@
+Journal: Quarterly Journal of Political Science
+Slug: quarterly-journal-of-political-science
+ABS: 3
+Field: SOC SCI
+Publisher: Now Publishers Inc.
+
+Articles fetched: 6 abstracts read directly (Diermeier & Schnabel 2025; Karekurve-Ramachandra 2025; Rogall 2024; Parihar 2025; plus 2 more searched), ~25 additional article titles/structure reviewed via IDEAS/RePEc issue listings spanning 2023-2025 (vols 18-20). Full text was paywalled throughout (Now Publishers site returned 403 on direct fetch); relied on WebSearch-extracted abstract snippets, IDEAS/RePEc, and Emerald abstract pages.
+
+Early stop triggered: No — access chain (Now Publishers direct fetch blocked by anti-bot/403) was exhausted for full text and the style-guidelines PDF (404), but abstract-level and title-level pattern review continued until deltas stabilized (~25+ titles reviewed).
+
+Deltas found: 3 dimensions
+  1. Voice/Register - PRACTICE ONLY: third-person "the author" self-reference common in single-authored abstracts, rather than "I".
+  2. Structural Deviations - PRACTICE ONLY: journal leans heavily toward formal game-theoretic modeling and economics-style Model/equilibrium sections rather than empirical Data-Methods-Results structure for a substantial share of articles.
+  3. Other Journal-Specific Patterns - PRACTICE ONLY: empirical papers near-universally foreground an explicit identification strategy / named quasi-experiment in the abstract itself.
+
+FIELD_SKILL overrides: none (no ENFORCED override found; all findings are PRACTICE ONLY or RELAXATION, consistent with ABS 3 tier rules).
+
+Access-limitation notes:
+- nowpublishers.com blocked direct WebFetch (403/CAPTCHA) for the author instructions page, article detail pages, and the style guidelines PDF (404). Relied on WebSearch snippet extraction of the same pages instead.
+- Emerald.com (co-listing host) also returned a CAPTCHA/traffic-block page on direct fetch.
+- No full-text articles were accessible; all article-level findings are based on abstracts and title/structure patterns only, per task instructions allowing front-matter-only judgment when full text is paywalled.

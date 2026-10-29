@@ -1,0 +1,15 @@
+Journal: Global Journal of Emerging Market Economies
+Slug: global-journal-of-emerging-market-economies
+ABS: 1
+Field: ECON
+Articles fetched: 9 abstracts read in full (RePEc/IDEAS) + 1 full-text article located via search (Chattopadhyay et al. 2022) + 35 article titles/authors surveyed across 5 issues (Vol 17 Iss 1-3, Vol 18 Iss 1-2)
+Early stop triggered: No
+Deltas found: 3 dimensions
+  - Voice and Register: mixed third-person/impersonal alongside "we" (RELAXATION of FIELD_SKILL "we"-dominant norm; PRACTICE ONLY)
+  - Statistical Reporting: abstracts often qualitative/directional rather than magnitude-specific (RELAXATION; PRACTICE ONLY)
+  - Structural Deviations: journal explicitly publishes essays/policy papers/book reviews and Emerging Markets Forum survey-style pieces alongside standard empirical papers (ENFORCED, tied to journal scope and EMF affiliation)
+FIELD_SKILL overrides: none (abstract length/format is a HARD_CONSTRAINT addition -150-250 words, unstructured, 4-6 keywords- not a contradiction of FIELD_SKILL, which is silent on abstract length)
+Access-limitation notes:
+  - SAGE's own journal site (journals.sagepub.com) is JavaScript-rendered; WebFetch could only retrieve navigation chrome, not guideline body text or TOC listings directly. Guideline content was reconstructed from WebSearch snippets of the same pages and a linked PDF (which was partly image-based and appears to reuse a generic/medical-journal SAGE template in places - ICMJE/clinical trial registration language was visible but is not economics-specific and was excluded from HARD_CONSTRAINTS as likely boilerplate not applicable to this journal).
+  - Full-text access to sampled articles was not available (paywalled); RePEc/IDEAS (series sae/emeeco) abstract mirrors were used as the primary spot-check source, which is standard practice for ABS 1 journals per task instructions.
+  - Article index found via RePEc gave good title/author coverage (35 articles, 5 recent issues) even though few full texts were accessible.

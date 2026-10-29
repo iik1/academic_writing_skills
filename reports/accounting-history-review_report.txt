@@ -1,0 +1,41 @@
+DELTA DETECTION REPORT
+======================
+
+Journal: Accounting History Review
+Slug: accounting-history-review
+ABS Rating: 2
+Field: BUS HIST & ECON HIST
+Publisher: Taylor & Francis
+
+ARTICLES FETCHED: 12
+(Vol. 35–36, 2025–2026; sampled from IDEAS/RePEc)
+
+EARLY STOP TRIGGERED: No
+(Journal followed field baseline conventions throughout; no substantial deviations observed.)
+
+DELTAS FOUND: 0
+(All substantive dimensions align with business-economic-history-field-writing-style baseline.)
+
+HARD CONSTRAINTS IDENTIFIED:
+- Citation style: Author-date (parenthetical) format (confirmed from Paperpile citation guide)
+- Peer review: Double-anonymized (stated in journal scope description)
+- Abstract format: Non-structured, compact summaries (observed in sampled article metadata)
+- Archival/source transparency: Expected in methods section (consistent with field baseline)
+
+FIELD_SKILL OVERRIDES: None
+(No journal-specific overrides of field baseline norms.)
+
+COMMON PITFALLS IDENTIFIED: 4
+1. Weak historiographical positioning (using social-science "gap-filling" language rather than historiographical framing)
+2. Insufficient source/archival transparency
+3. Overuse of presentist/instrumental framing instead of historical practice emphasis
+4. Anonymization lapses in manuscript preparation
+
+ACCESS LIMITATIONS:
+- Full author guidelines PDF behind Taylor & Francis paywall
+- Full-text articles behind paywall; analysis based on titles, author metadata, abstracts, and 12-article spot-check
+- Citation style and journal scope verified via publicly available sources (Paperpile, IDEAS/RePEc, journal homepage)
+- No institutional EZProxy access available; good-faith sample via open metadata sources
+
+CONFIDENCE LEVEL: High
+(12 distinct articles sampled with consistent structural patterns; citation style independently confirmed; no structural deviations from field baseline observed across all articles. Journal appears to operate entirely within field-standard conventions for ABS 2 rating in BUS HIST & ECON HIST field.)

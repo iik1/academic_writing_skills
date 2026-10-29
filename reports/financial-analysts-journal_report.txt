@@ -1,0 +1,40 @@
+Journal: Financial Analysts Journal
+Slug: financial-analysts-journal
+ABS: 3
+Field: FINANCE
+Publisher: Taylor & Francis / Routledge (on behalf of CFA Institute)
+
+Articles fetched: 5 with abstract-level detail (Bessembinder et al. 2025; Penman & Zhu 2025;
+Hasan, Kumar & Taffler 2025; Goetzmann 2020), plus 6 additional article titles from the Q1 2025
+issue table of contents (11 items observed total). Full text was paywalled throughout; no
+open-access full-text article was located.
+
+Early stop triggered: No — access chain was exhausted (full Instructions for Authors page and
+all full-text article pages returned 403 Forbidden) before reaching 15 articles. Continued
+until the delta set stabilized on the accessible material (abstracts + titles + stated
+submission criteria), consistent with the assignment's fallback instruction to document
+early exhaustion rather than retry repeatedly.
+
+Deltas found: 3
+  1. Voice and Register — RELAXATION/ENFORCED: journal explicitly requires exposition that is
+     "not excessively theoretical or technical," confirmed by plain-language abstract style
+     in all spot-checked articles.
+  2. Structural Deviations — PRACTICE ONLY/RELAXATION: plain-language, often question-form
+     titles; unstructured single-paragraph abstracts without enumerated contributions
+     (abstract-level only, full intros inaccessible).
+  3. Other Journal-Specific Patterns — PRACTICE ONLY: economic magnitude / actionable
+     implications (e.g., strategy alpha) often stated directly in the abstract rather than
+     deferred to results section.
+
+FIELD_SKILL overrides: None that redefine the baseline (journal is ABS 3, so relaxations were
+labeled RELAXATION per the tiering rule, not new norms). No override of citation format,
+section structure, or hedging conventions found.
+
+Access-limitation notes:
+- CFA Institute / Taylor & Francis Instructions for Authors page (tandfonline.com/action/
+  authorSubmission) returned 403 Forbidden on direct fetch; could not retrieve formal
+  structure/length/abstract-format/citation rules beyond what WebSearch snippets surfaced.
+- All full-text article pages on tandfonline.com returned 403 Forbidden; assessment relies on
+  abstracts and titles surfaced via WebSearch and RePEc/IDEAS.
+- No SSRN/ResearchGate full-text preprints of FAJ-published articles were successfully
+  retrieved in full within the access chain used.

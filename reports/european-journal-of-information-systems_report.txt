@@ -1,0 +1,44 @@
+Journal: European Journal of Information Systems
+Slug: european-journal-of-information-systems
+ABS: 4
+Field: INFO MAN
+
+Articles fetched: 14 titles reviewed (2025-2026, Vol 34-35); 10 with
+abstract-level detail via WebSearch snippets. Full text was not accessible
+(tandfonline.com returned 403 to WebFetch for all article pages and the
+Instructions for Authors page).
+
+Early stop triggered: No (exhausted accessible sources; deltas stabilised
+after ~10 detailed abstracts plus editorial/genre-policy articles).
+
+Deltas found: 2 dimensions
+  - Structural Deviations (ENFORCED): journal-specific multi-genre submission
+    system (Literature Review, Theory Development, Empirical Research,
+    Ethnographies and Narratives, Response) not present in FIELD_SKILL.
+  - Other Journal-Specific Patterns (PRACTICE ONLY): visible editorial appetite
+    for value-reflexive/critical framing and societal/worker-level (not just
+    managerial) implications, observed in ~4 of 10 detailed abstracts.
+
+FIELD_SKILL overrides (Hard Constraints):
+  - Length: 10,000-word main text limit for first submission (tables/figures
+    in-text, excludes references/appendices) - not specified in FIELD_SKILL.
+  - Tables/Figures: must be embedded in-text at first submission, not
+    collected separately - not specified in FIELD_SKILL.
+  - Citations: author-date format confirmed (aligns with typical field norm,
+    no conflict).
+
+Access-limitation notes:
+  - tandfonline.com/journals/tjis20 (Instructions for Authors) returned 403
+    Forbidden to WebFetch; could not directly verify abstract word limit,
+    full structured/unstructured abstract policy, or explicit prohibitions
+    beyond what is inferable from the journal's own editorials.
+  - All article abstract pages on tandfonline.com also returned 403 to direct
+    WebFetch; abstract content was reconstructed via WebSearch result
+    snippets (which quote or paraphrase abstracts) rather than direct page
+    reads. This is a lower-confidence access method than full-text or direct
+    abstract-page fetch, but content was corroborated across multiple search
+    results per article.
+  - ideas.repec.org/s/taf/tjisxx.html was successfully fetched directly and
+    provided a reliable recent article-title index.
+  - The old Palgrave author-instructions mirror (test-www.palgrave-journals.com)
+    was unreachable (DNS/connection failure).

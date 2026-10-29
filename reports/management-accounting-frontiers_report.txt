@@ -1,0 +1,73 @@
+MANAGEMENT ACCOUNTING FRONTIERS - DELTA DETECTION REPORT
+========================================================
+
+Journal: Management Accounting Frontiers (MAF)
+Slug: management-accounting-frontiers
+ABS Rating: 1
+Field: ACCOUNT
+Publisher: Institute of Certified Management Accountants (CMA Australia)
+
+ARTICLES FETCHED AND SPOT-CHECKED
+=================================
+6 articles examined:
+1. Nasca, Wald, Munck, Gleich (2024, Vol 7, pp 7-42): "Improvement of Budgeting and the Success of Management Accounting"
+2. Laing, G. K. (2018, Vol 1, pp 3-14): "Seismic Measurement of Management Accounting Innovations"
+3. Liyanage & Gooneratne (2021, Vol 4, pp 27-50): "From 'Traditional' Budgeting to 'Better' Budgeting"
+4. So, Y. K. et al. (2020, Vol 3, pp 25-52): [Intellectual capital valuation study]
+5. Sheehan, M. (2024, Vol 7, pp 43-65): [Work-from-home human capital study]
+6. Sridharan, V. G. & Tse, M. S. (editorials, 2019-2023, Vol 2, 3, 5-6): Various editorials
+
+Access method: Web search, article metadata, title pages, page ranges. Full-text PDF parsing failed due to binary encoding; conclusions drawn from title, author info, page ranges, and search result snippets indicating section structure.
+
+EARLY STOP TRIGGERED: No (6 distinct articles adequate for ABS 1 tier; access limitations documented)
+
+DELTAS FOUND: 3 dimensions
+1. Manuscript Length and Scope (RELAXATION) - shorter acceptable for ABS 1 tier
+2. Section Structure and Formalism (STRUCTURAL DEVIATION, PRACTICE ONLY) - numbered sections consistently used
+3. Audience and Tone (RELAXATION, ABS 1 characteristic) - explicitly accepts practitioner-oriented content
+
+All other dimensions follow FIELD_SKILL norm with no deviations.
+
+FIELD_SKILL OVERRIDES: None
+- No hard constraints from MAF guidelines contradict FIELD_SKILL baseline
+- Harvard style citations confirmed (matches FIELD_SKILL author-date default)
+- Section numbering is an additional structural requirement not present in FIELD_SKILL description
+- Audience broadening (academics + practitioners) is relaxation, not override
+
+ACCESS LIMITATION NOTES
+======================
+1. CMA Australia main website (cmaaustralia.edu.au) returns 403 Forbidden for:
+   - MAF Guide for Authors page
+   - MAF Journals page
+   - Publication archive pages
+   These pages require authentication or are behind institutional login.
+
+2. Article PDFs on both cmaaustralia.edu.au and ontarget.cmaaustralia.edu.au are accessible by URL but
+   cannot be parsed by WebFetch tool (binary PDF streams, FlateDecode compression, unrenderable without
+   external PDF extraction library).
+
+3. Information source for HARD_CONSTRAINTS:
+   - WebSearch result snippets that quoted guidelines text
+   - Journal website metadata (ISSN registry, publication dates, editorial info)
+   - Article title pages and page ranges visible in search results
+   - Inferred structure from article page breakdowns (Nasca 2024 snippet mentioned "section 5 results, section 6 discussion")
+
+4. Information I could NOT confirm directly:
+   - Exact word/page limits (not stated in accessible sources)
+   - Abstract format (structured vs unstructured, word count limit)
+   - JEL codes (not observed in spot-checked samples, but might be optional)
+   - Complete list of submission formatting requirements (full guide is behind auth wall)
+
+CONCLUSION
+==========
+Management Accounting Frontiers is an ABS 1 journal (lower-tier) with a mixed academic/practitioner
+audience. It relaxes some field conventions (length, audience formality) while maintaining core ACCOUNT
+field norms (voice, methods rigor, citation style, results reporting).
+
+The journal's primary distinguishing feature is its explicit use of numbered section structure (1, 2, 3, etc.)
+and acceptance of accessible, application-oriented writing. These are documented in the SKILL.md as
+PRACTICE-level deviations and RELAXATIONS respectively.
+
+The inability to parse full PDFs and access the complete author guidelines is a limitation, but the
+evidence gathered is sufficient to identify the key deltas that differentiate MAF writing from the
+FIELD_SKILL baseline.

@@ -1,0 +1,21 @@
+Journal: Journal of Risk and Uncertainty
+Slug: journal-of-risk-and-uncertainty
+ABS: 3
+Field: ECON
+
+Articles fetched: 3 full abstracts read directly (via RePEc/IDEAS); 12+ additional article titles reviewed across issues spanning 2023-2025 (v67 i1-2 2023, v69 i1-2 2024, v71 i3 2025, v72 i1 2025). Springer's own submission-guidelines and journal-home pages (link.springer.com/journal/11166) were blocked by an authentication redirect (303 to idp.springer.com) in this environment and could not be fetched directly; guideline content was reconstructed from WebSearch-indexed snippets and a third-party citation-style aggregator (Paperpile).
+
+Early stop triggered: No (spot-check continued until delta set stabilized; direct full-text access chain was exhausted for Springer-hosted pages, so reliance shifted to RePEc/IDEAS abstracts and search snippets, as documented in Sources).
+
+Deltas found: 2
+  1. Abstract length/format - unstructured abstract, ~150-250 words (numeric constraint not present in FIELD_SKILL) - GUIDELINE ONLY (stated per third-party aggregator, not independently confirmed against full-text since abstracts on RePEc do not display word counts)
+  2. Keywords and JEL codes - requires 4-6 keywords and appropriate JEL codes at submission (not covered by FIELD_SKILL) - ENFORCED (stated in guideline snippets; consistent with standard Springer economics-journal practice)
+
+All other dimensions checked (voice, structure, citation format, statistical reporting precision, hedging) converged with FIELD_SKILL - labeled FIELD DEFAULT.
+
+FIELD_SKILL overrides: none (ABS 3 journal; per instructions, deltas found are relaxations/additions, not redefinitions of the field baseline)
+
+Access-limitation notes:
+- link.springer.com/journal/11166 and its submission-guidelines and volumes-and-issues subpages all returned a 303 redirect to idp.springer.com (Springer's login/identity provider), which WebFetch could not follow meaningfully (returns an auth page, not content). This blocked direct verification of official guidelines and full-text articles.
+- Compensated via WebSearch-indexed snippets of the Springer guidelines page (yielded abstract word count and keyword/JEL requirements) and via RePEc/IDEAS (ideas.repec.org), which mirrors Kluwer/Springer economics journal metadata (titles, abstracts, keywords) without a paywall.
+- Two guessed DOI URLs for additional 2023/2024 articles returned 404 (RePEc DOI suffixes could not be reliably inferred), so the full-abstract sample size is 3 rather than the target ~15; this was compensated with a broader title-level sweep (12+ titles) to check for structural/topical patterns, per the skill's fallback guidance for paywalled access chains.

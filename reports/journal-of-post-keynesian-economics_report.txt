@@ -1,0 +1,46 @@
+Journal of Post Keynesian Economics — Skill Creation Report
+===========================================================
+
+Journal: Journal of Post Keynesian Economics
+Slug: journal-of-post-keynesian-economics-writing-style
+ABS Rating: 2
+Field: ECON
+Publisher: Taylor & Francis
+ISSN: 0160-3477
+
+Articles Spot-Checked: 6
+  1. Ferreira-Filho & Oreiro (2026) "Kaldor's transition from growth to development economics: is there a role for Prebisch and ECLA?" Vol 49(1), pp. 1–26
+  2. Padhi (2026) "Export-led transitional dynamics: roles of investment and learning by doing" Vol 49(1), pp. 27–57
+  3. Jiménez (2026) "Labor market stability in a zero-growth economy: a post-Keynesian approach" Vol 49(1), pp. 58–84
+  4. Byrialsen (2025) "Military spending, financing, and fiscal sustainability: the universal welfare state under pressure?" Vol 48(4), pp. 85–127
+  5. Lagoarde-Ségot, Le Quang, & Scialom (2026) "Sustainable economic policies: exploring the effects of ecosystemic macroprudential regulations" Vol 49(1), pp. 128–164
+  6. Harvey (2026) "Testing Keynes' aggregate investment function in Germany, Japan, the UK, and the US" Vol 49(1), pp. 211–231
+
+Access Status: Full text articles paywalled via Taylor & Francis. Public access via IDEAS/RePEc and EconPapers indexes (abstracts, metadata). One working paper version accessible (Lagoarde-Ségot et al. working paper).
+
+Early Stop Triggered: No. Good-faith effort to spot-check 6 distinct recent articles; access limitations documented but did not prevent assessment.
+
+Deltas Found: 3
+  1. Theoretical Orientation (HETERODOX FRAMING EXPECTED) — ENFORCED
+  2. Policy Relevance (POLICY ENGAGEMENT EMPHASIZED) — PRACTICE ONLY
+  3. Structural Variation (THEORY-DRIVEN SECTION ORDERING PERMITTED) — PRACTICE ONLY
+
+FIELD_SKILL Overrides: None. Hard constraints (abstract, citations, structure, length) align with field baseline for economics journals. No conflict detected.
+
+Access Limitations:
+  - Taylor & Francis journal homepage (tandfonline.com) returned 403 Forbidden; guidelines inaccessible
+  - Most recent articles (Vol 48–49) behind paywall; spot-check relied on abstracts, article titles, and metadata from IDEAS/RePEc and EconPapers
+  - One full working paper accessible (Lagoarde-Ségot et al.)
+  - One older working paper (Jiménez 2022) accessible; recent 2026 version behind paywall
+  - Skill created with publicly available information; some hard constraints inferred from Taylor & Francis generic guidelines and heterodox economics publishing norms
+
+Confidence Level: Medium. Article spot-check based on titles, abstracts, and metadata rather than full texts. Observed deltas are practice-level (heterodox framing, policy relevance, structural flexibility) and are consistent with the journal's stated scope and ABS 2 positioning as a heterodox-specific outlet. No conflicting evidence observed. Hard constraints (abstract format, citations, heading style) align with Taylor & Francis norm and FIELD_SKILL. Skill is usable but would benefit from access to full recent articles for final verification.
+
+Notes:
+  - Journal founded 1978; currently in Vol 49 (2026)
+  - ABS rating: 2 (lower tier than field baseline, which covers ABS 4*/4)
+  - Impact Factor (2024): 1.44
+  - Explicitly receptive to post-Keynesian and heterodox approaches; not a mainstream outlet
+  - Recent articles span theoretical, empirical, and policy-focused work
+  - No evidence of hostile or unusual editorial requirements; appears to follow Taylor & Francis standards with heterodox topical focus
+

@@ -1,0 +1,45 @@
+JOURNAL SKILL GENERATION REPORT
+===============================
+
+Journal: Employee Responsibilities and Rights Journal
+Slug: employee-responsibilities-and-rights-journal-writing-style
+ABS Rating: 2
+Field: HRM&EMP
+Publisher: Springer Nature
+
+ARTICLES FETCHED: 6
+- Limited to abstract/title level due to Springer paywall
+- Recent 2025 articles sampled via search results:
+  1. "A Study on Balancing Work-Life Dynamics for Optimal Job Satisfaction in India"
+  2. "Impact of Organizational Culture and Workforce Diversity on Management Practices"
+  3. "Work-Life Balance as a Deterrent to Turnover Intentions"
+  4. "Management and Analysis of Salary Costs in Combination with Flexible Forms of Employment"
+  5. "The Case for Selective Non-Transparency in AI-Mediated Work: A Workers Rights Framework"
+  6. "A Reassessment of the Legal Tests Used in Determining Whether Controlling Shareholders are Employees"
+
+EARLY STOP TRIGGERED: No
+Reason: Sufficient information gathered from public sources (Springer guidelines snippets, journal scope statements, article titles/abstracts, citation style guides)
+
+DELTAS FOUND: 3 major dimensions
+1. Broader interdisciplinary framing (law, ethics, philosophy integrated alongside HRM)
+2. Non-traditional article formats (Perspectives/Viewpoints section for symposiums, roundtables, interviews, book reviews)
+3. Critical commentaries and conceptual articles emphasized as core offerings, not peripheral
+
+FIELD_SKILL OVERRIDES: None
+The FIELD_SKILL baseline (HRM 4*/4) remains authoritative for voice, register, sentence style, argumentation, methods, results, discussion, and hedging conventions. This ABS 2 journal does not deviate on those dimensions; it simply has a broader scope and accepts non-traditional formats not typically described in 4*/4 baseline.
+
+ACCESS LIMITATIONS:
+- Springer's detailed author guidelines page (link.springer.com/journal/10672/submission-guidelines) requires authentication; could not fetch directly
+- Springer article full texts paywalled; only abstracts/titles accessible
+- ResearchGate journal page returns 403 Forbidden
+- SciSpace template page returns 403 Forbidden
+- Direct attempts to fetch Springer PDF full texts redirect to authentication gateway
+
+Information pieced together from:
+- Springer public search results and guidelines snippets
+- Journal homepage and aims/scope (partially accessible)
+- Citation style guides and formatting compilations (Paperpile, etc.)
+- Article title/abstract listings from Google Scholar and article landing pages
+- General Springer journal standards (inferred from multiple journal guidelines)
+
+CONFIDENCE LEVEL: Medium-High on hard constraints (keywords, abstract rules, citations, article types) due to explicit mention in public sources. Medium on formatting details (margins, font, spacing) due to inference from Springer standards rather than journal-specific documentation.

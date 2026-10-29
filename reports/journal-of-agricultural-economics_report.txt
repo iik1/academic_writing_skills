@@ -1,0 +1,22 @@
+Journal: Journal of Agricultural Economics
+Slug: journal-of-agricultural-economics
+ABS: 3
+Field: ECON
+Articles fetched: 12 (abstract/title-level; full text paywalled on Wiley, 402 on direct WebFetch)
+Early stop triggered: No (stopped after delta set stabilised and access chain via WebSearch/RePEc mirrors was exhausted for additional distinct abstracts)
+
+Deltas found: 2 dimensions
+1. Structural Deviations (GUIDELINE ONLY) - guidelines specify Discussion as a section distinct from Conclusion (IMRaD-plus-Discussion), more prescriptive than FIELD_SKILL's "no consensus norm" on merging Discussion into Results/Conclusion.
+2. Other Journal-Specific Patterns (PRACTICE ONLY, low-moderate prevalence) - abstracts consistently end with concrete applied/policy recommendations, more pronounced than FIELD_SKILL's general policy-implications norm.
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+- Abstract: 250-word cap, structured or unstructured author's choice, must state aims/methods/results/conclusions and foreground contribution.
+- Length: 7,000-word cap for standard articles (strictly enforced); 1,500-word short-note track also accepted.
+- Submission eligibility: at least one author must be an Agricultural Economics Society member (waived for all-authors-from-low/lower-middle-income-country manuscripts).
+- Data sharing expected per Wiley policy.
+
+Access-limitation notes:
+- Wiley Online Library abstract/full-text pages returned HTTP 402 (Payment Required) on direct WebFetch for all attempted DOIs.
+- Relied on WebSearch snippet extraction of guideline pages and article abstracts, plus one open RePEc/RWI working-paper mirror (Kaestner et al., cocoa pass-through) for a verified full abstract.
+- IDEAS/RePEc issue-level abstract pages were inconsistently available (some 404s); used the journal's RePEc series listing page for titles instead.
+- No full-text articles were accessible; all structural/voice observations are based on abstract text and guideline pages only, which limits confidence on in-body section-heading practice (noted as GUIDELINE ONLY rather than ENFORCED for the Discussion-section delta).

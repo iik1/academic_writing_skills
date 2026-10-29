@@ -1,0 +1,56 @@
+JOURNAL SKILL GENERATION REPORT
+===============================
+
+Journal: Environment and Development Economics
+Slug: environment-and-development-economics
+ABS Rating: 2
+Field: ECON
+Publisher: Cambridge University Press
+
+RESEARCH SUMMARY
+================
+
+Articles fetched: 6 (all open-access 2026 articles from Cambridge Core)
+Early stop triggered: No
+Access limitations: Full author guidelines PDF not publicly accessible; extracted constraints from Cambridge Core submission page, "Preparing Your Materials" reference, and direct observation of 6 peer-reviewed articles.
+
+DELTAS FOUND
+============
+
+Count: 2 significant deltas
+
+1. ENFORCED - Required metadata sections
+   Competing Interests, Funding, Author Contributions, Data Availability Statement are mandatory structured sections.
+   Classification: ENFORCED (observed in 100% of sample; appears to be Cambridge Core/publisher standard)
+
+2. PRACTICE ONLY - Policy recommendation emphasis
+   Five of six articles include explicit policy recommendations in conclusions.
+   Classification: PRACTICE ONLY (common but not mandated)
+
+All other dimensions follow FIELD_SKILL baseline (empirical paper structure, author-year citations, active voice,
+first-person plural, statistical reporting with magnitudes, robustness checks, hedging norms, citation density patterns).
+
+FIELD_SKILL OVERRIDES
+====================
+
+None. Environment and Development Economics does not contradict or override FIELD_SKILL conventions.
+The journal adds publisher-standard metadata sections (Cambridge Core requirement, not journal-specific deviation).
+
+ACCESS NOTES
+============
+
+- Full author guidelines in PDF form are linked from submission page but not publicly readable without login.
+- Detailed constraints (word limits, heading conventions, etc.) not accessible through public web resources.
+- Skill written based on (a) Cambridge Core submission page information, (b) 6 full-text open-access articles
+  from journal's 2026 open-access collection, and (c) journal homepage scope/editorial information.
+- Spot-checked articles represent recent 2026 publications; sample size (6) is appropriate for ABS 2 tier
+  with limited public access to full guidelines.
+- No institutional EZProxy or paywall access available for this review; all sources are openly accessible
+  or extracted from open-access articles on Cambridge Core.
+
+SKILL FILE LOCATION
+===================
+
+C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/economics/environment-and-development-economics_SKILL.md
+
+STATUS: Complete. Skill generated and saved. No existing skill was overwritten.

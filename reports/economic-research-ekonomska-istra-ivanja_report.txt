@@ -1,0 +1,30 @@
+Journal: Economic Research-Ekonomska Istrazivanja
+Slug: economic-research-ekonomska-istra-ivanja
+ABS: 1
+Field: ECON
+Publisher: Taylor & Francis (open access)
+
+Articles fetched: 10 (titles + abstract summaries only, one issue: Vol. 37, Issue 1, Jan 2024, via secondary aggregator; no full-text access available)
+Early stop triggered: No (proceeded through all phases; sample size limited by access, not by early stop)
+
+Deltas found: 3 dimensions
+  - Structural: mandatory JEL classification code (ENFORCED, not covered by FIELD_SKILL)
+  - Length accounting: 8,000-word cap is all-inclusive (tables, references, figures, endnotes, abstract counted) — stricter/more encompassing accounting than typical top-tier practice (ENFORCED)
+  - Scope emphasis: applied/policy micro and development topics, regional development and transitional economies focus (observational, not a style deviation, just a framing note)
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Structure: Title -> Authors/affiliation/email -> Abstract -> Keywords -> JEL code -> numbered body sections (Intro = 1, Conclusion = last)
+  - Length: up to 8,000 words all-inclusive
+  - Abstract: unstructured, up to 300 words, must cover purpose/methods/structure/results/application
+  - Keywords: up to 6
+  - Citations: APA 7th edition specifically (not generic author-year)
+  - Headings: Arabic numerals throughout
+  - Tables/Figures: Arabic numerals, short title + source, referenced in text; equations italicized, numbered in brackets, right-aligned
+  - Formatting: Times New Roman 12pt, 1-1.5 spacing, justified, A4, Word doc
+  - Prohibitions: unpublished only, anonymized submission required, English only, proofread
+
+Access-limitation notes:
+  - No institutional EZProxy access in this environment.
+  - Direct WebFetch to tandfonline.com returned 403 Forbidden (both /for-authors and /toc/rero20/current pages).
+  - Author guidelines successfully retrieved via the journal's own OJS platform (ojs.srce.hr), which mirrors/hosts the Croatian co-publication side of this journal.
+  - Article spot-check limited to title/abstract-level summaries from one issue via a secondary aggregator (IDEAS/RePEc-style listing), not full text, and not across multiple years as ideally targeted. This is documented as a thinner-than-ideal but good-faith sample for an ABS 1 journal per task instructions.

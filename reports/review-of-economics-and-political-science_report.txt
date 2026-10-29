@@ -1,0 +1,21 @@
+Journal: Review of Economics and Political Science
+Slug: review-of-economics-and-political-science
+ABS: 1
+Field: ECON
+
+Articles fetched: 10 (abstract/front-matter level; full text was paywalled)
+Early stop triggered: No — reached target sample of 10 distinct articles across volumes 5-11.
+
+Deltas found: 2 dimensions
+1. Structural Deviations — mandatory Emerald structured abstract (Purpose / Design-methodology-approach / Findings / Originality-value, +/- Research limitations/implications, Practical implications) confirmed in 10/10 sampled abstracts. ENFORCED delta from FIELD_SKILL's free-form abstract assumption.
+2. Structural Deviations — near-universal standalone "Literature Review" section (present in all 10 articles) rather than literature folded into the introduction. RELAXATION/practice pattern consistent with ABS 1 tier, not contradicting FIELD_SKILL.
+   Minor secondary note: inconsistent presence of a distinct post-conclusion "Practical Implications"/"Limitations" section (3 of 10) — flagged as PRACTICE ONLY, low-prevalence.
+   Minor secondary note: JEL codes present in only 4 of 10 articles (absent from political-science-only pieces) — documented as a pattern, not a strict requirement.
+
+FIELD_SKILL overrides: Abstract format (structured Emerald template overrides FIELD_SKILL's implicit free-form abstract norm).
+
+Access-limitation notes:
+- Journal-specific author guidelines page (emerald.com/reps/author-guidelines) returned HTTP 404 at time of research; could not be located via search either. Constraints on abstract format, section structure, and JEL/keyword conventions were inferred instead from Emerald's general "Writing for Emerald" support page plus consistent observation across 10 published articles.
+- Full text of all 10 sampled articles was paywalled; all observations are based on abstracts, keywords, JEL codes, and visible section-heading lists extracted via WebFetch, not full-text prose. Voice/register/citation-density claims in the skill are therefore marked as "follows FIELD_SKILL norm" by default rather than independently confirmed, per task instructions to avoid describing anything not actually observed.
+- No word/page limit could be confirmed from any accessible source.
+- Citation style (author-date) was not independently confirmed for this journal specifically; assumed consistent with FIELD_SKILL/Emerald house style since no contrary evidence surfaced.

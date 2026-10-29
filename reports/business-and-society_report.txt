@@ -1,0 +1,21 @@
+Journal: Business and Society
+Slug: business-and-society
+ABS: 3
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 1 confirmed at abstract/metadata level (Wenzel et al. 2025, DOI 10.1177/00076503251341209), plus 3 additional articles confirmed at title-only level via search snippets (Al-Esia/Crane/Iatridis; Goodman/Mäkinen; Brown et al. 2022 editorial). Target was 15; actual usable spot-check depth was far lower.
+
+Early stop triggered: yes. SAGE's journals.sagepub.com platform blocks automated retrieval of individual article/TOC pages for both WebFetch (returns the site's SPA navigation shell rather than page content) and WebSearch-derived snippets (search engines mostly surface the guidelines page or unrelated CSR literature rather than B&S article abstracts). The scispace.com mirror also returned 403. After several rounds of varied search queries (by topic, by DOI prefix, by article type, by year) failed to surface additional readable abstracts, the access chain was judged exhausted and the spot-check phase was stopped.
+
+Deltas found: 2 dimensions
+1. Structural Deviations — journal-specific four-tier article-type system (full article/research note/commentary/perspective) with distinct word caps and, for Commentaries, a mandatory pre-submission pitch process; also a RELAXATION of FIELD_SKILL's typical full-article word range (7,000-12,000 words here vs. FIELD_SKILL's 10,000-18,000+).
+2. Other Journal-Specific Patterns — mandatory "Statements and Declarations" front-matter block (Ethical considerations, Consent to participate, Consent for publication, Conflict of interest, Funding statement, each required even if "Not applicable") and strict double-anonymized title-page/manuscript separation protocol, both more granular than anything in FIELD_SKILL.
+
+All other dimensions (voice/person, argumentation, methods, results, discussion, hedging) found no delta and were marked FIELD DEFAULT, since the limited spot-check sample showed no deviation from FIELD_SKILL and this is consistent with an ABS-3 journal typically aligning with (or only relaxing, not redefining) the field baseline.
+
+FIELD_SKILL overrides: none beyond the documented word-limit RELAXATION and structural additions above — no voice/register, citation, or hedging overrides found.
+
+Access-limitation notes:
+- Live guidelines page (journals.sagepub.com/author-instructions/bas) rendered as an empty SPA shell for WebFetch; the cached PDF mirror at sagepub.com/docs (submission-guidelines PDF) was used instead and provided complete, authoritative HARD_CONSTRAINTS content.
+- Individual article pages, TOC pages, and third-party abstract mirrors (scispace) were consistently blocked (403 or navigation-shell-only responses), preventing the planned 15-article spot-check. RePEc/IDEAS does not index this journal (it is a management/CSR journal, not economics).
+- Given the strength and specificity of the official guidelines PDF, HARD_CONSTRAINTS are considered reliable (ENFORCED where guideline language is explicit, e.g. "will not be considered," "will be returned to the authors"). Style/voice deltas beyond structure could not be independently confirmed against a larger article sample and are marked FIELD DEFAULT by convergence rule rather than affirmatively verified across many articles.

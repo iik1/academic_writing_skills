@@ -1,0 +1,131 @@
+JOURNAL SKILL REPORT
+====================
+
+Journal Name: Review of Environmental Economics and Policy
+Journal Slug: review-of-environmental-economics-and-policy
+ABS Rating: 2
+Field: ECON
+Publisher: University of Chicago Press (from 2021 onward)
+
+ACCESS & METHODOLOGY
+====================
+Articles Fetched: 8 distinct articles (2024-2025 issues)
+  - 5 full abstracts retrieved from IDEAS/RePEc
+  - 3 additional article titles and metadata confirmed
+  - Total sample: 8 articles from Volume 18-19 (2024-2025)
+
+Access Chain Used:
+  1. WebSearch for journal guidelines (accessible)
+  2. WebFetch of Oxford Academic instructions page (successful)
+  3. WebSearch for recent articles via IDEAS/RePEc
+  4. IDEAS/RePEc abstract pages (successful)
+  5. Full-text DOI pages (HTTP 403 - paywalled)
+  6. NBER working paper PDFs (binary format, unreadable by WebFetch)
+  7. Brookings HTML version (accessible)
+
+Early Stop Triggered: No
+  - Sufficient public information available (guidelines + abstracts)
+  - No requirement to abandon journal assessment
+
+DELTAS FROM FIELD_SKILL
+=======================
+Deltas Found: 5 major + several supporting observations
+
+1. FUNDAMENTAL PAPER TYPE (ENFORCED)
+   - FIELD_SKILL baseline: ABS 4*/4 empirical & theory papers
+   - REEP: Policy synthesis & review journal; explicitly NOT empirical/theory
+   - Classification: ENFORCED (core mission statement)
+   - Impact: Section structure, voice characteristics, and results presentation differ fundamentally
+
+2. SUBMISSION PROCESS (ENFORCED)
+   - FIELD_SKILL norm: Submit complete manuscripts
+   - REEP: Proposal-only submission (2-3 page outline + abstract)
+   - Classification: ENFORCED (stated in guidelines)
+
+3. LENGTH CONSTRAINT (ENFORCED)
+   - FIELD_SKILL baseline: Typically 15,000-25,000 words
+   - REEP: Maximum 10,000 words (including all components)
+   - Classification: ENFORCED (explicitly stated)
+
+4. MATHEMATICS & EQUATIONS (RELAXATION)
+   - FIELD_SKILL norm: Equations and mathematical notation expected/required
+   - REEP: "Contain no equations" and "keep mathematics to a minimum"
+   - Classification: RELAXATION (stated guideline, observed in abstracts)
+   - Implication: Accessibility prioritized over technical formalism
+
+5. AI COMPOSITION PROHIBITION (ENFORCED)
+   - FIELD_SKILL baseline: No restriction
+   - REEP: Explicit prohibition on generative AI composition and ideation
+   - Classification: ENFORCED (stated in guidelines)
+
+Supporting Observations:
+  - Citation density pattern: Not a deviation, but natural to synthesis work (high in lit review, lower in discussion)
+  - Voice: Uses "we synthesize" more than "we find" (natural to review articles, not strictly a deviation)
+  - Accessibility emphasis: "Broadly accessible" for policy audience (stated, not unique deviation)
+
+FIELD_SKILL OVERRIDES
+====================
+Yes - 5 explicit overrides:
+
+1. Submission Process: Proposal-based, not full manuscript
+2. Article Length: Max 10,000 words (vs. typical 20,000+ at ABS 4*/4)
+3. Paper Type: Synthesis/review/policy, NOT empirical original research
+4. Mathematical Formalism: Minimal/none (vs. FIELD_SKILL expectation of equations)
+5. AI Usage: Prohibited for composition/ideation
+
+ACCESS LIMITATIONS NOTES
+=======================
+- University of Chicago Press full-text pages returned HTTP 403 (institutional paywall expected)
+- NBER PDF PDFs are binary format; WebFetch cannot extract text
+- No open-access/preprint versions of 2025 REEP articles found (journal is relatively recent/current)
+- Abstracts provide sufficient information to assess style and structure
+- Guidelines page (Oxford Academic) is public and authoritative
+- All findings based on publicly accessible front-matter, abstracts, guidelines, and non-paywalled secondary sources
+
+ARTICLE SAMPLE DETAILS
+======================
+Volumes/Issues Sampled: 2024-2025 (Vol 18-19)
+Sample Articles:
+
+1. "Economics of Nature-Based Solutions for Mitigating Climate Change"
+   Authors: Barbier & Burgess | Vol 19, Issue 2 (2025) | Pages 155-174
+
+2. "Inflation Reduction Act: Origins, Policy Implications, and Research Gaps"
+   Authors: Bistline & Wolfram | Vol 19, Issue 2 (2025) | Pages 258-271
+
+3. "Climate Change Mitigation Policies for Developing Countries"
+   Authors: Caucheteux, Fankhauser & Srivastav | Vol 19, Issue 1 (2025) | Pages 69-89
+
+4. "The Economics and Governance of Solar Geoengineering"
+   Authors: Moreno-Cruz, McEvoy, McGinty & Cherry | Vol 19, Issue 1 (2025)
+
+5. "Revisiting EPA's Value per Statistical Life"
+   Authors: Cropper, Joiner & Krupnick | Vol 18, Issue 2 (2024) | Pages 193-211
+
+6. "Groundwater Pricing in Agriculture in South Asia"
+   Authors: Balasubramanya | Vol 19, Issue 2 (2025)
+
+7. "Reforming Regulatory and Spending Analysis: Introduction to a Symposium"
+   Authors: Gillingham | Vol 19, Issue 2 (2025)
+
+8. "Valuing Mortality Risk Reduction Benefits of Federal Regulations"
+   Authors: Aldy & Viscusi | Vol 19, Issue 2 (2025)
+
+All articles align with journal mission: synthesis, policy discussion, and research review.
+No original empirical or theory papers identified.
+
+CONFIDENCE ASSESSMENT
+====================
+Findings: HIGH CONFIDENCE
+  - Guidelines are explicit and publicly available
+  - Multiple articles confirm synthesis/review mission
+  - Abstracts are consistent with guidelines (no equations, policy focus)
+  - Sample size (8 articles) sufficient for ABS 2 tier journal
+  - No contradictory evidence found
+
+Limitations:
+  - Could not access full text due to paywall (abstracts + guidelines sufficient for stated mission)
+  - Working paper versions of 2025 articles not yet available (expected for recent publications)
+  - Sample is entirely from 2024-2025; earlier volumes not examined (not necessary for current guidelines)
+
+END REPORT

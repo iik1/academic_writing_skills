@@ -1,0 +1,33 @@
+Journal: Economics and Sociology
+Slug: economics-and-sociology
+ABS: 1
+Field: ECON
+Articles fetched: 9 (all Vol. 15, No. 1, 2022, direct article abstract pages)
+Early stop triggered: No (dedupe check found no existing skill; proceeded through full workflow)
+
+Deltas found: 3
+  - Voice/Register: policy-prescriptive closing tone in abstracts/conclusions (PRACTICE ONLY)
+  - Statistical Reporting: relaxation toward applied social-science/mixed methods (fsQCA, mediation
+    analysis, qualitative coding) alongside standard econometrics (RELAXATION vs FIELD_SKILL's
+    econometrics/theory-centric scope)
+  - Other pattern: mandatory country-focus keyword, confirmed ENFORCED across all sampled articles
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Abstract: 150-200 words, unstructured, must disclose results not just topic
+  - Length: 10-15 pages, Times New Roman 12pt, 1.0 spacing
+  - Headings: 1-7 words
+  - Citations: APA style (field baseline is silent on citation style specifics)
+  - Mandatory methodology chapter detail for empirical papers (survey wording, sampling error, etc.)
+  - JEL codes + country-focus keyword required
+  - Admin: ORCID/Google Scholar/LinkedIn required; co-author contribution percentages disclosed;
+    650 EUR + VAT processing fee on acceptance
+
+Access-limitation notes:
+  - WebSearch for volumes other than Vol. 15 No. 1 2022 returned mostly irrelevant results
+    (unrelated journals, arXiv papers, PMC articles) rather than economics-sociology.eu content.
+  - Direct WebFetch to individual article pages on economics-sociology.eu worked reliably and
+    returned full abstracts, keywords, JEL codes, and submission timelines.
+  - DOAJ TOC page returned HTTP 403.
+  - Sample confined to one issue (9 of ~18 articles in that issue) due to this access pattern;
+    considered a good-faith sample given consistent internal convergence across articles (no
+    contradictory findings emerged) and ABS 1 tier per instructions.

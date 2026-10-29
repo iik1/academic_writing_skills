@@ -1,0 +1,25 @@
+Journal: Emerald Emerging Markets Case Studies
+Slug: emerald-emerging-markets-case-studies
+ABS: 1
+Field: ETHICS-CSR-MAN
+Articles fetched: 11 titles/topics identified via WebSearch snippets (full text and abstract pages blocked by Emerald.com captcha wall; no full-text or abstract-page fetches succeeded). One article (ICICI Securities delisting case) yielded structured-abstract-level detail (study level, subject area, learning outcomes with Bloom's verbs) via search snippet.
+Early stop triggered: No (exhausted good-faith search-based access chain; direct fetches to emerald.com and emeraldgrouppublishing.com PDFs consistently returned 403/captcha)
+
+Deltas found: 5 dimensions
+1. Structural Deviations (ENFORCED) - entire teaching-case + teaching-note structure replaces FIELD_SKILL's research-article architecture (no Intro/Theory/Results/Discussion)
+2. Citation Density (RELAXATION) - sparse secondary-source citations, no theory-dense citation practice
+3. Voice and Register (N/A - different genre) - third-person narrative case prose + prescriptive instructor-facing teaching note, not scholarly "we argue/we find" voice
+4. Statistical Reporting (N/A - different genre) - no regression/hypothesis-testing reporting
+5. Other Journal-Specific Patterns (ENFORCED) - emerging-market/developing-economy setting as explicit acquisition criterion
+
+FIELD_SKILL overrides:
+- Citation style: Harvard (author-date), not APA as stated in FIELD_SKILL
+- Abstract: structured, max 250 words including keywords (vs FIELD_SKILL's 150-250 word unstructured/structured either-way norm) — additional required fields (study level, subject area, case overview, learning outcomes) not in FIELD_SKILL
+- Structure: teaching case + separate teaching note, not the four FIELD_SKILL article templates
+- Length: 5,000-7,000 words excluding exhibits/references/supplementary materials
+
+Access-limitation notes:
+- Emerald.com serves a persistent bot-detection/captcha page to WebFetch on every article-abstract URL and journal landing page attempted (5+ URLs tried, all blocked).
+- Official PDF guides (guide-writing-cases.pdf, Guide-writing-teaching-note.pdf) on emeraldgrouppublishing.com also returned 403 on direct fetch.
+- All hard-constraint and delta findings were reconstructed from Google-indexed search-result snippets of these same pages rather than full-text reads. Structural/length/abstract/teaching-note-component findings are corroborated across multiple independent search snippets and treated as reliable. Voice/register and citation-density deltas are inferred from genre knowledge (teaching case vs. empirical/theoretical research article) rather than direct full-text stylistic comparison across the 11 sampled titles, since full case text was never accessible.
+- This is a fundamentally different publication genre (teaching cases + teaching notes) from the empirical/theoretical management research articles FIELD_SKILL describes, which explains most of the "delta" content being structural rather than fine-grained stylistic differences.

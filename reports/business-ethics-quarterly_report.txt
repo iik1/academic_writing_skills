@@ -1,0 +1,23 @@
+Journal: Business Ethics Quarterly
+Slug: business-ethics-quarterly
+ABS: 3
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 17 (front-matter/abstracts via TOC + one full abstract page); no full-text access (paywalled beyond abstracts).
+Early stop triggered: No — sampled beyond 15 because the journal mixes philosophical and empirical contribution types; continued until the delta set (structural/citation-density patterns) stabilized.
+
+Deltas found: 3 dimensions
+  - Structural Deviations (ENFORCED/PRACTICE): High proportion of pure normative/conceptual philosophy articles with no empirical section, more than FIELD_SKILL's four-co-equal-templates model implies.
+  - Citation Density (PRACTICE ONLY): Philosophy-heavy articles use close reading of a small set of named theorists rather than broad literature sweeps; empirical/qualitative BEQ articles follow FIELD_SKILL norm.
+  - Other Journal-Specific Patterns (PRACTICE ONLY / RELAXATION): Scholar-named framing in titles/headings (e.g., "A MacIntyrean Perspective") more common than FIELD_SKILL's argument-named heading convention.
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Word limit 12,000 (body+footnotes), 50 pages total — shorter than FIELD_SKILL norms.
+  - Abstract ≤150 words (vs. FIELD_SKILL's 150-250).
+  - Citation style choice: AMJ, Chicago author-date, or Chicago notes (footnote-based Chicago option not in FIELD_SKILL).
+  - Heading format specifics (centered all-caps L1; italicized headline-case L2; regular headline-case L3).
+  - Table/figure formatting rules (no software paste-in, no color, no cell borders, sans-serif figure fonts).
+  - Explicit prohibitions: no author ID in body, no concurrent submission, no posting during review, Oxford comma mandatory, max 2 decimal places in stats.
+  - Commentaries (<=6,000 words, expedited, within 1 year of original) and book reviews (1,500-1,800 words) as distinct contribution types.
+
+Access-limitation notes: No institutional EZProxy access; relied on Cambridge Core public guideline pages, TOC/abstract pages (latest issue, FirstView), and WebSearch snippets. Full text of sampled articles was not accessible; delta judgments based on abstracts, keywords, and visible section-heading lists only, per task instructions.

@@ -1,0 +1,20 @@
+Journal: Industrial Marketing Management
+Slug: industrial-marketing-management
+ABS: 3
+Field: MKT
+
+Articles fetched: 6 distinct articles/editorials (title + abstract/search-snippet level only)
+Early stop triggered: Yes — full-text access chain exhausted. ScienceDirect guide-for-authors page and article pages returned HTTP 403 on direct WebFetch; Wiley bibliometric source returned HTTP 402. Relied on WebSearch-extracted abstract/guideline snippets, editorial commentary, and a cross-journal bibliometric study (Plakhotnik 2021, Learned Publishing) that specifically references IMM's use of Implications sections. Did not reach 15 articles because no full-text or abstract-page access route beyond search snippets was available in this environment (no institutional proxy).
+
+Deltas found: 2
+  1. Structural Deviations (ENFORCED) — dedicated "Academic-Practitioner Article" submission track: co-authored academic+practitioner manuscripts reporting a real marketing intervention's design, implementation, and evaluation. Not present in FIELD_SKILL's three templates.
+  2. Other Journal-Specific Patterns (ENFORCED, editorial priority) — Managerial/Practical Implications subsection weighted much more heavily than FIELD_SKILL's generic Discussion/Conclusion treatment; editors (Lindgreen & Di Benedetto) explicitly criticized results-restating implications sections and made this a strategic development priority.
+
+FIELD_SKILL overrides: None (deltas are additive/emphasis-shifts appropriate to ABS 3 relaxation rules; abstract word limit and citation style fall within FIELD_SKILL defaults, no override).
+
+Access-limitation notes:
+- sciencedirect.com/journal/industrial-marketing-management/publish/guide-for-authors — 403 on WebFetch; used cached search-engine snippets instead.
+- sciencedirect.com article abstract pages — 403 on WebFetch; used search-engine snippets.
+- onlinelibrary.wiley.com (Plakhotnik 2021) — 402 Payment Required; used search-engine snippet only.
+- No manuscript word/page limit was locatable in accessible guideline excerpts.
+- Citation style confirmed as standard Elsevier author-year (APA-style), matching FIELD_SKILL default — no journal-specific deviation found.

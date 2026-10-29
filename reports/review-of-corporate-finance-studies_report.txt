@@ -1,0 +1,20 @@
+Journal: Review of Corporate Finance Studies
+Slug: review-of-corporate-finance-studies
+ABS: 3
+Field: FINANCE
+
+Articles fetched: 3 (abstract/front-matter level only; full text paywalled on Oxford Academic)
+  - How Does Corporate Governance Affect Equity Volatility? Worldwide Evidence and Theory (RCFS 14(1), 2025)
+  - Do Short Sellers Affect Corporate Innovation? Evidence from a Policy Experiment (RCFS 14(1), 2025)
+  - Trust in Traditional Finance and Consumer Fintech Adoption (RCFS, advance article 2025)
+
+Early stop triggered: yes — stopped short of 15 articles because the delta set stabilized quickly (all three abstracts confirmed the same single delta: the 100-word abstract cap) and full text is paywalled (no institutional EZProxy access in this environment), so additional abstract-only spot-checks were unlikely to surface new structural/voice deltas beyond what guidelines already state.
+
+Deltas found: 1
+  - Abstract length: RCFS enforces a strict 100-word maximum (manuscripts over this are returned without review), materially tighter than the FIELD_SKILL norm of 150-250 words. Classified ENFORCED (stated in guidelines, confirmed in all 3 spot-checked abstracts). Labeled as a RELAXATION-direction tightening per ABS-3 rules (journal deviates but does not redefine the FIELD_SKILL baseline for other journals).
+
+FIELD_SKILL overrides: Abstract word limit (100 words vs. 150-250 field default).
+
+Other hard constraints recorded (no FIELD_SKILL conflict, informational): Chicago Manual of Style 15th/16th ed. author-date citation system (renders identically to field's author-year convention); title page separate from manuscript with full corresponding-author contact info; footnote placement/length limits; table/figure formatting (300/600 dpi, $100/figure color fee); no prior publication except working papers; AFA Code of Professional Conduct compliance; Registered Reports track (invite-only via Winter Conference) and Fast Track ($1,000, 2-week decision) as submission-process options.
+
+Access-limitation notes: No EZProxy/institutional access. Relied on the OUP Instructions to Authors page, the SFS submission and aims-and-scope pages, and three publicly visible abstract pages. Full-text of RCFS articles was not accessible, so structural/voice spot-checking was limited to abstracts, JEL codes, and stated scope — consistent with the assignment's allowance for front-matter-only verification. No deltas beyond the abstract length emerged from this front-matter review, so voice, hedging, citation density, and section structure are recorded as FIELD DEFAULT (Follows FIELD_SKILL norm).

@@ -1,0 +1,111 @@
+MULTINATIONAL FINANCE JOURNAL - SKILL GENERATION REPORT
+=======================================================
+
+Journal: Multinational Finance Journal
+Slug: multinational-finance-journal-writing-style
+ABS Rating: 1
+Field: FINANCE
+Publisher: Multinational Finance Society (University of Vaasa)
+
+ARTICLES FETCHED AND ANALYZED
+==============================
+Total articles examined: 2 open-access articles
+- Rodríguez Longarela & Bjønnes (2025): "Price Discovery for Competing Currency Numeraires" (Vol 27, pp 3-39)
+- Garcia (2025): "Sentiment Divergence and its Impact on Share Liquidity" (Vol 27, pp 40-76)
+
+ACCESS LIMITATIONS
+==================
+This is an ABS 1 (lower-tier) journal with modest open-access availability. Only the most recent 2025 issue
+was fully accessible in PDF form through the University of Vaasa journal site. Older articles (2021 and 1999)
+were found on IDEAS/RePEc but without full text or detailed structural analysis. The sample of 2 articles
+is smaller than ideal (target was 10-15) but represents a good-faith exhaustion of publicly accessible
+resources for this journal. No institutional EZProxy access was available in this environment.
+
+EARLY STOP TRIGGERED
+====================
+No. The journal was successfully researched with author guidelines retrieved and articles spot-checked.
+Constraints were capacity-related (access limitations), not research limitations.
+
+DELTAS FOUND: SUMMARY
+=====================
+Dimensions with substantive deltas (deviations from FIELD_SKILL): 4
+
+1. Manuscript Length Constraint (13,000 words total) - ENFORCED + RELAXATION
+   - Field baseline does not impose strict word limits; this journal does
+   - Constraint is significantly tighter than ABS 4*/4 norms (15,000–25,000 words)
+   - Impact: Forces compression of robustness treatment and institutional background
+
+2. Table and Figure Placement (after references, not in-text) - ENFORCED
+   - Field baseline shows flexible placement; this journal requires post-reference placement
+   - Likely a publisher/platform constraint rather than scholarly norm
+   - Consistent across examined articles
+
+3. Heading Numbering System (lettered sub-subheadings without numbers) - ENFORCED
+   - Field baseline uses full decimal numbering (2.1.1, 2.1.2)
+   - MFJ uses lettered scheme (a, b, c) for sub-subheadings
+   - Difference is stylistic, not substantive
+
+4. Robustness Treatment Compression (implied by word limit) - PRACTICE ONLY
+   - Field baseline mandates "systematic treatment" of robustness
+   - Word constraint forces authors to prioritize and defer supplementary analyses
+   - Articles examined show robustness addressed but more lightly than top-tier journals
+
+Dimensions with no delta (follow FIELD_SKILL): 7
+- Voice and person
+- Sentence and paragraph style
+- Argumentation structure and introduction rhetorical moves
+- Statistical reporting norms
+- Citation density by section
+- Hedging and epistemic caution
+- Results reporting conventions (tables, statistical precision, economic significance)
+
+FIELD_SKILL OVERRIDES
+=====================
+None identified. The FIELD_SKILL baseline is compatible with MFJ's requirements. Where MFJ has explicit
+constraints (word limit, table placement), these represent *restrictions* on field flexibility, not
+*contradictions* of field norms. Authors working for this journal should follow FIELD_SKILL as the
+baseline and then apply MFJ-specific hard constraints on top.
+
+HARD CONSTRAINTS EXTRACTED FROM GUIDELINES
+===========================================
+- Maximum 13,000 words (including all text, abstract, references, figures, tables, appendices)
+- Abstract: ≤150 words, single paragraph
+- Keywords: 4–5 keywords + JEL codes (below abstract)
+- Citation format: Author-year parenthetical
+- Structure recommendation: Introduction → Literature Review → Methodology → Results and Discussion → Conclusions
+- Headings: numbered bold; subheadings italicized with letters; sub-subheadings italicized without numbers
+- Tables/figures: numbered consecutively, placed after references, must be self-explanatory
+- Format: Microsoft Word
+- Equations: numbered consecutively, right-justified
+- Language: English (American or British, not mixed); no grammar/spelling errors
+- Submission fee: €50 non-refundable
+- Review: Double-blind peer review
+- Open access: Creative Commons CC-BY-NC
+
+COMMON PITFALLS DOCUMENTED
+===========================
+Four MFJ-specific submission mistakes identified:
+1. Exceeding 13,000-word limit (desk-rejection risk)
+2. Placing tables/figures in-text instead of after references
+3. Mixing British and American English
+4. Insufficient robustness treatment in main text (deferring all to appendix with constrained space)
+
+SOURCES AND METHODOLOGY
+=======================
+Primary source: Official author guidelines from https://sites.uwasa.fi/mfjuva/author-guidelines/
+Article samples: Direct PDF downloads from journal website (2025 issue)
+Supplementary: IDEAS/RePEc archive (historical articles and metadata)
+
+Access chain exhausted:
+- Journal official website (primary): ACCESSIBLE
+- Ideas/RePEc (secondary): ACCESSIBLE (limited to metadata/older articles)
+- Publisher database (Elsevier, Taylor & Francis sites): NOT RELEVANT (this is not the Journal of
+  Multinational Financial Management, a different Elsevier journal)
+
+CONCLUSION
+==========
+The Multinational Finance Journal is a lower-tier (ABS 1) finance journal with moderate publishing
+requirements and modest open-access footprint. Its deviations from FIELD_SKILL are primarily constraint-based
+(word limit, table placement) rather than norm-contradicting. The skill captures these journal-specific
+practices and flagged common pitfalls for authors. The 2-article spot-check is small but represents the
+realistic access available for this journal; conclusions are defensible within that boundary.

@@ -1,0 +1,36 @@
+Journal: Journal of Financial Regulation and Compliance
+Slug: journal-of-financial-regulation-and-compliance
+ABS: 1
+Field: FINANCE
+
+Articles fetched: 11 (titles/abstracts only, front-matter level; full text paywalled/CAPTCHA-blocked throughout)
+Early stop triggered: No (dedupe check found no existing skill; proceeded through all phases)
+
+Deltas found: 1 major, 1 minor
+  1. Abstract format (ENFORCED, HARD_CONSTRAINT override) — mandatory Emerald structured abstract
+     (Purpose / Design-methodology-approach / Findings / Originality-value, ~100 words each field,
+     plus optional Research limitations/implications, Practical implications, Social implications).
+     Confirmed directly in Castro, Leonori & Giorgio (2025) abstract fields and a related JFRC
+     article's Practical implications / Research limitations fields. This replaces FIELD_SKILL's
+     single-paragraph unstructured abstract norm.
+  2. Applied/practitioner-facing scope and methodological breadth (PRACTICE ONLY / RELAXATION) —
+     sample skews toward systematic literature reviews and applied/institutional/cross-country
+     regulatory studies (Kenya, South Africa, Sub-Saharan Africa, Indonesia, etc.), consistent with
+     ABS 1 tier and the journal's stated bridge between academic research and regulatory practice.
+     Not a stated rule; a visible acceptance pattern.
+
+FIELD_SKILL overrides: Abstract structure (structured 4-field format overrides FIELD_SKILL's
+single-paragraph abstract).
+
+Access-limitation notes:
+- Emerald's dedicated JFRC author-guidelines page (emeraldgrouppublishing.com/journal/jfrc) returned
+  HTTP 403 on direct WebFetch; scope/AI-policy/ethics-policy content was recovered only via
+  WebSearch-cached snippets of the same page, not a full page read.
+- emerald.com article and issue pages consistently served a CAPTCHA/bot-detection wall on direct
+  WebFetch; all article-level abstract content was recovered via WebSearch snippets rather than
+  full page fetches.
+- No JFRC-specific word/page limits, citation style specifics, or table/figure rules could be
+  confirmed from any accessible source; these sections are marked "not confirmed" in the skill
+  rather than asserted.
+- Full text of all sampled articles was inaccessible (paywalled); spot-check is abstract/title-level
+  only, consistent with the low-tier good-faith-sample allowance in the assignment instructions.

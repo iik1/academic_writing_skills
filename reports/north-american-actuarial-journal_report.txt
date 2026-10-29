@@ -1,0 +1,31 @@
+Journal: North American Actuarial Journal
+Slug: north-american-actuarial-journal
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 9 (abstract/front-matter level, all Vol. 29-30, 2024-2026)
+- Transfer Learning in the Actuarial Domain: Foundations and Applications (Kim & Bauer)
+- Algorithmic Insurable Risk Portfolios (Frees, Butt & Shi)
+- Insurance Ratemaking Using a Combined Quantile Regression Machine Learning Approach (Zanzouri, Kacem & Belkacem)
+- The Impact of COVID-19 on Mortality in 34 Countries and Economies (Dang, Kamiya & Zhou)
+- Privacy Regulation and the Reputational Risk of Cyber Events (Jaenicke)
+- Modeling Multistate Health Transitions with a Most-Recent-Event Hawkes Process (Jung, Lee & Xu)
+- A Stochastic Model of Mutual Insurance under Heterogeneous Time Preferences (Wei, Wei & Yang)
+- Creating Complete Mortality Life Tables for CARICOM (Smart et al.)
+- Explainable Least Square Monte Carlo for Solvency Capital Requirement Evaluation (Perla, Scognamiglio, Spadaro & Zanetti)
+Also collected 10 titles (no abstract) from Vol. 30 No. 1 table of contents via IDEAS/RePEc.
+
+Early stop triggered: No. Full-text was consistently paywalled (403 on tandfonline direct fetch), so all article-level evidence comes from abstract text recovered via WebSearch snippets / search-engine extraction rather than direct WebFetch of full text. This is a lower access tier than ideal but sufficient for an ABS 2 good-faith spot-check per the task instructions.
+
+Deltas found: 6 dimensions
+1. Abstract length/content (200-400 words vs FIELD_SKILL 150-250; no citations/math symbols allowed) - ENFORCED
+2. Citation punctuation ("Baker 2014" no comma, vs "(Baker, 2014)") - ENFORCED
+3. Appendix placement after References (not before) - ENFORCED
+4. Four-level lettered subhead typographic system (A/B/C/D with reuse for theorems/proofs/definitions) - ENFORCED
+5. Broader paper-type taxonomy (survey, educational, case study papers welcomed, not just original empirical research) - ENFORCED
+6. Mandatory "practical applications" explanation for practitioner readership - ENFORCED
+Additional lower-confidence deltas (abstract voice more expository/less contribution-forward; abstracts light on precise quantitative magnitudes) - PRACTICE ONLY, abstract-level evidence only, not verifiable against full text.
+
+FIELD_SKILL overrides: abstract word count, citation format punctuation, appendix position, heading/subhead system, mandatory practical-applications statement, figure color prohibition (black-and-white only), table/figure numbering rules (not tied to section numbers), reference style per Chicago Manual of Style 16th ed.
+
+Access-limitation notes: Full text of all sampled articles was behind a Taylor & Francis paywall (WebFetch returned 403 for tandfonline.com abstract/full pages). All 9 spot-checked articles were evaluated via abstract text and summaries recovered through WebSearch rather than direct document access. No older (pre-2020) articles were sampled; all evidence is from the most recent volume/issue (2024-2026), which may not reflect any stylistic drift over the journal's ~30-year history. The author-guidelines PDF was fetched directly and read in full, giving high confidence in the Hard Constraints section.

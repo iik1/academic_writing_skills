@@ -1,0 +1,15 @@
+Journal: Journal of Public Administration Research and Theory
+Slug: journal-of-public-administration-research-and-theory
+ABS: 4
+Field: PUB SEC
+Articles fetched: 15 (abstract/front-matter level; full text paywalled — watermarked PDF proxy links returned 302 redirects to Silverchair token URLs that were not further pursued)
+Early stop triggered: No — sampled 15 articles across two 2025 issues (35/1, 35/3) plus one 2024 article; delta set stabilized (structural heterogeneity across papers matched FIELD_SKILL's stated lack of orthodoxy, no new deltas emerging after ~10 articles).
+
+Deltas found: 2 substantive + 1 mechanical
+  1. Keyword taxonomy (theory/theme/method-first ordering, 3-5 keywords) — ENFORCED (stated in guidelines; not independently verifiable from scraped abstract pages since keyword lists were not rendered, but treated as GUIDELINE ONLY pending visual confirmation)
+  2. Optional non-English abstract translation — PRACTICE ONLY confirmed (observed in Zhang 2025, Chinese abstract appended) and explicitly permitted in guidelines, so effectively ENFORCED
+  3. DOI-verification requirement for every reference at submission — ENFORCED (stated in guidelines; a citation-mechanics rule beyond FIELD_SKILL's author-date convention)
+
+FIELD_SKILL overrides: None substantive — journal aligns with field baseline on voice, hedging, methods pluralism, results/discussion norms, and citation density. Main additions are structural/administrative (word cap, single-PDF submission, anonymization, keyword taxonomy, DOI checks) rather than stylistic.
+
+Access-limitation notes: Full text was inaccessible for all articles (OUP/Silverchair paywall). All spot-checks relied on Oxford Academic abstract pages, which reliably exposed abstract text and section-heading lists for most articles but not keyword fields in the scraped content (keywords are present per journal policy but not consistently surfaced by the fetch tool). PDF proxy links (advance-article-pdf, article-pdf) redirected to token-gated Silverchair watermark URLs and were not pursued further, consistent with instructions to move on rather than retry paywalled content repeatedly.

@@ -1,0 +1,19 @@
+Journal: Harvard Business Review
+Slug: harvard-business-review
+ABS: 3
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 5 (2 with partial full-text via WebFetch — opening sections only, paywalled beyond that; 3 via WebSearch title/summary snippets only). Guidelines page fetched in full.
+
+Early stop triggered: yes — the delta set stabilized quickly and unusually strongly. HBR is not an academic peer-reviewed journal but a practitioner magazine, so nearly every dimension of FIELD_SKILL (built for academic MGMT journals) is inapplicable or relaxed. Continuing to sample more articles was not expected to surface new delta categories beyond what the guidelines page and 5 articles already established (confirmed: no hypotheses, no citations, no lit review, anecdote-driven, second-person voice, prescriptive titles, no formal structure).
+
+Deltas found: 5 dimensions
+  - Voice and Register (RELAXATION/field-inappropriate — second person, anecdote-driven, advisory tone)
+  - Statistical Reporting (RELAXATION — no coefficients/hypothesis testing, illustrative evidence only)
+  - Citation Density (RELAXATION — near-zero, no reference list/APA apparatus)
+  - Structural Deviations (none of FIELD_SKILL's 4 templates apply; no hypotheses/propositions/Methods/Results)
+  - Other Journal-Specific Patterns (prescriptive/provocative titles, actionable close, embedded author bio as credibility signal)
+
+FIELD_SKILL overrides: Full structural and citation apparatus of FIELD_SKILL does not apply — treated as override rather than mere relaxation, since HBR is not producing academic research articles at all (magazine journalism format instead).
+
+Access-limitation notes: No EZProxy access; full article text behind hbr.org paywall for all sampled pieces beyond opening paragraphs/summaries. Relied on official guidelines page (fully accessible), WebFetch of two article landing pages (partial text visible pre-paywall), and WebSearch result snippets/titles for three additional 2025 articles to confirm consistency of title framing and topic scope. No academic full-text repositories (SSRN, RePEc) carry HBR practitioner pieces, as expected for a non-peer-reviewed outlet.

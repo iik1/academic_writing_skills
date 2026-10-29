@@ -1,0 +1,19 @@
+Journal: American Journal of Agricultural Economics
+Slug: american-journal-of-agricultural-economics
+ABS: 3
+Field: ECON
+Articles fetched: 13 (abstract/front-matter level; full text paywalled on Wiley - HTTP 402 on direct fetch)
+Early stop triggered: No (ran until delta set stabilized; sample spanned 2025-2026 issues across labor, IO/market power, climate, trade/price, and development-RCT subfields)
+
+Deltas found: 0 structural/voice deltas from FIELD_SKILL. All observed deltas are HARD_CONSTRAINTS (journal formatting/submission rules), not writing-style deltas:
+  - Abstract: 250-word unstructured cap, no acronyms, up to 10 alphabetized keywords, JEL codes required
+  - Headings: unnumbered, bold section / italic subsection, no numbering, mandatory body text between headings
+  - Citations: Chicago Manual of Style 16th ed., author-year
+  - Structure: double-blind (no author identification anywhere in manuscript), separate title page and disclosure form
+  - Length: 30-page main text cap
+  - Tables/figures: no vertical rules, legends top (tables)/bottom (figures)
+  - Prohibitions: no embellished math notation (overbars/tildes/carets), iThenticate plagiarism screening, mandatory financial disclosure ($10,000+ threshold)
+
+FIELD_SKILL overrides: none needed at the level of voice, argumentation, hedging, statistical reporting, or citation density - journal aligns with ECON field baseline (consistent with ABS 3 "may relax but cannot redefine" rule; no relaxations observed either).
+
+Access-limitation notes: Wiley Online Library pages return HTTP 402 Payment Required on direct WebFetch (paywalled), including the current-issue TOC page. All 13 article observations came from WebSearch-extracted abstract snippets sourced from publisher abstract pages, RePEc/IDEAS, SSRN, ResearchGate, and author/institutional repository copies. Full guidelines content was successfully retrieved from the Oxford Academic-hosted General_Instructions page (legacy host still serving the canonical guidelines text) via WebFetch; the Author_Guidelines page itself was a navigation shell requiring the linked PDF (author checklist), which WebFetch could not parse as binary - abstract/keyword/JEL specifics for that PDF were instead confirmed via a WebSearch snippet quoting its content.

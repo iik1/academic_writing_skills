@@ -1,0 +1,21 @@
+Journal: Review of Income and Wealth
+Slug: review-of-income-and-wealth
+ABS: 3
+Field: ECON
+Publisher: Wiley-Blackwell (for IARIW)
+
+Articles fetched: 12 (abstract/front-matter level only, via WebSearch snippet extraction; direct Wiley DOI/TOC pages returned HTTP 402 paywall errors on every attempt)
+Early stop triggered: No — stopped at 12 because delta set had stabilised (all further abstracts reconfirmed the same measurement/comparative-scope pattern already captured; no new dimensions emerging).
+
+Deltas found: 2 substantive dimensions
+  1. Explicit scope exclusion (ENFORCED) — journal does not accept manuscripts primarily concerned with general economic analysis or econometric/statistical techniques; preference for measurement/methodological innovation and multi-country comparative analysis. This is a scope/fit constraint, distinctive vs. FIELD_SKILL which has no such restriction.
+  2. Data/code deposit policy (ENFORCED) — accepted papers must deposit data, programs, and full data-source lists in the IARIW-maintained repository; more institutionalized than FIELD_SKILL's generic replication expectation.
+  Additional low-prevalence/practice-only note: abstracts consistently frame contributions as measurement/index-construction innovations or cross-country comparisons (consequence of scope rule, not independent norm).
+  All prose-style dimensions (voice, hedging, citation density, statistical reporting, structure, argumentation) = FIELD DEFAULT, no delta.
+
+FIELD_SKILL overrides: None affecting prose/writing style. Two submission-mechanics overrides: (a) scope restriction narrows acceptable topics vs. field baseline's broader ECON scope; (b) figures/tables must be submitted as separate files, not embedded.
+
+Access-limitation notes:
+- Wiley's forauthors.html guidelines page and all onlinelibrary.wiley.com DOI/abstract/TOC pages returned HTTP 402 Payment Required on every WebFetch attempt — could not retrieve rendered guideline text or abstract pages directly.
+- Compensated by: (1) fetching the IARIW-hosted submissions page directly (accessible, gave scope/exclusion/data-policy text), and (2) using WebSearch snippet extraction to recover abstract text for 12 articles indirectly (Google-cached/indexed snippets of Wiley abstract pages, cross-referenced with IDEAS/RePEc, NBER working paper mirrors, and author personal/institutional pages).
+- Could not confirm exact abstract word limit, manuscript word/page limit, or precise reference-list formatting details (APA-style noted only via a search snippet, not verified against primary guideline text).

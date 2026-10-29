@@ -1,0 +1,44 @@
+Journal: Journal of the Association for Information Science and Technology (JASIST)
+Slug: journal-of-the-association-for-information-science-and-technology-jasist
+ABS: 3
+Field: INFO MAN
+
+Articles fetched: 0 full-text; 26 titles/authors surveyed via issue-announcement
+pages (Vol 75 Iss 12-13, Dec 2024; Vol 76 Iss 4-5, Apr-May 2025); 1 full abstract
+read via arXiv preprint (2501.03771, "Sneaked references" - 2025 Best JASIST Paper
+Award winner); 2 additional article titles/abstract snippets located via WebSearch
+(Matusiak 2025; Lindelöw 2025).
+
+Early stop triggered: No formal early stop - access chain exhausted. Wiley
+asistdl.onlinelibrary.wiley.com returned HTTP 402 Payment Required for every
+direct fetch attempt (guidelines page, abbreviated guidelines PDF, individual
+article DOI pages). One author-hosted preprint PDF (FSU faculty page) fetched
+but was binary-corrupted on extraction and yielded no usable text. Deltas
+were therefore derived primarily from WebSearch-cached guideline text and
+issue-announcement title lists rather than full-text spot-checks.
+
+Deltas found: 3
+  1. Structural Deviations - Brief Communication article type (1,000-2,000
+     words, narrow scope) not present in FIELD_SKILL's 4*/4 sample. PRACTICE
+     ONLY / GUIDELINE-stated structural category.
+  2. Abstract - 200-word hard cap (tighter than typical field practice).
+     ENFORCED (stated in guidelines, applies to all article types).
+  3. Other Journal-Specific Patterns - topical skew toward LIS/bibliometrics
+     themes alongside IS topics. PRACTICE ONLY, low-confidence (title-level
+     only).
+
+FIELD_SKILL overrides: Abstract word cap (200 words) and APA citation style
+with 1.5-line spacing preference are HARD_CONSTRAINTS not specified in
+FIELD_SKILL; length categories (7,000 words Research Article / 8,500
+qualitative / 1,000-2,000 Brief Communication) are journal-specific and
+not addressed by FIELD_SKILL (which explicitly excludes word limits).
+
+Access-limitation notes: Wiley/asistdl.onlinelibrary.wiley.com is fully
+paywalled/blocked (402) for both the guidelines pages and individual article
+DOI pages in this environment - no full-text or full-abstract spot-checks
+were possible directly from the publisher. Relied on WebSearch snippet
+extraction for guideline content, ASIS&T issue-announcement blog posts for
+article title sampling, and one arXiv-hosted preprint for a genuine full
+abstract. Voice/register/hedging/citation-density deltas could not be
+directly verified against full text and are recorded as FIELD DEFAULT by
+convergence rule given no contradicting evidence surfaced.

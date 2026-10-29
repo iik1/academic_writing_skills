@@ -1,0 +1,23 @@
+Journal: Iranian Journal of Management Studies (now continued as Interdisciplinary Journal of Management Studies)
+Slug: iranian-journal-of-management-studies
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 6 usable (1 full text, 5 abstract/front-matter only); 2 additional PDF URLs located but returned undecoded binary content and could not be read as text (encoding issue with Persian-tagged PDFs) - excluded from the sample.
+Early stop triggered: No
+
+Deltas found: 2
+1. Structural Deviations - labeled Emerald-style structured abstract (Purpose-/Design-methodology-approach-/Findings-/Originality-value-) used in quantitative/empirical articles; qualitative articles use plain narrative abstracts instead. Classified PRACTICE ONLY / article-type-contingent.
+2. Other Journal-Specific Patterns - front-matter metadata block (Article type, Article History dates, JEL codes, formatted citation string, Competing Interest and Funding statements) on the title/abstract page. Classified ENFORCED (consistent production template across all sampled articles).
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+- Double-blind manuscript (no author identification in text; disclosures go in cover letter only)
+- 6,000-9,000 words, double-spaced, 12pt minimum, 1-inch margins
+- Abstract <=250 words, up to 5 keywords, 50-75 word author bio for publication
+- APA 7th edition citation style
+- Tables/figures/footnotes placed in-text at point of relevance; footnotes discouraged, numbered with superscript Arabic numerals if used
+- Explicit prohibitions: no prior/dual publication, no undisclosed AI-generated content, no self-identification in text
+
+Access-limitation notes:
+- Journal site (ijms.ut.ac.ir) PDFs are frequently encoded with Persian-language PDF tagging (fa-IR) that defeats generic text extraction via WebFetch; only one full-text PDF (2023, 16(4)) was successfully read in full via the Read tool after download. Remaining evidence drawn from abstract/HTML article pages and WebSearch snippets, sufficient for an ABS-1 good-faith sample per task instructions.
+- No institutional access used; all sources are publicly accessible open-access pages (DOAJ-indexed journal).

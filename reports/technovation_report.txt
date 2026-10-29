@@ -1,0 +1,28 @@
+Journal: Technovation
+Slug: technovation
+ABS: 3
+Field: INNOV
+
+Articles fetched: 7 read in full (abstract-level); ~15 additional titles surveyed via RePEc/IDEAS tables of contents (v141-v155, 2025-2026)
+Early stop triggered: No — sample stabilized naturally; deltas converged after ~7 abstracts with no new patterns emerging in the additional title survey.
+
+Deltas found: 2 dimensions with real deltas
+  1. Structural Deviations — Mandatory Highlights (3-5 bullets, max 85 characters each) — ENFORCED, journal-specific requirement absent from FIELD_SKILL.
+  2. Other Journal-Specific Patterns — Broader accepted article-type range (surveys/critical reviews including "pertinent polemics", case studies, educational articles, non-refereed "Industrial Viewpoints", book reviews) — GUIDELINE ONLY, since spot-checked empirical articles remain non-polemical in practice.
+  Minor/low-weight: explicit endorsement of combined Results+Discussion section and light literature re-engagement in Discussion — flagged as GUIDELINE ONLY / boilerplate Elsevier language, not treated as a strong journal-specific norm.
+
+All other dimensions (voice/register, sentence style, argumentation, methods conventions, results reporting, hedging, discussion/conclusion norms) = FIELD DEFAULT, no delta.
+
+FIELD_SKILL overrides (Hard Constraints only, all from Elsevier Guide for Authors):
+  - Abstract: unstructured, max 200 words (tighter than typical INNOV norm)
+  - Keywords: max 8, immediately after abstract
+  - Highlights: mandatory, 3-5 bullets, max 85 characters each
+  - Double-anonymized review: no identifying info in main manuscript; separate title page required
+  - Numbered section/subsection headings (1, 1.1, 1.1.1)
+  - Author-date in-text citation; no strict reference-list format enforced at submission (house style applied at proof stage)
+  - Tables as editable text, sparing use, no vertical rules/shading
+  - Declaration of interest statement mandatory (even if none to declare)
+
+Access-limitation notes:
+  - ScienceDirect article pages return HTTP 403 to WebFetch (no institutional/EZProxy access in this environment); relied on WebSearch snippets, RePEc/IDEAS abstract pages, and one SSRN listing (SSRN full PDF also blocked/404'd on direct fetch).
+  - Primary Guide for Authors page (sciencedirect.com/journal/technovation/publish/guide-for-authors) also returned 403 on direct WebFetch; guideline content instead sourced from (a) WebSearch summary of that page and (b) a full, readable archived Elsevier "Author Information Pack" PDF (15 Feb 2018) fetched successfully, which contains the complete Guide for Authors text. Cross-checked against WebSearch results confirming highlights are still mandatory and double-anonymized review is current practice, so the 2018 pack appears current for structural/formatting purposes.

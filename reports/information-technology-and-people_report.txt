@@ -1,0 +1,36 @@
+Journal: Information Technology and People
+Slug: information-technology-and-people
+ABS: 3
+Field: INFO MAN
+
+Articles fetched: 10 abstract pages (aimed for 15; converged early — see notes)
+Early stop triggered: yes — deltas stabilized after ~8 articles; the last 2 (discourse-analysis and
+propensity-score/DiD papers) were sampled specifically to check paradigm diversity (qualitative/critical
+vs. quantitative/quasi-experimental) and confirmed the same structural/abstract pattern, so further
+sampling was judged low-yield.
+
+Deltas found: 2 substantive dimensions
+  1. Abstract format — Emerald's mandatory structured abstract (Purpose / Design-methodology-approach /
+     Findings / Originality-value, optional Research limitations / Practical implications / Social
+     implications; max 250 words) is a HARD CONSTRAINT not present in FIELD_SKILL, which does not
+     specify abstract format at all. Classification: ENFORCED (stated in Emerald guidelines and
+     confirmed in all 10 sampled abstracts).
+  2. Methodological/register pluralism — journal's explicit welcome of critical, qualitative, hermeneutic,
+     discourse-analytic work alongside mainstream quantitative/empirical work is wider than FIELD_SKILL's
+     baseline (synthesized mostly from more uniformly positivist-empirical 4*/4 exemplars). Classification:
+     PRACTICE ONLY / RELAXATION (ABS 3 tier permits relaxing, not redefining, the baseline).
+
+FIELD_SKILL overrides: none that contradict FIELD_SKILL outright; the abstract-format hard constraint
+supplements a dimension FIELD_SKILL explicitly leaves unspecified ("What This Baseline Does NOT Specify"
+lists abstract/citation format as out of scope), so this is an addition, not an override.
+
+Access-limitation notes:
+- emeraldgrouppublishing.com/journal/itp and emerald.com/itp full guidelines page both returned HTTP 403
+  to WebFetch; guideline content (structured abstract format, AI-use policy, submission portal, CC BY 4.0
+  licensing) was triangulated via WebSearch snippets of Emerald's cross-journal guideline template plus
+  the journal's own landing-page metadata.
+- Specific word/page limit for ITP could not be confirmed (Emerald sets this per-journal but the number
+  was not retrievable through available access paths); left unstated in the skill rather than guessed.
+- All 10 sampled articles were read via abstract-only pages (Emerald full text is paywalled); this is
+  sufficient per task instructions since abstract structure, keywords, and framing prose were the target
+  signal.

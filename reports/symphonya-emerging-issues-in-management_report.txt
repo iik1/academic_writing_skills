@@ -1,0 +1,24 @@
+Journal: Symphonya. Emerging Issues in Management
+Slug: symphonya-emerging-issues-in-management
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 10 (abstract/front-matter level; full text not extractable via WebFetch - PDF binary/font-stream issues)
+Early stop triggered: No (good-faith sample completed; documented access limitations per instructions for thin low-tier journal)
+
+Deltas found: 4 dimensions
+- Structural Deviations: monographic themed issues (articles must fit announced issue theme) - GUIDELINE/PRACTICE
+- Other Journal-Specific Patterns / Structure: "Ouverture" editorial article type unique to this journal (editor's opening essay per issue) - PRACTICE ONLY
+- Length: no stated word/page limit; observed articles range ~9-32 pages, generally shorter than FIELD_SKILL quantitative-deductive norm - PRACTICE/RELAXATION (ABS 1 relaxation of FIELD_SKILL length norm)
+- Explicit Prohibitions: mandatory generative-AI disclosure in first paragraph; explicit third-person self-citation rule for blind review; explicit COI disclosure re: companies cited - ENFORCED (stated in guidelines)
+
+FIELD_SKILL overrides:
+- Length norm relaxed (no fixed word count; shorter typical length than FIELD_SKILL's 10,000-15,000 words for quantitative-deductive articles)
+- Citation style: no APA (or other) style mandated in guidelines, only that URLs be included where available (FIELD_SKILL assumes APA as field default)
+
+Access-limitation notes:
+- Full-text PDFs could not be parsed by WebFetch (binary PDF/font-stream content returned instead of readable text)
+- DOAJ table-of-contents page returned 403 Forbidden
+- ResearchGate article page returned 403 Forbidden
+- Relied on OJS abstract pages, DOAJ/RePEc/EconPapers listings, and WebSearch result snippets for abstract text
+- Sample spans 2013-2025 issues; no full-text methods/results sections were directly readable, so citation density and in-text citation style could not be independently confirmed beyond guideline text

@@ -1,0 +1,24 @@
+Journal: International Journal of Ecological Economics and Statistics
+Slug: international-journal-of-ecological-economics-and-statistics
+ABS: 1
+Field: ECON
+Publisher: CESER Publications
+
+Articles fetched: 0 (no article abstracts or full text discoverable via WebSearch, Google Scholar, RePEc/IDEAS, arXiv, or PMC; journal has essentially no public indexed footprint)
+Early stop triggered: No formal early-stop rule invoked, but effectively yes — research halted after exhausting all reasonable search avenues (WebSearch queries with varied phrasing, direct WebFetch attempts to both known journal domains, archive.org attempt). Both ceser.in and ceserp.com domains are unreachable due to a TLS certificate mismatch (cert issued for *.prod.phx3.secureserver.net, a GoDaddy hosting default, not the requested hostname), which blocked WebFetch entirely.
+
+Deltas found: 0 confirmed PRACTICE ONLY deltas (no articles accessible to spot-check).
+GUIDELINE ONLY items recovered from search-engine snippets of the submissions page:
+  - Abstract must be under 250 words, written in complete sentences covering aims/methods/results/conclusions.
+  - LaTeX is first-priority submission format; MS Word also accepted.
+  - Submission must be by author(s) only, with covering letter, via email to Editor-in-Chief (ijees.ceser@gmail.com).
+  - Citations: author-year in-text, "et al." for 3+ authors (matches FIELD_SKILL default; FIELD DEFAULT, not a delta).
+
+FIELD_SKILL overrides: none identified (only addition is the 250-word abstract cap, which FIELD_SKILL is silent on rather than contradicting).
+
+Access-limitation notes:
+  - Both official journal domains (ceser.in, ceserp.com) returned TLS certificate errors on every WebFetch attempt, making direct guideline/article retrieval impossible.
+  - web.archive.org fetch attempt was blocked by tool restriction.
+  - WebSearch surfaced only one usable result: a search-engine-generated summary of the ceser.in submissions page content, which supplied the Hard Constraints used in the skill.
+  - No article abstracts, DOIs, or titles from this journal were found in any of ~10 distinct search queries across Google, Google Scholar-adjacent sources, RePEc, arXiv, and PMC.
+  - Skill file was written as a short, honest, low-confidence skill per instructions, with all unconfirmed dimensions explicitly marked as FIELD DEFAULT (unconfirmed) rather than fabricated.

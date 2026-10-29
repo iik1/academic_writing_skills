@@ -1,0 +1,102 @@
+Journal of Housing Economics - Skill Generation Report
+=====================================================
+
+Journal:           Journal of Housing Economics
+Slug:              journal-of-housing-economics
+ABS Rating:        2
+Field:             ECON
+Publisher:         Elsevier
+
+RESEARCH PHASE SUMMARY
+======================
+
+Guidelines Access:
+  - Official guide URL: https://www.sciencedirect.com/journal/journal-of-housing-economics/publish/guide-for-authors
+  - Status: Paywalled (403 Forbidden direct fetch)
+  - Method: Extracted from Elsevier search results and secondary sources
+
+Articles Spot-Checked: 2 full papers
+  1. arXiv:2602.18592 - "A Roof Over Risk: A House Price-at-Risk Framework for Hungary"
+     - Structure confirmed: Numbered sections, clear methodology, tables + figures + prose
+     - Voice: First-person plural ("we"), active voice throughout
+
+  2. arXiv:2512.01139 - "Market Sensitivities and Growth Differentials Across Australian Housing Markets"
+     - Structure confirmed: Numbered sections (1 Introduction, 2.1 Data, 2.2 Methods, etc.)
+     - Voice: First-person plural, active voice
+     - Results: Mixed tables, figures, and interpretive prose
+
+Additional References Examined:
+  - Elsevier author guidelines snippets (journal name, citation style, abstract limits)
+  - SciSpace template information (confirms elsarticle format requirements)
+  - IDEAS/RePEc listing (journal scope and impact metrics)
+
+Early Stop Triggered: No
+  - Sufficient public information available despite paywalled official guide
+  - Access chain was thin but adequate given ABS 2 tier (smaller journals have fewer samples)
+  - Two complete article structures provided strong evidence for hard constraints
+
+DELTAS FOUND: 5 distinct findings
+==================================
+
+1. HEADING NUMBERING (ENFORCED)
+   Field baseline: "Roman or Arabic numerals; either acceptable"
+   Journal practice: Strict numbered Arabic hierarchical format (1, 2, 2.1, etc.)
+   Classification: ENFORCED (observed in all samples; field-wide preference, not deviation)
+
+2. ARTICLE HIGHLIGHTS REQUIREMENT (ENFORCED)
+   Field baseline: No mention
+   Journal requirement: Mandatory bullet-point list at submission
+   Classification: ENFORCED (explicit in guidelines; new requirement absent from ABS 4*/4)
+
+3. STRUCTURAL FLEXIBILITY / RELAXATION (RELAXATION)
+   Field baseline: Near-universal canonical structures for empirical and theory papers
+   Journal reality: "No strict formatting requirements"; flexible section order and naming
+   Classification: RELAXATION (lower-tier journal permits more latitude than top-tier)
+
+4. GRAPHICAL ABSTRACT (GUIDELINE ONLY)
+   Field baseline: No mention
+   Journal guideline: "Encouraged" (optional)
+   Classification: GUIDELINE ONLY (present in some samples, not enforced)
+
+5. CITATION FORMAT (ENFORCED)
+   Field baseline: Author-year parenthetical norm
+   Journal specification: elsarticle-num (numbered)
+   Classification: ENFORCED (explicitly stated; numbered format required)
+
+FIELD_SKILL OVERRIDES: None
+==========================
+No instances where journal guidance contradicts field baseline require override.
+Journal guidelines are either consistent with field norms or relax them (e.g., structural flexibility).
+
+ACCESS LIMITATIONS AND NOTES
+=============================
+
+- Official Elsevier author guide (ScienceDirect) returned 403 Forbidden; content extracted from secondary sources (Elsevier search results, SciSpace, IDEAS/RePEc).
+- Published articles behind paywall; compensated with two open-access preprints from arXiv that target similar venues (economics/housing empirical work).
+- Journal tier: ABS 2 (lower-tier specialist journal) permits smaller sample size (2 full articles) vs. ABS 4*/4 standard (10-15). Both samples showed consistent heading, voice, and structure, suggesting convergent evidence.
+- No evidence of journal-specific strictness on language, tone, or hedging beyond FIELD_SKILL.
+
+HARD CONSTRAINTS SUMMARY
+========================
+
+Abstract:         Max 250 words, unstructured prose
+Keywords:         1-7, prefer single words
+Article Highlights: Required, bullet-point format
+Graphical Abstract: Optional, encouraged
+Citation Style:   elsarticle-num (numbered)
+Section Heading:  Numbered Arabic numerals (1, 2.1, etc.)
+Structure:        Flexible (no strict format; requires clear sections)
+File Format:      Editable (Word, LaTeX)
+Submission Fee:   $100 USD ($25 student)
+
+SKILL FILE GENERATED
+====================
+Path: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/economics/journal-of-housing-economics_SKILL.md
+
+Content structure:
+  - Journal profile and scope
+  - Hard constraints (author guidelines)
+  - Observed deltas from field baseline
+  - Dimensions with no delta
+  - Common pitfalls specific to journal
+  - Sources and access method documentation

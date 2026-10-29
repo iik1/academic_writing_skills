@@ -1,0 +1,20 @@
+Journal: Quantitative Marketing and Economics
+Slug: quantitative-marketing-and-economics
+ABS: 3
+Field: MKT
+
+Articles fetched: 20 (title/author/year-level metadata only, via RePEc/IDEAS and EconPapers indices; no full text or article-level abstracts were accessible - Springer full-text and aims-and-scope/submission-guidelines pages redirected to an authentication wall in this environment)
+
+Early stop triggered: No (ran full planned sample of ~20 across 4 volume-years, 2023-2026; stopped because delta set had stabilized - all articles converged on the same quantitative/structural profile)
+
+Deltas found: 3 dimensions
+  1. Structural Deviations - journal draws almost exclusively from FIELD_SKILL's "quantitative empirical/econometric" template; behavioral/experimental and conceptual templates not evidenced. Journal functions closer to an applied-IO/econometrics outlet than a typical ABS-3 marketing journal (PRACTICE ONLY).
+  2. Statistical Reporting - same convergence: only the quantitative-empirical reporting column of FIELD_SKILL applies; behavioral reporting norms (F-stats, Cohen's d, Hayes PROCESS) not observed (PRACTICE ONLY).
+  3. Other Journal-Specific Patterns - double-anonymous review process; author-identifying info (acknowledgments, competing interests, contributions) must go through submission portal, not manuscript body; Data Availability Statement required (ENFORCED per guidelines).
+
+FIELD_SKILL overrides: none formally overriding FIELD_SKILL content (no HARD_CONSTRAINTS from guidelines conflicted with FIELD_SKILL); the journal narrows FIELD_SKILL's three-template menu down to one in practice, and adds an enforced Data Availability Statement + blind-submission requirement not covered in FIELD_SKILL.
+
+Access-limitation notes:
+- Springer's submission-guidelines and aims-and-scope pages both redirected to idp.springer.com login wall; could not be fetched directly. Guideline content was reconstructed from WebSearch result snippets referencing the same pages (submission portal requirements, DAS requirement, blind-review system, no simultaneous submission).
+- No article full text or even abstract text was retrievable (RePEc article-level pages for this journal returned 404; EconPapers/IDEAS listing gave only title/author/year, not abstracts).
+- Consequently, voice/register, hedging, and citation-density deltas could not be directly verified from body text and are marked "Follows FIELD_SKILL norm" based on absence of contrary evidence plus general knowledge of the journal's house style, rather than confirmed textual observation.

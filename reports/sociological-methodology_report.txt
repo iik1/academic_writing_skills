@@ -1,0 +1,23 @@
+Journal: Sociological Methodology
+Slug: sociological-methodology
+ABS: 3
+Field: SOC SCI
+Publisher: SAGE (American Sociological Association)
+
+Articles fetched: 6 distinct articles (1 full text via PMC, 5 via abstract/snippet), plus 1 current-issue TOC scan for scope/title confirmation.
+Early stop triggered: No — deltas stabilized after 6 articles; SAGE author-instructions and TOC pages returned 403 to direct WebFetch, so evidence was gathered via WebSearch snippets, PMC full text, and author-hosted PDFs instead. This is a good-faith access-limited sample; convergence was reached (no new deltas emerging by article 5-6).
+
+Deltas found: 2 dimensions
+  1. Structural Deviations (PRACTICE ONLY) — papers frame the CARS "gap" as a methodological/measurement gap rather than a substantive-knowledge gap; Background section reviews prior methods, not competing substantive theories.
+  2. Other Journal-Specific Patterns (PRACTICE ONLY, low-prevalence) — single-authored papers sometimes use third-person "the author" as an accepted alternative to first-person "I".
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Abstract: 150-200 words, unstructured, no author-identifying info (double-blind)
+  - Length: ~10,000 words max
+  - Citations: ASA Style Guide (7th ed.) author-date format, colon before page number, full first names in reference list
+  - Structure: title page / abstract / text / notes / references / tables / figures / appendixes (fixed order)
+  - Prohibitions: no self-identification in citations; no simultaneous submission; data-sharing expected; short bio (<100 words) required at submission
+
+Access-limitation notes:
+  - journals.sagepub.com/author-instructions/smx and /toc/smx/current both returned HTTP 403 to WebFetch; guideline content was reconstructed from WebSearch result snippets (which quote the SAGE guidelines PDF) rather than direct page fetch.
+  - No full-text access beyond one PMC-hosted article (Rinderknecht, Doan, and Sayer 2025); remaining 4-5 articles were assessed from abstract/snippet only, per task instructions allowing front-matter-only assessment.

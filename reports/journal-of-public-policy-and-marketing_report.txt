@@ -1,0 +1,33 @@
+Journal: Journal of Public Policy and Marketing
+Slug: journal-of-public-policy-and-marketing
+ABS: 3
+Field: MKT
+
+Articles fetched: 8 distinct sources (abstracts/topic descriptions via search snippets and secondary
+summaries). Full-text access to individual SAGE issue pages and article full-texts was blocked
+(homepage-only content returned by WebFetch on journals.sagepub.com; 403 on ResearchGate and
+Marquette ePublications). Relied on WebSearch result snippets, the journal's own guideline pages,
+and AMA/journal scope statements instead.
+
+Early stop triggered: No (continued sampling until access chain was exhausted; deltas had stabilized
+by article 5-6, remaining checks confirmed no new deltas).
+
+Deltas found: 3 dimensions
+  1. Citation style — AMA author-date house style, not APA (ENFORCED, stated in guidelines)
+  2. Structural addition — mandatory Policy Contribution Statement, 300 words, 3-part required
+     content, precedes abstract (ENFORCED, stated in guidelines, journal's defining structural marker)
+  3. Discussion/introduction framing — expected naming of concrete policy stakeholders and stage of
+     policy process (PRACTICE ONLY / guideline-adjacent, drawn from journal's own methodological essays
+     for authors, not confirmed as a strict per-article checklist item since full texts were inaccessible)
+
+FIELD_SKILL overrides: Citation style (APA -> AMA author-date format) is the only direct override of a
+FIELD_SKILL-stated norm. All other FIELD_SKILL dimensions (macro structure, voice/person, hypothesis
+form, statistical reporting, citation density, discussion architecture) hold as FIELD DEFAULT.
+
+Access-limitation notes:
+- journals.sagepub.com/toc/* pages returned only the site homepage/navigation shell via WebFetch;
+  could not confirm article-level structural details directly from SAGE.
+- ResearchGate and Marquette ePublications article pages returned HTTP 403.
+- All findings sourced from WebSearch result snippets (which quote/paraphrase abstracts and guideline
+  text), the AMA submission guidelines page (successfully fetched in full), and secondary descriptions
+  of specific JPPM articles/essays about the journal's own conventions.

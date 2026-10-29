@@ -1,0 +1,29 @@
+Journal: Journal of Fixed Income
+Slug: journal-of-fixed-income
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 0 full-text articles (access chain exhausted — see notes below)
+Early stop triggered: No — full good-faith effort made across guidelines page, publisher site, jfi.pm-research.com content pages (current and archived), ResearchGate, SSRN, RePEc/IDEAS, and general web search; wrote skill despite inability to spot-check articles because guideline data was rich and independently corroborated.
+
+Deltas found: 4
+  - Voice and Register (GUIDELINE ONLY): explicit plain-English/practitioner-audience requirement, academic-register manuscripts rejected at preliminary review.
+  - Structural Deviations (ENFORCED per guidelines): flatter structure (intro-with-roadmap -> body -> conclusion -> references -> exhibits), no mandated Data/Results/Appendix sections, ~4,000-word target vs FIELD_SKILL's longer academic paper norms.
+  - Citation Density (RELAXATION, inferred): shorter length and no-references-in-abstract rule imply lighter citation density than FIELD_SKILL baseline.
+  - Other Journal-Specific Patterns (GUIDELINE ONLY): all tables/figures unified under a single "Exhibit" label with one consecutive numbering scheme.
+
+FIELD_SKILL overrides:
+  - Structure: no Data/Empirical Analysis/Appendix sections required; conclusion only needs to "summarize main points."
+  - Length: ~4,000 words target, hard bounds 2,500-7,500 words (FIELD_SKILL gives no length guidance, journal has strict practitioner-length norms).
+  - Abstract: ~160 words, non-technical, no references (vs FIELD_SKILL's 150-250 word academic abstract).
+  - Citations: Chicago 17th ed. author-date (consistent with general finance norms but explicitly mandated here).
+  - Voice: plain English, minimal jargon, academic writing explicitly penalized (FIELD_SKILL assumes academic-reviewer audience with high technical density).
+
+Access-limitation notes:
+  - pm-research.com (publisher platform) redirects all content pages to a SAMS-SIGMA institutional login; no public access without EZProxy/institutional credentials.
+  - jfi.pm-research.com content pages (issue tables of contents, individual article abstracts) returned 404 for every URL attempted, including URLs surfaced directly by search engines — indicates the legacy platform has been decommissioned or content migrated behind login.
+  - ResearchGate article page returned 403 Forbidden.
+  - SSRN and RePEc/IDEAS have essentially no indexed content specific to Journal of Fixed Income articles.
+  - Author guidelines page (jfi.pm-research.com/authors) was the one fully successful fetch and provided rich, specific HARD_CONSTRAINTS data (structure, length, abstract, citation style, headings, exhibits, prohibitions).
+  - Corroborating secondary evidence: a Fabozzi & Kon 30th-anniversary retrospective article description (via search snippet) independently confirms the journal's stated practitioner-education mission, supporting the guidelines page's voice/register claims.
+  - No direct article-level spot-check was possible; all Observed Deltas below the guidelines section are labeled GUIDELINE ONLY, ENFORCED (per guidelines text), or RELAXATION (inferred), not confirmed-by-practice, and are flagged as such in the skill file.

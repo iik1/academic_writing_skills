@@ -1,0 +1,21 @@
+Journal: Accounting Research Journal
+Slug: accounting-research-journal
+ABS: 2
+Field: ACCOUNT
+Publisher: Emerald
+
+Articles fetched: 10 (abstract/metadata level only, via IDEAS/RePEc mirrors and WebSearch snippets)
+Early stop triggered: No — sample reached target given access constraints; documented as good-faith effort per ABS 2 allowance.
+
+Deltas found: 2
+  1. Abstract structure — Emerald mandatory structured abstract (Purpose / Design-methodology-approach / Findings / Originality-value, optional Research limitations-implications and Practical implications; max 250 words including keywords) replaces FIELD_SKILL's unstructured single-paragraph abstract. ENFORCED.
+  2. Methodological/topical breadth — journal accepts systematic/bibliometric reviews, ML-exploratory studies, and conceptual/exploratory papers alongside standard archival empirical work, broader than the FIELD_SKILL ABS 4*/4 mainstream. RELAXATION (consistent with ABS 2 tier, not a new norm).
+
+FIELD_SKILL overrides: Abstract format only (structured vs. unstructured). All other dimensions (voice/person, citation format/density, hedging, discussion/conclusion norms, introduction argumentation) follow FIELD_SKILL defaults as far as observable.
+
+Access-limitation notes:
+- emeraldgrouppublishing.com/journal/arj returned HTTP 403 on direct WebFetch.
+- emerald.com article/issue pages returned CAPTCHA ("unusual traffic") blocking direct fetch.
+- Relied on WebSearch snippets, IDEAS/RePEc mirror pages (which reproduce Emerald's structured abstracts and metadata), and scispace search results.
+- No full-text article was accessible; all observations are abstract/metadata-level, consistent with the task's allowance for thinner samples at ABS 2 and for paywalled full text.
+- Word/page limit for ARJ specifically could not be confirmed (Emerald's detailed guidelines page was inaccessible); noted as unconfirmed/indicative in the skill rather than fabricated.

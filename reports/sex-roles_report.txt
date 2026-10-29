@@ -1,0 +1,36 @@
+DELTA DETECTION REPORT
+======================
+
+Journal: Sex Roles
+Slug: sex-roles
+ABS Rating: 2
+Field: ETHICS-CSR-MAN
+Publisher: Springer Nature
+
+ARTICLES SPOT-CHECKED: 5
+- Unable to access full-text empirical articles due to Springer paywall
+- Accessed 5 journal-guidance articles (advisory papers on quantitative/qualitative publishing in Sex Roles)
+- Also reviewed abstract/structure information from Wikipedia, journal scope, citation guides, and search-indexed content
+
+EARLY STOP TRIGGERED: No (proceeded with all phases; publicly available information sufficient for delta detection)
+
+DELTAS FOUND: 5 major deltas + 1 dimensional expansion
+
+DELTA DIMENSIONS:
+1. Feminist Perspective Requirement (ENFORCED) - editorial positioning delta
+2. Quantitative Assumption-Testing Emphasis (ENFORCED) - methodology delta
+3. Hypothesis-to-Results Correspondence Requirement (ENFORCED) - structure delta
+4. Qualitative Coding and Chi-Square Requirement (ENFORCED) - qualitative-specific delta
+5. Mixed Methods Articulation (ENFORCED) - integration delta
+6. Common Pitfalls (4 submission-readiness issues) - guidance expansion
+
+FIELD_SKILL OVERRIDES: None (no conflicts with mgmt-field-writing-style baseline)
+
+ACCESS LIMITATION NOTES:
+- Springer Nature submission guidelines page requires institutional authentication; used alternative sources (citation guides, Wikipedia, journal metadata, search-indexed abstracts)
+- Published journal guidance articles (quantitative/qualitative guidelines within Sex Roles) are paywalled; key information extracted from titles, abstracts, and search result snippets
+- No full-text empirical articles were accessed due to paywall; methodology deltas inferred from explicit guidelines mentioned in literature and journal scope
+- Good-faith research based on 5 openly accessible sources of varying authority; no fabrication of empirical structure examples
+
+SUMMARY:
+Sex Roles is a 2-tier (ABS 2) journal with strong editorial positioning (feminist perspective) and explicit methodological requirements that exceed FIELD_SKILL baseline. Key distinctions are (1) mandatory feminist framing, (2) quantitative methods require assumption-testing detail beyond general rigor, (3) results must mirror hypothesis order, (4) qualitative work must be formally coded and chi-square-tested, (5) mixed methods require explicit integration articulation. These are enforced conventions, not practices. No deltas conflict with mgmt-field-writing-style; instead, Sex Roles tightens specific constraints within that field baseline.

@@ -1,0 +1,41 @@
+Journal: Family Business Review
+Slug: family-business-review
+ABS: 3
+Field: ENT-SBM
+
+Articles fetched: 8 total
+  - 2 full-text (Palm, Diaz-Moriana & Kammerlander 2024 FBR 37(2) - qualitative
+    multi-case study on SEW/restructuring; Yilmaz, Raetze, de Groote &
+    Kammerlander 2024 FBR 37(1) - systematic literature review on resilience)
+  - 6 abstract/front-matter only (Carbone et al. 2024; Calabrò et al. 2024;
+    Bauweraerts et al. 2024; Martin et al. 2024; Hoon et al. 2023; He et al. 2023)
+Early stop triggered: No — stopped at 8 after the official guidelines PDF plus
+  two full-text articles produced a stable, converging delta set; remaining
+  articles were used only to confirm abstract/keyword conventions. No
+  institutional EZProxy access; relied on open PDFs, publisher abstract pages,
+  and search-engine snippets as instructed.
+
+Deltas found: 4 substantive dimensions
+  1. Structure — RELAXATION: no fixed section template; qualitative multi-case
+     and systematic-review formats are flagship, not secondary, formats.
+  2. Length — ENFORCED hard cap of 40 double-spaced pages all-inclusive
+     (tighter than FIELD_SKILL's appendix-heavy implied norm).
+  3. Abstract — ENFORCED 100-word unstructured abstract (shorter than typical
+     ABS 4/4* abstracts).
+  4. Tables/Figures placement — ENFORCED SAGE-style end-of-document,
+     one-per-page, dual numbering series with in-text placement markers.
+  Plus two PRACTICE ONLY notes: propositions in place of hypotheses for
+  qualitative papers; literature review as the primary desk-rejection signal
+  per the journal's own published editorial (Craig 2010).
+
+FIELD_SKILL overrides: Length (40-page cap), Abstract (100-word limit),
+  Structure (relaxed away from mandatory hypothesis-testing spine),
+  Tables/Figures (SAGE end-of-document placement convention).
+
+Access-limitation notes: No EZProxy/institutional access. Journal's own
+  submission-guidelines PDF fetched successfully and provided most
+  HARD_CONSTRAINTS content directly (page/word limits, citation style,
+  table/figure placement, desk-rejection policy). Two full-text articles were
+  available via open PDF mirrors (campus-for-family-business.education);
+  additional articles were accessible only as abstracts/snippets via
+  WebSearch, consistent with expected paywall limitations for a SAGE journal.

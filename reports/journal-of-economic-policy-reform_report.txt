@@ -1,0 +1,18 @@
+Journal: Journal of Economic Policy Reform
+Slug: journal-of-economic-policy-reform
+ABS: 1
+Field: ECON
+
+Articles fetched: 10 (titles/abstracts only, via RePEc/IDEAS listings; full text inaccessible in this environment)
+Early stop triggered: No (reached good-faith sample given ABS 1 tier and thin public access)
+
+Deltas found: 1 substantive delta
+  - Length: hard ceiling of ~9,000 words (stricter than typical ABS 4/4* practice)
+  - Other Journal-Specific Patterns: broader cross-disciplinary social-science scope (RELAXATION of technical density expectations vs FIELD_SKILL)
+
+FIELD_SKILL overrides: Length ceiling (9,000 words) overrides no explicit FIELD_SKILL number (FIELD_SKILL is silent on length) — treated as a hard constraint since guidelines page stated it directly via search snippet.
+
+Access limitation notes:
+- Direct fetch of tandfonline.com "Instructions for Authors" page returned HTTP 403 (paywall/bot-block); relied on WebSearch-extracted snippets from the journal's "about this journal" and landing pages instead.
+- Could not confirm citation style (APA vs other), abstract word limit, or explicit table/figure formatting rules; these are marked "Follows FIELD_SKILL norm" or "assumed" rather than fabricated.
+- Article spot-check was abstract/title-level only (via RePEc/IDEAS), not full-text, since Taylor & Francis full-text is paywalled and no NBER/IZA-equivalent working paper repository exists for this journal. Sample spans 2019-2020 and 2026 issues to check for stability over time.

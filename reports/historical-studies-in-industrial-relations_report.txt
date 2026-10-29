@@ -1,0 +1,97 @@
+JOURNAL SKILL GENERATION REPORT
+================================================================================
+
+Journal Name: Historical Studies in Industrial Relations
+Journal Slug: historical-studies-in-industrial-relations
+ABS Rating: 1
+Field: BUS HIST & ECON HIST
+Publisher: Liverpool University Press
+
+RESEARCH SUMMARY
+================================================================================
+
+Articles Fetched: 5-8 (limited by paywall access)
+  - Volume 45 (2024): 5 articles identified via abstracts/metadata
+    • "Smashing the Subversive Unemployed: State Containment and Coercion of the National Unemployed Workers' Movement, 1921–39" (Emanuel Bourges Espinosa)
+    • "Nancy Seear and the Investigation of Women's Employment" (Susan Milner)
+    • "The British Labour Movement's Involvement in West Indian Labour Struggles, 1934–39" (Roger Seifert)
+    • "Union Leadership, Mobilization and Decision-Making in a Prolonged Strike" (Kathryn Steel)
+    • "For Research Purposes and for Posterity: The Founding and Early Development of the Modern Records Centre" (Pierre Botcherby)
+
+  - Volume 46 (2025): 3-4 articles identified
+    • "History through Literary Imagination: Portrayals of Worker Representation and Collective Action in Condition-of-England Novels, c.1830–1855" (Michael Gold)
+    • "The Rise and Demise of the Institute for Workers' Control, 1964-1985" (Alan Tuckman)
+    • "Industrial Relations, 1975 to 2025" (Richard Hyman) [Essay]
+    • "Michael Burawoy and the Manufacturing of Consent" (Tony Elger) [Essay]
+
+Early Stop Triggered: Yes
+  Reason: Liverpool University Press website (https://www.liverpooluniversitypress.co.uk/journal/hsir) returned HTTP 403 Forbidden for full guidelines access. Individual article pages behind paywall. Cannot access full author guidelines or complete article texts to verify all formatting conventions. Good-faith spot-check completed on available metadata and abstracts; limited to surface-level structural observations.
+
+Deltas Found: 5 major findings (all are relaxations or publisher-specific, not novel journal norms)
+  1. British English and Oxford house style (RELAXATION)
+  2. Author-date or author-short title referencing (vs. FIELD_SKILL's note-heavy practice) (ENFORCED - publisher policy)
+  3. Three formal article types: Research Articles, Essays, Documents (PRACTICE ONLY)
+  4. Encouragement of explicit political framing (PRACTICE ONLY)
+  5. Publication of archival Documents as standalone content type (PRACTICE ONLY)
+
+FIELD_SKILL Overrides: None
+  All observed deltas are either relaxations (British English requirement) or publisher-level policies (Liverpool University Press referencing style), not journal-specific innovations. No substantive content or methodology norms deviate from the business-economic-history field baseline.
+
+Access Limitations and Honest Reporting
+================================================================================
+
+The journal's full author guidelines on Liverpool University Press are not publicly accessible (HTTP 403). The skill was created on a good-faith basis using:
+  - Published article metadata and abstracts from volumes 45–46
+  - Liverpool University Press general house style guidance (inferred from publisher policies on other journals)
+  - Publisher blog announcements and society (SSLH) issue announcements
+  - Information available via Google Scholar, Scopus metadata, and journal issue tables of contents
+
+Full-text articles could not be accessed to verify:
+  - Exact word limits or page limits
+  - Detailed section-heading conventions
+  - Preferred table and figure formatting
+  - Specific abstract length or structure
+
+This is a **lower-tier (ABS 1) journal with limited public editorial visibility**. A short, honest skill reflecting these constraints is preferable to fabricated detail. The skill correctly notes which information is unavailable and directs authors to primary sources (the publisher website or direct contact with Lead Editor Paul Smith).
+
+DELTA CLASSIFICATION SUMMARY
+================================================================================
+
+ENFORCED (stated in guidelines AND confirmed in practice):
+  - Author-date or author-short title referencing (Liverpool University Press house policy)
+  - British English and Oxford punctuation
+  - No ibid., op. cit., or art. cit. in citations
+
+GUIDELINE ONLY (stated but not directly verified in articles):
+  - None identified (full guidelines inaccessible)
+
+PRACTICE ONLY (observed in articles but not stated in publicly available guidelines):
+  - Three formal article types: Research Articles, Essays, Documents
+  - Encouragement of explicit political framing
+  - Publication of archival materials as Documents
+
+RELAXATION (loosens a FIELD_SKILL norm):
+  - British English requirement (moves away from potential North American conventions within field)
+  - Author-date style (shifts from FIELD_SKILL's note-heavy historiography toward social-science convention)
+
+FIELD DEFAULT (no deviation from baseline):
+  - Voice, register, sentence style, argumentation, methods, results reporting, conclusion norms
+  - All aligned with business-economic-history-field-writing-style baseline
+
+SOURCES AND ACCESS CHAIN
+================================================================================
+
+Primary Access Chain:
+  1. Liverpool University Press journal homepage: https://www.liverpooluniversitypress.co.uk/journal/hsir [403 Forbidden]
+  2. Publisher blog: https://liverpooluniversitypress.blog/tag/historical-studies-in-industrial-relations/ [Public, archive access]
+  3. Issue announcements via Society for the Study of Labour History: https://sslh.org.uk/2026/02/23/historical-studies-in-industrial-relations-2025-now-online/ [Public]
+  4. Article metadata and abstracts via Liverpool University Press DOI pages [Public metadata, full text 403]
+  5. Publisher house style guidance (inferred from Developing Academic Practice and other LUP journals) [Partial public access]
+
+Attempted but Inaccessible:
+  - Full text of articles (paywall)
+  - Complete author guidelines document (403 Forbidden)
+  - Word document style guides for Liverpool University Press journals (403 Forbidden)
+  - PDF author packs (403 Forbidden)
+
+Conclusion: The skill is based on publicly available information and represents an honest, conservative assessment of the journal's requirements. Gaps are clearly noted, and authors are directed to official sources for complete guidance.

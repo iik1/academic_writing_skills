@@ -1,0 +1,33 @@
+Journal: Journal of Asset Management
+Slug: journal-of-asset-management
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 9 (abstract/keyword/JEL-level only; no full text accessible)
+Early stop triggered: No (reached good-faith target sample size for ABS 2 tier given access constraints)
+
+Deltas found: 2 (both low-confidence / PRACTICE ONLY or GUIDELINE ONLY)
+  - Practitioner-oriented topic scope and editorial preference for applied/practical implications
+    (stated in journal aims and scope; consistent with sampled abstracts, all of which foreground
+    portfolio-construction / risk-management implications)
+  - Inconsistent presence of JEL codes across sampled articles (not a strict requirement, no
+    action needed beyond FIELD_SKILL default of including them)
+
+FIELD_SKILL overrides: none found (no hard constraints from guidelines contradicted FIELD_SKILL)
+
+Access-limitation notes:
+- Springer Nature Link's submission-guidelines page and all individual article full-text pages
+  redirect to an authentication wall (idp.springer.com) in this environment (WebFetch reports
+  303 redirects requiring login). Could not read the full formatting/word-limit guidelines page
+  or any full article text directly.
+- Worked around this using WebSearch snippet extraction (which surfaces Springer page content
+  indirectly) and IDEAS/RePEc (ideas.repec.org) abstract mirrors, which provided title, authors,
+  abstract, keywords, and JEL codes for most sampled articles.
+- scispace.com and scite.ai journal listing pages were JS-rendered/blocked and returned no usable
+  content via WebFetch.
+- No explicit word/page limits, abstract word count, or table/figure formatting rules were found
+  in any accessible source; these fields in the skill are marked "not specified in accessible
+  guideline text" rather than fabricated.
+- Given the thin access chain, the skill is intentionally short and leans on
+  "Follows FIELD_SKILL norm" for most dimensions, consistent with the assignment's convergence
+  rule for a lower-tier (ABS 2) journal with no confirmed deviations.

@@ -1,0 +1,26 @@
+Journal: Nonprofit and Voluntary Sector Quarterly
+Slug: nonprofit-and-voluntary-sector-quarterly
+ABS: 3
+Field: SECTOR
+
+Articles fetched: 12 (abstract/front-matter level only; full text was not accessible)
+Early stop triggered: No — sampling continued until the delta set stabilized (no new deltas emerged after ~8 articles); stopped at 12 as a good-faith sufficient sample given SAGE full-text access limitations.
+
+Deltas found: 1 dimension
+  - Structural Deviations: Research Note format (5,000-word shorter submission track, distinct from Research Articles) — ENFORCED, stated in guidelines, not covered by FIELD_SKILL.
+  All other dimensions (voice/register, statistical reporting, citation density, argumentation structure, discussion/conclusion moves, hedging) = FIELD DEFAULT, no delta.
+
+FIELD_SKILL overrides: none required (Research Note track is an addition, not a conflict).
+
+Hard constraints extracted (journal-specific, not in FIELD_SKILL):
+  - Word limits: 10,000 words (Research Articles) / 5,000 words (Research Notes), including references/appendices/endnotes.
+  - Abstract: unstructured, <=150 words, 4-5 keywords, on first page of main document.
+  - Citation style: APA, with page/paragraph reference required for direct quotes.
+  - Formatting: 12pt Times New Roman.
+  - Double-anonymized review: title page separate from main document, includes 2-3 sentence author bio; main document must be free of identifying information.
+  - No prior publication / simultaneous submission elsewhere; English only.
+
+Access-limitation notes:
+  - journals.sagepub.com pages (author-instructions/nvs, home/nvs, individual DOI abstract pages) returned HTTP 403 to direct WebFetch in this environment.
+  - Guidelines content was recovered via the SAGE-hosted submission-guidelines PDF (partially parseable) and via WebSearch result snippets/summaries.
+  - All 12 article observations are based on abstract/summary text surfaced through WebSearch (secondary aggregation of SAGE abstract pages), not direct full-text or even direct abstract-page fetch, since SAGE blocked WebFetch outright. No full-text structural or citation-density observations were possible (e.g., could not verify section heading labels or in-text citation formatting directly).

@@ -1,0 +1,92 @@
+Journal Name: Manchester School
+Journal Slug: manchester-school
+ABS 2024 Rating: 2
+Field: ECON
+Publisher: Wiley-Blackwell
+URL: https://onlinelibrary.wiley.com/journal/14679957
+
+RESEARCH SUMMARY
+================
+
+Articles Fetched: 8 identified (limited by paywall access)
+- Spot-checked articles: 8 (titles, abstracts, and metadata from EconPapers/IDEAS; no full-text access)
+- Target was 10-15; early-stop triggered due to Wiley paywall
+
+Early Stop Triggered: Yes
+Reason: Wiley Online Library paywalls most recent articles. Author guidelines page also paywalled. Maximum publicly available information accessed through: (1) WebSearch extracts of guideline summaries, (2) EconPapers/IDEAS/RePEc repositories (metadata), (3) one NBER working paper version of a 2021 publication, (4) publisher overview pages. No institutional access available in this environment.
+
+Deltas Found: 5 significant deviations from FIELD_SKILL
+1. Citation flexibility (GUIDELINE ONLY) — References accepted in any consistent format; typesetter reformats upon acceptance
+2. Data availability (ENFORCED) — Strongly encouraged data archiving + accessibility statement (elevated from field-optional)
+3. Author attribution format (ENFORCED) — Author name/institution below title; grants in footnote to author name
+4. Concision pressure (RELAXATION) — 8,000-word / 30-page hard cap (tighter than typical ABS 4*)
+5. Footnote conventions (ENFORCED) — Footnotes kept minimal; superscript Arabic numerals; no specific numbering rule for sections
+
+FIELD_SKILL OVERRIDES
+======================
+
+Yes. 5 overrides identified:
+
+1. HARD CONSTRAINT: Citation format flexibility
+   - FIELD_SKILL: author-year near-universal, footnote citations rare
+   - MANCHESTER SCHOOL: any consistent format accepted; typesetter reformats on acceptance
+   - Status: GUIDELINE ONLY (stated but not enforced; unusual for ABS 2+ journals)
+
+2. HARD CONSTRAINT: Data accessibility
+   - FIELD_SKILL: not specified
+   - MANCHESTER SCHOOL: strongly encouraged; explicit data accessibility statement + repository link required for publication
+   - Status: ENFORCED (stated, normatively expected, published alongside paper)
+
+3. HARD CONSTRAINT: Author attribution location
+   - FIELD_SKILL: no specification
+   - MANCHESTER SCHOOL: author name and institution MUST appear below title; grant acknowledgements in footnote to author name only
+   - Status: ENFORCED (explicit requirement)
+
+4. HARD CONSTRAINT: Word/page limits
+   - FIELD_SKILL: no limits specified
+   - MANCHESTER SCHOOL: 8,000 words max / 30 pages max
+   - Status: ENFORCED (hard constraint, unusual for tier 2 economics journal)
+
+5. SOFT NORM: Footnote handling
+   - FIELD_SKILL: footnotes carry supplementary material; no prescription on grant acknowledgements location
+   - MANCHESTER SCHOOL: footnotes kept to minimum; grants/acknowledgements as footnote to author name, not in main list
+   - Status: ENFORCED (explicit rule)
+
+ACCESS LIMITATIONS
+==================
+
+1. Paywalled journal: Most recent articles (2024-2025) behind Wiley Online Library paywall
+2. Guidelines page paywalled: Author guidelines full page inaccessible; extracted via WebSearch summaries and Wiley author portal general info
+3. Limited full-text analysis: Only 1 full working paper available (NBER version of 2021 publication); remainder based on metadata/abstracts
+4. Spot-check sample: 8 articles identified vs. target of 10-15
+5. No institutional EZProxy: This environment does not have access to paywalled journals
+
+WORKAROUNDS USED
+
+- WebSearch to extract guideline summaries from cached/publicly indexed pages
+- EconPapers/IDEAS/RePEc repositories (public metadata access)
+- NBER preprint server (working paper access)
+- Wiley author portal general (non-journal-specific) guidance on free format submission
+
+DELTAS CONFIDENCE
+
+- HARD CONSTRAINTS (word limit, author attribution format, data accessibility): CONFIRMED
+  (explicitly stated in accessible guideline extracts and Wiley author portal info)
+
+- PRACTICE PATTERNS (voice, hedging, citation density, structure): INFERRED, NOT FULLY VERIFIED
+  (limited to 8 article titles/abstracts; full stylistic verification would require full-text access)
+
+- DELTAS vs. FIELD_SKILL: REASONABLE (field baseline is ABS 4*/4; ABS 2 naturally relaxes some norms while enforcing tighter constraints like word limits and data access)
+
+CONCLUSION
+
+Manchester School follows the ECON field baseline in voice, argumentation, and hedging. Key journal-specific deltas are: (1) flexible citation formatting (free format submission paradigm), (2) elevated data availability norms, (3) explicit author/institution placement below title, (4) tight word/page limits, and (5) grant acknowledgement footnote handling. These are mostly enforced by Wiley's free format platform and the journal's transparency policy, not by deviation in academic prose conventions. A writer targeting Manchester School should focus on: (a) concise presentation within 8,000 words, (b) including data accessibility statement for empirical work, (c) proper author attribution format, and (d) not over-formatting citations.
+
+DATA SUMMARY
+
+- Journal: Manchester School (ABS 2, ECON, Wiley)
+- Articles fetched: 8 (limited by paywall)
+- Deltas discovered: 5 (citation format, data access, author format, word limit, footnotes)
+- Field overrides: 5 (all listed above)
+- Skill file saved: Yes
+- Report saved: Yes

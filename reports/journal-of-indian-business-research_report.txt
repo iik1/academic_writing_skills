@@ -1,0 +1,21 @@
+Journal: Journal of Indian Business Research
+Slug: journal-of-indian-business-research
+ABS: 1
+Field: ETHICS-CSR-MAN (journal is a general Indian-business outlet spanning marketing, finance, HRM, OB, strategy, services)
+
+Articles fetched: 0 full-text; 13 distinct articles spot-checked at title/abstract level via WebSearch snippets only.
+Early stop triggered: No (dedupe check found no existing skill; proceeded through full workflow).
+
+Deltas found: 4
+  1. Abstract format — ENFORCED: Emerald structured abstract (Purpose / Design-methodology-approach / Findings / Originality-value, max 250 words) vs. FIELD_SKILL's generic unstructured 150-250 word abstract.
+  2. Citation style — ENFORCED (Emerald house style): Harvard/author-date referencing vs. FIELD_SKILL's stated APA convention.
+  3. Structural mix — PRACTICE ONLY / low-prevalence: higher proportion of systematic-literature-review articles than typical ABS 4/4* management outlets (applied/practitioner tier orientation).
+  4. Practical implications emphasis — GUIDELINE ONLY: editorial criteria explicitly expect practical/managerial implications for India-market firms in every accepted paper, stronger than FIELD_SKILL's "where appropriate" framing.
+
+FIELD_SKILL overrides: Citation style (Harvard vs. APA); Abstract structure (mandatory 4-heading structured abstract).
+
+Access-limitation notes:
+- Every WebFetch attempt against emerald.com and emeraldgrouppublishing.com pages returned HTTP 403 or a CAPTCHA validation screen. No full-text article content or guidelines page was directly readable.
+- All findings derived from WebSearch result snippets (search-engine-cached abstract/metadata text), not full-page fetches.
+- Word/page limit for JIBR specifically could not be confirmed; noted in skill as unconfirmed/GUIDELINE ONLY, defaulting to standard Emerald range (~6,000-8,000 words) pending verification.
+- This is consistent with the assignment's allowance for a smaller, honestly-documented sample for ABS 1 journals with thin public access chains.

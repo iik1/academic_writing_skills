@@ -1,0 +1,16 @@
+Journal: European Journal of Social Psychology
+Slug: european-journal-of-social-psychology
+ABS: 3
+Field: PSYCH (GENERAL)
+
+Articles fetched: 9 (abstract/metadata level; all full-text pages returned HTTP 402/403 - Wiley paywall blocked direct fetch)
+Early stop triggered: No — stopped at 9 due to access-chain exhaustion (Wiley pages consistently returned 402 Payment Required for direct WebFetch; relied on WebSearch-extracted snippets and one OA PDF attempt that returned 403). Delta set had stabilized by this point (no new deltas emerging in last 3 articles).
+
+Deltas found: 3
+  1. Structural Deviations — journal formally names three submission tracks (Research articles, Outlook articles, Registered Reports) [ENFORCED]
+  2. Other Journal-Specific Patterns — mandatory abstract "key message" closing sentence, 150-word abstract cap (120 for Short Papers) [ENFORCED]
+  3. Other Journal-Specific Patterns — explicit, universal preregistration-status disclosure requirement (tightens FIELD_SKILL's conditional expectation) [ENFORCED]
+
+FIELD_SKILL overrides: Abstract format (150-word limit + mandatory key message) — FIELD_SKILL does not specify abstract length/format at all, so this is additive rather than conflicting.
+
+Access-limitation notes: Wiley Online Library (onlinelibrary.wiley.com) blocked all direct WebFetch attempts with HTTP 402 Payment Required, including the author guidelines page, table of contents, and individual article pages. One open-access PDF (Univ. of Stirling repository) and one OA PDF (Univ. of Groningen repository) both returned 403 Forbidden on direct fetch. All findings were therefore sourced via WebSearch result snippets (which surface Wiley abstract/guidelines text in search result summaries) rather than direct page fetches. No full-text article bodies were read; all spot-checks are abstract/title/metadata level, consistent with task instructions for paywalled journals.

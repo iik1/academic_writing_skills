@@ -1,0 +1,24 @@
+Journal: Journal of Management, Spirituality and Religion
+Slug: journal-of-management-spirituality-and-religion
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 0 full-text; 12 titles/abstracts recovered via search-snippet extraction and third-party mirrors (Ingenta Connect, Semantic Scholar, ResearchGate listings, scispace). tandfonline.com (journal host) and ResearchGate both returned HTTP 403 on direct WebFetch throughout, so all article-level evidence is indirect (search-engine snippets of abstracts/topics).
+
+Early stop triggered: No — full good-faith spot-check attempted; stopped after reaching a representative sample (~12 items spanning 2020-2025, quant/qual/conceptual) once further searches returned diminishing new information, consistent with the "thin access chain, smaller sample acceptable" allowance for ABS 1 journals.
+
+Deltas found: 2 substantive deltas + 1 practice-only note
+  - Length: RELAXATION — typical papers 5,000-9,000 words vs. FIELD_SKILL norm of 10,000-18,000+ for top mgmt outlets. Hard cap 10,000 words including references.
+  - Abstract: ENFORCED — 150-word max (stricter than FIELD_SKILL's 150-250), plus a specific six-keyword requirement (3 mandatory from JMSR's controlled ScholarOne list + 3 free choice) not present in FIELD_SKILL.
+  - Headings: ENFORCED — primary/secondary/tertiary (unnumbered) headings explicitly required, a formatting specificity FIELD_SKILL does not address.
+  - Tables/Figures: ENFORCED — max 6 tables/figures; all placed on separate pages after references, not embedded in text.
+  - Scope/citation breadth: PRACTICE ONLY — interdisciplinary draw on theology/philosophy/critical-decolonial literature alongside management theory, wider than typical mgmt-field citation base, driven by journal's explicit five-community scope.
+
+FIELD_SKILL overrides: Length (shorter), Abstract word/keyword rules, Heading style (unnumbered), Table/figure placement and cap — all explicit in author guidelines PDF (dated March 2024).
+
+Access-limitation notes:
+- Journal's host (tandfonline.com) blocks automated WebFetch with 403 on both table-of-contents and abstract pages.
+- ResearchGate article pages also returned 403.
+- All article-level findings came from WebSearch result snippets and third-party abstract mirrors (Ingenta Connect, Semantic Scholar, scispace), not direct full-text or full-abstract page reads.
+- No full-text article was read; structural/voice observations are inferred from abstract-level content and topic descriptions only, consistent with the task's allowance for thin-access lower-tier journals.
+- The author guidelines PDF itself was fully accessible and read directly (this is the primary/authoritative source for this skill).

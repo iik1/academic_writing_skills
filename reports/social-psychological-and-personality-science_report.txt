@@ -1,0 +1,44 @@
+Journal: Social Psychological and Personality Science
+Slug: social-psychological-and-personality-science
+ABS: 3
+Field: PSYCH (GENERAL)
+
+Articles fetched: 2 full-text PDFs (Kroeper et al. 2024; Carroll, Arkin & Shade 2011)
+  plus abstract/front-matter level checks on ~10 additional articles (2023-2025)
+  via search-engine snippets. journals.sagepub.com blocked WebFetch with 403 for
+  every direct article/TOC URL attempted; open-access mirrors (OSU, OhioLink,
+  MPG repository) were used instead. Total distinct articles touched: ~12-15
+  (12 with reasonable confidence in content, several borderline/redundant
+  search snippets that added no new information).
+
+Early stop triggered: No. Stopped after delta set stabilized (structural
+short-report format + statistical-disclosure requirements kept recurring;
+no new dimensions emerged after the two full-text reads and ~8 abstract
+checks).
+
+Deltas found: 3 dimensions
+  1. Structural Deviations - single-study/succinct-multi-study format is the
+     defining journal signature (RELAXATION of FIELD_SKILL's multi-study
+     program expectation); flexible closing-section naming; CRediT author
+     contributions + Author Biographies as standard end matter (PRACTICE ONLY).
+  2. Statistical Reporting - FIELD_SKILL norm enforced more explicitly via
+     mandatory submission-portal confirmations (power/effect size disclosure).
+  3. Other Journal-Specific Patterns - compressed Method/Results with
+     secondary analyses pushed to footnotes/SOM, driven by the 5,000-word cap.
+
+FIELD_SKILL overrides (Hard Constraints):
+  - 5,000-word cap (incl. abstract/body/notes; excl. refs/tables/figures)
+  - Abstract: unstructured, <=150 words, 4-5 keywords
+  - APA 7th recommended (not mandatory)
+  - Figures embedded at first reference in submission
+  - Mandatory disclosure of power/sample-size justification and effect
+    sizes at submission (portal-enforced, not just guideline text)
+  - Open materials/data commitment required (or explanation if not possible)
+
+Access-limitation notes: journals.sagepub.com (guidelines page, TOC, and
+individual article PDFs) returned HTTP 403 for WebFetch on every attempt.
+Guidelines content was reconstructed from WebSearch result snippets (which
+quote the guidelines page directly) and corroborated by EASP/SPSP society
+pages. Full text was obtained for 2 articles via third-party open-access
+mirrors (university-hosted PDFs); remaining spot-checks relied on abstract-
+level search snippets only, per task instructions for paywalled venues.

@@ -1,0 +1,42 @@
+Journal: Constitutional Political Economy
+Slug: constitutional-political-economy
+ABS: 1
+Field: ECON
+Publisher: Springer Nature (Kluwer legacy)
+
+Articles fetched: 8 with full abstract/keyword/JEL detail (via RePEc/IDEAS), plus ~10 additional
+titles surveyed across the table of contents for issues spanning 2023-2026 (title-only, no
+abstract detail pulled for those). Total distinct articles touched: ~18; deeply sampled: 8.
+
+Early stop triggered: No. Full good-faith pass completed; stopped adding articles once pattern
+saturation was reached (no new structural or stylistic deltas emerging after article 6-7).
+
+Deltas found: 2 dimensions
+  1. Structural Deviations (PRACTICE ONLY / RELAXATION) - journal regularly publishes normative/
+     philosophical/conceptual essays that do not follow FIELD_SKILL's empirical or theory-paper
+     section structures at all (argument-driven prose instead). Reflects the journal's explicitly
+     interdisciplinary scope (law, philosophy, political theory) alongside standard economics
+     papers.
+  2. Other Journal-Specific Patterns (PRACTICE ONLY) - JEL codes + ~4-6 keyword list accompany
+     most (not all) sampled articles; not confirmed as strictly enforced in guidelines (guidelines
+     page was gated) but consistently observed as house practice.
+
+FIELD_SKILL overrides: none stated in accessible guidelines. No hard constraints from the
+guidelines page conflicted with FIELD_SKILL because the guidelines page itself was inaccessible
+(login-gated). All findings here are PRACTICE ONLY based on the article sample, not ENFORCED
+guideline requirements.
+
+Access-limitation notes:
+- Springer Nature Link (link.springer.com) returned 303 redirects to an authentication gate for
+  every URL attempted in this environment: submission-guidelines page, aims-and-scope page, and
+  every individual article page. No full text was ever accessible.
+- Worked around this using RePEc/IDEAS (ideas.repec.org) mirror pages, which exposed abstract,
+  keywords, and (for most articles) JEL classification codes without a login wall.
+- Because full text was never accessible, citation style (author-year vs numbered), heading
+  formatting conventions, table/figure rules, explicit word/page limits, and explicit
+  language/tone requirements could NOT be confirmed one way or the other. These are marked as
+  "not observable" / "no delta confirmable" in the skill file rather than asserted, per
+  instructions to avoid fabrication.
+- This is consistent with expectations for an ABS 1 journal: thin public information, good-faith
+  sample size achieved (8 detailed + ~10 title-level), findings are conservative and mostly
+  "Follows FIELD_SKILL norm" or "not confirmable" rather than asserted deltas.

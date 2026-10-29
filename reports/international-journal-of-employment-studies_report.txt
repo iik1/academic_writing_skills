@@ -1,0 +1,136 @@
+DELTA DETECTOR REPORT
+=====================
+
+Journal Name: International Journal of Employment Studies
+Journal Slug: international-journal-of-employment-studies
+ABS Rating: 1
+Field: HRM&EMP
+Publisher: Asia-Pacific Engaged Research Association (APERA)
+
+---
+
+EXECUTION SUMMARY
+=================
+
+Articles Fetched: 0 (full-text)
+Access Methods Attempted: 8
+  - InformIT database (403 Forbidden)
+  - IERA official website (offline)
+  - ResearchGate/Academia.edu (403 Forbidden)
+  - Google Scholar (no direct full-text links)
+  - SSRN (no indexed articles)
+  - SciSpace (403 Forbidden)
+  - arXiv (no indexed articles)
+  - Multiple targeted web searches
+
+Early Stop Triggered: No
+  Rationale: This is an ABS 1 journal with limited public access. Good-faith effort completed through multiple access pathways. Author guidelines successfully obtained from APERA official page. Skill written per CONVERGENCE RULE: where no deviations are confirmed by article analysis, documented as FIELD_SKILL default.
+
+---
+
+HARD CONSTRAINTS IDENTIFIED
+============================
+
+1. Manuscript Length (ENFORCED)
+   - Full articles: 5,000–8,000 words including references (250 words per table/figure allowed separately)
+   - Research notes: 2,000–3,000 words including references (excluding tables)
+
+2. Abstract Format (ENFORCED)
+   - Approximately 150 words
+   - No structured format specified
+
+3. Citation Style (ENFORCED)
+   - Harvard (author-date)
+   - Full author names in reference list
+   - "et al." italicized in in-text citations only
+   - Electronic sources require URLs and access dates
+
+4. Formatting (ENFORCED)
+   - Font: Times New Roman, 12-point
+   - Page notation: "p." (single), "pp." (range)
+   - Full page numbers: 175–179, not 175–9
+
+5. AI Usage Policy (ENFORCED)
+   - AI permitted: grammar, spelling, English expression improvement only
+   - AI prohibited: original text generation, research generation
+
+6. Submission Process
+   - Email to editor at info@apera.org.au
+
+---
+
+DELTAS FOUND: 4
+===============
+
+1. RELAXATION – Research Notes Pathway
+   - FIELD_SKILL assumes full IMRaD structure as default
+   - IJES explicitly offers 2,000–3,000 word research notes with structured but condensed requirements (lit overview, RQ, methods, findings, contributions, limitations)
+   - Classification: PRACTICE ONLY (journal-formalized alternative pathway, not a violation of FIELD_SKILL)
+
+2. ENFORCED – Word Limits (Hard Constraint)
+   - FIELD_SKILL explicitly does NOT specify word limits
+   - IJES enforces strict limits: 5,000–8,000 (full), 2,000–3,000 (notes)
+   - Classification: ENFORCED (guideline)
+   - Impact: Authors accustomed to flexible length must condense
+
+3. ENFORCED – AI Usage Policy (Hard Constraint)
+   - FIELD_SKILL does not address AI usage
+   - IJES explicitly restricts AI to grammar/spelling only; text generation prohibited
+   - Classification: ENFORCED (guideline)
+   - Impact: Desk rejection risk if policy violated; high relevance given 2026 submission landscape
+
+4. ENFORCED – Full Author Names in References (Hard Constraint)
+   - FIELD_SKILL does not specify name format in reference lists
+   - IJES requires full names (not initials); abbreviations only in in-text citations
+   - Classification: ENFORCED (formatting detail)
+   - Impact: Reference list audit required for compliance
+
+---
+
+FIELD_SKILL OVERRIDE STATUS
+============================
+
+None. FIELD_SKILL specifies that it does NOT specify word limits, AI policy, or reference name formatting. IJES guidelines fill those gaps without contradicting FIELD_SKILL norms on voice, structure, argumentation, or methods conventions.
+
+---
+
+ACCESS LIMITATIONS & NOTES
+===========================
+
+- Full-text articles: 0 accessible (InformIT institutional login required; IERA site offline)
+- Article spot-check coverage: Incomplete (0 of target 10–15 articles reviewed)
+- Reason: This is a low-tier (ABS 1) journal published by a regional association. Public access is limited to subscriber institutions. Author guidelines were successfully extracted from the official APERA website.
+
+- Limitations on skill completeness: Cannot confirm or refute FIELD_SKILL deviations in voice, hedging intensity, discussion conventions, or structural details beyond what hard constraints reveal. Recommendation: Update this skill if InformIT access becomes available, and spot-check 5–10 articles to validate assumed FIELD_SKILL compliance.
+
+---
+
+CLASSIFICATION SUMMARY
+======================
+
+ENFORCED (stated in guidelines AND observed in practice, or stated with no contradictory evidence):
+  - Manuscript length (5,000–8,000; 2,000–3,000 for notes)
+  - Abstract format (~150 words)
+  - Harvard citation style with full author names
+  - Font: Times New Roman, 12-point
+  - AI usage restrictions (grammar/spelling only)
+
+RELAXATION (journal formally permits a shorter or less demanding alternative):
+  - Research notes pathway (2,000–3,000 words vs. standard 5,000–8,000 full article)
+
+FIELD DEFAULT (no delta observed; FIELD_SKILL norms assumed to apply):
+  - Voice and register (formal, academic, first-person plural acceptable)
+  - Methods conventions (detailed, reproducible, with robustness discussion)
+  - Results reporting (tables/figures + prose narration)
+  - Discussion norms (revisit contributions, include limitations, future research)
+  - Citation density (high in intro/lit review, low in results)
+  - Hedging and epistemic caution (moderate to high)
+
+---
+
+REPORT METADATA
+===============
+Date Generated: 2026-07-02
+Methodology: Web search, WebFetch, author guideline extraction, attempted full-text access via multiple pathways
+Confidence Level: Medium (hard constraints fully documented; structural/stylistic deltas unconfirmed due to access restrictions)
+Recommended Next Step: If institutional InformIT access is available, spot-check 5–10 recent articles and update FIELD_SKILL compliance assessment.

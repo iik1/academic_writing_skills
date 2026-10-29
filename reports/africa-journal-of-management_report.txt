@@ -1,0 +1,201 @@
+JOURNAL SKILL RESEARCH REPORT
+================================================================================
+
+Journal Name: Africa Journal of Management (AJOM)
+Slug: africa-journal-of-management
+ABS Rating: 2
+Field: ETHICS-CSR-MAN
+Publisher: Taylor & Francis / NISC Pty (Ltd)
+
+================================================================================
+RESEARCH SUMMARY
+================================================================================
+
+Research Phase: Delta detector (identify deltas from mgmt-field-writing-style baseline)
+Research Method: Web search + document fetch attempts
+Access Environment: Non-institutional (no EZProxy); Taylor & Francis paywall blocked most full-text content
+
+================================================================================
+ARTICLE ACCESS AND SPOT-CHECK
+================================================================================
+
+Target: 10-15 distinct articles across multiple issues/years
+Achieved: 5-6 articles (metadata/abstracts only; full text inaccessible)
+
+Articles identified:
+  1. Monkge et al. (2025) "Corporate sustainability in Africa: A review, trends and future direction"
+     - Type: Systematic review (107 studies)
+     - Issue: Volume 11, Issue 1 (2025)
+     - Access: Metadata + abstract summary via search results
+
+  2. Littlewood et al. (2026) "Social entrepreneurship in Africa: A systematic multilevel literature review"
+     - Type: Systematic multilevel review
+     - Issue: Volume 11, Issue 2 (2026)
+     - Access: Metadata via search; full text 403 Forbidden
+
+  3. Samba et al. (2025) "Ethnic leadership in Africa: A systematic literature review"
+     - Type: Systematic review
+     - Issue: Volume 11 (2025)
+     - Access: Metadata via search
+
+  4. Nwehfor et al. (2025) "Advancing scholarship where Africa-based scholars dominate: A systematic review of migrant entrepreneurship in Africa"
+     - Type: Systematic review
+     - Issue: Volume 11 (2025)
+     - Access: Metadata via search
+
+  5. Dike & Owusu (2024) "China-Africa relationships: A systematic literature review and future directions"
+     - Type: Systematic literature review
+     - Issue: Volume 10, Issue 4 (2024)
+     - Access: Metadata via search; referenced via Web search
+
+WHY LIMITED TO 5-6 ARTICLES:
+  - Taylor & Francis website (tandfonline.com) blocks article access with 403 Forbidden unless authenticated
+  - ResearchGate, Academia.edu, and other preprint repositories: 403 Forbidden
+  - Google Scholar: No full-text PDFs available via search results
+  - SSRN: No dedicated Africa Journal of Management preprints
+  - No institutional access via EZProxy or university proxy
+  - All accessible articles from Volume 11 were systematic reviews; no quantitative or qualitative empirical work accessible for comparison
+
+VERDICT: Sample size smaller than target (5-6 vs. 10-15). All accessible articles were reviews. Unable to assess empirical quantitative, qualitative, or theoretical articles. Research quality confidence: MEDIUM (scope/emphasis clear, format/style confidence lower due to full-text inaccessibility).
+
+================================================================================
+HARD CONSTRAINTS IDENTIFIED
+================================================================================
+
+Structure:
+  - Follows management field baseline: quantitative deductive, qualitative inductive, theoretical, and integrative review structures apply
+  - Journal explicitly welcomes empirical and theoretical work
+  - No journal-specific deviations from field baseline observed
+
+Length:
+  - NOT EXPLICITLY STATED in accessible sources
+  - Taylor & Francis standard: typically 8,000–10,000 words; AJOM limit unconfirmed
+
+Abstract:
+  - Likely 150–250 words (per MGMT baseline and T&F standard)
+  - Likely unstructured (journal scope silent; no "structured abstract" requirement identified)
+  - No citations in abstract (MGMT field default)
+
+Citations:
+  - APA style (standard for T&F and management)
+  - No explicit deviations from MGMT baseline
+
+Headings:
+  - Standard MGMT field pattern (no journal-specific override identified)
+
+Tables and Figures:
+  - Standard T&F practice (numbered, captioned); no journal-specific requirements identified
+
+Explicit Prohibitions:
+  - Original work required; no duplication of prior publications (standard for all journals)
+
+================================================================================
+OBSERVED DELTAS FROM FIELD_SKILL
+================================================================================
+
+1. AFRICA-CENTRIC AND INDIGENOUS KNOWLEDGE INTEGRATION (PRACTICE ONLY / JOURNAL EMPHASIS)
+   Classification: PRACTICE ONLY (observed emphasis; not a format delta; not contradicted by field baseline)
+
+   The journal's charter explicitly requires research that "links" Western management theories with Africa's indigenous knowledge systems, wisdom, and current realities. This is a **thematic/scope delta**, not a format delta:
+
+   - Articles must center Africa's institutional, economic, cultural, environmental realities as PRIMARY focus, not as a test case for Western theories
+   - Engagement with African philosophical frameworks (e.g., Ubuntu) is encouraged and expected when relevant
+   - Comparative or integrative theoretical framing (West-Africa) is valued
+   - MGMT field baseline already supports this; AJOM simply emphasizes it as a requirement
+
+   Impact on writer: Topic selection and theoretical framing must explicitly position Africa as focal point. Contextual detail is not optional.
+
+2. ARTICLE TYPE DISTRIBUTION (PRACTICE ONLY / JOURNAL EMPHASIS)
+   Classification: PRACTICE ONLY (observed pattern; field supports it; no contradiction)
+
+   All accessible articles were integrative/systematic reviews. This is not a structural requirement (field baseline supports reviews) but may reflect editorial preference for synthesis-driven work.
+
+   Impact on writer: If submitting an empirical study, position it within broader African management literature and synthesis agenda.
+
+3. METHODOLOGICAL FLEXIBILITY (RELAXATION of ABS 4*/4 baseline)
+   Classification: RELAXATION (lower-tier journal; pragmatic about design constraints in African contexts)
+
+   As an ABS 2 journal, AJOM explicitly welcomes:
+   - Mixed-methods approaches that incorporate African perspectives
+   - Qualitative, ethnographic, and exploratory designs
+   - No evidence of strict identification strategy requirements (IV, diff-in-diff, PSM) as enforced in top-tier outlets
+
+   MGMT field baseline emphasizes robust identification; AJOM is more accommodating of contextual constraints and exploratory work.
+
+   Impact on writer: If using observational, case-based, or exploratory designs, frame them as appropriate to African institutional contexts, not as design limitations.
+
+================================================================================
+DIMENSIONS WITH NO DELTA (FIELD DEFAULT)
+================================================================================
+
+- Voice and person (first-person plural "we"; selective passive voice)
+- Tone and hedging (academic but direct; appropriate epistemic qualification)
+- Logical architecture (sections advance argument; theory builds to hypotheses/propositions)
+- Hypotheses vs. propositions (empirical work uses H; theoretical uses P)
+- Methods reporting (past tense, precision, robustness checks for quant; saturation for qual)
+- Results/Findings structure (tables + prose for quant; categories + quotes for qual)
+- Discussion structure (summary → theory engagement → limitations → future directions)
+- Citation density (dense intro/theory; sparse results; moderate discussion)
+- Literature engagement (critical, not merely approving; use of footnotes for tangents)
+- Reference list length (40–80 expected; reviews may exceed 100—consistent with field)
+- Abstract structure (no citations; 150–250 words; no structured/unstructured override from field)
+- Conclusion structure (brief restatement; no new findings; may include broader significance)
+
+================================================================================
+FIELD_SKILL OVERRIDES (Hard Constraints that conflict with field baseline)
+================================================================================
+
+None identified. Africa Journal of Management does not override MGMT field conventions; it emphasizes Africa-centric framing and indigenous knowledge integration (scope delta, not format delta), and relaxes some rigor requirements (ABS 2 journal), but does not contradict field structure, voice, or argumentation norms.
+
+================================================================================
+EARLY STOP AND CONFIDENCE ASSESSMENT
+================================================================================
+
+Early Stop Triggered: YES
+
+Reason: Full-text access to Africa Journal of Management articles is behind Taylor & Francis paywall. Public submission guidelines are not displayed on the journal's publisher website (accessible only via Editorial Manager at submission). Research reached a practical access barrier after exhausting:
+  - Direct Taylor & Francis website access (403 Forbidden)
+  - ResearchGate, Academia.edu preprint repositories (403 Forbidden or empty)
+  - Google Scholar full-text search (no PDFs found)
+  - SSRN (no Africa Journal of Management preprints)
+  - Institutional/university repositories (not available in this environment)
+  - Author faculty pages and working paper series (not found)
+
+No additional access methods available without institutional affiliation or paid subscription.
+
+Confidence Levels:
+  - Journal scope and thematic emphasis (Africa-centric, indigenous knowledge): HIGH (explicitly stated in journal charter and search results)
+  - Format and structural deltas: MEDIUM (no full-text articles reviewed; relying on field baseline and search result metadata)
+  - Stylistic and hedging patterns: LOW (cannot verify from full text)
+  - Specific word limits and abstract format: LOW (not stated in public sources; accessible only via Editorial Manager)
+  - Common pitfalls and writing advice: MEDIUM (based on journal scope and editorial emphasis, not direct observation of rejected or accepted submissions)
+
+RECOMMENDATION: This skill provides reliable guidance on **journal scope, thematic emphasis, and general format** (which follows field baseline). **Before final submission**, authors should consult the official Editorial Manager submission form for precise formatting constraints (word limits, abstract structure, heading requirements) that are not publicly documented.
+
+================================================================================
+DELTAS FOUND
+================================================================================
+
+Number of deltas: 3 major classifications (not counting sub-dimensions)
+
+Delta categories:
+  1. Africa-centric and indigenous knowledge integration (PRACTICE ONLY / scope delta)
+  2. Integrative review emphasis (PRACTICE ONLY / type distribution)
+  3. Methodological flexibility (RELAXATION / lower-tier journal allowance)
+
+Structural/format deltas: 0 (journal follows MGMT field baseline entirely)
+Citation and voice deltas: 0 (journal follows MGMT field baseline)
+Hedging and epistemic stance deltas: 0 (journal follows MGMT field baseline)
+
+================================================================================
+RESEARCH COMPLETED
+================================================================================
+
+Date: 2026-07-02
+Total research time: ~2 hours (web search + fetch attempts + skill compilation)
+Sources consulted: 30+ web searches + 10+ fetch attempts
+Documents successfully read: FIELD_SKILL baseline + metadata abstracts
+Skill file saved: /skills/mgmt/africa-journal-of-management_SKILL.md
+Report file saved: /reports/africa-journal-of-management_report.txt
+
+================================================================================

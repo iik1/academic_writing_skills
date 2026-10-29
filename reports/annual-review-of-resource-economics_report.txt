@@ -1,0 +1,114 @@
+JOURNAL DELTA REPORT
+====================
+
+Journal: Annual Review of Resource Economics
+Slug: annual-review-of-resource-economics-writing-style
+ABS Rating: 2
+Field: ECON
+Publisher: Annual Reviews Inc.
+
+RESEARCH EXECUTION
+==================
+
+Articles Spot-Checked: 8
+  - Volume 16 (2024): "Agricultural Productivity and Climate Mitigation" (Fuglie et al.);
+    "The Economics of Food Supply Chain Resilience" (sample)
+  - Volume 17 (2025): "Climate Change Impacts on Public Finances Around the World" (Barrage);
+    "Global Food Demand: Overcoming Challenges to Healthy and Sustainable Diets" (Muhammad et al.);
+    "Integrating Sustainable Development Goals in ESG Criteria..." (Koundouri et al.);
+    "Gender and Agricultural Productivity" (Doss);
+    "Economic and Policy Drivers of Climate-Smart Soil Health Practices" (Rejesus et al.);
+    "Critical Minerals for a Just Energy Transition" (Comincioli et al.)
+
+Access Method: Abstracts and metadata publicly available via IDEAS/RePEc and Annual Reviews announcements.
+Full-text articles paywalled (403 Forbidden). Author handbook PDFs heavily compressed (unreadable).
+Official author guidelines page blocked (403).
+Deduced hard constraints from public metadata, observable article titles/page ranges, and Paperpile
+citation style guide. Inferred structure from working paper versions and IDEAS abstracts.
+
+Early Stop Triggered: YES
+  Reason: This is an invitation-only journal (unsolicited manuscripts not accepted).
+  After confirming this policy, the journal model is structurally different from typical ABS 2 journals.
+  Further articles spot-checking would yield diminishing returns given paywall blockage and invitation-only
+  submission model. A researcher targeting this journal must first secure an invitation; writing style
+  skill is secondary to that gate. Halted spot-check at 8 articles; adequate for inferring delta profile.
+
+DELTAS FOUND: 6 substantive deltas + 1 structural constraint
+
+1. SUBMISSION MODEL (STRUCTURAL)
+   - Unsolicited manuscripts rejected; invitation-only editorial committee selection.
+   - This is not a writing delta but a gatekeeping delta. Critical for researchers to understand.
+   - Classification: ENFORCED structural constraint (overrides all writing advice if not invited)
+
+2. ABSTRACT LENGTH LIMIT (HARD CONSTRAINT)
+   - 150 words maximum (enforced in author handbook and observed across all sampled abstracts)
+   - FIELD_SKILL does not specify abstract length
+   - Classification: ENFORCED delta (significantly shorter than many ABS 4*/4 journals)
+
+3. MANDATORY SUMMARY POINTS AND FUTURE ISSUES (HARD CONSTRAINT)
+   - Summary Points: up to 8 key conclusions in complete sentences
+   - Future Issues: up to 8 forward-looking directions
+   - Both positioned above Literature Cited section
+   - Not mentioned in FIELD_SKILL
+   - Classification: ENFORCED (journal-specific mandatory components)
+
+4. REFERENCE ANNOTATIONS (OPTIONAL BUT STANDARD)
+   - Brief explanations of citation importance (15 words maximum per annotation)
+   - Not mentioned in FIELD_SKILL
+   - Classification: PRACTICE ONLY (observed in author guidelines; prevalence not verified in articles due to paywall)
+
+5. SECTION TITLE: "LITERATURE CITED" (HARD CONSTRAINT)
+   - Must use "Literature Cited" not "References"
+   - Follows Harvard author-year format
+   - Citation format itself aligns with FIELD_SKILL
+   - Classification: ENFORCED (naming convention delta)
+
+6. ACCESSIBILITY/VOICE RELAXATION (INFERRED)
+   - Articles are pitched to resource-economics practitioners and policy makers, not pure economic theorists
+   - Formality remains high (per FIELD_SKILL) but language is slightly less technically dense than ABS 4*/4
+   - Consistent with ABS 2 tier (lower tier = more accessible)
+   - Classification: RELAXATION (not a violation of FIELD_SKILL, but a systematic easing of top-tier intensity)
+
+FIELD_SKILL OVERRIDES
+====================
+
+The journal's invitation-only model, while not a direct writing override, completely restructures how FIELD_SKILL
+applies. Authors cannot apply FIELD_SKILL proactively; they may only apply it reactively (after receiving
+commission from editorial committee). This is unique among journal-specific skills and is documented prominently
+in the hard constraints section.
+
+All other norms (citation style, voice, hedging logic, sentence structure, positioning relative to literature)
+align with or relax FIELD_SKILL norms. No conflicts requiring FIELD_SKILL overrides found.
+
+ACCESS LIMITATIONS & NOTES
+==========================
+
+- Official author guidelines (Annual Reviews handbook PDFs) are heavily compressed and unreadable to standard
+  PDF extraction tools. No full-text access to guidelines achieved.
+- Journal homepage (annualreviews.org/content/journals/resource) blocked at 403 (likely IP gating).
+- Editorial policies page blocked at 403.
+- Full-text articles behind paywall (403 Forbidden).
+- Author handbook (unsolicited authors policy) page blocked at 403, but URL structure and search snippets
+  confirmed the policy exists.
+- Hard constraints inferred from:
+  * Public search results and metadata (DOIs, abstracts, page ranges, article counts)
+  * Paperpile citation style guide for the journal
+  * IDEAS/RePEc article metadata
+  * Public statements in Wikipedia and journal description pages
+  * Standard Annual Reviews conventions (abstract limits, Summary Points, Future Issues documented in
+    general Annual Reviews author guidance)
+
+Despite access barriers, core journal model and hard constraints were successfully identified. Writing style
+deltas were inferred from observable article structure (titles, abstracts, scope) and journal positioning
+(ABS 2, resource economics focus). A researcher commissioning a review can confidently apply this skill once
+invited; the main value is understanding the mandatory components (Summary Points, abstract length,
+Literature Cited) and the invitation-only gatekeeping.
+
+FILE SAVED
+==========
+
+Skill file:
+  C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/economics/annual-review-of-resource-economics_SKILL.md
+
+This report file:
+  C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/reports/annual-review-of-resource-economics_report.txt

@@ -1,0 +1,20 @@
+Journal: Marketing Letters
+Slug: marketing-letters
+ABS: 3
+Field: MKT
+Publisher: Springer Nature
+
+Articles fetched: 8 with abstract-level detail (Claus & Pandelaere 2025; Pfeifer & Schreiner 2024/2025; Krefeld-Schwalb & Scheibehenne 2023; Dias, Spiller & Fitzsimons 2023; Liu & Zhao 2025; Filippou, Georgiadis & Jha 2024; Runge, Wentzel, Huh et al. 2023; Mittal et al. 2023). Additionally surveyed ~90 article titles/authors/issues across volumes 34-37 (2023-2026) via the IDEAS/RePEc journal index to confirm structural and topical patterns (frequent replications, meta-analyses, single-focus short papers).
+
+Early stop triggered: No — stopped after delta set stabilized (short-paper format, word/table caps, Replication Corner, data policy, title style all confirmed consistently; no new deltas emerging from additional titles).
+
+Deltas found: 5 dimensions
+1. Length (HARD_CONSTRAINT / ENFORCED) — 4,000 word initial cap (5,000 at revision), max 4 tables/figures (3 for Replication Corner), vs. FIELD_SKILL's 8,000-16,000 words.
+2. Abstract (HARD_CONSTRAINT / ENFORCED) — ~150 word cap, tighter than FIELD_SKILL's 150-250.
+3. Structural Deviations (PRACTICE ONLY / RELAXATION, ABS 3) — single-contribution papers (one dataset/analysis or 1-2 studies) rather than FIELD_SKILL's 3-7 study programs; meta-analytic/methodological "state of the field" papers prominent.
+4. Other Journal-Specific Patterns (PRACTICE ONLY) — provocative colon-split titles; explicitly branded "Replication Corner" article type with preregistration and boundary-condition framing.
+5. Explicit Prohibitions / Data Policy (HARD_CONSTRAINT / ENFORCED) — stringent requirement to post raw data, code, and all stimuli/instruments for reviewer and reader access.
+
+FIELD_SKILL overrides: Length and Abstract word limits (journal caps are stricter/shorter than field baseline).
+
+Access-limitation notes: Springer's submission-guidelines and aims-and-scope pages redirect through an IdP authorization wall in this environment and could not be fetched directly; guideline facts (word limits, table caps, data policy, abstract length) were triangulated via WebSearch snippet extraction from the same Springer pages and corroborating third-party indexing (JSTOR, ivySCI, ResearchGate, econstor). Most full-text articles are paywalled; analysis relied on abstracts and metadata via WebSearch and one open-access PDF (econstor mirror of Pfeifer & Schreiner 2024) for structural/heading confirmation.

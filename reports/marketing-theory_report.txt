@@ -1,0 +1,27 @@
+Journal: Marketing Theory
+Slug: marketing-theory
+ABS: 3
+Field: MKT
+
+Articles fetched: 9 (1 full text, 8 abstract/front-matter via search snippets)
+Early stop triggered: No — sample stabilized (deltas converged) after ~9 items; access chain (SAGE dynamic pages block WebFetch scraping) exhausted for further full-text retrieval, so relied on WebSearch-surfaced abstracts and one successfully retrieved open-access PDF (McVey, Gurrieri & Tyler 2025, CC-BY licensed).
+
+Deltas found: 5 dimensions
+ - Voice and Register: critical/theory-building tone dominant, contribution-numbered argument structure rather than hypothesis-driven; polemical/normative argument treated as legitimate (ENFORCED via aims & scope + confirmed across sample).
+ - Structural Deviations: no Study1/Study2 + numbered-hypothesis template observed (RELAXATION); distinct "think piece" 2,000-3,000 word format (GUIDELINE+PRACTICE); dedicated Book Review section (GUIDELINE ONLY); periodic editorial/metrics pieces (PRACTICE ONLY, single observation).
+ - Other Journal-Specific Patterns: qualitative/institutional-logics methods common in continuous prose; larger reference lists (~115 in one full-text sample) than FIELD_SKILL norm; end-of-article author bios.
+
+FIELD_SKILL overrides (Hard Constraints beyond field baseline):
+ - Word limits: 8,000 words full papers (incl. references); 2,000-3,000 "think pieces"; 1,500-3,000 book reviews — narrower than FIELD_SKILL's 8,000-16,000 range.
+ - Abstract: 100-150 words (narrower than FIELD_SKILL 150-250), 5-8 keywords required.
+ - Citation style: Sage Harvard (author-date), not APA as implied by FIELD_SKILL.
+ - Explicit prohibition on integrative/systematic reviews; must be theory-building or problematizing reviews only.
+ - Double-anonymized review with separate Title Page required.
+ - AI chatbots barred from authorship; third-party submissions may be refused.
+
+Access-limitation notes:
+ - journals.sagepub.com pages render dynamically; WebFetch on the HTML pages returned only nav/footer content for every attempt (TOC pages, home page, article abstract pages all failed to yield body content).
+ - The official submission-guidelines PDF (linked from sagepub.com) fetched successfully and was comprehensive — used as the primary Hard Constraints source.
+ - One full-text open-access (CC-BY) article PDF was retrieved directly and read in full, providing strong evidence for structure/voice/citation-density observations.
+ - All other article evidence came from WebSearch result snippets (titles, authors, DOIs, abstract excerpts) rather than direct page fetches, since SAGE abstract pages could not be scraped via WebFetch in this environment.
+ - No existing marketing-theory skill file was found in skills/**/*.md prior to this run (dedupe check negative).

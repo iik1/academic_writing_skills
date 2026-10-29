@@ -1,0 +1,23 @@
+Journal: International Journal of Banking, Accounting and Finance
+Slug: international-journal-of-banking-accounting-and-finance
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 7 abstracts/summaries read (full or near-full) via RePEc/IDEAS and search-engine extraction, plus a title-level scan of ~40 additional articles across 2017-2025 issues (Volumes 8-15) via the RePEc journal index and the Inderscience "forthcoming articles" page.
+
+Early stop triggered: No (proceeded through full good-faith spot-check given ABS 2 tier and thin access chain).
+
+Deltas found: 0 stylistic deltas from FIELD_SKILL. All observed dimensions (voice, argumentation, methods, results reporting, hedging, citation style) follow FIELD_SKILL defaults. One RELAXATION noted: word/page limit (5,000-7,000 words / 20 pages) is tighter than typical ABS 4*/4 finance article lengths - this is a scope relaxation, not a style deviation.
+
+FIELD_SKILL overrides: None conflicting. Hard constraints layered on top of FIELD_SKILL (publisher-wide Inderscience rules, not FIELD_SKILL contradictions):
+- Word limit 5,000-7,000 (excl. figures); 20-page ceiling
+- Abstract ~100 words, max 150
+- Harvard author-date citation style
+- Blinded manuscript file (no author names/affiliations/acknowledgements in main text)
+- Figures placed at end of paper, black-and-white for print
+- Footnotes discouraged; short notes only, placed after reference list
+- UK English required
+- International-context requirement (no ambiguous country/region terms, spell out acronyms, identify currency by nationality)
+- Conference papers must be >50% new content
+
+Access limitation notes: Inderscience Online (inderscienceonline.com), the platform hosting full text and tables of contents, returns HTTP 403 Forbidden for unauthenticated automated requests. Could not retrieve full-text articles or the journal's own TOC pages directly. Relied on: (1) the generic Inderscience publisher-wide author guidelines PDF (www.inderscience.com/www/authorguide.pdf), confirmed to apply uniformly across Inderscience journals with no IJBAAF-specific supplement found; (2) RePEc/IDEAS journal index for article titles/authors across 2017-2025; (3) Inderscience's "forthcoming articles" page for abstract-level summaries of 4 in-press papers; (4) search-engine-extracted abstract summaries for a handful of published articles. No dedicated IJBAAF style guide beyond the generic publisher document was located, consistent with this being a smaller ABS 2 title.

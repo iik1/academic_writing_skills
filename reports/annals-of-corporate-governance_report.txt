@@ -1,0 +1,39 @@
+Journal: Annals of Corporate Governance
+Slug: annals-of-corporate-governance
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 5 (abstracts/metadata only; full text paywalled across all sources tried).
+  Also reviewed the full RePEc/IDEAS issue index (~32 issues, 2016-2025) for structural pattern confirmation.
+
+Early stop triggered: No — dedupe check found no existing skill file for this journal; proceeded through full workflow.
+
+Deltas found: 4 dimensions
+  1. Structural Deviations (ENFORCED) — journal publishes single-topic survey/tutorial monographs
+     (50-100+ pages) per issue, not short original-research articles. No standard Data/Results/
+     Robustness sections observed; structure is thematic literature synthesis + future-research-gaps
+     closing section.
+  2. Two-stage submission process (ENFORCED per guidelines) — abstract + table of contents must be
+     pre-approved by editor-in-chief/publisher before a full draft is written.
+  3. Citation punctuation (ENFORCED per guidelines) — house style uses square brackets [Author, Year]
+     rather than FIELD_SKILL's parenthetical (Author, Year).
+  4. Citation density (PRACTICE ONLY / inferred from genre, not directly confirmed in full text) —
+     likely sustained throughout rather than concentrated in the introduction, given survey format.
+
+Voice/register and hedging conventions: could not be verified against FIELD_SKILL because full text
+was inaccessible everywhere attempted (publisher site 403, no OA full-text mirrors found). Marked as
+FIELD DEFAULT / unconfirmed rather than asserting a delta.
+
+FIELD_SKILL overrides: length norms (monograph-length, not article-length) and structure (survey
+monograph, not empirical hypothesis-testing article) are the primary overrides. Citation punctuation
+(brackets vs. parentheses) also overrides.
+
+Access-limitation notes:
+- nowpublishers.com returns HTTP 403 to automated WebFetch (both AuthorInstructions and journal
+  landing pages). Guideline content was recovered via WebSearch's cached/extracted summary instead.
+- Emerald.com (co-distributor) was not directly queried beyond search snippets.
+- No full-text PDFs were accessible via SSRN, ResearchGate, arXiv, or open-access mirrors for this
+  journal's monographs (they are commercial monograph-length works, not typical OA-friendly articles).
+- Sample size (5 monographs with abstract-level detail, plus a 32-issue title/metadata index) is a
+  reasonable good-faith effort for this thin-access ABS 2 title, per task instructions allowing a
+  smaller sample when the access chain is thin.

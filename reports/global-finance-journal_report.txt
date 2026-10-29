@@ -1,0 +1,22 @@
+Journal: Global Finance Journal
+Slug: global-finance-journal
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 8 with full abstract/JEL/keyword detail (RePEc/IDEAS), plus ~15 additional titles surveyed for topical pattern (volumes 47, 55, 56, 58, 61, 62, 63, 68, 69, 70, 71; years 2021, 2023-2026)
+Early stop triggered: No (thin public full-text access, documented as limitation rather than early stop; good-faith ABS-2-appropriate sample achieved)
+
+Deltas found: 1 dimension (Other Journal-Specific Patterns) - low-confidence/PRACTICE ONLY note on title framing and topical focus (global/emerging-market/fintech/ESG emphasis), not a prose-mechanics delta. All other writing-mechanics dimensions (voice, sentence style, argumentation, methods, results reporting, discussion/conclusion, citation practice, hedging) follow FIELD_SKILL norm with no confirmed deviation.
+
+FIELD_SKILL overrides: none (no confirmed writing-style override; only submission-process hard constraints noted, which do not conflict with FIELD_SKILL prose conventions)
+
+Hard constraints identified (submission-process, not prose style):
+- Double-anonymized (double-blind) peer review required
+- US$150 submission fee at time of submission
+- Highlights required: 3-5 bullet points, max 85 characters each (standard Elsevier-wide boilerplate)
+- Editable source files required (.doc/.docx or .tex); PDF not accepted as source
+
+Access-limitation notes:
+- ScienceDirect guide-for-authors page and article full-text pages returned HTTP 403 on direct WebFetch; all guideline content reconstructed via search-engine snippet extraction.
+- RePEc/IDEAS provided reliable abstract + JEL + keyword data for 8 articles across 2021-2025 volumes, sufficient to confirm standard field-consistent metadata structure (unstructured abstract, separate JEL/keyword fields).
+- Full-text methods/results/tables were not accessible for any article, so statistical reporting, citation density, and table-design conventions could not be independently verified beyond FIELD_SKILL defaults; skill notes these as "Follows FIELD_SKILL norm" based on absence of contradicting evidence rather than positive confirmation from full text.

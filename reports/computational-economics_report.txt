@@ -1,0 +1,21 @@
+Journal: Computational Economics
+Slug: computational-economics
+ABS: 1
+Field: ECON
+
+Articles fetched: 0 full-text; ~15+ distinct article titles/topics identified via WebSearch snippets and IDEAS/RePEc journal listing (series kap:compec). No article abstract or full text was directly accessible without an institutional login.
+
+Early stop triggered: No (dedupe check found no existing skill; proceeded through all phases). However, the article spot-check phase hit a hard access wall: every link.springer.com/article and link.springer.com/journal page (submission guidelines, aims and scope, and all sampled articles) 303-redirected to Springer's IDP login wall (idp.springer.com/authorize) and could not be fetched. RePEc (ideas.repec.org) mirrors the journal's table of contents/titles but not abstracts for this series (article-level page attempted returned 404). scispace.com template mirror returned 403.
+
+Deltas found: 2 (both low-confidence / PRACTICE ONLY or GUIDELINE ONLY, not FIELD-overriding)
+  1. Structural Deviations — PRACTICE ONLY, low confidence: recent published titles skew heavily toward applied finance/ML forecasting papers with method-first titles ("Hybrid...", "Novel...", "Enhanced..."), suggesting method-led framing rather than FIELD_SKILL's economic-question-led introduction pattern. Could not confirm against actual introduction/abstract text.
+  2. Other Journal-Specific Patterns — GUIDELINE ONLY: generic Springer Nature data/code availability statement policy applies (not journal-specific, but worth noting for authors).
+
+FIELD_SKILL overrides: none confirmed (Hard Constraints sections are mostly "not independently verifiable" rather than confirmed overrides).
+
+Access-limitation notes:
+- All Springer Nature Link pages (link.springer.com/journal/10614/submission-guidelines, /aims-and-scope, /how-to-publish-with-us, and every /article/10.1007/s10614-... URL sampled) redirect via HTTP 303 to idp.springer.com login and cannot be fetched by WebFetch in this environment.
+- WebSearch snippets provided partial scope/aims text and article titles but not full abstracts, methods sections, or citation-style evidence.
+- IDEAS/RePEc (kap:compec series) provided a reliable table-of-contents listing of recent issues/titles but no abstracts; a direct RePEc article-level URL guess returned 404.
+- scispace.com's Springer template mirror page returned 403 Forbidden.
+- Given the ABS 1 tier and the instructions' allowance for a smaller, honestly-documented sample under a thin access chain, the skill was written conservatively: most Hard Constraints and Observed Deltas sections state "not independently verifiable" or are labeled low-confidence rather than asserting unconfirmed norms as fact.

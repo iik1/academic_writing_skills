@@ -1,0 +1,26 @@
+Journal: Australian Economic Papers
+Slug: australian-economic-papers
+ABS: 1
+Field: ECON
+
+Articles fetched: 10 (abstracts/titles/topics via WebSearch snippets and RePEc listing; full text was paywalled — direct WebFetch to onlinelibrary.wiley.com returned HTTP 402 Payment Required, so all article and guidelines content was obtained via WebSearch snippet extraction and the RePEc/IDEAS series page https://ideas.repec.org/s/bla/ausecp.html)
+
+Early stop triggered: No — reached target sample of 10 distinct articles across 2025-2026 issues.
+
+Deltas found: 2 dimensions
+  1. Structural Deviations — journal defines four distinct manuscript types (Original Article 12,000 words, Short Note 5,000 words, Survey Article, Policy Analysis 8,000 words) with different scope/length expectations; FIELD_SKILL's generic structure applies most directly to Original Article. Policy Analysis pieces (e.g., Nygaard 2026) end in concrete policy prescriptions rather than a standard research-agenda conclusion (PRACTICE ONLY, single example).
+  2. Other Journal-Specific Patterns — submission mix skews toward international (often Chinese-authored/China-focused) empirical econometrics alongside a smaller Australian policy/housing/labour stream; noted as context, not a style delta (FIELD DEFAULT).
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Manuscript type system with type-specific word limits (12,000 / 5,000 / 8,000 words); no equivalent in FIELD_SKILL.
+  - Each table/figure counts as 200 words against the word limit.
+  - Strict limit of 6 tables and/or figures total.
+  - Free Format submission (APA style only required/enforced at acceptance, not initial submission).
+  - Double-anonymised review requiring separate title page.
+  - Pre-review language/grammar quality gate — papers below standard are returned before external review.
+  - Requirement to nominate at least 3 reviewers, none from authors' own institution(s).
+
+Access-limitation notes:
+  - Wiley's onlinelibrary.wiley.com pages returned HTTP 402 Payment Required on direct WebFetch; all guideline and article content was reconstructed from WebSearch result snippets (which quote directly from the guidelines page and abstracts) and the RePEc/IDEAS article index.
+  - No full-text articles were read; spot-check relied on titles, abstracts, and (for one article) explicit manuscript-type labeling ("Policy Analysis") visible in search snippets/RePEc metadata.
+  - Abstract word-limit specifics and precise APA citation formatting details were not confirmed (guidelines page did not surface a numeric abstract limit in available snippets).

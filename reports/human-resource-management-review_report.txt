@@ -1,0 +1,18 @@
+Journal: Human Resource Management Review
+Slug: human-resource-management-review
+ABS: 3
+Field: HRM&EMP
+
+Articles fetched: 6 (title/abstract-snippet level; full text paywalled via ScienceDirect, WebFetch returned 403 on all ScienceDirect URLs attempted)
+Early stop triggered: No — access chain exhausted (ScienceDirect blocks WebFetch with 403; relied on WebSearch snippets and one secondary aggregator, scholar9.com, which was fetchable)
+
+Deltas found: 2 major
+1. Structural Deviations (ENFORCED) — HRMR is theory-only; does not publish empirical/hypothesis-testing studies. No Methods/Results section spine. This is the single most important delta and overrides FIELD_SKILL's assumed IMRaD-with-theory structure.
+2. Other Journal-Specific Patterns / generalizability requirement (ENFORCED) — single-firm/industry/country papers are out of scope entirely (not just a limitations caveat), stronger than FIELD_SKILL's general contextual-boundedness treatment.
+
+FIELD_SKILL overrides: Yes — structure dimension is fully overridden (no empirical methods/results sections apply to this journal at all).
+
+Access-limitation notes:
+- ScienceDirect guide-for-authors page and all individual article pages returned 403 via WebFetch; guideline content and article observations are based on WebSearch result snippets and one accessible secondary aggregator (scholar9.com).
+- No structured-abstract, word-limit, or citation-style specifics could be confirmed from accessible sources; these sections in the skill are marked "not specified in accessible guideline text" rather than fabricated.
+- Spot-check sample is title/abstract-snippet level only (no full text access), consistent with prohibited-source guidance in the task instructions.

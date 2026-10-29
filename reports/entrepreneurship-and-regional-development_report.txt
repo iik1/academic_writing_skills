@@ -1,0 +1,44 @@
+Journal: Entrepreneurship and Regional Development
+Slug: entrepreneurship-and-regional-development
+ABS: 3
+Field: ENT-SBM
+
+Articles fetched: 8 distinct articles/editorials (abstract/front-matter level only; full text
+paywalled or, in one open-access case, only retrievable as unreadable binary PDF). Spanned
+2022-2026 issues.
+
+Early stop triggered: No (stopped at 8, not 15) — reason: primary guidelines page
+(tandfonline.com/action/authorSubmission?journalCode=tepn20&page=instructions) returned
+HTTP 403 consistently; full-text article access was blocked by paywall on essentially all
+sampled DOIs; one open-access PDF (Lancaster ePrints) was fetched but returned as
+unparseable binary content rather than extractable text. Delta signal stabilized around
+"context/place" framing and structural flexibility (conceptual + qualitative + quantitative
+all first-class) after ~6-8 sources, with no new deltas emerging from additional searches,
+so further spot-checking was judged low-value given access constraints.
+
+Deltas found: 2 substantive dimensions
+  1. Structural Deviations (RELAXATION, ABS-3-level, editorial-philosophy-stated) — journal
+     explicitly treats purely conceptual and qualitative/configurational (e.g., fsQCA) designs
+     as equally valid to hypothesis-testing quantitative structure; FIELD_SKILL's
+     hypothesis-driven spine is a default here, not a requirement.
+  2. Other Journal-Specific Patterns (PRACTICE ONLY / stated editorial identity) —
+     explicit foregrounding of geographic/spatial/temporal/relational "context" as a
+     framing dimension of the contribution, beyond FIELD_SKILL's generic CARS-gap framing;
+     also broader disciplinary range (institutional theory, religious studies, rural
+     sociology) than FIELD_SKILL's management/psychology orientation.
+
+FIELD_SKILL overrides: none that contradict FIELD_SKILL outright; the above are additions/
+relaxations layered on top of it (voice, sentence style, methods/results/discussion norms,
+citation density, hedging, and citation format all follow FIELD_SKILL default).
+
+Access-limitation notes:
+- Primary T&F "Instructions for Authors" page inaccessible (403) throughout — could not
+  confirm ERD-specific word/page limits, abstract word limit/structure, or explicit
+  prohibitions directly from the source. These sections in the skill file are marked
+  "not confirmed" rather than fabricated.
+- APA 7th edition citation style inferred from Taylor & Francis' standard house-wide
+  reference guide (files.taylorandfrancis.com/tf_apa.pdf), not an ERD-specific page.
+- Full text of sampled articles was not accessible in any case; all article-level
+  observations are based on abstracts, titles, and secondary summaries (WebSearch
+  snippets, RePEc/IDEAS listings, journal's own "About" and podcast pages), consistent
+  with the task's allowance for front-matter-only spot-checks.

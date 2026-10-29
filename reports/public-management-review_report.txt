@@ -1,0 +1,52 @@
+Journal: Public Management Review
+Slug: public-management-review
+ABS: 4
+Field: PUB SEC
+
+Articles fetched: 16 (title/abstract-level via WebSearch snippets; full text
+paywalled throughout, tandfonline.com blocked automated fetch with 403
+Forbidden on all direct page requests including the Instructions for
+Authors page, the About-this-journal page, and individual article pages)
+
+Early stop triggered: No — sampling continued until the delta set
+stabilised (~16 articles spanning 2016-2025); no new deltas emerged after
+the first ~10.
+
+Deltas found: 2 (both low-confidence / low-prevalence)
+  1. Structural Deviations (PRACTICE ONLY / low-prevalence): elevated share
+     of standalone PRISMA-protocol systematic literature review articles
+     in the spot-checked sample, relative to FIELD_SKILL's implied
+     hypothesis-driven empirical default. Thematic/format tendency, not a
+     stated requirement.
+  2. Other Journal-Specific Patterns: confirmed FIELD DEFAULT (comparative/
+     international scope framing) — recorded for completeness, not a true
+     deviation.
+
+FIELD_SKILL overrides (Hard Constraints):
+  - Abstract: ENFORCED 150-word unstructured English abstract (optionally
+    plus a 150-word abstract in another language). This is a specific,
+    confirmed numeric cap not present in FIELD_SKILL.
+  - Explicit Prohibitions: ENFORCED — no author-team changes post-submission
+    via the T&F portal except by explicit reviewer recommendation
+    (administrative rule, included for completeness).
+  - All other Hard Constraints dimensions (Structure, Length, Citations,
+    Headings, Tables/Figures) could not be independently confirmed because
+    the Instructions for Authors page returned 403 Forbidden to automated
+    access; no contradicting evidence found, so FIELD_SKILL norm was
+    retained by default rather than assumed overridden.
+
+Access-limitation notes:
+  - tandfonline.com blocks automated WebFetch requests (403 Forbidden) on
+    every URL attempted, including journal home, about-this-journal, and
+    individual article full-text/abstract pages. All journal-specific
+    information was recovered indirectly through WebSearch result
+    snippets, which surface excerpted guideline text and abstract content
+    without full page access.
+  - irspm.net connection failed (ECONNREFUSED); scope info instead sourced
+    via a WebSearch snippet quoting that page.
+  - No specific overall manuscript word/page limit could be recovered
+    despite multiple targeted searches; this is left unspecified in the
+    skill rather than guessed.
+  - Full text of all sampled articles was paywalled; assessment relied on
+    titles, abstracts, and short synopsis snippets only, per task
+    instructions.

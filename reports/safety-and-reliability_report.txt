@@ -1,0 +1,39 @@
+Journal: Safety and Reliability
+Slug: safety-and-reliability
+ABS: 1
+Field: ETHICS-CSR-MAN (mgmt-field-writing-style baseline)
+Publisher: Taylor & Francis (Safety and Reliability Society)
+
+Articles fetched: 12 (titles + abstracts/metadata only; no full text accessible)
+Early stop triggered: No — good-faith sample completed given thin access chain; documented explicitly per ABS-1 allowance in instructions.
+
+Deltas found: 3 substantive
+  1. Structural Deviations (ENFORCED) — journal explicitly publishes case studies, event
+     summaries, opinion pieces, and book reviews in addition to research papers and
+     review articles, none of which follow FIELD_SKILL's four structural templates.
+  2. Voice and Register (PRACTICE ONLY) — high proportion of single-authored,
+     practitioner-reflective pieces vs. FIELD_SKILL's multi-author "we" default.
+  3. Statistical Reporting (PRACTICE ONLY / RELAXATION) — several sampled articles are
+     engineering-domain reliability papers (failure frequencies, standards mapping)
+     rather than social-science regression/qualitative-coding work.
+  Additional minor note: strong technical-standards engagement (IEC 61508, ISO 26262)
+  not present in FIELD_SKILL baseline (PRACTICE ONLY).
+
+FIELD_SKILL overrides: none identified with certainty (citation style, hedging,
+discussion/conclusion conventions all follow FIELD_SKILL default; insufficient
+full-text access to confirm any override).
+
+Access-limitation notes:
+- tandfonline.com (the journal's home platform) returned HTTP 403 to all direct
+  WebFetch attempts, for both the "about this journal" page and individual article
+  abstract/PDF pages. All journal-level and article-level information was obtained
+  via WebSearch snippets, search-engine caches, the SaRS Publication Specifications
+  PDF hosted on sars.org.uk (direct fetch succeeded), and third-party aggregators
+  (ResearchGate metadata pages, SINTEF repository, scholar9.com journal listing,
+  Semantic Scholar). ResearchGate full-text PDFs also returned 403.
+- No structured/unstructured abstract format, explicit word limits, or explicit
+  prohibitions could be confirmed from any accessible source; these fields in the
+  skill are marked "not confirmed from public sources" rather than fabricated.
+- Full body text (Methods/Results/Discussion prose) was not read for any article;
+  all structural and voice observations are inferred from titles and abstract-level
+  summaries only, per the ABS-1 good-faith sampling allowance.

@@ -1,0 +1,18 @@
+Journal: RAUSP Management Journal
+Slug: rausp-management-journal
+ABS: 1
+Field: ETHICS-CSR-MAN
+Articles fetched: 8 (abstracts/front-matter only, via search-engine snippets and RePEc/IDEAS indexing; direct emerald.com article pages were CAPTCHA/403-blocked throughout the session)
+Early stop triggered: No (reached good-faith target given access constraints for an ABS 1 journal)
+
+Deltas found: 3 dimensions
+  - Voice and Register: ENFORCED prohibition on personal pronouns ("we"/"I") in abstract and body text — direct override of FIELD_SKILL's "we throughout" default.
+  - Length: ENFORCED 7,000-word all-inclusive cap (body + references + tables + figures + appendices) and 8-word title cap — RELAXATION/shortening relative to FIELD_SKILL's 10,000-18,000 word norm, consistent with ABS 1 tier.
+  - Structural (abstract format): ENFORCED structured abstract (Objective, Design/methodology/approach, Findings, Originality/value; max 250 words) — confirmed across all 8 sampled abstracts.
+
+FIELD_SKILL overrides: Voice/person (no pronouns) and word-length ceiling are direct overrides; everything else (macro structure, CARS introduction, hypotheses/propositions usage, methods conventions, hedging) follows FIELD_SKILL norm.
+
+Access-limitation notes:
+  - emerald.com/rausp article pages and emeraldgrouppublishing.com/journal/rausp both returned CAPTCHA/403 to WebFetch throughout the session; all article-level data was recovered via WebSearch snippets summarizing those same pages, and via RePEc/IDEAS (ideas.repec.org/s/eme/rauspp.html) for title listings.
+  - rausp.usp.br/instructions-for-authors/ (the USP-hosted guidelines mirror) was directly fetchable and provided the bulk of HARD_CONSTRAINTS detail (word limits, abstract structure, heading style, pronoun prohibition, APA-with-page-number citation rule).
+  - Sample of 8 skews toward Volume 60, No. 1 (early 2025) due to search-result availability; no full-text articles were read, only structured abstracts and titles — sufficient to judge structural/voice deltas per task instructions but not citation density or statistical reporting detail within body text.

@@ -1,0 +1,40 @@
+Journal: Corporate Governance (Bingley) [Corporate Governance: The International Journal of Business in Society]
+Slug: corporate-governance-bingley
+ABS: 2
+Field: FINANCE
+Publisher: Emerald Publishing
+
+Articles fetched: 9 distinct articles, all at abstract/metadata level only (full text and guidelines
+pages returned CAPTCHA/403 on every direct WebFetch attempt against emerald.com and
+emeraldgrouppublishing.com). Abstract content and guideline excerpts were recovered via WebSearch
+result snippets instead.
+  - CG-01-2024-0063 - Corporate governance and environmental disclosure: a comparative analysis
+  - CG-04-2023-0135 - Corporate governance in SMEs: a systematic literature review and future research (Teixeira & Carvalho, 2024)
+  - CG-12-2023-0518 - Corporate governance effectiveness and firm performance in global crisis: evidence from GCC countries (Alshdaifat et al., 2025)
+  - CG-03-2022-0135 - Bibliometric analysis on corporate governance topics published in the journal of Corporate Governance
+  - CG-06-2022-0275 - Corporate governance and anti-corruption disclosure
+  - CG-10-2024-0551 - Do anti-corruption disclosure and good corporate governance moderate the relationship between REM and cost of equity? (Chouaibi, Khlifi & Chouaibi)
+  - CG-04-2023-0152 - The determinants of corporate anti-corruption disclosures: evidence from construction companies in the Asia-Pacific (Utami & Barokah, 2024)
+
+Early stop triggered: No (dedupe check found no existing skill for this journal; proceeded through full research).
+
+Deltas found: 3 dimensions
+  - Abstract structure (ENFORCED, Emerald house-wide convention): 7-field structured abstract
+    (Purpose, Design/methodology/approach, Findings, Research limitations/implications, Practical
+    implications, Social implications, Originality/value), ~250 words max including keywords.
+  - Voice/self-citation (ENFORCED, double-blind review requirement): must avoid first-person
+    possessive references to own prior work in citations ("our previous study" prohibited).
+  - Methodological/scope breadth and sample scale (PRACTICE ONLY / RELAXATION, ABS-2 tier): higher
+    prevalence of systematic literature review / bibliometric papers than typical ABS 4*/4 finance
+    journals; empirical papers skew toward single-region/emerging-market settings with moderate
+    sample sizes rather than large multi-country/multi-decade panels.
+
+FIELD_SKILL overrides: Abstract format (structured vs. unstructured) is the only hard override;
+citation format (Harvard/author-date) and reference-in-text conventions align with FIELD_SKILL.
+
+Access-limitation notes: emerald.com and emeraldgrouppublishing.com blocked all direct WebFetch
+attempts with CAPTCHA/403 responses, including the author-guidelines page and full-text article
+pages. All findings were reconstructed from WebSearch snippets, which surfaced abstract text and
+some guideline excerpts but not full manuscript text, exact word/page limits, or explicit heading-
+numbering rules specific to this journal (as opposed to generic Emerald-wide conventions). This is
+disclosed in the skill file's Sources section and access-limitation note.

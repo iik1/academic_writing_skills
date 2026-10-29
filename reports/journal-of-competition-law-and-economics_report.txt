@@ -1,0 +1,20 @@
+Journal: Journal of Competition Law & Economics
+Slug: journal-of-competition-law-and-economics
+ABS: 1
+Field: ECON
+Articles fetched: 11 (2 at full-text/near-full-text via working-paper mirrors; 9 at title/abstract level from Oxford Academic issue listings)
+Early stop triggered: No (dedupe check found no pre-existing journal skill; proceeded through all phases)
+
+Deltas found: 5 dimensions
+  1. Length — HARD CONSTRAINT: 4,000-6,000 words including footnotes/tables/figures (ENFORCED; far shorter than ABS 4*/4 baseline assumption)
+  2. Citations — footnote-based (law-review style) rather than parenthetical author-year (PRACTICE ONLY, observed convergently in both full-text articles reviewed; the journal's own style-guidelines .doc could not be fetched to confirm as ENFORCED)
+  3. Voice/Register — more discursive, legal-doctrinal, policy-oriented blending than FIELD_SKILL's econ baseline (PRACTICE ONLY / RELAXATION)
+  4. Structural deviations — no standalone Data/Identification/Robustness architecture typical of empirical ABS 4/4* papers; many pieces are theory/policy essays (RELAXATION, driven by word cap)
+  5. Mathematical formalism — guidelines explicitly instruct minimizing math in main text, justifying its use, and relegating derivations to appendices for a mixed law/economics readership (GUIDELINE ONLY, stated in author guidelines)
+
+FIELD_SKILL overrides: Length limit (4,000-6,000 words) and abstract cap (200 words) are hard constraints not covered by FIELD_SKILL. Citation format (footnotes vs. author-year) is a likely override pending confirmation from the (inaccessible) dedicated style-guidelines document.
+
+Access limitation notes:
+- Oxford Academic full text was paywalled for essentially all sampled articles; relied on abstract/title listings from the journal's issue pages and IDEAS/RePEc.
+- Two articles were available via non-publisher mirrors: Schmal (2025) via Indiana University DLC repository (author's accepted manuscript), and Condorelli & Padilla (2020) via the author's personal website (pre-print).
+- The journal's dedicated "Style Guidelines" .doc file linked from the author-guidelines page returned HTTP 404 and could not be consulted; citation-format finding rests on convergent full-text observation only, not the primary style document.

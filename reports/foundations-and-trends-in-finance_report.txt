@@ -1,0 +1,29 @@
+Journal: Foundations and Trends in Finance
+Slug: foundations-and-trends-in-finance
+ABS: 2
+Field: FINANCE
+Articles fetched: 6 (abstract/front-matter level only; full text paywalled behind Emerald/Now Publishers)
+Early stop triggered: No (dedupe check found no existing skill; good-faith sample completed per ABS-2 thin-access allowance)
+
+Deltas found: 3 dimensions
+  - Structural Deviations (ENFORCED) — topic-organized survey sections replace the empirical-paper arc
+  - Voice and Register (PRACTICE ONLY) — expository/synthesis framing rather than contribution-enumeration framing
+  - Other Journal-Specific Patterns (ENFORCED) — invitation-only submission via abstract+TOC pre-review, no open submission pipeline
+
+FIELD_SKILL overrides (Hard Constraints):
+  - Structure: survey/tutorial/retrospective monograph, not standard empirical article; invited only
+  - Length: ~50-100 pages (observed range ~60-230+ pages)
+  - Citations: alphabetical reference list, et al. for 3+ authors (codified explicitly in guidelines)
+  - Headings: use "section" not "chapter"
+  - Explicit prohibition: avoid "chapter," "article," "book," "paper" — use "monograph," "tutorial," "review," "survey"
+  - Format: LaTeX (FnT style files) or Word; separate source files for figures/tables on acceptance
+
+Access-limitation notes:
+  - Direct WebFetch to nowpublishers.com/Journal/AuthorInstructions/FIN returned HTTP 403; guidelines content was
+    recovered via WebSearch cached snippets instead.
+  - No full-text articles were accessible (Emerald/Now Publishers paywall); all spot-checks are abstract/TOC-level,
+    consistent with the assignment's allowance for ABS-2 thin-access journals.
+  - Given the journal's distinctive format (long invited surveys rather than standard research articles), most
+    FIELD_SKILL dimensions around empirical reporting, robustness, identification, etc. do not straightforwardly
+    apply and are not forced into the skill; the skill instead documents the genre-level deltas that matter most
+    for someone drafting for this venue.

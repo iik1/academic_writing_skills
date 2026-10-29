@@ -1,0 +1,27 @@
+Journal: International Statistical Review
+Slug: international-statistical-review
+ABS: 3
+Field: ECON
+Publisher: Wiley-Blackwell (for International Statistical Institute)
+
+Articles fetched: 15 (title/abstract level; full text universally paywalled)
+Early stop triggered: No — sample continued to 15 with stable, converging delta set (dominant delta: review/survey/tutorial format rather than empirical-paper skeleton).
+
+Deltas found: 4 dimensions
+  1. Structural Deviations (ENFORCED) — journal is fundamentally a review/survey/tutorial venue; articles organize by method taxonomy rather than Intro/Data/Strategy/Results/Conclusion.
+  2. Voice and Register (PRACTICE ONLY / RELAXATION) — expository/pedagogical framing ("we review," "tutorial on...") rather than contribution-and-identification framing.
+  3. Citation Density (PRACTICE ONLY) — elevated throughout body sections, not concentrated in introduction, due to review format.
+  4. Other Journal-Specific Patterns (GUIDELINE ONLY) — accepts white papers and historical assessments, paper types outside FIELD_SKILL's scope entirely; not confirmed in sample (no such article accessed).
+
+No delta (FIELD DEFAULT): citation format, hedging/epistemic caution, sentence/paragraph style, tables/figures conventions, statistical reporting norms (for the subset of methodological-review articles sampled).
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Length cap: 30 pages (1.5-spaced) or 40 pages (double-spaced), inclusive of figures/tables/references.
+  - Abstract: mandatory single-paragraph "Summary" with minimal mathematical notation, followed by keywords.
+  - Submission via Research Exchange platform; optional Authorea template.
+  - Preprint posting explicitly permitted at any stage.
+
+Access-limitation notes:
+  - Wiley Online Library forauthors.html and journal homepage both returned HTTP 402/403 on direct WebFetch; guideline content obtained via WebSearch-generated summaries instead.
+  - No full-text article was accessible; all 15 articles were assessed at title/abstract level via RePEc (IDEAS), Wiley search snippets, and one arXiv preprint (Rehill, 2404.13356) corresponding to a published ISR article.
+  - RePEc (ideas.repec.org/s/bla/istatr.html) was the most useful single source, providing a clean title/author/year list across 2023-2025 issues in one fetch.

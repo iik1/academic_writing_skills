@@ -1,0 +1,57 @@
+Journal: Baltic Journal of Economics
+Slug: baltic-journal-of-economics
+ABS: 1
+Field: ECON
+Publisher: Taylor & Francis (journal of the Baltic Economic Association)
+
+Articles fetched: 9 distinct articles, at abstract/keyword/JEL level only (via IDEAS/RePEc and search-engine-extracted snippets). No full text was accessible.
+  1. Kjosevski & Petkovski (2017) - Non-performing loans in Baltic States
+  2. Kažukauskas & Li (2025) - Energy performance gap, Soviet-era multi-apartment buildings
+  3. Maurseth, Masso & Holmen (2025) - FDI and trade for foreign market entry: Estonia
+  4. Unnamed authors (2024) - Economic upgrading of CEE economies through GVC/FDI
+  5. Babych, Grigoryan, Lvovskiy & Pignatti (2024) - Perceptions of violence, transition countries
+  6. Garcia-Louzao & Jonuškaitė (2025) - Public-private sector wage gap in Lithuania
+  7. Dell'Anno, Davidescu & Manta (2025) - Embedding informality into sustainable development indices
+  8. Hayruni, Minasyan & Nurbekyan (2025) - Estimating tax effort, novel dataset
+  9. (2018) - Public-private sector wage gap in Latvia (title/metadata only)
+
+Early stop triggered: No. Full good-faith spot-check completed at abstract level given ABS 1 tier and thin public full-text access.
+
+Deltas found: 1 minor (PRACTICE ONLY / low-prevalence)
+  - Structural: combined theory+empirical paper structure observed in one article
+    (Maurseth et al. 2025), a relaxation vs. more rigid theory/empirical paper
+    separation seen at top tier. Not generalized as a stated norm.
+  - Noted topical/scope pattern (not a style delta): strong regional focus on
+    Baltic states, CEE, and transition/post-transition economies.
+
+FIELD_SKILL overrides: none confirmed. Could not access the actual T&F
+"Instructions for Authors" page (blocked, HTTP 403), so no hard constraints
+on structure, length, citation style, or headings could be verified from
+primary guidelines. All such fields in the skill are marked "not confirmed"
+rather than fabricated.
+
+Access-limitation notes:
+- tandfonline.com (journal home, about page, instructions-for-authors,
+  and all full-text article URLs) returned HTTP 403 to automated WebFetch
+  throughout this session, despite the journal being open access. This
+  blocked verification of hard constraints (word/page limits, exact
+  citation style, heading rules, explicit prohibitions) and blocked
+  full-text style spot-checking (voice, hedging, statistical reporting
+  density) beyond what abstracts reveal.
+- doaj.org article pages also returned HTTP 403.
+- Article-level bibliographic data (abstract, keywords, JEL codes) was
+  obtained successfully via ideas.repec.org (RePEc/IDEAS), which mirrors
+  this journal's metadata under series handle RePEc:bic:journl (and later
+  years likely under RePEc:taf:rbecxx, not directly resolved).
+- One important disambiguation caught during research: several web search
+  results conflated this journal with the unrelated, similarly-named
+  "Baltic Journal of Economic Studies" (publisher: Baltija Publishing,
+  baltijapublishing.lv, ISSN 2256-0963), which has its own different
+  submission rules (250-300 word abstracts, 10-25 pages, Times New Roman
+  14). Those rules were explicitly excluded from the skill file to avoid
+  contaminating it with a different journal's guidelines.
+- Given the ABS 1 tier and the explicit instruction that a smaller
+  good-faith sample is acceptable for lower-tier journals with thin access,
+  this report and the accompanying skill file were finalized on the
+  abstract-level evidence gathered, with all unverified claims left
+  explicitly marked as unconfirmed rather than asserted.

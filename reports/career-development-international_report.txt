@@ -1,0 +1,125 @@
+JOURNAL SKILL GENERATION REPORT
+================================================================================
+
+Journal: Career Development International
+Slug: career-development-international
+ABS Rating: 2
+Field: HRM&EMP
+Publisher: Emerald Group Publishing
+
+PHASE SUMMARY
+================================================================================
+
+Phase 1 - Author Guidelines (Required)
+  Status: INACCESSIBLE
+  Details: All Emerald Group Publishing URLs are Cloudflare-protected and cannot
+           be accessed via standard HTTP requests, web.archive.org, or academic
+           repository APIs (DOAJ, SSRN, ResearchGate, Google Scholar). The journal's
+           submission guidelines page exists but is not publicly cached or archived
+           in accessible formats.
+
+Phase 2 - Article Spot-Check (Target: 10-15)
+  Status: BLOCKED
+  Articles Fetched: 0
+  Reason: No full-text articles located. Career Development International articles
+          are paywalled through Emerald. No open-access versions, preprints, or
+          author faculty pages with accessible copies located. DOAJ does not list
+          the journal. Google Scholar, ResearchGate, and SSRN searches returned
+          no accessible content.
+
+Phase 3 - Delta Classification
+  Status: PARTIAL
+  Deltas Found: 1
+  Type: PRACTICE ONLY (not enforced/verified)
+  Delta: Likely relaxed theoretical framing for ABS 2 vs ABS 4/4* baseline
+         (expected at lower tier; not confirmed by article review)
+
+Phase 4 - SKILL.md Written
+  Status: COMPLETE
+  Approach: Honest documentation of access barriers + publisher-wide conventions +
+            field-level expectations. No fabrication of guidelines or article patterns.
+
+Phase 5 - File Saved
+  Status: COMPLETE
+  Locations:
+    - Skill: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/hrm/career-development-international_SKILL.md
+    - Report: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/reports/career-development-international_report.txt
+
+DATA COLLECTION DETAILS
+================================================================================
+
+Guidelines Access Attempts:
+  1. curl https://www.emeraldgrouppublishing.com/journal/cdi
+     Result: Cloudflare challenge page (403)
+  2. curl https://www.emeraldgrouppublishing.com/authors/submission-guidelines
+     Result: Cloudflare challenge page (403)
+  3. curl https://scholar.google.com/scholar?q="Career Development International"
+     Result: 403 Forbidden (bot detection)
+  4. DOAJ API search "career development international"
+     Result: 0 matches (journal not indexed in DOAJ)
+  5. DOAJ API search ISSN 1362-0436
+     Result: 0 matches
+  6. web.archive.org Wayback Machine snapshots
+     Result: Archive pages load but 20260601 snapshot appears empty; no usable
+             cached guideline text retrieved
+
+Article Search Attempts:
+  1. Google Scholar "Career Development International" 2023–2024
+     Result: 403 Forbidden
+  2. ResearchGate journal search
+     Result: 1020 error (access denied)
+  3. SSRN database search
+     Result: No results
+  4. Emerald Insight direct article URLs (sample DOIs)
+     Result: Redirects to Emerald paywall; 404 errors
+  5. Internet Archive snapshots of specific articles
+     Result: No accessible snapshots located
+
+DECISION RATIONALE
+================================================================================
+
+This journal presents an access-constrained scenario matching the task instructions:
+- "If this is a low-tier/niche journal with very thin public information, do a
+   good-faith effort and document limitations honestly rather than fabricating -
+   a short, honest skill is fine."
+
+Career Development International (ABS 2) has:
+  - Paywall-restricted articles
+  - Cloudflare-protected publisher website
+  - No DOAJ/OA presence
+  - No accessible cached guidelines
+  - Limited public footprint compared to ABS 4/4* baseline sources
+
+Action taken: Created a skill that explicitly documents these constraints, reflects
+publisher-wide Emerald conventions (which likely apply), notes the single reasonable
+inference (theoretical framing relaxation at ABS 2 tier), and directs authors to
+contact the journal directly for authoritative guidelines.
+
+SKILL CONTENT SUMMARY
+================================================================================
+
+Sections Included:
+  - Journal Profile (with inaccessible guidelines URL noted)
+  - Hard Constraints: Publisher-wide Emerald norms (not verified); explicit caveat
+  - Observed Deltas: 1 minor delta (relaxed theory) labeled PRACTICE ONLY
+  - Dimensions with No Delta: 7 sections all marked FIELD DEFAULT
+  - Common Pitfalls: 4 applied to ABS 2 practitioner-facing journals generally
+  - Sources: Full traceability table documenting access failures
+  - Verification Status: Honest summary of verification gaps
+
+Tone: Professional, transparent, and self-limited. No fabricated claims. Directs
+authors to official journal sources for submission requirements.
+
+EARLY-STOP TRIGGERED: YES
+  Reason: Phase 2 (article spot-check) could not proceed beyond 0 articles.
+          Guidelines inaccessible since Phase 1.
+  Recommendation: This skill should be superseded if guidelines become publicly
+                  available or if institutional access can be obtained. Check
+                  https://www.emeraldgrouppublishing.com/journal/cdi directly before
+                  final submission.
+
+================================================================================
+Report generated: 2026-07-02
+Task status: COMPLETE
+Fabrication: NONE. All assertions traceable to access attempts or field theory.
+================================================================================

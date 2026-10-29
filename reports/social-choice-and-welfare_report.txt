@@ -1,0 +1,21 @@
+Journal: Social Choice and Welfare
+Slug: social-choice-and-welfare
+ABS: 3
+Field: ECON
+Publisher: Springer Nature
+
+Articles fetched: 10 (abstract/front-matter level via RePEc/IDEAS mirrors and one arXiv working-paper version), plus review of journal index/issue listings (Vol. 66, 2026) for topical/title patterns.
+
+Early stop triggered: No — spot-check continued until the delta pattern (JEL/keyword inconsistency, leaner citation density and results-first abstract register in axiomatic papers) stabilised across multiple articles; stopped at 10 because access chain (Springer full text) was exhausted and no new deltas were emerging.
+
+Deltas found: 3
+  - Citation Density: RELAXATION (leaner related-literature footprint in axiomatic/theory papers vs. FIELD_SKILL high-density expectation; PRACTICE ONLY, not universal)
+  - JEL codes / keyword lists: PRACTICE ONLY (frequently omitted in pure axiomatic/mechanism-design papers; present in empirical/applied papers)
+  - Abstract register in theory papers: PRACTICE ONLY (impersonal, results-first "theorem statement" style abstracts common in axiomatic pieces, vs. FIELD_SKILL "we find/we show" default; does not override body-text voice norm)
+
+FIELD_SKILL overrides: none (no HARD_CONSTRAINT found that conflicts with FIELD_SKILL; all overrides are relaxations/practice-level, permitted at ABS 3)
+
+Access-limitation notes:
+- Springer's link.springer.com submission-guidelines, aims-and-scope, and individual article pages all redirect to an authentication gate (idp.springer.com) in this environment; could not be fetched directly. Guidelines content obtained via WebSearch result snippets only.
+- Full text of articles was not accessible; spot-check relied on RePEc/IDEAS abstract mirror pages (which include abstract, keywords, JEL codes when present) and one arXiv working-paper PDF (text extraction failed; used arXiv abstract page instead).
+- Because full text was unavailable, fine-grained structural claims (exact section heading order, table/figure formatting specifics, footnote conventions) could not be directly verified and are marked as following FIELD_SKILL norm by default rather than confirmed via full-text read.

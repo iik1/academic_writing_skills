@@ -1,0 +1,20 @@
+Journal: Papers in Regional Science
+Slug: papers-in-regional-science
+ABS: 3
+Field: REGIONAL STUDIES, PLANNING AND ENVIRONMENT
+
+Articles fetched: 15 (title/abstract-level; full text paywalled/inaccessible in this environment)
+Early stop triggered: No — sample spanned 2020, 2023, 2024, 2025 issues and the delta set stabilised (no new deltas emerged in the later half of the sample).
+
+Deltas found: 3
+  1. ENFORCED - Mandatory "Highlights" file (3-5 bullets, max 85 characters each) at submission — Elsevier house-style requirement, no equivalent in FIELD_SKILL or at the field's ABS-4 journals.
+  2. ENFORCED - Abstract capped at 250 words (unstructured) — more specific than FIELD_SKILL's loosely stated 100-200 word range.
+  3. GUIDELINE ONLY - Graphical abstract encouraged but not mandatory; data availability statement or repository deposit requested/expected.
+
+FIELD_SKILL overrides: Abstract length ceiling (250 words) tightens the field baseline's 100-200 word range for this journal.
+
+Access-limitation notes:
+- ScienceDirect guide-for-authors page returned HTTP 403 to direct WebFetch; all guideline details reconstructed from WebSearch result snippets referencing that page.
+- Legacy RSAI Connect (Wiley) author page returned HTTP 402 to direct WebFetch.
+- No full-text articles were accessible; all 15 spot-checked articles were assessed at abstract/title level only, via WebSearch snippets and RePEc/IDEAS listing pages (successfully fetched in full).
+- Citation style, exact heading conventions, and detailed table/figure formatting rules could not be confirmed from accessible sources; these sections are marked "no delta identified" rather than fabricated.

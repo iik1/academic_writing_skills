@@ -1,0 +1,28 @@
+Journal: International Journal of Islamic and Middle Eastern Finance and Management (IMEFM)
+Slug: international-journal-of-islamic-and-middle-eastern-finance-and-management
+ABS: 1
+Field: FINANCE
+
+Articles fetched: 6 (abstract/front-matter level; full text paywalled/CAPTCHA-blocked on Emerald)
+  - IMEFM-03-2020-0134 (bibliometric analysis of IMEFM itself)
+  - IMEFM-03-2024-0141 (Islamic venture capital foresight study)
+  - IMEFM-01-2024-0018 (Fintech/green finance bibliometric analysis)
+  - IMEFM-05-2024-0248 (Basel III / Islamic banks GCC)
+  - IMEFM-08-2023-0310 (Islamic fintech lending DID study, Indonesia)
+  - IMEFM-09-2023-0313 (Zakat fiscal potential, Bangladesh)
+
+Early stop triggered: No — reached good-faith sample given ABS 1 tier and access constraints (target was 10-15, achieved 6 due to Emerald CAPTCHA blocking full-text and guidelines-PDF access).
+
+Deltas found: 1 confirmed (ENFORCED), plus low-confidence/unconfirmed notes
+  - Structured abstract (Purpose / Design-methodology-approach / Findings / Research limitations-implications / Practical implications / Originality-value), ~250-word Emerald house-style cap — ENFORCED, confirmed in all 6 sampled articles. Deviates from FIELD_SKILL's single-paragraph unstructured abstract norm.
+  - No JEL codes observed in sampled abstracts — PRACTICE ONLY, low confidence (keyword field only visible, not full text).
+  - AI-authorship prohibition (no LLM-generated abstract/lit review text; AI-generated images not permitted) — ENFORCED, from Emerald guidelines snippets.
+  - Ethics/consent statement required for human-participant research — ENFORCED, from Emerald guidelines snippets.
+
+FIELD_SKILL overrides: Abstract format (structured vs. unstructured) is the primary override. All other dimensions (voice, citation format, hedging, argumentation) show no confirmed deviation — treated as FIELD DEFAULT, though full-text verification was not possible.
+
+Access-limitation notes:
+- emerald.com/insight article pages consistently returned CAPTCHA/bot-detection blocks via WebFetch.
+- Direct fetch of the Emerald author-guidelines page (emeraldgrouppublishing.com/products/journals/author_guidelines.htm?id=imefm) returned HTTP 403; guideline content was reconstructed from WebSearch result snippets only.
+- No full-text access to any article — all spot-checks limited to structured abstracts and keywords via IDEAS/RePEc.
+- Because this is standard Emerald house style shared across many Emerald journals, some findings (structured abstract, AI-use policy) likely reflect publisher-wide policy rather than something unique to this specific journal, but they are still real deltas relative to the FINANCE field baseline and are documented as such.

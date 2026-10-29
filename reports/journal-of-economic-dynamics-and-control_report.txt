@@ -1,0 +1,17 @@
+Journal: Journal of Economic Dynamics and Control
+Slug: journal-of-economic-dynamics-and-control
+ABS: 3
+Field: ECON
+Publisher: Elsevier
+
+Articles fetched: 10 with abstracts/front matter reviewed in detail (Shirota 2025; Casares, Gomme & Khan 2025; Park 2025; Robinson, Silos & Vilan 2025; Ando/Mishra/Patel/Peralta-Alva/Presbitero 2025; Shi 2026; D'Orazio et al. 2026; Hawley/LeBaron/Paddrik/Palmer 2026), plus 5 additional titles identified via RePEc TOC for volumes 179, 188-189 (Balamatsias; Lei; Yu/Huang/Yin; Delaney) without full abstract retrieval. Total: 15 articles identified, 10 with substantive content reviewed.
+
+Early stop triggered: No. Sample was limited by paywall access (ScienceDirect returned 403 on direct WebFetch), not by early convergence; deltas continued to be reinforced across the sample (heavy computational-methods orientation appeared consistently).
+
+Deltas found: 2 dimensions
+1. Structural Deviations (PRACTICE ONLY / FIELD DEFAULT in substance) - journal's scope statement foregrounds computational/numerical methods (agent-based models, RL/AI agents, numerical algorithms) as a first-class contribution type, broader than FIELD_SKILL's implicit methods mix.
+2. Other Journal-Specific Patterns (RELAXATION) - structural/computational mechanism-quantification papers are an accepted substitute for identification-based causal empirical work at this ABS-3 outlet.
+
+FIELD_SKILL overrides: None outright overridden; Hard Constraints section adds journal-specific submission mechanics (250-word abstract, 3-5 highlights bullets ≤85 chars, graphical abstract option, AI-generated-artwork prohibition, abbreviated-title reference format) that FIELD_SKILL does not cover but does not contradict either.
+
+Access-limitation notes: ScienceDirect guide-for-authors page and article abstract pages returned HTTP 403 on direct WebFetch; all guideline and abstract content was reconstructed from WebSearch result snippets, SSRN/RePEc/IDEAS mirror pages, and author working-paper repositories (Federal Reserve, CEPR, Carleton, arXiv). Full text of all sampled articles was inaccessible; analysis relied on abstracts and titles only, consistent with instructions for paywalled journals.

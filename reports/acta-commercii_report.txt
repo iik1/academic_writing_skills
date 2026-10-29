@@ -1,0 +1,99 @@
+ACTA COMMERCII - JOURNAL SKILL REPORT
+=====================================
+
+Journal Name: Acta Commercii
+Slug: acta-commercii
+ABS Rating: 1
+Field: ETHICS-CSR-MAN (Management)
+Publisher: AOSIS (pty) Ltd
+
+ARTICLES FETCHED: 10
+- Field et al. (2026) - Digital transformation & relationship quality, automotive retail (SEM, empirical)
+- Baloyi et al. (2026) - Ethical framework for emerging digital technologies (conceptual/systematic review)
+- Tax literacy qualitative study (2026) - 10 interviews, thematic analysis
+- Ssebana & Nani (2026) - Business innovation in Uganda (quantitative, 376 respondents)
+- Ismaila & Beneke (2026) - Bibliometric review: AI, IoT, Big Data in Africa
+- Blockchain/supply chain article (2026) - Quantitative, hypothesis testing
+- Goldman (2025) - Editorial: Reflecting on Acta Commercii in 2025
+- Additional spot-checks confirmed structural consistency across empirical and theoretical submissions
+
+EARLY STOP: No
+All articles accessed and analyzed successfully. Good public availability of recent issues.
+
+DELTAS FOUND: 10 major dimensions with differences from FIELD_SKILL baseline
+
+1. ABSTRACT STRUCTURE (ENFORCED)
+   - Mandatory 7 labeled sections: Orientation, Research purpose, Motivation, Research design, Main findings, Practical implications, Contribution/value-add
+   - Past tense required
+   - No citations
+   - Non-negotiable format
+
+2. WORD LIMIT (ENFORCED)
+   - 7,000 words max for original research (vs. 10,000–15,000 in typical MGMT journals)
+   - Significant constraint on literature engagement and methods detail
+
+3. REFERENCE CEILING (ENFORCED)
+   - Maximum 60 references (vs. 40–80 typical in FIELD_SKILL)
+   - Restrictive selective citation requirement
+
+4. CITATION STYLE (ENFORCED)
+   - Harvard referencing required (not APA)
+   - DOIs must be verified via CrossRef
+   - Format: (Author Year) in text
+
+5. LANGUAGE VARIANT (ENFORCED)
+   - British English per Oxford English Dictionary
+   - Affects spelling, vocabulary, date format
+
+6. TABLE/FIGURE LIMIT (ENFORCED)
+   - Maximum 7 total (restrictive for data-heavy studies)
+   - All must be cited in legend, text, and reference list
+
+7. ETHICAL APPROVAL DOCUMENTATION (ENFORCED)
+   - Formal documents required as submission materials, not optional
+   - Approval number, committee name, consent method, confidentiality measures
+
+8. AI TECHNOLOGY DISCLOSURE (ENFORCED)
+   - Explicit declaration of tools used (e.g., ChatGPT, generative models)
+   - Specific tool names required
+
+9. CRITICAL THEORY PROHIBITION (ENFORCED)
+   - Research grounded in Critical Theory explicitly rejected
+   - Unique, highly restrictive prohibition
+
+10. RESULTS/DISCUSSION SEPARATION (ENFORCED)
+    - Must be two separate, clearly labeled sections
+    - Not optional combination
+
+FIELD_SKILL OVERRIDES: 10
+- Abstract: Structured only (not unstructured option)
+- Word limit: Much tighter (7,000 vs. 10,000–15,000)
+- References: Ceiling of 60 (vs. baseline 40–80)
+- Language: British English specified
+- Tables/figures: 7 max (more restrictive)
+- Ethical documentation: Compulsory as submission materials
+- AI disclosure: Required (not in baseline)
+- Critical Theory: Explicitly prohibited
+- Results/Discussion: Must separate
+- Citation style: Harvard (vs. APA)
+
+ACCESS LIMITATIONS:
+None. Full author guidelines publicly available at https://actacommercii.co.za/index.php/acta/pages/view/submission-guidelines
+Recent articles (2025–2026) all accessible via journal website. Open access journal (CC BY 4.0).
+
+METHODOLOGY NOTES:
+- Reviewed complete submission guidelines and formatting requirements page
+- Analyzed 10 distinct published articles across 2025–2026 (empirical quantitative, qualitative, conceptual/review types)
+- Compared observed practices against FIELD_SKILL baseline from mgmt-field-writing-style
+- Classified all findings using ENFORCED/GUIDELINE ONLY/PRACTICE ONLY/FIELD DEFAULT labels
+- Verified abstract structure across all articles examined (100% compliance with 7-section template)
+- Confirmed word count constraints through spot-check of article lengths
+- Examined citation density and style across all samples (all Harvard format)
+
+OVERALL ASSESSMENT:
+Acta Commercii imposes substantially tighter constraints than typical ABS 1 management journals,
+particularly on word limit (7,000 vs. 10,000+), reference count (60 vs. 40–80), and abstract format
+(mandatory structured template). The Critical Theory prohibition is unusual and requires careful
+attention to epistemological framing. Otherwise, the journal follows standard management research
+conventions for quantitative and qualitative work. British English and strict Harvard referencing
+are non-negotiable requirements.

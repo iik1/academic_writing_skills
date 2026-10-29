@@ -1,0 +1,21 @@
+Journal: Journal of Interactive Marketing
+Slug: journal-of-interactive-marketing
+ABS: 3
+Field: MKT
+
+Articles fetched: 35 (abstracts/metadata via CrossRef API, ISSN 1094-9968, DOI prefix 10.1177, 2023-2026)
+Early stop triggered: No — sample exceeded 15-article target; continued until delta set stabilized (~20-25 articles in).
+
+Deltas found: 3
+  1. Statistical Reporting (ENFORCED) — exact p-values, standard errors in tables, and effect sizes required throughout; explicit move away from significance-threshold/star notation.
+  2. Structural Deviations (ENFORCED) — "JNM Reports" short-form article type (<4,000 words, expedited single-round review), not present in FIELD_SKILL.
+  3. Abstract voice (ENFORCED, minor) — abstracts written in third person ("the authors," "this study") rather than first-person "we" used in FIELD_SKILL body-text convention.
+  Low-prevalence/practice-only note: "EXPRESS:" title prefix is a SAGE production/OnlineFirst tag, not an author style convention.
+
+FIELD_SKILL overrides: Statistical reporting (exact p-values vs. threshold/star notation); abstract person (third person mandated).
+
+Access-limitation notes:
+- Full text of all articles was paywalled; assessment based on titles, abstracts, and publication metadata only, per task instructions.
+- Direct WebFetch of journals.sagepub.com pages (author-instructions, TOC, individual DOI pages) returned only JS-rendered site chrome/navigation, not article or guideline content — worked around via WebSearch snippets (author-instructions page) and CrossRef API (article abstracts).
+- PDF mirror of submission guidelines (sagepub.com/docs/...) was image-based/non-extractable; relied on the shared AMA journals guidelines page (ama.org) instead, which JNM's guidelines explicitly reference for formatting/structure details.
+- Journal migrated from Elsevier (through ~2023) to SAGE/AMA; CrossRef article history under the same ISSN spans both publishers, confirmed continuity.

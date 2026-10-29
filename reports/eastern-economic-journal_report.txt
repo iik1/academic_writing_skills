@@ -1,0 +1,21 @@
+Journal: Eastern Economic Journal
+Slug: eastern-economic-journal
+ABS: 1
+Field: ECON
+Publisher: Springer Nature (Palgrave Macmillan imprint) / Eastern Economic Association
+
+Articles fetched: 13 (abstract/front-matter level only; no full text accessible)
+Early stop triggered: No
+
+Deltas found: 2 substantive deltas + 1 scope-level relaxation
+  - Abstract format: hard 100-word cap, 1-3 JEL codes, 2-5 keywords (ENFORCED — stated in guidelines, consistent across sample)
+  - Reference style: Chicago Manual of Style author-date mechanics (first-author-inverted-only, no page locators in text) (ENFORCED — stated in guidelines; consistent with FIELD_SKILL's author-year norm at a general level, but Chicago-specific mechanics are journal detail)
+  - Topical/rigor range wider than ABS 4*/4 baseline: sports economics, pedagogy/institutional papers, methodological history pieces alongside standard applied micro (RELAXATION — practice-only, expected for ABS 1 general-interest journal)
+
+FIELD_SKILL overrides: Abstract length (100-word cap) overrides FIELD_SKILL's silence on abstract length; otherwise no direct conflicts.
+
+Access-limitation notes:
+- Springer Nature link.springer.com pages (submission-guidelines page and all individual article pages) redirected to an authentication wall (idp.springer.com) on every WebFetch attempt in this environment; direct HTML content was never retrieved.
+- All guideline detail (abstract length, JEL/keyword counts, Chicago reference style, typesetter-deferred formatting) was recovered via WebSearch result summaries that quote/paraphrase the Springer guidelines page, not via direct page fetch.
+- All 13 article observations are abstract/title/author level only, sourced from WebSearch snippets drawing on RePEc, SSRN cross-listings, and Springer abstract-page snippets. No full-text article was read. Section-by-section structural conformance (vs. HARD_CONSTRAINTS) could not be directly verified beyond what abstracts imply.
+- Two additional 2026 titles were identified by headline only (abstract not recoverable) and excluded from the final count to avoid unsupported claims.

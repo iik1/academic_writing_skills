@@ -1,0 +1,73 @@
+SKILL GENERATION REPORT
+=======================
+
+Journal: Journal of Behavioral and Experimental Economics
+Slug: journal-of-behavioral-and-experimental-economics-writing-style
+ABS Rating: 2
+Field: ECON
+Publisher: Elsevier
+
+RESEARCH EXECUTION
+==================
+
+Articles Fetched/Spot-Checked: 5 articles examined (titles, abstracts, inference from IDEAS/RePEc summaries)
+- Incekara-Hafalir, Lou & Slonim (2026) "Improving credit card repayments, one nudge at a time"
+- Pham, Veszteg & Kamijo (2026) "Bargaining with indivisibilities"
+- Boulu-Reshef & Rapoport (2026) "The tragedy of ill-informed leadership: An experimental study"
+- Pan, Gomez-Gonzalez et al. (2026) "When Robots Think and Feel, Will Trust Disappear?"
+- Jobu Babin & Chauhan (2026) "Chatbot or humanaut? How the source of advice impacts prosocial behavior"
+
+Early Stop Triggered: NO. Research continued through web search, author guidelines summary, citation style verification, and experimental economics methodological literature review to achieve comprehensive understanding despite paywall limitations.
+
+Access Limitations: Full ScienceDirect PDF access unavailable (HTTP 403). Skill developed from:
+1. Elsevier public author guidelines summary (via web search)
+2. Paperpile citation style database (verified author-year Harvard style)
+3. IDEAS/RePEc journal entry with article titles and abstracts
+4. OpenAccess methodological literature on experimental economics structure
+5. Web search results and cross-referencing
+
+Mandatory Requirements Confirmed:
+- Abstract: max 250 words, unstructured
+- Citation style: Author-year (Harvard parenthetical)
+- Data availability: MANDATORY—must deposit data in repository and cite/link
+- Article structure: Standard empirical economics (Introduction, Methods, Results, Conclusion) with enhanced experimental design detail
+- Scope: Behavioral, experimental, economic psychology, judgment & decision-making
+
+DELTAS FROM FIELD_SKILL
+=======================
+
+Deltas Found: 4 substantive deltas + 1 dimensional alignment
+
+1. HARD CONSTRAINT - Abstract Format (ENFORCED): Unstructured, 250 words max (differs from top-tier journals which may use structured abstracts)
+
+2. HARD CONSTRAINT - Data Availability (ENFORCED, MANDATORY): Unlike FIELD_SKILL which notes data availability as optional/field-dependent, this journal mandates data deposit in repository and citation. Failure to provide data statement affects publication.
+
+3. HARD CONSTRAINT - Experimental Design Detail (DELTA): Requires explicit description of factor structure, control groups, subject recruitment, procedures, instructions, comprehension checks, and incentive structure. More granular than FIELD_SKILL Methods conventions for typical empirical work.
+
+4. RELAXATION - Length Norms (RELAXATION): Explicitly welcomes short articles; high contribution-to-length ratio expected. This relaxes top-tier ABS 4* page norms but maintains rigor. Reflects ABS 2 positioning.
+
+5. PRACTICE ENFORCED - Registered Reports (PRACTICE): Journal explicitly solicits Registered Reports with pre-analysis plans (Introduction, Literature Review with Hypotheses, Methods, Pre-Analysis Plan structure). This is not standard at ABS 4* journals.
+
+FIELD_SKILL OVERRIDES
+=====================
+
+None. The FIELD_SKILL baseline (from ABS 4* journals) is fully compatible with JBEE requirements. JBEE does not contradict field norms; it relaxes some (length) and adds explicit requirements (data availability, experimental detail, Registered Reports pathway). Author-year citations, voice/person, argumentation structure, and citation density all follow field norm exactly.
+
+CONFIDENCE LEVEL
+================
+
+HIGH for:
+- Citation style (verified via Paperpile)
+- Abstract word limit (confirmed via multiple sources)
+- Data availability requirement (stated in author guidelines summary)
+- Article structure (inferred from article titles, spot-checks, and experimental economics literature)
+- Registered Reports pathway (confirmed in author guidelines summary)
+
+MEDIUM for:
+- Exact experimental design detail expectations (inferred from article abstracts and experimental economics methodological literature; full-text articles not accessible for verification)
+- Word limit range (not stated; inferred from "high contribution-to-length ratio" language and "short articles welcome")
+
+NOTES
+=====
+
+This is an ABS 2 journal with Elsevier publishing infrastructure. It is less selective than ABS 4* journals (the FIELD_SKILL baseline) but maintains disciplinary standards. The journal's explicit welcome of Registered Reports is distinctive and reflects broader methodological trends toward pre-registration in experimental work. No material conflicts between JBEE requirements and FIELD_SKILL norms were identified. The skill focuses on what makes JBEE submission-ready, not on general economics writing (which is covered by the field baseline).

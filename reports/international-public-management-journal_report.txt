@@ -1,0 +1,40 @@
+Journal: International Public Management Journal
+Slug: international-public-management-journal
+ABS: 3
+Field: PUB SEC
+
+Articles fetched: 14 (abstract/front-matter level; no full text accessible)
+Early stop triggered: No (stopped at 14 because delta set had stabilized —
+no new journal-specific patterns emerged in the last several articles
+sampled; all matched FIELD_SKILL defaults)
+
+Deltas found: 0. No stable, evidenced journal-specific delta from
+public-sector-field-writing-style was found. Sampled articles spanned
+systematic literature reviews, survey/SEM studies, vignette and list
+experiments, randomized field experiments, and a mixed
+qualitative/AI-assisted case-coding study — consistent with FIELD_SKILL's
+description of methodological pluralism and no single orthodoxy in the
+PUB SEC field. Citation style confirmed as APA/author-date, matching
+FIELD_SKILL. Abstracts observed were unstructured prose, matching
+FIELD_SKILL default.
+
+FIELD_SKILL overrides: none.
+
+Access-limitation notes:
+- Taylor & Francis (tandfonline.com) blocks automated WebFetch requests
+  (HTTP 403) for both the Instructions for Authors page, the About page,
+  and all article PDF/full-text URLs attempted.
+- ResearchGate full-text PDF links also returned 403.
+- All article-level evidence was gathered via WebSearch result snippets
+  (which surface abstract text extracted by search engines) and one
+  open-access institutional repository copy (Birmingham City University,
+  for the "Back to the future revisited" PRP review), which yielded a full
+  abstract and keyword list.
+- Because the Instructions for Authors page could not be read directly,
+  HARD_CONSTRAINTS in the skill file are marked as unconfirmed defaults
+  rather than verified journal rules. No word/page limits, abstract
+  structure requirements, or explicit prohibitions could be confirmed
+  from a primary source.
+- IPMJ is not indexed in RePEc/IDEAS (it is a public administration/
+  management journal, not an economics journal in that index), so that
+  channel was unavailable.

@@ -1,0 +1,21 @@
+Journal: Scandinavian Journal of Statistics
+Slug: scandinavian-journal-of-statistics
+ABS: 3
+Field: ECON (nominal classification; actual subject matter is general statistical methodology/theory, not economics)
+
+Articles fetched: 15 (abstracts/front matter via WebSearch snippets and arXiv/HAL preprint cross-checks; full text on Wiley was inaccessible — every WebFetch to onlinelibrary.wiley.com returned HTTP 402 Payment Required)
+Early stop triggered: No — reached the target of 15 distinct articles; deltas stabilized around subject-matter/register differences (statistics-theory framing vs. FIELD_SKILL's empirical-economics framing) after roughly 8-10 articles, with later articles confirming rather than adding new deltas.
+
+Deltas found: 4 dimensions
+  - Voice and Register: RELAXATION/PRACTICE ONLY (proof/theorem-oriented prose vs. FIELD_SKILL's narrative economic argumentation; "we" retained)
+  - Statistical Reporting: RELAXATION (results reported as formal theoretical properties — consistency, asymptotic normality, properness — not economic-magnitude claims)
+  - Structural Deviations (abstract/intro framing): PRACTICE ONLY (no explicit gap/contribution-list framing; direct problem-to-method-to-property structure)
+  - Other Journal-Specific Patterns: PRACTICE ONLY (recurring "generalizes/nests known special case" framing, e.g., "reduces to the classical spatial depth," "reduces to the conditional Kaplan-Meier estimator")
+
+FIELD_SKILL overrides: None formally stated in guidelines (guidelines page largely inaccessible); the register/reporting deltas above are practice-level relaxations appropriate to ABS 3, not enforced rules, since this journal's ABS tier "may relax norms but cannot redefine the FIELD_SKILL baseline."
+
+Access-limitation notes:
+- Wiley's onlinelibrary.wiley.com pages (author guidelines and all article full-text/abstract pages) returned HTTP 402 Payment Required on every WebFetch attempt — fully paywalled/blocked from automated fetch in this environment.
+- All abstract content was recovered indirectly via WebSearch result snippets (which often echo publisher abstract text) and cross-checked against arXiv/HAL preprint versions of the same papers where available (8 of 15 articles had a matching arXiv or HAL preprint).
+- Guidelines detail (structure, length limits, heading conventions, table/figure rules, citation style) could not be confirmed beyond generic Wiley submission-portal boilerplate (LaTeX template optional, 1.5-line spacing/wide margins, Supporting Information upload process, no reuse of prior conference-proceedings content without disclosure). These gaps are marked "Not confirmed" in the skill file rather than fabricated.
+- IDEAS/RePEc journal listing page (ideas.repec.org/s/bla/scjsta.html) was accessible via WebFetch and provided reliable table-of-contents data used to identify additional article titles for the sample.

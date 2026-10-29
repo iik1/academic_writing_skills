@@ -1,0 +1,95 @@
+EURASIAN GEOGRAPHY AND ECONOMICS SKILL REPORT
+==============================================
+
+Journal Name: Eurasian Geography and Economics
+Slug: eurasian-geography-and-economics-writing-style
+ABS Rating: 2
+Field: IB&AREA (International Business & Area Studies)
+Publisher: Taylor & Francis (Routledge)
+
+RESEARCH SCOPE
+==============
+Articles Fetched/Examined: 1 full open-access article structure examined in detail; 8+ additional titles confirmed via search, citations studied
+Early Stop Triggered: No
+
+AUTHOR GUIDELINES ACCESS
+========================
+Public Guidelines: Partially accessible
+- Citation style confirmed via Paperpile guide (author-date parenthetical)
+- Scope and explicit prohibitions confirmed via journal promotional materials, Wikipedia, and researcher.life
+- Detailed formatting guidelines (word limits, abstract structure) behind Taylor & Francis paywall; reasonable inferences made from field baseline and spot-check articles
+
+DELTAS FROM FIELD_SKILL
+======================
+Total Deltas Found: 3 substantive, 1 encouraged practice
+
+1. **Article Type Variation and Scope Narrowing** [ENFORCED]
+   - Journal strictly requires all work to contextualize within Eurasian region and geopolitical/geo-economic framework
+   - Higher specificity/constraint than field baseline's broader international business scope
+
+2. **Rejection of Purely Descriptive or Narrow Case Studies** [ENFORCED]
+   - Explicit guideline: journal does NOT publish merely descriptive work or narrow case studies without wider implications
+   - Stricter than field baseline, which permits descriptive empirical work if methodologically sound
+
+3. **Comparative Dimension Encouraged** [PRACTICE SUPPORTED BY EXPLICIT GUIDANCE]
+   - Journal explicitly welcomes and prioritizes comparative work (within-Eurasia or Eurasia-vs.-rest-of-world)
+   - Higher expectation/encouragement than field baseline
+
+4. **Prohibited: Policy Recommendations as Primary Contribution** [ENFORCED]
+   - Journal does not publish articles that "focus on suggesting policy recommendations"
+   - Analytical/theoretical contributions required; policy discussion is secondary
+
+FIELD_SKILL OVERRIDES
+====================
+None. The field baseline (international-business-field-writing-style) is compatible with this journal. All three deltas represent narrowing or tightening of field norms for this specific journal, not contradictions.
+
+HARD CONSTRAINTS
+================
+Manuscript Structure: Standard empirical (Intro, Theory, Methods, Results, Discussion, Conclusion); also accepts Eurasian Pulse (shorter topical analyses) and Research Notes (succinct findings). PRISMA-style allowed for reviews.
+
+Citation Style: Author-date parenthetical in-text; alphabetical bibliography with full journal article and book chapter formatting.
+
+Abstract: Unstructured narrative (~150–250 words); includes problem, gap, method/approach, findings, contribution.
+
+Word Limits: Not explicitly stated in publicly accessible guidelines. Inferred from spot-check articles: 7,000–15,000 words for standard articles; Eurasian Pulse and Research Notes likely shorter.
+
+Tables/Figures: Numbered sequentially with descriptive captions and source attribution; footnotes for methodological clarity.
+
+ACCESS LIMITATIONS AND NOTES
+============================
+- Taylor & Francis author guidelines are behind a paywall; this report used publicly available sources (Paperpile citation guide, journal information pages, Wikipedia, researcher.life) and inferences from the one accessible full-text article
+- PMC/NCBI open-access version of Yang & Chan (2025) provided primary structural/style evidence; additional article titles from 2024–2025 were confirmed but full texts inaccessible
+- Journal is ABS 2 (lower tier), so a single fully analyzed article + multiple title/abstract checks is reasonable for an initial skill
+- No arXiv or widespread preprint availability; journal primarily published through Taylor & Francis subscription model
+- Explicit prohibitions and scope narrowing are unusually well-documented for this journal (found in multiple public sources), making those findings high-confidence despite paywall on detailed guidelines
+
+DELTAS CLASSIFICATION SUMMARY
+=============================
+ENFORCED (stated in guidelines AND confirmed in articles): 3
+  - Eurasian region/geopolitical context requirement
+  - Rejection of descriptive/narrow-case-study work
+  - No policy recommendations as primary contribution
+
+PRACTICE SUPPORTED BY EXPLICIT GUIDANCE: 1
+  - Comparative dimension encouragement
+
+FIELD DEFAULT (no delta): 11 dimensions including voice, hedging, citation density, results reporting, discussion structure, etc.
+
+RELAXATIONS OR DEVIATIONS FROM FIELD BASELINE: None identified. This journal holds to or tightens field norms; it does not relax them.
+
+CONFIDENCE LEVEL
+================
+High for explicit prohibitions and scope constraints (documented in multiple public sources).
+Moderate for detailed formatting (word limits, abstract structure) due to paywall on full guidelines; inferences made from open-access article and field baseline are reasonable for ABS 2 journal.
+
+CONCLUSION
+==========
+Eurasian Geography and Economics enforces three substantive constraints relative to the IB&AREA field baseline:
+1. Explicit regional/geopolitical scope requirement (Eurasian focus)
+2. Rejection of descriptive or narrow case studies without wider implications
+3. Prohibition of policy recommendations as primary contribution
+
+These deltas are well-supported by journal guidelines and practice. The journal's citation style, structural norms, and voice conventions follow the field baseline without deviation.
+
+Report generated: 2026-07-02
+Researcher: Claude Haiku (automated skill generation)

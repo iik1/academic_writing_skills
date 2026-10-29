@@ -1,0 +1,20 @@
+Journal: World Bank Research Observer
+Slug: world-bank-research-observer
+ABS: 2
+Field: ECON
+Articles fetched: 10 (Vol 39, Issues 1-2, 2024; abstract/section-heading level, full text paywalled)
+Early stop triggered: No
+
+Deltas found: 4 dimensions
+- Voice and Register: RELAXATION - explicit non-specialist accessibility mandate ("minimal background in economic analysis"), avoid jargon/abstract nouns/passive/"Bankese"
+- Structural Deviations: PRACTICE ONLY - 6 of 10 sampled articles are systematic reviews/meta-analyses/evidence syntheses rather than IMRAD empirical papers; survey-article format is common and legitimate at this journal
+- Other Journal-Specific Patterns (equations): ENFORCED - "No equations, or if used, comprehensible at about the seventh grade level" - directly overrides FIELD_SKILL's trained-economist assumption for methods/theory
+- Tables/Figures: ENFORCED (guideline) - explicit instruction to use sparingly, only when clarifying arguments, stricter than FIELD_SKILL default
+
+FIELD_SKILL overrides:
+- Equations/technical density (methods sections do not assume trained-economist reader)
+- Table/figure usage (sparing, not default vehicle for quantitative results)
+- Abstract framing (explicit "hook" function to drive readership, 150-200 words)
+- Word limit (10,000-12,000 words) - not covered by FIELD_SKILL
+
+Access-limitation notes: All 10 articles accessed via Oxford Academic abstract/section-heading pages through WebFetch (DOI redirects resolved to academic.oup.com/wbro/article/... URLs). Full text was paywalled throughout; no institutional EZProxy access available. No RePEc/IDEAS working-paper cross-check performed. Sample judged sufficient for ABS 2 tier given strong convergence across articles on structural pattern (survey/synthesis prevalence) and accessibility mandate (corroborated directly by guidelines page).

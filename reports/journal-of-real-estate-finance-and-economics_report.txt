@@ -1,0 +1,19 @@
+Journal: Journal of Real Estate Finance and Economics
+Slug: journal-of-real-estate-finance-and-economics
+ABS: 3
+Field: FINANCE
+Publisher: Springer Nature
+
+Articles fetched: 15 (abstract/metadata level via RePEc/IDEAS pages, spanning 2018-2026, volumes 57, 66, 68, 69, 70, 72)
+Early stop triggered: No (ran full planned sample of 15; delta set stabilized at zero deltas well before 15, but continued to confirm convergence)
+
+Deltas found: 0
+Dimensions checked: Structure, Length, Abstract format, Citations, Headings, Tables/Figures, Voice/Register, Statistical/economic-magnitude reporting, Hedging. All align with FIELD_SKILL (finance-field-writing-style). No journal-specific deviations identified.
+
+FIELD_SKILL overrides: none
+
+Access-limitation notes:
+- The official Springer submission-guidelines page (link.springer.com/journal/11146/submission-guidelines) and the "how to publish with us" page both redirect to a Springer IDP login wall (HTTP 303) with no accessible guideline content in this environment. No cached/mirrored version with structural detail (word limits, heading rules, table/figure rules, explicit prohibitions) was found via search.
+- Citation style was confirmed independently via a public Paperpile citation-style page: author-date parenthetical, "et al." for 3+ authors — matches FIELD_SKILL default exactly.
+- Full text of articles was not accessible (paywalled); all spot-checks relied on RePEc/IDEAS abstract/metadata pages, which reliably provided abstract text, keywords, and (inconsistently) JEL codes. JEL code presence/absence on RePEc appears to be a metadata-completeness artifact rather than a journal policy signal.
+- No structural or stylistic deltas from FIELD_SKILL were found in any of the 15 abstracts reviewed (topics ranged from REIT return dynamics and appraisal bias to automated valuation models and housing search behavior), so the skill file states "Follows FIELD_SKILL norm" / FIELD DEFAULT throughout, consistent with the ABS 3 tier guidance that relaxations, not new norms, are expected and none were evidenced here.

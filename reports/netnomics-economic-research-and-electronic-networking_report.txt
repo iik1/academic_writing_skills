@@ -1,0 +1,20 @@
+Journal: NETNOMICS: Economic Research and Electronic Networking
+Slug: netnomics-economic-research-and-electronic-networking
+ABS: 1
+Field: ECON
+Publisher: Springer Nature
+
+Articles fetched: 0
+Early stop triggered: No (exhausted good-faith access chain rather than stopping early; continued attempting alternate routes - direct Springer pages, article DOI page, ResearchGate, Scispace aggregator, multiple WebSearch query variants - before concluding no further sources were reachable)
+
+Deltas found: 0. No dimensions could be assessed due to complete inaccessibility of both guidelines and article content.
+
+FIELD_SKILL overrides: none (no HARD_CONSTRAINTS could be established)
+
+Access-limitation notes:
+- NETNOMICS ceased publication under Springer after 2021 (last volume 17); confirmed via search snippet referencing Springer Nature's discontinued-journals notice. The journal is no longer accepting submissions.
+- Every Springer-hosted URL (springer.com and link.springer.com journal home, submission-guidelines page, individual article page, volume/issue listing) returned an HTTP 303 redirect to idp.springer.com (an authentication gate) with no public content retrievable via WebFetch in this environment.
+- WebSearch queries repeatedly failed ("Web search error: unavailable") or returned irrelevant results (unrelated biology/network-science papers) rather than NETNOMICS-specific abstracts, RePEc/IDEAS listings, or open-access mirrors.
+- ResearchGate discussion thread about the journal's discontinuation returned HTTP 403.
+- Scispace aggregator page for the journal was fetched successfully but contained no substantive extractable content.
+- Net result: zero articles spot-checked, zero guideline fields extracted. The resulting SKILL.md is intentionally thin and documents this limitation explicitly rather than fabricating structure, length, or style norms. Recommend treating econ-field-writing-style as the operative baseline for any hypothetical use of this defunct journal's conventions, pending future access (e.g., via institutional EZProxy) to Springer Link.

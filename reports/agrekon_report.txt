@@ -1,0 +1,19 @@
+Journal: Agrekon
+Slug: agrekon
+ABS: 1
+Field: ECON
+
+Articles fetched: 8 individual abstract pages read in full (RePEc/IDEAS), plus ~35 further titles/abstracts scanned at listing level across 2018-2026 issues for topical/structural pattern-checking.
+Early stop triggered: No (proceeded through full good-faith access chain; stopped only after WebFetch on both T&F guidelines URLs returned 403 and no mirror was found).
+
+Deltas found: 2
+  - Structural Deviations (RELAXATION / PRACTICE ONLY): mix of standard empirical articles with shorter applied "case in point" notes, policy commentaries, special-collection pieces, and in memoriam/tribute content — broader format range than FIELD_SKILL's pure-research-article assumption.
+  - Other Journal-Specific Patterns (PRACTICE ONLY): strong regional specificity (country/sub-national region named in nearly every title/abstract), reflecting the journal's Southern Africa scope.
+
+FIELD_SKILL overrides: none confirmed (no hard constraints could be verified against the field baseline; guidelines page inaccessible).
+
+Access-limitation notes:
+- Taylor & Francis "Instructions for Authors" page (tandfonline.com/journals/ragr20) and the ScholarOne-linked author-submission instructions page both returned HTTP 403 Forbidden via WebFetch; no cached/mirrored version was located via WebSearch.
+- No open-access full-text articles were found; all sampled evidence is at abstract/front-matter level via RePEc/IDEAS (ideas.repec.org), which does provide full abstract text and bibliographic metadata for both current (taf/ragrxx) and legacy (ags/agreko) series.
+- Hard Constraints section of the skill is therefore marked "not independently verifiable" for structure, length, abstract format, citations, headings, and tables/figures — these should be confirmed by the author directly against the live submission portal before use.
+- No JEL codes or keyword lists were visible in any of the fetched abstract pages (RePEc listing omits this field for this journal), so citation/keyword density could not be assessed beyond what FIELD_SKILL already covers.

@@ -1,0 +1,112 @@
+DELTA DETECTION REPORT
+======================
+
+Journal: Journal of Family and Economic Issues
+Slug: journal-of-family-and-economic-issues
+ABS Rating: 2
+Field: ECON
+Publisher: Springer Nature
+
+---
+
+RESEARCH SUMMARY
+================
+
+Articles Fetched: 6 articles and editorials examined
+  - 2x Editorial articles (PMC, open access, 2020)
+  - 1x Article metadata + abstract (IDEAS/RePEc, 2021)
+  - 3x Recent articles via abstracts/metadata (2024-2025)
+  - Full-text access limited by Springer paywall; analysis based on:
+    * PMC open-access editorials (decade review special issue)
+    * Article abstracts, titles, and publication metadata
+    * Author guidelines extracted from Springer and secondary sources
+
+Early Stop Triggered: No. Sufficient information obtained to identify journal-specific deltas despite paywall limitations.
+
+---
+
+DELTAS FOUND: 4 major + methodology notes
+============================================
+
+1. Voice and Register (PRACTICE OBSERVED)
+   - Accessibility increased relative to ABS 4*/4 baseline
+   - Interdisciplinary scope (family studies, social work) yields less technical prose
+   - Hedging more explicit ("may," "suggest," "appear to")
+   - Causal claims more cautious
+
+2. Methodological Diversity (ENFORCED)
+   - Qualitative and mixed-method research explicitly valued
+   - Instrumental variables, natural experiments not required
+   - Descriptive and correlational designs acceptable
+
+3. Mechanism and Mediation Focus (PRACTICE OBSERVED)
+   - Mediating pathways tested and emphasized
+   - Understanding "how" and "why" routinely expected
+
+4. Citation to Interdisciplinary Literature (ENFORCED)
+   - Psychology, sociology, social work integrated alongside econ
+   - Family systems theory, developmental psychology, gender sociology cited
+   - Not treated as "outside" the field
+
+Additional observations:
+  - Limitations explicitly acknowledged (subsections common)
+  - Special issues feature multiple short thematic reviews + editorial introduction
+  - Decade-review editorial explicitly recommends theoretical frameworks beyond economics
+
+---
+
+FIELD_SKILL OVERRIDES
+======================
+
+The journal's author guidelines mandate specific constraints:
+
+Hard Constraints (override econ baseline):
+  1. Abstract: 150–250 words (specific word limit)
+  2. Citation style: Author-date with Springer SPBASIC format
+  3. Headings: Max 3 levels
+  4. Double-blind review requiring anonymized manuscript
+  5. File format: .docx or LaTeX with editable source files
+  6. Author info and competing interests via submission portal, not in manuscript
+
+Relaxations of FIELD_SKILL baseline:
+  - Hedging intensity higher (more qualifying language acceptable)
+  - Causal language expectation lower (correlational designs valued)
+  - Methodological diversity higher (qualitative and mixed-method standard)
+  - Technical vocabulary density lower (interdisciplinary audience)
+
+Aligned with FIELD_SKILL baseline (no override):
+  - First-person plural voice ("we")
+  - Active voice preference
+  - Results announcement in introduction
+  - Explicit contribution statements
+  - Robustness checks and sensitivity analyses common
+  - Citation density pattern (high intro, low conclusion)
+  - Conclusion shorter than introduction
+
+---
+
+ACCESS LIMITATIONS & METHODOLOGY NOTES
+======================================
+
+Full-text access: Blocked by Springer paywall for all recent articles.
+Workarounds used:
+  - PMC open-access editorials (decade-in-review special issue, 2020)
+  - Article metadata + abstracts via IDEAS/RePEc and Springer abstracts pages
+  - Citation style information from Paperpile secondary source
+  - Author guidelines extracted from Springer and secondary sources (SciSpace, Authorea)
+  - Search-engine previews of recent 2024-2025 article titles and keywords
+
+Confidence level: Moderate. Hard constraints (abstract length, citation style, anonymization requirements) are well-documented in guidelines. Stylistic deltas (voice, hedging, methodological diversity) inferred from editorial articles and article titles/abstracts; confirmation of writing-style norms would benefit from access to full-text articles. However, the editorial decade-review is peer-reviewed and published in the journal itself, so its explicit recommendations (e.g., "more qualitative research," "systems theory frameworks") serve as normative evidence.
+
+Sample size rationale: ABS 2 journal (lower-tier) with thin public information justified a smaller good-faith sample. Editorial articles (which analyze 441 papers from the journal) provide implicit evidence of journal norms without requiring full-text access to each article.
+
+---
+
+FIELD BASELINE DEPENDENCY
+==========================
+
+This skill assumes the user has read econ-field-writing-style (FIELD_SKILL baseline). All dimensions aligned with that baseline are marked FIELD DEFAULT and omitted from this skill file. Only deltas are documented. Together, econ-field-writing-style + this journal-specific skill = complete guidance for writing for Journal of Family and Economic Issues.
+
+---
+
+END REPORT

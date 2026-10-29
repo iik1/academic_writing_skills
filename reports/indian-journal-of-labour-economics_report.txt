@@ -1,0 +1,41 @@
+DELTA DETECTOR REPORT
+Indian Journal of Labour Economics
+
+Journal:              Indian Journal of Labour Economics
+Slug:                indian-journal-of-labour-economics-writing-style
+ABS Rating:          1
+Field:               HRM&EMP
+Publisher:           Springer Nature
+Articles Fetched:    10 (recent articles from Vol. 69, Issue 1, March 2026)
+Early Stop:          No
+Deltas Found:        2 significant deltas + 1 practice-only observation
+
+FIELD_SKILL OVERRIDES:
+1. RELAXATION — Theoretical framing: Journal emphasizes labour economics and institutional/development perspectives over psychological/managerial HRM frameworks, reflecting its South Asian, policy-focused scope and position as a labour economics outlet rather than a management/psychology journal.
+
+2. ENFORCED — Policy implications: Journal explicitly positions itself as forum for "analytical and policy research," and policy/development implications are integral to the journal's mission and required component of contributions.
+
+PRACTICE-ONLY OBSERVATION:
+- Empirical quantitative work predominates in recent issues, though qualitative research is accepted and published. Heavy emphasis on empirical testing and data-driven analysis.
+
+HARD CONSTRAINTS IDENTIFIED:
+- Abstract: 150–250 words (unstructured)
+- Manuscript: max 6,000 words (including tables and appendices)
+- Format: LaTeX preferred; Word accepted
+- Citation style: APA Version 7 (recommended)
+- JEL codes: Required; appropriate number not specified but typically 3–4
+- Keywords: 4–6
+- Double-blind review (author anonymization required)
+- Decimal heading system (max 3 levels)
+- Decimal-system headings (max 3 levels)
+
+FIELD_SKILL ALIGNMENTS (NO DELTA):
+- Voice and register, sentence style, CARS-like introductions, citation density patterns, methods reporting standards, results presentation conventions, hedging intensity, discussion and conclusion structures, ethical approval statements — all follow FIELD_SKILL norms.
+
+ACCESS LIMITATIONS:
+- Full-text articles paywalled behind Springer paywall; abstract and metadata accessible via IDEAS/RePEc, Springer homepage listing, and search result snippets.
+- Official submission guidelines page requires authentication; public summary extracted from journal homepage and WebSearch aggregate results.
+- No pre-prints or open-access PDFs found for recent 2025–2026 articles; older papers available on ResearchGate and arXiv.
+
+SKILL DOCUMENT STATUS:
+Complete. Covers hard constraints, significant deltas, field-default dimensions, and common submission pitfalls specific to IJLE.

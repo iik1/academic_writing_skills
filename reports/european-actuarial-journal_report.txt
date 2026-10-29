@@ -1,0 +1,50 @@
+Journal: European Actuarial Journal
+Slug: european-actuarial-journal
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 7 with visible abstract/structure content (Haçarız/Kleinow/Macdonald 2025;
+Korn/Nurkanović 2025; Chevalier/Côté 2025 via PMC open-access mirror; mortality improvement
+rates 2021; USS mortality framework 2022; plus 2 more identified by title/abstract only via
+WebSearch snippets: Blake/Cairns longevity update 2025, reinsurance network 2024).
+Total distinct articles touched: ~9-10. Sample is smaller than the 10-15 target because
+this is an ABS 2 journal per instructions (smaller good-faith sample explicitly permitted),
+and because Springer LinkNature pages sit behind a login-cookie redirect wall for this
+environment's WebFetch tool — direct fetches of link.springer.com/article/... URLs return
+303 redirects to idp.springer.com. Workaround: following the idp.springer.com redirect
+chain (authorize -> transit -> final URL with ?error=cookies_not_supported&code=...)
+successfully returned full article content in most cases. One article (Chevalier & Côté,
+gradient boosting for claims) was retrieved via its PMC open-access mirror instead.
+
+Early stop triggered: No (research complete via good-faith effort; access chain required
+extra redirect-following steps but ultimately worked for most targets).
+
+Deltas found: 3 main dimensions
+  1. Citation style — ENFORCED. Numbered bracket citations [1], [2], not FIELD_SKILL's
+     author-year parenthetical format. Confirmed in guidelines summary and consistently
+     across all 5 articles where reference style was directly observable.
+  2. Article types / length caps — ENFORCED/RELAXATION. Journal offers Letters (up to
+     5 pages, 6-week review) and Discussions (1-3 pages, practitioner-authored) alongside
+     standard Research Papers and Survey Papers — a structural option not present in the
+     ABS 4*/4 FIELD_SKILL baseline. Labeled RELAXATION per ABS-tier rule.
+  3. Structural pattern (PRACTICE ONLY, low-prevalence) — some theory-oriented articles
+     split "Discussion" and "Concluding comments/Conclusions" into two sections rather
+     than FIELD_SKILL's single merged Conclusion; heavier use of formal numbered
+     Propositions/Corollaries/Assumptions reflecting the journal's mathematical-actuarial
+     orientation. Observed in more than one article but not universal (applied papers in
+     sample followed standard empirical structure).
+
+FIELD_SKILL overrides: Citation format only (numbered brackets override author-year).
+All other FIELD_SKILL dimensions (voice, hedging, argumentation structure, results
+reporting) hold as FIELD DEFAULT for standard research papers in this journal.
+
+Access-limitation notes: Springer Link journal-level pages (submission-guidelines,
+aims-and-scope, articles listing, volumes-and-issues) triggered a 303 redirect to
+idp.springer.com requiring cookie-based auth; content on the guidelines page itself was
+reconstructed via WebSearch result snippets (which quoted abstract-length and keyword-count
+requirements directly) rather than a raw fetch of the guidelines page. Article-level pages
+were fetchable via the idp.springer.com redirect chain in most cases, giving genuine
+abstract/keyword/section-heading/citation-style visibility for 5 articles, plus one full-text
+open-access mirror on PMC. No fabricated claims; two additional articles are cited by
+title/topic only (WebSearch snippet, no structural detail) and are flagged as such in the
+skill's Sources table.

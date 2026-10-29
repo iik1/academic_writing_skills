@@ -1,0 +1,20 @@
+Journal: Applied Health Economics and Heath Policy
+Slug: applied-health-economics-and-heath-policy
+ABS: 1
+Field: ECON
+Articles fetched: 7 confirmed full-text/abstract AHEHP articles (PMC9206925, PMC9596577, PMC10119248, PMC4871905, PMC12364733, s40258-025-00988-3 [abstract only], PMC11466881 [editorial, format-only])
+Early stop triggered: No — good-faith sample of 7 reached with strong convergence; deemed sufficient for ABS 1 tier per instructions.
+
+Deltas found (6 dimensions):
+1. Citations — numbered bracketed style overrides FIELD_SKILL's author-year norm (ENFORCED)
+2. Structural — mandatory "Key Points for Decision Makers" box beneath abstract (ENFORCED)
+3. Structural — mandatory "Declarations" section with 6 enumerated subsections (ENFORCED)
+4. Structural — decimal-numbered headings mandatory (ENFORCED, guideline-stated)
+5. Voice/Register — impersonal/passive-leaning register vs. FIELD_SKILL's first-person-plural default (ENFORCED, confirmed across all spot-checked articles)
+6. Other — title/subtitle must describe intervention/methodology/setting, not results (ENFORCED, guideline-stated)
+
+Minor/lower-confidence deltas: optional Plain Language Summary (GUIDELINE ONLY, not observed in practice); inline numbered "Box" concept explainers (PRACTICE ONLY, single clear instance); digital features solicitation (GUIDELINE ONLY, publisher-level).
+
+FIELD_SKILL overrides: Citation format (numbered vs author-year); voice/register (impersonal vs first-person plural); heading numbering scheme (decimal system mandatory).
+
+Access-limitation notes: Springer's own submission-guidelines page and most link.springer.com article pages are login-gated (303 redirect to idp.springer.com) and could not be fetched directly. Compensated by downloading the publicly hosted "Additional Information for Authors" PDF directly via curl (full text obtained) and by spot-checking PMC (PubMed Central) open-access full-text mirrors of AHEHP articles, which provided section structure, Key Points boxes, citation style, and voice evidence. One additional article (TDABC systematic review, s40258-025-00988-3) was confirmed to exist and dated but only abstract-level metadata was accessible.

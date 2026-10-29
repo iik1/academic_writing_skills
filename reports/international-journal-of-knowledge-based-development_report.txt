@@ -1,0 +1,29 @@
+Journal: International Journal of Knowledge-Based Development (IJKBD)
+Slug: international-journal-of-knowledge-based-development
+ABS: 1
+Field: ETHICS-CSR-MAN
+Publisher: Inderscience Enterprises Ltd
+
+Articles fetched: 10 distinct articles (abstracts/metadata only; full text paywalled for all).
+  - Knowledge of declared behaviour: effect of attitude and intention (2024, Vol.14 No.2)
+  - Corporate governance in family business firms: a systematic review (2024, Vol.14 No.4)
+  - From mental representation to strategic foresight (2024, Vol.14 No.3)
+  - Scheduling constraints and implementation in teaching management systems (2024, Vol.14 No.3)
+  - The relationship between knowledge-oriented leadership, conflict, and knowledge hiding (2024, Vol.14 No.3)
+  - Examining the influence of social media in the AI era... Lebanese context (2024, Vol.14 No.2)
+  - Exploring the coworking space as an innovation intermediary (2024, Vol.14 No.1)
+  - Students attitudes... intentions to use online learning (2025, Vol.15 No.3)
+  - Webrooming behaviour studies: a bibliometric analysis (2025, Vol.15 No.3)
+  - A study on the factors influencing the implementation of AI (2025, Vol.15 No.2)
+
+Early stop triggered: No.
+
+Deltas found: 2 substantive
+  1. Abstract format/length: unstructured, ~100 words (max 150) per Inderscience house style, vs. FIELD_SKILL's 150-250 words. Labeled ENFORCED/RELAXATION (publisher-wide, consistent with ABS-1 tier).
+  2. Citation style: Harvard (author-date), publisher-wide Inderscience convention, vs. FIELD_SKILL's APA. Labeled ENFORCED (publisher-wide).
+  Plus one addition not covered by FIELD_SKILL at all: required author biographical note (~100-150 words per author) at submission.
+  No deltas found in voice/register, hedging, argumentation structure, statistical reporting, or headings/tables based on sampled abstracts.
+
+FIELD_SKILL overrides: abstract length/format (unstructured ~100-150 words, overrides FIELD_SKILL 150-250 word range); citation style (Harvard, overrides FIELD_SKILL's APA).
+
+Access-limitation notes: No full-text articles accessible (all behind Inderscience paywall except one open-access abstract page). The official Inderscience "Notes for Authors" PDF (authorguide.pdf) could not be parsed directly by WebFetch (binary/PDF parsing failure) — abstract-length, keyword-count, and Harvard-style requirements were instead corroborated via WebSearch snippets citing the same Inderscience "Notes for Authors" / "advice for authors" guidance, which is publisher-wide (applies identically across all Inderscience journals, not IJKBD-specific). No IJKBD-specific structural template, explicit word/page limit, or table/figure rule beyond the generic Inderscience house style was found. Assessment of voice, hedging, and argumentation is based only on abstracts and keywords (no full text), consistent with the assignment's allowance for a smaller good-faith sample at ABS 1.

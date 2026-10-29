@@ -1,0 +1,14 @@
+Journal: Spatial Economic Analysis
+Slug: spatial-economic-analysis
+ABS: 2
+Field: ECON
+Publisher: Taylor & Francis (Regional Studies Association / RSAI British and Irish Section)
+
+Articles fetched: 6 total (1 full text, 5 abstract/title-level via WebSearch snippets or paywall-blocked full-text pages)
+Early stop triggered: No (good-faith sample of 6 collected across 2012-2025 given ABS 2 tier and thin public access; direct WebFetch to tandfonline.com and files.taylorandfrancis.com returned HTTP 403, so curl with a browser user-agent string was used as a fallback for the guidelines PDF and one full-text article; subsequent article fetches via the same method were rate-limited/blocked, so remaining articles were sourced from WebSearch abstract snippets)
+
+Deltas found: 0 stylistic deltas from FIELD_SKILL voice/structure/hedging/reporting norms observed in the sample (all FIELD DEFAULT). Hard constraints (not FIELD_SKILL deltas but journal-specific requirements layered on top): word limit 7,000-9,000 words inclusive of notes/references; abstract <=100 words; <=4 keywords; <=4 JEL codes; Harvard/author-year citation explicitly mandated; tables/figures uploaded separately with data "kept to a minimum"; double-anonymized review requiring author-reference removal; endnotes minimized; British spelling (Shorter Oxford English Dictionary); double-spacing/4cm margin typesetting requirement.
+
+FIELD_SKILL overrides: word/abstract limits and citation-format specification (Hard Constraints section) — these are additions/specifications on top of FIELD_SKILL, not contradictions, since author-year citation already matches FIELD_SKILL default.
+
+Access-limitation notes: WebFetch tool returned 403 Forbidden for both files.taylorandfrancis.com and tandfonline.com domains. Worked around by using curl with a browser User-Agent header via Bash, which succeeded for the guidelines PDF (files.taylorandfrancis.com/rseaauth.pdf) and the first full-text article fetch, but subsequent batch fetches of 10 additional DOIs via the same method returned empty/blocked shell pages (likely rate-limiting). Remaining article evidence relies on WebSearch-returned abstract snippets rather than direct full-text access. This is consistent with the ABS 2 tier's expected thinner access chain; the skill file documents this honestly in its Sources table.

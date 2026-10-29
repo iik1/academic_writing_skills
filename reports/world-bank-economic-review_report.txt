@@ -1,0 +1,18 @@
+Journal: World Bank Economic Review
+Slug: world-bank-economic-review
+ABS: 3
+Field: ECON
+Publisher: Oxford University Press (for the World Bank)
+
+Articles fetched: 7 distinct articles (abstract/keyword/JEL-level access via RePEc/IDEAS; full text paywalled at Oxford Academic). Spanned 2022 and 2025-2026 issues.
+Early stop triggered: No — stopped at 7 due to access-chain exhaustion (Oxford Academic full-text behind paywall/institutional login; RePEc/IDEAS only exposes abstracts/keywords/JEL codes, not full section structure or prose). Deltas had stabilized (no new structural/style deltas emerging by article 5-7), so this was treated as a reasonable good-faith stopping point rather than continuing to search for marginal additional abstracts.
+
+Deltas found: 2 minor items, both low-impact
+  1. Structural Deviations / Length (ENFORCED, from guidelines): hard word/page caps (7,000 words main text; 40 pages all-inclusive) and requirement to push technical/robustness material to an Online Appendix.
+  2. Other Journal-Specific Patterns (PRACTICE ONLY): strong substantive tilt toward development-economics/policy-relevant topics in developing and emerging economies; not a prose-style delta but relevant for framing/motivation.
+  A "Short Paper" submission track exists (RELAXATION/option, not a requirement).
+  No abstract-structure delta, no citation-style delta, no heading-convention delta, no voice/hedging/reporting delta from FIELD_SKILL — all confirmed FIELD DEFAULT across the 7 spot-checked articles.
+
+FIELD_SKILL overrides: none that contradict FIELD_SKILL; the length/appendix rule and Data Availability Statement requirement are additive journal-specific constraints (ENFORCED, stated in guidelines), not overrides of field-level prose conventions.
+
+Access-limitation notes: Author guidelines page (academic.oup.com/wber/pages/author_guidelines) returned only navigation-menu content on direct WebFetch; guideline details (word/page limits, Online Appendix policy, Data Availability Statement requirement, single-anonymized review, Short Paper option) were recovered via WebSearch snippet extraction rather than a full guidelines document fetch. No full-text articles were accessible (Oxford Academic paywall); all article-level evidence is abstract/keyword/JEL-code level via RePEc/IDEAS, which is sufficient to judge voice, headline-result framing, and JEL/keyword conventions but not fine-grained section structure or citation-density counts within full text.

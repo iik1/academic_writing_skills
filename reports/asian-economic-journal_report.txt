@@ -1,0 +1,21 @@
+Journal: Asian Economic Journal
+Slug: asian-economic-journal
+ABS: 1
+Field: ECON
+
+Articles fetched: 8 distinct articles at abstract/title level (no full-text access). Titles/abstracts obtained via WebSearch snippet extraction from EconPapers, IDEAS/RePEc, and publisher-indexed search results; direct WebFetch to Wiley Online Library returned HTTP 402 (Payment Required) for the guidelines page, issue listings, and all article pages.
+
+Early stop triggered: No (proceeded through good-faith sampling given ABS 1 tier and thin public access; documented access limitations throughout rather than fabricating).
+
+Deltas found: 2 substantive deltas + 1 practice-level pattern
+  1. Length ceiling (Hard Constraint): 8,000-word target, 9,600-word hard cap including all elements — materially tighter than FIELD_SKILL's implicit ABS 4*/4-length norms.
+  2. Abstract format (Hard Constraint): ~100-word unstructured abstract — much shorter than typical top-tier abstracts.
+  3. Geographic/topical scope requirement (Other Journal-Specific Pattern): submissions must connect to 1+ of 27 named Asian economies; confirmed in practice across all 8 sampled titles.
+
+FIELD_SKILL overrides: Length and Abstract format sections above override FIELD_SKILL where FIELD_SKILL is silent/looser on journal-specific length and abstract conventions.
+
+Access limitation notes:
+- All Wiley Online Library WebFetch attempts (forauthors.html, journal homepage, issue listings, individual DOI pages, submission fee PDF) returned HTTP 402 Payment Required.
+- All guideline and abstract content was reconstructed from WebSearch result snippets, which extract partial text from search-engine caches of these pages, plus third-party indexes (IDEAS/RePEc, EconPapers) for article listings.
+- Full text of no articles was accessible; citation density, paragraph-level structure, and hedging language could not be directly verified and are recorded as "no delta observed" (i.e., consistent with FIELD_SKILL at the level observable) rather than fully confirmed.
+- Given ABS 1 tier and the instruction to accept a smaller good-faith sample for lower-tier journals, this sample (8 distinct articles, abstract/title-level) was judged sufficient without further retries against a paywalled access chain.

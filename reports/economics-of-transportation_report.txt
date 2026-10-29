@@ -1,0 +1,28 @@
+Journal: Economics of Transportation
+Slug: economics-of-transportation
+ABS: 1
+Field: ECON
+
+Articles fetched: 14 titles/topics identified across Vol. 42-45 (2025-2026) via IDEAS/RePEc journal listing;
+2 full abstracts read directly (Bontems, Calmette & Martimort "Highway to sell" via WebSearch snippet from
+ScienceDirect abstract page; a 2021 public-transport-economics review article via IDEAS/RePEc). Full text of
+articles was not accessible (paywalled/403 on ScienceDirect direct fetch).
+
+Early stop triggered: No. Completed good-faith spot-check given thin public access.
+
+Deltas found: 0. No dimensions showed a confirmed journal-specific deviation from econ-field-writing-style.
+All dimensions marked FIELD DEFAULT / "Follows FIELD_SKILL norm."
+
+FIELD_SKILL overrides: none identified.
+
+Access-limitation notes:
+- ScienceDirect guide-for-authors page fetched successfully but content was largely generic Elsevier
+  boilerplate (AI-use policy, ethics policy, map disclaimer language, appeals policy) rather than
+  journal-specific structural requirements (no explicit word/page limits, no structured-abstract
+  requirement, no distinctive citation style found).
+- Direct WebFetch to sciencedirect.com aims-and-scope page and individual article pages returned 403
+  Forbidden; worked around using IDEAS/RePEc journal listing and WebSearch result snippets.
+- Full text of sampled articles was not accessible; evidence is based on titles, topics, and abstract/keyword
+  snippets only, consistent with the ABS 1 tier's thinner public information availability.
+- Given convergence with FIELD_SKILL and no contradicting evidence found, the skill was written short per
+  instructions.

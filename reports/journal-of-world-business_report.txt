@@ -1,0 +1,46 @@
+Journal: Journal of World Business
+Slug: journal-of-world-business
+ABS: 4
+Field: IB&AREA
+
+Articles fetched: 11 (abstracts/front matter via IDEAS/RePEc and WebSearch snippet extraction;
+one additional article metadata found with no abstract available)
+Early stop triggered: No — stopped at 11 because delta set had stabilized and additional
+full-text access was blocked (ScienceDirect returned 403 on direct WebFetch; HKUST PDF mirror
+failed on certificate verification).
+
+Deltas found: 2 dimensions, both PRACTICE ONLY (not FIELD_SKILL overrides)
+  1. Structural Deviations — heavy presence of large-N quantitative studies using
+     administrative/patent/FDI/M&A datasets alongside qualitative and conceptual/review
+     pieces; consistent with FIELD_SKILL's stated pluralism, so flagged as practice
+     confirmation rather than a genuine deviation.
+  2. Other Journal-Specific Patterns — multiple sampled abstracts lead with a novel
+     data source/technique/index (e.g., LLM-based cultural quantification, a new Patent
+     Enforcement Index, ML-based deal-completion prediction) as the headline contribution.
+
+FIELD_SKILL overrides (HARD_CONSTRAINTS that override baseline): none required — FIELD_SKILL
+explicitly declines to specify word/page limits, abstract length, and formatting mechanics,
+so the following HARD_CONSTRAINTS supplement rather than conflict:
+  - Abstract: unstructured, max 250 words, no references.
+  - Citation style: APA 7th edition.
+  - Submission format: editable .doc/.docx or .tex only (no PDF); single-column for Word.
+  - Double-anonymized review (separate title page and anonymized manuscript).
+  - Generative AI use declaration required at submission; AI-generated artwork prohibited.
+  - No explicit manuscript word/page limit found in the guide for authors.
+
+Access-limitation notes:
+  - Direct WebFetch of the ScienceDirect Guide for Authors page returned HTTP 403;
+    guideline content was reconstructed from WebSearch result snippets that quoted the
+    page directly (abstract length, AI policy, file format, double-anonymized review).
+  - Full text of sampled articles was not accessible (paywalled); all 11 spot-checked
+    articles were assessed via abstract + keywords only (via IDEAS/RePEc mirrors), per
+    the task's allowance for front-matter-only assessment.
+  - One additional 2026 article (digital transformation review, JWB 61(1)) had no abstract
+    available on IDEAS/RePEc and was excluded from delta analysis, noted for completeness only.
+  - A PDF mirror of the systematic-review article (HKUST site) failed due to SSL certificate
+    verification error; not retried.
+
+Note: FIELD_SKILL's own source list already includes Journal of World Business as one of its
+3 constituent journals (3 articles). This spot-check used a different, non-overlapping sample
+(11 additional articles) to avoid circular confirmation and to test for journal-specific
+deltas beyond what already shaped the baseline.

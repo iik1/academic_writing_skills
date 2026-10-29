@@ -1,0 +1,51 @@
+DELTA DETECTION REPORT
+Journal of Statistical Planning and Inference
+
+Journal: Journal of Statistical Planning and Inference
+Slug: journal-of-statistical-planning-and-inference-writing-style
+ABS Rating: 2
+Field: ECON
+Publisher: Elsevier
+ISSN: 0378-3758
+Founded: 1977
+
+ARTICLES FETCHED: 0 full-text articles
+Early stop triggered: YES
+Reason for early stop: Author guidelines page inaccessible (HTTP 403 Forbidden). No institutional access to full-text articles via public sources (paywalled on ScienceDirect, ResearchGate restricted, arXiv searches yielded no direct preprints).
+
+DELTAS FOUND: 0
+Dimensions analyzed: 0 (spot-check not completed due to access limitations)
+
+FIELD_SKILL OVERRIDES: None (unable to confirm any deviations due to paywall)
+
+ACCESS LIMITATION NOTES:
+- Elsevier author guidelines page: HTTP 403 Forbidden (paywalled)
+- ScienceDirect homepage: HTTP 403 Forbidden (paywalled)
+- Google Scholar: Returns article listings only, no guidelines
+- ResearchGate: Access restricted
+- arXiv: No JSPI-specific preprints found
+- Web Archive: Cannot be accessed via WebFetch
+- Institutional library guides: Not publicly indexed
+
+METHODOLOGY:
+Attempted to access journal's author guidelines directly from Elsevier/ScienceDirect, followed by searches for published articles on arXiv, Google Scholar, ResearchGate, and other open-access repositories. All full-text and complete guideline sources are behind institutional paywalls requiring valid subscription access.
+
+JOURNAL PROFILE DATA RETRIEVED:
+- Editors-in-Chief: A. DasGupta, H. Dette, W.-L. Loh
+- Publication frequency: Monthly
+- Scope: Statistical planning, inference methodology, experimental design, applications across statistics branches
+- Classification: ABS 2 tier (lower than ABS 4*/4 baseline used for FIELD_SKILL)
+- Indexing: JSTOR, Scopus, MathSciNet
+
+RECOMMENDATION:
+This skill file is incomplete due to forced early stopping at Phase 1. Authors submitting to Journal of Statistical Planning and Inference should obtain the official author guidelines from:
+1. The journal's submission portal (https://www.sciencedirect.com/science/journal/03783758/publish/guide-for-authors)
+2. Contact Elsevier directly
+3. Check institution's library access to Elsevier resources
+
+The FIELD_SKILL baseline (econ-field-writing-style) provides a reasonable starting point for ABS 2 research, but journal-specific constraints cannot be confirmed without institutional access.
+
+SKILL FILE LOCATION:
+C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/economics/journal-of-statistical-planning-and-inference_SKILL.md
+
+STATUS: Skill file created with documented access limitations and recommendation for institutional access.

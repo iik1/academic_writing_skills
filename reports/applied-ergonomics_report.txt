@@ -1,0 +1,49 @@
+Journal: Applied Ergonomics
+Slug: applied-ergonomics
+ABS: 3
+Field: PSYCH (WOP-OB)
+
+Articles fetched: 9 full abstracts read via PubMed (PMIDs 38295672, 42296713,
+42335522, 42259026, 42320074, 42247867, 42284742, 42296712, 42361523,
+42378988), plus ~6 additional articles reviewed at title/topic-snippet level
+via WebSearch (ScienceDirect abstract pages returned HTTP 403 and could not
+be fetched directly).
+
+Early stop triggered: No. Continued past 9 full reads until the delta
+pattern (predominantly unstructured abstracts, applied/methods-first
+framing, no visible numbered hypotheses) stabilized. Stopped short of the
+full 15-target because ScienceDirect blocks direct article fetches
+(403 Forbidden) and PubMed was the only reliable full-abstract source
+for this journal.
+
+Deltas found: 3
+  1. Structural/format relaxation - "Your Paper Your Way" submission
+     policy means no fixed structure or theory/hypothesis section is
+     required, looser than FIELD_SKILL's canonical structure (RELAXATION,
+     ABS-3 appropriate).
+  2. Abstract format - unstructured 100-150 word abstract is the norm
+     (8/9 spot-checked), contra FIELD_SKILL's "structured/semi-structured
+     abstracts expected" field default (PRACTICE ONLY / RELAXATION;
+     1 structured exception observed, confirming low prevalence rather
+     than a stated rule).
+  3. Content/framing pattern - many articles are human-factors-engineering
+     or applied-design studies (workplace/device/interface evaluation)
+     rather than organizational-behavior hypothesis-testing designs; no
+     numbered hypotheses observed in any spot-checked abstract (PRACTICE
+     ONLY, disciplinary-mix effect).
+
+FIELD_SKILL overrides: None that contradict FIELD_SKILL outright; the
+above are relaxations/practice notes layered on top of it, consistent
+with ABS-3 tier rules (may relax but not redefine baseline).
+
+Access-limitation notes:
+- ScienceDirect article and guide-for-authors pages returned HTTP 403 on
+  direct WebFetch; guideline content was obtained via WebSearch snippet
+  summaries and an archived instructions PDF (addi.ehu.es mirror, dated
+  2021, cross-checked against current WebSearch snippets for consistency).
+- Full text of all sampled articles was paywalled; analysis is based on
+  abstracts, keywords, and article titles only, as permitted by the task
+  instructions.
+- Highlights requirement (3-5 bullets, <=85 characters) was confirmed via
+  WebSearch summary of Elsevier's standard Highlights guidance page, not
+  directly fetched.

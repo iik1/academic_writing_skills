@@ -1,0 +1,28 @@
+Journal: Advances in Decision Sciences
+Slug: advances-in-decision-sciences
+ABS: 1
+Field: ECON
+Publisher: Asia University, Taiwan
+
+Articles fetched: 7 (abstract/front-matter level via IDEAS/RePEc mirror of publisher's own "aag" series)
+  - 2 pre-2022 (2019, 2020) — plain narrative abstracts
+  - 1 editorial/summary piece (2020) — excluded from style judgments
+  - 4 from 2022-2024 — structured labeled abstracts (Purpose/Design-Methodology-Approach/Findings/Originality-Value, +/- Implications/Limitations)
+
+Early stop triggered: No. Reached good-faith target sample (7) for an ABS 1 journal given thin/paywalled full-text access; converged on a clear, consistent pattern (structured abstract mandate from ~2022 onward) before exhausting further search effort.
+
+Deltas found: 2 stated dimensions
+  1. Voice and Register — ENFORCED. Guidelines explicitly prohibit first-person pronouns in abstract and body, directly reversing FIELD_SKILL's "we"-as-default norm.
+  2. Structural Deviations (Abstract) — ENFORCED. Mandatory structured/labeled abstract (Purpose, Design/Methodology/Approach, Findings, Originality/Value, optionally Implications/Limitations), max 250 words including keywords. Replaces FIELD_SKILL's unstructured abstract. Confirmed present in all 4 non-editorial articles from 2022-2024; absent in the 2 pre-2022 articles sampled, suggesting an editorial policy change around 2021-2022.
+
+  Additional PRACTICE ONLY note: broad interdisciplinary topical scope under "decision sciences" umbrella (e.g., EEG/GAN classification, STEM education), broader than a typical ECON-only journal.
+
+FIELD_SKILL overrides:
+  - Abstract format (unstructured -> structured, Emerald-style)
+  - Voice/person (first-person plural "we" -> avoid first-person pronouns)
+  - Footnotes/endnotes prohibited entirely (FIELD_SKILL treats footnotes as acceptable for qualifications)
+
+Access-limitation notes:
+  - Canonical publisher site journal.asia.edu.tw could not be reached (DNS resolution failure in this sandboxed environment). Guidelines were instead sourced from iads.site ("Scientific and Business World, Singapore"), which appears to mirror/republish the same ADS journal's submission requirements and branding. Treated as reliable because independently corroborated by consistent structured-abstract practice observed in actual published articles from the publisher's own RePEc-registered series (aag).
+  - Full text of all sampled articles was inaccessible (paywalled); all article-level findings are based on abstracts, keywords, and JEL codes only, per the assignment's stated tolerance for front-matter-only spot-checks at ABS 1.
+  - Two competing word-count ranges appeared across the two guideline pages (6,000-10,000 vs. 6,000-12,000 for research articles); skill records both and recommends the more conservative 6,000-10,000 target.

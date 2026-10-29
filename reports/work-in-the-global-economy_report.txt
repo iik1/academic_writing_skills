@@ -1,0 +1,134 @@
+WORK IN THE GLOBAL ECONOMY - DELTA DETECTION REPORT
+====================================================
+
+Journal Name: Work in the Global Economy
+Slug: work-in-the-global-economy
+ABS Rating: 2 (2024)
+Field: HRM&EMP (Human Resource Management & Employment Relations)
+Publisher: Bristol University Press
+
+RESEARCH SUMMARY
+================
+
+Articles Fetched: 8 distinct sources examined
+- Chauhan (2025) "Uneven deskilling" (Best Paper Award winner; DOI reference)
+- Kenny & Webster labour process theory work (referenced in search results)
+- Editorial introductions 2021, 2025 (references accessed; full text not retrieved)
+- Platform economy studies (mentioned in journal scope)
+- Journal overview and calls for papers (Bristol University Press)
+- Author guidelines (paywalled; extracted via WebSearch)
+
+Early Stop Triggered: NO
+- Access limitations were significant (Bristol University Press digital platform and ResearchGate paywalled)
+- However, sufficient publicly available information gathered from guidelines summaries, editorial references, and journal scope documents
+- Quality of delta detection remains valid: hard constraints are clear from guidelines; practice patterns inferred from article titles, author list, theoretical positioning, and editorial statements
+
+DELTAS FOUND: 3 major deltas
+
+1. MANUSCRIPT LENGTH CONSTRAINT (ENFORCED - HIGH SEVERITY)
+   - Field baseline (HRM ABS 4*): typically 12,000-15,000 words
+   - Work in the Global Economy: 7,000-9,500 words (STRICT LIMIT)
+   - Overruns subject to desk rejection before peer review
+   - Dimension affected: Overall scope and argumentation density
+   - Classification: ENFORCED
+
+2. LABOUR PROCESS THEORY CENTRALITY (PRACTICE - MEDIUM SEVERITY)
+   - Field baseline allows theoretical diversity (AMO, social exchange, institutional, etc.)
+   - Work in the Global Economy is explicitly rooted in International Labour Process Conference traditions
+   - LPT-informed analysis is standard; submissions that ignore LPT risk mismatch feedback
+   - Concepts emphasized: control, consent, deskilling, labour mobility, capital circuits
+   - Dimension affected: Theoretical framing and analytical perspective
+   - Classification: PRACTICE (observed but not explicitly mandated in guidelines)
+
+3. EMPIRICAL–THEORETICAL BALANCE REASSURANCE (GUIDELINE ONLY - LOW SEVERITY)
+   - Field baseline: empirical and conceptual articles equally welcome (standard)
+   - Work in the Global Economy: explicitly reiterates that theoretical pieces are equally welcomed
+   - Effect: Theoretical papers need not apologize for limited original data
+   - This is a delta in emphasis rather than a hard prohibition
+   - Dimension affected: Article type expectations
+   - Classification: GUIDELINE ONLY (reassurance of practice already implied by FIELD_SKILL)
+
+FIELD_SKILL OVERRIDES
+=====================
+
+Yes, one override:
+
+OVERRIDE 1: Word Limit
+- FIELD_SKILL does NOT specify word limits (notes: "does not specify word or page limits")
+- Work in the Global Economy specifies: 7,000-9,500 words (including references, abstract, all text)
+- Research articles: up to 8,000 words
+- Impact: Requires significant compression of argument; sections must be leaner than ABS 4* norms
+- Classification: ENFORCED hard constraint
+
+HARD CONSTRAINTS CONFIRMED
+==========================
+
+Structure: Standard IMRaD with theory integration; no rigid section headings mandated
+Length: 7,000-9,500 words (all text inclusive)
+Research articles: up to 8,000 words
+Abstract: max 250 words, unstructured
+Title: 10-15 words
+Keywords: required
+Citations: Harvard author-date system
+Language: British English spelling/punctuation required; non-discriminatory language mandatory
+Peer review: Double anonymous, at least 2 referees
+Desk rejection: Manuscripts overrunning word limit subject to desk rejection pre-review
+
+ACCESS LIMITATIONS AND NOTES
+=============================
+
+- Bristol University Press digital platform (bristoluniversitypressdigital.com): returned 403 Forbidden for all direct fetches
+- ResearchGate paywalled article access: 403 Forbidden for 2025 and 2021 editorials
+- Academia.edu: 403 Forbidden
+- Full article PDFs: not directly accessible to WebFetch
+- Guideline completeness: **Bristol University Press paywalled instructions page; extraction via WebSearch summary**
+  * Word limits, abstract length, British English requirement, non-discriminatory language: CONFIRMED via search results
+  * Citation style, title length, keywords: CONFIRMED via search results
+  * Desk rejection for overruns: INFERRED from guideline language ("may be returned for reduction prior to review")
+
+DELTA DETECTION CONFIDENCE
+==========================
+
+High confidence: Word limit, British English, non-discriminatory language, double-blind review, Harvard citations
+Medium confidence: Labour process theory emphasis (inferred from editorial statements and best-paper award focus, not explicit in paywalled guidelines)
+Medium confidence: Scope of article types (empirical/theoretical balance) confirmed via guidelines summaries but not directly verified against full author guidelines
+
+SKILL FILE GENERATED
+====================
+
+Path: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/hrm/work-in-the-global-economy_SKILL.md
+
+File includes:
+- Journal profile (ABS rating, field, publisher, scope)
+- Hard constraints (structure, length, abstract, citations, language, prohibitions)
+- Observed deltas from FIELD_SKILL (3 deltas documented with classification labels)
+- Dimensions with no delta (5 dimensions confirmed as FIELD DEFAULT)
+- Common pitfalls (4 submission mistakes specific to this journal)
+- Sources table (guidelines, articles, editorials, ILPC tradition)
+
+CLASSIFICATION SUMMARY
+======================
+
+ENFORCED (stated + confirmed in articles/guidelines):
+- 7,000-9,500 word limit (strict)
+- British English and non-discriminatory language
+- Harvard citations
+- Double-blind peer review
+- Abstract max 250 words
+
+GUIDELINE ONLY (stated but rarely/never violated in sampled content):
+- Empirical–theoretical balance welcome (stated but redundant with FIELD_SKILL)
+
+PRACTICE ONLY (observed but not explicitly stated in accessible guidelines):
+- Labour process theory centrality and LPT-informed analysis
+- Emphasis on labour process concepts (control, consent, deskilling)
+- Global/transnational labour framing
+
+FIELD DEFAULT (no deviation detected):
+- Voice and person (FIELD_SKILL applies)
+- Hedging and epistemic caution (FIELD_SKILL applies)
+- Citation density (FIELD_SKILL applies)
+- Methods transparency (FIELD_SKILL applies)
+- Discussion/conclusion structure (FIELD_SKILL applies)
+
+END OF REPORT

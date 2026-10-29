@@ -1,0 +1,22 @@
+Journal: China Agricultural Economic Review
+Slug: china-agricultural-economic-review
+ABS: 1
+Field: ECON
+Publisher: Emerald Publishing
+
+Articles fetched (full text): 0
+Articles referenced (titles/topics only, via IDEAS/RePEc and search snippets): ~15 (2024-2025 issues)
+Early stop triggered: No (proceeded through full good-faith access chain; stopped only after exhausting available public routes)
+
+Deltas found: 1 confirmed
+  - Structural Deviations: Emerald structured abstract (Purpose / Design-methodology-approach / Findings / Originality-value), ENFORCED, overrides FIELD_SKILL's unstructured-abstract norm.
+
+FIELD_SKILL overrides:
+  - Abstract format: structured (4 mandatory headed fields + optional fields), ~250 words total, replacing FIELD_SKILL's free-form abstract assumption.
+
+Access-limitation notes:
+  - emerald.com/caer and the Emerald CAER author-guidelines URL both returned CAPTCHA/403 to automated fetch in this session.
+  - caer.cau.edu.cn (journal's own site, hosted by China Agricultural University) was partially accessible and yielded scope/aims text but not detailed author guidelines.
+  - No full-text articles were readable; findings on structure, length limits, citation style specifics, heading conventions, and table/figure rules could not be confirmed and are marked "Not confirmed" in the skill file.
+  - The structured-abstract finding is inferred from Emerald's shared cross-journal author-guidelines template (confirmed via other Emerald journals' guideline pages: emerald.com/irere, emerald.com/rbe) rather than a CAER-specific page read directly. Treated as high-confidence given Emerald applies this uniformly, but flagged as not independently verified on the CAER page itself.
+  - Given ABS 1 tier and thin public access, this is an appropriately short skill file per instructions.

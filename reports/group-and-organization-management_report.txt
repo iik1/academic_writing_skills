@@ -1,0 +1,17 @@
+Journal: Group and Organization Management
+Slug: group-and-organization-management
+ABS: 3
+Field: ORG STUD
+Articles fetched: 8 (title/abstract-level; full text paywalled and SAGE pages JS-rendered so direct WebFetch returned only navigation chrome — all content sourced via WebSearch snippet extraction cross-referenced across multiple queries)
+Early stop triggered: yes — stopped after delta set (Commentaries/GOM Now/Conceptual Issue formats, standard-article FIELD DEFAULT) stabilized across independent editorial sources; further searches returned diminishing new signal.
+
+Deltas found: 2 dimensions
+  1. Structural Deviations (ENFORCED) — GOM runs four distinct article types: standard empirical/theoretical articles (FIELD DEFAULT structure), annual Special Conceptual Issue (1,500-1,800 word proposals, explicitly not lit reviews or new-theory papers), GOM Commentaries (1-10 pages, no abstract, minimal citation), and GOM Now (~2,500 words, practice-facing, non-academic voice).
+  2. Voice and Register (RELAXATION/ENFORCED, scoped to GOM Now only) — GOM Now pieces require an explicitly informal, non-academic, practitioner-facing voice, unlike FIELD_SKILL's formal register. Standard research articles show no voice delta.
+
+FIELD_SKILL overrides: none for standard empirical articles (abstract length 250 words, 5+ keywords, APA citation confirm rather than override FIELD_SKILL). Overrides apply only to the journal's non-standard formats (Commentaries, GOM Now, Conceptual Issue), which fall outside FIELD_SKILL's scope entirely.
+
+Access limitation notes:
+- journals.sagepub.com is JS-rendered; direct WebFetch on guideline/TOC/article pages returned only site navigation chrome, not content. All information was obtained via WebSearch result snippets (Google's cached/extracted summaries of the same pages), cross-checked across multiple independent search queries for consistency.
+- Full-text articles were not accessible (403 Forbidden on direct article PDF/HTML fetch attempts); analysis relies on abstracts, editorial pieces, and guideline-page snippets only.
+- No explicit word/page limit was found for standard (non-Commentary/non-GOM-Now/non-Conceptual-Issue) research articles; documented as "not specified" rather than fabricated.

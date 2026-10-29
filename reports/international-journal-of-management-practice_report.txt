@@ -1,0 +1,29 @@
+Journal: International Journal of Management Practice
+Slug: international-journal-of-management-practice
+ABS: 1
+Field: ETHICS-CSR-MAN (MGMT baseline used)
+Publisher: Inderscience Publishers
+
+Articles fetched: 13 (titles+abstracts spot-checked; ~185 titles surveyed from full 2020-2026 table of contents for topic/scope pattern)
+Early stop triggered: No — full-text was paywalled throughout, so review relied on abstracts, keywords, and titles across a wide date range (2020-2026) plus Inderscience's publisher-wide author guidelines, which was sufficient for a good-faith ABS-1 spot-check per task instructions.
+
+Deltas found: 5 dimensions
+  1. Sample Size and Rigor (RELAXATION) — much smaller samples, minimal robustness/endogeneity treatment vs FIELD_SKILL
+  2. Theoretical Framing (RELAXATION) — inconsistent use of formal Hypotheses/Propositions; theory used instrumentally rather than extended
+  3. Contribution Framing (PRACTICE ONLY) — practical/managerial recommendations framed as primary contribution
+  4. Methods Mix (PRACTICE ONLY) — high prevalence of systematic-review/bibliometric papers and small-sample qualitative/case studies
+  5. Empirical Setting (PRACTICE ONLY) — concentration in emerging-economy, single-organization/sector convenience samples
+
+FIELD_SKILL overrides (Hard Constraints from Inderscience publisher-wide guidelines):
+  - Word limit: 5,000-7,000 words (vs FIELD_SKILL 10,000-18,000)
+  - Abstract: <150 words, unstructured (vs FIELD_SKILL 150-250 words)
+  - Keywords: 10-15 (broader than typical)
+  - Briefs/research notes not accepted
+  - UK spelling required
+  - Harvard author-date citation (consistent with FIELD_SKILL, no material change)
+
+Access-limitation notes:
+  - Full text of all sampled articles was paywalled (Inderscience Online returned 403 on direct fetch).
+  - No journal-specific "Notes for Authors" page distinct from Inderscience's publisher-wide guidelines was found; the Hard Constraints section reflects the publisher-wide standard, which likely applies uniformly to this journal.
+  - Abstracts and keywords retrieved successfully via IDEAS/RePEc (ideas.repec.org), which mirrors Inderscience metadata and was the most reliable access channel.
+  - Spot-check breadth was expanded to compensate for lack of full-text access — surveyed titles/topics across 6+ years (2020-2026) rather than relying solely on the minimum 10-15 article target.

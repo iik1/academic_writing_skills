@@ -1,0 +1,17 @@
+Journal: European Journal of Industrial Relations
+Slug: european-journal-of-industrial-relations
+ABS: 3
+Field: HRM&EMP
+
+Articles fetched: 13 titles/abstracts spot-checked (7 with full abstract text retrieved via WebSearch snippets; ~13 additional titles reviewed for scope/pattern across Vol. 27-32, 2021-2026 via IDEAS/RePEc listing). Full-text access was not available (SAGE paywall; direct WebFetch to journals.sagepub.com returned only generic site-shell content rather than page-specific text, so all article-level evidence was gathered via WebSearch snippets and third-party mirrors such as IZA/SSRN).
+
+Early stop triggered: No. Stopped after abstract/title evidence stabilized around a consistent pattern (cross-national comparative institutionalist framing, unstructured ~200-word abstracts, no deviation from FIELD_SKILL voice/argumentation norms).
+
+Deltas found: 3 substantive dimensions
+1. Length (HARD_CONSTRAINT) - 5,000-8,000 words including references/tables, shorter than typical HRM&EMP 4/4* ceiling.
+2. Citations (HARD_CONSTRAINT) - SAGE Harvard reference style specifically (not APA), a concrete rule not present in FIELD_SKILL.
+3. Structural Deviations / Other Journal-Specific Patterns (RELAXATION + PRACTICE ONLY) - compressed literature review given word limit; strong preponderance of cross-national comparative and institutionalist/political-economy framing over psychological/managerial framing; title pattern of phrase + subtitle.
+
+FIELD_SKILL overrides: Length (5,000-8,000 words) and Citations (SAGE Harvard) are the two HARD_CONSTRAINTS not otherwise specified by FIELD_SKILL and thus recorded as overrides/additions.
+
+Access-limitation notes: Could not access the SAGE author-instructions page directly via WebFetch (returned generic navigation shell, not page content); guideline details (word limit, abstract limit, citation style, double-anonymized review, funding acknowledgement) were instead obtained via WebSearch's own extraction of that same URL, which appears more reliable for this site. Full-text articles were entirely inaccessible (SAGE paywall with no visible OA copies found for the sampled articles); analysis relied on abstracts and titles only, consistent with the task's allowance for front-matter-only spot-checks.

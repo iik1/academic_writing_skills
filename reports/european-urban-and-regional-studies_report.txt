@@ -1,0 +1,19 @@
+Journal: European Urban and Regional Studies
+Slug: european-urban-and-regional-studies
+ABS: 3
+Field: REGIONAL STUDIES, PLANNING AND ENVIRONMENT
+
+Articles fetched: 14 (title/abstract/front-matter level only; full text paywalled on SAGE, direct WebFetch to journals.sagepub.com returned HTTP 403 for both the guidelines page and the current-issue TOC, so all data was gathered via WebSearch snippets and third-party mirrors such as ResearchGate/HafenCity repository pages).
+
+Early stop triggered: No — access chain (WebSearch across multiple queries) was exhausted rather than deliberately stopped early; additional full-text access was not obtainable via available tools (WebFetch blocked by 403 on all sagepub.com URLs).
+
+Deltas found: 3 (all in Hard Constraints, none in observed writing style/voice/structure from spot-check)
+  1. Abstract length: 250 words max (vs FIELD_SKILL's 100-200 word norm) — ENFORCED (stated in guidelines).
+  2. Article length accounting: 8,000-word cap includes references, title, abstract, and a 500-word charge per half-page table/figure — ENFORCED (stated in guidelines; a RELAXATION/refinement not covered by FIELD_SKILL, which does not specify word limits).
+  3. Distinct article type "Euro Commentaries" (~2,000 words, policy/political commentary) — GUIDELINE ONLY, structural addition not present in FIELD_SKILL.
+  Citation style (SAGE Harvard) is a HARD_CONSTRAINT but not a "delta" per se since FIELD_SKILL does not specify citation style.
+  No deltas found in voice, register, sentence style, argumentation, methods, results reporting, discussion/conclusion, hedging, or citation density — all classified FIELD DEFAULT based on available abstract-level evidence.
+
+FIELD_SKILL overrides: abstract word limit (250 vs 100-200); explicit word-count rules (not specified in FIELD_SKILL).
+
+Access-limitation notes: Could not access full text of any article (SAGE paywall); could not directly fetch journals.sagepub.com pages via WebFetch (403 Forbidden on both the author-instructions page and the current-issue TOC). All guideline and article information was reconstructed from WebSearch result snippets, which is sufficient for structural/word-limit/abstract-format facts but insufficient for verifying fine-grained voice, hedging, or citation-density patterns beyond what FIELD_SKILL already covers. No article-level deltas could be confirmed beyond title/abstract-level topical scope, which is consistent with FIELD_SKILL and the journal's stated remit.

@@ -1,0 +1,46 @@
+Journal: Management International Review
+Slug: management-international-review
+ABS: 3
+Field: IB&AREA
+
+Articles fetched: 10 (abstract/front-matter level only; full text paywalled
+behind Springer login in this environment)
+  1. 10.1007/s11575-025-00587-3 - IPR Regime and Ownership Decisions in CBAs by EMNEs
+  2. 10.1007/s11575-025-00588-2 - Conducting Research in IB Through a Complex Adaptive Systems Lens
+  3. 10.1007/s11575-025-00609-0 - Global Value Chain Participation and Business Performance
+  4. 10.1007/s11575-025-00607-2 - Explaining Chinese FDI in Africa
+  5. 10.1007/s11575-025-00612-5 - Cultural Tightness-Looseness and International Expansion
+  6. 10.1007/s11575-025-00610-7 - Navigating Politically Unstable Environments (review)
+  7. 10.1007/s11575-025-00608-1 - Political Risk, Bargaining Power, and Target Selection of CBAs
+  8. 10.1007/s11575-025-00598-0 - Ethical Issues in International Business Research
+  9. 10.1007/s11575-025-00601-8 - Large Language Models in International Business Research
+  10. 10.1007/s11575-025-00593-5 - Corruption's Impacts on Entrepreneurial Rates and Outcomes
+
+Early stop triggered: No (reached target sample of 10; deltas stabilized -
+no new structural/voice deltas emerged after ~article 6, so stopped there
+rather than pushing to the full 15 given diminishing returns and full-text
+paywall constraints)
+
+Deltas found: 1 dimension (mechanical only)
+  - Heading numbering rule (Springer house style: numbered headings
+    required, no orphan sub-levels) — ENFORCED, journal/publisher-level
+    mechanical constraint, not a style delta per se.
+  No voice, register, citation-density, or structural deltas from
+  FIELD_SKILL were found at the abstract/front-matter level.
+
+FIELD_SKILL overrides: none (ABS 3 journal; no relaxations observed either)
+
+Access-limitation notes:
+  - link.springer.com consistently returned a 303 redirect to
+    idp.springer.com (Springer login wall) for every direct WebFetch
+    attempt, including the submission-guidelines page, aims-and-scope
+    page, and all individual article pages.
+  - Guideline content (abstract 150-250 words, heading numbering rule,
+    authorship/disclosure requirements) was reconstructed from
+    WebSearch-generated cached snippets of the same Springer pages.
+  - Article abstracts were retrieved via WebSearch snippets (search engine
+    cached extracts of the Springer abstract pages) rather than direct
+    fetch; no full-text access was available for any article.
+  - IDEAS/RePEc journal index page (ideas.repec.org/s/spr/manint.html)
+    was fetched directly and used to identify recent article titles/DOIs
+    for targeted follow-up searches.

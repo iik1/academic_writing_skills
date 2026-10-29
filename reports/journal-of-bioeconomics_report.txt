@@ -1,0 +1,16 @@
+Journal: Journal of Bioeconomics
+Slug: journal-of-bioeconomics
+ABS: 1
+Field: ECON
+Articles fetched: 12 (abstracts/front-matter only; full text not accessible)
+Early stop triggered: No (good-faith sample completed; journal is ABS 1 niche/archived, so a smaller sample was pre-approved)
+Deltas found: 3 dimensions
+  - Voice and Register (PRACTICE ONLY): substantial essay/opinion-column content (the "Ordinaries" series, book reviews, tribute essays) alongside conventional empirical/theoretical papers; essay pieces use a more discursive, argumentative voice than FIELD_SKILL's ABS 4/4* empirical norm.
+  - Structural Deviations (PRACTICE ONLY): high proportion of non-IMRaD content types (book reviews, memorial essays, opinion columns) not addressed by FIELD_SKILL.
+  - Other Journal-Specific Patterns (PRACTICE ONLY): bioeconomic-modeling papers blend biology/ecology model components with economics and use more expository framing for the mixed-discipline (economist + biologist) readership.
+FIELD_SKILL overrides: none identified (no hard constraints found that contradict FIELD_SKILL)
+Access-limitation notes:
+  - Journal ceased publishing after 2023 (Volume 25); Springer's current author-guidelines/homepage pages redirect to an authentication wall (idp.springer.com) and could not be fetched.
+  - No live "Instructions for Authors" page found via web search; relied on IDEAS/RePEc table-of-contents listing (2013-2023), individual article abstract pages (ideas.repec.org and Chapman digitalcommons), and a Paperpile citation-style summary page for the author-year reference format.
+  - Could not access full text of any article (all behind Springer paywall); spot-check based entirely on titles, authors, keywords, and abstracts.
+  - The journal itself published a self-referential "how to write for this journal" piece ("Ordinaries 9: How to write a biological economics article," Burnham & Phelan 2022), which was used as the best available proxy for author guidance, though only its abstract was accessible.

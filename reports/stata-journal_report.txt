@@ -1,0 +1,25 @@
+Journal: Stata Journal
+Slug: stata-journal
+ABS: 2
+Field: ECON
+
+Articles fetched: 7 (abstracts/front-matter only; full text paywalled throughout)
+Early stop triggered: No (good-faith ABS 2 sample completed per instructions; full-text access chain exhausted after guideline pages + TOC pages + 7 article abstract searches + 2 failed full-text PDF fetches, both 403)
+
+Deltas found: 3 dimensions
+  - Structural Deviations (ENFORCED): software/methods paper structure (syntax, options, worked Stata examples) replaces FIELD_SKILL's empirical/theory IMRAD structure.
+  - Other Journal-Specific Patterns (ENFORCED/PRACTICE ONLY): tiered content types per issue - full articles, short Notes and comments, and recurring columns (Speaking Stata, Stata tips) at 1-2 pages.
+  - Voice and Register (PRACTICE ONLY / RELAXATION): more expository/didactic register aimed at Stata-practitioner audience vs. FIELD_SKILL's dense first-person-plural analytical register; consistent with ABS 2 relaxation, does not redefine field baseline.
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Citation style: Chicago Manual of Style with specific author-count rules (2-3 authors all named; 4+ "et al." not italicized in text), overriding FIELD_SKILL's generic author-year norm.
+  - Length cap: under 40 SJ pages for regular articles; 1-2 pages for columns/notes.
+  - Abstract must fully cite references (not bare author-date) and avoid acronyms.
+  - Figures/tables: EPS/PDF preferred, grayscale only, must use sj/stsj Stata graph scheme, embedded in text with prior callout.
+  - Math typography rules (bold matrices/vectors, solidus for fractions, bracket nesting order) - journal-specific technical convention with no FIELD_SKILL analogue.
+  - Explicit prohibitions: no Stata-free statistics articles, no undiscussed code dumps, no non-innovative empirical case studies better suited to a disciplinary journal.
+
+Access-limitation notes:
+  - No institutional EZProxy/SAGE access in this environment; all SAGE journals.sagepub.com full text pages returned abstract-only via search snippets, not full text.
+  - Two full-text PDF mirrors of one article (xtevent, via Harvard Scholar and Philadelphia Fed working paper series) both returned HTTP 403 on WebFetch.
+  - All 7 spot-checked articles were assessed via abstract/TOC front matter only (title, authors, abstract text), consistent with the ABS 2 lower-tier good-faith sampling allowance in the task instructions.

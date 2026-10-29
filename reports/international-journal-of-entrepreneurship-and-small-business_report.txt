@@ -1,0 +1,53 @@
+DELTA DETECTOR REPORT
+=====================
+
+Journal: International Journal of Entrepreneurship and Small Business
+Slug: international-journal-of-entrepreneurship-and-small-business
+ABS Rating: 2
+Field: ENT-SBM
+Publisher: Inderscience Enterprises Ltd
+
+ARTICLES FETCHED: 9
+  - 3 via direct metadata (article info pages)
+  - 6 via abstract/summary access (IDEAS/RePEc, journal abstract pages)
+  - 0 via full-text PDF (access restricted to subscribers)
+
+EARLY STOP TRIGGERED: No. Adequate sample obtained despite paywall limitations.
+
+DELTAS FOUND: 4
+
+1. EXPLICIT PROHIBITION ON BRIEFS/RESEARCH NOTES/CASE STUDIES
+   Classification: ENFORCED (stated in guidelines; observed in submission policy)
+   Impact: Full empirical studies, systematic reviews, or theoretical frameworks only
+   Field override: Yes (FIELD_SKILL does not address this prohibition)
+
+2. SYSTEMATIC REVIEWS AND QUALITATIVE STUDIES AS PRIMARY ARTICLE TYPES
+   Classification: PRACTICE (observed in 2024 recent articles; supported by scope statement)
+   Impact: Not limited to hypothesis-driven quantitative empirical work; systematic reviews, qualitative studies, and mixed methods are equally valued
+   Field relaxation: Yes (FIELD_SKILL baseline derived from ABS 4*/4 journals with stronger quantitative emphasis)
+
+3. WORD LIMIT: 5,000–7,000 WORDS (HARD CONSTRAINT)
+   Classification: ENFORCED (stated in author guidelines; strictly applied)
+   Impact: Significantly shorter than ABS 4 baseline; requires tighter framing and selective literature engagement
+   Field override: Yes (FIELD_SKILL does not specify word limits)
+
+4. ABSTRACT <150 WORDS, KEYWORDS 10–15 PHRASES (HARD CONSTRAINTS)
+   Classification: ENFORCED (stated in guidelines)
+   Impact: Slightly tighter abstract; explicit keyword range (FIELD_SKILL mentions keywords but not specific counts)
+   Field override: Minor (clarifies vague FIELD_SKILL)
+
+FIELD_SKILL OVERRIDES: None that fundamentally contradict field baseline.
+  All HARD_CONSTRAINTS align with or clarify FIELD_SKILL norms on Harvard citation, voice, discussion structure, etc.
+
+ACCESS LIMITATIONS AND NOTES:
+  - Journal articles behind Inderscience paywall; no EZProxy access in this environment
+  - Article abstracts, metadata, and submission guidelines publicly accessible
+  - Recent 2024–2025 publication activity confirmed (9 articles reviewed via abstracts/metadata)
+  - Publisher guidelines (Inderscience general author guide) apply to all journals; journal-specific deviations noted above
+  - Good-faith effort completed; sample size (9 articles) adequate for ABS 2 lower-tier journal with thin open access
+
+SOURCES CONSULTED:
+  - Inderscience author guidelines (general and journal-specific)
+  - Journal homepage and archives
+  - IDEAS/RePEc metadata (9 articles, 2024–2025)
+  - Web search results (publisher pages, journal scope statements)

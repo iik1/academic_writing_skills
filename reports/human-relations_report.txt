@@ -1,0 +1,65 @@
+Journal: Human Relations
+Slug: human-relations
+ABS: 4
+Field: ORG STUD
+
+Articles fetched: 8 (1 full-text via institutional repository; 7 abstract-level
+via publisher pages / repository abstract pages / search-engine snippets).
+Titles: "Coping with personhood limbo" (Derakhshan et al., 2025); "Reimagining
+agency: Subjectivity as a radical lens on institutional work" (Fotaki, Prasad,
+Shymko, forthcoming - full text); "Beautifying a stigmatized occupation"
+(Soral et al., 2025); "Relations between reflexivity and institutional work"
+(Tuominen, 2025); "Precarious work: A critical review" (Doshi, Segarra,
+Sliwa, forthcoming); "Creating inclusivity through boundary work?" (van Eck,
+Dobusch, van den Brink, 2024); "'And then I undress the work'" (Turunen et
+al., 2025); Reviewer of the Year Award note (2024, metadata only, not counted
+as a substantive spot-check article).
+
+Early stop triggered: No. Access chain (WebSearch snippets, university
+repositories, WebFetch on SAGE pages) was exhausted rather than arbitrarily
+stopped; SAGE journals.sagepub.com pages consistently blocked WebFetch content
+extraction (returned generic homepage/navigation content instead of article
+content), so abstract-level evidence was gathered via search snippets and
+mirrored repository pages instead.
+
+Deltas found: 5 dimensions with journal-specific deltas from FIELD_SKILL:
+1. Abstract format - 100-200 words with 8 mandated content elements
+   (topic/questions, participants, methods, results, analysis, conclusions,
+   practical implications, future research), tighter/more prescriptive than
+   FIELD_SKILL's "unstructured, under 250 words." ENFORCED.
+2. Heading typography - exact 3-level bold/italic/run-in scheme specified in
+   guidelines. ENFORCED (guideline-stated, not independently verifiable in
+   abstract-only spot-check, but journal-specific and absent from FIELD_SKILL).
+3. Citation/anonymization for double-blind review - self-citations in third
+   person, "Author, Year" placeholders explicitly prohibited. ENFORCED.
+4. Length cap - 45 pages hard limit, page-based not word-based; FIELD_SKILL
+   explicitly does not specify page limits. ENFORCED.
+5. Structural end-matter for conceptual articles (Concluding remarks instead
+   of full Discussion; Biographies, Funding, AI usage declaration sections) -
+   PRACTICE ONLY / low-prevalence, observed in one full-text sample, partly
+   corroborated by guidelines (AI declaration only).
+
+Also noted: Critical Reviews are a gated, special-issue-only article type
+(unsolicited ones desk-rejected) - ENFORCED per guidelines, not previously
+covered by FIELD_SKILL. Quotation length cap (100 words preferred, 400-word
+permission threshold) and numbers/dates formatting rules - ENFORCED,
+journal-specific mechanical conventions.
+
+FIELD_SKILL overrides: Abstract length/structure (100-200 words with 8
+content elements, overriding FIELD_SKILL's "under 250, unstructured");
+otherwise no direct contradictions - Human Relations mostly refines/adds
+detail to FIELD_SKILL rather than contradicting it, consistent with its
+ABS 4 status.
+
+Access-limitation notes: journals.sagepub.com pages (both the "current issue"
+TOC and individual DOI abstract pages) consistently returned generic
+site-navigation content to WebFetch rather than actual page content, likely
+due to JS-rendered content or bot blocking. Full text was accessible for only
+one article, via the University of Warwick's WRAP open-access repository
+(forthcoming 2026 article, CC BY 4.0 Author Accepted Manuscript). All other
+evidence is abstract/keyword-level, sourced through WebSearch snippets that
+quote publisher abstract pages, or university research-portal mirror pages
+(Bath, Aalto). No full quantitative/hypothesis-testing empirical article was
+accessible in full text, so statistical-reporting and citation-density
+dimensions were assessed as FIELD DEFAULT by inference from the one full-text
+conceptual article rather than direct confirmation across article types.

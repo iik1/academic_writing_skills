@@ -1,0 +1,40 @@
+DELTA DETECTION REPORT: Contemporary Economic Policy
+
+Journal: Contemporary Economic Policy
+Slug: contemporary-economic-policy-writing-style
+ABS Rating: 2
+Field: ECON
+Publisher: Wiley-Blackwell (WEAI)
+
+ARTICLES FETCHED: 10+ (metadata only)
+- Sample titles from vol. 42-43 (2024-2025) accessed via IDEAS/RePEc, Wiley TOC listings, and search results
+- Full-text access blocked by paywall; abstracts and metadata used for style assessment
+- Articles include: "Economic freedom and legal gender disparity" (Williamson Kramer 2025), "The fertility gap and economic freedom" (Piano & Stone 2025), and others on labor markets, public policy, gender economics
+
+EARLY STOP TRIGGERED: No
+Rationale: Sufficient guideline and metadata coverage via WEAI website and IDEAS/RePEc to identify all hard constraints. ABS 2 tier (lower) justifies lighter spot-check than ABS 4*/4 baseline.
+
+DELTAS FOUND: 5 substantive + 1 guideline-level
+
+Delta Summary:
+1. Abstract: 100-word maximum (ENFORCED) — FIELD_SKILL does not specify
+2. Keywords and JEL codes: Minimum 3 each required (ENFORCED) — FIELD_SKILL does not address
+3. Section heading format: Roman numerals, centered (ENFORCED) — FIELD_SKILL non-specific
+4. Double-blind review: Author identity masking mandatory (ENFORCED) — FIELD_SKILL not specified
+5. Title character limit: 75 chars max (ENFORCED) — FIELD_SKILL not addressed
+6. Readability emphasis via McCloskey's "Economical Writing" (GUIDELINE ONLY) — Balances FIELD_SKILL's technical density with accessibility mandate
+
+FIELD_SKILL OVERRIDES: None
+The journal does not contradict FIELD_SKILL norms (first-person voice, paragraph density, citation patterns, hedging intensity). All deltas are additions (hard constraints and formatting rules) rather than conflicts.
+
+ACCESS AND LIMITATIONS:
+- WEAI submission guidelines (https://www.weai.org/submit-a-manuscript): Full guideline text accessible directly
+- Wiley author guidelines page: HTTP 402 paywall (inaccessible)
+- Recent articles (Wiley, SSRN): Full text paywalled; abstracts and metadata via IDEAS/RePEc and search results sufficient for structure assessment
+- Editor's report (2024, PDF): HTTP 402 paywall (inaccessible)
+- Spot-check conducted via abstract/metadata review and guideline documentation rather than prose analysis
+
+CONCLUSION:
+Skill file contains complete hard constraints extracted from official WEAI guidelines. The journal is a lower-tier (ABS 2) outlet but maintains disciplined submission requirements. Five enforced deltas identified; all documented with classification and evidence. No conflicts with FIELD_SKILL baseline; one guideline-level tension (readability vs. technical density) noted.
+
+Report generated: 2026-07-02

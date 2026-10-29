@@ -1,0 +1,44 @@
+Journal: Information and Organization
+Slug: information-and-organization
+ABS: 3
+Field: INFO MAN
+Publisher: Elsevier
+
+Articles fetched: 13 (abstract/summary level; full text not accessible)
+Early stop triggered: No — delta set stabilized after ~10-13 articles;
+continued slightly beyond to confirm pattern before stopping.
+
+Deltas found: 2
+ - Structural Deviations (RELAXATION): Journal's stated editorial scope
+   foregrounds qualitative/interpretive/longitudinal fieldwork more
+   strongly than the field baseline; several spot-checked papers omit
+   a distinct hypothesis/research-model section. Not exclusive — sample
+   also includes conceptual and multi-case configurational papers.
+ - Other Journal-Specific Patterns (PRACTICE ONLY): Recurring tendency
+   for titles to foreground the theoretical lens (sociomateriality,
+   critical realism, agential realism, negative ontology, critical
+   discourse analysis) rather than a phenomenon-first title.
+
+FIELD_SKILL overrides: none (no hard constraints from guidelines
+conflicted with FIELD_SKILL; guide-for-authors page was largely
+inaccessible, see below).
+
+Access-limitation notes:
+- ScienceDirect (sciencedirect.com) returned HTTP 403 Forbidden on every
+  direct WebFetch attempt, including the guide-for-authors page, journal
+  landing page, issue listing pages, and individual article abstract
+  pages (both /science/article/pii/ and /abs/pii/ URL forms).
+- Worked around this via WebSearch snippet extraction (which surfaces
+  ScienceDirect abstract text indirectly) and via institutional
+  repository mirrors (Bath, VU Amsterdam, Edinburgh Research Explorer,
+  Cardiff ORCA, Imperial Spiral) which were fetchable directly in some
+  cases and via search snippets in others.
+- The full guide-for-authors content (word limits, structured-abstract
+  format, citation style specifics, table/figure rules) could not be
+  independently confirmed beyond generic Elsevier "Your Paper Your Way"
+  boilerplate common to nearly all Elsevier journals. These generic
+  items were treated as non-journal-specific and excluded from Hard
+  Constraints as substantive deltas.
+- Article structure/section-heading conventions were inferred only from
+  abstracts and titles, not full text, since no full-text PDF was
+  fetchable (Cardiff ORCA PDF also returned 403).

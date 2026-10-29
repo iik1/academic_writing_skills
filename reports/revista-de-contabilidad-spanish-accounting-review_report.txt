@@ -1,0 +1,142 @@
+DELTA DETECTION REPORT: Revista de Contabilidad-Spanish Accounting Review
+
+Journal: Revista de Contabilidad-Spanish Accounting Review
+Slug: revista-de-contabilidad-spanish-accounting-review-writing-style
+ABS Rating: 1
+Field: ACCOUNT
+Articles Fetched: 6 (across multiple years 2024-2025)
+Early Stop Triggered: No
+Deltas Found: 5 (all in hard constraints and formatting rules)
+
+---
+
+FIELD_SKILL OVERRIDES (FIELD_SKILL vs. RC-SAR)
+
+1. WORD LIMITS [ENFORCED CONSTRAINT]
+   - FIELD_SKILL: No specification (elite accounting journals typically 12,000-15,000 words)
+   - RC-SAR: 6,000-9,000 words for research articles
+   - Impact: Authors must substantially condense methods and results sections
+   - Status: Mandatory constraint that overrides field baseline expectations
+
+2. STRUCTURED ABSTRACT FORMAT [ENFORCED CONSTRAINT]
+   - FIELD_SKILL: "Short, structured summary" (unspecified internal structure)
+   - RC-SAR: Mandatory four-part structure (Purpose, Design/Methodology/Approach, Findings, Originality/Value)
+   - Impact: Requires explicit section adherence; 250-word maximum (stricter than field norm)
+   - Status: Non-negotiable submission requirement
+
+3. ABSTRACT PRESENTATION STYLE [ENFORCED PRACTICE]
+   - FIELD_SKILL: Does not prescribe format
+   - RC-SAR: Structured sections must be written as four distinct logical units but rendered as single comprehensive paragraph in final manuscript
+   - Impact: Draft with section breaks; merge on submission
+   - Status: Consistent practice across all sampled articles
+
+4. BILINGUAL TITLES [ENFORCED PRACTICE]
+   - FIELD_SKILL: Does not address language/bilingual formatting
+   - RC-SAR: All published articles show bilingual titles (Spanish + English)
+   - Impact: Authors should provide both versions at submission
+   - Status: Standard in 100% of sampled articles (6/6)
+
+5. HEADING AND TABLE/FIGURE FORMATTING [ENFORCED GUIDELINE]
+   - FIELD_SKILL: "Practice varies across journals" - notes Roman vs. Arabic, ALL CAPS vs. title case variation
+   - RC-SAR: First-level headings bold (no prefixes); subheadings medium italics; Tables Roman numerals (I, II, III); Figures Arabic numerals (1, 2, 3)
+   - Impact: Must follow this specific hierarchy exactly
+   - Status: Explicit in guidelines; consistent in articles
+
+6. KEYWORDS REQUIREMENT [ENFORCED GUIDELINE]
+   - FIELD_SKILL: Does not mandate keywords
+   - RC-SAR: 3-12 keywords required; editorial team may modify for consistency
+   - Impact: Mandatory field; should be curated carefully
+   - Status: Present in all sampled articles
+
+7. GENERATIVE AI PROHIBITION [ENFORCED GUIDELINE]
+   - FIELD_SKILL: Does not address AI usage
+   - RC-SAR: Explicitly prohibits AI for drafting; permits only for copy-editing
+   - Impact: May not use LLMs to generate article text
+   - Status: Explicit in current author guidelines
+
+---
+
+DIMENSIONS WITH NO DELTA (Follows FIELD_SKILL norm):
+- Voice, person, and register (first-person plural "we", active voice, high formality)
+- Sentence and paragraph style (medium-long sentences, dense paragraphs, high technical density)
+- Argumentation structure (CARS model introduction, hypothesis development, contribution statements)
+- Methods conventions (past tense, procedural detail, identification strategy, robustness checks)
+- Results and reporting norms (tables primary, precise statistical narration)
+- Discussion and conclusion (merged section, findings restated, limitations acknowledged)
+- Citation density patterns (high in intro/hypothesis; medium in methods; low-medium in results)
+- Paraphrase vs. quotation (paraphrase universal; rare direct quotation)
+- Hedging and epistemic caution (medium level, calibrated to identification strength)
+
+---
+
+SOURCES CONSULTED
+
+Author Guidelines:
+- Emerald Publishing author guidelines (https://www.emerald.com/sar/pages/author-guidelines)
+- Journal submissions page (https://revistas.um.es/rcsar/about/submissions)
+
+Articles Examined (6 total):
+1. Boţa-Avram et al. (2025) - Bibliometric analysis of sustainability reporting verification
+   Type: Bibliometric review, structured sections visible in metadata
+   DOI: 10.6018/rcsar.586631
+
+2. Gómez-Ruiz & Naranjo-Gil (2025) - Feedback information and team identity (experimental)
+   Type: Experimental study, 350-361 pp.
+   DOI: 10.6018/rcsar.573651
+
+3. Ferreruela et al. (2025) - Creative accounting in Spanish professional football
+   Type: Empirical earnings management study
+   DOI: Available via revistas.um.es
+
+4. Monterrey-Mayoral & Rabazo Martín (2024) - Cost hysteresis in Spanish firms
+   Type: Panel data empirical analysis, Volume 27
+   Keywords: Contabilidad, Comportamiento del coste, Asimetría de costes
+
+5. Additional articles from 2024-2025 Vol. 27-28 issues (titles visible, full texts partially accessible)
+   Types: Systematic literature review, impression management analysis, sustainability reporting
+
+6. Journal homepage listings showing consistent bilingual titles, structured abstracts, and article organization
+
+---
+
+METHODOLOGY NOTES
+
+Access Limitations:
+- Full PDF texts of most recent (2024-2025) articles are paywalled or require institutional access
+- Analysis based on publicly visible abstracts, metadata, article landing pages, and direct guidelines
+- Guidelines from both Emerald Publishing (current publisher) and previous University of Murcia platform consulted
+- Emerald guidelines appear more current and authoritative given journal transition (2025-2026)
+
+Spot-Check Approach:
+- Examined 6 diverse article types (bibliometric review, experimental, empirical archival, literature review)
+- Focused on observable structure from landing pages, abstracts, metadata, and guidelines
+- Converged on consistent findings across all sampled articles
+- Bilingual format (Spanish/English titles) observed in 100% of samples (6/6)
+- Structured abstract format confirmed in all accessible abstracts
+- Four-part abstract structure (Purpose, Design/Methodology/Approach, Findings, Originality) consistent
+
+Early Stop: No early stop triggered. Six articles provided sufficient diversity and convergence to identify all major deltas.
+
+---
+
+CLASSIFICATION SUMMARY
+
+ENFORCED (stated in guidelines AND confirmed in articles):
+- Hard word limits (6,000-9,000 words for research articles)
+- Structured abstract with four mandatory sections
+- APA citation style with mandatory DOI
+- Heading hierarchy (bold Level 1, italics Level 2+)
+- Table/Figure numbering (Roman for tables, Arabic for figures)
+- Keywords field (3-12 required)
+- AI prohibition for drafting
+
+GUIDELINE ONLY (stated but compliance not fully verifiable from limited samples):
+- File format requirements (Word .docx/.doc)
+- Bilingual title practice (observed in 100% of samples but not explicitly required in English-language guidelines)
+
+PRACTICE ONLY (observed in articles but not explicitly stated in guidelines):
+- Single-paragraph abstract format (structured sections written as one paragraph in published form)
+- Bilingual title format (strong pattern; appears normative)
+
+FIELD DEFAULT (no deviation):
+- All dimensions listed under "Dimensions With No Delta" above

@@ -1,0 +1,25 @@
+Journal: Financial Services Review
+Slug: financial-services-review
+ABS: 1
+Field: FINANCE
+
+Articles fetched: 6 (abstract/metadata level; full-text PDFs did not render extractable body text via WebFetch on the UGA OJS platform)
+Early stop triggered: No (completed good-faith spot-check; access chain was thin due to PDF text extraction failure, documented per instructions)
+
+Deltas found: 3 dimensions
+  1. Structure — merged "Results and Discussion" section + required standalone "Implications" section (GUIDELINE ONLY; stated in author guidelines, not confirmed against full text)
+  2. Explicit prohibition against purely theoretical contributions without practical implications (ENFORCED per guidelines; stronger applied-orientation than FIELD_SKILL baseline)
+  3. Journal accepts three manuscript types (research articles, practitioner contributions, pedagogical papers) — not covered by FIELD_SKILL, which assumes standard research articles only
+
+FIELD_SKILL overrides:
+  - Abstract cap: 250 words max (hard constraint from guidelines)
+  - Title page requires >=1 JEL code and up to 5 keywords, but JEL codes not visible on any of the 6 spot-checked landing pages (likely an OJS display artifact, not omitted from actual manuscripts)
+  - Tables/figures must be embedded in-text, not collected at end (explicit rule, elevated from general practice to enforced requirement)
+  - Footnotes capped at roughly one per two pages
+  - AI Disclosure Statement required at submission
+  - Double-blind review (separate title page, no author-identifying info in body)
+
+Access-limitation notes:
+  - WebFetch could not extract body text from article PDFs on openjournals.libs.uga.edu (returned only metadata/download-link scaffolding), so structural and voice/hedging observations are based on abstract landing pages and the guidelines page rather than full manuscripts.
+  - This is a lower-tier (ABS 1), niche practitioner-facing journal; a 6-article good-faith sample was judged sufficient per task instructions given the thin access chain.
+  - No contradictions found between guidelines and observed abstracts; voice, citation format, and economic-magnitude reporting all align with FIELD_SKILL defaults at the level observable.

@@ -1,0 +1,14 @@
+Journal: Asia-Pacific Financial Markets
+Slug: asia-pacific-financial-markets
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 0 full-text articles successfully read. 8 recent article titles/authors collected via RePEc listing (2025-2026). One abstract topical summary obtained indirectly via search-engine snippet aggregation for "Impact of ESG on Chinese-Listed Companies" (10.1007/s10690-025-09542-6); no complete abstract text or full text obtained for any article.
+
+Early stop triggered: No (ran the full access chain: Springer guidelines/aims-and-scope pages, DOI resolver, direct PDF link, Semantic Scholar API, Unpaywall API, ResearchGate mirror, RePEc/IDEAS, springerprofessional.de, exaly.com, and multiple targeted WebSearch queries) but stopped short of the 10-15 article target because every link.springer.com endpoint (guidelines, aims-and-scope, article pages, and PDF content URLs) consistently redirected to an authenticated Springer login wall (idp.springer.com) that could not be bypassed in this environment.
+
+Deltas found: 0 confirmed deltas. Two low-confidence PRACTICE ONLY / scope-level observations recorded (broader theoretical/mathematical remit than typical FIELD_SKILL empirical emphasis; regional Asia/China data focus) but these are scope observations, not confirmed writing-style deltas, since no full text was read.
+
+FIELD_SKILL overrides: none (no hard constraints could be verified from guidelines; nothing overrides FIELD_SKILL).
+
+Access-limitation notes: Springer's submission-guidelines page, aims-and-scope page, and all individual article pages/PDFs for this journal require an authenticated session (303 redirect to idp.springer.com) that is unavailable in this environment. Semantic Scholar's API record for the one open-access article found explicitly elided the abstract field. A ResearchGate mirror PDF for the same article returned HTTP 403. As a result, no author guidelines text and no full article text/complete abstracts were directly readable. The resulting skill file is intentionally short and conservative: it states "Follows FIELD_SKILL norm" / "not independently verifiable" throughout rather than fabricating hard constraints or stylistic deltas, consistent with the ABS 2 good-faith documentation allowance for lower-tier/access-thin journals.

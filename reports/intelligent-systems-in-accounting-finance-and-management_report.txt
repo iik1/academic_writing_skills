@@ -1,0 +1,19 @@
+Journal: Intelligent Systems in Accounting, Finance and Management
+Slug: intelligent-systems-in-accounting-finance-and-management
+ABS: 1
+Field: FINANCE
+
+Articles fetched: 15 titles/abstracts spot-checked across 2022-2025 issues (via RePEc/IDEAS listing and WebSearch snippets). Full text was inaccessible for essentially all articles due to Wiley paywall (WebFetch returned HTTP 402 on the guidelines page, aims page, and article pages directly). Two abstracts were retrieved in reasonably full form (Motai et al. 2025; Todd, Bowden & Moshfeghi 2024); the remainder were judged from titles/short snippets only.
+
+Early stop triggered: No — full good-faith effort completed per instructions for an ABS 1 / thin-access journal.
+
+Deltas found: 3 dimensions
+1. Scope and Framing (Structural Deviation) - PRACTICE ONLY. Journal is a computational/methods venue (ML, AI, NLP applied to accounting/finance) rather than an empirical causal-inference finance venue; introductions foreground technical/methodological gaps rather than economic puzzles.
+2. Statistical Reporting - RELAXATION (consistent with ABS 1 tier). Causal identification apparatus (instruments, parallel trends, event studies) largely absent; papers report predictive/model-validation metrics (accuracy, RMSE, AUC) instead.
+3. Citations - ENFORCED. References follow APA 6th edition specifically (per guideline text found via WebSearch), rather than an unspecified author-year format.
+
+Also noted (PRACTICE ONLY, not a formal delta section): titles frequently name the ML/AI technique directly (e.g., "via Variational Autoencoder," "via Neural Networks"), unlike typical empirical-finance titles.
+
+FIELD_SKILL overrides: none that contradict FIELD_SKILL outright; the above are refinements/relaxations specific to this journal's computational-methods scope and ABS 1 tier.
+
+Access-limitation notes: Wiley's forauthors.html and aims.htm pages both returned HTTP 402 Payment Required via WebFetch, so hard constraints on structure, length, headings, and tables/figures could not be independently confirmed from the primary guidelines page; citation style (APA 6th ed., data accessibility statement requirement) was recovered via WebSearch snippet text that appears to quote the guidelines page directly. Article full texts were paywalled; judgments rest on titles, abstracts, and RePEc/IDEAS metadata only. This is a lower-tier, thin-public-information journal consistent with instructions to document limitations honestly.

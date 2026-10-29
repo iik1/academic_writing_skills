@@ -1,0 +1,23 @@
+Journal: Journal of Banking Regulation
+Slug: journal-of-banking-regulation
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 9 full abstracts read directly (via EconPapers/RePEc mirrors); title-level review of ~30 additional articles spanning 2016-2026 (via IDEAS/RePEc index and WebSearch).
+Early stop triggered: No — good-faith sample obtained despite Springer paywall/login gate on primary article and guidelines pages.
+
+Deltas found: 3 dimensions
+1. Voice and Register — RELAXATION/PRACTICE ONLY: more impersonal/third-person framing than FIELD_SKILL's "we"-dominant norm, especially in legal/policy pieces.
+2. Statistical Reporting — RELAXATION: many abstracts (legal/policy/qualitative pieces) do not preview numeric findings, unlike FIELD_SKILL expectation; empirical papers in sample do comply with FIELD_SKILL.
+3. Structural Deviations — PRACTICE ONLY: significant share of published articles are legal/doctrinal commentary or policy analysis, not empirical papers, and do not follow FIELD_SKILL's empirical article template.
+
+FIELD_SKILL overrides (Hard Constraints beyond FIELD_SKILL):
+- Required ~100-word author/institution bio accompanying submission.
+- Abstract + up to 6 keywords mandatory for typesetting (stricter framing than FIELD_SKILL).
+- Explicit tone prohibition: no slang/unprofessional language; references to named people/orgs must be accurate, non-discriminatory, non-libellous.
+- Explicit third-party copyright clearance requirement for reused figures/tables/data.
+
+Access-limitation notes:
+- Springer Nature Link submission-guidelines page and all individual article pages (link.springer.com/article/...) redirect to an IDP login wall (303 redirect to idp.springer.com) and could not be fetched directly. Guideline content was reconstructed from WebSearch's indexed summary of the guidelines page.
+- Full text of sampled articles was not accessible anywhere in the chain (Springer-exclusive, not on SSRN/ResearchGate open PDF for the sampled pieces); abstracts and keywords were obtained via EconPapers/RePEc mirror pages, which proved reliable and complete for this journal.
+- No explicit word/page limit or citation-style statement was found in accessible guideline text; both were left as "not specified" / defaulted to FIELD_SKILL.

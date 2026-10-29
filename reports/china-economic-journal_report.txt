@@ -1,0 +1,24 @@
+Journal: China Economic Journal
+Slug: china-economic-journal
+ABS: 1
+Field: ECON
+Publisher: Taylor & Francis (Routledge)
+
+Articles fetched: 12 (titles/abstracts, no full text accessible)
+Early stop triggered: No (reached good-faith sample size for ABS 1 tier; full-text paywalled throughout, so relied on abstracts/titles/section metadata from IDEAS/RePEc and Taylor & Francis abstract pages)
+
+Deltas found: 2 dimensions
+- Structural Deviations: journal regularly publishes essay/commentary/perspective-style pieces (by senior policy economists, e.g. Justin Yifu Lin, Yu Yongding, Yang Yao) alongside standard empirical IMRAD-structured papers; classified PRACTICE ONLY.
+- Other Journal-Specific Patterns: frequent thematic special issues with guest-edited framing essays; classified PRACTICE ONLY.
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+- Abstract: 100-150 words, 3-4 keywords, JEL codes required (FIELD_SKILL does not specify abstract format - journal-specific requirement)
+- Structure: max 3 heading levels, title as level-1 heading
+- Tables/Figures: must be submitted separately in Excel format in addition to Word manuscript; data provenance/referential sources required
+- Prohibitions: no prior publication in any language/format; no simultaneous submission without editor consent
+- Submission language: English or Chinese accepted
+
+Access limitation notes:
+- Direct WebFetch to tandfonline.com author guidelines pages returned HTTP 403 (paywall/bot-blocking); guideline content was recovered via a CCER Peking University mirror page (en.ccer.pku.edu.cn) and WebSearch snippets referencing the ccj.pku.edu.cn instructions page.
+- No full-text articles were accessible; all spot-check evidence is based on titles, abstracts, and author/issue metadata from IDEAS/RePEc and Taylor & Francis abstract landing pages.
+- Word/page limits and formal citation style (e.g., Harvard vs. APA) were not found in any accessible source; noted as "not specified" in the skill rather than fabricated.

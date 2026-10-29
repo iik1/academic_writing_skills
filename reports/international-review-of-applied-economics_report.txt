@@ -1,0 +1,19 @@
+Journal: International Review of Applied Economics
+Slug: international-review-of-applied-economics
+ABS: 1
+Field: ECON
+Publisher: Taylor & Francis (Routledge), ISSN 0269-2171
+
+Articles fetched: 20 (titles/metadata via Crossref, 2023-2026 range); 6 with full abstracts via Semantic Scholar Graph API. Author guidelines page inaccessible (see below), so this is a metadata/abstract-only spot-check rather than full-text review.
+
+Early stop triggered: No — this was a full good-faith pass, not an early stop. However, the guidelines phase produced no usable HARD_CONSTRAINTS due to a hard access block (see notes).
+
+Deltas found: 0 stylistic deltas from FIELD_SKILL. All observed dimensions (voice, citation format, abstract format, statistical reporting register) are FIELD DEFAULT. One PRACTICE ONLY / topical observation noted (not a style delta): the journal carries a recurring thematic cluster on employee ownership, worker cooperatives, and economic democracy alongside standard applied macro/development content — a scope pattern, not a writing convention.
+
+FIELD_SKILL overrides: none confirmed. Citation style (author-date, name-year) matches FIELD_SKILL default per third-party citation-style reference (Paperpile), not a journal-specific override.
+
+Access-limitation notes:
+- tandfonline.com/journals/cira20 (the journal's home and Instructions for Authors page) returned HTTP 403 Forbidden on every direct WebFetch attempt, including the aims-and-scope subpage and the doi.org-redirected full-text article pages. This blocked verification of manuscript structure, word/page limits, abstract format rules, heading conventions, table/figure rules, and any explicit prohibitions stated in the guidelines.
+- WebSearch tool returned degraded/irrelevant results for most queries in this session (frequent "search unavailable" errors and off-topic hits), limiting the ability to find guideline mirrors or cached copies.
+- Successfully used Crossref API (works listing by ISSN) to enumerate 20 recent article titles/DOIs, and Semantic Scholar Graph API (by DOI) to retrieve 6 full abstracts. These served as the primary evidence base in place of full-text or guidelines access.
+- No structural, length, or formatting HARD_CONSTRAINTS could be independently confirmed. The skill file documents this honestly rather than fabricating requirements; it records only the one externally corroborated fact (author-date citation style) and flags all other guideline-derived fields as inaccessible.

@@ -1,0 +1,102 @@
+Defence and Peace Economics - Journal Skill Report
+====================================================
+
+Journal Name:           Defence and Peace Economics
+Slug:                   defence-and-peace-economics
+ABS Rating:             2 (2024)
+Field:                  ECON
+Publisher:              Taylor & Francis
+ISSN:                   1024-2694
+Publication Frequency:  Bimonthly (6 issues/year)
+
+RESEARCH PHASE SUMMARY
+======================
+
+Spot-Check Articles:    12 articles sampled
+Access Method:          IDEAS/RePEc abstracts, titles, and metadata (paywall-blocked full text)
+Early Stop Triggered:   No
+Articles Fetched:       12 (titles and abstracts only; full-text access blocked by Taylor & Francis paywall)
+
+ARTICLES EXAMINED
+=================
+
+2026 Publications (Volume 37):
+- Taydas & Peksen (2026), "Press Freedom and Armed Conflicts" Vol 37 No 4, pp 477–504
+- Song et al. (2026), "Geopolitical Storm Approaches: Can Defence Stocks Serve as a Safe Haven?" Vol 37 No 4, pp 505–530
+- Kaja & Foster (2026), "The Market Dynamics of Military Conflict" Vol 37 No 4, pp 531–554
+- Janus (2026), "Warming, cooling, commodity prices, and conflict: do UN peacekeeping troops reduce the effects?" Vol 37 No 1, pp 94–116
+- Lenzen & Debiel (2026), "Can Sanctions Backfire?" Vol 37 No 1, pp 38–57
+- Paradela-López & Antón (2026), "Has the iron fist against criminal gangs really worked in El Salvador?" Vol 37 No 1, pp 78–93
+- Guillot (2026), "Paying the full blood tax: combat exposure and mortality among French WW1 soldiers" Vol 37 No 3, pp 367–394
+
+2025 Publications (Volume 36):
+- Saeed (2025), "The Impact of Military Expenditures on Economic Growth: A New Instrumental Variables Approach" Vol 36 No 1, pp 86–101
+- Weber et al. (2025), "Top-Bottom Hierarchy: An Economic Analysis of the U.S. Overseas Military Investment" Vol 36 No 3, pp 275–291
+
+Additional observed titles (via search results):
+- Chovačík et al. (2026), "Beyond U.S. Guarantees: can Europe defend the Baltic without American ground forces?"
+- Cristancho et al. (2026), "Crime control or power projection? Explaining the contemporary militarisation of nation states' coercive apparatus between 2011 and 2021"
+- Wang et al. (2026), "The state's hand in innovation geography: spatial allocation of U.S. defense contracts and technological transformation"
+
+DELTAS FROM FIELD_SKILL
+=======================
+
+Deltas Found:           2 (low prevalence; mostly PRACTICE ONLY or GUIDELINE ONLY)
+
+1. Keywords and JEL Codes (PRACTICE ONLY)
+   - All observed articles include both keywords (~5–6) and JEL codes (typically 3).
+   - This is standard across economics journals but appears consistently enforced.
+
+2. Structured Abstract Sections (GUIDELINE ONLY)
+   - Some recent articles show implicit sectioning in abstracts (problem, method, findings, implications).
+   - Unstructured abstracts also acceptable; no explicit mandate found.
+
+All Other Dimensions:   FIELD DEFAULT
+   - Voice and person (first-person plural "we")
+   - Statistical reporting (coefficients with confidence intervals)
+   - Citation density and format (author-date, parenthetical)
+   - Sentence and paragraph style
+   - Hedging and caution (low, with defensible claims)
+   - Results–Conclusion norms
+
+HARD CONSTRAINTS EXTRACTED
+===========================
+
+- Word Limit:     10,000 words (regular); 12,000 words (surveys)
+- Abstract:       Unstructured, ~150–250 words (specific limit not stated)
+- Keywords:       5–6 keywords + 3 JEL codes (inferred from practice)
+- Citations:      Author-date (Harvard/parenthetical style)
+- Headings:       Numbered sections (1. Introduction, 2. Background, etc.)
+- Tables/Figures: Standard; detailed notes required (per FIELD_SKILL)
+
+FIELD_SKILL OVERRIDES
+=====================
+
+None. No hard constraints from Defence and Peace Economics conflict with ECON field baseline.
+All dimensional deviations are low-prevalence practices or guidelines, not enforced requirements.
+
+ACCESS LIMITATIONS & NOTES
+==========================
+
+- Taylor & Francis paywall blocks direct access to full author guidelines and article full texts.
+- No EZproxy/institutional access available in this environment.
+- Information sourced from:
+  * IDEAS/RePEc abstract pages (publicly available)
+  * Journal landing page (metadata, scope, word limits confirmed in search results)
+  * Taylor & Francis general guidelines for economics journals
+
+- Good-faith sample of 12 articles is appropriate for ABS 2 journal (lower-tier).
+- Spot-check focused on abstracts, titles, author names, and page counts.
+- No contradictions between FIELD_SKILL and observed article structure; journal closely follows
+  standard ECON field conventions.
+
+CONFIDENCE ASSESSMENT
+=====================
+
+Moderate Confidence: Hard constraints on word limits and article structure are confirmed;
+deltas are minor and documented honestly. Full-text analysis would provide higher confidence
+on voice, hedging, and sentence-level style, but accessible evidence (abstracts, titles, metadata)
+does not reveal significant deviations from FIELD_SKILL baseline.
+
+Skill file written to:
+  C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/economics/defence-and-peace-economics_SKILL.md

@@ -1,0 +1,55 @@
+JOURNAL SKILL REPORT
+====================
+
+Journal: International Review of Entrepreneurship
+Slug: international-review-of-entrepreneurship
+ABS Rating: 2
+Field: ENT-SBM
+Publisher: Diamond Ireland Press / Senate Hall
+
+ARTICLES FETCHED/EXAMINED: 10
+- Vol. 23 No. 2 (2025): 3 articles (full accessible)
+- Vol. 22 No. 2 (2024): 4 articles (titles, abstracts, metadata accessed)
+- Vol. 22 No. 4 (2024): 1 article (full accessible)
+- Vol. 21 No. 4 (2023): 1 article (metadata accessible)
+- Additional searches: 1 unsuccessful (404 on 2023 article link)
+
+Access Method: Web search + WebFetch of journal homepage and article abstracts/metadata via diamondirelandpress.ie and esr.ie. All sampled articles are open-access.
+
+EARLY STOP: No
+All articles sampled were freely available via the journal's open-access platform.
+
+DELTAS FOUND: 5 major + context
+Dimensions affected:
+1. Voice and Register (RELAXATION): Third-person/passive voice more prevalent than field baseline "we" dominance
+2. Hypothesis Development (RELAXATION): Not always a separate section; integrated into Introduction/Theory
+3. Practical Implications (RELAXATION): Not consistently expected as dedicated subsection
+4. Citation Density (PRACTICE ONLY): Abstracts contain minimal citations; full-text density not reliably assessed
+5. Article Types (EXPANSION): Explicit welcome of literature reviews alongside empirical/conceptual work
+6. Submission Format (HARD CONSTRAINT): Microsoft Word only; no LaTeX/PDF alternatives
+
+FIELD_SKILL OVERRIDES:
+- Voice/person: IRE tolerates third-person/impersonal constructions; field baseline expects first-person plural throughout
+- Hypothesis Development: Not mandatory as explicit section; may be embedded
+- Practical Implications: Not a near-universal subsection requirement
+- All other dimensions (sentence style, argumentation, results reporting, discussion structure, hedging location, citation engagement) align with FIELD_SKILL or have insufficient evidence of deviation
+
+HARD CONSTRAINTS IDENTIFIED:
+- Abstract: 150 words maximum (non-negotiable per guidelines)
+- Keywords: Required, placed below abstract
+- Formatting: 12pt, double-spaced, A4, Microsoft Word
+- Citation style: Alphabetical, full journal titles (no acronyms), include volume/issue/year/pages/DOI where available
+- Tables/figures: Must be created in Word natively; no cut-and-paste from PDF/JPEG/GIF
+- Diagrams: Word-native only; placement marked with notation (e.g., "{Table 1.2 near here}")
+- Footnotes: Preferred over endnotes
+- Anonymity: All author-identifying information must be removed from abstract and body for blind review
+- Submission: Email to both vanstela@tcd.ie and andrew.burke@tcd.ie
+
+ACCESS LIMITATIONS:
+The journal is fully open-access from 2023 onward. No paywalls encountered. Attempted direct fetches of 2 older articles (Vol. 21, 2023) returned 404 errors (likely stale links in archive), but sufficient 2024–2025 articles were accessible to support delta analysis. No institutional authentication barriers encountered.
+
+FIELD_SKILL VALIDATION:
+The FIELD_SKILL baseline (ABS 4*/4 norms) is appropriately conservative. IRE, as an ABS 2 journal, relaxes several norms (first-person plural not universal, practical implications optional, hypothesis sections not required) while maintaining rigor in methods transparency and structured argumentation. The lower tier explains the deltas; they are consistent with ABS 2 positioning.
+
+NOTES FOR USER:
+This skill is calibrated for ABS 2 standards and should not be mistaken for field-leading norms. Authors familiar with ABS 4*/4 journals may find IRE more flexible on voice and section structure but must still maintain methodological rigor and clarity. The 150-word abstract limit is unusually strict and warrants special attention during revision.

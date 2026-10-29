@@ -1,0 +1,26 @@
+Journal: Irish Journal of Management
+Slug: irish-journal-of-management
+ABS: 1
+Field: ETHICS-CSR-MAN
+Articles fetched: 5 abstracts/front-matter pages read directly (Gyepi-Garbrah & Preko 2025; Kelliher, Hynes & Mottiar 2023; Heffernan 2025 Foreword metadata) plus titles/authors surveyed across ~25 articles spanning Volumes 40-44 (2021-2025) via EconPapers/RePEc listings.
+Early stop triggered: No (no pre-existing skill found; full pipeline run)
+
+Deltas found: 4 dimensions
+  - Structural Deviations (heading format: bold/unnumbered/centred/all-caps) - ENFORCED
+  - Abstract length (150-word cap, unstructured) - ENFORCED, tighter than FIELD_SKILL
+  - Overall paper length (~40 pages double-spaced cap) - RELAXATION vs FIELD_SKILL's 10-18k word norm
+  - Citation ordering (most-recent-first, not alphabetical) - ENFORCED mechanical convention
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Structure/submission types (Research Papers, Teaching Submissions, Book Reviews)
+  - Length caps (40 pages research; 30-40 pages teaching; 1000-2000 words book reviews)
+  - Abstract: unstructured, <=150 words, no citations
+  - Citations: APA, but multi-citation ordering by recency not alphabetical; full author list at first mention for 3+ authors; no ibid/op.cit.
+  - Headings: bold, unnumbered, all-caps centred main headings; sentence-case bold left-aligned sub-headings
+  - Tables/figures: embedded in text at point of use; specific caption placement and formatting rules
+  - Explicit prohibitions: no author identification in manuscript body; funding/COI disclosed only in cover letter pre-acceptance; British English (-ise); poor writing quality returned without review
+
+Access-limitation notes:
+  - Full-text articles are largely paywalled (Sciendo/De Gruyter/reference-global.com); relied on abstract pages, metadata, and title/author listings from EconPapers and IDEAS/RePEc.
+  - The journal ceased publication after Volume 44, Issue 2 (2025) — confirmed via its own retrospective articles in the final issue. This skill documents its historical/final conventions.
+  - Author Information Pack PDF was successfully retrieved in full via direct S3 URL and parsed with pdfplumber, yielding comprehensive Hard Constraints coverage (13 pages of guidelines).

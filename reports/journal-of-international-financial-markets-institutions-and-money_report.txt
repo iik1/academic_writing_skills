@@ -1,0 +1,22 @@
+Journal: Journal of International Financial Markets, Institutions and Money
+Slug: journal-of-international-financial-markets-institutions-and-money
+ABS: 3
+Field: FINANCE
+
+Articles fetched: 0 full-text (paywalled). 17 titles/topics spot-checked via RePEc/IDEAS/EconPapers indexes and WebSearch snippets (2024-2026, Volumes 108-110 plus earlier years).
+Early stop triggered: No (title-level sampling continued until topical pattern stabilized around mainstream empirical finance/international finance subjects, consistent with FIELD_SKILL).
+
+Deltas found: 0. No dimension showed a confirmed journal-specific deviation from finance-field-writing-style. All content dimensions (voice, statistical reporting, citation density, structure, hedging) recorded as "Follows FIELD_SKILL norm."
+
+FIELD_SKILL overrides: none.
+
+Hard constraints extracted from guidelines (submission-mechanics, not style deltas):
+- Editable source file required (.doc/.docx or .tex); PDF not accepted as source file.
+- Strikethrough/underlined text must be removed unless scientifically significant.
+- Institutional affiliations must use full standard name or standard abbreviation (research-integrity verification).
+- Data availability statement required at submission.
+
+Access-limitation notes:
+- ScienceDirect guide-for-authors page returned HTTP 403 on direct WebFetch; relied on WebSearch's cached/indexed excerpts of the same page for guideline content. Could not verify presence/absence of Highlights requirement, structured abstract requirement, explicit word limits, or JEL/keyword field requirements beyond what WebSearch surfaced (none of these were found stated, likely because they follow generic Elsevier defaults).
+- No full-text articles were accessible (all paywalled). Spot-check was conducted at the title/topic level only via RePEc/IDEAS and EconPapers journal indexes, which do not display abstracts. This is a title-only judgment of topical/scope alignment with FIELD_SKILL, not a text-level style verification of voice, hedging, or statistical reporting norms.
+- Given the convergence rule and lack of any confirmed deviation (guideline or article-based), the skill file records "Follows FIELD_SKILL norm" throughout rather than speculating deltas from insufficient evidence.

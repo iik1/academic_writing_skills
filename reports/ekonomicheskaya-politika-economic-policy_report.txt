@@ -1,0 +1,27 @@
+Journal: Ekonomicheskaya Politika / Economic Policy
+Slug: ekonomicheskaya-politika-economic-policy
+ABS: 1
+Field: ECON
+Publisher: RANEPA (Russian Presidential Academy of National Economy and Public Administration), founded by Gaidar Institute for Economic Policy
+
+Articles fetched: 2 full English abstracts read verbatim (Sizova 2025; Levashenko & Sinelnikov-Murylev), plus ~25 additional article titles/authors/JEL codes indexed via RePEc archive listing (2022-2026 issues). No full-text body access (journal is Russian-language; only English metadata/abstracts are exposed for non-native readers).
+
+Early stop triggered: No — proceeded through full good-faith spot-check given access constraints (Russian-language full text, no institutional proxy).
+
+Deltas found: 3 dimensions
+1. Structural Deviations — mandatory bilingual front matter (Russian + English metadata block including transliterated references) — ENFORCED
+2. Citation Density/format — bracketed [Author, Year] in-text citation per GOST 7.0.5-2008 instead of parenthetical author-year prose — ENFORCED (formatting divergence, not density change)
+3. Other Journal-Specific Patterns — abstracts narrate internal section roadmap ("theoretical section... second section...") more explicitly than ABS 4/4* norm — PRACTICE ONLY (n=2)
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+- Length: 20,000-60,000 characters (much lower floor than ABS 4/4* norm)
+- Abstract: 100-250 words, must cover subject/methodology/results/application/conclusions explicitly
+- Citations: GOST 7.0.5-2008 bracketed in-text style, not author-year parenthetical prose
+- Figures: must be editable source files, rasterized formats explicitly prohibited
+- Tables: native Word tables only, placed inline
+- No underlining except hyperlinks
+- Reference list excludes govt regulations/statistics/archival materials
+- Manuscript must be anonymized (double-blind)
+- AntiPlagiat.ru plagiarism report required at submission
+
+Access-limitation notes: Full-text articles are in Russian and not accessible for direct style spot-checking. All spot-check evidence is drawn from English-language abstracts, keywords, JEL codes, and titles exposed on the journal's bilingual OJS platform (ecpolicy.ru) and RePEc/IDEAS listings. This is inherent to the journal's language and is disclosed in the skill file. Voice/register/hedging/tense dimensions are marked FIELD DEFAULT by assumption of convergence rather than confirmed independently against full Russian body text.

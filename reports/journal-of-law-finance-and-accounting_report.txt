@@ -1,0 +1,29 @@
+Journal: Journal of Law, Finance, and Accounting
+Slug: journal-of-law-finance-and-accounting
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 9 (abstract/front-matter level)
+- Aivazian & Callen (2025) "Some Fallacies in Corporate Finance: A Coaseian Perspective"
+- Gelter (2025) "Minimum Capital and Cross-Border Firm Formation in Europe"
+- Roe & Wang (2025) "Half the Firms, Double the Profits: Public Firms' Transformation, 1996-2022"
+- Litov, Liu & Sitorus (2024) "The Effect of Policy Uncertainty on VC Investments Around the World"
+- Riddiough (2024) "Deciphering Private Equity Incentive Contracting and Fund Leverage Choice" (title only, no abstract retrieved)
+- Steuer (2024) "Common Ownership and the (Non-)Transparency of Institutional Shareholdings"
+- Jiang (2023) "Diversity through Turnover: How to Overcome the Glacial Pace toward Board Diversity?"
+- Lee, Liu & Romano (2023) "Shadow Trading and Corporate Investments"
+- Ball (2023) "Liquidity Risk at Large U.S. Banks"
+
+Early stop triggered: No
+
+Deltas found: 3 dimensions
+1. Citations - dual "law format" (Chicago/footnote) vs "finance/accounting format" (author-year) explicitly permitted; law-style papers lean footnote-heavy (ENFORCED, per guidelines)
+2. Structural deviations - journal accepts theory/critique essays without empirical IMRaD structure (GUIDELINE ONLY/PRACTICE, confirmed in 1 of 9 sampled articles; majority still follow FIELD_SKILL structure)
+3. Other journal-specific pattern - cover letter must state which 2-of-3 disciplines (accounting/finance/law) the paper addresses; scope-fit desk-rejection risk (submission-process requirement, no FIELD_SKILL analog)
+
+FIELD_SKILL overrides: none that contradict FIELD_SKILL outright; citation format is an additive accommodation (either format accepted) rather than a replacement.
+
+Access-limitation notes:
+- nowpublishers.com AuthorInstructions and EditorialAims pages returned HTTP 403 on direct WebFetch; guideline content reconstructed from WebSearch result snippets quoting the same pages (citation style, formatting specs, scope/review process all confirmed via multiple independent search snippets).
+- No full-text articles accessible (Emerald paywall); all article-level findings are abstract/front-matter level, consistent with task instructions for this access tier.
+- Sample size (9) is below the 10-15 target but represents a good-faith exhaustion of the accessible chain (SSRN, RePEc, ECGI, NBER, publisher abstract mirrors) for this ABS 2/niche interdisciplinary journal.

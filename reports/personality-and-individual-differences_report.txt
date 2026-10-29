@@ -1,0 +1,22 @@
+Journal: Personality and Individual Differences
+Slug: personality-and-individual-differences
+ABS: 3
+Field: PSYCH (GENERAL)
+
+Articles fetched: 2 full-text (Vance et al. 2024, PAID 221:112547; Andrzejewski et al. 2024, PAID 216:112417), plus abstract/metadata review of ~10 additional 2024-2025 titles via ScienceDirect issue listings and search snippets. ScienceDirect abstract/article pages returned HTTP 403 to WebFetch consistently; full text was obtained only via author-hosted PDFs found through web search (toddkshackelford.com, internet.psych.wisc.edu).
+
+Early stop triggered: No (proceeded through full research; stopped at good-faith access exhaustion for full-text sampling — ScienceDirect systematically blocked WebFetch).
+
+Deltas found: 2 dimensions
+1. Structural Deviations — numbered decimal section/subsection headings (e.g., "1. Introduction", "6.1.1. Participants and procedure") used consistently, including numbering literature-review subsections as top-level sections. FIELD_SKILL is silent on heading numbering.
+2. Other Journal-Specific Patterns — CRediT authorship contribution statement, Declaration of competing interest, and Data availability statement present as standard end matter in both sampled articles (Elsevier-mandated, not covered by FIELD_SKILL).
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+- Abstract: unstructured, max 200 words, no citations
+- Numbered decimal headings (formatting convention)
+- Graphical abstract and highlights: optional/encouraged, not required (neither used in sampled articles)
+- Inclusive-language requirement explicitly stated
+- "Matters Arising" article type (commentary format, ~300 words, no abstract) — no FIELD_SKILL analogue
+- Generative AI policy applies to graphical abstracts
+
+Access-limitation notes: ScienceDirect journal/article pages (including the official Guide for Authors page) returned 403 Forbidden to WebFetch on every attempt; guideline content was reconstructed via WebSearch result snippets instead of direct page fetch. Full-text sampling was limited to 2 articles because ScienceDirect abstract/full-text pages were also blocked; author-hosted PDFs (faculty pages) were the only reliable full-text access route found. This is consistent with the standard Elsevier paywall behavior noted in the assignment instructions.

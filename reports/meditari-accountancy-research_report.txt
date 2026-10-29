@@ -1,0 +1,68 @@
+MEDITARI ACCOUNTANCY RESEARCH - DELTA DETECTION REPORT
+======================================================
+
+JOURNAL METADATA
+================
+Journal Name: Meditari Accountancy Research
+Slug: meditari-accountancy-research
+ABS Rating: 1
+Field: ACCOUNT
+Publisher: Emerald Group Publishing
+
+RESEARCH SUMMARY
+================
+Articles Fetched: 3 (spot-check)
+Article Types: Systematic literature review (2), Empirical study (1)
+Year Range: 2023-2025
+Access Method: Emerald Insight abstract pages (paywalled); article metadata via WebSearch and publisher support pages
+
+Early Stop Triggered: No
+- ABS 1 journal with limited but sufficient publicly accessible sample
+- Three articles examined in detail via abstract pages
+- Emerald publisher guidelines researched
+- All articles showed consistent structured abstract format
+
+DELTAS IDENTIFIED
+=================
+Total Deltas Found: 1 (publisher-level standard, not Meditari-specific)
+
+Delta 1: ABSTRACT STRUCTURE (ENFORCED)
+- Classification: GUIDELINE ONLY (Emerald standard across all journals)
+- Finding: Meditari enforces Emerald's structured abstract format with mandatory headings (Purpose, Design/Methodology/Approach, Findings, Research Limitations/Implications, Practical Implications, Originality/Value)
+- Field Baseline says: "structured summary" without specifying exact heading structure
+- Journal Implementation: Strictly enforced; all three sampled articles followed this format exactly
+- Implication: Overrides field baseline; mandatory heading format must be observed
+
+FIELD_SKILL OVERRIDES
+====================
+- Abstract format: ENFORCED. Emerald structured format (with specific mandatory headings) replaces field baseline's more flexible "structured summary in a single paragraph" approach.
+
+All other dimensions (voice, register, citation style, argumentation, methods conventions, results reporting, hedging, discussion/conclusion structure) align with FIELD_SKILL baseline. No journal-specific deviations detected.
+
+ACCESS LIMITATIONS
+==================
+- Emerald Publishing website (https://www.emeraldgrouppublishing.com/journal/medar) returned HTTP 403 Forbidden
+- ScienceDirect paywalled (403 Forbidden)
+- Emerald direct PDF downloads blocked by CAPTCHA security verification
+- Author guidelines PDF inaccessible
+- University repository links (OU, Glasgow) returned 403 Forbidden
+
+Workarounds employed:
+- Extracted abstract data from Emerald Insight article abstract pages (accessible without login)
+- Reviewed Emerald Publishing customer support documentation
+- Analyzed Emerald's general journal submission guidelines (structured abstract requirements)
+- Confirmed abstract structure across 3 articles covering different research methodologies
+
+SKILL FILE DECISION
+===================
+Skill file written: YES
+Reason: Although Meditari follows the accounting field baseline very closely (ABS 1 = lower-tier journal), the enforced Emerald structured abstract format is a significant operational constraint that differs from the field baseline's more flexible "structured summary" language. Authors submitting to Meditari must use the exact heading format (Purpose, Design/Methodology/Approach, Findings, etc.), not just provide a structured abstract. This is documented as a hard constraint.
+
+File saved to:
+C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/accounting/meditari-accountancy-research_SKILL.md
+
+NOTES FOR NEXT SESSION
+======================
+- If Emerald Publishing removes CAPTCHA barriers or makes full guidelines accessible, verify whether any additional article-length, table-format, or statistical-reporting constraints exist beyond the abstract structure.
+- The journal's focus on sustainability accounting, CSR, and integrated reporting does not appear to impose different rhetorical or argumentative norms compared to mainstream accounting journals; all sampled articles followed standard empirical/systematic review patterns from field baseline.
+- No evidence found of field-specific relaxations (e.g., higher tolerance for speculative claims, lower statistical thresholds, different hedging norms). Meditari appears to maintain mainstream accounting research standards despite its ABS 1 tier.

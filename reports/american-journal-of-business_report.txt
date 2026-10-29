@@ -1,0 +1,20 @@
+Journal: American Journal of Business
+Slug: american-journal-of-business
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 10 (abstracts only, via IDEAS/RePEc and search snippets; full text at emerald.com blocked by CAPTCHA/403 throughout this session)
+Early stop triggered: No (reached target sample of 10 despite access barriers)
+
+Deltas found: 2 significant
+1. Structural Deviations - Emerald's mandatory structured abstract (Purpose / Design-methodology-approach / Findings / Originality-value, <=250 words, with 3 optional fields) is more rigidly templated than FIELD_SKILL's abstract guidance. Classified ENFORCED.
+2. Other Journal-Specific Patterns - Broader accepted article types (research notes, opinion pieces, commentary) beyond FIELD_SKILL's four templates; sampled articles skew toward applied, less contribution-heavy work typical of ABS 1 outlets. Classified RELAXATION / PRACTICE ONLY (low confidence, front-matter only).
+
+FIELD_SKILL overrides: Abstract format (Emerald 4-field structured abstract, 250-word cap) overrides FIELD_SKILL's abstract section.
+
+Access-limitation notes:
+- emerald.com and emeraldgrouppublishing.com pages returned CAPTCHA challenges or HTTP 403 on every direct WebFetch attempt in this session; no author guidelines page could be fetched directly.
+- Guideline content was reconstructed from WebSearch result snippets describing Emerald's house-wide author guidelines (which apply uniformly across Emerald journals, AJB included) plus general Emerald abstract-writing documentation.
+- Article spot-check relied entirely on IDEAS/RePEc abstract mirror pages and WebSearch snippets of Emerald abstract pages, since full text and even abstract pages on emerald.com were CAPTCHA-blocked.
+- Citation style (Harvard vs. APA) for AJB specifically was not directly confirmed; noted as PRACTICE ONLY pending verification, not asserted as fact.
+- No specific AJB word/page limits were found in public sources.

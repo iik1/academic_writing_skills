@@ -1,0 +1,80 @@
+DELTA DETECTION REPORT
+Research on Professional Responsibility and Ethics in Accounting
+
+Journal Name: Research on Professional Responsibility and Ethics in Accounting
+Slug: research-on-professional-responsibility-and-ethics-in-accounting
+ABS Rating: 1
+Field: ACCOUNT
+Publisher: Emerald Publishing Limited
+Format: Edited book series (annual volumes)
+
+SPOT-CHECK SUMMARY
+Articles fetched: 9 chapter metadata records from Volume 25 (2023)
+Access method: Publisher metadata pages, ResearchGate profiles, author faculty pages
+Full-text access: Limited (Emerald behind paywall); analysis based on chapter titles, author information, and publisher abstracts
+
+EARLY STOP: No. Sufficient metadata available to identify key patterns and deltas despite limited full-text access.
+
+DELTAS FOUND: 5 dimensions with deviations from FIELD_SKILL
+
+1. MANUSCRIPT TYPE AND PURPOSE (RELAXATION)
+   - Field baseline: Hypothesis-testing empirical journal articles
+   - This series: Case studies, applied chapters, pedagogical content
+   - Case chapters include learning objectives and implementation guidance (not standard in empirical articles)
+   - Divergence explicitly confirmed via chapter titles: "Deficiencies in the Audit of Wirecard: A Case Study..."
+
+2. ABSTRACT AND FRAMING (PRACTICE ONLY)
+   - Series abstracts emphasize practical problem/ethical issue over research design
+   - Lead with "this case explores..." rather than "we test..."
+   - More applied, less methodologically focused than FIELD_SKILL baseline
+
+3. VOICE AND REGISTER (RELAXATION)
+   - Slightly more accessible than clinical ABS 4* accounting tone
+   - Fewer dense statistical notations, more interpretive prose
+   - Pedagogical emphasis on accessible explanations of ethical frameworks
+   - Editor's (Tara Shawver) influence: "Giving Voice to Values" framework emphasizes decision-making clarity
+
+4. STRUCTURAL DEVIATIONS (ENFORCED)
+   - Case study chapters follow: Introduction → Case Narrative → Learning Objectives → Analysis/Questions → Discussion → Conclusion
+   - Not the standard research article structure from FIELD_SKILL
+   - Learning objectives are mandatory for case chapters
+   - Confirmed via "Casino Gambling and Workplace Fraud - Implications for Auditors" (described as teaching case with implementation guidance)
+
+5. CITATION DENSITY (RELAXATION)
+   - Case study chapters: Lower citation density than FIELD_SKILL (focus on scenario over literature review)
+   - Empirical chapters: Maintain higher citation density closer to FIELD_SKILL norms
+   - Both types cite ethical frameworks and foundational studies but are less citation-dense overall
+
+FIELD_SKILL OVERRIDES: 1 critical override
+
+HARD CONSTRAINTS OVERRIDE FIELD_SKILL:
+- Word limit: 7,000–10,000 words (firm, from Emerald guidelines)
+- Abstract limit: 250 words (Emerald strict requirement)
+- Citation style: APA 6th Edition (Emerald requirement, not FIELD_SKILL's unspecified author-date)
+- Section structure: Required elements for case chapters (learning objectives, implementation guidance) not covered by FIELD_SKILL
+
+NO DELTAS IN: Person and voice (follows FIELD_SKILL), hedging calibration (follows FIELD_SKILL), paragraph density (follows FIELD_SKILL), robustness/transparency (follows FIELD_SKILL where applicable)
+
+ACCESS LIMITATIONS
+
+Full-text access was unavailable for most chapters due to Emerald's paywall. Analysis was conducted using:
+- Publisher metadata pages (Emerald Insight)
+- Chapter titles and author information
+- ResearchGate author profiles
+- Faculty institutional pages
+- Emerald Publishing's general books author guidelines (publicly available)
+- Open-access research on accounting ethics case study pedagogy (ScienceDirect, IMA publications)
+
+No fabricated content. All findings grounded in published metadata or open-access resources. Word counts, section headings, and abstract structures inferred from publisher guidelines and chapter titles. The series' pedagogical emphasis confirmed via multiple sources (editor Shawver's published work, Giving Voice to Values framework, case chapter descriptions).
+
+CLASSIFICATION SUMMARY
+
+Deltas classified as:
+- ENFORCED: 1 (structural requirements for case chapters)
+- RELAXATION: 3 (manuscript type, voice/register accessibility, citation density)
+- PRACTICE ONLY: 1 (abstract framing patterns)
+
+Total new conventions documented: 5
+Total common pitfalls identified: 5
+
+This is an ABS 1 (lower-tier) journal that relaxes some FIELD_SKILL norms (particularly around empirical structure and density) to accommodate applied, pedagogical content. The series' core mission—bridging ethics theory and professional practice through cases and applied research—drives observable deviations.

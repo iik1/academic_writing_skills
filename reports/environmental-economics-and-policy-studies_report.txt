@@ -1,0 +1,26 @@
+Journal: Environmental Economics and Policy Studies
+Slug: environmental-economics-and-policy-studies
+ABS: 1
+Field: ECON
+Publisher: Springer Nature (Japan) / Society for Environmental Economics and Policy Studies (SEEPS)
+
+Articles fetched: 0 (full-text or abstract level). Access chain exhausted — see notes below.
+Early stop triggered: No (this is the natural result of exhausting the good-faith access chain, not an early stop by choice)
+
+Deltas found: 0 dimensions with confirmed journal-specific stylistic deltas from FIELD_SKILL.
+Hard constraints recovered (not deltas per se, but journal-specific formatting rules):
+  - Abstract: max 200 words, up to 5 keywords, JEL codes required
+  - Headings: decimal numbering (1, 1.1, 1.1.1), max 3 levels
+  - Footnotes required instead of endnotes
+  - Acknowledgments in separate title-page section, funder names spelled out in full
+  - Abbreviations spelled out at first use (beyond most common ones)
+
+FIELD_SKILL overrides: none beyond the formatting/structural hard constraints listed above (abstract length/format, heading numbering, footnote requirement). No voice, register, citation density, or statistical-reporting deltas identified — none could be confirmed due to zero article access.
+
+Access-limitation notes:
+- Springer's journal homepage and submission-guidelines page (link.springer.com/journal/10018) redirected to an authentication wall (idp.springer.com) on every WebFetch attempt; guideline content was recovered only via WebSearch result snippets, not the full page.
+- Extensive WebSearch attempts to locate individual EEPS articles (by DOI prefix 10.1007/s10018, RePEc/IDEAS series lookup, SEEPS society site, title/keyword combinations, Google site-search) all failed to surface actual EEPS article pages; results consistently returned unrelated journals (JEEM, Ecological Economics, Environmental and Resource Economics) or arXiv/NCBI preprints instead.
+- RePEc/IDEAS series page for this journal returned 404.
+- research.com aggregator page returned 403 Forbidden.
+- SEEPS society page (seeps.org) was fetched successfully but contained no independent detail beyond pointing to the gated Springer submission page.
+- Net result: no article-level spot-check was possible in this environment. The skill file documents this honestly and defaults all non-hard-constraint dimensions to FIELD_SKILL per ABS-tier rules.

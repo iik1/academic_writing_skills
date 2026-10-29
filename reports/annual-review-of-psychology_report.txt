@@ -1,0 +1,51 @@
+Journal: Annual Review of Psychology
+Slug: annual-review-of-psychology
+ABS: 4
+Field: PSYCH (GENERAL)
+
+Articles fetched: 10 (abstract/front-matter level for 8; full-text PDF obtained
+for 2: Frith & Frith 2025 "Scenes from a Marriage" and Stokoe, Raymond &
+Whitehead 2025 "Categories in Social Interaction")
+Early stop triggered: No — stopped at 10 because the delta set had
+stabilized (new abstracts kept confirming the same structural/citation
+pattern with no new deltas emerging) and direct annualreviews.org article
+pages returned HTTP 403 in this environment, capping further full-text
+access. This is a good-faith partial sample below the 15 target; documented
+per instructions.
+
+Deltas found (5 dimensions):
+1. Voice and Register — narrative/vignette-driven openings in standard
+   reviews; distinct autobiographical/first-person prefatory-chapter format
+   (one per volume, not for ordinary invited authors).
+2. Citation Density — inline margin-glossary definitions of key terms tied
+   to first use (corresponds to handbook's optional "Terms and Definitions"
+   element, used more visibly than typical).
+3. Structural Deviations — explicit numbered roadmap paragraph at end of
+   Introduction, stronger than FIELD_SKILL's general signposting note.
+4. Other Journal-Specific Patterns — optional end-of-article elements
+   (Summary Points, Future Issues, etc.) are genuinely inconsistent/optional
+   in practice despite prominence in the author handbook.
+5. (Hard constraint, not a "delta" per se but worth flagging) Non-IMRaD,
+   author-defined numbered-section structure; Harvard/author-year citation
+   style; 150-word abstract cap; length individually assigned per invitation
+   letter rather than a fixed journal-wide word count.
+
+FIELD_SKILL overrides: Structure (non-IMRaD, review-type norms already
+partially anticipated by FIELD_SKILL's review-journal note, but this skill
+sharpens it with the prefatory-chapter caveat and roadmap-paragraph
+convention); Citations (explicit Harvard/author-year mechanics, since
+FIELD_SKILL does not specify citation formatting).
+
+Access-limitation notes:
+- Annual Review of Psychology is invitation-only; there is no public
+  unsolicited-submission portal, so no journal-specific author-guidelines
+  page (beyond the shared Annual Reviews handbook) could be verified.
+- www.annualreviews.org article/portal pages returned HTTP 403 to WebFetch
+  in this environment; abstracts were obtained via search-engine snippets
+  and full text for 2 articles was obtained via institutional repositories
+  (UCL Discovery, LSE Research Online) instead.
+- The generic Annual Reviews "Instructions for the Preparation of
+  Manuscripts" (Harvard-style family) explicitly lists Psychology among its
+  covered journals and was used as the authoritative Hard Constraints
+  source; it was fetched as a PDF and parsed locally with PyMuPDF after
+  WebFetch's default markdown conversion failed to extract readable text.

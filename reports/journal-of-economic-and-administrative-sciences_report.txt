@@ -1,0 +1,21 @@
+Journal: Journal of Economic and Administrative Sciences
+Slug: journal-of-economic-and-administrative-sciences
+ABS: 1
+Field: ECON
+Publisher: Emerald Publishing Limited
+
+Articles fetched: 9 full structured abstracts + 26 titles/authors from 2 tables of contents (Vol. 42 Iss. 3; Vol. 38 Iss. 1) = 35 distinct article records consulted
+Early stop triggered: No — good-faith sample exceeded the 10-15 target when counting ToC titles; full-text abstract sample (9) plus title-level scan (26) judged sufficient for an ABS 1 journal given paywall constraints.
+
+Deltas found (3 dimensions):
+1. Voice and Register — abstracts use third-person descriptive style ("The study investigates...") rather than FIELD_SKILL's "we" default (PRACTICE ONLY, abstract-level; body-text voice unconfirmed due to paywall).
+2. Structural Deviations — systematic literature reviews, bibliometric analyses (Biblioshiny/VOSviewer), and meta-analyses are standalone accepted paper types, not just embedded literature surveys (RELAXATION vs FIELD_SKILL's empirical/theory dichotomy).
+3. Other Journal-Specific Patterns — (a) explicit "Practical implications/value" abstract sub-heading more prominent than FIELD_SKILL's incidental policy mentions; (b) topical scope is broader than economics (spans management, HR, marketing, behavioral finance), and JEL codes appear in keywords only for economics-flavored submissions.
+
+FIELD_SKILL overrides (Hard Constraints):
+- Mandatory structured abstract (Purpose / Design-methodology-approach / Findings / Practical implications / Originality-value), max 250 words including keywords — overrides FIELD_SKILL's unstructured-abstract norm. This is Emerald group-wide policy, confirmed by every sampled abstract.
+- Generative-AI copy-editing permitted (Emerald group policy); ethics statement required for human-subjects data.
+
+Access-limitation notes:
+- No stable dedicated author-guidelines URL found (plausible paths /jeas/pages/author-guidelines, /jeas/pages/aims-and-scope returned 404). Guideline content reconstructed from Emerald's group-wide policy documentation and corroborated against the sampled abstracts, which uniformly complied with the structured-abstract format.
+- All article evidence is abstract/title-level only; full text is paywalled. Body-section voice, citation density, and robustness-reporting conventions could not be independently verified against FIELD_SKILL and are marked "no delta confirmed" rather than asserted.

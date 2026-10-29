@@ -1,0 +1,17 @@
+Journal: Financial Innovation
+Slug: financial-innovation
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 7 full-text via PMC (PMC8761516, PMC9925367, PMC9113774, PMC8418903, PMC8890819) plus 2 additional articles via abstract/search-snippet only (Financial inclusion and fintech systematic literature review; Fintech research systematic mapping). Guidelines page content reconstructed from WebSearch-indexed snippets since link.springer.com and jfin-swufe.springeropen.com guideline URLs both redirected to login walls / generic pages in this environment (no live guideline page text was directly fetchable).
+
+Early stop triggered: No (target of 10-15 not reached; documented access limitation below — proceeded with good-faith 7-9 source sample per instructions for lower-tier journals).
+
+Deltas found: 3
+- Citation Density: numbered bracket citation style ([1],[2]) dominant vs. FIELD_SKILL author-year norm (ENFORCED)
+- Structural Deviations: mandatory Declarations end-matter block (Funding, Data availability, Competing interests, Author contributions, Acknowledgements) (ENFORCED)
+- Other Journal-Specific Patterns: unstructured single-paragraph abstracts and absence of JEL codes despite FIELD_SKILL field default (RELAXATION)
+
+FIELD_SKILL overrides: Citation format (numbered bracket vs. author-year parenthetical); mandatory Declarations block not present in FIELD_SKILL baseline.
+
+Access-limitation notes: Both official Springer guideline URLs (link.springer.com/journal/40854/submission-guidelines and the jfin-swufe.springeropen.com equivalent) returned 301/303 redirects to an IDP login wall (idp.springer.com/authorize) in this environment, so no live guideline page text was directly read — guideline claims (no citations in abstract, minimize abbreviations, authorship/competing-interest declaration requirements) are drawn from WebSearch-indexed snippets of those pages rather than a direct fetch. Structural/style findings (citation format, Declarations block, abstract format, absence of JEL codes) are drawn from 5 directly fetched full-text PMC articles, which is considered reliable primary evidence. No explicit abstract word limit or manuscript length limit could be recovered and none was fabricated.

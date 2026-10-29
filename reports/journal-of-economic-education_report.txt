@@ -1,0 +1,19 @@
+Journal: Journal of Economic Education
+Slug: journal-of-economic-education
+ABS: 1
+Field: ECON
+
+Articles fetched: 5 full abstracts read (via RePEc/IDEAS mirror); 15 article titles reviewed across July 2026 and April 2026 issues plus RePEc back-catalog (2021-2026).
+Early stop triggered: No — good-faith sample gathered given ABS 1 tier and thin public access; guidelines page was inaccessible (403) so no full-text article access chain existed to exhaust further.
+
+Deltas found: 2 dimensions
+- Structural Deviations (PRACTICE ONLY): journal scope is teaching/pedagogy interventions, not economic phenomena; "data" and "identification" typically mean classroom/survey/quasi-experimental student-outcome comparisons rather than administrative/market data.
+- Other Journal-Specific Patterns (PRACTICE ONLY): papers describing a teaching tool (game, model, event) include enough procedural detail for direct classroom adoption by other instructors, beyond FIELD_SKILL's researcher-replication norm.
+
+FIELD_SKILL overrides: none confirmed (guidelines page inaccessible; no HARD_CONSTRAINTS could be extracted).
+
+Access limitation notes:
+- Taylor & Francis "Instructions for Authors" page (tandfonline.com/journals/vece20/for-authors) returned HTTP 403 Forbidden; could not be retrieved via WebSearch, Bing proxy, or direct WebFetch.
+- WebSearch tool was largely non-functional during this session (returned "unavailable" or irrelevant results for most queries); relied on WebFetch against RePEc/IDEAS mirror (ideas.repec.org) for table-of-contents and abstract text instead.
+- No JEL classification codes were found listed on any sampled article's RePEc page.
+- Full text of articles was not accessible (paywalled); all observations are abstract/title-level, consistent with the assignment's allowance for front-matter-only spot-checking.

@@ -1,0 +1,17 @@
+Journal: Australian Economic Review
+Slug: australian-economic-review
+ABS: 1
+Field: ECON
+Articles fetched: 11 (abstracts/front matter; full text paywalled throughout, relied on RePEc/IDEAS, Wiley abstract pages, and search-engine-extracted snippets)
+Early stop triggered: No
+Deltas found: 4 dimensions
+  - Voice/Register: explicit "generalist economist" accessibility requirement (ENFORCED)
+  - Structural: recurring named article types (Policy Forum, "Australian Economy in [year]" annual survey, "Special Article") distinct from standard IMRAD-style empirical paper (PRACTICE/ENFORCED)
+  - Other: mandatory Australian/British spelling per Oxford Spelling Dictionary (ENFORCED)
+  - Other: 100-word unstructured abstract cap, shorter than typical field practice (RELAXATION)
+FIELD_SKILL overrides: abstract length (100 words vs. field silence/longer norm); explicit accessibility-to-generalist requirement; mandatory British/Australian spelling; explicit prohibition on descriptive/minor-variation papers; explicit replication-data requirement
+Access-limitation notes:
+  - Current Wiley "For Authors" page (onlinelibrary.wiley.com/page/journal/14678462/homepage/forauthors.html) returned HTTP 402 on direct fetch; relied on WebSearch snippets, which included conflicting/possibly-boilerplate info (200-word structured abstract) not corroborated elsewhere. Flagged as unconfirmed in the skill file.
+  - Melbourne Institute journal homepage returned HTTP 403 on direct fetch; scope confirmed via WebSearch snippets only.
+  - Primary authoritative source used: the journal's own detailed "Guide to Authors" PDF (blackwellpublishing.com/pdf/AERE_author_guide_21july2010.pdf), successfully fetched and read in full. This is dated 2010/2012 but is the only complete, internally detailed style guide found; treated as still representative of house style since Wiley's current page only covers submission-portal mechanics (Free Format, Harvard style "for information only").
+  - No full-text articles were accessible; all article-level observations are based on abstracts and front matter only, consistent with instructions for a lower-tier (ABS 1) journal with thin public access.

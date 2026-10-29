@@ -1,0 +1,47 @@
+Journal: Journal of Law, Economics, and Organization
+Slug: journal-of-law-economics-and-organization
+ABS: 3
+Field: ECON
+Publisher: Oxford University Press
+
+Articles fetched: 7 distinct articles at abstract/front-matter level (full text paywalled;
+no full-text access available in this environment). Titles/DOIs:
+  - Boeri, Garnero & Luisetto, "Noncompete agreements in a rigid labor market: the case of
+    Italy," JLEO ewae012 (2025) — abstract + section headings obtained
+  - Cohen, Hazan & Weiss, "Politics and gender in the executive suite," ewae011 (2025) — abstract
+  - Rantakari, "Simon says? Equilibrium obedience and the limits of authority," 41(2):455 (2025) — abstract summary
+  - Macher, Mayo, Sappington & Whitener, "The evolution of judicial standards: evidence from
+    litigated merger trials," 42(1):1 (2026) — abstract summary
+  - Mavridis, Troumpounis & Zanardi, "Police militarization and local sheriff elections" (2025) — title only
+  - Gradstein, "Organizational Culture: Structure and Evolution" (2025) — title only
+  - Jia, "Pollution for promotion" (2025) — title only
+
+Early stop triggered: No formal early stop; stopped at 7 after the delta set stabilized
+(consistent pattern of FIELD_SKILL conformance plus the same recurring journal-specific
+hard constraints across all checked articles). Did not reach the target of 15 because
+full-text and even most abstract pages are paywalled/inaccessible via WebFetch (Oxford
+Academic pages return navigation shells or blocked content); relied on WebSearch snippet
+caches and third-party mirrors (SSRN, RePEc/IDEAS, NBER, institutional repositories) for
+abstract-level content.
+
+Deltas found: 2 dimensions
+  1. Citations — Chicago Manual of Style 15th edition mandated explicitly (ENFORCED)
+  2. Explicit Prohibitions / procedural requirements — $100 submission fee, strict
+     data/replication mandate (3-year public accessibility pledge for datasets/programs),
+     and litigation conflict-of-interest disclosure footnote requirement (ENFORCED,
+     journal-specific, no FIELD_SKILL analogue)
+  Plus one PRACTICE ONLY structural observation: frequent dedicated "Institutional/Legal
+  Framework" section in law-focused papers (fits within FIELD_SKILL's optional
+  Background/Institutional Setting allowance, not a contradiction).
+
+FIELD_SKILL overrides: Citation style (Chicago 15th ed. instead of generic author-year
+guidance); data availability enforcement stricter/more specific than FIELD_SKILL's generic
+"data description" norm.
+
+Access-limitation notes: Direct WebFetch of academic.oup.com/jleo pages returned only
+navigation shells (JavaScript-rendered content not captured), so guideline and abstract
+details were reconstructed from WebSearch result snippets and cached secondary sources
+(SSRN, IDEAS/RePEc, NBER, institutional faculty pages). No full-text articles were
+accessible. Confidence in Hard Constraints is high (corroborated by multiple independent
+search snippets); confidence in the structural PRACTICE ONLY observation is moderate
+given the small sample and abstract-only access.

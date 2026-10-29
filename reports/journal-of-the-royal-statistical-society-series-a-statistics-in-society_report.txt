@@ -1,0 +1,19 @@
+Journal: Journal of the Royal Statistical Society. Series A: Statistics in Society
+Slug: journal-of-the-royal-statistical-society-series-a-statistics-in-society
+ABS: 3
+Field: ECON
+Publisher: Oxford University Press (for the Royal Statistical Society)
+
+Articles fetched: 6 (full abstracts/section headings retrieved for 3: allocation scoring rules paper, social contagion/REM paper, political advertising/Citizens United paper; titles + topic summaries for 3 more from the June 2026 advance-articles listing: Steele et al. household effects longitudinal health, Le et al. transportability of trial results, Marra & Radice joint modelling mortality/length of stay). Aimed for 15 but full text is largely paywalled; front matter (abstracts, keywords, section headings) was sufficient to establish stable deltas, and no new deltas emerged after the 4th-5th article, so stopped early per instructions.
+
+Early stop triggered: yes — delta set stabilized after ~5 articles; convergence rule invoked for dimensions not covered above.
+
+Deltas found: 4 dimensions
+1. Voice and Register — RELAXATION (application-first framing prioritized over technical exposition per explicit journal mandate)
+2. Structural Deviations — PRACTICE ONLY (method-then-application section shape common in methods-oriented submissions)
+3. Other Journal-Specific Patterns — ENFORCED: mandatory standalone Data Availability Statement section
+4. Other Journal-Specific Patterns — ENFORCED: RSS discussion/"read paper" format (distinct publication type with discussant contributions)
+
+FIELD_SKILL overrides: abstract 200-word cap with no citations/abbreviations; 24-page manuscript length ceiling; mandatory Data Availability Statement section; table/figure formatting specifics (footnote symbol order, resolution minima, file format bans); AI-authorship disclosure requirement. These are guideline-level constraints not addressed by FIELD_SKILL (which explicitly excludes word limits, data-availability rules, and publisher formatting from its scope).
+
+Access limitation notes: No institutional/EZProxy access; relied on Oxford Academic public abstract/guidelines pages, WebSearch snippets, and author personal/research pages for abstract text. Full-text PDF access attempt redirected to a Silverchair watermarked-token URL that could not be retrieved; this did not block the assessment since front-matter content was sufficient. No existing journal-specific skill found for this exact journal (only Series B: Statistical Methodology already existed).

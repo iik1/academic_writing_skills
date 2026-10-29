@@ -1,0 +1,18 @@
+Journal: Journal of Family Business Management
+Slug: journal-of-family-business-management
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 11 (abstract/snippet level only; full text paywalled behind Emerald login; direct WebFetch to emerald.com and emeraldgrouppublishing.com blocked by CAPTCHA/403 throughout this session)
+Early stop triggered: no (target of 10-15 met via WebSearch snippets)
+
+Deltas found: 2 dimensions
+  1. Abstract format (HARD_CONSTRAINT / ENFORCED) - Emerald's structured abstract with obligatory Purpose / Design-methodology-approach / Findings / Originality-value sub-headings (optional Research limitations-implications, Practical implications, Social implications), max 250 words. FIELD_SKILL default is an unstructured narrative abstract, so this is a real delta.
+  2. Structural deviation (PRACTICE ONLY) - JFBM runs a distinct "perspective article" type: short, non-empirical commentary/foresight pieces without a Methods/Results structure. Not named among FIELD_SKILL's four article templates. Evidenced in 2+ sampled titles ("Generation Alpha and family business: a perspective article", "Generation AI and family business: a perspective article").
+
+FIELD_SKILL overrides: Abstract section only (structured vs. unstructured format). No overrides to voice, hedging, citation density, or methods norms - these follow FIELD_SKILL defaults.
+
+Access-limitation notes:
+- Could not retrieve the official Emerald author-guidelines page directly (403/CAPTCHA on both emerald.com and emeraldgrouppublishing.com). Guideline content was reconstructed from WebSearch result snippets describing Emerald's standard cross-journal structured-abstract policy and AI-use policy, then cross-validated against the actual structured abstracts of 11 sampled JFBM articles, all of which conformed to that format.
+- No JFBM-specific word/page limits, citation style specifics, or table/figure rules could be confirmed from public sources; these sections are marked "not confirmed" rather than fabricated.
+- Full text of all sampled articles was inaccessible (paywalled); analysis relied on abstract/purpose/methodology snippets returned by search engines, which was sufficient to confirm the structured-abstract format and the perspective-article category but not to assess prose-level voice, hedging, or citation density inside body text (those are reported as FIELD_DEFAULT by inference/no contrary evidence, not by direct confirmation).

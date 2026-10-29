@@ -1,0 +1,25 @@
+Journal: PSL Quarterly Review
+Slug: psl-quarterly-review
+ABS: 1
+Field: ECON
+
+Articles fetched: 7 full abstract/keyword/JEL records read directly (Palley 2023; Storm 2023; Hein, Prante & Bramucci 2023; Arend et al. 2023; Cirillo et al. 2023; Araujo et al. 2023; Cucignatto, Garbellini & Fora Alcalde 2023). An additional 8 recent article titles/authors were surveyed from the RePEc article list without full abstract read, for a total of 15 distinct articles identified. One further full-text PDF (Italian-language article) was fetched but text extraction was unreliable and only partially usable.
+
+Early stop triggered: No. Full good-faith sample obtained despite tool friction (WebSearch intermittently failed, generic WebFetch calls on bare domain URLs returned unusable "no content provided" responses, Chrome extension was disconnected). Recovered by using WebSearch to locate the correct current host (rosa.uniroma1.it, replacing the defunct pslquarterlyreview.info legacy domain) and by fetching specific deep-linked pages (about, about/submissions, RePEc/IDEAS article records) rather than bare homepages.
+
+Deltas found: 4 dimensions with observed deltas from FIELD_SKILL (Voice and Register - RELAXATION; Statistical Reporting - RELAXATION; Structural Deviations - RELAXATION on length/structure; Other Journal-Specific Patterns - PRACTICE ONLY re: heterodox/policy topical skew). Citation density, paraphrase norm, and disagreement-handling showed no delta (FIELD DEFAULT).
+
+FIELD_SKILL overrides (Hard Constraints from guidelines that override FIELD_SKILL):
+- No mandated section structure (FIELD_SKILL's canonical empirical/theory structures not required)
+- Target length ~8,000 words (well below FIELD_SKILL's typical top-tier length)
+- Abstract capped at 100 words, unstructured, max 4 keywords, "up to 3" JEL codes (loosely enforced in practice - GUIDELINE ONLY per observed articles exceeding 3)
+- Mandatory first-footnote funding/affiliation disclosure requirement (not covered by FIELD_SKILL)
+- English is default but editor may permit other languages (confirmed one Italian-language article in archive)
+- Specific table/figure/equation numbering and sourcing rules from guidelines
+- No previously-published or simultaneously-submitted material; must strip tracked changes/color mark-up before final submission
+
+Access-limitation notes:
+- Legacy domain pslquarterlyreview.info returned no usable content via WebFetch (likely stale DNS/redirect); the working current host is rosa.uniroma1.it (OJS instance), discovered via WebSearch.
+- WebSearch tool intermittently returned "unavailable" errors mid-session; retries succeeded.
+- Chrome browser extension (claude-in-chrome) was not connected in this environment; browser-based verification was not possible, so all evidence comes from WebFetch/WebSearch only.
+- Full body text of sampled articles was not reliably accessible (PDF extraction unreliable for at least one file); analysis relies primarily on abstracts, keywords, and JEL codes from RePEc/IDEAS mirror pages plus the publisher's own submissions guidelines page, which is an accepted evidentiary tier for an ABS-1 journal per assignment instructions.

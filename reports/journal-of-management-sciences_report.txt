@@ -1,0 +1,39 @@
+Journal: Journal of Management Sciences
+Slug: journal-of-management-sciences
+ABS: 1
+Field: ETHICS-CSR-MAN
+Publisher: Department of Business Administration, IQRA University (Karachi, Pakistan)
+
+Articles fetched: 13 (title/abstract/keyword level; full text not accessible for any article)
+  - 12 articles from Volume 3 (2016) archive listing (titles, authors, abstracts, keywords)
+  - 1 article from 2024 (Vol 11(2), JMS24120601) via search snippet (title/keywords only)
+  - Additional Vol 12(2) 2025 titles noted at title/author level only
+
+Early stop triggered: No (exhausted good-faith access chain; this is an ABS 1 journal so a
+smaller sample was acceptable per instructions)
+
+Deltas found: 2
+  1. Structural Deviations - GUIDELINE ONLY / access-limited - no verifiable deviation from
+     FIELD_SKILL; full text inaccessible for all sampled articles (PDF fetch failed to parse,
+     archive pages expose only title/abstract/keywords).
+  2. Other Journal-Specific Patterns - PRACTICE ONLY / RELAXATION - broader, less
+     theory-driven scope than ABS 4/4* baseline; several sampled abstracts read as applied
+     economics/econometrics (e.g., energy consumption/CO2 cointegration, electricity
+     generation/GDP time series) rather than management-theory-building papers.
+
+FIELD_SKILL overrides: none (guidelines page did not specify structure, length, abstract
+format, citation style, headings, or table/figure rules strongly enough to override
+FIELD_SKILL; abstract format observed as consistent with FIELD_SKILL default)
+
+Access-limitation notes:
+- Public author guidelines page (journals.iqra.edu.pk/authorguidelines/jms) contains only
+  general originality/ethics/COPE language - no manuscript structure, word limits, abstract
+  format, citation style, heading conventions, or table/figure rules are published.
+- Full-text PDF access failed: WebFetch could not parse the one PDF located
+  (JMS24120601.pdf) - returned raw binary/font-stream content, no extractable prose.
+- All article-level evidence comes from HTML archive/listing pages showing title, authors,
+  abstract, and keywords only - insufficient to verify citation style, hedging patterns,
+  or exact section headings used in the manuscripts themselves.
+- Journal scope (broad business sciences: HR, finance, marketing, macro/energy economics,
+  governance) is notably broader than the ABS ETHICS-CSR-MAN field tag would suggest -
+  flagged as a journal-specific pattern rather than assumed as a field norm.

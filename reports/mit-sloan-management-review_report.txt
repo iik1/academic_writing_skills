@@ -1,0 +1,19 @@
+Journal: MIT Sloan Management Review
+Slug: mit-sloan-management-review
+ABS: 3
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 5 (full-text/front-matter via WebFetch/WebSearch): "Why AI Demands a New Breed of Leaders"; "Eight Essential Leadership Tips for 2024"; "10 Urgent AI Takeaways for Leaders"; Research Highlights listing page (multiple study summaries); Top 10 MIT SMR Articles of 2024/2025 index pages. Plus 2 guideline sources (sloanreview.mit.edu/authors/, support.mitsmr.com FAQ).
+
+Early stop triggered: No — stopped at 5 because the delta pattern stabilized immediately and unambiguously (MIT SMR is a practitioner magazine format, not an academic IMRaD journal), and further sampling would not change the classification.
+
+Deltas found: 5 major dimensions, all structural/format-level rather than subtle stylistic variation:
+1. Structure — no Abstract/Theory/Methods/Results template; short essays/numbered-takeaway format instead (ENFORCED)
+2. Length — 1,000-2,500 words vs. FIELD_SKILL's 10,000-18,000 (ENFORCED/RELAXATION)
+3. Voice/Register — conversational, direct-address, advisory tone vs. FIELD_SKILL's hedged academic "we" (RELAXATION)
+4. Citation practice — hyperlinked/named attribution, no reference list, vs. FIELD_SKILL's dense APA citation (RELAXATION)
+5. Statistical reporting — inline informal stats, no hypothesis-testing language, vs. FIELD_SKILL's coefficient/significance reporting (RELAXATION)
+
+FIELD_SKILL overrides: Yes — nearly all of FIELD_SKILL's macro-structure, methods, and results conventions are overridden because MIT SMR is not an empirical/theoretical academic article venue in the FIELD_SKILL sense; it is a short-form practitioner magazine (despite carrying an ABS 3 rating).
+
+Access-limitation notes: Full-text access was available via public web (no paywall encountered) for all sampled articles; MIT SMR articles are largely open/public-facing. Note: as of mid-2026, MIT Sloan School has announced it is ceasing publication of MIT SMR and is no longer accepting new submissions (pipeline closed) — this is a currency note, not a style factor, and does not affect the accuracy of the style record derived from published articles and guidelines pages.

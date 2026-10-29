@@ -1,0 +1,22 @@
+Journal: Economica
+Slug: economica
+ABS: 3
+Field: ECON
+
+Articles fetched: 15 (title/abstract level, via RePEc/IDEAS and Wiley/LSE table-of-contents pages)
+Early stop triggered: No (delta set stabilised naturally; converged on "no material style deltas" after ~10 articles, continued to 15 for confidence)
+
+Deltas found: 0 stylistic deltas from FIELD_SKILL. Only submission-mechanics hard constraints identified:
+  - Abstract word limit (200 words, unstructured)
+  - Keywords (up to 5)
+  - JEL codes: conflicting guidance across journal's own pages (one source: up to 3 required; another: not required) -> treated as GUIDELINE ONLY
+  - PDF-only submission format via EditorialExpress
+  - Max two submissions per author/group per calendar year (fair-use policy)
+  - Permissive preprint policy
+
+FIELD_SKILL overrides: none. All structural, voice, argumentation, methods, results, citation, and hedging dimensions follow FIELD_SKILL norm (empirical/applied general-interest economics journal, consistent with ABS 3 tier expectations of aligning with field baseline).
+
+Access-limitation notes:
+  - Wiley Online Library guideline and table-of-contents pages returned HTTP 402 (Payment Required) on direct WebFetch; guideline content was recovered indirectly via WebSearch snippet extraction, which yielded some inconsistent statements (JEL code requirement ambiguity noted above).
+  - Full-text articles were not accessible; all spot-checks were at title/abstract/metadata level via RePEc/IDEAS and search snippets, sufficient per task instructions to judge structural/voice deltas at this ABS tier.
+  - No standalone downloadable PDF style guide was located; relied on the Wiley "For Authors" page metadata and the EditorialExpress submission portal page.

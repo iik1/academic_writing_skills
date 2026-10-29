@@ -1,0 +1,19 @@
+Journal: Psychological Bulletin
+Slug: psychological-bulletin
+ABS: 4
+Field: PSYCH (GENERAL)
+
+Articles fetched: 5 distinct 2025 articles (abstract/press-release level; no full text accessible)
+Early stop triggered: No (access chain exhausted at abstract level for all candidates; a 6th search returned an off-journal article and was discarded)
+
+Deltas found: 3 dimensions
+- Structural Deviations (ENFORCED) — journal is exclusively a synthesis/meta-analysis venue, no primary-empirical track
+- Statistical Reporting (ENFORCED for PRISMA/effect-size dataset requirement; PRACTICE ONLY for hierarchical/multilevel/Bayesian modeling emphasis observed across spot-checked meta-analyses)
+- Other Journal-Specific Patterns (ENFORCED) — unusually strict masked review, author identity withheld from reviewers even post-decision unless authors permit disclosure
+
+FIELD_SKILL overrides: Structure (meta-analysis-specific requirements: PRISMA flow diagram, inclusion/exclusion criteria, effect-size dataset); Explicit Prohibitions (mandatory full anonymization including self-citations, pre-registration reference for meta-analyses)
+
+Access-limitation notes:
+- Primary APA "Instructions to authors" / submission-guidelines subpage returned HTTP 404; guideline content was triangulated from the main apa.org/pubs/journals/bul scope page plus search-aggregated secondary summaries (e.g., manusights.com), so word/page/abstract-length limits are NOT independently confirmed from a primary source and are flagged as such in the skill.
+- All 5 spot-checked articles were accessed at abstract/press-release depth only (via WebSearch snippets and APA press-release PDFs); no full-text manuscripts were retrieved, consistent with expected paywalling for this venue.
+- One additional candidate article ("Executive functioning in individuals with generalized anxiety disorder") was found to actually be published in Journal of Affective Disorders, not Psychological Bulletin, and was excluded from the count.

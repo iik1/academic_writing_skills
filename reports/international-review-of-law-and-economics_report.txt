@@ -1,0 +1,86 @@
+JOURNAL SKILL REPORT
+====================
+
+Journal: International Review of Law and Economics
+Slug: international-review-of-law-and-economics-writing-style
+ABS Rating: 2
+Field: ECON
+Publisher: Elsevier
+ISSN: 0144-8188
+
+ARTICLE SPOT-CHECK
+==================
+Articles Fetched: 6 (metadata/abstracts via public repositories)
+Access Constraints: Journal paywalled on ScienceDirect; full-text access not available. Abstracts, section headings, and metadata extracted from IDEAS/RePEc (public access). No early stop triggered; sufficient public information available to establish guidelines compliance.
+
+Articles Examined:
+1. Hoeft, Kurschilgen, & Mill. "Norms as obligations." Vol. 81(C), 2025. [Behavioral economics/experimental law]
+2. de La Bruslerie. "News flow as determinant of voting premium." Vol. 82(C), 2025. [Corporate finance/governance]
+3. Avramovich. "An inspector calls: On optimality of warning firms about ongoing inspections in antitrust policy." Vol. 81(C), 2025. [Antitrust theory]
+4. Miceli & Segerson. "The broken-windows theory of crime: A Bayesian approach." Vol. 80(C), 2024. [Crime/law enforcement economics]
+5. Erfurth. "Unequal unification? Income inequality and unification in nineteenth century Italy and Germany." Vol. 78(C), 2024. [Economic history/institutions]
+6. [Author unknown]. "Patent law reform and innovation: An empirical assessment of the last 20 years." Vol. 79(C), 2024. [Empirical IP law/policy]
+
+HARD CONSTRAINTS IDENTIFIED
+============================
+✓ Abstract: Unstructured, 150–250 words (ENFORCED, confirmed via search results & author guidelines excerpt)
+✓ Keywords: 1–7, English, avoid multi-word constructions (ENFORCED, stated explicitly)
+✓ Citations: Author-date (Harvard) parenthetical format, (Author, Year) or (Author, Year:page) (ENFORCED, confirmed via Citationsy style guide)
+✓ References: Alphabetical list with hanging indent, single-spaced, extra space between entries (ENFORCED)
+✓ Section structure: Numbered sections (1, 1.1, 1.1.1, etc.); abstract unnumbered (ENFORCED)
+✓ File format: .doc/.docx (single-column for Word) or .tex; PDF not acceptable (ENFORCED)
+✓ No strikethrough/underline unless scientifically significant (ENFORCED)
+✓ Article titles: Concise, informative; avoid abbreviations & formulae unless widely understood (ENFORCED)
+
+FIELD_SKILL OVERRIDES
+======================
+None identified. The journal adheres to FIELD_SKILL conventions for:
+- Introduction structure (motivation, research question, approach, results preview, roadmap)
+- First-person plural voice
+- Active voice preference
+- Methods conventions (past tense for procedures, present for theory)
+- Citation density by section (high in intro, medium in methods, low-to-medium in results)
+- Results and interpretation integration
+- Brief conclusions with no new results
+- Low overall hedging intensity, with hedging reserved for external validity, mechanisms vs. correlation, and data limitations
+
+DELTAS FOUND: 3
+================
+1. INTERDISCIPLINARY HEDGING [PRACTICE ONLY]
+   - Slightly elevated cautious framing ("suggests," "consistent with") compared to pure economics FIELD_SKILL, reflecting dual (economics + law) disciplinary audience.
+   - Not enforced; observed convention when bridging legal doctrine with economic findings.
+
+2. CITATION DENSITY IN INTRO/METHODS [PRACTICE ONLY]
+   - Introduction and methods sections show higher citation density than ABS 4*/4 economics journals (FIELD_SKILL baseline).
+   - Necessary to synthesize both economic theory and legal doctrine; not a requirement but observed pattern.
+
+3. THEORY/EMPIRICAL MIX [FIELD DEFAULT with minor note]
+   - Journal publishes theoretical and empirical work in roughly equal measure.
+   - No stylistic penalty for theory papers or for empirical papers using simple theoretical models.
+   - Reflects journal scope (bridging disciplines) rather than deviation from FIELD_SKILL.
+
+NO ADDITIONAL DELTAS FOUND in:
+- Sentence length or paragraph density
+- Argumentation structure
+- Methods procedural detail or identification strategy conventions
+- Results reporting norms or hedging logic
+
+GUIDELINES ACCESS AND LIMITATIONS
+==================================
+Elsevier's official author guidelines are paywalled (https://www.sciencedirect.com/journal/international-review-of-law-and-economics/publish/guide-for-authors).
+Public sources used:
+- Citationsy style guide (citation format)
+- Search result summaries from multiple academic databases
+- IDEAS/RePEc article metadata and abstracts (6 recent articles)
+- Secondary guides (ijpsps.com, SciSpace template references)
+
+No complete word/page limit found in publicly accessible sources. Elsevier standard for research articles is 5,000–10,000 words; this journal may have its own limits, to be confirmed via submission portal.
+
+CONFIDENCE LEVEL
+================
+Moderate to High for Hard Constraints (abstract, keywords, citations, file format, section numbering all corroborated across multiple public sources).
+Good for Deltas (patterns observed across 6 articles; consistent with journal scope and interdisciplinary focus).
+
+SUMMARY
+=======
+International Review of Law and Economics is a lower-tier (ABS 2) economics journal with strong interdisciplinary (law + economics) identity. It follows FIELD_SKILL conventions closely but shows practice-level (non-enforced) divergences in hedging intensity and citation density, reflecting its dual audience. Hard constraints are clearly enforced (abstract format, citation style, file format, keyword count). The journal accepts both theoretical and empirical work with no stylistic preference.

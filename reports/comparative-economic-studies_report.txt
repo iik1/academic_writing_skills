@@ -1,0 +1,21 @@
+Journal: Comparative Economic Studies
+Slug: comparative-economic-studies
+ABS: 1
+Field: ECON
+Publisher: Springer Nature (Palgrave Macmillan) / Association for Comparative Economic Studies
+
+Articles fetched: 10 titles/abstracts sampled across 3 recent issues (Vol. 68, Iss. 1-3, 2026); 1 full abstract read in detail (Clark & Kristensen, "The Myth of Nordic Mobility"). Full text was paywalled/behind Springer IdP login for all articles; assessment relies on titles, abstracts, and topic coverage only.
+
+Early stop triggered: No — good-faith sampling completed given ABS 1 tier and thin public access; documented honestly in the skill file rather than fabricating deeper findings.
+
+Deltas found: 0 true style deltas from FIELD_SKILL. Two journal-specific production/process notes captured as Hard Constraints (not style deltas):
+  1. Flexible formatting/citation style permitted at initial submission (relaxation vs. typical rigid pre-review formatting).
+  2. Accepted manuscripts require PDF + zipped LaTeX source files at final submission stage.
+All voice, statistical reporting, citation density, and structural dimensions assessed converged with FIELD_SKILL norm (labeled FIELD DEFAULT) based on available abstract-level evidence.
+
+FIELD_SKILL overrides: None (Harvard/author-date citation requirement matches FIELD_SKILL default rather than overriding it).
+
+Access-limitation notes:
+- The journal's submission-guidelines page (link.springer.com/journal/41294/submission-guidelines) redirects to a Springer IdP authentication endpoint in this environment; guideline content was recovered via search-engine cached extraction rather than direct fetch.
+- All individual article pages on link.springer.com similarly redirected to IdP login; article content was recovered via WebSearch snippets and one RePEc/IDEAS listing page (title index only, no abstracts on that specific index for the sampled years — abstracts obtained via search snippets instead).
+- No full-text article was read; conclusions about voice/structure rest on abstract-level and title-level evidence only, which is the reason most dimensions are marked "no basis to detect deviation" rather than confirmed FIELD DEFAULT with full-text corroboration.

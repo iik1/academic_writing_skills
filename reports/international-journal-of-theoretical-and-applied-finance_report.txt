@@ -1,0 +1,25 @@
+Journal: International Journal of Theoretical and Applied Finance
+Slug: international-journal-of-theoretical-and-applied-finance
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 12 (abstracts via IDEAS/RePEc), spanning 2017-2024
+Early stop triggered: No (target 10-15 met)
+
+Deltas found: 5 dimensions
+  - Voice and Register (PRACTICE ONLY): technical/mathematical-finance register rather than empirical-economics register
+  - Statistical Reporting (PRACTICE ONLY): most papers are theoretical/computational; no regression tables, standard errors, or significance stars in sampled abstracts
+  - Citation Density (PRACTICE ONLY): JEL codes largely absent (1/12 sampled); keywords skew mathematical/technical
+  - Structural Deviations (PRACTICE ONLY / low confidence, abstract-only access): no visible "Data" section pattern; scope-driven, not a stated rule
+  - Other Journal-Specific Patterns (PRACTICE ONLY): pairs applied topics (FVA, repo networks, carbon risk) with heavy technical machinery (PDEs, stochastic calculus, convex optimization, Monte Carlo)
+
+FIELD_SKILL overrides (HARD_CONSTRAINTS): none confirmed as journal-specific overrides.
+  - Abstract <200 words: sourced from WSPC shared house style page, not IJTAF-specific page (guidelines page itself was blocked). Labeled GUIDELINE ONLY / low confidence.
+  - LaTeX preferred, WSPC style files recommended: confirmed via search snippet of guidelines page metadata.
+  - No page charges; standard non-duplicate-submission clause.
+
+Access-limitation notes:
+  - worldscientific.com/page/ijtaf/submission-guidelines returned HTTP 403 on direct WebFetch (twice attempted). Guideline content triangulated only via WebSearch result snippets and via WSPC's shared cross-journal style page, so structure/length/heading/table rules specific to IJTAF could not be independently confirmed and are marked "not found" in the skill rather than fabricated.
+  - worldscientific.com/worldscinet/ijtaf (main journal landing page) also returned 403.
+  - Full text of all 12 sampled articles was paywalled; all spot-check observations are based on titles, author affiliations, abstracts, and keyword lists retrieved via IDEAS/RePEc, not full manuscripts. This limits confidence on structural claims (section structure, table conventions) which is reflected in the skill's classification labels.
+  - No JEL codes were visible on 11 of 12 sampled abstract pages (only "Kelly Trading and Market Equilibrium" listed JEL codes), consistent with the journal's mathematical-finance orientation.

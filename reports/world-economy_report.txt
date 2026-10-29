@@ -1,0 +1,41 @@
+Journal: World Economy
+Slug: world-economy
+ABS: 2
+Field: ECON
+Publisher: Wiley-Blackwell
+
+Articles fetched: 8 (titles/abstracts/metadata only; full text paywalled
+for all 8, direct WebFetch to Wiley returned HTTP 402 for every article
+and the guidelines page itself). All information obtained via WebSearch
+snippets and Wiley TOC listings.
+
+Early stop triggered: No — dedupe check found no existing skill file for
+this journal. Proceeded through all 5 phases with a thin-access good-faith
+sample as permitted for ABS 2 journals per assignment instructions.
+
+Deltas found: 0 substantive stylistic deltas from FIELD_SKILL. Two
+confirmed HARD_CONSTRAINTS (administrative, not voice/style):
+  1. Abstract capped at 200 words (unstructured) + keyword list.
+  2. Manuscript must end with a section presenting main conclusions.
+Additional administrative-only items recorded (not style deltas): GBP 50
+submission fee, Free Format submission for citations at initial review,
+APA at typesetting, table notation requirements (units/base dates/
+geography/sources), figure format restrictions (EPS/PDF/TIFF, no LaTeX-
+generated figures), ORCID required.
+
+FIELD_SKILL overrides: none identified — no voice, hedging, citation-
+density, or structural finding contradicts FIELD_SKILL. Abstract word cap
+(200) is a journal-specific hard constraint layered on top of
+FIELD_SKILL (which does not specify abstract limits) rather than a true
+override.
+
+Access-limitation notes: Wiley Online Library returned HTTP 402 Payment
+Required on all direct WebFetch attempts (guidelines page and every
+article DOI page). All data was obtained indirectly via WebSearch result
+snippets and search-engine-cached abstract/TOC content. No full-text
+articles were read; structural claims (e.g., section-heading conventions
+beyond the "concluding section" requirement) could not be independently
+verified from primary text and are marked FIELD DEFAULT in the skill
+file. RePEc/IDEAS page (ideas.repec.org/s/bla/worlde.html) was not
+independently fetchable either but WebSearch surfaced equivalent TOC data
+via Wiley listing pages.

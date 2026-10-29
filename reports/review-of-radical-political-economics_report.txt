@@ -1,0 +1,58 @@
+Journal: Review of Radical Political Economics
+Slug: review-of-radical-political-economics
+ABS: 1
+Field: ECON
+Publisher: SAGE (for URPE)
+
+Articles fetched: 7 with confirmed abstract/keywords/JEL (Charitou/Maniatis/Passas 2026;
+Andrade Neto 2025; Desai 2025 partial; Wachtel 2018), plus table-of-contents review of
+~15 additional titles across Vol. 57 Iss.4 (2025) and Vol. 58 Iss.1-2 (2026) via
+IDEAS/RePEc and EconPapers listings. No full-text access was available (SAGE paywalled);
+all article-level evidence is abstract/keyword/JEL-level, which is disclosed in the skill
+per the low-tier good-faith allowance.
+
+Early stop triggered: No. Full pipeline run (guidelines fetch, RePEc/EconPapers TOC pull,
+targeted abstract searches) completed as planned; stopped adding articles once abstract
+evidence converged with guideline claims and TOC coverage reached a reasonable breadth
+for an ABS 1 journal.
+
+Deltas found: 3 substantive + 2 lower-confidence, across dimensions:
+  1. Structural Deviations (RELAXATION) - 10,000 word cap, shorter than typical
+     ABS 4*/4 papers; separate shorter caps for book reviews (1,500-2,000 words) and
+     review essays (2,500-3,500 words).
+  2. Voice and Register (PRACTICE ONLY / journal-specific) - explicit Marxist/heterodox
+     analytical standpoint (exploitation, surplus value, dependency, class as analytical
+     categories) rather than the value-neutral positivist stance FIELD_SKILL assumes.
+  3. Other Journal-Specific Patterns (PRACTICE ONLY) - frequent thematic special issues
+     (e.g., Climate Change and Capitalism, Anti-Capitalist Pedagogies) at a higher rate
+     than typical ABS 4*/4 general-interest journals.
+  4. Statistical Reporting (GUIDELINE ONLY / low confidence) - wider mix of purely
+     theoretical/historical vs. empirical papers than FIELD_SKILL's empirical-heavy
+     sample; not confirmed via full text.
+  5. Abstract/metadata requirements (ENFORCED, hard constraint) - 125-word abstract cap,
+     minimum 2 JEL codes, minimum 3 keywords - all mandatory in the submission system.
+
+FIELD_SKILL overrides (hard constraints beyond field baseline):
+  - Chicago Manual of Style Author-Date citation system with specific mechanical rules
+    (no comma before page number, no "p."/"pp.", en dash for ranges, full first names,
+    chronological ordering for same-author works) - overrides FIELD_SKILL's generic
+    author-year assumption.
+  - No endnotes (footnotes only, substantive comments only).
+  - No "&" (spell out "and").
+  - No Latin citation abbreviations (ibid., op. cit., supra).
+  - No single quotation marks except nested inside double quotes.
+  - American spelling/orthography mandatory.
+  - Single-anonymized peer review - author self-identification must be stripped.
+  - Table/figure numbering and image resolution/format requirements (300/600 dpi,
+    .tif/.eps preferred).
+
+Access-limitation notes:
+  - No EZProxy/institutional access in this environment; all SAGE full-text articles
+    were paywalled. Relied on IDEAS/RePEc and EconPapers for TOC and abstract/JEL/keyword
+    data, and WebSearch snippets for a few additional abstracts.
+  - Guidelines page (journals.sagepub.com/author-instructions/rrp) yielded good detail via
+    WebSearch snippet extraction; the URPE mirror page was fully fetchable and provided the
+    most complete detail, used as primary source for Hard Constraints.
+  - Given ABS 1 tier and thin public full-text availability, evidence base is abstract/
+    keyword/JEL-level for the article sample, consistent with the assignment's stated
+    allowance for lower-tier journals.

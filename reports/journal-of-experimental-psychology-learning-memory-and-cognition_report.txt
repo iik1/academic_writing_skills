@@ -1,0 +1,42 @@
+Journal: Journal of Experimental Psychology: Learning, Memory, and Cognition
+Slug: journal-of-experimental-psychology-learning-memory-and-cognition
+ABS: 3
+Field: PSYCH (GENERAL)
+
+Articles fetched: 3 full-text articles read in complete detail (Isbilen et al. 2025 xlm0001412;
+Gronau, Nartker, Yakim, Utochkin, & Wolfe 2024 xlm0001377; Lee, Holyoak, & Lu 2025 xlm0001514),
+plus approximately 10 additional titles/abstracts/citations surfaced via WebSearch and the
+journal's official sample-articles page (Hu & Worthy 2026; Hong et al. 2025; Davies et al. 2017;
+Hendrix & Sun 2021; Siegelman et al. 2022; incoming 2025 editorial by Jeffrey Starns; several
+2015-2017 sample titles from apa.org/pubs/journals/xlm/sample). Full-text access via APA
+PsycNet was largely blocked by 403/binary-PDF rendering issues in WebFetch, but three complete
+open-access manuscript PDFs (via researcher personal/lab websites and Chorus public-access
+copies) were successfully read via the Read tool after WebFetch download.
+
+Early stop triggered: No. Continued until delta set stabilized; three deep full-text reads
+converged on the same structural and reporting patterns (Transparency and Openness subsection,
+Bayes Factor reporting, CRediT contribution statements), so further sampling was judged unlikely
+to surface new deltas.
+
+Deltas found: 3
+  1. Structural Deviations (PRACTICE ONLY / ENFORCED) - mandatory labeled "Transparency and
+     Openness" Method subsection with explicit preregistration citations; some articles combine
+     "Results and Discussion" per experiment rather than strictly separating them.
+  2. Statistical Reporting (PRACTICE ONLY) - routine reporting of Bayes Factors alongside
+     frequentist statistics, consistent with the 2025 incoming editorial's stated push toward
+     more rigorous statistical inference.
+  3. Other Journal-Specific Patterns (PRACTICE ONLY) - Action Editor credit line and detailed
+     CRediT-taxonomy author contribution statements as standard front matter; preregistration
+     links cited formally in the reference list.
+
+FIELD_SKILL overrides: None that contradict FIELD_SKILL; the open-science/transparency
+requirements sharpen and formalize (via a mandatory subsection) what FIELD_SKILL already
+treats as a near-universal ABS 4*/4 expectation. No relaxations found (journal is ABS 3, so per
+task rules relaxations would be labeled RELAXATION, not found).
+
+Access-limitation notes: APA PsycNet direct page/manuscript URLs largely returned WebFetch
+403 errors or rendered as raw undecoded PDF binary streams rather than text; where this
+occurred, the tool's summarization failed and full-text was instead obtained by downloading the
+PDF via WebFetch and re-reading it with the Read tool, which successfully parsed the PDF content
+in three cases. ScienceDirect/some psycnet abstract pages returned only journal-level metadata
+rather than article abstracts.

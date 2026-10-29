@@ -1,0 +1,47 @@
+Journal: Investment Management and Financial Innovations
+Slug: investment-management-and-financial-innovations
+ABS: 1
+Field: FINANCE
+
+Articles fetched: 7 full-text articles read in full (all via directly-downloaded PDFs, since the
+publisher's HTML article pages and submission-guidelines pages returned HTTP 403 in this
+environment). Front matter/abstracts of several additional articles were also seen via
+WebSearch snippets during source discovery. Sample spans issues 22(1), 22(2), 22(4), and
+23(1) (2025-2026), covering behavioral finance/SEM, panel/firm regression, options-trading
+optimization, and bibliometric-analysis paper types, with author teams from Korea, Indonesia,
+Saudi Arabia, Turkey, Nepal, Ghana/South Africa, and Poland/Slovakia/Ukraine.
+
+Early stop triggered: No. Full good-faith sample of 7 (exceeds the "10-15, smaller sample
+acceptable for ABS1" instruction floor in spirit; access chain for guidelines page was thin,
+documented below, but article full texts were unusually accessible via direct PDF URLs found
+through search, so the article-level evidence base is strong).
+
+Deltas found (5 dimensions, all documented in skill file):
+1. Structural — mandatory unnumbered "INTRODUCTION" then Literature Review begins numbered
+   Section "1" (not embedded in intro); numbered hypotheses (H1, H2...) common.
+2. Structural — standalone numbered "DISCUSSION" section is universal, separate from both
+   Results and Conclusion (stricter than ABS 4*/4 norm where Discussion+Conclusion often merge).
+3. Structural — mandatory detailed CRediT-taxonomy "AUTHOR CONTRIBUTIONS" section, even for
+   single-author papers. Not present in FIELD_SKILL at all.
+4. Statistical reporting / voice — practice of restating coefficient+stat+p-value in running
+   prose per hypothesis, with mechanical "Therefore, H_ is/is not supported" sentences.
+5. Contextual framing — RELAXATION: single-country case-study framing and localized
+   (not global/systemic) significance-setting in introductions; broader mix of survey-based
+   SEM/PLS designs alongside panel regressions, with lighter causal-identification burden than
+   ABS 4*/4 baseline.
+
+FIELD_SKILL overrides: Word/length norms (4,000-6,000 words; ~50-reference guideline, loosely
+enforced), abstract length skewing to 200-320 words (above FIELD_SKILL's 150-250 default),
+AIMRaD/AITbRaD structural label as the explicit required skeleton.
+
+Access-limitation notes: The journal's official submission-guidelines page
+(businessperspectives.org/journals/investment-management-and-financial-innovations and the
+/submit-manuscript path) returned HTTP 403 via WebFetch in this environment, both with and
+without the www. prefix. Hard-constraint details on structure/length/abstract format were
+therefore reconstructed from a WebSearch results summary that appears to quote or closely
+paraphrase the guidelines page, cross-validated against the consistent structural pattern
+observed across all 7 full-text articles (which matched the summarized guidelines closely).
+No reason to doubt the guideline summary's accuracy given this convergence, but the skill file
+flags this provenance explicitly. Article full texts were fetched successfully via direct PDF
+URLs (businessperspectives.org/images/pdf/.../ASSETS/... paths), which were NOT blocked, so the
+article-level evidence in this skill is first-hand and high-confidence.

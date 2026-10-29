@@ -1,0 +1,48 @@
+Journal: Journal of Experimental Psychology: General
+Slug: journal-of-experimental-psychology-general
+ABS: 4
+Field: PSYCH (GENERAL)
+
+Articles fetched: 3 confirmed at abstract/metadata level (full text inaccessible,
+no institutional proxy). Titles/authors verified via WebSearch snippets:
+  1. Bartsch, Souza, Mizrak, & Oberauer (2025) - "Is Working Memory a Gateway
+     to Long-Term Memory?" JEP:General 154(12), 3531-3551.
+  2. 2025 article on targeted recruitment ads and tokenization concerns among
+     Black job applicants (5 online experiments, N=1,505).
+  3. General sweep of 2024-2025 issue titles/abstracts via search engine
+     snippets to confirm typical multi-experiment structure.
+This is below the requested target of 15. PsycNet and most publisher pages
+return abstract-only or paywalled content without institutional access;
+repeated targeted searches for additional full abstracts did not surface
+further distinct, citable articles beyond generic journal metadata pages.
+
+Early stop triggered: Yes - stopped after exhausting readily accessible
+search-engine and publisher-page results; the APA guidelines pages (xge and
+xge/submit) were unusually complete and became the dominant evidence source,
+which is sufficient for a guidelines-driven skill given ABS-4 tier expectations
+of alignment with FIELD_SKILL.
+
+Deltas found: 2 dimensions
+  - Structural Deviations (ENFORCED): mandatory Public Significance Statement
+    (120-150 words, lay register) and mandatory Constraints on Generality (COG)
+    closing paragraph in Discussion - both journal-specific requirements not
+    present as universal requirements in FIELD_SKILL.
+  - Other Journal-Specific Patterns (ENFORCED): codified Transparency and
+    Openness Method subsection with explicit TOP compliance levels (Level 2
+    data/code/citation, Level 1 materials/design) - a more operationalized
+    version of FIELD_SKILL's general open-science expectation.
+
+All other dimensions (voice, sentence style, argumentation, methods density,
+results reporting, discussion norms, citation density, hedging) found to
+align with FIELD_SKILL - labeled FIELD DEFAULT, no delta.
+
+FIELD_SKILL overrides: none identified (this journal aligns with and adds to
+FIELD_SKILL rather than contradicting it, consistent with ABS-4 expectations).
+
+Access-limitation notes: No EZProxy/institutional access in this environment.
+PsycNet and ScienceDirect-style full-text pages were not reachable. Guideline
+detail was sourced directly from apa.org/pubs/journals/xge and its /submit
+subpage via WebFetch, which yielded unusually complete and specific
+information (word limits, TOP levels, figure DPI, color-figure fees, masked
+review policy) sufficient to establish HARD_CONSTRAINTS with confidence even
+with limited article-level corroboration.

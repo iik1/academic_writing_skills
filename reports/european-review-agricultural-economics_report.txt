@@ -1,0 +1,11 @@
+Journal: European Review of Agricultural Economics
+Slug: european-review-agricultural-economics
+ABS: 3
+Field: ECON
+Articles fetched: 16 (Vol 52-53, 2025-26) via article HTML pages (abstract, JEL codes, keywords, section structure, visible prose). OUP full text paywalled; WebFetch cannot authenticate via EZProxy, so the freely-visible front-matter was used — sufficient for delta detection on voice, structure, abstract, citations, and language.
+Early stop triggered: no (read the full 15-article minimum + 1)
+Deltas found: 3 (voice/register relaxation; abstract length 100 words vs 150-250; British English + single quotes)
+  - VOICE delta found ONLY because of the larger sample: "we" dominant (~12/16) but impersonal "This study investigates" and sole-author "I" both accepted (RELAXATION at ABS 3). The earlier 2-article / metadata-only runs missed this.
+FIELD_SKILL overrides: 100-word abstract cap (vs 150-250); 8,000-word cap INCLUDING tables/figures (vs no/higher field limit); British English + single quotation marks (vs American-leaning, no field consensus); JEL codes + max 5 keywords required; alt-text required; no vertical table lines; sentence-case headings/captions; author-year-with-page citation form for direct quotes; Review Articles need pre-submission inquiry.
+
+Process note: This skill was produced by reading 16 article HTML pages directly (not via the headless dispatch agent). The dispatch pipeline's WebFetch cannot clear the OUP paywall or persist across 15 fetches in a single pass, so its run returned 0 full-text / metadata-only. Methodology and output format follow journal_agent_prompt.txt (delta detection vs econ-field-writing-style).

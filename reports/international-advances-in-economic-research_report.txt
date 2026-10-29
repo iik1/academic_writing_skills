@@ -1,0 +1,18 @@
+Journal: International Advances in Economic Research
+Slug: international-advances-in-economic-research
+ABS: 1
+Field: ECON
+Articles fetched: 8 with full abstract/JEL/keyword detail (via RePEc/IDEAS abstract pages), plus ~50 additional article titles surveyed across issue listings (v29 2023 - v32 2026) for structural/topical patterns.
+Early stop triggered: No (full sample of accessible sources exhausted; Springer guidelines page itself was login-gated, worked around via search-engine cached excerpts)
+
+Deltas found: 2
+  - Research Notes article type: 800-word cap, 10-word title cap (ENFORCED/GUIDELINE - stated in guidelines, not independently verifiable in spot-check since none of the sampled abstracts were identifiable as Research Notes)
+  - Double-blind anonymization submission requirement (ENFORCED - stated in guidelines; standard submission mechanic not covered by FIELD_SKILL)
+
+FIELD_SKILL overrides: none found for regular articles' voice, structure, citation, hedging, or reporting norms - all converge with econ-field-writing-style baseline.
+
+Access-limitation notes:
+- link.springer.com/journal/11294/submission-guidelines and the journal homepage both redirect to Springer's login/IDP flow (HTTP 303) and could not be fetched directly; relied on WebSearch's cached extraction of key text (Research Notes limits, double-blind policy, submission format).
+- iaes.org (society page, likely the original publisher-adjacent scope statement) failed DNS resolution; scope statement recovered via search-engine cache instead.
+- Full text of all sampled articles is paywalled; abstracts, JEL codes, and keywords from RePEc/IDEAS were used as the evidentiary basis for the spot-check, consistent with the assignment's allowance for front-matter-only review at this tier.
+- No Research Note articles were identifiable in the recent issue listings sampled, so the 800-word constraint is guideline-only, unconfirmed in current practice within this sample.

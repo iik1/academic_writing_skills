@@ -1,0 +1,37 @@
+Journal: Gender, Work and Organization
+Slug: gender-work-and-organization
+ABS: 3
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 6 (front-matter/abstract level only; full text paywalled for all).
+Early stop triggered: yes — stopped short of the 15-article target because Wiley's
+onlinelibrary.wiley.com article and guideline pages returned HTTP 402 (payment required)
+on every direct WebFetch attempt. Compensated with RePEc/IDEAS mirror (one full abstract),
+Google-indexed abstract/title snippets, and Wiley TOC listings across 2024-2026 issues to
+confirm topical/thematic patterns. Delta set stabilized around the same handful of findings
+(feminist/critical theoretical framing, Feminist Frontiers section, qualitative word-limit
+exception) across all sources consulted, so further searching had diminishing returns.
+
+Deltas found: 3
+  1. Voice and Register — explicit feminist/critical/intersectional theoretical framing
+     expected (RELAXATION/refinement of FIELD_SKILL's generic "named theory" norm).
+  2. Structural Deviations — "Feminist Frontiers" short-form section for
+     conceptual/commentary essays, not covered by FIELD_SKILL (GUIDELINE ONLY).
+  3. Other Journal-Specific Patterns — explicit word-count leniency for qualitative
+     papers with small interview samples (ENFORCED, stated in guidelines).
+
+FIELD_SKILL overrides:
+  - Word limit: 9,000 words max (with discretionary qualitative exception) — journal-specific,
+    not present in FIELD_SKILL.
+  - No co-authors may be added after review begins; ORCID required for all authors;
+    data sharing expected — explicit prohibitions/requirements not in FIELD_SKILL.
+
+Access-limitation notes:
+  - onlinelibrary.wiley.com/page/.../forauthors.html and productinformation.html both
+    returned HTTP 402 on direct WebFetch; relied on WebSearch-indexed excerpts instead.
+  - All six sampled article DOI pages (onlinelibrary.wiley.com/doi/10.1111/gwao.*) were
+    paywalled/inaccessible via direct fetch; used RePEc/IDEAS mirror for one full abstract
+    and search-engine snippets/TOC listings for the rest.
+  - No access to full guideline text on abstract structure, word limit, or table/figure
+    formatting rules beyond what surfaced in search snippets; these sections in the skill
+    file are marked as "no journal-specific rule found beyond FIELD_SKILL norms."

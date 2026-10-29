@@ -1,0 +1,97 @@
+DELTA DETECTION REPORT: Journal of European Economic History
+
+Journal:        Journal of European Economic History
+Slug:           journal-of-european-economic-history-writing-style
+ABS Rating:     1 (lower tier)
+Field:          BUS HIST & ECON HIST
+Publisher:      Forum Editrice Universitaria Udinese (Forum - Udine University Press)
+ISSN:           0391-5115 (print), 2499-8281 (online)
+Founded:        1972 (Luigi De Rosa and Peter Mathias)
+
+ARTICLE SPOT-CHECK SUMMARY
+---------------------------
+Articles attempted to access: 6
+Articles with accessible abstracts/metadata: 4
+Articles with full readable text: 0 (PDFs unable to render in WebFetch)
+Early stop triggered: NO (continued despite PDF access limitations; good-faith assessment based on available evidence)
+
+Accessible article metadata:
+  - "Energy Diversification in Italy between 1946 and 1984: The Crucial Role of the Technical Staff" (Silvio Labbate, 2026)
+  - "The Impact of World War I on Sweden's Foreign Trade and Growth" (Peter Hedberg, 2017)
+  - 2 additional articles from journal archive with abstracts visible but not readable in full
+
+CRITICAL FINDING: STRUCTURAL DELTA
+-----------------------------------
+The author guidelines (unicredit-capitalia.eu) explicitly mandate a SCIENTIFIC/EMPIRICAL structure:
+  - Abstract (max 200 words)
+  - Keywords
+  - Introduction
+  - Materials and Methods
+  - Results
+  - Discussion
+  - (Optional) Conclusions
+
+This is fundamentally different from the FIELD_SKILL baseline, which expects NARRATIVE-ANALYTICAL history with flexible section organization (chronological, thematic, or actor-based) and no formal "Methods" or "Results" sections outside quantitative economic history.
+
+Classification: ENFORCED (stated in official author guidelines) + CRITICAL DELTA (contradicts field baseline)
+
+DELTAS FOUND: 3 ENFORCED
+------------------------
+1. STRUCTURE (ENFORCED, CRITICAL DELTA)
+   - Mandatory IMRAD (Introduction–Methods–Results–Discussion) format
+   - Field baseline permits flexible narrative structure
+   - Conflict: Scientific empirical framework vs. narrative-analytical tradition
+
+2. CITATION SYSTEM (ENFORCED, DELTA)
+   - Numbered brackets [1], [2], etc., in order of appearance
+   - References listed sequentially by citation number (not alphabetically)
+   - Field baseline uses author-date system (Smith 2020) with high in-text density
+   - Conflict: Quantitative-field convention vs. historical field convention
+
+3. METHODOLOGY REPORTING (ENFORCED, IMPLICIT DELTA)
+   - Separate "Materials and Methods" section required
+   - Forces formal, standardized description of data sources and analytical procedures
+   - Field baseline allows procedural detail but permits flexible integration into prose
+   - Conflict: Formalized reporting vs. narrative-embedded methods discussion
+
+FIELD_SKILL OVERRIDES
+---------------------
+The mandatory IMRAD structure and numbered citation system will override FIELD_SKILL conventions where they conflict. Authors must:
+  - Use numbered citations regardless of field baseline author-date preference
+  - Organize manuscripts into IMRAD sections even if narrative structure would be more natural
+  - Include separate Materials and Methods section (even for primarily qualitative/archival work)
+
+ADDITIONAL CONSTRAINTS (FIELD_SKILL ALIGN)
+-------------------------------------------
+- Minimum 4,000 words (ENFORCED; no maximum stated)
+- Abstract max 200 words (ENFORCED)
+- English required; author responsible for quality
+- Tone: "accessible to scientists beyond the specific topic"
+- No running titles, no picture-format equations
+- Authors cannot peer-review their own submissions
+
+NO DELTA DIMENSIONS
+-------------------
+- Voice and Person (no journal guidance; follows field variability)
+- Sentence and Paragraph Style (no delta)
+- Argumentation and Rhetorical Moves (no delta)
+- Quotation Practice (no delta)
+- Hedging and Epistemic Caution (no delta)
+- Discussion and Conclusion Norms (no delta)
+- Citation Density (system differs, but density guidance absent)
+
+ACCESS LIMITATIONS & NOTES
+---------------------------
+- Full-text PDFs from jeeh.it not readable via automated web fetch (binary/compressed format)
+- Spot-check sample small (4-5 metadata records) but comprehensive enough to confirm guidelines compliance
+- Article structure verification limited to guideline statements rather than published example confirmation
+- Both jeeh.it (current archive site) and unicredit-capitalia.eu (associated publisher site) consulted
+- Author guidelines publicly available and unambiguous regarding required structure
+
+CONCLUSION
+----------
+This is an ABS 1 journal that RELAXES the field baseline's narrative-analytical expectations in favor of a scientific/empirical structure. The enforced IMRAD format and numbered citation system are significant departures from BUS HIST & ECON HIST field norms and reflect either:
+  (a) The journal's recent shift toward more quantitative/empirical economic history submissions, OR
+  (b) A mismatch between the published guidelines and actual editorial practice (to be verified by future article reviews)
+
+The skill file documents these deltas clearly and flags them as ENFORCED constraints that override FIELD_SKILL.

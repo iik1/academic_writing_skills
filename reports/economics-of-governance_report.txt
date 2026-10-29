@@ -1,0 +1,24 @@
+Journal: Economics of Governance
+Slug: economics-of-governance
+ABS: 1
+Field: ECON
+Publisher: Springer Nature
+
+Articles fetched: 8 (title/abstract/metadata level only; full text not accessible)
+Early stop triggered: No (good-faith sample size for ABS 1 tier reached; access chain to full text was thin, documented)
+
+Deltas found: 0
+- No dimensions deviated from FIELD_SKILL (econ-field-writing-style). All observed abstracts and metadata are consistent with field defaults for voice, structure, statistical reporting, citation density, and hedging.
+
+FIELD_SKILL overrides: none
+
+Hard constraints from guidelines (relaxations vs. FIELD_SKILL, not new norms):
+- Abstract: 150-250 words, unstructured single paragraph, no undefined abbreviations, 4-6 keywords required.
+- No simultaneous submission; no post-acceptance authorship changes.
+- No journal-specific structure, length, citation, or heading mandate found beyond Springer/field defaults.
+
+Access-limitation notes:
+- Springer's submission-guidelines and how-to-publish pages both redirect to an authentication gate (idp.springer.com) in this environment; guideline content was recovered via search-engine-cached snippets rather than direct page fetch.
+- All Springer article landing pages (link.springer.com/article/...) also redirect to the same auth gate, so no full-text article was read.
+- Relied on RePEc/IDEAS journal listing (ideas.repec.org/s/spr/ecogov.html, fetched directly and successfully) for article titles/authors across 2023-2025, and search-engine-extracted abstract snippets for a subset of these (Aprile & Fiorillo 2025; Pernagallo 2025).
+- Given the thin access chain and ABS 1 tier, this is documented as a good-faith, title/abstract-level spot-check rather than a full-text review; no journal-specific deltas were fabricated to compensate for this limitation.

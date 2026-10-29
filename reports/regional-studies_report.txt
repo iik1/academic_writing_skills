@@ -1,0 +1,45 @@
+Journal: Regional Studies
+Slug: regional-studies
+ABS: 4
+Field: REGIONAL STUDIES, PLANNING AND ENVIRONMENT
+
+Articles fetched: 7 with substantive abstract-level detail (Esposito/Ferrante/Scicchitano
+2025; Xing et al. 2025; Dejean/Robertson/Suire 2025; Petrakos/Sotiriou/Alexiou 2025;
+Ormerod 2025; "man-shaped" 2023 piece via RePEc), plus a 15-title list from Vol. 59
+No. 1 (2025-2026) surveyed for topical/structural pattern only (titles/authors, no
+abstract detail).
+
+Early stop triggered: No — search space (tandfonline direct access) was exhausted due
+to persistent 403 Forbidden on all tandfonline.com URLs via WebFetch. Fell back to
+WebSearch snippets, IDEAS/RePEc, HAL (blocked by Anubis bot-protection), and
+researcher.life discovery pages. Continued sampling until delta pattern stabilised
+(no new deltas after 5th-6th article).
+
+Deltas found: 1 substantive (PRACTICE ONLY)
+  - No JEL classification codes observed in any sampled abstract (n=7), despite
+    economics-adjacent ABS 4 scope. Practice observation only, not stated in
+    guidelines (guidelines page inaccessible).
+
+FIELD_SKILL overrides: none confirmed as ENFORCED. One stated acceptance criterion
+(sub-national empirical focus required) found via search snippet from the journal's
+"about this journal" page — flagged as a Hard Constraint but not independently
+verified via the primary Instructions-for-Authors document.
+
+Access-limitation notes:
+- tandfonline.com/journals/cres20 (Instructions for Authors) returned HTTP 403
+  Forbidden on every WebFetch attempt (direct URL, action=authorSubmission variant,
+  and individual article doi/full URLs). Could not read structure, word limits,
+  citation style, heading conventions, table/figure rules, or explicit prohibitions
+  directly from the primary source.
+- HAL open-access mirror (hal.science) blocked by Anubis bot-protection challenge.
+- RePEc/IDEAS direct article-page URL guessed incorrectly (404); worked via WebSearch
+  redirect for at least one article.
+- All abstract content was obtained via WebSearch result snippets or via
+  researcher.life's discovery mirror rather than direct tandfonline fetch, so
+  no keyword lists, JEL codes, or full-text section headings could be independently
+  confirmed beyond what search snippets surfaced.
+- Word/page limits, citation style, and heading conventions could NOT be confirmed
+  for this journal in this session; the SKILL.md marks these as unconfirmed/follows
+  FIELD_SKILL rather than asserting unverified figures found for other, different
+  "Regional Studies"-named journals (e.g., the Pakistani Regional Studies or Regional
+  Studies in Marine Science, which are NOT this journal and were explicitly excluded).

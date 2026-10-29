@@ -1,0 +1,23 @@
+Journal: Asian Economic Papers
+Slug: asian-economic-papers
+ABS: 1
+Field: ECON
+Publisher: MIT Press
+
+Articles fetched: 0 full-text (all paywalled/403). 6 abstracts/metadata read via search-engine snippets and RePEc; ~13 additional titles/authors reviewed across AEP Vol. 24 Issues 1-3 (2025) via ideas.repec.org index fetch, for topical pattern-checking only.
+
+Early stop triggered: No — this is the full good-faith sample achievable given access constraints; documented rather than fabricated further.
+
+Deltas found: 2 substantive dimensions
+  1. Structural Deviations — AEP publishes short standalone discussant "Comments by [Name], on [Paper Title]" articles alongside main papers, a legacy of the journal's Asian Economic Panel meeting origins. ENFORCED (recurring across issues).
+  2. Other Journal-Specific Patterns — narrow, explicit Asia-country/subregion policy scope requirement. GUIDELINE ONLY / PRACTICE (scope fit, not a structural or voice deviation).
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Abstract: hard 100-word cap (FIELD_SKILL sets no limit)
+  - Tables/figures: must be placed at manuscript end, one per page, self-explanatory, B&W, EPS/TIFF at 900-1200 dpi
+  - References: full author first+last names (no initials) and full journal names (no abbreviations), alphabetical by surname then year
+  - Manuscript order: title page, abstract, main text+footnotes, appendix, references, tables, figures
+  - Style guides: Chicago Manual of Style 15th ed., Merriam-Webster's Collegiate Dictionary 11th ed.
+  - Submission via dedicated AEP portal (https://aep.jci.edu.my/) tied to Asian Economic Panel meeting pipeline
+
+Access-limitation notes: direct.mit.edu returned HTTP 403 on all direct WebFetch attempts (main journal page, submission guidelines page, and individual article-abstract pages). All guideline content and abstracts were obtained via WebSearch snippet summaries and one successful WebFetch of the RePEc/IDEAS journal index page (ideas.repec.org/s/tpr/asiaec.html), which listed recent titles/authors across three 2025 issues. No full-text articles were accessible. Confidence in Hard Constraints is high (guidelines text quoted consistently across two independent WebSearch queries). Confidence in style/voice deltas is lower since only abstracts, not full text, were reviewed — this is reflected in the skill by relying on FIELD DEFAULT for all prose-level dimensions where no abstract-level evidence contradicted the baseline.

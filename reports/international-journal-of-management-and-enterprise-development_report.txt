@@ -1,0 +1,193 @@
+DELTA DETECTION REPORT
+International Journal of Management and Enterprise Development
+
+================================================================================
+JOURNAL METADATA
+================================================================================
+Journal Name:             International Journal of Management and Enterprise Development
+Slug:                     international-journal-of-management-and-enterprise-development
+ABS Rating:               1
+Field:                    ENT-SBM (Entrepreneurship & Small Business Management)
+Publisher:                Inderscience Publishers
+ISSN:                     1468-4330 (print); 1741-8127 (electronic)
+Field Baseline Skill:     entrepreneurship-field-writing-style
+Scope:                    Peer-reviewed research on enterprise development, managerial
+                          capabilities, innovation, strategic practices, and management
+                          processes in MSMEs and growth-oriented organisations.
+
+================================================================================
+METHODOLOGY
+================================================================================
+Phase 1 - Author Guidelines:        COMPLETED
+  - Primary source: Inderscience author guidelines pages
+  - Access method: Web fetch (public pages)
+  - Status: Guidelines fully extracted and documented
+
+Phase 2 - Article Spot-Check:       COMPLETED WITH LIMITATIONS
+  - Target: 10-15 articles across multiple issues/years
+  - Actual: 6 articles reviewed (titles, abstracts, metadata)
+  - Years covered: 2025-2026
+  - Access method: IDEAS/RePEc article listings, Inderscience homepage
+  - Full-text availability: Limited by paywall (Inderscience online portal requires
+    authentication for full-text access)
+  - Data extracted from abstracts/titles: Yes
+  - Sample articles:
+    1. Mutiganda, J.C. "Understanding the process of starting up and managing the
+       performance of a refugee enterprise" (2026, Vol. 25, No. 5)
+    2. Karthikeyan, M. et al. "Exploring the nexus of sustainability and entrepreneurship:
+       a bibliometric study of green entrepreneurial orientation in SMEs" (2026, Vol. 25, No. 2)
+    3. Rababah, K.A. "Cloud computing and organisational agility: explaining the mediating
+       role of strategic alignment" (2026, Vol. 25, No. 2)
+    4. Breznik, K. & Kovačič, S. "Content analysis of mission statements: insights of
+       large and medium-sized enterprises" (2026, Vol. 25, No. 2)
+    5. Behera, S.K. & Panda, R.K. "Evolution and trends in entrepreneurial ecosystems:
+       a bibliometric exploration" (2026, Vol. 25, No. 1)
+    6. Blaique, L. & Mir, F.A. "Servant leadership and organisational commitment in UAE-based
+       work environments" (2026, Vol. 25, No. 1)
+
+Early Stop Triggered:              NO
+Reason for Access Limitations:     Inderscience operates a subscription-based model;
+                                   full-text access via inderscienceonline.com requires
+                                   institutional credentials. However, public-facing author
+                                   guidelines are comprehensive and published articles are
+                                   listed with metadata on IDEAS/RePEc. Limitation did not
+                                   prevent identification of journal norms (no full-text
+                                   close-reading possible, but article titles/scope/topics
+                                   confirm journal remains consistent with ABS 1 tier,
+                                   practitioner-oriented SME/entrepreneurship focus).
+
+================================================================================
+DELTAS IDENTIFIED
+================================================================================
+Total Deltas Found:                3 distinct delta findings
+
+1. RELAXATION: Structural Informality (Lower-Tier Flexibility)
+   - Finding: Unlike the ABS 4*/4 baseline (FIELD_SKILL), this ABS 1 journal accepts a
+     broader range of formats (case studies, technical reports, book reviews,
+     commentaries) without prescriptive section labeling.
+   - Impact: Mandatory subsections (e.g., Practical/Managerial Implications) in FIELD_SKILL
+     are relaxed here; Contributions/Implications are encouraged but not rigid.
+   - Classification: RELAXATION (lower-tier journal; broader scope tolerates structural variance)
+
+2. ENFORCED: AI Tool Disclosure in Acknowledgements
+   - Finding: Author guidelines explicitly mandate: "Authors using AI tools must include
+     a note in the article's Acknowledgements section describing the technologies used
+     and their purpose."
+   - Impact: Submission without AI disclosure (if tools were used) will be flagged during
+     editorial review.
+   - Classification: ENFORCED (stated in official guidelines, non-negotiable)
+
+3. PRACTICE ONLY / RELAXATION: Lower Theoretical Formality (Tier Effect)
+   - Finding: Published articles span case studies, bibliometric reviews, and practical
+     management reports alongside empirical studies. No evidence of uniform hypothesis-
+     deductive framework or requirement for explicit theoretical lens naming.
+   - Impact: Submissions may succeed with more pragmatic, applied framing than the
+     top-tier baseline expects; propositions and framework formality are secondary to
+     applied relevance.
+   - Classification: PRACTICE ONLY / FIELD DEFAULT at lower tier (not a stated guideline,
+     but observable in accepted article types)
+
+================================================================================
+HARD CONSTRAINTS FROM AUTHOR GUIDELINES
+================================================================================
+These override FIELD_SKILL where they conflict:
+
+Word Limit:             5000–7000 words (excluding references, figures, tables)
+                        High-quality articles exceeding 7000 words may be considered
+
+Abstract:               Structured, <150 words, covering aim, methodology, conclusions
+Keywords:               10–15 words/phrases for searchability
+Citation Style:         Harvard (name-date), e.g., "Hamel (2000)"
+Language:               English, UK spelling and terminology
+Conflict of Interest:   Mandatory declaration
+Informed Consent:       Mandatory if human subjects research
+AI Disclosure:          Mandatory if AI tools used; place in Acknowledgements
+Preprints:              May post to ArXiv, ora.ox.ac.uk, Research Square; add journal
+                        citation upon acceptance
+Article Types:          Original papers, review papers, technical reports, case studies,
+                        conference reports, management reports, book reviews, notes,
+                        commentaries
+
+================================================================================
+FIELD_SKILL OVERRIDES
+================================================================================
+None. The guidelines do not override or contradict FIELD_SKILL conventions on voice,
+citation density, hedging, or argument structure. The journal's author guidelines are
+silent on these dimensions, meaning FIELD_SKILL norms (first-person plural, CARS
+argumentation, careful hedging in limitations) are assumed to apply.
+
+Potential reduction in rigor (relaxed subsection formality, broader article types) is a
+tier effect, not a guideline override. Submissions should still follow FIELD_SKILL
+voice/argumentation norms while adapting structural flexibility to the journal's stated
+acceptance of case studies and technical reports.
+
+================================================================================
+DIMENSIONS WITH NO DELTA
+================================================================================
+- Voice, person, and register               → FIELD DEFAULT (no journal-specific guidance)
+- Sentence and paragraph style              → FIELD DEFAULT
+- Methods procedural transparency           → FIELD DEFAULT
+- Results and reporting norms               → FIELD DEFAULT
+- Discussion and conclusion structure       → FIELD DEFAULT
+- Hedging and epistemic caution             → FIELD DEFAULT
+- Citation density and literature engagement → FIELD DEFAULT
+
+All dimensions listed above assume FIELD_SKILL applies unless journal-specific guidance
+contradicts it (none found).
+
+================================================================================
+COMMON PITFALLS FOR THIS JOURNAL
+================================================================================
+1. Exceeding 7000 words without justification → desk reject or revision request
+2. Omitting Conflict of Interest declaration → editorial delay
+3. Using AI tools without Acknowledgements disclosure → compliance failure
+4. Non-Harvard citation format (e.g., Vancouver, numeric) → formatting revisions
+5. Vague abstracts lacking methodological specificity → abstract revisions required
+
+================================================================================
+ACCESS AND VERIFICATION NOTES
+================================================================================
+Author Guidelines:      Fully accessible, public URLs verified
+                        https://www.inderscience.com/mobile/inauthors/index.php?pid=70
+                        https://www.inderscience.com/mobile/inauthors/index.php?pid=71
+
+Full-Text Article Access: Limited by subscription (inderscienceonline.com requires
+                          institutional login). However, article metadata (titles, authors,
+                          abstracts) available via IDEAS/RePEc without login.
+
+Impact on Findings:      Paywall did not prevent identification of journal norms. Article
+                         titles and published topics confirm journal scope and editorial
+                         standards. Full-text close-reading (voice, paragraph structure,
+                         citation placement) was not possible; reliance on author guidelines
+                         and field-level assumptions (via FIELD_SKILL baseline) used for
+                         dimensions where article text was inaccessible.
+
+Recommendation:         FIELD_SKILL baseline is sufficient for dimensions without
+                        journal-specific guidance. Apply hard constraints listed above
+                        (word limit, abstract format, AI disclosure, Harvard citations)
+                        without deviation.
+
+================================================================================
+CONCLUSION
+================================================================================
+The International Journal of Management and Enterprise Development is an ABS 1 journal
+publishing entrepreneurship and SME management research. Its author guidelines are
+prescriptive on formatting (word limits, abstract structure, citation style) but
+permissive on article structure and theoretical frameworks, reflecting a lower tier
+and more practitioner-oriented editorial mandate than the ABS 4*/4 journals grounding
+the field baseline.
+
+Key submission requirements differ from the field baseline in their relaxation of
+mandatory subsections and acceptance of case studies/technical reports alongside
+empirical studies. However, voice, argumentation, and epistemic norms (from FIELD_SKILL)
+should be maintained.
+
+The explicit AI tool disclosure requirement is a modern addition (post-2023) and must
+not be overlooked.
+
+This skill document is fit for use; no further investigation required.
+
+================================================================================
+Report generated: 2 July 2026
+Delta detector: Claude Code (Haiku 4.5)
+================================================================================

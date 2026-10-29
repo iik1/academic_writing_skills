@@ -1,0 +1,86 @@
+JOURNAL SKILL GENERATION REPORT
+===============================
+
+Journal: Labor Studies Journal
+Slug: labor-studies-journal
+ABS Rating: 2
+Field: HRM&EMP
+Publisher: SAGE Publications (United Association for Labor Education)
+
+ARTICLES FETCHED/REVIEWED
+=========================
+Articles spot-checked: 8-10 article titles from Volume 50 (2024-2025)
+- Titles identified via SAGE Journals and search results include:
+  * "Latino Workers, the 2024 Presidential Election and the Future of the Labor Movement" (Ortiz, 2025)
+  * "Workers' Capital and Private Equity: Fiduciary Duty and the Imperative to Address Labor Risk" (Blasi & Fein, 2025)
+  * "Green Shoots: Political Education in the UK Trade Union Movement on the Climate Crisis" (Tannock, 2025)
+  * "Should We be Teaching Political Economy to Workers?" (Leopold & Vachon, 2025)
+  * "Labor in Michigan in 2024" (2025)
+  * "Unionization in Healthcare: Examining Working Conditions and Worker Mental Health Outcomes in Hospital Settings" (Woo et al., 2024)
+  * "At the Intersection of Productive and Reproductive Labor: Latina Apple Packers' Pandemic Struggles" (Loustaunau, 2025)
+  * "The War on the North American Left-Wing Labor Movement From World War I Through the Post-World War II Period" (Devinatz, 2024)
+
+ACCESS LIMITATIONS
+==================
+Full-text articles paywalled behind SAGE journal login. Spot-check based on:
+- Official author guidelines from SAGE/UALE
+- UALE submission guidelines page with explicit editorial criteria
+- Article titles, authors, and publication metadata from SAGE and institutional repositories
+
+Full-text body analysis impossible without institutional access. Spot-check focused on guideline compliance inferred from stated editorial review criteria rather than direct text analysis.
+
+EARLY STOP TRIGGERED
+====================
+No — sufficient publicly available guidelines and stated editorial criteria allowed comprehensive skill construction despite full-text paywall.
+
+DELTAS FOUND
+============
+Total deltas identified: 5 major categories
+
+1. **Length Constraint (ENFORCED):** 30-page maximum (including abstract, tables, figures), double-spaced. FIELD_SKILL does not specify a universal page limit. This is a hard constraint.
+
+2. **Citation Style (ENFORCED):** Chicago Manual of Style 16th edition, author-date system (not APA). This is journal-specific and non-negotiable.
+
+3. **Accessibility Requirement (ENFORCED, RELAXATION):** Explicit editorial criterion requiring "free from disciplinary jargon and methodological detail only of interest to people with advanced specialized training." Significant relaxation from FIELD_SKILL baseline, which tolerates formal-dense register and higher theoretical complexity. Practitioner accessibility is primary evaluation criterion.
+
+4. **Theoretical/Methodological Emphasis (RELAXATION):** "Novelty of topic, clarity of presentation, and accessibility" explicitly prioritized over "theoretical rationale and methodological sophistication" (stated in UALE guidelines). Econometric rigor and complex modeling are not required. This inverts FIELD_SKILL hierarchy.
+
+5. **Table/Figure Placement (ENFORCED):** Tables and figures numbered separately, placed at manuscript end on separate sheets. Stricter than some HRM journals' practice of inline placement.
+
+FIELD_SKILL OVERRIDES
+=====================
+FIELD_SKILL baseline (from ABS 4*/4 journals) assumes formal, theoretically dense, methodologically rigorous register. LSJ overrides this on:
+- Register/accessibility: Simplify language, remove jargon
+- Citation density: Accept papers with novelty-of-data focus over theoretical density
+- Methodological exposition: Simplify for general audience, do not assume specialist training
+- Page budget: Strict 30-page limit requires tight writing
+
+WHERE FIELD_SKILL APPLIES UNCHANGED
+====================================
+- Article structure (IMRaD): Follows standard empirical HRM conventions
+- Results reporting (quantitative: tables + prose; qualitative: thematic + quotes): FIELD DEFAULT
+- Discussion structure (revisit contributions, distinguish theory/practice, limitations, future directions): FIELD DEFAULT
+- Methods transparency and ethics: FIELD DEFAULT
+- Hedging and epistemic caution: FIELD DEFAULT
+- Argumentation (CARS-like intro, explicit contributions): FIELD DEFAULT
+
+NOTES ON DOCUMENT QUALITY
+==========================
+- Author guidelines are publicly available but somewhat fragmented across SAGE and UALE websites
+- UALE submission guidelines page is particularly clear on editorial review criteria and audience (union educators, labor activists, practitioners, scholars)
+- Full-text article analysis impossible; spot-check based on titled works and stated review criteria
+- Skill document is shorter than FIELD_SKILL baseline due to fewer deltas (lower-tier ABS 2 journal, more relaxed expectations overall)
+- All major hard constraints (page limit, citation style, anonymity) are clearly documented in guidelines
+
+SOURCES CONSULTED
+=================
+1. https://journals.sagepub.com/author-instructions/lsj (SAGE official guidelines, limited detail in web interface)
+2. https://www.sagepub.com/docs/default-source/msg/submission-guidelines_-labor-studies-journal_-sage-journals.pdf (PDF guidelines)
+3. https://uale.org/labor-studies-journal/submissions-guidelines/ (UALE submission guidelines, most comprehensive on editorial criteria)
+4. https://journals.sagepub.com/home/lsj (Journal homepage, SAGE)
+5. SAGE Journals search results for Volume 50 (2024-2025) article titles and metadata
+6. WebSearch results for journal scope, editors, and editorial policy
+
+FILE SAVED
+==========
+/skills/hrm/labor-studies-journal_SKILL.md (created successfully)

@@ -1,0 +1,34 @@
+Journal: Interdisciplinary Journal of Economics and Business Law (IJEBL)
+Slug: interdisciplinary-journal-of-economics-and-business-law
+ABS: 1
+Field: ECON
+Publisher: CJEAS Ltd
+
+Articles fetched: 5 (abstract/front-matter level, from the journal's own "Abstracts" page)
+  - Vol 14/4: "Divisional Patent Strategy and Competition Law: A Case Study of Teva..." (Naoko Mariyama)
+  - Vol 14/4: "From Individual Interest to Social Impact: A Legal-Managerial Cross-Analysis of the 'French Surrogacy Market'" (Gaelle Deharo)
+  - Vol 14/3: "A Systematic Review of ESG Application to Territories" (Luigi Capoani)
+  - Vol 13/3: "What would Lord Krishna do? Why vegan eating is on the rise in the land of Ahimsa" (Poorva Joshipura)
+  - Vol 14/1: "Comment Article: Productivity, Innovation and Industrial Structure" (Roy Green)
+
+Early stop triggered: No — exhausted the accessible chain (no RePEc/IDEAS listing, no SSRN/NBER mirrors, no additional issue archive pages found beyond the single Abstracts page). Documented as thin-access rather than truncating a larger available sample.
+
+Deltas found: 5 dimensions
+  1. Voice and Register — ENFORCED (accessible, non-technical, cross-disciplinary prose vs. FIELD_SKILL's technical-economist assumption)
+  2. Statistical Reporting — ENFORCED/RELAXATION (no econometric apparatus observed; guidelines explicitly instruct authors to banish math/stats from main text)
+  3. Structural Deviations — ENFORCED (multiple article types: articles, comments, letters, book reviews)
+  4. Other Journal-Specific Patterns — PRACTICE ONLY (scope extends into pure law and cultural/social commentary, confirmed across sample)
+  5. Hard constraints on structure/length/abstract/citations/headings/tables/prohibitions — all ENFORCED (stated in guidelines page, directly accessible)
+
+FIELD_SKILL overrides:
+  - Page limit: 30 A5 pages (not typical journal page/word count)
+  - Abstract: ~200 words, unstructured
+  - Figures: JPEG + redundant Word-doc format, grayscale only
+  - Mathematical/statistical argument explicitly discouraged in main text (relegate to appendix)
+  - No mandated empirical-paper section template (Data/Empirical Strategy/Results not required)
+
+Access-limitation notes:
+  - No full-text articles were accessible; all article-level evidence is from abstract/title-level front matter on the publisher's own Abstracts page.
+  - Journal not indexed on RePEc/IDEAS; no working-paper mirrors located on SSRN, NBER, or author personal/faculty pages via search.
+  - Guidelines, Aims & Scope, and Copyright Agreement pages were all directly and fully accessible (no paywall).
+  - Given ABS 1 tier and thin public footprint, a 5-article sample was treated as a good-faith ceiling rather than an incomplete search.

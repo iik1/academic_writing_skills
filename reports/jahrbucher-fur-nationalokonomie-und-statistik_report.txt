@@ -1,0 +1,31 @@
+Journal: Jahrbucher fur Nationalokonomie und Statistik (Journal of Economics and Statistics)
+Slug: jahrbucher-fur-nationalokonomie-und-statistik
+ABS: 1
+Field: ECON
+Publisher: De Gruyter (Oldenbourg)
+
+Articles fetched: 10 (abstract/keyword/JEL or title-level confirmation via RePEc/IDEAS and search snippets)
+Early stop triggered: No
+
+Deltas found: 2
+1. Structural Deviations - Data Observer article category (dataset-description pieces, not standard IMRAD). PRACTICE ONLY, scoped to that category only.
+2. Other Journal-Specific Patterns - explicit editorial invitation for replication studies focused on robustness. GUIDELINE ONLY, not independently verified in sample (no replication study sampled).
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+- Abstract: single paragraph, ~250 words, no refs/footnotes/tables/figures/equations
+- Citation style: CMS author-date reference style sheet (journal-specific style sheet, not generic econ house style)
+- Headings: numbered, title case, uppercase after colon, max 4 levels, min 2 subheadings per subdivided level, no end period
+- Tables: editable source only (no image/Excel), alphabetical footnotes, no color/shading/borders
+- Figures: labeled "Figure," min 300/600/1200 dpi depending on type, no frames, patterning not greyscale
+- No AI/ML credited authorship; disclosure required in Acknowledgments if used
+- No author-list/title changes post-acceptance; no AEA Author Randomization Tool
+- Inclusive language policy (avoid gendered pronouns, avoid irrelevant personal-characteristic descriptors)
+- Manuscript categories: Original Article, Special Issue Article, Literature Review, Under Debate, Data Observer, Book Review, Editorial
+- Book reviews: 0.5-3 pages, specific heading format (title, publisher, year, pages, price, ISBN)
+
+Access-limitation notes:
+- Full-text articles on degruyterbrill.com (publisher site) returned HTTP 405 on direct WebFetch; could not verify voice, hedging, or full section-by-section prose structure directly from full text.
+- Relied on RePEc/IDEAS abstract pages and Google-search-extracted summaries for abstract/keyword/JEL content.
+- 4 of 10 sampled articles (Talent Allocation in European Football Leagues, Gender Equality/Economic Preferences, Minimum Wage Greece, Minimum Wage EU differences) yielded only title/topic-level confirmation, not full abstracts, due to search indexing gaps.
+- No contrary evidence found for FIELD_SKILL voice/hedging/statistical-reporting norms in the accessible front matter; these dimensions are recorded as FIELD DEFAULT by convergence rather than positive full-text confirmation.
+- Guidelines PDF (Instructions for Authors, last updated 2023-08-01) was fetched in full and is a strong, complete source for Hard Constraints.

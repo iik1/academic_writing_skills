@@ -1,0 +1,27 @@
+Journal: Journal of Portfolio Management
+Slug: journal-of-portfolio-management
+ABS: 3
+Field: FINANCE
+
+Articles fetched: 8 (1 full text, 4 with abstract-level detail via search snippets, 3 title/topic only)
+Early stop triggered: No (stopped after delta set stabilized and access chain for full text was exhausted — journal site is subscriber-gated via idp.sams-sigma.com login redirect; SSRN blocks automated fetch with 403)
+
+Deltas found: 5 dimensions
+  1. Voice and Register - ENFORCED/RELAXATION (plain-English mandate for practitioner audience; academic-register manuscripts explicitly rejected at preliminary review; unevenly realized in practice - shorter practitioner pieces plainer, longer academic-author pieces retain FIELD_SKILL-level density)
+  2. Structural Deviations - ENFORCED (three-page front-matter template: title/author page, then abstract+3-item Key Findings list+keywords+JEL page, then main text from page 3; no heading before introduction)
+  3. Other Journal-Specific Patterns - ENFORCED ("Exhibit" terminology unifies tables and figures into one numbered sequence; footnotes used for tangential commentary not references; strict author bio template)
+  4. Abstract - ENFORCED (160-word target, non-technical, no references, mandatory 3-item highlights list - all confirmed structurally required beyond FIELD_SKILL's single-paragraph 150-250 word norm)
+  5. Tables/Figures/Equations - ENFORCED (extremely detailed mechanical/typographic specs - font sizes, cell margins, equation display rules - far beyond anything in FIELD_SKILL, which explicitly excludes such details)
+
+FIELD_SKILL overrides:
+  - Abstract format and length (160 words vs. 150-250; single paragraph plus separate mandatory highlights list)
+  - Citation style specificity (CMS 17th ed. Ch. 15 author-date, not generic author-year)
+  - Voice/register (plain English mandate, academic tone explicitly grounds for rejection)
+  - Table/figure nomenclature and mechanical formatting (unified "Exhibit" numbering; detailed typography rules)
+  - Front-matter/section-order structure (title page, then abstract page, then unheaded intro, then headings)
+
+Access-limitation notes:
+  - jpm.pm-research.com and pm-research.com article pages redirect to an authenticated login (idp.sams-sigma.com) for full text; could not be fetched.
+  - SSRN paper pages return HTTP 403 Forbidden on WebFetch.
+  - Compensated by: (a) full PMR family submission-guidelines PDF (comprehensive, all structural/mechanical detail), and (b) one full-text open-access PDF of a 2024 JPM 50th Anniversary article hosted on the author's firm website (jlem.com), which confirmed guideline compliance in practice (Exhibit numbering, Key Findings box, author bio format, footnote usage, unheaded introduction).
+  - Remaining 6 articles used for abstract/title-level triangulation only (search-engine snippets), sufficient to confirm plain-language/non-technical abstract norm and topical scope but not deeper structural patterns.

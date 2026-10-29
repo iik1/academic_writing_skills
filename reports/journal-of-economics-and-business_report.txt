@@ -1,0 +1,19 @@
+Journal: Journal of Economics and Business
+Slug: journal-of-economics-and-business
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 8 (abstracts + JEL codes only, via IDEAS/RePEc; full text not accessible)
+Early stop triggered: No (exhausted good-faith access chain for an ABS 2 journal; guide-for-authors full page returned 403, relied on search-engine-indexed excerpts)
+
+Deltas found: 0 style/structure deltas. One documented hard-constraint addition not covered by FIELD_SKILL:
+  - Mandatory "Highlights" file (3-5 bullet points, max 85 characters each) required at submission (Elsevier house requirement).
+  - Standard Elsevier extras: JEL codes (up to 6), keywords (max 6, American spelling), abbreviation-definition-in-abstract rule, generative AI disclosure requirement, two-part conflict-of-interest disclosure.
+
+FIELD_SKILL overrides: none identified (no conflicts between guidelines and finance-field-writing-style; journal adds submission mechanics but does not redefine voice, structure, citation, or reporting norms).
+
+Access-limitation notes:
+- sciencedirect.com/journal/.../guide-for-authors returned HTTP 403 on direct WebFetch; guideline content pieced together from WebSearch-indexed snippets of the same page (highlights requirement, JEL/keyword rules, abbreviation rule, AI disclosure, conflict-of-interest disclosure).
+- Could not access full-text articles (paywalled); spot-check relied on IDEAS/RePEc abstract + JEL code pages, which was sufficient to confirm no style deltas from FIELD_SKILL.
+- No explicit word/page limit was found in accessible guideline excerpts; documented as "not found" rather than assumed.
+- Sample size (8) is below the ideal 10-15 but reflects a good-faith effort for a lower-tier journal with thin public full-text access; all 8 were distinct, recent (2025-2026), and spanned multiple sub-topics (trade, banking stability, ESG/climate disclosure, corporate governance).

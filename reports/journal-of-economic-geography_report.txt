@@ -1,0 +1,35 @@
+Journal: Journal of Economic Geography
+Slug: journal-of-economic-geography
+ABS: 4
+Field: REGIONAL STUDIES, PLANNING AND ENVIRONMENT
+
+Articles fetched: 9 read in abstract/metadata detail; ~60 additional titles
+surveyed across Volumes 23-25 (2023-2025) via IDEAS/RePEc journal listing.
+Early stop triggered: No (delta set stabilized naturally after ~9 detailed
+reads; further reads only reconfirmed FIELD DEFAULT).
+
+Deltas found: 3
+  1. Abstract length - 100-word cap (tighter than FIELD_SKILL's 100-200
+     range). ENFORCED (stated in guidelines).
+  2. Keyword/JEL code convention - consistently enforced across all
+     sampled abstracts (4 keywords + JEL codes). ENFORCED.
+  3. Abstract voice - impersonal third-person framing more consistent
+     than field baseline's 50/50 split. PRACTICE ONLY, low-confidence,
+     abstract-level only.
+
+FIELD_SKILL overrides: Abstract word limit (100 words, not 100-200).
+
+Access-limitation notes:
+- OUP academic.oup.com pages (General_Instructions, advance-articles,
+  individual article pages) are JavaScript-rendered and did not return
+  usable content via direct WebFetch; guideline details and abstracts
+  were instead recovered via WebSearch snippet extraction and via
+  IDEAS/RePEc (ideas.repec.org), which mirrors plain-HTML
+  titles/authors/abstracts/JEL codes for OUP-published RePEc-indexed
+  journals.
+- Full text of all sampled articles was paywalled; analysis relied on
+  abstracts, keywords, JEL codes, and title patterns only, per task
+  instructions.
+- No deltas found in citation style, heading conventions, or table/figure
+  rules beyond what FIELD_SKILL already specifies, since the guidelines
+  page did not surface journal-specific detail on these dimensions.

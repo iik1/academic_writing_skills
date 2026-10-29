@@ -1,0 +1,51 @@
+Journal: Regulation and Governance
+Slug: regulation-and-governance
+ABS: 3
+Field: PUB SEC
+Publisher: Wiley-Blackwell
+
+Articles fetched: 11 full abstracts read in detail, plus title/scope review
+of ~190 additional articles (2023-2026) via RePEc/IDEAS index listing.
+Early stop triggered: No — sample exceeded the 15-article target when
+counting the broader title-level review; full-text access was capped by
+paywall (see access notes below), so depth relied on abstracts/titles.
+
+Deltas found (2):
+1. Abstract Format — unstructured 150-word abstract (no labeled fields,
+   no abbreviations/references), vs. FIELD_SKILL's structured-abstract
+   norm. Classified RELAXATION / ENFORCED (stated in guidelines and
+   confirmed in all 11 sampled abstracts).
+2. Structural Deviations — frequent thematic special-issue organization
+   with guest-editor introductory framing articles. Classified PRACTICE
+   ONLY (not stated in guidelines, but consistent pattern 2023-2026).
+
+Additional notes (not standalone deltas, flagged for completeness):
+- Methods conventions: unusually wide methodological spread (legal
+  content analysis, Q-methodology, csQCA, survey experiments, discourse
+  analysis, historical dataset construction, normative argument) even
+  relative to FIELD_SKILL's "no single orthodoxy" statement. Labeled
+  FIELD DEFAULT but called out as a pitfall-avoidance note.
+- Hedging: causal caution slightly pronounced in at least one sampled
+  article, but not elevated beyond FIELD_SKILL's existing hedging
+  guidance (PRACTICE ONLY, low prevalence).
+
+FIELD_SKILL overrides: 1 (abstract format — unstructured vs. structured).
+
+Access-limitation notes:
+- Wiley Online Library (onlinelibrary.wiley.com) returned HTTP 402 for
+  every direct WebFetch attempt (guidelines page, full-text article
+  pages, TOC pages). Guidelines content was recovered via WebSearch
+  result snippets instead of direct page fetch.
+- A full-text PDF (Hinterleitner et al. 2023 working-paper version) was
+  fetched successfully but could not be parsed to text (no PDF
+  rendering tool available in this environment: pdftoppm/poppler
+  missing).
+- SSRN full-text page returned HTTP 403.
+- RePEc/IDEAS (ideas.repec.org) was fully accessible and served as the
+  primary source for abstracts and the article-title corpus used for
+  structural/topical pattern-spotting.
+- No keyword lists were recoverable from RePEc records for any sampled
+  article, despite guidelines specifying 5 required keywords; this is
+  likely a RePEc metadata-extraction gap rather than evidence the
+  journal omits keywords, and is noted as such in the skill file (not
+  treated as a delta).

@@ -1,0 +1,57 @@
+Journal: Economic Geography
+Slug: economic-geography
+ABS: 4
+Field: REGIONAL STUDIES, PLANNING AND ENVIRONMENT
+
+Articles fetched: 10 abstracts/metadata (Irarrazaval & Atienza v102(1) 2026;
+"Economic Geography for the Next Century" editorial v102(1) 2026; Stihl,
+Friedrich & Grillitsch v101(5-6) 2025; Fusillo, Montresor & Fatikhova
+v101(5-6) 2025; Grillitsch, Cobos-Cabral & Horvat v101(5-6) 2025; Bai & He
+v101(5-6) 2025; Morales & Marques v101(5-6) 2025; Baumgartinger-Seiringer,
+Páger & Trippl v101(4) 2025; Liu v101(4) 2025; Randolph & Dutta v101(4)
+2025; Rodríguez-Pose, Dijkstra & Poelman v100(3) 2024), plus a full 20-item
+recent-issue listing browsed via IDEAS/RePEc for pattern context.
+
+Early stop triggered: No — stopped at 10 full abstract fetches because the
+delta set had stabilized (no new structural/style deltas emerging beyond
+issue #7-8), not because access was exhausted. Direct tandfonline.com
+fetches (guidelines page, current-issue TOC) returned HTTP 403 throughout;
+worked around via WebSearch snippets, IDEAS/RePEc mirror pages, and one
+LSE Research Online full-text PDF attempt (PDF binary was unreadable by
+the fetch tool, yielded no structural detail).
+
+Deltas found: 2
+  1. Structural Deviations (PRACTICE ONLY) — journal regularly runs short
+     2-4 page agenda-setting essays / editorials / book reviews alongside
+     standard research articles, with no abstract and no IMRaD structure.
+  2. Other Journal-Specific Patterns (PRACTICE ONLY / low-prevalence) —
+     JEL codes present in some empirical articles, absent in others;
+     inconsistent, not a stated or enforced norm.
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - 9,000-word ceiling (numeric limit not specified in FIELD_SKILL)
+  - 12-pt Times Roman, double-spaced, unjustified right margin, American
+    spelling (formatting specifics not covered by FIELD_SKILL)
+  - Manuscript component order: title page, abstract+keywords, body,
+    references, tables, figure-caption list, figures
+  - Minimum 3 external referees + editor per reviewable submission
+
+Access-limitation notes:
+  - tandfonline.com/journals/recg20/for-authors and the current-issue TOC
+    page both returned 403 Forbidden on direct WebFetch; guideline content
+    was reconstructed from WebSearch-indexed snippets of Taylor & Francis
+    "Information for Contributors" pages and a Clark University mirror
+    reference, cross-checked across two independent search queries for
+    consistency.
+  - Could not confirm abstract word-cap; one search result claimed 100
+    words but this could not be verified against the Economic Geography
+    guidelines specifically and may be conflated with the separate, Oxford-
+    published Journal of Economic Geography. Left as FIELD_SKILL default
+    (100-200 words) rather than asserting an unconfirmed number.
+  - No full-text articles were successfully read (all sampled articles were
+    paywalled beyond abstract/metadata on IDEAS/RePEc); one open-access PDF
+    (Rodríguez-Pose et al., LSE Research Online) was fetched but returned
+    unreadable binary content, so no section-heading or voice detail could
+    be extracted from full text. All spot-check findings are based on
+    abstract-level and metadata-level observation only, per task
+    instructions.

@@ -1,0 +1,20 @@
+Journal: Global Economy Journal
+Slug: global-economy-journal
+ABS: 1
+Field: ECON
+Publisher: World Scientific
+
+Articles fetched: 14 (titles/authors/topic summaries only, via search-engine-extracted snippets and RePEc listing; no full text or structured abstracts accessible — publisher pages and DOI abstract pages returned 403 Forbidden on direct fetch)
+Early stop triggered: No (dedupe check found no existing skill; proceeded through full pipeline)
+
+Deltas found: 1 substantive (ENFORCED), 1 minor observation (not a style delta)
+  - Citations: Chicago Manual of Style author-date system explicitly mandated by guidelines (ENFORCED) — more specific than FIELD_SKILL's generic "author-year" norm.
+  - Topic/scope skew toward applied international/development economics with regional case studies — noted as PRACTICE ONLY / scope observation, not a prose-style norm; included under "Other Journal-Specific Patterns" but does not appear in Dimensions With No Delta since it isn't a style dimension.
+  All other dimensions (voice, sentence/paragraph style, introduction structure, methods tense, hedging, discussion/conclusion norms, structural deviations) follow FIELD_SKILL norm — no deltas observed given available access.
+
+FIELD_SKILL overrides: Citation style (Chicago author-date specified explicitly, rather than field-generic author-year).
+
+Access-limitation notes:
+- worldscientific.com/page/gej/submission-guidelines returned 403 on direct WebFetch; content was obtained via WebSearch result snippets instead, which may be incomplete (no explicit word/page limits or abstract format found in accessible text).
+- worldscientific.com/toc/gej/current and individual DOI abstract pages (e.g., 10.1142/S2194565923500094) returned 403 Forbidden on WebFetch; could not confirm full abstracts, JEL code patterns beyond one search snippet, or structural details of full-text articles.
+- Article sample built from RePEc/IDEAS series listing and search-engine summaries of titles/topics only — no full-text or abstract-level style confirmation was possible. This is disclosed in the Sources table and Articles Spot-Checked line per the low-tier/thin-access protocol.

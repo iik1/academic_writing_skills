@@ -1,0 +1,66 @@
+DELTA DETECTION REPORT: Economic Systems Research
+
+Journal Name: Economic Systems Research
+Slug: economic-systems-research
+ABS Rating: 2
+Field: ECON
+Publisher: Taylor & Francis
+Official Journal of: International Input-Output Association (IIOA)
+
+RESEARCH SUMMARY
+================
+
+Articles Fetched / Spot-Checked: 7
+  - Ferreira et al. (2024), "Shockflation in the EU: Sectoral shocks, cost-push inflation..." (full PDF, 56 pages)
+  - ArXiv 2412.13564, "The networked input-output economic problem" (full PDF, 7 pages)
+  - ArXiv 2506.13936, "The Anatomy of Value Creation: Input-Output Linkages, Policy Shifts, Economic Impact in India's Mobile Phone GVC" (full HTML, multi-section structure)
+  - 4 articles from Taylor & Francis (2025–2026): abstracts and titles only
+    · "Quantifying carbon reduction from dietary behavioral changes in Taiwan" (Feb 2026)
+    · "Subnational MRIO building: the added value of household consumption and aggregate value-added data" (Feb 2026)
+    · "A macroeconomic analysis of the impact of productivity-enhancing European Social Fund interventions..." (Feb 2026)
+    · One additional recent article (title retrieved but full text unavailable)
+
+Early Stop Triggered: No
+Rationale: Lower-tier journal (ABS 2) with thinner public full-text access. Good-faith sample of 7 distinct articles (3 full-text, 4 abstracts/titles) is reasonable given access constraints. Clear convergence on finding emerged: no significant deltas from FIELD_SKILL baseline.
+
+DELTAS FOUND
+============
+
+Total Distinct Deltas: 1 practice-level observation (journal scope/emphasis, not a writing style delta)
+
+Delta Classification:
+  1. PRACTICE ONLY: Multisectoral Model Emphasis
+     - Context: Articles systematically employ input-output frameworks, SAM, and MRIO models.
+     - Observation: Methods sections require higher technical precision and clarity in explaining interindustry linkages and coefficient matrices than field average, but no new stylistic norm (voice, structure, citation, hedging) emerges.
+     - Status: Scope-driven expectation, not a deviation in writing conventions.
+
+All other ECON field dimensions (voice, active voice, argument structure, citation density, hedging, results reporting, discussion norms) show FIELD DEFAULT status — no deviation observed.
+
+FIELD_SKILL OVERRIDES
+======================
+
+None. Economic Systems Research does not override or contradict ECON field-writing-style baseline in any dimension.
+
+ACCESS LIMITATIONS & HONEST ASSESSMENT
+========================================
+
+1. Official submission guidelines (PDF or HTML): Unavailable via public web. Only reference found was submission portal (mc.manuscriptcentral.com/cesr) and brief guidance on IIOA website mentioning "How to write a publishable paper" by Mike Lahr (document itself not retrieved).
+
+2. Full-text article access: Taylor & Francis paywall restricts most articles. Analysis relied on:
+   - 3 full-text open-access versions (2 ArXiv, 1 EMPN repository)
+   - 4 article abstracts/titles from Taylor & Francis previews
+   - No institutional proxy available in research environment
+
+3. Scope vs. Style: Journal distinctiveness lies in **multisectoral economic modeling focus**, not in writing style. Formal guidelines document (e.g., "Instructions for Authors") could not be retrieved to verify explicit formatting constraints (page limits, abstract structure, heading conventions, table format rules). Assumptions therefore rest on reverse-engineering from published articles.
+
+4. Convergence Rule Applied: Multisectoral emphasis appears in ALL sampled articles (6 of 6 where full or near-full text available), but no corresponding stylistic delta emerged. Thus classified PRACTICE ONLY (scope), not ENFORCED or GUIDELINE.
+
+CONCLUSION
+==========
+
+Economic Systems Research follows ECON field-writing-style norms with no meaningful deviations. The journal's ABS 2 status does not correspond to relaxed writing expectations; articles maintain high technical precision and argumentative discipline consistent with ABS 4*/4 field baseline.
+
+The journal's distinctive feature is its scope (input-output and multisectoral economic analysis) rather than its prose conventions. Authors should expect Methods sections to demand clear exposition of matrix algebra, sectoral classifications, and coefficient assumptions—but general stylistic expectations (voice, hedging, argumentation structure, citation density) remain field-standard.
+
+Writing skill file: economic-systems-research_SKILL.md
+Report written: 2026-07-02

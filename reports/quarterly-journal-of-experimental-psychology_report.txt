@@ -1,0 +1,24 @@
+Journal: Quarterly Journal of Experimental Psychology
+Slug: quarterly-journal-of-experimental-psychology
+ABS: 3
+Field: PSYCH (GENERAL)
+
+Articles fetched: 6 read in detail (1 full-text via cached publisher PDF, 3 via PMC near-full-text/structure extraction, plus abstract-level confirmation on ~5 additional 2023-2025 articles via search snippets). Direct journals.sagepub.com article pages returned 403 Forbidden consistently; PMC mirrors and a cached CNPEReading PDF mirror were used as substitutes.
+
+Early stop triggered: No — deltas kept emerging through the sample (transparency statement placement, CRediT, footnote usage, spelling convention) so sampling continued until the delta set stabilised around article 5-6.
+
+Deltas found: 4 dimensions
+  1. Structural — standalone "Transparency and openness statement" / data availability statement subsection (ENFORCED, consistent across all sampled full-text articles)
+  2. Structural — CRediT taxonomy used for author contributions (PRACTICE ONLY, likely SAGE house style)
+  3. Structural — heavy use of numbered endnotes/footnotes for asides (PRACTICE ONLY, low-moderate prevalence)
+  4. Other — British/Commonwealth spelling conventions (PRACTICE ONLY, near-universal in sample)
+  Plus one RELAXATION: no enforced word limit (guidelines state "no word limits... but encourage concise submissions")
+  Plus one naming convention: "Experiment 1/2" vs FIELD_SKILL's "Study 1/2" label
+
+FIELD_SKILL overrides: none that contradict FIELD_SKILL substantively — all core voice, hedging, statistical reporting, methods, and argumentation norms follow FIELD_SKILL as FIELD DEFAULT.
+
+Access-limitation notes:
+- journals.sagepub.com direct pages (guidelines page, article DOI pages, table of contents) returned HTTP 403 Forbidden on every WebFetch attempt.
+- Guidelines content was reconstructed via WebSearch snippet extraction (which quotes journal guideline text directly) plus two PDF fetches (submission-guidelines PDF partially machine-readable; registered-reports guidelines PDF only returned metadata, content obtained via WebSearch snippet instead).
+- Full-text article access relied on PMC mirrors (NIH-hosted, open access under journal's green OA policy) and one cached PDF mirror (sage.cnpereading.com) rather than the publisher site directly.
+- One WebFetch tool mischaracterized the citation style in the Mercer (2025) article as "numbered bracketed citations" — this was corrected by direct inspection of the full-text Lador-Weizman & Deutsch (2024) PDF, which confirmed standard APA author-date in-text citations.

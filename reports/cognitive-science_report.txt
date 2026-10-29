@@ -1,0 +1,52 @@
+Journal: Cognitive Science
+Slug: cognitive-science
+ABS: 3
+Field: PSYCH (GENERAL)
+Publisher: Wiley-Blackwell (Cognitive Science Society)
+
+Articles fetched: 7 full-text/abstract sources (via PMC mirrors and WebSearch
+snippet extraction; direct Wiley Online Library fetch returned HTTP 402
+Payment Required for all onlinelibrary.wiley.com article pages, so full-text
+access relied on PMC-hosted open-access copies where NIH-funded or otherwise
+deposited, plus WebSearch-extracted abstract snippets for two Wiley-only
+records).
+
+Early stop triggered: No — spot-check continued until the delta set
+stabilized around 7 articles (structural pattern of theory/model papers
+recurring, no new delta categories emerging).
+
+Deltas found: 2 dimensions
+  1. Structural Deviations (PRACTICE ONLY / well-evidenced) — journal
+     routinely publishes purely theoretical/integrative articles with
+     free-form thematic headings and no Method/Results sections, alongside
+     standard IMRaD empirical papers, consistent with the journal's stated
+     scope inviting theoretical/philosophical analyses and cognitive model
+     design proposals as first-class article types.
+  2. Other Journal-Specific Patterns (PRACTICE ONLY) — computational/formal
+     modeling papers are a routine, prominent article category, reporting
+     model-comparison statistics (BIC, cross-validated r^2) alongside
+     standard effect sizes.
+
+FIELD_SKILL overrides (HARD_CONSTRAINTS beyond FIELD_SKILL):
+  - Free-format references at submission (typesetter applies style later) —
+    RELAXATION of formatting effort, not of eventual citation practice.
+  - Figures/appendices submitted as separate files at submission stage
+    (mechanics only).
+  - Double-anonymized review with separate title page (procedural, not a
+    field-baseline contradiction but not covered by FIELD_SKILL either).
+  - "Extended article" category with cover-letter justification requirement
+    for over-length papers; no explicit standard word/page cap could be
+    confirmed (paywalled guidelines page).
+
+Access-limitation notes:
+  - onlinelibrary.wiley.com returned HTTP 402 on every direct WebFetch
+    attempt (article pages and the author-guidelines page itself); all
+    guidelines content was obtained via WebSearch result snippets rather
+    than direct page fetch, so exact numeric word/page limits for the
+    journal (as opposed to the CogSci conference's 6-page limit, which is
+    a different venue) could not be independently verified beyond what the
+    search snippets surfaced.
+  - Full text for 5 of 7 spot-checked articles was available via PMC
+    mirrors (NIH public access deposits); 2 relied on abstract-only
+    WebSearch extraction (Portelance et al. via arXiv preprint
+    cross-reference; Van Kerrebroeck et al. via search snippet summary).

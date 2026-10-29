@@ -1,0 +1,41 @@
+Journal: International Journal of Human Resource Management
+Slug: international-journal-of-human-resource-management
+ABS: 3
+Field: HRM&EMP
+
+Articles fetched: 9 (abstract/front-matter level via search-engine snippets and
+secondary repositories; full text paywalled at tandfonline.com in this
+environment)
+
+Early stop triggered: No (this is the natural ceiling of the access chain, not
+an early stop for delta convergence — tandfonline.com returned HTTP 403 to all
+direct WebFetch attempts, including the guidelines page, TOC pages, and PDF
+links; recovered information came from WebSearch result snippets and
+third-party mirrors: ResearchGate, e-space.mmu.ac.uk, researchmgt.monash.edu)
+
+Deltas found: 0 confirmed journal-specific norms. One PRACTICE ONLY /
+low-prevalence observation noted (above-average reliance on imported
+single-theory lenses such as COR, JD-R, Organizational Justice Theory applied
+to HRM contexts) but not elevated to a stated norm since it appeared in a
+minority of sampled abstracts and is not stated in guidelines.
+
+FIELD_SKILL overrides: none confirmed (no hard constraints could be verified
+against the actual Instructions for Authors document).
+
+Access-limitation notes:
+- tandfonline.com blocked all WebFetch attempts (HTTP 403) for: the
+  Instructions for Authors page, the current-issue TOC page, and all sampled
+  article PDF URLs.
+- Could not confirm word/page limits, abstract structure/word count, citation
+  style (APA vs other), heading conventions, or table/figure rules directly
+  from the guidelines document. These are left as "not confirmed" in the skill
+  file rather than assumed, per instructions not to fabricate findings.
+- Confirmed only secondhand via journal "about this journal" scope text
+  (accessible through search snippets): double-anonymized peer review via
+  ScholarOne Manuscripts; ABS 3 rating; broad disciplinary scope statement.
+- Article-level detail is limited to titles, author lists, and
+  abstract/summary text as surfaced in WebSearch snippets — no full-text
+  section-by-section structural check was possible for any article.
+- One PDF fetch (Wood et al. 2018 special issue editorial, via
+  researchmgt.monash.edu) returned corrupted binary content and yielded only
+  metadata (DOI, authors, journal, year).

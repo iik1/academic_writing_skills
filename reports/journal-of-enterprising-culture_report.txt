@@ -1,0 +1,71 @@
+JOURNAL SKILL GENERATION REPORT
+===============================
+
+Journal: Journal of Enterprising Culture
+Slug: journal-of-enterprising-culture-writing-style
+ABS Tier: 1
+Field: ENT-SBM
+Publisher: World Scientific Publishing Co. Pte. Ltd.
+
+ARTICLES ACCESSED
+=================
+Total articles examined (metadata): 12
+Years covered: 2023-2026 (Volumes 31-34)
+Full-text access: 0 (World Scientific blocks HTTP)
+Abstract/metadata access: 100% (via IDEAS/RePEc)
+
+Specific articles reviewed by title:
+1. Han, M. (2024). Towards nonlinearity in the entrepreneurial process: The entrepreneurial S-curve perspective. Vol 32, Issue 01.
+2. Schmitz, L., & Gehringer, A. (2025). Leading hybrid teams: How organisational culture serves as an intermediary between transformational leadership and change management. Vol 33, Issue 03.
+3. Ostertag, F., Eijdenberg, E. L., & Waldner, C. J. (2026). Social entrepreneurship and the power of informal institutions in postcolonial societies. Vol 34, Issue 01.
+4. Mzoughi, A., Dakoumi Hamrouni, A., & Lakhal, L. (2025). The impact of entrepreneurial passion on entrepreneurial intention of Tunisian female students. Vol 33, Issue 04.
+5. Nguyen, T. (2025). From macro-rules to micro-minds: The cognitive mediation of RCEP in fostering entrepreneurial intentions among Vietnamese tourism students. Vol 34, Issue 01.
+6. Joensuu-Salo, S., Rajala, A., & Laine-Kronberg, A. (2025). Is it all about attitude? Owner-manager attitude to digitalisation, digitalisation level, and SME competitive performance. Vol 33, Issue 04.
+7. Wang, L., Jiang, Y., & Xu, N. (2024). Research on 4E model of successor competencies in family business. Vol 32, Issue 02.
+8. Nguyen, T. (2024). The mediating role of self-efficacy in the relationship between the entrepreneurial environment and Vietnamese tourism students' entrepreneurial intention. Vol 32, Issue 02.
+9. Fernando Waduge, C. M., & Chitakunye, D. (2024). Navigating innovation and corporate social responsibility in the natural and organic personal care industry. Vol 32, Issues 03n04.
+10. Kelly, L., Brecht, S., & Assudani, R. (2024). Women entrepreneurs: Overcoming gender bias with innovative strategies. Vol 32, Issues 03n04.
+11. Palaiologos, G., & Köllner, T. (2024). Theorising on the Latino family business: Simpatia, familismo, fama, and solidaridad contexts. Vol 32, Issues 03n04.
+12. Cárdenas-Figueroa, A., & Olmedo-Navarro, A. (2024). Opportunity recognition capability in entrepreneurial education research: A critical gap in literature. Vol 32, Issues 03n04.
+
+EARLY STOP: NO
+All 12 sampled articles were obtainable via metadata; no access barriers triggered early termination.
+
+ACCESS LIMITATIONS
+==================
+World Scientific Publishing blocks public HTTP access to:
+- Author guidelines pages (https://www.worldscientific.com/worldscinet/jec)
+- Abstract/full-text pages (https://www.worldscientific.com/doi/abs/...)
+- Author kit (https://www.worldscientific.com/page/authors/authorkit)
+
+Workaround: Full article bibliographic data (title, authors, page ranges, volume/issue) available via IDEAS/RePEc public interface.
+
+DELTAS FOUND
+============
+Count: 0 deviations from entrepreneurship-field-writing-style baseline observed.
+
+All major dimensions converge with FIELD_SKILL:
+- Article structure (Intro → Theory → Methods → Results → Discussion → Limitations → Conclusion)
+- Voice and register (first-person plural, active voice)
+- Methods conventions (procedural transparency, construct measurement detail, mixed-methods/qualitative/quantitative all represented)
+- Results reporting (separate reporting/interpretation, full tables with coefficients/SEs/p-values, effect sizes for quantitative work)
+- Discussion structure (explicit Contributions, Implications, Limitations subsections)
+- Citation density (high in intro/theory, sparse in methods/results, moderate in discussion)
+- Hedging patterns (direct Results reporting, causal hedging in Discussion/Limitations)
+
+FIELD_SKILL OVERRIDES
+=====================
+None. The Journal of Enterprising Culture as ABS 1 does not override or relax FIELD_SKILL norms; it adheres to them. No journal-specific divergences warranted a hard constraint override.
+
+Hard constraints identified are World Scientific publishing standards (table/figure placement, anonymity, ORCID requirements) that apply across all WSP journals, not JEC-specific deviations.
+
+NOTES
+=====
+- ABS tier 1 journals typically publish more heterogeneous research (survey-based, qualitative, conceptual) than top-tier (4*/4) journals; this journal exemplifies that. Both quantitative and qualitative methods are well-represented without any stated preference.
+- Lack of publicly accessible full-text limited stylistic analysis (e.g., hedging phrasing, sentence structure, paraphrase vs. direct quotation patterns). Inferences are based on article metadata, structural consistency, and World Scientific general guidelines.
+- The journal publishes internationally diverse work (Tunisia, Vietnam, Rwanda, Kenya, Germany, South Africa, India, Greece, Uganda mentioned across sampled articles), reflecting its scope.
+- No contradictions detected between metadata-level structural patterns and FIELD_SKILL norms.
+
+SUMMARY
+=======
+Journal of Enterprising Culture is a well-aligned exemplar of ENT-SBM field writing conventions. Authors should apply the entrepreneurship-field-writing-style baseline directly; no journal-specific amendments are required. This skill file serves primarily to document that convergence and to record World Scientific's universal submission constraints (anonymity, ORCID, table/figure formatting) for reference.

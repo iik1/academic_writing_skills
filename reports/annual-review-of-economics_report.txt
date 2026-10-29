@@ -1,0 +1,23 @@
+Journal: Annual Review of Economics
+Slug: annual-review-of-economics
+ABS: 3
+Field: ECON
+Articles fetched: 9 (abstracts/front matter via WebSearch + IDEAS/RePEc + Annual Reviews landing pages; full text not accessible, no institutional proxy in this environment)
+Early stop triggered: No — delta set stabilized naturally after 9 articles (consistent review-synthesis genre, "we survey/we review" voice, topical structure, no new empirical results reported in any sampled abstract)
+
+Deltas found: 4 dimensions
+  1. Voice and Register — genre recharacterization (review-synthesis framing "we survey/review" rather than FIELD_SKILL's "we find/we show" empirical-results voice; single-authored reviews still use "we" or impersonal "this review")
+  2. Structural Deviations — ENFORCED: no fixed Introduction/Data/Empirical Strategy/Results/Conclusion architecture; topical, author-chosen headings instead
+  3. Other Journal-Specific Patterns — PRACTICE ONLY: more pronounced evaluative/editorializing closing stance on literature trajectory than FIELD_SKILL's brief hedged future-directions; ENFORCED house format apparatus (Summary Points, Future Issues, Terms and Definitions lists) with no FIELD_SKILL analog
+  4. (Format/hard constraints layer) Abstract cap of 150 words, invitation-only submission model, unpublished-work citation exception for Economics among Annual Reviews journals
+
+FIELD_SKILL overrides:
+  - Structure: entire empirical/theory section-architecture section overridden — no canonical section order applies
+  - Length: FIELD_SKILL is silent on this; journal uses per-article assigned length from editors, not a fixed cap
+  - Abstract: FIELD_SKILL is silent; journal imposes hard 150-word cap
+  - Citations: no override to author-year convention, but Economics-specific exception allowing unpublished-info citations in Literature Cited (unusual among Annual Reviews journals)
+
+Access-limitation notes:
+  - Journal does not accept unsolicited manuscripts; there is no journal-specific "submission guidelines" page distinct from the general Annual Reviews author handbook, which was fetched in full as a PDF.
+  - Direct fetch of annualreviews.org journal landing page and Volume 17 TOC page returned HTTP 403; relied on WebSearch snippets, IDEAS/RePEc listings, and cached search-engine abstract extracts instead.
+  - Full text of all 9 spot-checked articles was paywalled; analysis relied on abstracts, author lists, and search-engine-extracted summary/future-issues content, consistent with the task's stated fallback protocol.

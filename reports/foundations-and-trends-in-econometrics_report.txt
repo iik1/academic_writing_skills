@@ -1,0 +1,17 @@
+Journal: Foundations and Trends in Econometrics
+Slug: foundations-and-trends-in-econometrics
+ABS: 1
+Field: ECON
+Publisher: Now Publishers Inc.
+
+Articles fetched: 6 (via RePEc/IDEAS metadata + abstracts, arXiv preprint versions, and volume/issue listing cross-check covering ~30 additional titles for scope confirmation)
+Early stop triggered: No — good-faith effort completed; direct publisher pages (nowpublishers.com/eco and AuthorInstructions/ECO) returned HTTP 403 on WebFetch, so guideline content was recovered via WebSearch result caching instead, and article evidence relied on RePEc/IDEAS abstract pages and arXiv preprint copies rather than paywalled full text.
+
+Deltas found: 3 dimensions
+1. Structural Deviations (ENFORCED / format-defining) — journal publishes survey/tutorial monographs (50-150+ pages, chapter-organized), not standard IMRAD research articles. Requires a two-stage submission process: abstract + table of contents pre-approval before a full draft is written.
+2. Voice and Register (PRACTICE ONLY / relaxation) — pedagogical/expository framing ("this survey covers," illustrative examples) rather than novel-finding framing ("we find/we show").
+3. Citation Density (practice extension) — high citation density throughout the entire document, not concentrated in the introduction as in standard empirical papers, due to the survey genre.
+
+FIELD_SKILL overrides: Structure (survey/monograph format overrides FIELD_SKILL's empirical/theory paper templates); Length (monograph-length, 50-150+ pages, vs standard journal-article length).
+
+Access-limitation notes: Both nowpublishers.com/eco and nowpublishers.com/Journal/AuthorInstructions/ECO returned 403 Forbidden on direct WebFetch. Guideline content (two-stage submission process, LaTeX/Word acceptance, alphabetical references) was recovered via WebSearch's cached snippet of the AuthorInstructions page. Full text of spot-checked articles was paywalled on the publisher site; assessment relies on RePEc/IDEAS abstract pages, arXiv preprint versions of the same monographs (where authors self-archived), and the RePEc volume/issue listing (36 titles, 2007-2024) for scope and page-length corroboration. This is consistent with the assignment's allowance for a smaller good-faith sample for ABS 1 journals with a thin public access chain.

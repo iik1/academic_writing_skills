@@ -1,0 +1,22 @@
+Journal: Global Environmental Change
+Slug: global-environmental-change
+ABS: 3
+Field: REGIONAL STUDIES, PLANNING AND ENVIRONMENT
+
+Articles fetched: 6 (2 with abstract-level detail: Amorim-Maia & Olazabal 2025 "Beyond adjustment..."; Sakala & Santos 2025 "Projected land-use change emissions..."; 4 additional titles identified from Vol. 84/2024 and Vol. 79/2023 issue listings, title-level only). No full text was accessible for any article — ScienceDirect returned HTTP 403 on every direct fetch attempt (journal guide page, article pages, issue pages), as did SSRN. All evidence comes from search-engine-extracted snippets, Semantic Scholar/ResearchGate abstract summaries, and one accessible third-party citation-style reference page (Paperpile).
+
+Early stop triggered: No (this is a good-faith attempt within an exhausted access chain, not a stabilisation-based early stop). Target of 15 articles was not reached because ScienceDirect systematically blocked direct fetches; search results yielded only a handful of distinct GEC article abstracts with enough content to assess style.
+
+Deltas found: 4 dimensions
+  - Structural Deviations: PRACTICE ONLY / journal-specific — "Perspective" article type (3,000-word cap, viewpoint-driven) not present in FIELD_SKILL.
+  - Other Journal-Specific Patterns: ENFORCED — mandatory Highlights (3-5 bullets, <=85 characters each) and mandatory graphical abstract with explicit ban on generative AI tools in its production.
+  - Tables and Figures (map disclaimer): ENFORCED — required disclaimer sentence on maps showing study area boundaries.
+  - Structural Deviations (review articles): RELAXATION/additive — review-style pieces permitted under research-article category if they add substantial new insight; not addressed by FIELD_SKILL at all.
+
+FIELD_SKILL overrides: none identified (author-date citation style, abstract format, voice/register, and heading conventions all align with FIELD_SKILL default; no conflicts found).
+
+Access-limitation notes:
+  - ScienceDirect (journal guide-for-authors page, all individual article pages, issue listing pages) returned 403 Forbidden on every WebFetch attempt.
+  - SSRN paper page also returned 403.
+  - All guideline content (word limits, highlights spec, graphical abstract spec, AI prohibition, map disclaimer requirement, citation style) was recovered only via WebSearch snippet extraction, not direct page reads — treat as moderately reliable but not independently verified against the primary source page.
+  - Article-level spot-check fell well short of the 15-article target (2 with real abstract content, 4 title-only) due to this access barrier; the delta set should be treated as provisional and revisited if institutional access becomes available.

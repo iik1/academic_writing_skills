@@ -1,0 +1,20 @@
+Journal: ASTIN Bulletin: The Journal of the IAA
+Slug: astin-bulletin
+ABS: 2
+Field: FINANCE
+Publisher: Cambridge University Press, on behalf of the International Actuarial Association
+
+Articles fetched: 13 (12 FirstView abstracts via WebFetch/WebSearch spanning April-June 2026 issues; 1 full-text open-access article via WebFetch of PDF, Landriault/Liu/Shi 2025, Astin Bulletin 55, pp. 492-513)
+
+Early stop triggered: No. Dedupe check (Glob for "astin" under skills/) found no existing skill; full research pipeline completed.
+
+Deltas found: 5 dimensions with deltas
+1. Structural Deviations (major) - mathematical/theoretical article architecture (Definition/Lemma/Proposition/Theorem/Proof, Appendix proofs) replaces FIELD_SKILL's empirical-finance skeleton (Data/Empirical Analysis/Robustness with regression tables)
+2. Voice and Register (relaxation) - "we" applies to mathematical derivation, not empirical claims like "we find/document"
+3. Statistical Reporting (relaxation, does not apply) - no regression tables, standard-error clustering, or significance/magnitude reporting; numerical illustrations via parameterized examples instead
+4. Citation Density (formatting relaxation) - author-year format matches FIELD_SKILL but reference-list formatting requires boldface volume numbers and italicized titles (Cambridge house style)
+5. Other Journal-Specific Patterns - proofs conventionally deferred to formal Appendix; footnotes discouraged by guidelines
+
+FIELD_SKILL overrides: Structure (mathematical/theoretical paper architecture overrides empirical-finance skeleton); Statistical Reporting section does not apply in the FIELD_SKILL sense.
+
+Access-limitation notes: Full author guidelines page and "Preparing your materials" subpage were fully accessible via WebFetch (unusual for this pipeline - most journals return 403/paywalled). Only one full-text open-access article was available (2025 special open-access article); remaining 12 articles were assessed via FirstView abstract listings only (front matter/abstract-level, no full text). This is consistent with instructions allowing abstract-level assessment for structural/voice deltas. No access blockers beyond standard full-text paywalling encountered.

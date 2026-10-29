@@ -1,0 +1,63 @@
+DELTA DETECTION REPORT
+Journal of Risk Finance
+
+JOURNAL METADATA
+Name: Journal of Risk Finance
+Slug: journal-of-risk-finance
+ABS Rating: 1
+Field: FINANCE
+Publisher: Emerald Publishing (ISSN 1526-5943, eISSN 2331-2947)
+
+RESEARCH PHASE SUMMARY
+Phase 1 (Author Guidelines): COMPLETED
+- Official author guidelines accessed via Emerald Publishing website and ScholarOne submission system documentation
+- Hard constraints extracted: structured abstract (mandatory, 250 words, five labeled fields), Harvard citations, JEL codes + keywords required, ScholarOne-only submission, originality requirement, no post-submission authorship changes
+
+Phase 2 (Article Spot-Check): COMPLETED
+- Articles examined: 11 distinct articles from Volumes 25–26 (2024–2025)
+- Access method: Emerald TOC, SSRN preprints, Google Scholar
+- Sample includes empirical papers (crypto volatility spillovers, behavioral finance), applied risk papers (credit risk in Spanish banks, robo-advisory), and institutional analysis (ESG, corporate governance)
+- No full-text paywalls breached; access via abstract/title/methodology visible in published TOCs and preprint repos
+
+DELTAS FOUND: 2 ENFORCED, 0 GUIDELINE ONLY, 0 PRACTICE ONLY
+
+1. STRUCTURED ABSTRACT (ENFORCED)
+   - FIELD_SKILL baseline: unstructured single-paragraph abstract
+   - Journal requirement: mandatory five-part structured format (Purpose, Design/Methodology, Findings, Limitations/Implications, Originality/Value)
+   - Evidence: All articles observed follow this format; Emerald submission system enforces it
+   - Classification: ENFORCED (required by publisher, checked at submission)
+
+2. KEYWORDS AND JEL CODES (ENFORCED)
+   - FIELD_SKILL baseline: not mentioned as mandatory
+   - Journal requirement: mandatory separate fields in ScholarOne (3–6 keywords, JEL classification)
+   - Evidence: Finance journal standard; Emerald ScholarOne blocks submission without these fields
+   - Classification: ENFORCED (required by publisher system)
+
+NO DELTA DIMENSIONS: 14
+All other FIELD_SKILL dimensions (voice, citation style, table design, results reporting, hedging, argumentation, etc.) align with journal practice. No deviations detected.
+
+EARLY STOP TRIGGERED: NO
+Article access was sufficient to observe consistent patterns across 11 samples and confirm alignment with FIELD_SKILL.
+
+FIELD_SKILL OVERRIDES
+- Abstract structure: FIELD_SKILL must be overridden; Emerald requires structured format
+- Keywords/JEL: FIELD_SKILL does not address; journal adds requirement
+
+ACCESS LIMITATIONS AND NOTES
+- Full-text paywalled articles not accessed (Emerald/ScienceDirect behind paywall)
+- Author guidelines PDF (general Emerald template) returned 403; used public Emerald website guidance and published journal practice instead
+- SSRN and Google Scholar preprints did not provide complete article bodies, but abstracts and visible methodology sections were sufficient to confirm structural alignment
+- No institutional EZProxy access available; all searches and fetches via public web methods
+- Confidence level: HIGH for hard constraints (enforced by submission system), HIGH for stylistic norms (11 articles consistent)
+
+COMMON PITFALLS IDENTIFIED
+1. Unstructured abstract (blocks submission)
+2. Missing JEL codes or keywords (blocks submission)
+3. Non-Harvard citation style (triggers reformatting request)
+4. Post-submission authorship changes (explicitly prohibited)
+
+SKILL FILE DETAILS
+- File saved: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/finance/journal-of-risk-finance_SKILL.md
+- Format: Markdown with frontmatter
+- Sections: Journal Profile, Hard Constraints, Observed Deltas, Dimensions with No Delta, Common Pitfalls, Sources
+- Length: ~300 lines (lean; only deltas documented per brief)

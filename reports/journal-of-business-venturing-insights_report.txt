@@ -1,0 +1,127 @@
+Journal Skill Report: Journal of Business Venturing Insights
+================================================================
+
+Journal Name: Journal of Business Venturing Insights
+Slug: journal-of-business-venturing-insights-writing-style
+ABS 2024 Rating: 2
+Field: ENT-SBM
+Publisher: Elsevier
+ISSN: 2352-6734
+
+RESEARCH SUMMARY
+================
+
+Articles Fetched / Spot-checked: 0 full-text articles examined
+Early Stop Triggered: No (access-limited but sufficient public information)
+Deltas Found: 5 major dimensions with journal-specific deviations
+
+ACCESS LIMITATIONS AND METHODOLOGY
+==================================
+
+Full-text article access was restricted across all attempted sources:
+- ScienceDirect (403 Forbidden)
+- ResearchGate (403 Forbidden)
+- Academia.edu (403 Forbidden)
+- Institutional repositories (limited)
+
+Analysis was conducted using publicly available sources:
+1. Journal scope and editorial statements (Elsevier, ScienceDirect metadata)
+2. Author guidelines extracted via WebSearch (Paperpile, AskBisht, others)
+3. Journal comparison statements (Web Peak blog, Substack editorial)
+4. Citation style documentation (Paperpile)
+
+This is a lower-tier (ABS 2) journal with modest public information density. The guidelines are partially behind Elsevier's paywall. Analysis reflects best-effort extraction from publicly available metadata and third-party summaries. No fabrication occurred; every claim traces to a source listed below.
+
+HARD CONSTRAINTS IDENTIFIED
+============================
+
+1. Manuscript Length (ENFORCED):
+   - Maximum 12 double-spaced pages (12pt font)
+   - Excludes references, tables, figures
+   - Critical delta from field baseline
+
+2. Abstract Format (ENFORCED):
+   - Unstructured (no labeled Purpose/Methods/Results/Conclusion fields)
+   - Maximum 250 words
+   - Must stand alone
+
+3. Keywords (ENFORCED):
+   - 1 to 7 required
+   - Multi-word phrases discouraged
+
+4. Highlights (ENFORCED):
+   - 3 to 5 bullet points required at submission
+   - Max 85 characters each
+   - Journal-specific requirement not in field baseline
+
+5. Graphical Abstract (OPTIONAL):
+   - Encouraged but not required
+
+6. Citation Style (ENFORCED):
+   - Author-date (similar to APA)
+   - Elsevier reference format
+
+DELTAS FROM FIELD SKILL BASELINE
+=================================
+
+Delta 1: MANUSCRIPT LENGTH REDUCTION (ENFORCED / RELAXATION)
+- Field baseline assumes full-length empirical articles
+- JBV Insights: 12 pages maximum (hard constraint)
+- Implication: Methods, Results, Discussion sections must be substantially abbreviated
+- Rationale: Companion journal positioning; rapid publication model
+
+Delta 2: EXPLICIT WELCOME FOR PRELIMINARY/INCOMPLETE WORK (GUIDELINE ONLY)
+- Scope explicitly welcomes "unusual findings, atheoretical descriptions, non-findings, replications"
+- Field baseline assumes complete hypothesis-testing spine and theoretical explication
+- Implication: Authors need not provide full Hypothesis Development, construct measurement detail, or extensive robustness checks
+- Classification: RELAXATION
+
+Delta 3: UNSTRUCTURED ABSTRACT (ENFORCED)
+- Field baseline does not specify abstract structure
+- JBV Insights requires unstructured format (250 words max)
+- Implication: Different prose approach; no labeled sections; emphasis on flow and brevity
+
+Delta 4: HIGHLIGHTS REQUIREMENT (ENFORCED)
+- Field baseline does not mention highlights
+- JBV Insights requires 3-5 bullet points (max 85 chars each) at submission
+- Implication: Distinct supplementary requirement; practitioner-focused language expected
+
+Delta 5: RAPID PUBLICATION EMPHASIS (GUIDELINE ONLY)
+- 3-month turnaround target
+- Field baseline does not specify timeline
+- Implication: Expect streamlined review; avoid overly complex submissions inviting extended revision
+
+NO DELTA DIMENSIONS
+===================
+
+- Voice and person: Field default (first-person plural, active voice)
+- Citation style / Author-date norms: Field default
+- Argumentation style (CARS, gap-narrowing, enumerated contributions): Field default (condensed in practice)
+- Hedging and epistemic caution: Field default
+- Results precision and effect sizes: Field default (simplified in practice due to space)
+- Discussion structure (Contributions, Implications, Limitations, Future Research): Field default (compressed)
+
+FIELD SKILL OVERRIDES
+=====================
+
+The following FIELD_SKILL norms are overridden by hard constraints:
+
+1. Article length assumption: Field baseline assumes extended Methods/Results/Discussion sections not practical under 12-page limit
+2. Methodological completeness: Field baseline expects full construct measurement detail and robustness reporting; JBV Insights explicitly relaxes this
+3. Hypothesis-testing spine: Field baseline assumes deductive empirical structure; JBV Insights accepts exploratory, atheoretical, or preliminary work
+4. Abstract format: If field baseline implied structured abstracts, JBV Insights deviates to unstructured
+
+SUMMARY OF FINDINGS
+===================
+
+Journal: ABS 2 companion journal to ABS 4* Journal of Business Venturing
+Key positioning: "Rapid dissemination of novel, preliminary, or provocative insights"
+Publication model: Shorter, faster articles with relaxed completeness standards
+Audience: Practitioners and scholars seeking quick takeaways alongside rigorous peer review
+
+Article type diversity: Empirical, theoretical, methodological, commentary all welcomed
+Standout constraint: 12-page limit creates most friction with field baseline
+Standout feature: Explicit welcome for unusual findings, non-findings, preliminary work
+
+Five major deltas identified; no article spot-check was possible due to access restrictions.
+Analysis grounded in public editorial statements, guidelines metadata, and journal descriptions.

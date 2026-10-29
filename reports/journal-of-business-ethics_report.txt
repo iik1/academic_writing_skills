@@ -1,0 +1,22 @@
+Journal: Journal of Business Ethics
+Slug: journal-of-business-ethics
+ABS: 3
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 8 full-text (via PMC open-access copies) + ~10 additional abstract/title-only via WebSearch snippets.
+Early stop triggered: No — stopped after delta set stabilized (structural genre delta and section-based submission model recurred consistently; no new deltas emerged in the last 3-4 spot-checks).
+
+Deltas found: 2 dimensions
+  1. Structural Deviations (ENFORCED) — journal publishes normative/philosophical argument papers not covered by any of FIELD_SKILL's four templates; some pieces blend philosophical argument with empirical illustration in one paper.
+  2. Other Journal-Specific Patterns (PRACTICE/GUIDELINE) — submission is organized around 30+ named sections, each with its own accepted genre (empirical-only, conceptual-only, or both); this is a journal-specific submission mechanic FIELD_SKILL does not address.
+
+Also recorded as Hard Constraints (not "deltas" per se, but journal-specific overrides):
+  - Word length target 8,000-10,000 words including references (RELAXATION of FIELD_SKILL's longer ranges).
+  - Strict double-blind anonymization requirement, with acknowledgments/funding required on a separate Title Page rather than in-text.
+
+FIELD_SKILL overrides: length range (relaxation only, per ABS 3 tier rules); no redefinition of core empirical/theoretical templates.
+
+Access-limitation notes:
+  - Springer Nature's own submission-guidelines and article pages (link.springer.com) redirected to an IDP login wall for every direct WebFetch attempt in this environment; guideline content was reconstructed from WebSearch result snippets rather than the primary page.
+  - Full text for several recent (2024-2026) JBE articles was paywalled; PMC (PubMed Central) held open-access full-text copies of several representative empirical, meta-analytic, and philosophical/commentary JBE articles, which were used for the spot-check instead.
+  - Did not reach the full list of 30+ named sections; relied on WebSearch snippets describing a subset of section scopes.

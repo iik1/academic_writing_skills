@@ -1,0 +1,50 @@
+Journal: Current Directions in Psychological Science
+Slug: current-directions-in-psychological-science
+ABS: 4
+Field: PSYCH (GENERAL)
+Publisher: SAGE / Association for Psychological Science (APS)
+
+Articles fetched: 9 (abstracts/summaries only; full text paywalled on
+journals.sagepub.com, which returned HTTP 403 to WebFetch). Sourced via
+WebSearch snippets from ResearchGate, Semantic Scholar, PMC, Scribd,
+Studocu, and lab pages.
+  1. Impett, Park, & Muise (2024) - Love languages
+  2. Gold & Luck (2025) - Hyperfocusing hypothesis (schizophrenia)
+  3. Park, Ho, Hallez, Kaur, Srinivasan, & Zhao (2025) - Psychology of poverty
+  4. Sidney, Scheibe, Zahrn, Brown, & Thompson (2025) - Math anxiety interventions
+  5. Gentner & Forbus (2025) - Structure-mapping engine
+  6. Vazire (2024) - The Next Chapter for Psychological Science
+  7. Ryff (2024) - Privilege of well-being
+  8. Cole & Kuhn (2024/2025) - Science of magic
+
+Early stop triggered: No (stopped at 9 rather than 15 because delta pattern
+had fully stabilized - guidelines are unusually explicit and every abstract
+confirmed the same jargon-free, no-p-value, synthesis-review pattern; full
+text access chain exhausted for SAGE-hosted content).
+
+Deltas found: 5 dimensions
+  - Voice and Register (ENFORCED): explicit jargon-free/general-audience mandate,
+    stronger than FIELD_SKILL baseline register.
+  - Statistical Reporting (ENFORCED): p-values/significance tests explicitly
+    NOT required; plain-English effect size description instead. Direct
+    contradiction of FIELD_SKILL's hard norm for empirical papers (justified
+    because CDPS is a review, not empirical, format).
+  - Citation Density (ENFORCED): hard cap of 30 refs (~20 preferred) for a
+    2,500-word article.
+  - Structural Deviations (ENFORCED): invited-proposal gatekeeping model,
+    Recommended Reading end-section, in-text figure/table integration
+    (deviates from standard APA placement).
+  - Other Journal-Specific Patterns (ENFORCED): endnotes not footnotes,
+    soft 5-author cap.
+
+FIELD_SKILL overrides: Statistical Reporting norm (no p-values required,
+contra field baseline's hard norm of exact statistics for every focal test);
+Structure (no IMRaD - confirmed and detailed the review-format exception
+FIELD_SKILL already flagged but didn't specify).
+
+Access-limitation notes: journals.sagepub.com pages return 403 to direct
+WebFetch (likely bot-blocking/paywall). All 9 article observations are based
+on abstract/summary text surfaced through WebSearch via third-party mirrors
+(ResearchGate, Semantic Scholar, PMC, lab websites, Scribd/Studocu), not
+direct full-text or original abstract-page fetches. Guidelines pages
+(psychologicalscience.org) were successfully fetched in full via WebFetch.

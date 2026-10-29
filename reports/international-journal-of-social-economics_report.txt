@@ -1,0 +1,22 @@
+Journal: International Journal of Social Economics
+Slug: international-journal-of-social-economics
+ABS: 1
+Field: ECON
+Publisher: Emerald Publishing
+
+Articles fetched: 9 (8 full structured abstracts from Vol. 49 No. 7, 2022, spanning gender/labor economics, agricultural economics, consumption behavior, regional well-being, NGO governance, environmental economics, Islamic finance, and job satisfaction; 1 legacy 1989 issue table of contents used only to confirm the structured abstract format postdates the 1980s and is an Emerald house convention).
+
+Early stop triggered: No. Dedupe check found no existing skill file for this journal; proceeded through full research pipeline.
+
+Deltas found: 3 substantive dimensions
+1. Structural Deviations - mandatory structured abstract (Purpose / Design-methodology-approach / Findings / [Research limitations-implications] / [Practical implications] / [Social implications] / Originality-value) - ENFORCED, confirmed in 100% of modern sample.
+2. Length - hard 8,000-word cap (Research Paper), 3,000-word cap (Editorial), with tables/figures counted at ~280 words each - ENFORCED per guidelines, not assessable directly in full text due to paywall but standard Emerald policy.
+3. Other Journal-Specific Patterns - greater tolerance for small-sample qualitative/mixed-methods designs alongside quantitative work - RELAXATION consistent with ABS 1 tier, not a new norm.
+
+Minor/no-delta dimensions: citation style (Harvard/author-date, FIELD DEFAULT), heading conventions (FIELD DEFAULT), hedging and rhetorical moves at abstract level (FIELD DEFAULT).
+
+FIELD_SKILL overrides:
+- Abstract format (structured, labeled fields) overrides FIELD_SKILL's unstructured narrative abstract assumption.
+- Word limit (8,000 words inclusive of tables/figures) overrides FIELD_SKILL's silence on length.
+
+Access-limitation notes: No institutional EZProxy access. Direct WebFetch of the Emerald author-guidelines page returned HTTP 403; guideline content was instead recovered via WebSearch snippet summaries and the Emerald journal homepage render. Full text of all sampled articles is paywalled on Emerald Insight; all spot-check observations rely on structured abstracts, titles, keywords, and metadata, which is standard and sufficient practice for an ABS 1 journal per task instructions. WebSearch tool was intermittently unavailable ("web search error: unavailable") during part of the session; WebFetch against emerald.com succeeded consistently and provided the needed signal.

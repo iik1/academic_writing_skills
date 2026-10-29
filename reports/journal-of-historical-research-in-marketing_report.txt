@@ -1,0 +1,159 @@
+JOURNAL SKILL CREATION REPORT
+================================================================================
+
+Journal: Journal of Historical Research in Marketing
+Slug: journal-of-historical-research-in-marketing-writing-style
+ABS Rating: 1
+Field: BUS HIST & ECON HIST
+Publisher: Emerald Group Publishing Limited
+
+================================================================================
+EXECUTION SUMMARY
+================================================================================
+
+Articles Spot-Checked: 3
+  - Tregenza, L. (2025). "Styling the suburbs: Irene Sherman's dress shops and
+    fashion networks in the twentieth century." JHRM 17(1–2):72–94.
+  - Guest editorial on clothing/fashion history (metadata accessible; full text
+    blocked)
+  - Cosmetic advertising history article 2025 (metadata accessible; full text
+    blocked)
+
+Early Stop Triggered: No
+  Reasoning: No decision rule was met that would have warranted stopping.
+  The constraint is access limitation (publisher authentication), not lack of
+  relevance or sparse journal output. A lower-tier (ABS 1) journal with thin
+  public information is acceptable per protocol if documented.
+
+Author Guidelines Retrieved: No (0/1 attempted)
+  Status: The official Emerald author guidelines page
+  (https://www.emeraldgrouppublishing.com/products/journals/author_guidelines.htm?id=jhrm)
+  is blocked behind Cloudflare authentication. Alternative routes
+  (ResearchGate PDFs, Academia.edu, CHARM website, ScienceDirect full-text,
+  Emerald Insight article pages) all blocked by CAPTCHA or login walls.
+
+Data Sources Used:
+  1. Emerald Group Publishing corporate policies (Harvard citation, abstract
+     limits, generative AI policy, ScholarOne requirement)
+  2. CHARM Association JHRM portal (overview, scope, section types)
+  3. ScienceDirect and Emerald Insight journal pages (article titles, authors,
+     dates, visible abstracts, section names)
+  4. University of Arts London open repository (Tregenza full article metadata)
+  5. WebSearch and WebFetch for general submission and publisher guidelines
+
+================================================================================
+DELTAS FOUND: 2 HARD CONSTRAINTS
+================================================================================
+
+1. CITATION STYLE: HARVARD (ENFORCED)
+   - FIELD_SKILL: Does not specify
+   - JOURNAL: Harvard style required (Emerald Group Publishing standard)
+   - Classification: ENFORCED (stated policy applies to all Emerald journals)
+
+2. GENERATIVE AI PROHIBITION (NEW POLICY)
+   - FIELD_SKILL: No mention
+   - JOURNAL: Copywriting with generative AI tools to generate new material
+     is explicitly prohibited in submission guidelines
+   - Classification: ENFORCED (2024–2025 Emerald-wide editorial policy)
+
+================================================================================
+FIELD_SKILL OVERRIDES
+================================================================================
+
+None. The following dimensions were checked and found to align with FIELD_SKILL:
+- Typical article structure (narrative-analytical, chronological or thematic)
+- Voice and register (mix of first-person plural and impersonal acceptable)
+- Sentence/paragraph style (substantial, medium-to-long sentences)
+- Argumentation (CARS-like pattern, historiographical framing)
+- Methods conventions (substantial procedural detail on sources)
+- Results/reporting (integration of evidence throughout, no single consensus
+  structure)
+- Hedging (moderate epistemic caution)
+- Conclusion norms (restate contribution, generalizability, acknowledge limits)
+
+================================================================================
+HARD CONSTRAINTS DOCUMENTED
+================================================================================
+
+Abstract Length: Maximum 250 words (including keywords and article classification)
+Citation Style: Harvard (author-date in text, full references in Harvard format)
+Special Sections:
+  - Full-length research articles (length not explicitly specified; inferred longer)
+  - Explorations & Insights (3,000–6,000 words, invited commentaries)
+  - Sources of Historical Research in Marketing (short essays introducing archives)
+  - Forgotten Classics (review essays on historically important marketing books)
+Submission Only: ScholarOne (no email, no third-party submission)
+Author Anonymity: No author names in main manuscript; acknowledgments/biographies
+  in separate files
+Originality: Must not be submitted elsewhere or under consideration elsewhere
+
+================================================================================
+NO DELTAS (FIELD DEFAULTS)
+================================================================================
+
+Voice & Person: Field default (no change from FIELD_SKILL)
+Sentence Style: Field default (no change)
+Argumentation: Field default (no change)
+Methods Conventions: Field default (no change)
+Results Norms: Field default (no change)
+Hedging: Field default (no change)
+
+================================================================================
+COMMON PITFALLS (JOURNAL-SPECIFIC)
+================================================================================
+
+1. Generative AI copywriting — Submitting work with AI-drafted text will
+   result in desk rejection.
+2. Author names in manuscript — Failing to remove identifying information
+   from the main text prior to submission.
+3. Citation style — Submitting in Chicago or another style when Harvard
+   is required.
+
+================================================================================
+ASSESSMENT & CONFIDENCE
+================================================================================
+
+Confidence Level: MEDIUM (with caveats)
+Reasoning:
+  - Hard constraints are well-documented from Emerald corporate policy and
+    CHARM/publisher official statements
+  - Field-level alignment is strong (BUS HIST & ECON HIST baseline applies well)
+  - But official journal-specific author guidelines remain inaccessible
+  - Article spot-check is small (n=3) due to publisher paywalls, but consistent
+    with FIELD_SKILL expectations
+  - For an ABS 1 journal with limited public information, this is acceptable
+    per protocol
+
+Gaps in Knowledge:
+  - Explicit page/word limit for full research articles (not stated in public
+    sources; inferred from section lengths)
+  - Detailed heading and structure conventions (assumed to follow FIELD_SKILL)
+  - Table/figure caption rules (not found; assumed FIELD_SKILL applies)
+  - Detailed methodology section requirements (not found; assumed FIELD_SKILL
+    applies)
+
+Mitigations:
+  - All inferred constraints are labeled as such in the SKILL.md file
+  - The field baseline applies comprehensively for all dimensions with no delta
+  - The skill directs writers to the official Emerald page and ScholarOne
+    portal for authoritative answers where this document is silent
+
+================================================================================
+SKILL FILE LOCATION
+================================================================================
+
+Saved to:
+C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/business-economic-history/journal-of-historical-research-in-marketing_SKILL.md
+
+Contains:
+- Journal profile and metadata
+- Hard constraints from author guidelines and publisher policy
+- Observed deltas from FIELD_SKILL (2 hard constraints: Harvard citation,
+  AI prohibition)
+- Field-default dimensions (all others)
+- Common pitfalls specific to this journal
+- Full source attribution and access limitation notes
+
+================================================================================
+END REPORT
+================================================================================

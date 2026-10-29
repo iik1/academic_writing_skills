@@ -1,0 +1,48 @@
+Journal: Human Performance
+Slug: human-performance
+ABS: 3
+Field: PSYCH (WOP-OB)
+
+Articles fetched: 8 (abstract/front-matter level; full text inaccessible)
+Early stop triggered: No — stopped at 8 due to access exhaustion (tandfonline.com
+returned HTTP 403 on every direct fetch attempt, including PDF URLs and the
+instructions-for-authors page), not because deltas had stabilised early. This
+is a good-faith access-limited sample rather than a 15-article convergence stop.
+
+Deltas found: 0 confirmed journal-specific deltas rising above PRACTICE ONLY /
+low-prevalence.
+  - Structural Deviations (PRACTICE ONLY): mixed use of multi-study (2-3 study)
+    designs and single/two-source designs across recent volumes — consistent
+    with, not deviating from, FIELD_SKILL's noted trend toward multi-study
+    packages.
+  - Other Journal-Specific Patterns (PRACTICE ONLY): at least one article
+    published open access (CC-BY) via institutional repository, indicating
+    optional OA support, not a mandate.
+
+FIELD_SKILL overrides: none confirmed. No hard constraint from the author
+guidelines could be verified (structure, length, abstract format, citation
+style, headings, tables/figures, prohibitions) because the tandfonline.com
+guidelines page and full-text articles were not accessible.
+
+Access-limitation notes:
+- tandfonline.com blocks automated WebFetch requests with 403 on all paths
+  tried: /journals/hhup20/about-this-journal, /action/authorSubmission...,
+  /doi/full/..., /doi/pdf/... (including direct PDF URLs).
+- files.taylorandfrancis.com PDF guideline documents (hhciauth.pdf,
+  hihcauth.pdf) also returned 403 and, on inspection via search snippets,
+  did not appear to be the correct journal's guidelines document (journal
+  code mismatch — those appear to correspond to different T&F journals).
+- web.archive.org is unavailable in this environment (tool explicitly
+  disallowed fetching from that host).
+- One article (Mostafa et al. 2025) was recovered in full via the University
+  of Leeds' White Rose Research Online open-access repository, which
+  provided abstract, study structure (2 studies), and key findings — this
+  was the only near-full-text source obtained.
+- All other article content was derived from WebSearch result snippets
+  (titles, DOIs, abstract paraphrases, occasional found text) rather than
+  full-text or even complete verbatim abstracts. No claims were fabricated;
+  where information could not be confirmed it is marked "not found."
+- Because no hard constraints or confirmed deltas emerged, the skill file
+  largely states "FIELD DEFAULT" / "not found in accessible sources" per
+  the convergence rule, consistent with this being an ABS 3 journal that
+  may relax but does not redefine the field baseline.

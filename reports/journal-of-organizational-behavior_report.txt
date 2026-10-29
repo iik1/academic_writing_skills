@@ -1,0 +1,57 @@
+Journal: Journal of Organizational Behavior
+Slug: journal-of-organizational-behavior
+ABS: 4
+Field: PSYCH (WOP-OB)
+
+Articles fetched: 2 full-text (open access PDFs, via author repositories);
+~13 additional articles identified at title/abstract/DOI level via
+WebSearch snippets (full text not accessible for these). Wiley Online
+Library itself returned HTTP 402 Payment Required for every direct
+WebFetch attempt (guidelines page, article pages, TOC pages), so no
+direct access to the publisher platform was achieved for any source.
+
+Early stop triggered: No (search access exhausted, not delta stabilization
+— continued searching until the access chain was clearly exhausted rather
+than stopping early on convergence).
+
+Deltas found: 2 substantive + several hard-constraint confirmations
+  1. Structural: JOB runs a distinct annual "Job Annual Review and
+     Conceptual Development Issue" (dedicated review/theory issue) plus a
+     Point/Counterpoint format, alongside regular empirical submissions —
+     not documented in FIELD_SKILL. PRACTICE ONLY / journal-specific
+     format.
+  2. Other: Heavy use of numbered endnotes for reviewer-requested
+     robustness/supplementary analyses in both sampled full-text articles,
+     more prominent than FIELD_SKILL's general note about robustness
+     reporting. PRACTICE ONLY, low-n (2 articles).
+
+FIELD_SKILL overrides (Hard Constraints from guidelines, confirmed in
+both sampled articles):
+  - Unstructured abstract, max 200 words, up to 5 keywords (FIELD_SKILL
+    only says "structured or semi-structured abstracts are expected" as a
+    general field norm — JOB's own abstracts were both unstructured single
+    paragraphs consistent with the stated guideline).
+  - Double-blind review enforced; anonymized OSF links used for
+    supplementary materials during review.
+  - APA 7th edition formatting.
+  - AI-tool authorship prohibited; AI use must be disclosed.
+  - iThenticate/CrossCheck similarity screening in use.
+  - Data availability statement required (present in both sampled
+    articles).
+
+Access-limitation notes:
+  - The official Wiley "For Authors" guidelines page
+    (onlinelibrary.wiley.com/page/journal/10991379/homepage/forauthors.html)
+    was never directly readable; all guideline facts came from
+    WebSearch-generated summaries of that page's cached/indexed content,
+    not a direct fetch.
+  - Wiley TOC and article abstract pages likewise returned HTTP 402 on
+    every WebFetch attempt.
+  - Two articles were fully readable because their authors had posted
+    open-access PDFs on personal/institutional repositories (University of
+    Glasgow Enlighten; a co-author's personal website), which were
+    downloaded and read directly with the Read tool.
+  - Because of this, the spot-check target of 15 articles was not reached
+    at full-text depth; the skill file documents n=2 full-text plus ~13
+    title/abstract-level observations and flags all practice-only findings
+    as low-confidence pending a larger sample.

@@ -1,0 +1,20 @@
+Journal: Journal of Economic Cooperation and Development
+Slug: journal-of-economic-cooperation-and-development
+ABS: 1
+Field: ECON
+Publisher: Statistical, Economic and Social Research and Training Centre for Islamic Countries (SESRIC)
+
+Articles fetched: 24 titles/abstracts (Vol. 42, Nos. 1-3, 2021, 8 articles per issue) plus 2 full abstracts read in detail (Zenodo records 17051648, 17052978). No full-text PDFs were accessible.
+
+Early stop triggered: No (completed full good-faith sample given thin access chain for an ABS 1 journal; did not hit an early-stop condition, simply exhausted realistically accessible sources).
+
+Deltas found: 4 dimensions
+1. Length — hard 8,000-word cap (ENFORCED via guidelines, structural constraint not in FIELD_SKILL).
+2. Abstract format — single unstructured abstract, max 200 words, on first page with title/authors/affiliations/contact (ENFORCED/GUIDELINE).
+3. Tables and Figures — black-and-white-only figures; tables must be minimal/essential-data-only (ENFORCED via guidelines; stricter than FIELD_SKILL).
+4. Structural/topical pattern — near-uniform single- or small-cross-country applied panel/time-series studies using standard econometric techniques rather than novel identification strategies (PRACTICE ONLY / RELAXATION, consistent with ABS 1 tier).
+Minor note: sampled abstracts show no JEL codes (PRACTICE ONLY, not stated as prohibited).
+
+FIELD_SKILL overrides: Length cap (8,000 words), abstract format (200-word unstructured), black-and-white figure requirement, minimal-table requirement, specific reference formatting patterns for books/chapters/articles.
+
+Access-limitation notes: No paywalled or open full-text article PDFs were retrievable; SESRIC publisher pages and Zenodo mirrors provided only titles, author lists, and abstracts. DOI links resolve to Zenodo record landing pages, not full-text. Sample restricted to Volume 42 (2021) three issues (24 articles) due to consistent access limitations across other volumes/years. This is judged sufficient for an ABS 1 journal per task instructions on lower-tier journals.

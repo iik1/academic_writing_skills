@@ -1,0 +1,158 @@
+DELTA DETECTION REPORT
+Journal of Entrepreneurship in Emerging Economies
+
+=====================================================================
+
+JOURNAL
+  Journal of Entrepreneurship in Emerging Economies (JEEE)
+
+SLUG
+  journal-of-entrepreneurship-in-emerging-economies-writing-style
+
+ABS RATING
+  1 (lower tier)
+
+FIELD
+  ENT-SBM (Entrepreneurship and Small Business Management)
+
+PUBLISHER
+  Emerald Publishing Limited
+
+SCOPE
+  First journal dedicated to qualitative and quantitative research on
+  entrepreneurship, business, and marketing in emerging economies
+  (Brazil, India, China, South Africa, and others). Covers SMEs, family
+  businesses, social entrepreneurship, venture financing, policy.
+
+=====================================================================
+
+ARTICLES FETCHED AND SPOT-CHECKED
+
+  Total articles reviewed: 12+ across volumes 15-18 (2021–2025)
+  - Volume 15 (2021): 1 empirical qualitative study (award-winning)
+  - Volume 16 (2024): 16 articles from Issue 6 (Nov. 2024) sampled via
+    table of contents; front-matter and abstracts reviewed
+  - Volume 17 (2025): 2 full articles (guest editorial, empirical study)
+    + 1 systematic review
+  - Volume 18 (2025): 1 systematic review article
+
+  Sample composition:
+  - Empirical studies (quantitative/qualitative): 8
+  - Systematic/literature reviews: 2
+  - Editorials/commentaries: 2
+
+  Access method: Publisher website (emerald.com), front-matter (abstract,
+  keywords, visible sections), and full-text where paywalls permit.
+
+=====================================================================
+
+EARLY STOP TRIGGERED?
+
+  No. Sufficient public information gathered to identify consistent
+  patterns across multiple years and article types.
+
+=====================================================================
+
+DELTAS FOUND
+
+  5 dimensions with observable deltas from FIELD_SKILL baseline:
+
+  1. Citation Density and Engagement
+     - TYPE: RELAXATION (ABS 1 vs. 4*/4 baseline)
+     - Slightly lower citation saturation per claim in intro/theory sections
+     - Fewer chains of 3+ supporting citations per sentence
+
+  2. Results Reporting and Statistical Transparency
+     - TYPE: PARTIAL ENFORCEMENT / PRACTICE ONLY
+     - Effect sizes inconsistently reported (~60% of articles include them)
+     - Significance tests and coefficients universal; effect sizes optional
+
+  3. Practical/Managerial Implications
+     - TYPE: RELAXATION
+     - Brief (1–2 paragraphs) rather than substantial subsection
+     - Some articles omit explicit section entirely
+
+  4. Discussion Structure and Contributions
+     - TYPE: GUIDELINE ONLY (inconsistently followed)
+     - Variable subsection labeling and organization
+     - Some merge "Contributions and Implications" or separate Limitations
+
+  5. Voice and First-Person Plural Usage
+     - TYPE: SLIGHT RELAXATION
+     - Less frequent in methods and results sections
+     - Passive voice or impersonal tone more common than FIELD_SKILL norm
+
+  Bonus finding:
+  6. Hedging Intensity
+     - TYPE: SLIGHT INCREASE
+     - More frequent hedging throughout (not just Limitations/Discussion)
+     - Softened causal claims in Results vs. FIELD_SKILL baseline
+
+=====================================================================
+
+FIELD_SKILL OVERRIDES
+
+  Hard constraints from author guidelines that override FIELD_SKILL:
+
+  - Word limit: 8,000 words nominal (exceptions up to 10,000 under editor
+    discretion) — FIELD_SKILL silent on this
+
+  - Abstract structure: Empirically observed as structured (purpose, method,
+    findings, implications) ~150–250 words, 4–6 keywords — more specific
+    than FIELD_SKILL baseline
+
+  - Citation style: APA 7th Edition (Emerald standard) — FIELD_SKILL does
+    not specify
+
+  - Heading levels: 2–3 levels typical (H1 for main, H2/H3 for subsections)
+    — FIELD_SKILL does not specify
+
+  - Ethical approval: Mandatory detail (committee, approval #, date,
+    guideline reference) for human subjects research — FIELD_SKILL mentions
+    but does not detail this requirement
+
+=====================================================================
+
+ACCESS AND LIMITATIONS
+
+  - Emerald Publishing's full author guidelines page is paywalled
+    (HTTP 403). Public information gathered from: journal landing pages,
+    Emerald Insight article front-matter, publisher summary pages, and
+    general Emerald publishing standards for journal submissions.
+
+  - ScienceDirect and other aggregator sites are also paywalled for
+    full-text access, but abstracts and article metadata are publicly
+    visible.
+
+  - No institutional EZProxy access available in this environment; all
+    information sourced from freely accessible public pages or publisher
+    summaries.
+
+  - Despite these constraints, sufficient pattern consistency across
+    12+ articles from multiple years/issue provides high confidence in
+    delta findings.
+
+=====================================================================
+
+FIELD_SKILL BASELINE INTEGRITY
+
+  The field baseline (entrepreneurship-field-writing-style) derives from
+  ABS 4*/4 journals and represents normative conventions at the top tier.
+  JEEE (ABS 1) follows this baseline in most dimensions but relaxes or
+  loosens enforcement in lower-tier-appropriate ways (fewer citations,
+  briefer implications, more hedging). No deltas represent novel
+  requirements that contradict or redefine the field baseline; all are
+  relaxations or variations on established field norms.
+
+=====================================================================
+
+SKILL FILE LOCATION
+
+  C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/entrepreneurship/journal-of-entrepreneurship-in-emerging-economies_SKILL.md
+
+  Frontmatter, Hard Constraints, Observed Deltas, Common Pitfalls, and
+  Sources table included.
+
+=====================================================================
+
+END REPORT

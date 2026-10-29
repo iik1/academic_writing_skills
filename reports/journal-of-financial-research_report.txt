@@ -1,0 +1,18 @@
+Journal: Journal of Financial Research
+Slug: journal-of-financial-research
+ABS: 3
+Field: FINANCE
+
+Articles fetched: 10 (abstract/summary level via WebSearch snippets of Wiley/SSRN/RePEc pages; direct Wiley full-text/forauthors fetch returned HTTP 402 paywall)
+Early stop triggered: No — stopped at 10 because delta set had stabilized (abstract length cap, voice prohibition, and heading format were confirmed consistently and no new deltas emerged in the last several samples); documented as a good-faith sample given access constraints.
+
+Deltas found: 3 dimensions
+1. Abstract length — HARD_CONSTRAINT, ENFORCED. JFR caps abstracts at 100 words (single paragraph), vs. FIELD_SKILL's 150-250 word norm. Most significant delta.
+2. Voice/register — ENFORCED tightening. JFR explicitly prohibits impersonal openers like "This paper tests..."; FIELD_SKILL treats impersonal constructions as an acceptable occasional variant. JFR mandates active voice with no impersonal fallback.
+3. Heading format — ENFORCED structural convention not in FIELD_SKILL. Primary headings bold/ALL CAPS/Arabic numerals at left margin; subsections bold/sentence case.
+
+Other guideline-only items (not content norms): one table/figure per page (Wiley production formatting), no italics for emphasis, footnotes not endnotes, APA 7th edition citation style (substantively same as FIELD_SKILL author-year convention).
+
+FIELD_SKILL overrides: Abstract word limit (100 vs 150-250); voice prohibition on impersonal "This paper..." framing; heading typography.
+
+Access-limitation notes: Wiley Online Library's forauthors and article/TOC pages return HTTP 402 Payment Required on direct WebFetch. All guideline detail was obtained successfully from the society-run jfresearch.org site (guidelines, submit, aims-scope pages — all accessible). All article evidence came from WebSearch-extracted abstract/summary snippets of Wiley, SSRN, and RePEc/IDEAS pages rather than direct full-text or full-abstract retrieval, so exact abstract word counts in the published versions could not be independently verified, though the stated guideline (100 words) is treated as authoritative.

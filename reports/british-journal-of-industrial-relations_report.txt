@@ -1,0 +1,43 @@
+Journal: British Journal of Industrial Relations
+Slug: british-journal-of-industrial-relations
+ABS: 4
+Field: HRM&EMP
+
+Articles fetched: 10 abstracts read in full (via RePEc/IDEAS and WebSearch
+snippets); 30+ additional titles/authors surveyed across Vol. 61-64
+(2023-2026) via RePEc/IDEAS listing page.
+
+Early stop triggered: No. Deltas stabilised after ~10 abstracts; broader
+title survey (30+) confirmed no new structural deltas emerging, so
+sampling was concluded without needing full-text access to all 15+
+articles.
+
+Deltas found: 2 dimensions
+1. Voice/Register - PRACTICE ONLY: journal content mix skews heavily toward
+   econometric/labour-economics register and quantitative large-dataset
+   studies, more than the general HRM&EMP field baseline implies. Not an
+   enforced rule; qualitative work still appears.
+2. Statistical Reporting - PRACTICE ONLY: abstracts routinely state
+   headline effect sizes (e.g., "15 log points") directly in the abstract,
+   more specific than FIELD_SKILL's general prose-narration norm.
+
+FIELD_SKILL overrides (HARD_CONSTRAINTS from guidelines):
+- Harvard (author-date) citation style required (ENFORCED) - field default
+  generally, but confirmed as this journal's explicit house style.
+- Figures/appendices/supporting information must be separate files
+  (ENFORCED submission mechanics).
+- No stated word/page limits or structured-abstract requirement for
+  regular submissions (a 1,000-word "long abstract" cap found only applied
+  to a 2024 special-issue call, not generalized).
+
+Access-limitation notes:
+- Direct WebFetch of the Wiley "For Authors" guidelines page returned
+  HTTP 402 Payment Required; guidelines content was instead obtained via
+  WebSearch's extracted summary of that same page.
+- Full text of sampled articles was not accessible (paywalled); analysis
+  relied on RePEc/IDEAS abstract pages and WebSearch-extracted abstract
+  snippets (including SSRN/NBER preprint versions where available), per
+  the assignment's allowed sourcing chain.
+- No structured abstracts or explicit keyword lists were visible in any
+  extracted source, though this may reflect what RePEc/IDEAS mirrors
+  rather than the true submission requirement.

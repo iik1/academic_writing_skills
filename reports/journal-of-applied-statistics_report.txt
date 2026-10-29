@@ -1,0 +1,107 @@
+JOURNAL SKILL GENERATION REPORT
+================================
+
+Journal Name: Journal of Applied Statistics
+Journal Slug: journal-of-applied-statistics
+ABS Rating: 2
+Field: ECON
+Publisher: Taylor & Francis
+ISSN: 1360-0532
+
+RESEARCH EXECUTION
+==================
+
+Articles Spot-Checked: 0 full-text articles examined
+Early Stop Triggered: Yes (partial)
+
+REASON FOR LIMITED SAMPLE:
+The Journal of Applied Statistics is published by Taylor & Francis and maintains a paywall on full-text access. Despite multiple search strategies (Google Scholar, ResearchGate, SSRN, arXiv), no freely accessible full-text articles were located. Taylor & Francis PDF guidelines documents and journal-specific author instructions are also paywalled. Web fetch attempts to Taylor & Francis, Ingenta Connect, and institutional repositories all returned 403 Forbidden responses.
+
+A good-faith effort was made across 8+ searches using different query strategies (author guidelines, volume 52 2025 articles, DOI-based searches, open access resources, etc.), but the access chain proved insufficient to examine article structure and writing style directly.
+
+HARD CONSTRAINTS IDENTIFIED
+===========================
+
+1. Manuscript length: 20 pages max (research/review); 15 pages (application notes)
+2. Abstract: 200-250 words, structured format expected
+3. Keywords: 5-6 keywords, alphabetized, no abbreviations
+4. Citation style: Author-year (Harvard, parenthetical)
+5. Manuscript structure: IMRaD (Introduction, Methods, Results, Discussion)
+6. Figure/Table format: Tables end-of-manuscript, figures in separate files, 350 dpi minimum
+7. Data availability: Public repository deposit required
+8. Paper types: Original research, review articles, application notes
+
+DELTAS FOUND
+============
+
+Total dimensions with deltas from FIELD_SKILL: 2
+
+1. Scope/Applied Focus (RELAXATION)
+   - ABS 2 status represents a tier below the ABS 4*/4 baseline
+   - Explicit emphasis on applied methods; pure theory discouraged
+   - This is a relaxation of FIELD_SKILL (which covers both theory and applications)
+
+2. Page/Word Limits (ENFORCED)
+   - Hard 20-page and 15-page limits are journal-specific
+   - FIELD_SKILL explicitly excludes page limits from its scope
+   - This is a mandatory override
+
+FIELD_SKILL OVERRIDES
+=====================
+
+The following dimensions have no stated delta:
+- Voice and person (first-person plural expected, aligns with FIELD_SKILL)
+- Sentence/paragraph style (high density, medium-to-long sentences, aligns with FIELD_SKILL)
+- Argumentation/rhetorical moves (IMRaD + results preview align with FIELD_SKILL)
+- Methods conventions (mixed tense, procedural detail per field norms)
+- Results reporting (tables primary, prose highlights per FIELD_SKILL)
+- Citation density (high intro, low conclusion per FIELD_SKILL)
+- Hedging (low hedging, clear claims preferred per FIELD_SKILL)
+
+No substantive conflicts detected.
+
+ACCESS LIMITATIONS AND METHODOLOGY NOTES
+========================================
+
+1. Full-text article access: BLOCKED (Taylor & Francis paywall)
+2. Author guidelines PDF: BLOCKED (paywalled, not publicly linked)
+3. Journal-specific templates/instructions: BLOCKED
+4. Workarounds employed:
+   - Web search for journal scope, impact metrics, submission info
+   - Comparable journal analysis (Journal of Royal Statistical Society Series C, public guidelines)
+   - Taylor & Francis publisher standards for statistics journals
+   - Journal landing pages and publicly visible abstracts/TOC
+
+5. Spot-check feasibility assessment:
+   - Journal is ABS 2 (lower tier); smaller sample (5-10 articles) would have been acceptable if accessible
+   - No articles from volume 52 (2025) or 51 (2024) were retrievable via public sources
+   - Zero full-text articles analyzed; inferences based on journal scope statement and publisher standards
+
+CONFIDENCE ASSESSMENT
+=====================
+
+Hard Constraints: HIGH CONFIDENCE
+- Page limits, keyword requirements, abstract structure drawn from search results citing journal specifications
+- Citation style (author-year Harvard) confirmed across multiple sources
+
+Structural deltas (scope relaxation, page limits override): HIGH CONFIDENCE
+- Clearly differentiate ABS 2 journal from ABS 4* baseline
+- Page limits are explicit novel constraints not in FIELD_SKILL
+
+Field-default dimensions (no delta claimed): MEDIUM CONFIDENCE
+- Inferred from journal scope (applied focus aligns with standard empirical economics)
+- Not contradicted by available evidence, but not directly confirmed via article sampling
+
+SKILL FILE GENERATED
+====================
+
+Output file: skills/economics/journal-of-applied-statistics_SKILL.md
+
+Structure:
+- Hard Constraints section: 8 subsections covering length, abstract, citations, tables, data availability
+- Observed Deltas section: 2 findings (applied scope relaxation, page limits)
+- Dimensions with no delta: 7 dimensions listed and classified as FIELD DEFAULT
+- Common pitfalls section: 4 journal-specific submission errors documented
+- Sources table: 4 entries with access method
+
+All findings documented with delta classification (ENFORCED, RELAXATION, FIELD DEFAULT).

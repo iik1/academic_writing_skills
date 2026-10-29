@@ -1,0 +1,54 @@
+Journal: Economia Agraria y Recursos Naturales – Agricultural and Resource Economics
+Slug: economia-agraria-y-recursos-naturales-agricultural-and-resource-economics
+ABS: 1
+Field: ECON
+Publisher: Universitat Politecnica de Valencia / Asociacion Espanola de Economia Agraria
+
+Articles fetched: 19 abstracts (DOAJ API, ISSN 2174-7350, 2003-2021) + 1 full annotated
+first-page example (from journal's own post-acceptance formatting PDF) + title/author/year
+listing 2002-2026 (IDEAS/RePEc). No full-text article bodies were accessible (direct fetch
+to polipapers.upv.es blocked by TLS certificate error on all attempts); all findings are
+based on abstract/keyword/title-level metadata plus the one full example page.
+
+Early stop triggered: No. Reached a good-faith sample above the 10-article floor specified
+for ABS 1 journals (19 abstracts), though full text was not accessible for any of them.
+
+Deltas found: 4 dimensions
+  1. Voice and Register - Spanish-language abstracts appear to default to impersonal/passive
+     constructions rather than FIELD_SKILL's "we"-dominant norm (observed in the one available
+     bilingual example; English abstract used "we", Spanish parallel text did not). PRACTICE
+     ONLY / RELAXATION.
+  2. Statistical Reporting - abstracts are less quantitatively specific than FIELD_SKILL norm,
+     likely driven by the strict 100-word abstract cap rather than a distinct field practice.
+     PRACTICE ONLY / RELAXATION.
+  3. Structural Deviations - journal accepts brief notes (<=2,500 words), book reviews, and
+     invited comment/tribute pieces in addition to standard research articles. GUIDELINE-
+     CONFIRMED.
+  4. Other Journal-Specific Patterns - narrower, more applied topical/geographic scope
+     (Spain/Latin America agri-environmental policy) than typical FIELD_SKILL journals; noted
+     as scope observation, not a style-altering delta.
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Bilingual (Spanish/English) title, abstract (100-word cap each), and keywords (5 max each)
+    required on first page, plus 2-digit JEL codes.
+  - Manuscript length capped at ~25 pages / ~8,000 words (article) or 2,500 words (note) -
+    substantially shorter than ABS 4/4* norms.
+  - Mandatory journal-specific terminology: "Cuadro" not "Tabla", "Grafico" not "Figura",
+    "Anexo" not "Apendice".
+  - Comma-decimal / period-thousands numeric formatting required.
+  - Strict citation/reference formatting rules (et al. usage, DOI mandatory when available,
+    specific author-initial formatting, no congress dates in conference references).
+  - Final submission must be Word file (not PDF), with companion Excel workbook for each
+    graphic's underlying data.
+
+Access-limitation notes:
+  - Direct WebFetch to polipapers.upv.es (About, Submissions, and article pages) consistently
+    failed with "unable to verify the first certificate" (TLS issue on the target server).
+  - Successfully worked around this via: (a) direct curl download of the journal's own PDF
+    formatting guide (bypassing cert validation), and (b) DOAJ's public search API queried by
+    ISSN, which returned 382 total indexed EARN articles, of which 19 were sampled across
+    2003-2021.
+  - ageconsearch.umn.edu journal review page returned HTTP 403 and was not used.
+  - No full-text article body was read for any sampled article; all structural/rhetorical
+    deltas beyond the Hard Constraints section are necessarily limited to abstract/keyword-level
+    evidence and one annotated example page, and are flagged as such in the skill file.

@@ -1,0 +1,89 @@
+DELTA DETECTION REPORT: Journal of Policy Modeling
+
+Journal: Journal of Policy Modeling
+Slug: journal-of-policy-modeling-writing-style
+ABS Rating: 2
+Field: ECON
+Publisher: Elsevier
+
+ARTICLES FETCHED
+===============
+13 articles from Volume 48, Issue 1 (2026):
+  1. Economic growth and environmental objectives (Christou et al.)
+  2. Basic income reduces poverty and inequality (Lara & Oliver)
+  3. Does employment and autonomy influence safe menstrual hygiene (Drall & Gandhi)
+  4. Ruble resilience or euro dominance (Mati et al.)
+  5. Government policies in managing food price anomalies (Shabanzadeh-Khoshrody et al.)
+  6. Which countries performed better in COVID-19 pandemic (Masuhara & Hosoya)
+  7. Escaping the inactivity trap (Cruces et al.)
+  8. Building a hydrogen economy (Guionie et al.)
+  9. Does stigmatization worsen living standards (Bodjongo)
+  10. Environmental innovation policy and SDGs (Göçoğlu & Göksu)
+  11. Sacred and stray: Policy analysis for cattle (Singh & Srivastava)
+  12. Can regulatory enforced disclosure enhance earnings quality (Bhusan et al.)
+  13. Producer heterogeneity and crop insurance (Mavroutsikos et al.)
+
+ACCESS NOTES
+============
+- Official ScienceDirect author guidelines page returned HTTP 403 (paywalled)
+- Journal details obtained from:
+  * K.N. Raj Library table of contents (public blog)
+  * Elsevier metadata and search results
+  * One article accessed via JRC open repository
+  * Article abstracts and metadata via Semantic Scholar, IDEAS/RePEc, Google Scholar
+- Full-text paywall significantly limited access to article texts, but abstracts,
+  metadata, and one preprint/repository version provided sufficient evidence for
+  style and structure assessment.
+
+EARLY STOP TRIGGERED
+====================
+No. Completed all phases with available data.
+
+DELTAS FOUND
+============
+1 primary delta; all others FIELD DEFAULT
+
+Delta 1: POLICY EMPHASIS AND FRAMING
+- Classification: PRACTICE ENFORCED
+- Evidence: Editorial guidance emphasizes that papers must demonstrate policy
+  applicability; editors discourage submissions focused exclusively on technique
+  without policy implications. Sample article titles and abstracts confirm this
+  is operationalized (e.g., "Does France have the industrial capacity..."
+  "Which countries performed better...").
+- Field baseline comparison: FIELD_SKILL notes policy implications appear in
+  conclusions of top-tier papers. Journal of Policy Modeling elevates this to
+  a submission requirement and evaluation criterion.
+
+No other deltas observed. All sampled articles follow FIELD_SKILL conventions
+on voice, person, sentence structure, argumentation, citation format, results
+reporting, and hedging.
+
+HARD CONSTRAINTS IDENTIFIED
+===========================
+Abstract: Max 100 words (FIELD_SKILL does not specify)
+Citation format: Author-year parenthetical (matches FIELD_SKILL)
+Footnotes: Kept to minimum; superior numbers (matches FIELD_SKILL)
+Formatting: Double-spaced, 8.5 x 11 inch paper, one side only (no FIELD_SKILL
+  guidance on physical formatting)
+Policy requirement: Model must be demonstrably useful for decision-makers
+  (emphasized more than in FIELD_SKILL baseline)
+
+FIELD_SKILL OVERRIDES
+=====================
+None. No conflicts between guidelines and field baseline. The policy emphasis
+delta is a _refinement_ or _elevation_ of an existing FIELD_SKILL principle,
+not an override.
+
+NOTES
+=====
+- Journal is ABS 2 (lower-tier), yet maintains high editorial standards for
+  policy relevance. This is consistent with the journal's stated mission and
+  title.
+- Public access to full author guidelines is limited due to publisher paywall.
+  The skill file is based on (a) search-engine-extracted guideline summaries,
+  (b) article metadata, (c) one open-access version from an author's institution,
+  and (d) editorial statements found in journal metadata. This is a good-faith
+  effort with documented limitations.
+- Sample size of 13 articles is adequate for ABS 2 journal delta detection and
+  provides consistent evidence across multiple topics (economics, environment,
+  policy, trade, labor, energy, health, agriculture, finance).

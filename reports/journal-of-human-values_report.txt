@@ -1,0 +1,50 @@
+Journal: Journal of Human Values
+Slug: journal-of-human-values
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 5 distinct articles at title/abstract level (full text inaccessible - SAGE
+article pages are JS-rendered and returned only navigation chrome to WebFetch). Relied on
+WebSearch-extracted abstract snippets and citation aggregators (ResearchGate, citation index
+sites) per task instructions for thin-access journals.
+  1. Nazirova & Borbala (2024) - "Values, Attitudes and the Behaviour Paradigm: A Systematic
+     Literature Review" - doi:10.1177/09716858241236902
+  2. Tiwari & Kumari (2026) - "Universal Human Values and the Pursuit of Well-being in
+     Contemporary Society" - doi:10.1177/09716858261420585
+  3. Ethical innovation / community-based healthcare organizations article (July 2025)
+  4. Sufficiency-based innovation coaching for Thai SMEs article (May 2025)
+  5. New public management reforms in higher education article (October 2025)
+
+Early stop triggered: No formal early stop, but sample capped at 5 due to exhausted access
+chain (SAGE Track / journals.sagepub.com pages non-fetchable; further WebSearch queries for
+additional distinct articles returned no new usable results after several attempts).
+
+Deltas found: 3 dimensions
+  - Length (ENFORCED): 5,000-word cap for full papers, well below FIELD_SKILL's typical
+    8,000-18,000 word range for management outlets.
+  - Structural Deviations (RELAXATION, ABS 1 tier): compressed literature/methods treatment
+    implied by the word cap.
+  - Voice/Register and journal scope (PRACTICE ONLY / low-prevalence): journal accepts
+    philosophical/normative essays on values more readily than typical FIELD_SKILL empirical
+    or AMR-style theory framing; abstracts skew toward reflective/philosophical register in
+    conceptual pieces.
+
+FIELD_SKILL overrides:
+  - Abstract word count: 150-200 words (narrower than FIELD_SKILL's 150-250)
+  - Full-paper length: 5,000 words hard cap (FIELD_SKILL has no comparable hard cap)
+  - Anonymized manuscript requirement with separate title page (mechanical/production
+    requirement not in FIELD_SKILL)
+  - Image/figure format requirements (300 dpi/1500px, TIFF/JPEG, separate folder) - production
+    mechanics not covered by FIELD_SKILL
+
+Access-limitation notes:
+  - journals.sagepub.com pages (guidelines page, TOC, individual DOI pages) are JavaScript-
+    rendered; WebFetch retrieved only navigation/footer chrome, never actual article or
+    guidelines content, across every attempt (author-instructions page, current-issue TOC,
+    loi/JHV listing, individual DOI pages, and doi.org redirect).
+  - All substantive guideline facts (abstract length, word limit, anonymization, image specs)
+    and all article abstracts were obtained via WebSearch's own extracted snippets rather than
+    direct page fetch.
+  - This is a thinner sample than ideal even for an ABS 1 journal; the skill file flags several
+    findings as PRACTICE ONLY / low-prevalence rather than confirmed journal norms, per the
+    convergence rule.

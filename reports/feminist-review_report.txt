@@ -1,0 +1,97 @@
+FEMINIST REVIEW JOURNAL SKILL REPORT
+====================================
+
+Journal:                    Feminist Review
+Slug:                       feminist-review-writing-style
+ABS Rating:                 2
+Field Classification:       ETHICS-CSR-MAN (note: journal is actually feminist studies/critical humanities, not management)
+Publisher:                  SAGE Publications
+Frequency:                  3 issues/year
+
+RESEARCH PHASE
+==============
+
+Articles Fetched:           1 editorial open-access + comprehensive guideline/scope analysis
+Access Method:
+  - SAGE author guidelines (public web)
+  - Journal scope statements (public web)
+  - Call for Papers (public WordPress)
+  - One editorial via PMC open-access (PMC12263545)
+  - Full-text articles paywalled (unable to examine 10-15 empirical articles as planned)
+
+Early Stop Triggered:       YES - paywall prevented full article sampling.
+                            Analyzed 1 editorial piece + comprehensive guideline documentation.
+                            This is acceptable for ABS 2 journal with thin public access;
+                            guidelines are authoritative and complete.
+
+DELTAS FOUND
+============
+
+Total Dimensions Analyzed:      8 major dimensions
+Deltas Found:                   4 substantive deltas from mgmt-field-writing-style
+
+Delta Dimensions:
+  1. Article Structure (ENFORCED) - No prescribed template (mgmt baseline has 4 standard templates)
+  2. Citation Density (PRACTICE ONLY) - Sparse, strategic citation observed in editorial
+  3. Activist/Political Stance (ENFORCED) - Journal explicitly frames work as connected to feminist activism
+  4. Keywords (ENFORCED) - 6+ keywords required after abstract (mgmt baseline omits)
+  5. Intersectionality (ENFORCED) - Central to analytical framework (not optional)
+
+Dimensions with No Delta:
+  - Pronoun usage (we throughout)
+  - Methods sections (not required if not part of argument)
+  - Hedging/epistemic stance (moderate)
+  - Discussion/conclusion structure
+  - Citation style (SAGE Harvard, variant of mgmt's APA)
+
+HARD CONSTRAINTS vs FIELD_SKILL
+================================
+
+Overrides of mgmt baseline:
+  - Structure: No templates (ENFORCED OVERRIDE)
+  - Keywords: Required (JOURNAL-SPECIFIC, not in baseline)
+  - Word count: 6,000-8,000 words TOTAL (tighter than mgmt typical)
+  - Abstract: Explicitly unstructured (mgmt allows both)
+
+Field-Level Consistency:
+  - Citation style (APA variant): Consistent
+  - Voice (first-person we): Consistent
+  - Literature engagement (critical): Consistent
+
+FIELD_SKILL APPLICABILITY
+==========================
+
+Does mgmt-field-writing-style provide adequate baseline?
+  Partially. The voice, pronoun usage, and literature engagement norms are consistent.
+  However, the fundamental article structure assumption in FIELD_SKILL (four defined templates)
+  is explicitly contradicted by Feminist Review's rejection of templates.
+  The activist/political orientation and intersectionality framework are not addressed in
+  FIELD_SKILL at all.
+
+METHODOLOGICAL NOTES
+====================
+
+Journal Classification Concern:
+  The assignment lists this journal under "ETHICS-CSR-MAN" (management field).
+  Research confirms Feminist Review is a feminist studies/critical humanities journal,
+  not a management journal. No articles on business ethics, CSR, or management were found.
+  The journal publishes feminist theory, activism, decolonial scholarship, queer theory,
+  and cultural criticism. This appears to be an ABS classification error or a very loose
+  categorization under "ethics."
+
+Sampling Limitations:
+  Could not examine 10-15 full empirical articles due to SAGE paywall.
+  However, author guidelines are comprehensive and authoritative.
+  Editorial piece (open-access) provided one concrete example of voice/style/citation patterns.
+  Journal scope and call-for-papers language is explicit and descriptive.
+  Assessment is high-confidence for guidelines; lower-confidence for article style patterns
+  (only 1 editorial sampled instead of 10-15 empirical articles).
+  Recommendation: This skill is usable; guideline sections are definitive.
+  Article style sections (voice, citation density, structure) could be strengthened
+  with additional access.
+
+---
+
+FILE SAVED TO:
+  - Skill: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/mgmt/feminist-review_SKILL.md
+  - Report: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/reports/feminist-review_report.txt

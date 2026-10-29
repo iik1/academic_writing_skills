@@ -1,0 +1,21 @@
+Journal: Journal of Business Research
+Slug: journal-of-business-research
+ABS: 3
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 12 (front-matter/abstract-level only; full text paywalled throughout)
+Early stop triggered: no (delta set stabilized around article 8-10; continued to 12 for confidence)
+
+Deltas found: 3 dimensions
+- Length: 45-page / ~8,000-word ceiling (tighter than FIELD_SKILL's 10,000-18,000 word range) — ENFORCED (stated in guidelines)
+- Abstract: hard 150-word cap, unstructured (FIELD_SKILL allows 150-250) — ENFORCED
+- Structural: blind-review anonymization requirement (title repeated without author names on page 3) — ENFORCED, mechanical submission requirement not in FIELD_SKILL
+- Noted but not a style delta: topic-scope skew toward marketing/consumer behavior/digital-AI interactions vs. strategy/OB mix of top MGMT outlets — PRACTICE ONLY, informational
+
+FIELD_SKILL overrides: length ceiling, abstract word cap (both above)
+
+Access-limitation notes:
+- ScienceDirect guide-for-authors page returned 403 on direct WebFetch; relied on WebSearch-extracted snippets and a legacy mirrored PDF copy of the guidelines (ask.org.az).
+- No full-text articles were accessible; all 12 spot-checked articles were assessed via title + abstract snippets extracted by search engines or journal landing/volume pages.
+- Citation style confirmed as name-year APA-style via Paperpile citation-style reference page (WebFetch succeeded), consistent with FIELD_SKILL — no delta.
+- Could not independently verify heading conventions, table/figure formatting details, or in-article statistical reporting norms beyond what abstracts reveal; these are recorded as "Follows FIELD_SKILL norm" absent contrary evidence.

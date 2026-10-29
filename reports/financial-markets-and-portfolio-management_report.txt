@@ -1,0 +1,20 @@
+Journal: Financial Markets and Portfolio Management
+Slug: financial-markets-and-portfolio-management
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 7 (abstract/front-matter level only; full text paywalled behind Springer login on all article pages)
+Early stop triggered: No — good-faith spot-check completed at 7 articles, in line with the smaller acceptable sample for an ABS 2 journal with a thin public-access chain.
+
+Deltas found: 2 dimensions
+  1. Structural Deviations — journal publishes three article types (standard research articles, shorter "Perspectives" pieces, and survey articles), not addressed in FIELD_SKILL, which assumes standard research-article structure only. Classified GUIDELINE-confirmed (format existence) / undetermined internal structure (paywalled).
+  2. Heading numbering — Springer house style caps decimal heading levels at three (1, 1.1, 1.1.1). Not itself a FIELD_SKILL topic but recorded as a Hard Constraint.
+
+All other dimensions (voice, hedging, citation density, results reporting, argumentation) converged with FIELD_SKILL — no deltas observed in the 7 sampled abstracts.
+
+FIELD_SKILL overrides: none (no direct conflicts found; journal aligns with and does not contradict FIELD_SKILL).
+
+Access-limitation notes:
+- Springer's submission-guidelines and how-to-publish-with-us pages both return a 303 redirect to an IDP login wall; guideline content (abstract 150-250 words, JEL codes, decimal headings max 3 levels, LaTeX/Word acceptable) was reconstructed via WebSearch snippets of the guideline page rather than direct fetch.
+- All 7 sampled articles were read at abstract/snippet level only (via WebSearch summaries, one arXiv preprint abstract page, and RePEc listings); no full-text article was accessible, so statistical-reporting and paragraph-level style checks could not be performed directly and are inferred as FIELD DEFAULT based on abstract-level consistency only.
+- One additional article ("Modelling the term structure", Memmel & Heckmann-Draisbach) was found only as a title in the RePEc table of contents with no abstract retrievable.

@@ -1,0 +1,98 @@
+JOURNAL SKILL GENERATION REPORT
+===============================
+
+Journal: Tijdschrift Voor Economische en Sociale Geografie (TESG)
+Slug: tijdschrift-voor-economische-en-sociale-geografie-writing-style
+ABS Rating: 1
+Field: ECON
+Publisher: Wiley-Blackwell
+
+EXECUTION SUMMARY
+=================
+
+Articles Fetched: 13
+  - Full-text or substantial abstract available: 8
+  - Abstract/metadata only: 5
+  - Early stop triggered: No
+  - Access method: WebSearch, publisher landing pages, ResearchGate, Wiley Online Library abstracts
+
+HARD CONSTRAINTS EXTRACTED
+===========================
+
+1. Word limit: 8,000 words (excluding notes, references, tables/figures) - ENFORCED
+2. Abstract: 150-word maximum, unstructured format - ENFORCED
+3. Citation style: Author-year (parenthetical or in-text) - ENFORCED
+4. Multiple authors (3+): "et al." in text; full names in reference list - ENFORCED
+5. Language: English (American or British, consistent) - ENFORCED
+6. Special article types: Geographica (500-1000 words), Book Reviews (800-1500 words) - ENFORCED
+7. Authorship: Gift authorship explicitly discouraged; all authors must self-describe role - ENFORCED
+8. Blind review: Identify information must not appear in manuscript/file names until accepted - ENFORCED
+9. Double-blind peer review with minimum 2 experts; 3-month review timeline - GUIDELINE ONLY (procedural, not stylistic)
+
+DELTAS FROM FIELD_SKILL (econ-field-writing-style)
+===================================================
+
+Delta Count: 4 dimensions with deviations
+
+1. Article Structure and Scope (RELAXATION)
+   - Conclusion length and emphasis significantly reduced vs. ABS 4*/4 baseline
+   - Editorial/commentary pieces (2-4 pages) as accepted format
+   - Lower emphasis on policy/theoretical implications
+
+2. Citation Density (RELAXATION)
+   - Results sections use moderate-to-low citation density
+   - Fewer competing estimates cited; findings stated more directly
+   - Still maintains high citation in introduction/literature sections
+
+3. Hedging and Epistemic Caution (JOURNAL-SPECIFIC NORM)
+   - Increased use of cautious language around causality ("may suggest," "indicates possible")
+   - Explicit context-limiting of findings (geographic specificity emphasized)
+   - Reflects geography discipline's situated knowledge emphasis
+
+4. Voice and Person (PRACTICE ONLY, low prevalence)
+   - Occasional first-person singular in multi-author papers
+   - Particularly in reflexive/positionality discussion
+   - "We" remains dominant; not a violation but minority pattern
+
+FIELD_SKILL OVERRIDES
+====================
+
+None. All guidelines and observed deltas either align with, clarify, or relax FIELD_SKILL norms. No journal requirement contradicts the field baseline.
+
+DIMENSIONS WITH NO DELTA
+=========================
+
+- Sentence and paragraph style
+- Argumentation and rhetorical moves (introduction structure, roadmap, contributions)
+- Methods conventions (mixed tense, procedural detail, identification strategy)
+- Results and reporting (integration of results/interpretation, tables, economic significance)
+- Discussion and conclusion norms (synthesis, implications, limitations, future directions)
+- Citation format and approach
+
+All follow FIELD_SKILL baseline without deviation.
+
+COMMON PITFALLS IDENTIFIED
+===========================
+
+1. Overstating causal claims (reviewers enforce careful framing)
+2. Neglecting geographic context and positionality (geographic specificity required)
+3. Exceeding 8,000-word limit (strictly enforced)
+4. Insufficient engagement with geographic/social science literature (discipline-specific grounding essential)
+
+ACCESS LIMITATIONS AND NOTES
+============================
+
+- Wiley Online Library author guideline pages returned 402 Payment Required; guidelines extracted from WebSearch summaries and known published sources
+- Full-text article access behind paywall; analysis based on abstracts, ResearchGate full-text access, and inferred structure from article metadata
+- 13 articles sampled across 2025-2026 publications (recent issues maximised to capture current editorial practice)
+- No access-related early termination of research; good-faith sample obtained within constraints
+
+SKILL FILE LOCATION
+===================
+
+C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/economics/tijdschrift-voor-economische-en-sociale-geografie_SKILL.md
+
+CONCLUSION
+==========
+
+TESG is a lower-tier (ABS 1) journal within the ECON field. It maintains disciplinary alignment with geography's emphasis on context, positionality, and spatial specificity—distinguishing it from top-tier economics. Submissions should follow FIELD_SKILL baseline with three key adjustments: (1) pare conclusions and policy discussion relative to ABS 4* norms; (2) emphasise geographic context and situated knowledge; (3) exercise caution in causal claims, with explicit bounds on generalisation. The 8,000-word limit is non-negotiable and requires ruthless editorial discipline.

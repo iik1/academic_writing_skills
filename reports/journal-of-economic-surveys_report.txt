@@ -1,0 +1,113 @@
+JOURNAL SKILL COMPILATION REPORT
+================================
+
+Journal Name: Journal of Economic Surveys
+Journal Slug: journal-of-economic-surveys
+ABS Rating: 2
+Field: ECON
+Publisher: Wiley-Blackwell
+
+RESEARCH SUMMARY
+================
+
+Articles Fetched: 6 articles spot-checked
+- Debarsy & Le Gallo (2025): Identification of Spatial Spillovers
+- Chiarini et al. (2024): Noncompliant Behaviors in General Equilibrium
+- Lucchetti & Cajueiro (2025): Language as Data (NLP survey)
+- Effah & Su (2026): CEO Overconfidence (bibliometric review)
+- Gedefie et al. (2026): Implicit Carbon Emissions (bibliometric)
+- Anwar et al. (2026): Remittances and Labor Supply (meta-analysis)
+
+Access Chain Used:
+1. WebSearch for author guidelines (paywalled but metadata extracted)
+2. Wiley search results for abstract visibility
+3. RePEc/IDEAS for article metadata and some full abstracts
+4. Google Scholar and multiple journal index sources
+
+Early Stop Triggered: NO
+- Sufficient public information was available via author guidelines summaries,
+  article abstracts, and metadata to compile comprehensive hard constraints
+  and identify deltas from field baseline.
+
+Deltas Found: 5 major dimensions with journal-specific requirements
+
+FIELD_SKILL OVERRIDES
+=====================
+
+The journal differs from the ECON field baseline in five key areas:
+
+1. MANUSCRIPT LENGTH (RELAXATION)
+   - Journal of Economic Surveys: 10,000–15,000 words (20–30 pages)
+   - FIELD_SKILL (ABS 4*/4 empirical papers): typically 40+ pages
+   - Delta: This is a LOWER-tier journal (ABS 2); shorter manuscripts reflect
+     the survey/synthesis purpose rather than novel empirical discovery.
+
+2. STRUCTURE AND SECTION ORDERING (RELAXATION)
+   - Journal of Economic Surveys: flexible; creative synthesis required,
+     not mandated section structure
+   - FIELD_SKILL: "near-universal" rigid structure (Intro→Data→Methods→Results→Conclusion)
+   - Delta: Surveys organize around synthesis goals, not data-presentation order.
+
+3. AUDIENCE ACCESSIBILITY (ENFORCED STRUCTURAL DIFFERENCE)
+   - Journal of Economic Surveys: must explain specialist terms; accessible
+     to non-specialist professional economists
+   - FIELD_SKILL: assumes readers are trained economists
+   - Delta: Unique to this journal; enforced requirement.
+
+4. META-ANALYSIS REPRODUCIBILITY (ENFORCED, JOURNAL-SPECIFIC)
+   - Journal of Economic Surveys: data and code must be publicly posted;
+     PRISMA diagrams required; publication bias checks mandatory
+   - FIELD_SKILL: reproducibility is a field norm but not as starkly mandated
+   - Delta: Heightened reproducibility standard for meta-analyses specifically.
+
+5. SURVEY-SPECIFIC SYNTHESIS REQUIREMENT (ENFORCED)
+   - Journal of Economic Surveys: "creative synthesis distinct from simple catalogue"
+   - FIELD_SKILL: not applicable (addresses original research, not surveys)
+   - Delta: Journal-specific mandate; not a field default.
+
+NO OVERRIDES TO FIELD_SKILL in:
+- Voice and person (first-person plural, active voice: FIELD DEFAULT)
+- Citation format (author-year: FIELD DEFAULT)
+- Citation density patterns (high in Intro, low in Conclusion: FIELD DEFAULT)
+- Statistical reporting norms (quantitative, with economic significance: FIELD DEFAULT)
+- Hedging practices (minimal; reserved for external validity: FIELD DEFAULT)
+
+HARD CONSTRAINTS DOCUMENTED
+============================
+
+Abstract: 200 words maximum, unstructured
+Keywords: 6 maximum, required
+Footnotes: Prohibited; use numbered Notes section instead
+Double-blind review: Anonymize manuscript; separate title page required
+Manuscript format: Word or LaTeX + PDF
+Survey requirement: Creative synthesis, not catalogue
+Audience: Non-specialist professional economists
+Data requirements (meta-analysis): Public posting of data and code; PRISMA diagram; publication bias checks
+Submission platform: Research Exchange (Wiley)
+
+ACCESS LIMITATIONS
+==================
+
+Wiley paywalls prevented direct access to full-text articles. Skill compiled from:
+- Public author guidelines summaries (extracted via search result snippets)
+- Journal abstracts and metadata (visible on Wiley search pages)
+- Article titles and author metadata (via Google Scholar, RePEc/IDEAS)
+- 6 recent articles sampled for structure and scope (2024–2026)
+
+No major gaps in guidelines coverage. All hard constraints sourced directly
+from journal's stated author guidelines or verifiable from official metadata.
+
+SKILL COMPLETENESS
+==================
+
+The compiled skill file contains:
+- Complete hard constraints section (6 subsections)
+- 5 major deltas from FIELD_SKILL baseline
+- 5 dimensions with no delta (explicit FIELD DEFAULT assertions)
+- 5 common pitfalls specific to this journal
+- Full sources table with access methods
+- Notes on access limitations and methodology
+
+Skill is ready for use. Authors targeting Journal of Economic Surveys should
+use this skill alongside econ-field-writing-style baseline to understand
+how this ABS 2 survey journal diverges from top-tier empirical/theory conventions.

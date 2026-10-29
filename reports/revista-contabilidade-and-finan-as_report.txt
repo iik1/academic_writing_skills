@@ -1,0 +1,35 @@
+Journal: Revista Contabilidade & Finanças
+Slug: revista-contabilidade-and-finan-as
+ABS Rating: 1
+Field: ACCOUNT
+Publisher: Universidade de São Paulo (FEA/USP), via SciELO
+
+Articles Fetched: 6
+- Tavares et al., "Accounting for artisanal fishing as a situated, oral, and ancestral practice" (June 2026)
+- M&A enforcement study on earnings management across G20 (June 2026)
+- Public procurement/contract compliance study (June 2026)
+- Machado & Galdi, "Capitalization of internally generated intangible assets and its impact on the predictive power of accounting information" (June 2026)
+- Panosso et al., "The moderating effect of national culture on the relationship between debt maturity and conditional conservatism" (June 2026)
+- Santos et al., "Financial slack and environmental expenditures: Value relevance in the Brazilian stock market" (May 2024)
+
+Early Stop Triggered: No (good access to recent articles via SciELO; sample is robust)
+
+Deltas Found: 5 distinct journal-specific deviations from account-field-writing-style baseline
+
+1. Bilingual Publication (ENFORCED) — Portuguese/English versions required
+2. Abstract Content Order Prescription (GUIDELINE ONLY) — structured sequence specified but not rigidly enforced
+3. Higher Prevalence of Qualitative/Interpretive Work (PRACTICE ONLY) — larger proportion than ABS 4* baseline
+4. Citation Density in Results Sections (PRACTICE ONLY) — slightly lower than ABS 4* baseline
+5. Page/Word Limit (ENFORCED) — 32 pages max vs. 40–60 typical for ABS 4*, significantly constrains paper scope
+
+FIELD_SKILL Overrides:
+None. All RC&F guidelines align with or are compatible with account-field-writing-style baseline. The 32-page limit is strictly enforced and not mentioned in FIELD_SKILL, requiring explicit consideration in planning. The abstract structure prescription is more detailed than FIELD_SKILL but not contradictory.
+
+Access Limitations: None. All guidelines and sampled articles are openly available via SciELO and revistas.usp.br. No paywalls encountered. Triple-blind review system confirmed via guidelines page.
+
+Notes:
+- RC&F is lower-tier (ABS 1) than field baseline (ABS 4*/4), but does not relax substantive writing norms—maintains high formality, active voice, statistical rigor, and citation standards.
+- Qualitative interpretive tradition aligns with AOS precedent already documented in FIELD_SKILL.
+- The 32-page constraint is the most significant practical implication for authors; hypothesis development and robustness sections require aggressive compression relative to ABS 4* standards.
+- Article sample spans quantitative archival, experimental design (M&A), qualitative interpretive, and mixed-methods traditions within the journal, indicating intellectual pluralism typical of ABS 1 accounting journals.
+- Bilingual publication requires attention to translation quality and timing.

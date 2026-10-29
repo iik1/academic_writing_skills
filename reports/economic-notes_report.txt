@@ -1,0 +1,21 @@
+Journal: Economic Notes
+Slug: economic-notes
+ABS: 1
+Field: ECON
+Publisher: Wiley-Blackwell (Banca Monte dei Paschi di Siena)
+
+Articles fetched: 12 (title/abstract level; 4 with full abstracts retrieved via IDEAS/RePEc or WebSearch, 8 title/topic-only from RePEc table of contents)
+Early stop triggered: No (dedupe check found no existing skill file; no early-stop condition met during research)
+
+Deltas found: 2 dimensions
+  1. Citations (Hard Constraint) - journal requires APA reference style specifically, not generic author-year (ENFORCED, per guidelines page summary)
+  2. Structural Deviations - journal regularly publishes non-empirical formats (literature reviews, retrospective/historical pieces, book reviews) not covered by FIELD_SKILL's IMRaD structure (PRACTICE ONLY / RELAXATION, confirmed by sampled titles e.g. Rupa & Parimalarani 2025 "Literature Analysis", 50th-anniversary special issue)
+  Additional soft note: journal's pluralist/cross-school editorial identity permits looser identification-centric framing than ABS 4*/4 baseline (RELAXATION, not a new norm)
+
+FIELD_SKILL overrides: Citation format (APA reference-list style specified for this journal)
+
+Access limitation notes:
+- Wiley Online Library forauthors.html, journal homepage, and individual abstract pages (onlinelibrary.wiley.com/doi/...) all returned HTTP 402 Payment Required on direct WebFetch.
+- Guideline content was recovered via WebSearch result summaries (which appear to have indexed/cached the guidelines page content).
+- Article sampling relied on IDEAS/RePEc (ideas.repec.org) mirror of the journal's table of contents and abstracts, which was accessible via WebFetch.
+- Full-text access was not available for any article; all judgments on structure/scope are based on titles and abstracts only. This is consistent with the assignment's allowance for front-matter-only evidence given this is a lower-tier (ABS 1) journal.

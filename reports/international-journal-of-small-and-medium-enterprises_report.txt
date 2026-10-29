@@ -1,0 +1,93 @@
+DELTA DETECTION REPORT
+Journal: International Journal of Small and Medium Enterprises (IJSMES)
+Slug: international-journal-of-small-and-medium-enterprises
+ABS Rating: 1
+Field: ENT-SBM
+Publisher: Centre for Research on Islamic Banking & Finance and Business (CRIBFB)
+
+ARTICLE SAMPLE
+Articles Fetched: 12 (full-text access to abstracts and methodology sections)
+Date Range: 2023–2025 (Vol. 6, 7, 8)
+Early Stop Triggered: No
+Access Limitations: No paywalls encountered; all articles publicly available on journal website.
+
+FIELD BASELINE OVERRIDES
+The following ENFORCED deltas override entrepreneurship-field-writing-style baseline:
+
+1. VOICE AND PERSON (ENFORCED DELTA)
+   - IJSMES requires: Third-person passive, impersonal voice throughout (even in methods)
+   - FIELD_SKILL expects: First-person plural active ("we find," "we test")
+   - Example violation: "We collected data..." should be "Data were collected..."
+   - Severity: FUNDAMENTAL — This is the most significant deviation from the field baseline.
+
+2. AUTHOR CONTRIBUTIONS AND CONFLICTS OF INTEREST (ENFORCED DELTA)
+   - IJSMES requires: Mandatory Author Contributions (CRediT taxonomy) and Conflicts of Interest sections
+   - FIELD_SKILL: Does not list as required structural elements
+   - Status: Hard constraint per guidelines; appears in all sampled articles
+
+3. HEDGING AND FORWARD-LOOKING RHETORIC (ENFORCED DELTA)
+   - IJSMES practice: Minimal "future research should..." hedging; discussion closes with actionable recommendations
+   - FIELD_SKILL consensus: Forward-looking hedges are "a standard and expected close to nearly every limitation"
+   - Status: Observed consistently across all 12 articles; reflects lower-tier, applied orientation
+
+4. DISCUSSION STRUCTURE AND EXTENT (PRACTICE ONLY / STRONG PATTERN)
+   - IJSMES pattern: Brief, action-oriented discussion (policy/managerial recommendations)
+   - FIELD_SKILL expectation: Extended, exploratory discussion with substantial Limitations and Future Research subsections
+   - Observed in: All 12 articles; appears systematic rather than individual choice
+
+PRACTICE-ONLY DELTAS (observed but not stated in guidelines)
+
+1. CITATION DENSITY
+   - Empirical articles: 14–30 sources (vs. FIELD_SKILL norm of 30–50+)
+   - Review articles: 40–50+ sources
+   - Status: RELAXATION (lower ABS tier permits leaner citation)
+
+2. THEORETICAL LENS FRAMING
+   - IJSMES pattern: Articles often omit explicit named theoretical lens in introduction
+   - FIELD_SKILL expectation: "Framing a study's theoretical lens up front... is common and expected"
+   - Alternative positioning: JEL classification codes used to situate work
+   - Status: Consistent pattern but not enforced; reflects international/applied scope
+
+3. CANON ENGAGEMENT AND SELF-CITATION
+   - IJSMES: Broader international citations, less repetition of foundational entrepreneurship theorists
+   - FIELD_SKILL: "Self-citation and citation of the same lead theorists recur heavily"
+   - Status: PRACTICE ONLY; reflects journal's global readership
+
+DELTAS SUMMARY
+
+Total Dimensions with Deltas: 7
+  - Enforced Deltas (override field baseline): 3
+  - Practice-Only Patterns (strong but not stated): 4
+
+Severity Ranking:
+  1. Voice/Person (ENFORCED) — Fundamental contradiction to field baseline
+  2. Discussion Structure (PRACTICE ONLY, strong) — Systematic brevity and action focus
+  3. Citation Density (PRACTICE ONLY) — Relaxation reflecting ABS 1 tier
+  4. Hedging/Forward-Looking Rhetoric (ENFORCED) — Systematic absence of field convention
+  5. Author Contributions Mandate (ENFORCED) — Structural requirement not in field baseline
+  6. Theoretical Lens Framing (PRACTICE ONLY) — Alternative positioning strategy
+  7. Canon Engagement (PRACTICE ONLY) — Reflects scope and audience
+
+FIELD_SKILL CONTENT PRESERVED
+The following field-baseline elements are fully consistent with IJSMES practice:
+- Compound sentence structure with embedded citations
+- Methods reporting of sampling and measurement detail
+- Results presentation (coefficients, p-values, effect sizes)
+- CARS-style argumentation (establish importance, narrow gap, state question)
+- Correlation/regression tables as standard
+
+ACCESS NOTES
+All author guidelines and 12 representative articles accessed without authentication issues.
+Journal website (cribfb.com) provides full-text HTML and PDF versions of all published articles.
+No institutional proxy or paywalls encountered.
+
+SKILL FILE COVERAGE
+Skill file includes:
+- Hard constraints (structure, length, abstract, citations, headings, tables/figures)
+- Enforced deltas (4 dimensions with explanations and severity)
+- Practice-only deltas (4 dimensions with prevalence notes)
+- Common pitfalls (5 specific submission mistakes tied to deltas)
+- Sources table with links to guidelines and 12 spot-checked articles
+
+RECOMMENDATION
+This skill is ready for use. The voice/person delta is the most critical coaching point for authors transitioning from top-tier entrepreneurship writing (where first-person plural is normative) to IJSMES submission.

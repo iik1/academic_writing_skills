@@ -1,0 +1,17 @@
+Journal: Journal of Revenue and Pricing Management
+Slug: journal-of-revenue-and-pricing-management
+ABS: 1
+Field: ETHICS-CSR-MAN (mgmt-field-writing-style baseline used)
+
+Articles fetched: 15 distinct titles/abstracts spot-checked (2024-2026 issues). Full text was paywalled behind Springer login for all articles; relied on abstracts, keywords, and titles retrieved via WebSearch snippets and IDEAS/RePEc records (2 full abstract+keyword pages retrieved directly via IDEAS/RePEc WebFetch).
+
+Early stop triggered: No (dedupe check found no existing skill; full research proceeded).
+
+Deltas found: 3 dimensions
+  1. Structural Deviations - two-track submission system (Research Papers vs. Practice Papers) with differing review rigor - ENFORCED
+  2. Abstract length - capped at 100 words vs. FIELD_SKILL's 150-250 word norm, plus required ~80-word author bio and full contact details on first page - ENFORCED/GUIDELINE ONLY
+  3. Topical breadth/applied orientation - wider industry scope (airlines, hotels, banking, retail, restaurants, e-commerce) than typical FIELD_SKILL empirical management article - PRACTICE ONLY
+
+FIELD_SKILL overrides: Abstract word limit (100 words, not 150-250); front-matter author bio/contact detail requirement not in FIELD_SKILL; two-track (Research/Practice paper) submission bifurcation.
+
+Access limitation notes: Springer Nature article pages (link.springer.com) redirect to an authentication gate and could not be fetched directly via WebFetch. Guidelines and article content were reconstructed from WebSearch result snippets/cached summaries and from IDEAS/RePEc (ideas.repec.org) records, which provided two full abstract+keyword pages directly. No full-text articles were accessible; all spot-check observations are based on titles, abstracts, and keywords only, consistent with the task's allowance for front-matter-only review on paywalled journals.

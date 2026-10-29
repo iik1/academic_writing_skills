@@ -1,0 +1,28 @@
+Journal: Multinational Business Review
+Slug: multinational-business-review
+ABS: 3
+Field: IB&AREA
+
+Articles fetched: 6 (abstract/front-matter level; full text paywalled/inaccessible for all)
+1. Geopolitical risk and international business (MBR 34/2)
+2. A systematic review of international franchising (MBR 29/1, DOI 10.1108/MBR-01-2020-0019)
+3. Multinational investment responses to local and global uncertainty shocks (DOI 10.1108/MBR-11-2024-0233)
+4. Open strategy and the multinational firm (MBR 32/4, DOI 10.1108/MBR-04-2024-0065)
+5. Taking the long view of the multinational (MBR 31/1, DOI 10.1108/MBR-10-2022-0158)
+6. A typology of born global firms' attributes and future directions (MBR 33/1, DOI 10.1108/mbr-03-2024-0034)
+
+Early stop triggered: No — stopped at 6 because the delta pattern (structured Emerald abstract) was fully stable and consistent across all 6 articles regardless of article type (empirical, conceptual, systematic/bibliometric review), and the dedicated author-guidelines page was not directly accessible (403/404) in this environment, limiting further HARD_CONSTRAINT extraction beyond what WebSearch snippets could confirm.
+
+Deltas found: 1 major dimension
+- Abstract format: ENFORCED delta. MBR requires Emerald's structured abstract (Purpose / Design-methodology-approach / Findings / variable extra headings such as Practical implications, Social implications, Research limitations, Originality-value / Keywords / Article Classification), replacing FIELD_SKILL's unstructured 150-250 word prose abstract. Confirmed identically across all 6 spot-checked articles, including conceptual and literature-review types.
+- Explicit prohibitions: ENFORCED delta (publisher policy, not observable in articles) — generative AI restricted to copy-editing only, not drafting; missing ethics/informed-consent statements trigger automatic return.
+- Article Classification metadata field: PRACTICE ONLY / platform convention, noted but not journal-specific per se.
+
+All other dimensions (voice, sentence style, argumentation, methods, results reporting, discussion/conclusion norms, citation density/style, hedging) followed FIELD_SKILL norm with no journal-specific deviation observed.
+
+FIELD_SKILL overrides: Abstract section only (structured vs. unstructured format). No overrides to body structure, voice, citation style, or argumentation norms.
+
+Access-limitation notes:
+- The dedicated Emerald "author guidelines" URL for MBR (emeraldgrouppublishing.com/journal/mbr/author-guidelines and emerald.com/mbr/pages/author-guidelines) returned 403/404 in this environment; guideline content was reconstructed from Emerald's publisher-wide structured-abstract policy (confirmed applicable via consistent article-level evidence) and from WebSearch-indexed snippets referencing MBR's AI-use and ethics policies.
+- No explicit word/page limit could be confirmed for MBR specifically.
+- Full text of all sampled articles was paywalled; analysis relied on abstract/front-matter pages, which per task instructions is sufficient for structural and abstract-format deltas.

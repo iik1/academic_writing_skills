@@ -1,0 +1,64 @@
+Journal: Industrial Relations (full title: Industrial Relations: A Journal of Economy and Society)
+Slug: industrial-relations
+ABS: 4
+Field: HRM&EMP
+Publisher: Wiley-Blackwell (for IRLE, UC Berkeley)
+
+Articles fetched: 9 (abstracts/summaries via WebSearch snippets; full text
+paywalled throughout, no institutional access in this environment). Sample
+spanned 2023-2025 issues, drawn from the IDEAS/RePEc table of contents
+(2023 Vol 62 - 2026 Vol 65).
+
+Early stop triggered: No formal early stop; delta set stabilized clearly
+by article 7-9 with a consistent pattern (quasi-experimental labor
+econometrics, matched employer-employee panel data, causal identification
+framing) across all sampled articles, including the one qualitative/
+comparative-institutional piece (Dobbins et al. 2023). Stopped at 9 given
+convergence and full-text access exhaustion (guidelines/abstract pages
+only; no open-access full texts located).
+
+Deltas found: 4 dimensions
+  1. Voice and Register (PRACTICE ONLY) - journal is de facto labor
+     economics in framing despite HRM&EMP ABS classification; economics-
+     style research-question framing, not AMO/JD-R/psychological-contract
+     theory framing.
+  2. Statistical Reporting (PRACTICE ONLY) - quasi-experimental
+     identification (DiD, PSM, control function/IV, synthetic control) on
+     administrative/matched employer-employee data is the norm;
+     identification strategy foregrounded rather than treated as one
+     robustness check.
+  3. Structural Deviations (PRACTICE ONLY) - brief economics-style
+     "related literature" sections rather than extended theory-development
+     culminating in numbered hypotheses.
+  4. Other Journal-Specific Patterns (PRACTICE ONLY) - minority of
+     qualitative/institutional pieces lean comparative political economy
+     (varieties of capitalism) rather than sociological/interpretivist.
+
+FIELD_SKILL overrides (hard constraints from guidelines):
+  - Abstract limit: <100 words (tighter than typical HRM&EMP norm)
+  - Length: 25-30 double-spaced pages incl. tables/notes/references
+  - Title: max 2 lines, 33 characters/spaces per line
+  - Citation style: APA reference list; parenthetical author-date in text;
+    endnotes only (no footnotes)
+  - Tables/figures on separate pages; camera-ready figures; descriptive
+    (non-abbreviated) variable names
+  - No PDF or Track Changes submissions; anonymized manuscript + separate
+    title page (double-blind review)
+
+Access-limitation notes:
+  - Main Wiley "For Authors" guidelines page (onlinelibrary.wiley.com)
+    returned HTTP 402 Payment Required on direct fetch; guideline details
+    were instead obtained via the IRLE Berkeley page (full detail) and
+    corroborating WebSearch snippets of the Wiley page.
+  - All 9 sampled articles were reviewed via abstract-only WebSearch
+    snippets (Wiley abstract pages, IDEAS/RePEc, author personal sites,
+    working-paper versions); no full-text sections (methods/results
+    prose) were directly accessible, so findings are based on abstracts,
+    stated methods, and the RePEc/Wiley table-of-contents title list
+    (used to assess topical/thematic concentration) rather than close
+    reading of full manuscripts.
+  - Note on journal identity: there are two similarly-named Wiley
+    journals ("Industrial Relations: A Journal of Economy and Society,"
+    Berkeley/US, ISSN 1468-232X) and ("Industrial Relations Journal," UK,
+    ISSN 1468-2338). This skill covers the former, matching the
+    assignment's ABS 4 / Wiley-Blackwell / HRM&EMP designation.

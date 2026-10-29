@@ -1,0 +1,44 @@
+Journal: International Small Business Journal
+Slug: international-small-business-journal
+ABS: 3
+Field: ENT-SBM
+
+Articles fetched: 5 (abstract/front-matter level only; full text paywalled)
+Early stop triggered: yes - stopped after 5 articles because (a) SAGE journal
+pages are JavaScript-rendered and WebFetch could not retrieve TOC/article
+content directly (only nav/footer boilerplate returned), (b) ISBJ is not
+indexed on RePEc/IDEAS (it is a management, not economics, journal), and
+(c) the abstracts obtained via the colab.ws mirror had already converged on
+"no delta beyond FIELD_SKILL norms" for voice, argumentation, and structure,
+with only minor practice-level observations (qualitative-method prevalence,
+non-Western empirical contexts) emerging repeatedly. Further searching for
+additional DOIs returned diminishing new information.
+
+Deltas found: 0 stated journal norms beyond FIELD_SKILL; 2 PRACTICE ONLY
+observations (methods mix skews slightly more qualitative than FIELD_SKILL's
+4*/4 sample; empirical contexts skew heavily toward non-Western/emerging
+economies, consistent with journal's stated worldwide scope).
+
+FIELD_SKILL overrides: none (ABS 3 journal; no ENFORCED deltas that redefine
+the baseline).
+
+HARD_CONSTRAINTS (from author guidelines, not in FIELD_SKILL):
+- 40-page limit (25 for research notes), 1.5 spacing, 12pt, 2cm margins
+- Maximum 4 keywords
+- SAGE Harvard reference style (not APA)
+- UK English required
+- No author-identifying details in main manuscript (double-blind review)
+
+Access-limitation notes:
+- journals.sagepub.com pages (guidelines page, TOC, individual DOI pages)
+  are JS-rendered; WebFetch returned only navigation/footer boilerplate for
+  all of them.
+- The official SAGE PDF guidelines document was partially machine-readable
+  via WebFetch; details were cross-confirmed via WebSearch's own extraction
+  of the same guidelines page, which was more complete.
+- ISBJ is not on RePEc/IDEAS. Used colab.ws (a third-party
+  abstract/metadata mirror) to retrieve 5 article abstracts, authors, dates,
+  and DOIs. No keyword lists were available via this mirror for any article.
+- Could not verify internal section-heading conventions (e.g., presence/
+  absence of a "Managerial Implications" heading) since only abstracts, not
+  full text or TOC-level heading lists, were accessible.

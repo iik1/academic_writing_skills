@@ -1,0 +1,39 @@
+Journal: Public Opinion Quarterly
+Slug: public-opinion-quarterly
+ABS: 3
+Field: SOC SCI
+
+Articles fetched: 8 (abstract/metadata level only; full text paywalled)
+  - "Not So Sexually Modern After All" 89(4):1167 (López Ortega & Blanco Bosco)
+  - "Whose Party Is This? Explaining Perceptions of US Party Ideology" 89(4):1185 (Warner)
+  - "Public Opinion Quarterly: Past, Present, and Future" 89(1):1 (Holbrook & Jones, editorial)
+  - "Scaling Open-Ended Survey Responses Using LLM-Paired Comparisons" 90(3):630 (DiGiuseppe & Flynn)
+  - Vol. 90 Issue 3 table of contents (11 additional titled entries across Research
+    Articles, Research Notes, Research Synthesis, Book Review categories)
+  - Advance-articles listing (5 further titles, June 2026)
+
+Early stop triggered: No — access chain (guidelines page, advance-articles, issue TOC,
+WebSearch for individual abstracts) was exhausted for what is publicly visible; all
+full-text pages returned paywalled/abstract-only content. Stopped after delta set
+stabilized (structural taxonomy + length caps were the only recurring deltas; voice,
+hedging, and statistical-reporting patterns in visible abstracts matched FIELD_SKILL
+with no observed conflict).
+
+Deltas found: 2
+  1. Structural Deviations — explicit five-way article-type taxonomy (Original Article /
+     Research Note / Polls in Context / Research Synthesis / Book Review), each with its
+     own word limit and expected scope. ENFORCED.
+  2. Citation Density — Research Notes (3,000-word cap) compress literature engagement
+     relative to full CARS-model gap framing. RELAXATION (format-driven, ABS-3-consistent).
+
+FIELD_SKILL overrides: none identified (all hard constraints from guidelines are
+additive/administrative — length limits, blinding, AAPOR disclosure, citation-format
+timing — rather than contradictions of FIELD_SKILL's voice/argumentation/statistical
+norms).
+
+Access-limitation notes: No institutional EZProxy access. All full-text article pages
+(academic.oup.com/poq/article/...) returned abstract-only or paywalled content; relied
+on WebFetch of abstract pages, WebSearch snippets, and table-of-contents pages. Could
+not verify statistical-reporting or hedging patterns via full-text prose, only via
+abstract framing, which was consistent with FIELD_SKILL and yielded no contradicting
+evidence.

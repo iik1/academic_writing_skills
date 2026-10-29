@@ -1,0 +1,17 @@
+Journal: European Sport Management Quarterly
+Slug: european-sport-management-quarterly
+ABS: 3
+Field: SECTOR
+Articles fetched: 9 (abstract/front-matter level; full text paywalled, PDF direct fetches returned 403)
+Early stop triggered: No (delta set stabilised naturally after ~8-9 articles across 2022-2025, spanning qualitative and quantitative methodologies)
+
+Deltas found: 2
+  - Structural Deviations: mandatory four-part structured abstract (Research question / Research methods / Results and Findings / Implications) — ENFORCED
+  - Other Journal-Specific Patterns: strict 8,000-word cap inclusive of tables/captions/footnotes, actively policed (EASM editorial team publicly corrected a website error that had removed the limit) — ENFORCED
+
+FIELD_SKILL overrides: none required beyond the two deltas above (abstract format and word limit are not covered by FIELD_SKILL, so no direct conflict — they are additive hard constraints)
+
+Access-limitation notes:
+- Official T&F author guidelines page (tandfonline.com/action/authorSubmission?journalCode=resm20&page=instructions) returned HTTP 403 on direct WebFetch; guidelines content was reconstructed via WebSearch snippet extraction and cross-checked against the EASM.net submissions synopsis page (fetched successfully) and the EASM announcement about a prior guidelines error.
+- All sampled article PDFs on tandfonline.com returned HTTP 403 on direct fetch (paywalled). Abstract-level content was obtained via WebSearch snippets, academia.edu mirrors, and indexing/aggregator sites (idrottsforum.org, researchgate.net, fis.dshs-koeln.de).
+- No deltas found in voice, register, sentence style, argumentation, methods conventions, results reporting, discussion/conclusion norms, citation density, or hedging — all followed the SECTOR field baseline (FIELD DEFAULT) as observed at the abstract/front-matter level available.

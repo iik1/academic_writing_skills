@@ -1,0 +1,19 @@
+Journal: National Institute Economic Review
+Slug: national-institute-economic-review
+ABS: 1
+Field: ECON
+Articles fetched: 10 (titles/abstracts via WebSearch/Cambridge Core/IDEAS-RePEc; no full-text access)
+Early stop triggered: No
+
+Deltas found: 3 dimensions
+- Length (ENFORCED): 8,000-10,000 word ceiling, stricter/more concrete than FIELD_SKILL silence.
+- Abstract (ENFORCED): ~100-word unstructured abstract plus mandatory 5 keywords and JEL codes -- much shorter than ABS 4/4* norms; RELAXATION appropriate to ABS 1 tier.
+- Tables/Figures (ENFORCED): explicit mechanical requirements (heading/definitions/units/source; Excel charts not embedded pictures; black-and-red print constraint; Stata graph sizing) not covered by FIELD_SKILL.
+- Explicit prohibition (ENFORCED): British spelling required (mechanical, journal-specific).
+- Citation format (ENFORCED): specific end-of-article numbered reference format string given in guidelines.
+
+Voice/register, citation density, hedging, argumentation structure, results reporting: FIELD DEFAULT, no delta observed in sampled research articles.
+
+FIELD_SKILL overrides: word limit, abstract length/format, table/figure formatting, spelling convention, reference list format -- all specified in Hard Constraints section of the skill file.
+
+Access-limitation notes: No EZProxy/institutional access. Journal's own "Notes for contributors" PDF was fetched directly and read in full (best source, used verbatim for Hard Constraints). Full text of sampled articles was not accessible; spot-check relied on titles, abstracts, and short synopses surfaced via WebSearch of Cambridge Core, IDEAS/RePEc, and related pages. This is a thinner evidentiary base than a full-text read would provide, appropriate given ABS 1 tier and the instructions' allowance for a smaller good-faith sample. No contradictions with FIELD_SKILL voice/argumentation norms were found in the material that was accessible.

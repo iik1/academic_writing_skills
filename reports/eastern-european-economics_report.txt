@@ -1,0 +1,34 @@
+Journal: Eastern European Economics
+Slug: eastern-european-economics
+ABS: 1
+Field: ECON
+Publisher: Taylor & Francis (formerly M.E. Sharpe)
+
+Articles fetched: 8 (7 via abstract-level search snippets, 1 full-text postprint parsed directly)
+Early stop triggered: No — full 8-article good-faith sample completed for an ABS 1 journal.
+
+Deltas found: 1 substantive dimension
+  - Abstract format: ENFORCED hard constraint — 100-word abstract cap, max 4 keywords, max 4 JEL codes,
+    75-character running title. FIELD_SKILL does not specify abstract length, so this is journal-specific.
+  - Structural deviation (country/topic institutional-background section between literature review and
+    conceptual framework): PRACTICE ONLY / low-prevalence, consistent with FIELD_SKILL's existing
+    "optional Background/Institutional Setting section" — not logged as a new norm.
+  - All other dimensions (voice, sentence/paragraph style, introduction structure, methods conventions,
+    results reporting, discussion/conclusion norms, citation format/density, hedging): FIELD DEFAULT,
+    no delta observed.
+
+FIELD_SKILL overrides: Abstract length/keyword/JEL limits (see Hard Constraints section of skill file).
+
+Access-limitation notes:
+- tandfonline.com returned HTTP 403 for all direct WebFetch attempts (guidelines page, about-this-journal
+  page, and individual article abstract pages). Guideline content and most article abstracts were
+  recovered via search-engine-indexed cached snippets rather than direct page fetch.
+- One full-text postprint (Kostov, Davidova, Nikulina & Arefieva 2023) was available via the Kent Academic
+  Repository / UCLan CLoK institutional repository and was fetched and parsed directly (converted to
+  markdown), providing higher-confidence evidence for section structure, citation style (Harvard
+  author-year), and figure/table placement conventions.
+- The "Information for Contributors" guidelines PDF (files.taylorandfrancis.com/rseaauth.pdf) appears to
+  be a shared template used across multiple former M.E. Sharpe journals, not necessarily unique to this
+  title, but no journal-specific guidelines page was separately accessible to confirm otherwise.
+- No access to JSTOR archive or full tandfonline abstract/full-text pages; reliance on RePEc/IDEAS listings
+  and search-engine snippets is a known limitation for an ABS 1 journal with thin public tooling access.

@@ -1,0 +1,30 @@
+Journal: Journal of Economic Asymmetries
+Slug: journal-of-economic-asymmetries
+ABS: 1
+Field: ECON
+Publisher: Elsevier
+
+Articles fetched: 10 (abstract/keywords/JEL level via IDEAS/RePEc; full text not accessible)
+Early stop triggered: No (target of 10-15 for ABS 1 tier; reached 10, which is within the
+  acceptable good-faith range documented in the assignment given the access constraints below)
+
+Deltas found: 0 dimensions with a confirmed journal-specific style delta from FIELD_SKILL (econ-field-writing-style).
+  One PRACTICE ONLY / low-prevalence observation logged (not a style delta): sampled titles/abstracts
+  frequently foreground "asymmetry/asymmetric" as the analytical object, reflecting journal scope/thematic
+  fit rather than a prose convention.
+
+FIELD_SKILL overrides: none
+
+Access-limitation notes:
+- The ScienceDirect Guide for Authors page (sciencedirect.com/journal/the-journal-of-economic-asymmetries/publish/guide-for-authors)
+  returned HTTP 403 on every fetch attempt in this session (direct URL and via journals.elsevier.com redirect).
+  No independent mirror or secondary source reproducing this journal's specific guide-for-authors text
+  (word limits, abstract format, table/figure rules, explicit prohibitions) was found via web search.
+  HARD_CONSTRAINTS section in the skill is therefore marked "not accessible" rather than fabricated.
+- Full text of sampled articles was not accessible (paywalled); spot-check relied on abstracts, keywords,
+  and JEL codes retrieved via IDEAS/RePEc (ideas.repec.org), which was sufficient to assess abstract format,
+  keyword density, and topical framing, but not sentence-level style, citation density by section, or
+  structural section-heading conventions within the body text.
+- No deviations from econ-field-writing-style were confirmed given the available evidence; the skill file
+  states "Follows FIELD_SKILL norm" for all style dimensions and documents the access limitations transparently
+  rather than asserting unconfirmed journal-specific rules.

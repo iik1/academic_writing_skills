@@ -1,0 +1,17 @@
+Journal: Behavioral and Brain Sciences
+Slug: behavioral-and-brain-sciences
+ABS: 4
+Field: PSYCH (GENERAL)
+
+Articles fetched: 6 directly (Binz et al. 2024 target article PDF outline; Coombs & Trestman 2025 target article abstract page; Rosenholtz 2025 author response abstract page; Belledonne & Yildirim 2025 commentary abstract page; Chater & Loewenstein 2023 author response abstract page; plus additional 2023-2025 target articles surfaced via WebSearch snippets only, not individually fetched).
+
+Early stop triggered: No — stopped after delta set stabilised (guideline-derived hard constraints strongly dominate; article spot-checks confirmed but added no new dimensions beyond ~6 articles). Full text is largely paywalled on Cambridge Core, so most spot-checks were at abstract/metadata/outline level, consistent with task instructions.
+
+Deltas found: 3 dimensions
+  - Structural Deviations (dual abstract 100w+250w; mandatory numbered sub-headings for commentator cross-reference) — ENFORCED
+  - Other Journal-Specific Patterns: broader/more thematic keyword lists — PRACTICE ONLY
+  - Other Journal-Specific Patterns: programmatic/thesis-forward abstract framing — FIELD DEFAULT (already anticipated by FIELD_SKILL's note on review/theoretical journals)
+
+FIELD_SKILL overrides: Dual-abstract requirement (100-word short + 250-word long) and mandatory numbered headings/subheadings override the field's generic single-abstract/IMRaD-heading assumption for this journal.
+
+Access-limitation notes: Full text of target articles, commentaries, and author responses is behind a Cambridge Core paywall; assessment relies on the publisher's author-instructions pages (fetched in full), one openly hosted target-article PDF (structure/outline visible, not full body text), and Cambridge Core abstract/metadata pages for the remaining sampled articles. This is sufficient to confirm the guideline-stated structural requirements (dual abstract, numbered headings, keyword count/order, commentary/response format) but full-text voice/statistical-reporting comparison beyond FIELD_SKILL's existing BBS notes was not independently verifiable beyond abstract-level text.

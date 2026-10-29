@@ -1,0 +1,88 @@
+DELTA DETECTION REPORT
+Small Business International Review
+
+Journal: Small Business International Review
+Slug: small-business-international-review
+ABS Rating: 1
+Field: ENT-SBM (Entrepreneurship and Small Business Management)
+Publisher: AECA/UPCT (Spanish Accounting and Business Administration Association and Universidad Politecnica de Cartagena)
+Guidelines URL: https://sbir.upct.es/index.php/sbir/about/authorguidelines
+
+---
+
+ARTICLES EXAMINED
+5 articles accessed (all from Vol. 10 No. 1, 2026):
+1. Toward sustainable strategies and digitalization: The impact on firm performance in Mexican manufacturing companies
+2. Measuring digital maturity in MSMEs: An integrated statistical model of digitization, innovation, and sustainability
+3. Systematic review of business support practice: Establishing design features
+4. The sustainability of social enterprises in Nairobi, Kenya: A micro-level agency focus on metacognitive awareness
+5. The show must go on: The role of managers in promoting innovation among Armenian SMEs
+
+Early Stop Triggered: No (all accessible; adequate sample for delta detection)
+
+---
+
+FIELD_SKILL BASELINE OVERRIDES
+
+Hard Constraints Extracted from Author Guidelines:
+- Max 8,000 words (not specified in FIELD_SKILL)
+- APA 7th edition (FIELD_SKILL silent)
+- Abstract 150–200 words (FIELD_SKILL silent on length)
+- Section order mandated: Introduction → Theory and Research Hypotheses → Research Methodology → Results → Discussion and Conclusions
+- Max 3 heading levels, numbered (1, 1.1, 1.1.1)
+- Practical Implications near-universal in Discussion (aligns with FIELD_SKILL)
+- English only, gender-neutral language required, no previously published material, no simultaneous submission
+
+---
+
+DELTAS FOUND: 3 Major
+
+1. VOICE AND REGISTER (ENFORCED DELTA)
+   FIELD_SKILL: First-person plural ("we test," "we argue") throughout, including theory/hypothesis sections. Active voice default; passive selective in methods only.
+   SBIR Practice: Passive and third-person constructions dominate all sections (abstract, introduction, results, discussion). First-person plural appears only sparingly in methodology. This is consistent across all 5 articles.
+   Classification: ENFORCED (reflected in formal-tone requirement; confirmed in all articles)
+
+2. TONE AND PROFESSIONALISM (PRACTICE ONLY DELTA)
+   FIELD_SKILL: Formal but not stiff; rhetorical framing devices (explicit "contributions" enumeration, signposting) are expected.
+   SBIR Practice: More formal and restrained. Signposting phrases ("we contribute in three ways") absent. Contributions embedded in discussion sections rather than enumerated. Creates greater authorial distance.
+   Classification: PRACTICE ONLY (observed consistently but not mandated in guidelines)
+
+3. HEDGING AND EPISTEMIC CAUTION (PRACTICE ONLY DELTA)
+   FIELD_SKILL: Hedging concentrated in Discussion/Limitations; Results section uses "direct, unhedged declarative language."
+   SBIR Practice: Hedging language ("suggests," "may," "appears," "indicates") throughout results and discussion. More conservative scholarly practice.
+   Classification: PRACTICE ONLY (reflects methodological caution; not prescribed)
+
+---
+
+SECONDARY OBSERVATIONS (PRACTICE ONLY, NOT ENFORCED)
+- Practical Implications: Present but variable structure (sometimes embedded as "research scope" or "governance implications" rather than distinct subsection)
+- Null Findings: Discussed substantively rather than downplayed; reflects transparency ethos
+- Contextual Grounding: Articles ground findings in specific regional/institutional contexts (Armenia, Kenya, Mexico), not abstract universals
+
+---
+
+CONVERGENCE WITH FIELD BASELINE
+All other dimensions align with FIELD_SKILL norms:
+- Article structure (Introduction–Theory–Methods–Results–Discussion–Conclusion)
+- Methods transparency and procedural detail
+- Construct measurement reporting (Cronbach's α, scales)
+- Robustness checks and supplementary analyses
+- Results reporting (tables, correlation matrices, descriptive statistics)
+- Citation density (high in introduction/theory, lower in methods/results, moderate in discussion)
+- Literature engagement (paraphrase-dominant, sparse direct quotation)
+
+---
+
+KEY SUBMISSION RECOMMENDATIONS
+1. Use passive/third-person voice, especially in abstract and introduction, rather than first-person plural default
+2. Address null findings and limitations transparently; do not downplay
+3. Ground findings in specific SME contexts, regions, and policy environments
+4. Emphasize practical implications for practitioners and policymakers over theoretical novelty (aligns with ABS 1 tier focus)
+5. Avoid excessive self-citation and prioritize recent sources (last 5 years)
+
+---
+
+ACCESS LIMITATIONS
+None. All guidelines and articles accessed via public web pages (journal is Diamond Open Access). No institutional login or paywalls encountered.
+
+Report Generated: 2026-07-02

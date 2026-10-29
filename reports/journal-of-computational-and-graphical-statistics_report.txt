@@ -1,0 +1,20 @@
+Journal: Journal of Computational and Graphical Statistics
+Slug: journal-of-computational-and-graphical-statistics
+ABS: 3
+Field: ECON
+
+Articles fetched: 3 (abstract/title-level via search snippets only; full text and guidelines inaccessible)
+Early stop triggered: yes — tandfonline.com returned HTTP 403 Forbidden on every WebFetch attempt (guidelines page, about-this-journal page, individual article abstract pages, and issue table-of-contents pages). Fell back to WebSearch snippets and one secondary bibliometric source (R-bloggers summary of an empirical study of 80 JCGS articles' code/reproducibility practices). Did not reach the 15-article target; stopped after exhausting the accessible chain (WebSearch snippets, arXiv cross-search, R-bloggers secondary analysis).
+
+Deltas found: 2 substantive
+  1. Reproducibility/supplementary code expectation (ENFORCED) — corroborated by empirical study showing 71/80 non-editorial JCGS articles included computer code in supplementary materials (R dominant at 57%, then MATLAB, C, C++). No equivalent expectation exists in FIELD_SKILL.
+  2. Structural routing of proofs/simulations/code into formal online Supplementary Materials (PRACTICE ONLY) — more systematic than FIELD_SKILL's general "standalone appendix" description.
+  Additional low-confidence/PRACTICE-ONLY notes flagged but not asserted as norms: heavier algorithmic/computational register in voice; algorithmic performance (convergence, runtime) as a primary reported result category alongside FIELD_SKILL's magnitude-reporting norm.
+
+FIELD_SKILL overrides: none confirmed as ENFORCED overrides of FIELD_SKILL text; the reproducibility/code point is additive (FIELD_SKILL is silent on it, not contradicted).
+
+Access-limitation notes:
+- tandfonline.com (Taylor & Francis) blocked all WebFetch requests with 403 Forbidden, including the Instructions for Authors / about-this-journal page and every article abstract/full-text URL attempted.
+- No structured/unstructured abstract format, word/page limits, citation style, heading conventions, table/figure rules, or explicit prohibitions could be confirmed from a primary guidelines source. These sections in the SKILL.md are marked "Not accessible in this environment" rather than fabricated.
+- Article sample is 3 title/abstract-level snippets plus one secondary bibliometric study (n=80 articles, but only on the single dimension of code/software inclusion), well short of the 15-article target. Confidence in structural and voice deltas is low and flagged PRACTICE ONLY / low-prevalence throughout the skill file.
+- Recommend a follow-up pass with institutional EZProxy or library access to tandfonline.com to properly verify Hard Constraints and expand the article sample.

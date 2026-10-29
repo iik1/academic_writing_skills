@@ -1,0 +1,32 @@
+Journal: Advances in Accounting Behavioral Research
+Slug: advances-in-accounting-behavioral-research
+ABS: 2
+Field: ACCOUNT
+
+Articles fetched: 12 (titles/abstracts only, via WebSearch snippets and one epdf.pub mirror; no full text)
+Early stop triggered: no (exhausted reasonable good-faith access chain; all Emerald pages CAPTCHA/403-blocked)
+
+Deltas found: 2 dimensions
+  - Structural Deviations (GUIDELINE ONLY / PRACTICE ONLY): Journal explicitly welcomes and regularly publishes
+    literature review, theoretical, methodological, and replication chapters, not just hypothesis-driven
+    empirical IMRaD chapters. Confirmed by scope language and by sampled TOC (review/agenda-setting chapters
+    alongside empirical experiments/surveys).
+  - Other Journal-Specific Patterns (PRACTICE ONLY): Heavier and more explicit grounding in organizational-behavior/
+    psychology theory (organizational justice, narcissism, job characteristics model) than typical ACCOUNT
+    mainstream quantitative baseline; edited-volume format with single volume editor rather than rolling
+    editorial board.
+
+FIELD_SKILL overrides: none (no journal requirement directly contradicts FIELD_SKILL; only additions/clarifications)
+
+Hard constraints confirmed: APA citation style; single combined Word document for text/tables/figures;
+separate Word document for experimental materials/survey instruments; title page with concise abstract.
+Word/page limits and heading conventions: NOT confirmed (inaccessible).
+
+Access-limitation notes:
+- Every direct WebFetch to emerald.com and bookstore.emerald.com returned a CAPTCHA wall or HTTP 403.
+- All findings reconstructed from WebSearch result snippets (abstract excerpts, TOC listings, journal-metrics
+  aggregator pages) plus one successful full fetch of an epdf.pub mirror of Volume 12 (2 chapter abstracts).
+- No full manuscript body text was read for any article; statistical reporting, voice/register, and citation
+  density deltas are therefore marked FIELD DEFAULT on abstract-level evidence only, not full-text confirmation.
+- This is a lower-confidence, good-faith reconstruction appropriate to the ABS 2 tier's thin public information,
+  as instructed.

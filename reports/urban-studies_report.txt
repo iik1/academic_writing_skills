@@ -1,0 +1,16 @@
+Journal: Urban Studies
+Slug: urban-studies
+ABS: 3
+Field: REGIONAL STUDIES, PLANNING AND ENVIRONMENT
+
+Articles fetched: 9 confirmed Urban Studies articles (abstract/front-matter level, via search-engine snippet extraction); 2 additional candidates found but excluded from the count because they turned out to belong to a sister SAGE journal (Dialogues in Urban Research), not Urban Studies itself.
+
+Early stop triggered: No hard stop, but access chain was exhausted before reaching 15 - every direct fetch to journals.sagepub.com (full-text and abstract pages) returned HTTP 403 in this environment. Continued via WebSearch snippet extraction and secondary sources (RePEc/IDEAS, ResearchGate, institutional repositories) until the delta set stabilised around 9-11 articles; additional articles were unlikely to surface new deltas given full text was inaccessible throughout.
+
+Deltas found: 2
+- Structural Deviations (RELAXATION, ABS 3): journal explicitly declines to mandate fixed section labels/sequence, unlike more prescriptive ABS 4 norms in FIELD_SKILL; relies on introduction/conclusion as structural anchors instead.
+- Other Journal-Specific Patterns (PRACTICE ONLY): notably broad methodological heterogeneity across spot-checked articles (ethnographic, conceptual, quantitative survey-based, longitudinal quantitative) even relative to FIELD_SKILL's already-flexible field baseline.
+
+FIELD_SKILL overrides: None on voice, argumentation, hedging, or statistical reporting - all confirmed FIELD DEFAULT. All genuinely journal-specific content sits in Hard Constraints (word limits by article type, unstructured 250-word abstract, SAGE Harvard citation style, table/figure upload mechanics, anonymization/self-citation rules for double-blind review) rather than in prose-style deltas.
+
+Access-limitation notes: journals.sagepub.com blocks WebFetch (403) for both full-text and abstract-only pages in this environment. Two PDFs were successfully fetched and read directly: the journal's official "Formatting a paper for submission" guidance PDF (authoritative, detailed) and a RePEc/IDEAS abstract page. All article-level evidence otherwise came from WebSearch-extracted snippets/secondary summaries (ResearchGate, IDEAS, editorial abstracts), not raw full text, so fine-grained citation-density and paragraph-level claims could not be independently verified and are recorded as FIELD DEFAULT by absence of contrary evidence rather than positive confirmation.

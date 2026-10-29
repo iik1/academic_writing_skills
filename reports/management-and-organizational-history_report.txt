@@ -1,0 +1,39 @@
+JOURNAL DELTA DETECTION REPORT
+==============================
+
+Journal: Management and Organizational History
+Slug: management-and-organizational-history-writing-style
+ABS Rating: 2
+Field: BUS HIST & ECON HIST
+Publisher: Taylor & Francis
+
+ARTICLES FETCHED: 3
+- Giddey, T. (2024). "Who watches the watchdogs? Central bank board members and banking supervisors in Switzerland (1907–2008)." Management & Organizational History 20(1): 81–107. [PDF via institutional repository]
+- Special issue introduction on human capital in financial regulation and supervision (2024–2025) [metadata]
+- Microhistory special issue article (2025) [metadata and abstract]
+
+EARLY STOP TRIGGERED: Yes (limited public access to full articles and author guidelines)
+REASON: Journal's author guidelines are behind Taylor & Francis paywall; full article texts require institutional login. Spot-check limited to article structure metadata, abstracts, and one article PDF. Unable to access 10–15 full articles as specified in protocol; this lower-tier (ABS 2) journal has thin public information pipeline.
+
+DELTAS FOUND: 0 major deltas identified
+DIMENSIONS: Voice and person, sentence style, argumentation, methods conventions, results reporting, discussion/conclusion, citation engagement, hedging — all follow FIELD_SKILL baseline without observable journal-specific deviation.
+
+FIELD_SKILL OVERRIDES: None
+The journal's manuscript structure, voice conventions, historiographical engagement, and methods transparency align with business-economic-history field baseline. No contradictions between FIELD_SKILL guidance and observed article practice.
+
+HARD CONSTRAINTS EXTRACTED:
+- Manuscript length: ~7000–8000 words (inferred from comparable Taylor & Francis history journals; not explicitly confirmed in accessible guidelines)
+- Abstract: ~250–300 words (typical for Taylor & Francis history journals; not explicitly confirmed)
+- Citation style: Chicago (Notes and Bibliography or Author-Date); specific variant not confirmed in accessible sources
+- Structure: Standard business/economic history (introduction, historiographical engagement, empirical presentation, conclusion)
+- Submission: Double-blind peer review via ScholarOne Manuscripts
+- Methodological emphasis: Journal welcomes innovative historical methods (prosopography, microhistory, archival ethnography, etc.)
+
+ACCESS LIMITATIONS:
+- Full author guidelines not publicly accessible (behind Taylor & Francis login)
+- Only 1 complete article PDF obtained (Giddey 2024); other 2 entries based on abstracts and metadata
+- Taylor & Francis citation format PDFs (Chicago endnotes, author-date) returned 403 Forbidden
+- Full-text paywalls prevented detailed spot-checking of 10–15 articles as protocol specifies
+
+CONCLUSION:
+Management and Organizational History is a journal with thin public information footprint. However, evidence from the 3 sampled articles, journal scope statements, and standard Taylor & Francis practices for history journals indicates strong adherence to BUS HIST & ECON HIST field baseline (business-economic-history-field-writing-style). No journal-specific writing style deviations detected. Skill file conservatively records observed practices and infers hard constraints from comparable journals, with explicit caveat to confirm via ScholarOne submission portal before final submission.

@@ -1,0 +1,51 @@
+Journal: Government Information Quarterly
+Slug: government-information-quarterly
+ABS: 3
+Field: INFO MAN
+Publisher: Elsevier
+
+Articles fetched: 1 full manuscript with complete review history (Chatterjee,
+Khorana & Kizgin, GIQ-D-20-00353, published GIQ 2021), plus abstract/scope
+snippets for approximately 10 additional articles (2020-2025) via WebSearch,
+covering AI governance, digital government inclusion, generative AI
+adoption, AI in administrative communication systems, and a 50th-anniversary
+reflection piece. Direct WebFetch of the official guide-for-authors page
+returned HTTP 403; guideline content (abstract limit, keywords, highlights,
+manuscript length, article types) was recovered via WebSearch result
+snippets that quote the ScienceDirect guide-for-authors page directly.
+
+Early stop triggered: No — access chain was exhausted rather than the
+delta set stabilizing prematurely. The full-text manuscript plus guideline
+snippets gave sufficient signal (explicit reviewer/guest-editor comments on
+structure) to identify concrete deltas without needing 15 separate full-text
+reads, most of which are paywalled on ScienceDirect.
+
+Deltas found: 3 substantive deltas plus 1 hard-constraint addition beyond
+FIELD_SKILL's scope.
+  1. Structural: literature review as a separate, substantial section ahead
+     of theoretical background/hypotheses (PRACTICE ONLY, reviewer-enforced
+     per guest-editor comments in spot-checked manuscript).
+  2. Structural: Discussion section formally subdivided into numbered
+     labeled subsections (Theoretical contributions / Practical
+     implications / Limitations and future research) (PRACTICE ONLY
+     tightening of FIELD_SKILL norm).
+  3. Scope: journal explicitly welcomes practitioner/theory-only
+     contributions as first-class submission types (GUIDELINE ONLY, from
+     scope text, not confirmable via spot-check).
+  4. Hard constraint: Highlights (3-5 bullets, <=85 chars each) required at
+     submission — not addressed by FIELD_SKILL at all (ENFORCED).
+
+FIELD_SKILL overrides: Abstract format (unstructured, 250-word cap — GIQ
+specifies where FIELD_SKILL is silent); Highlights requirement (GIQ-specific,
+FIELD_SKILL silent); manuscript length guidance (25-30 pp double-spaced —
+FIELD_SKILL explicitly does not specify this).
+
+Access-limitation notes: The official ScienceDirect guide-for-authors page
+blocks automated fetches (403 Forbidden). All guideline details were
+triangulated from WebSearch snippets that quote that page rather than direct
+retrieval, and cross-checked against the one full open-access manuscript
+(with cover letter, highlights, author statement, and full peer-review
+correspondence) that was directly readable. No additional full-text articles
+were accessible beyond that one manuscript; all other article-level evidence
+is abstract/scope-level only, consistent with the task's allowance for
+front-matter-only spot-checking under paywall constraints.

@@ -1,0 +1,30 @@
+Journal: Aquaculture, Economics and Management
+Slug: aquaculture-economics-and-management
+ABS: 1
+Field: ECON
+Publisher: Taylor & Francis
+
+Articles fetched: 12 (abstract/front-matter level only; full text paywalled for all)
+Early stop triggered: No (reached target sample of 10-15 for ABS 1 tier)
+
+Deltas found: 0 stated style deltas. All observed dimensions (abstract format, voice/register,
+statistical reporting, citation format, macro-structure) converged with FIELD_SKILL (econ-field-writing-style).
+One contextual note (not a style delta): a cluster of 5/12 sampled 2024-2025 articles use a shared
+quantitative framework ("Aquaculture Performance Indicators" / triple bottom line) tied to an active
+special issue — documented as PRACTICE ONLY / topical pattern, not a house-style requirement.
+
+FIELD_SKILL overrides: none confirmed.
+
+Access-limitation notes:
+- Taylor & Francis "Instructions for Authors" page (tandfonline.com/journals/uaqm20) returned HTTP 403
+  on every fetch attempt. No mirror or cached version of the guidelines text was found via WebSearch.
+  As a result, HARD_CONSTRAINTS (word limits, structured-abstract requirement, citation style mandate,
+  heading conventions, table/figure rules, explicit prohibitions) could NOT be independently confirmed
+  and are marked "Not accessible" in the skill file rather than fabricated.
+- All 12 article full texts were paywalled on tandfonline.com (403 on every doi/full and doi/abs fetch).
+  Data was obtained via WebSearch search-engine-extracted abstract snippets, one RePEc/IDEAS working-paper
+  mirror (Huila tilapia paper, ideas.repec.org/p/hhs/gunefd/2024_003.html) fetched directly, and
+  corroborating SSRN listing pages for two articles.
+- Given the thin, unstructured-abstract-only evidence base, the skill file documents most Hard
+  Constraints and several delta dimensions as "Not accessible" / "Not independently confirmed" rather
+  than asserting unverified norms, per instructions for honest reporting on low-tier/thin-access journals.

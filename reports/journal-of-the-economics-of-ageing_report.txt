@@ -1,0 +1,61 @@
+JOURNAL WRITING SKILL REPORT
+=============================
+
+Journal Name: Journal of the Economics of Ageing
+Slug: journal-of-the-economics-of-ageing-writing-style
+ABS Rating: 2
+Field: ECON
+Publisher: Elsevier
+
+ARTICLES FETCHED: 12
+Articles examined (2025–2026 publications):
+- Gaggero, Gil & Jiménez-Rubio (2026): Genetic risk for ADHD and later-life health
+- Haas & Sunde (2025): Decomposing longevity
+- Moriyama: Informal caregiving and labor supply at older ages
+- Giachello, Ugolini & Verzulli (2026): Diabetes management in an ageing society
+- Waldenberger: Impact of demographic change on aggregate consumption (Japan)
+- Schindler & Scott (2025): Macroeconomic impact of chronic disease (UK)
+- Mérette & Navaux (2026): Consumption and public transfers (Canada)
+- Barszczewski et al. (2025): Women's response to increased care needs
+- Bloom & Scott (2025): Introduction to special issue on economics of ageing
+- 3 additional 2025–2026 articles on aging economics topics
+
+EARLY STOP TRIGGERED: No
+All 12 articles were sufficient to establish consistent patterns. No additional articles required.
+
+DELTAS FOUND: 3 major deltas
+
+1. Abstract Format Constraint (ENFORCED RELAXATION)
+   - Journal requires unstructured abstracts (single paragraph), not structured format
+   - Max 250 words (standard)
+   - Must stand alone without internal citations when possible
+   Differs from: Some ABS 4*/4 journals use structured abstracts
+
+2. Highlights Requirement (ENFORCED, journal-specific)
+   - 3–5 bullet points, max 85 characters each, including spaces
+   - Required for submission to this journal
+   - Not part of FIELD_SKILL baseline; Elsevier-specific submission requirement
+
+3. Keywords Requirement (ENFORCED, slight variation)
+   - Exactly 1–7 keywords in English
+   - Avoid multi-word phrases using "and" or "of"
+   - More prescriptive than typical field defaults
+
+FIELD_SKILL OVERRIDES: None
+No sections of FIELD_SKILL are contradicted or overridden by this journal's requirements.
+The journal adheres to standard ECON field norms for:
+- Voice and person (first-person plural "we")
+- Citation style (author-year, parenthetical)
+- Argumentation structure (clear results announcement, roadmap, positioning)
+- Methods conventions (mixed tense, procedural detail)
+- Results reporting (quantitative specificity, tables primary)
+- Hedging norms (low hedging, clear claims preferred)
+
+ACCESS LIMITATIONS:
+- ScienceDirect guide-for-authors page returned HTTP 403 Forbidden
+- Hard constraints extracted from search-indexed snippets and Paperpile citation guide
+- Full-text articles paywalled; analysis based on abstracts, metadata, and article section headings accessible via IDEAS/RePEc and ScienceDirect abstract pages
+- This is a good-faith effort sample at ABS 2 tier with publicly available information sources
+
+SKILL FILE CREATED: Yes
+Location: /skills/economics/journal-of-the-economics-of-ageing_SKILL.md

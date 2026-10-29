@@ -1,0 +1,38 @@
+Journal: Industry and Innovation
+Slug: industry-and-innovation
+ABS: 3
+Field: INNOV
+
+Articles fetched: 10 (abstract/front-matter level; full text paywalled)
+Early stop triggered: No (stopped at 10 due to access-chain exhaustion and delta
+stabilisation — no new deltas emerging after article ~6)
+
+Deltas found: 1 (low-confidence)
+  - Structural Deviations: colon-subtitle title pattern ("hook: descriptive
+    subtitle"), PRACTICE ONLY / moderate prevalence, not stated in guidelines.
+  All other dimensions (structure, voice, sentence style, argumentation,
+  methods, results reporting, discussion/conclusion, citation density,
+  hedging) converged with FIELD_SKILL — labeled FIELD DEFAULT.
+
+FIELD_SKILL overrides: none (this journal's HARD_CONSTRAINTS align with or
+  are silent on FIELD_SKILL; ABS 3 tier cannot redefine the baseline per
+  instructions)
+
+Access-limitation notes:
+- tandfonline.com/journals/ciai20/for-authors and /about-this-journal both
+  returned HTTP 403 Forbidden to WebFetch. archive.org was unavailable in
+  this environment. Guidelines content (APA 7th ed. citation style,
+  double-anonymized peer review, 8-week first decision, 2-round max) was
+  reconstructed from WebSearch snippets referencing the journal page and
+  generic Taylor & Francis author-services pages.
+- No dedicated word/page limit or structured-abstract requirement could be
+  confirmed for this specific journal; standard T&F social-science defaults
+  assumed absent contrary evidence.
+- Article sampling relied on IDEAS/RePEc (https://ideas.repec.org/s/taf/indinn.html)
+  for the article list and on WebSearch-extracted abstract snippets from
+  tandfonline.com abstract pages, since tandfonline.com full-text and
+  abstract pages could not be directly fetched (403). One working-paper
+  mirror (egu/wpaper) provided a verifiable full abstract for cross-check.
+- No JEL codes or structured keywords were visible for any sampled article
+  on RePEc, consistent with the journal's management/organizational-studies
+  orientation rather than a delta.

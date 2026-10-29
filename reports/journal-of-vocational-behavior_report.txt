@@ -1,0 +1,16 @@
+Journal: Journal of Vocational Behavior
+Slug: journal-of-vocational-behavior
+ABS: 4
+Field: PSYCH (WOP-OB)
+Articles fetched: 6 (titles/scope; 1 with full abstract+keywords; full text inaccessible - ScienceDirect returned 403 on all direct fetches)
+Early stop triggered: No (access chain exhausted rather than delta convergence; sample smaller than target 15 due to ScienceDirect blocking direct WebFetch of article/issue pages)
+
+Deltas found: 2
+1. Scope narrowing (ENFORCED) - JVB explicitly restricts to individual/career-level decision-making about work and careers, excluding organizational/employer-level variable studies common elsewhere in WOP-OB. Confirmed via guide-for-authors scope text and consistent with titles sampled.
+2. Length cap (ENFORCED, journal-specific hard constraint not covered by FIELD_SKILL) - 8,000-word limit excluding references.
+
+Other hard constraints recorded (not deltas from FIELD_SKILL per se, since FIELD_SKILL explicitly does not specify these): unstructured abstract ≤250 words, APA citation style, double-anonymized review with separate title page, keywords max 6 (British spelling, no "and"/"of" constructions), highlights 3-5 bullets/125 characters each in separate file, editable source files only (no PDF), single-column Word / double-column LaTeX only.
+
+FIELD_SKILL overrides: none beyond the stated hard constraints above (voice, structure, methods, results, discussion, hedging all follow FIELD_SKILL norm - no deltas observed in sampled titles/abstracts).
+
+Access-limitation notes: ScienceDirect (sciencedirect.com) returned HTTP 403 on every direct WebFetch attempt (guide-for-authors page, issue table-of-contents pages, individual article abstract pages). All information was triangulated through WebSearch result snippets (which quote Elsevier's guide-for-authors text) and one full abstract/keyword set recovered via a VU Amsterdam institutional repository mirror (research.vu.nl). Could not confirm citation-density, hedging, or results-reporting deltas from full text since no full-text articles were accessible; these are recorded as FIELD DEFAULT based on scope/abstract-level evidence and the general presumption that ABS 4 journals in this field align with FIELD_SKILL absent contrary evidence.

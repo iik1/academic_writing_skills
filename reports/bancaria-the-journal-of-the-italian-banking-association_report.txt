@@ -1,0 +1,18 @@
+Journal: Bancaria The Journal of the Italian Banking Association
+Slug: bancaria-the-journal-of-the-italian-banking-association
+ABS: 1
+Field: FINANCE
+
+Articles fetched: 0 full-text; ~15+ article titles/author listings reviewed across issues from 2007, 2009, 2018, 2019, 2020 via EconPapers and IDEAS/RePEc journal listing pages. No abstracts or full text were accessible for any article (not indexed on RePEc with abstracts; publisher site does not expose free full text).
+
+Early stop triggered: No (Step 0 dedupe check found no existing skill for this journal; proceeded through all phases).
+
+Deltas found: 2 substantive, both structural/format (ENFORCED, from guidelines, and consistent with the short-article pattern observed in titles):
+  1. Structure - fixed 3-part template (title page / Italian abstract page / body+bibliography), no mandated IMRaD subsections. RELAXATION vs FIELD_SKILL.
+  2. Length - 10-20 pages (~2,500 characters/page), far shorter than typical ABS 4/4* finance papers. RELAXATION vs FIELD_SKILL.
+  Additional minor deltas: Italian-language 100-word abstract requirement; same-year citation lettering (2002a, 2002b); prescriptive bibliography template; tables in Word/graphs in Excel as separate files; two-tier review (refereed Forum vs non-refereed practitioner sections).
+  Voice/register, statistical reporting, and citation density could NOT be assessed (no full text accessible) - flagged explicitly as not assessed rather than guessed.
+
+FIELD_SKILL overrides: Structure and Length sections of FIELD_SKILL are overridden per Hard Constraints above (this is an ABS 1 relaxation, not a redefinition of field norms).
+
+Access limitation notes: This is a low-tier, thinly-indexed journal. No full-text articles, PDFs, or abstract text were retrievable through WebSearch/WebFetch (RePEc listings show titles/authors/page ranges only; publisher site is paywalled beyond the editorial policy page). Spot-check is therefore based on title patterns, author affiliations (many practitioner/bank-staff authors), and section structure rather than close reading of article text. This limitation is documented in the skill file itself. Sample skews toward practitioner-oriented, single-topic applied pieces rather than confirmed peer-reviewed Forum articles specifically, since RePEc listings do not distinguish Forum (refereed) from other (non-refereed) sections.

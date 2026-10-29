@@ -1,0 +1,59 @@
+REVIEW OF ECONOMIC DESIGN - SKILL GENERATION REPORT
+=====================================================
+
+Journal: Review of Economic Design
+Slug: review-of-economic-design
+ABS Rating: 2
+Field: ECON
+Publisher: Springer Nature
+
+SUMMARY
+-------
+Generated journal-specific writing skill for Review of Economic Design (ABS 2, ECON).
+Skill file saved to: skills/economics/review-of-economic-design_SKILL.md
+
+ARTICLE SAMPLE
+--------------
+Articles fetched: 11 (titles, authors, metadata via Google Scholar)
+Sample years: 2023-2025
+Access method: Google Scholar abstracts and article listings (full texts paywalled)
+
+Articles identified:
+1. Budish, E. (2025). Pandemic response economics
+2. Lu, Y. (2025). Meta-analysis on preference reversals
+3. Rachel, L. (2025). Epidemic waves and population vulnerability
+4. Correani & Morganti (2025). Environmental regulations and markup behavior
+5. McAdams & Day (2025). Democratic majorities and epidemic policy
+6. Drugov & Ryvkin (2025). Discouragement effect in competitive contests
+7. Peng (2025). In-group preferences in charitable giving
+8. Moreno-Ternero & Österdal (2023). Entitlements to continued life and population health
+9. Chen, Yan, Kang & Liu (2023). Asymmetric price adjustment in agricultural commodity markets
+10. Sato (2023). Robust implementation in sequential information design
+11. Heo & Lee (2023). Allocating emissions: dynamic claims problem
+
+EARLY STOP TRIGGERED: No
+(Sample size considered adequate for ABS 2 journal given consistent field-level norms)
+
+DELTAS FOUND: 2 dimensions examined
+- Voice intensity: PRACTICE ONLY / LOW PREVALENCE (marginal, not enforced)
+- Scope emphasis on institutional design: PRACTICE ONLY / SCOPE EMPHASIS (content emphasis, not style delta)
+
+FIELD_SKILL OVERRIDES: None
+(Journal conforms to ECON field baseline; ABS 2 status represents selectivity tier, not different standards)
+
+ACCESS LIMITATIONS
+------------------
+- Official Springer submission guidelines (https://www.springer.com/journal/10058) require authentication
+- Full-text articles paywalled; access limited to abstracts, titles, and author metadata
+- Information derived from:
+  * Google Scholar article listings (public access)
+  * Wikipedia journal stub (limited scope info)
+  * Springer standard economics journal practices (inference)
+- No access to:
+  * Springer's official author guidelines document
+  * Full-text manuscript samples
+  * Submission portal instructions
+
+VERDICT
+-------
+Skill file generated with appropriate documentation of access constraints. Journal appears to follow standard ECON field norms with no major deviations. Spot-check confirmed 11 articles spanning policy design applications (pandemic, auctions, environmental), institutional design, and economic theory. No evidence of non-standard formatting, citation, or voice requirements beyond field baseline.

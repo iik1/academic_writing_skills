@@ -1,0 +1,22 @@
+Journal: Measuring Business Excellence
+Slug: measuring-business-excellence
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 10 distinct articles (titles/abstracts only, via WebSearch snippets and abstract-page metadata). Full text and the journal's own author-guidelines page were inaccessible (Emerald returned HTTP 403 / CAPTCHA challenge for all direct WebFetch attempts to emerald.com and emeraldgrouppublishing.com).
+
+Early stop triggered: No — good-faith sample of 10 reached per ABS 1 allowance; further search did not surface a fetchable full author-guidelines page.
+
+Deltas found: 1 structural/formatting delta stated as ENFORCED
+  - Structured abstract with mandatory Purpose / Design-methodology-approach / Findings / Originality-value sub-headings (Emerald standard template, max 250 words), vs. FIELD_SKILL's either/or unstructured-or-structured abstract description.
+  - Harvard/author-date reference style (Emerald house style) vs. APA specified in FIELD_SKILL.
+  All other dimensions (voice, statistical reporting, citation density, hedging, discussion structure) follow FIELD_SKILL norm — no deltas observed in the accessible sample.
+
+FIELD_SKILL overrides: Abstract format (structured, Emerald sub-headings, 250-word cap) and citation style (Harvard, not APA) override FIELD_SKILL where they conflict.
+
+Access-limitation notes:
+- emerald.com and emeraldgrouppublishing.com pages (journal homepage, author guidelines, issue tables of contents, individual article pages) all returned HTTP 403 or CAPTCHA walls to WebFetch in this environment.
+- No public author-guidelines PDF or mirror was found via WebSearch.
+- The journal is not indexed on RePEc/IDEAS, limiting alternative access routes.
+- All 10 sampled articles were accessed only via WebSearch result snippets (titles + short abstract excerpts), not full text or full abstract pages. This is sufficient to confirm the Emerald structured-abstract format is in active use, but does not permit close reading of body-section structure, hedging language, or citation density beyond what FIELD_SKILL already specifies.
+- Hard Constraints on manuscript length and heading conventions are inferred from Emerald's standard cross-journal template rather than confirmed against MBE's own guidelines page; flagged as unconfirmed in the skill file.

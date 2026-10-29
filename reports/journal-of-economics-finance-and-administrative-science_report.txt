@@ -1,0 +1,30 @@
+Journal: Journal of Economics, Finance and Administrative Science
+Slug: journal-of-economics-finance-and-administrative-science
+ABS: 1
+Field: FINANCE
+
+Articles fetched: 10 (abstracts/front-matter only, via IDEAS/RePEc mirror; full text on emerald.com blocked by CAPTCHA/anti-bot on every attempt)
+Early stop triggered: No — reached target sample size via good-faith access chain (RePEc mirror substituted for blocked publisher site).
+
+Deltas found: 1 major, 1 practice-level
+  1. Structured abstract (ENFORCED) — Emerald's mandatory labeled-subheading structured abstract
+     (Purpose / Design-methodology-approach / Findings / Research limitations-implications /
+     Practical implications / Originality-value), ~250-word cap. Overrides FIELD_SKILL's
+     unstructured single-paragraph abstract norm. Confirmed in all 10 sampled articles, 2017-2025.
+  2. Broader topical scope + relaxed methodological rigor (PRACTICE ONLY / RELAXATION) — sampled
+     articles include survey/questionnaire-based studies with lighter identification-strategy
+     treatment than the ABS 4*/4-derived FIELD_SKILL baseline describes as standard. Consistent
+     with ABS 1 tier; a relaxation, not a new norm.
+
+FIELD_SKILL overrides: Abstract format (structured vs. unstructured) — hard override per Emerald house style.
+
+Access-limitation notes:
+- emerald.com/jefas guideline and article pages returned CAPTCHA/403 on every direct WebFetch attempt.
+- revistas.esan.edu.pe submissions page loaded but stated "this journal is not accepting submissions
+  at this time" on that particular mirror and gave no manuscript-structure detail.
+- All 10 article observations came from IDEAS/RePEc mirror pages (abstract + keywords + JEL codes
+  only, no full text). Voice/register, citation density, and statistical-reporting-section deltas
+  could not be verified against full text and are marked "Follows FIELD_SKILL norm (unconfirmed)"
+  in the skill file rather than asserted as confirmed no-delta.
+- Word/page limit: Emerald's general 1,000-4,000 word guidance could not be confirmed as enforced
+  for this journal (published articles appear longer); flagged as GUIDELINE ONLY in the skill.

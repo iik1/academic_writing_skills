@@ -1,0 +1,51 @@
+Journal: Journal of Personality and Social Psychology
+Slug: journal-of-personality-and-social-psychology
+ABS: 4
+Field: PSYCH (GENERAL)
+
+Articles fetched: 1 full-text (accepted manuscript PDF, PPID section:
+Dugan, Fraley, Gillath, & Deboeck, "Testing the Canalization Hypothesis of
+Attachment Theory," doi:10.1037/pspp0000488), plus abstract/metadata-level
+review of several additional 2024-2025 articles across ASC/IRGP/PPID
+sections via WebSearch snippets and PsycNet listings. Multiple PDF fetch
+attempts (via WebFetch) failed to extract readable text; the one
+successful full-text read was obtained by feeding the PDF through the
+Read tool directly.
+
+Early stop triggered: Yes - stopped after 1 full-text article once the
+authoritative, highly detailed APA guidelines page (which is unusually
+specific and already contains most journal-level structural/length/
+transparency requirements, broken out by the three editorial sections)
+was combined with confirmation from one full-text spot-check. Further
+full-text access was blocked by paywalls (APA/psycnet full-text PDFs
+largely inaccessible without institutional login; WebFetch could not
+extract text from several other PDFs found via search).
+
+Deltas found: 3 main dimensions
+  1. Structural Deviations - mandatory labeled "Transparency and
+     Openness" Method subsection (ENFORCED); footnote use for
+     methodological asides (PRACTICE ONLY).
+  2. Other Journal-Specific Patterns - heavy reliance on online
+     supplements for secondary/robustness/exploratory analyses, keeping
+     main text focused on primary preregistered analyses (PRACTICE ONLY,
+     but strongly and consistently observed).
+  3. Hard constraints layer - section-specific word limits (ASC 3,500
+     words Intro+Discussion; IRGP 5,000 words + 5-study cap; PPID no
+     limit but mandatory cover letter with specific disclosures), 250-
+     word abstract cap, AI-authorship prohibition/disclosure requirement,
+     masked review, CRediT author contributions, tiered color-figure
+     fees - all ENFORCED per guidelines page.
+
+FIELD_SKILL overrides: None that contradict FIELD_SKILL substantively;
+JPSP tightens/refines (adds specific numeric limits and a mandatory
+labeled subsection) rather than redefining field norms, consistent with
+its ABS 4 status.
+
+Access-limitation notes: WebFetch could not render text from most PDF
+URLs found via WebSearch/psycnet (returned raw PDF stream descriptions
+instead of content); the Read tool successfully extracted one full
+manuscript PDF that had already been downloaded via a WebFetch call to
+psycnet.apa.org/manuscript/2024-34690-001.pdf. No EZProxy/institutional
+access available. Given the unusually detailed and section-differentiated
+official guidelines page, confidence in the Hard Constraints section is
+high despite the small full-text sample.

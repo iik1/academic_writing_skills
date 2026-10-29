@@ -1,0 +1,46 @@
+Journal: Economic History Review
+Slug: economic-history-review
+ABS: 4
+Field: BUS HIST & ECON HIST
+
+Articles fetched: 9 with usable abstract-level content (via RePEc/IDEAS mirrors,
+Economic History Society summary pages, and search-engine-extracted snippets);
+5 additional article titles identified from tables of contents without accessible
+abstract text (14 total identified). Full text and the official guidelines pages
+were consistently paywalled/blocked on Wiley Online Library (HTTP 402 on every
+direct WebFetch attempt), so all findings rely on secondary access routes.
+
+Early stop triggered: No. Continued sampling until access routes (RePEc, EHS
+society site, search snippets) were exhausted; delta set stabilized after ~9
+articles with real content.
+
+Deltas found: 3 dimensions with journal-specific findings (all in Hard
+Constraints, not in Observed Deltas from FIELD_SKILL voice/stats/citation-density
+sections, which all followed FIELD_SKILL norm):
+  1. Abstract/submission requirement - additional two-sentence summary and
+     280-character marketing statement required at submission (ENFORCED, stated
+     in Notes for Contributors).
+  2. Citation/footnote mechanics - specific abbreviation conventions (pt., app.,
+     ch., fig., tab., col.) and "above/below" not "supra/infra" (ENFORCED, stated
+     in Notes for Contributors).
+  3. Anonymization requirement for initial submission - no acknowledgements or
+     self-referencing in text/footnotes (ENFORCED, stated; desk rejection risk).
+  Word length cap: guidelines state violation causes desk rejection, but exact
+  numeric limit could not be confirmed (page/PDF inaccessible) - flagged as
+  ENFORCED-but-unconfirmed rather than fabricated.
+
+FIELD_SKILL overrides: None. All voice, structure, hedging, methods, and
+reporting norms observed in the spot-checked abstracts were consistent with
+the BUS HIST & ECON HIST field baseline (business-economic-history-field-writing-style).
+
+Access-limitation notes:
+- onlinelibrary.wiley.com/page/.../forauthors.html and the Notes for
+  Contributors PDF both returned HTTP 402 Payment Required on direct WebFetch;
+  all guideline content was reconstructed from WebSearch result snippets that
+  quoted/paraphrased the page.
+- All Wiley article DOI pages (abs/full) returned HTTP 402 on direct WebFetch;
+  abstract content was obtained via RePEc/IDEAS mirrors, ehs.org.uk article
+  summary pages, and search-engine-extracted abstract snippets instead.
+- Because guideline word-limit and structure specifics are only partially
+  confirmed, the skill file flags this explicitly rather than inventing a
+  number.

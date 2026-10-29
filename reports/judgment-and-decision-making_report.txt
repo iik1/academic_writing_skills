@@ -1,0 +1,17 @@
+Journal: Judgment and Decision Making
+Slug: judgment-and-decision-making
+ABS: 3
+Field: PSYCH (GENERAL)
+
+Articles fetched: 2 full front-matter/structure spot-checks (jdm211119, jdm210706), plus the journal's own detailed style guide (jbaron.org/journal/style.htm) which functionally covers house-style rules applied across the full corpus. Additional legacy archive articles (2023+) were not accessible - journal moved to Cambridge Core hosting after ~2022 and full text is paywalled there.
+
+Early stop triggered: No (access chain exhausted at ~2 full articles; author-guidelines coverage was unusually deep and stable, so delta set converged quickly).
+
+Deltas found: 3 dimensions
+  - Voice and Register (ENFORCED - explicit banned/preferred terminology list, active voice, "subjects" preference)
+  - Structural Deviations (ENFORCED - explicit appendix-offload convention for descriptive/robustness detail)
+  - Other Journal-Specific Patterns (PRACTICE ONLY - heavy footnote use for methodological transparency)
+
+FIELD_SKILL overrides: None required - JDM's IMRaD structure, statistical reporting rigor, hedging, citation density pattern, and argumentation style all align with FIELD_SKILL defaults. JDM only adds journal-specific terminology/formatting rules on top.
+
+Access-limitation notes: journal.sjdm.org/jbaron.org archive (the journal's original self-hosted site, maintained by founding editor Jon Baron) has complete contents only through ~2022. The journal has been published via Cambridge University Press since 2022, and current full-text articles are behind Cambridge Core paywall/login, which this environment cannot access. Compensated by using the current Cambridge author-instructions page for up-to-date hard constraints, and the legacy but still-linked Baron style guide (which the Cambridge submission process still substantively reflects per the "preparing your materials" page) for detailed style rules. Did not reach the target of 15 articles; stopped after 2 full spot-checks because guideline coverage was exceptionally explicit and detailed, and additional articles were not accessible without institutional login.

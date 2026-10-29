@@ -1,0 +1,20 @@
+Journal: Journal of Creating Value
+Slug: journal-of-creating-value
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 6 (abstracts/metadata via search snippets; no full text accessible due to SAGE paywall)
+Early stop triggered: No (proceeded through full good-faith effort; low sample size documented as access limitation typical of ABS 1 thin-access journals)
+
+Deltas found: 2 dimensions
+  1. Structural Deviations (ENFORCED) - dual-track article system: Research Articles (academic rigor) vs. Practitioner Articles (business relevance prioritized over academic rigor), plus editorials/news. Not present in FIELD_SKILL, which assumes single academic-rigor standard.
+  2. Voice and Register (PRACTICE ONLY / low-prevalence) - editorial/practitioner content more direct/prescriptive than FIELD_SKILL hedging norms; insufficient access to confirm for Research Articles specifically.
+
+FIELD_SKILL overrides: none identified beyond the structural accommodation for Practitioner Articles (a RELAXATION at ABS 1 tier, not a redefinition of the FIELD_SKILL baseline for Research Articles).
+
+Access-limitation notes:
+- journals.sagepub.com/author-instructions/jcv did not return usable content via WebFetch (bot protection/JS rendering appears to serve generic SAGE homepage navigation content instead of the guideline page body). Hard constraints reconstructed from search-engine-indexed snippets of that same URL.
+- Full text of all spot-checked articles is behind SAGE paywall; only abstracts/metadata via search snippets were accessible.
+- One secondary source (ResearchGate review "Creating Value Since 2015: A Review of the Journal of Creating Value") returned HTTP 403 on direct fetch; used via search snippet only.
+- A university repository PDF (cris.tuni.fi) was fetched but returned as non-decompressible binary content, not usable for text extraction.
+- Given these constraints, this skill is built primarily from abstract-level and secondary-source evidence rather than full-text article review. Confidence is lower than for journals with open-access full text.

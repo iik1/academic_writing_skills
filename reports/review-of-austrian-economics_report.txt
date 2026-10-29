@@ -1,0 +1,33 @@
+Journal: Review of Austrian Economics
+Slug: review-of-austrian-economics
+ABS: 1
+Field: ECON
+Publisher: Springer Nature (with Society for the Development of Austrian Economics)
+
+Articles fetched: 11 (abstract/metadata level, via IDEAS/RePEc)
+- Braun (2025) RAE 38(4)
+- Niles (2025) RAE 38(4)
+- McClure, Snow & Thomas (2025) RAE 38(1)
+- Craig & Storr (2025) RAE 38(2)
+- Craig (2024) RAE 37(2) [review essay]
+- Pennington (2021) RAE 34(2)
+- Elert & Henrekson (2021) RAE 34(1)
+- Redford (2020) RAE 33(1)
+- Allen, Berg, Lane & Potts (2020) RAE 33(3)
+- Lewin & Cachanosky (2018) RAE 31(1)
+- (plus initial issue listing scan of Vol 38-39 tables of contents, 2025-2026)
+
+Early stop triggered: No (reached target sample of ~10-11 given ABS 1 tier allowance)
+
+Deltas found: 4 dimensions, all PRACTICE ONLY (no ENFORCED deltas, no GUIDELINE ONLY deltas)
+1. Voice/argumentation — heavy direct engagement with named Austrian theorists (Mises, Hayek, Schumpeter, Kirzner, Böhm-Bawerk) as interlocutors, more than typical FIELD_SKILL empirical-paper positioning.
+2. Statistical reporting — many articles are non-empirical (conceptual/historical/theoretical), so FIELD_SKILL's quantitative magnitude-reporting norm frequently does not apply.
+3. Citation density — author-date format matches FIELD_SKILL, but citation targets skew toward canonical Austrian-school texts rather than broad recent empirical literature.
+4. Structural — journal publishes labeled "review essays" as a distinct article type (e.g., Craig 2024), a format rare in ABS 4*/4 FIELD_SKILL sources.
+
+FIELD_SKILL overrides (HARD_CONSTRAINTS): none found. Springer's public submission-guidelines page for this journal is generic Springer boilerplate (title/affiliation formatting, author-contribution/competing-interest disclosure via portal, hybrid OA) with no journal-specific structure, length, abstract, citation, heading, or table/figure rules. No explicit prohibitions beyond standard Springer authorship-change policy.
+
+Access-limitation notes:
+- No institutional EZProxy access; all article-level data drawn from IDEAS/RePEc abstract/metadata pages, not full text. Sufficient for structural/topical delta detection but not for sentence-level prose verification.
+- Springer guidelines page required a login redirect on direct link.springer.com/www.springer.com fetch; content obtained via WebSearch snippet summarization instead, which appears to reflect the genuine (template-heavy) guidelines content.
+- Historical mention of a ~250-word abstract cap could not be confirmed as current; flagged as unverified in the skill rather than asserted as a hard constraint.

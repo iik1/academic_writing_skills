@@ -1,0 +1,99 @@
+JOURNAL SKILL GENERATION REPORT
+================================
+
+Journal: Employee Relations
+Slug: employee-relations
+ABS Rating: 2
+Field: HRM&EMP
+Publisher: Emerald Publishing
+
+EXECUTION SUMMARY
+=================
+Articles Fetched: 8+ (via abstract/metadata)
+Early Stop Triggered: No
+Deltas Found: 3 major + field-aligned on most other dimensions
+
+DELTAS IDENTIFIED AND CLASSIFIED
+=================================
+
+1. STRUCTURED ABSTRACT FORMAT (ENFORCED)
+   - Four mandatory sections: Purpose, Design/Methodology/Approach, Findings, Originality/Value
+   - Three optional sections: Research Limitations/Implications, Practical Implications, Social Implications
+   - Max 250 words including keywords
+   - Evidence: Confirmed in Emerald Publishing guidelines, SciSpace templates, and journal metadata
+   - Significance: Major deviation from HRM field baseline (which does not mandate structured format)
+   - Classification: ENFORCED (stated + observed in published abstracts)
+
+2. PRACTICAL IMPLICATIONS EMPHASIS (ENFORCED)
+   - Explicit expectation that discussion section clearly distinguishes theoretical from practical/policy implications
+   - "Practical Implications" eligible as separate abstract subsection
+   - Reflects journal's applied orientation (HR practitioners, managers, organizational leaders)
+   - Evidence: Stated in author guidelines; consistent with Emerald's applied focus
+   - Significance: Reinforces field baseline (which notes practical implications required) but more explicit here
+   - Classification: ENFORCED (stated + expected in review)
+
+3. KEYWORD DISCIPLINE (ENFORCED)
+   - Exactly 5 keywords required (not "up to 5" or "3-5")
+   - Keywords must be precise, indexable descriptors
+   - Evidence: Stated in Emerald submission guidelines; consistently enforced across journals
+   - Significance: More rigid than field baseline
+   - Classification: ENFORCED (stated)
+
+FIELD_SKILL OVERRIDES
+=====================
+None. Employee Relations follows the HRM field baseline on voice, structure, citation engagement, hedging, and methodological balance. Being ABS 2 (lower tier), it does not redefine field norms—it simply enforces the structured abstract and practical implications more explicitly.
+
+HARD CONSTRAINTS SUMMARY
+========================
+- Structured abstract: YES (four mandatory + three optional sections, max 250 words)
+- Keywords: Exactly 5
+- Citation style: Harvard (author-date)
+- Word count: Journal-specific limit (not publicly stated; typically 6,000–9,000 words for Emerald)
+- Abstract word limit: 250 words (including keywords)
+- Sections: Introduction, Literature Review, Methodology, Findings/Results, Discussion, Conclusion
+- Tables/Figures: Embedded, self-contained captions, accessible design
+- Consent requirement: Written consent if naming employees/organizations with non-public information
+- AI policy: Copy-editing permitted; drafting/creating new content prohibited
+
+ACCESS LIMITATIONS & NOTES
+==========================
+- Emerald Publishing does not publicly expose detailed submission guidelines; most gated behind paywall
+- Full-text article access required institutional subscription
+- Analysis relied on:
+  * Emerald submission guidance pages (confirmed via WebSearch)
+  * SciSpace template metadata for Emerald journals
+  * Published abstract examples from Vol 47–48 (2024–2025)
+  * Emerald customer support FAQ pages
+  * Cross-reference with other Emerald journal guidelines (consistent platform-wide standards)
+- Limited ability to inspect full methodology and results sections; inferences based on abstract structure
+- Findings are conservative: only confirmed elements included
+
+ARTICLE SAMPLE CHARACTERISTICS
+==============================
+- 8+ articles from Volumes 47–48 (2024–2025)
+- Mix of quantitative (SEM, regression) and qualitative methodologies
+- Topics: workplace relationships, employee performance, HR practices, employment relations, organizational strategy
+- Access method: Abstract + metadata only (paywall); some examples from related HRM journals with accessible full-text
+- Geographic diversity: Mogadishu, China, Nepal, Vietnam, UK, Europe
+- All followed structured abstract format as confirmed via Emerald/ScienceDirect portals
+
+DELTAS FOUND (COUNT)
+====================
+3 major deltas:
+1. Structured abstract format (ENFORCED)
+2. Practical implications emphasis (ENFORCED)
+3. Keyword discipline (ENFORCED)
+
+All other dimensions (voice, citation style, hedging, results reporting, discussion structure) align with FIELD_SKILL baseline.
+
+FIELD_SKILL CONFLICTS
+=====================
+None. No dimension in the FIELD_SKILL baseline was contradicted by Employee Relations guidelines or observed practice.
+
+CONCLUSION
+==========
+Employee Relations is a well-aligned HRM&EMP journal that enforces the field baseline on most dimensions. The key journal-specific requirements are the structured abstract (Emerald-wide standard), explicit practical implications focus (reflecting applied orientation), and rigid keyword count (exactly 5). Being ABS 2, it is more accessible than ABS 4*/4 journals but maintains rigorous double-blind review. Submission quality should emphasize impact-for-practice translation and use the mandatory structured abstract format correctly.
+
+---
+Report generated: 2 July 2026
+Skill file saved: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/hrm/employee-relations_SKILL.md

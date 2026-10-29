@@ -1,0 +1,38 @@
+Journal: Journal of Experimental Psychology: Applied
+Slug: journal-of-experimental-psychology-applied
+ABS: 4
+Field: PSYCH (GENERAL)
+
+Articles fetched: 8 (title/abstract/PSS-level; full text inaccessible in this
+environment — PsycNet manuscript PDFs returned unreadable binary, PsycNet
+record pages did not render). Relied on APA's own guidelines/about/sample
+pages plus search-engine-indexed abstract and Public Significance Statement
+snippets.
+
+Early stop triggered: No — access chain was exhausted (guidelines page,
+about page, sample page, PsycNet, targeted searches) rather than deltas
+stabilizing early. Proceeded with available evidence per instructions.
+
+Deltas found: 2 dimensions
+1. Structural Deviations (ENFORCED) — mandatory Public Significance
+   Statement (120-150 words, lay-accessible) as a distinct required
+   element not mentioned in FIELD_SKILL; mandatory, explicitly labeled
+   "Constraints on Generality" subsection in Discussion (FIELD_SKILL only
+   describes a general expectation to qualify generalizability claims,
+   not a required separately-headed subsection).
+2. Other Journal-Specific Patterns (PRACTICE ONLY / low-prevalence) —
+   titles tend to name the applied real-world phenomenon directly,
+   consistent with but sharper than FIELD_SKILL's applied-question framing.
+
+FIELD_SKILL overrides: none that contradict FIELD_SKILL outright — the
+journal's requirements sharpen/operationalize existing FIELD_SKILL norms
+(generalizability qualification, applied framing) rather than reversing
+them, consistent with expected ABS 4 behavior (typically aligns with,
+occasionally tightens, the field baseline).
+
+Access-limitation notes: Full-text articles behind APA paywall/PsycNet were
+not retrievable (PDF binary, non-rendering JS pages). Compensated with
+APA's own detailed public-facing submission guidelines page (which is
+unusually comprehensive and explicit) plus multiple confirmed Public
+Significance Statement excerpts surfaced via search, which was sufficient
+to confirm both ENFORCED deltas independently of full-text access.

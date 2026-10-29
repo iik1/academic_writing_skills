@@ -1,0 +1,25 @@
+Journal: Annals of Actuarial Science
+Slug: annals-of-actuarial-science
+ABS: 1
+Field: FINANCE
+
+Articles fetched: 12 (titles/abstracts only; no full text accessible without institutional login)
+Early stop triggered: No (dedupe check found no existing skill; proceeded through full pipeline)
+
+Deltas found: 2 dimensions
+  1. Voice and Register (PRACTICE-level) - abstracts more consistently foreground practical/actuarial-industry relevance (regulatory, solvency, pricing implications), tied to the journal's explicit scope requirement.
+  2. Structural Deviations (GUIDELINE + PRACTICE) - "actuarial software papers" are a distinct accepted article type not present in FIELD_SKILL, with an implicit structure emphasizing the real-world problem and implementation over standard empirical structure.
+
+FIELD_SKILL overrides (Hard Constraints from author guidelines):
+  - Manuscript order: Title; Authors; Abstract; Keywords; Correspondence; Main text; Acknowledgements; Competing Interest Statement; Data Availability Statement; Funding Statement; References; Appendices.
+  - Maximum 35 pages (firmer numeric cap than typical ABS 4*/4 finance journals).
+  - Abstract: 150-200 words (narrower band than FIELD_SKILL's 150-250).
+  - Harvard (author-year) referencing - consistent with FIELD_SKILL in practice.
+  - Tables/figures require Arabic numeral numbering, captions, and mandatory accessibility (alt-text) descriptions.
+  - UK English required (not US English).
+  - Explicit prohibitions: no simultaneous submission, no AI listed as author, prior publication (incl. preprints) must be disclosed.
+
+Access-limitation notes:
+  - No EZProxy/institutional access in this environment; all article-level observations are based on titles and abstracts (via Cambridge Core FirstView listing and WebSearch snippets), not full text.
+  - This constrains confidence on statistical-reporting and fine-grained structural deltas; those sections are marked "Follows FIELD_SKILL norm" where evidence was insufficient to claim a delta, per the convergence rule.
+  - Author guidelines page ("Preparing your materials") was successfully fetched in full and is the primary source for Hard Constraints.

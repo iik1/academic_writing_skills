@@ -1,0 +1,20 @@
+Journal: Finance Research Letters
+Slug: finance-research-letters
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 5 (abstract/front-matter level via RePEc/IDEAS; full text paywalled on ScienceDirect, direct guide-for-authors WebFetch returned HTTP 403 so extracted via WebSearch snippets)
+Early stop triggered: No (this is the standard good-faith sample size for an ABS 2 journal per assignment instructions)
+
+Deltas found: 2 major dimensions
+1. Structural Deviations (ENFORCED) - hard 2,500-word main-text cap forces compression of the canonical FIELD_SKILL multi-section structure into a short-form paper; robustness/mechanism sections typically pushed to supplementary material.
+2. Other Journal-Specific Patterns (ENFORCED) - mandatory "Highlights" bullet-point file at submission (not in FIELD_SKILL); explicit editorial preference for replicability/transnational-applicability/methodological-contingency papers, with single-country replications of established results out of scope.
+
+FIELD_SKILL overrides:
+- Length: <2500 words main text (overrides FIELD_SKILL's assumption of standard multi-section article length)
+- Submission requirement: mandatory Highlights file
+- Explicit prohibitions: generative AI disclosure required; AI-generated artwork/graphical abstracts not permitted; desk review by Editor-in-Chief before peer review
+
+Dimensions confirmed as FIELD DEFAULT / no delta: citation format (author-date), heading numbering (Arabic), abstract/keywords/JEL as separate fields, voice/person/hedging (unconfirmed at full-text level due to paywall, but no contrary evidence found).
+
+Access-limitation notes: Direct WebFetch of the ScienceDirect guide-for-authors page returned 403 Forbidden; guideline content was reconstructed from WebSearch result snippets referencing that same page (word limit, highlights requirement, generative AI disclosure, desk review process, scope statement). Full-text articles are paywalled on ScienceDirect; spot-check relied on RePEc/IDEAS abstract pages, which do not expose statistical reporting or citation density patterns in the body text. These two dimensions are marked "not assessable" rather than asserted as no-delta from direct observation.

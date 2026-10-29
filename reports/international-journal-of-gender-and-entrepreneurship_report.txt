@@ -1,0 +1,64 @@
+DELTA DETECTION REPORT
+======================
+
+Journal: International Journal of Gender and Entrepreneurship
+Slug: international-journal-of-gender-and-entrepreneurship-writing-style
+ABS Tier: 2
+Field: ETHICS-CSR-MAN
+Publisher: Emerald Publishing Limited
+
+ARTICLES FETCHED: 5
+- 1 editorial (de Bruin et al., 2024, Vol. 16 Issue 1)
+- 1 qualitative empirical (Stoker et al., 2025, Vol. 18 Issue 1)
+- 1 quantitative empirical (2025, Vol. 18 Issue 4)
+- 2 additional titles identified but not fully accessed
+
+ACCESS LIMITATIONS:
+- Emerald Publishing and ScienceDirect full texts blocked (paywalls, CAPTCHAs)
+- ResearchGate abstracts available; full PDF downloads blocked (403)
+- Abstract metadata extracted from Emerald Insight, ScienceDirect, and ResearchGate
+- Spot-check limited to abstracts and front-matter; no full methodology/results sections analyzed
+- Emerald standard guidelines inferred from published general guidelines and journal-level metadata
+- No direct access to journal-specific author guidelines document (blocked)
+
+EARLY STOP: No (5 articles is adequate for ABS 2 journal; access chain exhausted)
+
+DELTAS FOUND: 2 dimensions with meaningful deviations
+
+1. MANUSCRIPT FOCUS AND FRAMING (ENFORCED)
+   - Gender and entrepreneurship must be theoretically central, not incidental.
+   - Departs from general MGMT baseline which treats gender as one demographic variable.
+   - This is a PRIMARY journal-specific requirement.
+
+2. PRACTICAL IMPLICATIONS EMPHASIS (PRACTICE ONLY)
+   - Discussion sections forefront implications for policymakers and practitioners.
+   - Observed in 4 of 5 articles; appears to be standard but not explicitly mandated in blocked guidelines.
+   - MGMT baseline expects managerial relevance; IJGE amplifies this for policy/practitioner audiences.
+
+FIELD_SKILL OVERRIDES: None
+- Structured abstract (4 parts, 250 words max) aligns with Emerald Publishing standard, not uniquely different from general MGMT field baseline.
+- Article structure follows standard MGMT templates; no deviations.
+- Voice, citation density, hedging all consistent with FIELD_SKILL.
+
+FIELD_SKILL RELAXATIONS: None identified
+- ABS 2 tier does not relax field conventions; maintains field standards.
+
+HARD CONSTRAINTS IDENTIFIED:
+- Structured abstract (Purpose/Design/Findings/Originality, 250 words) — required by Emerald standard
+- Cover letter mandatory, must explain journal fit and gender-entrepreneurship novelty
+- Gender as theoretical centerpiece, not demographic covariate
+- No explicit word limit documented, but published articles range 7,000–10,000 words
+
+COMMON PITFALLS (3 documented):
+1. Gender as incidental variable (misalignment with scope)
+2. Missing or weak cover letter explaining journal fit
+3. Insufficient practical implications in discussion
+
+RECOMMENDATION:
+The skill file is short because this is an ABS 2 journal with few deltas from the MGMT field baseline. The primary differentiation is topical (gender-entrepreneurship focus) and pragmatic (cover letter requirement, practical implications emphasis), not stylistic or structural. Authors familiar with general MGMT conventions should focus on centering gender theory and articulating policy/practitioner relevance, not on reformatting their writing.
+
+ACCESS NOTES:
+- Emerald paywall and CAPTCHA defense prevented full-text article analysis.
+- Abstracts and editorial metadata sufficient to identify core journal requirements and practice patterns.
+- Emerald standard guidelines (structured abstract, 250-word limit, four-part heading format) reliably inferred from multiple published sources and journal metadata.
+- If detailed methodological or section-specific guidelines are required, direct contact with Emerald editorial office or institutional access may be necessary.

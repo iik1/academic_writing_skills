@@ -1,0 +1,47 @@
+Journal: Economic Analysis and Policy
+Slug: economic-analysis-and-policy
+ABS: 1
+Field: ECON
+Publisher: Elsevier
+
+Articles fetched: 11 (abstract-level, via RePEc/IDEAS)
+  - v90y2026icp1-16 (Li & Xu)
+  - v90y2026icp17-37 (Wang, Shi & He)
+  - v90y2026icp38-59 (Zhao & Wu)
+  - v90y2026icp60-82 (Ma, Tan & Xu)
+  - v90y2026icp83-100 (Wang et al.)
+  - v90y2026icp101-125 (Narayan et al.)
+  - v90y2026icp126-147 (Hausken & Bier)
+  - v89y2026icp1-20 (Su, Xu & Zeng)
+  - v89y2026icp21-34 (Xia & Zhao)
+  - v88y2025icp1-12 (Centuriao et al.)
+  - v88y2025icp13-25 (Dou et al.)
+
+Early stop triggered: No — reached target sample size of 10-15 (got 11) via good-faith access chain.
+
+Deltas found: 1 stated/enforced delta, 1 practice-only pattern, 1 guideline-only inconsistency
+  - Voice/Register (ENFORCED, journal-specific): guidelines explicitly require
+    non-technical framing of main insights in the introduction and conclusion,
+    a departure from FIELD_SKILL's default technical register throughout.
+  - Other Journal-Specific Patterns (PRACTICE ONLY): abstracts consistently
+    name 2-3 explicit mechanisms and close with direct, action-item-style
+    policy recommendations. Not stated in guidelines, but prevalent (9/11
+    sampled articles).
+  - JEL codes: GUIDELINE ONLY / inconsistently enforced — present in about
+    two-thirds of sampled articles, absent in the rest.
+
+FIELD_SKILL overrides: 1 — non-technical introduction/conclusion requirement
+overrides FIELD_SKILL's default expectation of technical register throughout
+the paper.
+
+Access-limitation notes:
+  - ScienceDirect guide-for-authors, journal homepage, "insights" page, and
+    volume table-of-contents pages all returned HTTP 403 to direct WebFetch.
+    All guideline content was recovered via search-engine-indexed excerpts
+    of these pages (WebSearch snippets), not direct page reads.
+  - No full-text article was accessible; all spot-checks are abstract-level
+    via RePEc/IDEAS, consistent with expected access for an ABS 1 journal
+    with no institutional proxy in this environment.
+  - The 50th-anniversary retrospective article (S0313592620304367), which
+    might have offered richer editorial-identity detail, was also
+    inaccessible (403).

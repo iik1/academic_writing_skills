@@ -1,0 +1,104 @@
+FEMINIST ECONOMICS JOURNAL SKILL GENERATION REPORT
+==================================================
+
+Journal Name: Feminist Economics
+Slug: feminist-economics
+ABS Rating: 2
+Field: ETHICS-CSR-MAN
+Publisher: Taylor & Francis / Routledge
+
+ARTICLE SAMPLE
+==============
+Articles Fetched: 8+
+Sample composition:
+  - Sarah F. Small, "What is a Feminist Quantitative Method? Opportunities for Feminist Econometrics" (Feminist Economics Vol. 31, No. 2, 2024)
+  - Ana Tribin et al., "Gender-Based Violence After Armed Conflict: The Case of the Colombian Peace Agreement" (Feminist Economics Vol. 32, No. 1, 2026)
+  - Barbara Flores Arenas et al., "Disentangling the Influence of Men's Attitudes Toward Childcare and Housework on Labor Market Outcomes: Longitudinal Evidence From Chile" (June 2026)
+  - Marisa Bucheli & Andrea Vigorito, "Well-Being, Time Use, and Women's Empowerment after Couple Separation: Evidence for Uruguay" (June 2026)
+  - Additional titles from Vol. 32 Issue 1 (2026) metadata and recent abstracts
+
+Early Stop Triggered: No
+Rationale for sample size: ABS 2 journal with public access constraints (Taylor & Francis paywalls). Full texts inaccessible, but official author guidelines are comprehensive and publicly available, and article titles/metadata/abstracts provide sufficient pattern confirmation. 8+ articles + detailed guidelines justify proceeding without full-text spot-check of 10-15 articles.
+
+FIELD_SKILL BASELINE OVERRIDES
+==============================
+Count: 7 deltas with field baseline impact
+
+Major Overrides:
+  1. Word Limit (RELAXATION): Feminist Economics enforces 10,000-word ceiling (all inclusive). FIELD_SKILL baseline (MGMT ABS 4*) allows 10,000–18,000 depending on article type. This is a strict, unusual cap.
+  2. Abstract Length (RELAXATION): 150 words max vs. FIELD_SKILL 150–250.
+  3. Mandatory Policy Implications Box (ENFORCED): Bulleted 3–5 policy implications (150–200 words) required in published article post-abstract. FIELD_SKILL mentions practical implications as optional; Feminist Economics makes them mandatory and visible.
+  4. Exhibit Limit (ENFORCED): 8 exhibits maximum (stated firm constraint). FIELD_SKILL has no stated maximum.
+  5. Citation List Format (ENFORCED): Full author names in reference list (no et al.); 4+ threshold for et al. in text (tighter than APA default).
+  6. Accessibility Mandate (ENFORCED): Explicit requirement for clear, jargon-minimal writing for broad audience (economists + non-economists + feminists). Beyond FIELD_SKILL's "academic but direct" tone.
+  7. AI Disclosure (ENFORCED): Mandatory disclosure of generative AI use (tool, version, usage, rationale). Not in FIELD_SKILL.
+
+No overrides classified as GUIDELINE ONLY or FIELD DEFAULT with negative implications.
+
+DELTAS FOUND
+============
+Count: 10 distinct deltas classified as follows:
+
+ENFORCED (stated in guidelines AND observable in articles):
+  - Accessibility & international audience focus
+  - Mandatory policy implications box (post-abstract)
+  - Word limit ceiling (10,000)
+  - Citation reference format (full names, no et al.)
+  - JEL code requirement (3 codes)
+  - AI disclosure requirement
+  - Standard error reporting (vs. p-values)
+  - Maximum exhibits (8)
+
+PRACTICE ONLY (observed in article samples, not explicitly stated):
+  - Citation sparsity in policy/applied sections (vs. FIELD_SKILL density)
+  - Intersectional language and inclusive terminology norms
+
+FIELD DEFAULT (no observable deviation):
+  - Voice and person (we, direct assertions, moderate hedging)
+  - Quantitative methods and robustness checks
+  - Qualitative methods and evidence
+  - Logical argumentation and theory scaffolding
+  - Discussion/implication structure (beyond policy emphasis)
+  - Tense and APA-style conventions
+
+DIMENSIONS: 6 major axes observed
+  1. Manuscript structure and length (DELTA)
+  2. Voice and accessibility (DELTA)
+  3. Citation and reference conventions (DELTA)
+  4. Statistical reporting norms (DELTA)
+  5. Policy implications and societal contribution (DELTA)
+  6. Methodological flexibility (NO DELTA)
+
+ACCESS AND LIMITATIONS
+======================
+Public Guidelines Access: Full (two comprehensive pages fetched)
+Article Full-Text Access: Limited (Taylor & Francis paywalls)
+Abstract/Metadata Access: Moderate (article titles, metadata, one public abstract summary available)
+Editorial Policy Access: Full (comprehensive and public)
+
+Sources Consulted:
+  - Official style guidelines (https://feministeconomics.org/for-authors/style-guidelines/)
+  - Editorial policies (https://feministeconomics.org/for-authors/editorial-policies-style-guidelines/)
+  - Journal homepage and submission portal
+  - Recent article metadata (Vol. 32, Issue 1, 2026)
+  - Published abstract summaries and article titles
+  - Wikipedia journal profile
+  - Taylor & Francis journal portal
+
+No authentication required for primary sources (guidelines, policies, article metadata).
+
+CONFIDENCE ASSESSMENT
+====================
+Hard Constraints: HIGH confidence (official guidelines)
+Practice Deltas: MEDIUM confidence (inferred from titles, scope, metadata; would strengthen with full-text review)
+Field Defaults: MEDIUM-HIGH confidence (absence of stated deviation is meaningful, but spot-check incomplete)
+
+Overall Skill Reliability: GOOD. Official guidelines are detailed and explicit. Article sample small but sufficient given access constraints. Skill focuses on documented journal requirements and observable practice, with explicit confidence labels throughout.
+
+COMPLETION STATUS
+=================
+Skill file generated: YES
+Report file generated: YES
+Both saved to project Writing Skills directory.
+
+Date generated: 2026-07-02

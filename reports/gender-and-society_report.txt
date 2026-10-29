@@ -1,0 +1,36 @@
+Journal: Gender and Society
+Slug: gender-and-society
+ABS: 3
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 8 distinct articles identified with title/abstract-level detail
+(Wong & Daminger 2024; Jung & Moon 2024; Bozok 2024; Srivastava & Aftab 2024;
+Banerjee & Hwang 2023; Friedmann & Efrat-Treister 2023; Risman 2022 editorial;
+plus front-matter review of Vol. 38(2) table of contents). Full text was not
+accessible for any article (SAGE paywall); abstract/title-level detail obtained
+via WebSearch snippets, third-party indexers (ResearchGate, EBSCO, Kyung Hee
+University repository, R Discovery), and one PDF style manual.
+
+Early stop triggered: No — stopped at 8 rather than 15 because journals.sagepub.com
+serves a JS-rendered navigation shell to WebFetch (no article content extractable
+directly), and further WebSearch queries began returning duplicate/irrelevant
+results rather than new distinct articles. This is documented as an access
+limitation, not a deliberate early stop from delta convergence.
+
+Deltas found: 4
+1. Citation style — Chicago Manual of Style, Style B (ENFORCED) vs. FIELD_SKILL's APA default.
+2. Structural addition — required "Statements and Declarations" title-page section (ENFORCED).
+3. Length ceiling — ~8,500 words all-inclusive, well below FIELD_SKILL's 10,000-18,000+ word norms (RELAXATION, ABS 3-consistent).
+4. Blinding/self-citation rule stated more emphatically than FIELD_SKILL assumes (ENFORCED, submission-mechanics).
+
+FIELD_SKILL overrides: Citation style (Chicago Style B overrides APA); word length ceiling (~8,500 all-inclusive overrides field's longer defaults).
+
+Access-limitation notes:
+- journals.sagepub.com pages (author-instructions, toc pages) returned only
+  navigation-shell HTML to WebFetch; had to rely on WebSearch result snippets
+  and the SAGE style-manual PDF (us2.sagepub.com mirror) for guideline detail.
+- No full-text articles were accessible; all article-level findings are based
+  on titles, abstracts, and secondary summaries from indexers.
+- Table/figure-specific rules and explicit tone/language prohibitions beyond
+  blinding were not found in any accessible source; recorded as "no delta /
+  not found" rather than fabricated.

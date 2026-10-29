@@ -1,0 +1,76 @@
+QUARTERLY JOURNAL OF FINANCE AND ACCOUNTING (QJFA) - SKILL GENERATION REPORT
+==============================================================================
+
+Journal Name: Quarterly Journal of Finance and Accounting (QJFA)
+Slug: quarterly-journal-of-finance-and-accounting-qjfa
+ABS Rating: 1
+Field: FINANCE
+Publisher: Creighton University, Heider College of Business
+
+ARTICLES FETCHED AND ACCESS CHALLENGES
+=======================================
+Articles Fetched: 0 (full-text access unavailable)
+Early Stop Triggered: Yes (research limitation)
+
+RATIONALE:
+The QJFA is indexed exclusively on JSTOR, which requires institutional authentication for full-text access. No articles were accessible via open-access repositories, ResearchGate, SSRN, or Creighton University's public PDF index pages (PDFs are binary-encoded and could not be parsed). Research was therefore limited to publicly available author guidelines and editorial policy statements.
+
+RESEARCH CHAIN ATTEMPTED:
+1. Author guidelines from Creighton University website ✓ (successful)
+2. Editorial policy from Creighton University website ✓ (successful)
+3. Recent article titles from JSTOR ✗ (403 Forbidden - authentication required)
+4. Recent article titles from Creighton homepage ✓ (metadata available, full tables of contents unavailable)
+5. Article abstracts via ResearchGate ✓ (found editor profile but no article list)
+6. Article titles via SSRN ✗ (no dedicated QJFA working paper series)
+7. Creighton PDF indices (by issue, by author) ✗ (binary format, could not extract text)
+8. Ideas/RePEc directory ✗ (QJFA not indexed there)
+
+FIELD SKILL BASELINE COMPARISON
+================================
+Baseline: finance-field-writing-style (ABS 4*/4 level norms)
+
+DELTAS IDENTIFIED:
+1. Page Limit (ENFORCED, CONSTRAINT): 40 pages max (vs. typical 50+ in ABS 4*/4)
+2. Abstract Length (ENFORCED, TIGHTER): 150 words max (vs. 150–250 in FIELD_SKILL)
+3. Table/Figure Placement (ENFORCED, STRICTER): In-text only, size-capped 4.75 x 6.75 inches (vs. flexible placement in FIELD_SKILL)
+4. File Format (ENFORCED): Microsoft Word only (explicit constraint)
+5. Footnote Use (ENFORCED, EXPLICIT): Explanatory only, minimal (aligned with FIELD_SKILL but more strictly stated)
+
+FIELD_SKILL OVERRIDES
+======================
+Total overrides: 5 dimensions
+- Page/length limits (novel constraint)
+- Abstract length cap (tighter than baseline)
+- Figure placement and sizing (novel constraint)
+- File format requirement (novel constraint)
+- Footnote usage (explicit statement of existing norm)
+
+All other dimensions (voice, register, argumentation, methods conventions, citation density, hedging) follow FIELD_SKILL with no detected deviation.
+
+CLASSIFICATION SUMMARY
+======================
+- ENFORCED (stated in guidelines AND applied): 5 deltas
+- GUIDELINE ONLY (stated but unverified in articles): 0
+- PRACTICE ONLY (observed but unstated): 0 (no articles examined)
+- FIELD DEFAULT (no deviation): 10+ dimensions
+
+ABS TIER IMPACT
+===============
+QJFA is ABS 1 (lower tier than baseline ABS 4*/4). The identified deltas are consistent with lower-tier positioning: shorter page limits, more restrictive formatting rules, and tighter abstract specification. These are relaxations of top-tier norms, not reinventions.
+
+CONFIDENCE LEVEL
+================
+HIGH for stated constraints (derived directly from published guidelines).
+LOW for unstated practices (no article sample examined).
+Final skill includes a research-limitations note transparently acknowledging the paywall barrier and suggesting that users requiring higher confidence should examine published articles directly.
+
+SKILL FILE CREATED
+===================
+Location: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/finance/quarterly-journal-of-finance-and-accounting-qjfa_SKILL.md
+Dimensions Documented: 11 (5 with deltas, 10+ with no delta)
+Pitfalls Section: Populated with 4 journal-specific submission errors
+Sources Section: 4 references (guidelines, editorial policy, homepage, JSTOR)
+
+NOTES FOR FUTURE WORK
+=====================
+If access to QJFA articles becomes available via institutional subscription or open-access repositories, the skill can be enhanced with observed stylistic patterns in voice, sentence structure, and results presentation. The current skill is sufficient for manuscript preparation based on stated constraints but lacks empirical confirmation of writing-style norms within those constraints.

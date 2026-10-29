@@ -1,0 +1,39 @@
+Journal: Information Society (The Information Society)
+Slug: information-society
+ABS: 3
+Field: INFO MAN
+
+Articles fetched: 10 (abstracts only, via search-engine-extracted snippets;
+no full text accessible)
+Early stop triggered: No — stopped after 10 due to access-chain exhaustion
+(T&F pages 403, ResearchGate/SSRN blocked to WebFetch), not because delta
+set had stabilised on a full 15-article read. Sample is a good-faith
+approximation.
+
+Deltas found: 2 (both low-confidence / PRACTICE ONLY, given abstract-only
+access)
+  1. Structural Deviations — sampled articles skew toward literature
+     review/conceptual-framework/case-study format rather than
+     hypothesis-testing empirical structure; RELAXATION of FIELD_SKILL's
+     IS-empirical default (ABS 3 consistent).
+  2. Other Journal-Specific Patterns — topical/rhetorical skew toward
+     critical/political-economy/STS framing rather than
+     managerial/artifact-systems framing; dual theoretical+practical
+     contribution framing not clearly evident in abstracts.
+
+FIELD_SKILL overrides: none confirmed (no hard constraints could be
+verified from guidelines).
+
+Access-limitation notes:
+- tandfonline.com/journals/utis20 (Instructions for Authors and
+  about-this-journal pages) returned HTTP 403 on every WebFetch attempt.
+- ResearchGate and SSRN full-text/PDF pages also returned 403.
+- All article content used was abstract-level, reconstructed via
+  WebSearch snippet extraction, not direct full-text or full-abstract
+  page fetches.
+- Consequently, Hard Constraints section (structure, length, abstract
+  format, citations, headings, tables/figures, prohibitions) could NOT be
+  populated with verified journal-specific requirements; skill states this
+  explicitly rather than fabricating values.
+- Journal scope/profile reconstructed from oajif.com and Wikipedia
+  secondary summaries, cross-checked against multiple search snippets.

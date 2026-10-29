@@ -1,0 +1,23 @@
+Journal: Bulletin of Indonesian Economic Studies
+Slug: bulletin-of-indonesian-economic-studies
+ABS: 1
+Field: ECON
+Publisher: Taylor & Francis (Routledge), on behalf of ANU Indonesia Project
+
+Articles fetched: 13 (titles/abstracts spanning Vol 25 No 2 (1989) - Vol 62 No 1 (2026)); 2 full abstracts read in full (Vol 60(1) 2024 "Fiscal Policy in the Aftermath of the Pandemic"; Vol 60(2) 2024 "Does Tax Simplification Motivate Small Businesses to be More Compliant?")
+
+Early stop triggered: No — good-faith full attempt made given ABS 1 tier; access chain was thin (tandfonline.com 403'd all direct fetches) but secondary sources (RePEc/IDEAS, EconPapers, ANU Indonesia Project mirror, Wikipedia) provided sufficient signal.
+
+Deltas found: 3
+  1. Voice and Register — journal explicitly targets non-specialist accessibility (broader readership than FIELD_SKILL's "trained economists" assumption); titles/abstracts skew toward plain-language, policy-relevant framing. GUIDELINE-supported + PRACTICE-confirmed.
+  2. Structural Deviations — standing "Survey of Recent Developments" feature opens every issue; no FIELD_SKILL analogue. ENFORCED for that article type only.
+  3. Other Journal-Specific Patterns — abstracts observed integrate explicit policy recommendations more prominently than typical ABS 4*/4 abstracts. PRACTICE ONLY, low sample (2/2), flagged as plausible not confirmed.
+
+FIELD_SKILL overrides: none outright overridden; the above are additions/relaxations on top of FIELD_SKILL, not contradictions. Word-limit relaxation for COVID-era policy pieces (5,000-7,000 words) noted as a RELAXATION, not a standing rule.
+
+Access-limitation notes:
+- tandfonline.com returned HTTP 403 for all direct WebFetch attempts: About page's Instructions for Authors sub-page, individual article DOI/abstract pages, and current-issue TOC.
+- About-page scope/policy content was retrievable via WebFetch (200 OK on the about-this-journal URL itself).
+- Relied on RePEc/IDEAS (ideas.repec.org), EconPapers (econpapers.repec.org), ANU Indonesia Project's own mirror page (indonesiaproject.net/bies-journal), and Wikipedia for supplementary confirmation.
+- No full-text article bodies were read (all paywalled); spot-check based on titles + 2 full abstracts + general series/scope info only.
+- Confidence: moderate on voice/register delta, low-moderate on abstract-policy-integration pattern (small sample), high on Survey of Recent Developments structural feature (corroborated by 3 independent sources).

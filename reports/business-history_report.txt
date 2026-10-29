@@ -1,0 +1,36 @@
+Journal: Business History
+Slug: business-history
+ABS: 4
+Field: BUS HIST & ECON HIST
+
+Articles fetched: 15 (titles/abstracts spot-checked via WebSearch snippets and RePEc/IDEAS abstract pages; tandfonline.com full/abstract pages returned 403 to direct WebFetch, so RePEc/IDEAS mirrors and search-engine-extracted abstract snippets were used instead)
+
+Early stop triggered: No — delta set stabilized after ~10-12 articles; continued to 15 for confidence, no new deltas emerged.
+
+Deltas found: 2 dimensions
+  1. Structural Deviations — journal explicitly instructs authors to avoid
+     sub-sections/sub-headings (flatter structure than typical field
+     practice). ENFORCED.
+  2. Other Journal-Specific Patterns — extensive British house-style
+     copyediting layer (numerals, dates, hyphenation, spelling, currency,
+     abbreviations) well beyond FIELD_SKILL scope. ENFORCED at
+     copyediting stage.
+
+FIELD_SKILL overrides: None required — no direct conflicts, only
+additions/refinements (abstract length/format, notes+references dual
+citation system, heading style, table/figure numbering, illustration cap)
+that FIELD_SKILL explicitly leaves unspecified as journal-specific.
+
+Access-limitation notes:
+- tandfonline.com blocks WebFetch (HTTP 403) on all direct article pages
+  and the journal's "about this journal" / instructions-for-authors page.
+- The canonical author guidelines were instead found and fetched
+  successfully as a standalone PDF (files.taylorandfrancis.com/fbshstyle.pdf),
+  dated 20 June 2006. This is the journal's detailed "Editors' Notes on
+  Literary and Typographical Conventions" and appears to remain the
+  operative house style (referenced by SEO/search-indexed pages as the
+  current style guide); some production-era details (CD/disk submission)
+  are clearly obsolete and were not carried into the skill file.
+- Article spot-check relied on WebSearch result snippets and RePEc/IDEAS
+  (ideas.repec.org) abstract mirrors rather than full text, consistent
+  with front-matter-only guidance for paywalled journals.

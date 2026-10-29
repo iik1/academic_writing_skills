@@ -1,0 +1,19 @@
+Journal: Journal of Media Economics
+Slug: journal-of-media-economics
+ABS: 1
+Field: ECON
+
+Articles fetched: 0 full-text; ~20+ abstract/title-level records via RePEc/EconPapers (Volumes 31-38, 2018-2026)
+Early stop triggered: No (completed a good-faith pass; stopped further retries after repeated 403s from tandfonline.com, consistent with instructions to move on rather than retry repeatedly)
+
+Deltas found: 2, both low-confidence PRACTICE ONLY
+  - Structural Deviations: topical/methodological skew toward applied media-industry questions (streaming, box office, advertising, ownership) using marketing-style empirical methods, rather than causal-identification-heavy designs typical of top ECON outlets. Does not contradict FIELD_SKILL's section architecture.
+  - Other Journal-Specific Patterns: journal regularly publishes book reviews and "Idea Forum" roundtable pieces alongside standard research articles.
+
+FIELD_SKILL overrides: none confirmed (guidelines page inaccessible; all Hard Constraints sections marked "Not independently verified")
+
+Access-limitation notes:
+- tandfonline.com/journals/hmec20 and its author-instructions subpage both returned HTTP 403 (blocked/paywalled) in this environment. Could not confirm word limits, abstract format, citation style, heading conventions, or explicit prohibitions from the primary source.
+- WebSearch tool was intermittently unavailable ("Web search error: unavailable") for several queries during this session; results obtained came from a mix of successful WebSearch calls (which returned link lists) and successful WebFetch calls against ideas.repec.org and econpapers.repec.org.
+- No full-text articles were accessible (all paywalled); all article-level observations are based on titles and 1-2 sentence abstracts from RePEc/EconPapers indexing, not full-text review. This limits confidence in any voice/register/hedging/citation-density delta claims, which were therefore left as "cannot assess" rather than asserted.
+- Given ABS 1 tier and thin public access, the skill file documents these limitations explicitly rather than fabricating confirmed hard constraints.

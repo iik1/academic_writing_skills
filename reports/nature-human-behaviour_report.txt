@@ -1,0 +1,56 @@
+Journal: Nature Human Behaviour
+Slug: nature-human-behaviour
+ABS: 4
+Field: PSYCH (GENERAL)
+
+Articles fetched: 6 distinct articles accessed at abstract/title level via
+WebSearch snippets (direct nature.com article fetches were all blocked by
+a login redirect - idp.nature.com/authorize - in this environment). Also
+reviewed content-type listing pages (Matters Arising, Comment, Review,
+Perspective, Registered Report counts/word limits) at snippet level.
+
+Early stop triggered: No. Stopped after deltas stabilized (structural
+taxonomy, robustness-to-SI pattern, novelty-language guidance, accessibility
+mandate) and further searches (multi-study "Study 1/Study 2" pattern search,
+Scilit source list, direct PDF fetch) returned diminishing new information
+or were blocked.
+
+Deltas found: 4 dimensions
+1. Structural Deviations - multi-format content taxonomy (Article,
+   Registered Report, Review, Perspective, Comment, Matters Arising) each
+   with distinct word limits; robustness checks routed to Supplementary
+   Information rather than main text (PRACTICE ONLY, single
+   editor-interview source).
+2. Voice and Register - editorial preference for direct, unhedged
+   statement of findings over qualified language ("may potentially
+   suggest"); explicit discouragement of novelty-claim language
+   (GUIDELINE ONLY / PRACTICE ONLY, corroborated by two independent
+   secondary sources).
+3. Other Journal-Specific Patterns - stronger-than-FIELD_SKILL emphasis on
+   cross-disciplinary (not just intra-field) jargon accessibility, given
+   the journal's explicit multi-discipline scope.
+4. Hard constraints only found in guidelines (not deltas per se, but
+   journal-specific numbers): 5,000-word Article main text, 150-word
+   unreferenced abstract, 8-display-item cap, content-type-specific
+   limits (Review 4,000-5,000 words/~150 refs, Perspective ~100 refs,
+   Comment ≤1,800 words, Matters Arising ≤1,200 words).
+
+FIELD_SKILL overrides: None that contradict FIELD_SKILL outright; NHB
+tightens/refines (structure, length, abstract) consistent with its ABS 4
+tier, per the ABS tier rule (4 typically aligns/refines, does not redefine).
+
+Access-limitation notes:
+- All direct nature.com URLs (submission-guidelines pages, individual
+  article pages, and article-listing pages) redirected to
+  idp.nature.com/authorize and could not be fetched directly in this
+  environment.
+- Relied on WebSearch result snippets, a third-party submission-guide site
+  (manusights.com - flagged as lower-confidence, non-official source), and
+  one genuine secondary source (World Bank blog Q&A with an NHB editor)
+  for editorial-practice claims.
+- ResearchGate and SSRN article pages returned 403 Forbidden.
+- Scilit source-listing page returned 403 Forbidden.
+- Given the access constraints, deltas relying solely on manusights.com or
+  the single editor Q&A are labeled PRACTICE ONLY / GUIDELINE ONLY with
+  explicit confidence caveats in the skill file rather than stated as
+  confirmed ENFORCED norms.

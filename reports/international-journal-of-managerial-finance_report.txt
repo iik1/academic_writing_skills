@@ -1,0 +1,21 @@
+Journal: International Journal of Managerial Finance
+Slug: international-journal-of-managerial-finance
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 6 full structured abstracts (via RePEc/IDEAS mirrors), plus a 7th abstract fragment via WebSearch snippet (SSRN/RePEc-sourced). Emerald's own site (emerald.com, emeraldgrouppublishing.com) blocked all direct fetches with CAPTCHA/403 throughout the session, so no full manuscript text was accessible; all evidence is at the abstract/metadata level.
+
+Early stop triggered: No. Did not find a pre-existing skill for this journal (dedupe check via Glob returned no matches under skills/**/*.md). Proceeded through all phases with documented access limitations rather than stopping.
+
+Deltas found: 2
+1. Structural Deviations — Abstract format (ENFORCED): Mandatory structured abstract (Purpose / Design-methodology-approach / Findings / Originality-value, <=250 words), overriding FIELD_SKILL's unstructured single-paragraph abstract. This is Emerald house-wide policy, confirmed directly in every spot-checked IJMF abstract.
+2. Other Journal-Specific Patterns — Findings compression (PRACTICE ONLY / low-confidence): Abstract Findings statements are shorter and less quantitatively specific than FIELD_SKILL's magnitude-reporting norm, likely a byproduct of the 250-word abstract cap rather than a genuine body-text norm change (unverifiable without full text).
+
+FIELD_SKILL overrides: Abstract format only (structured abstract required in place of unstructured single-paragraph abstract).
+
+Access-limitation notes:
+- Emerald's author guidelines page (emeraldgrouppublishing.com/products/journals/author_guidelines.htm?id=IJMF) returned HTTP 403.
+- Emerald's journal homepage (emerald.com/ijmf) and individual article pages (emerald.com/ijmf/article-abstract/...) returned CAPTCHA/"unusual traffic" blocks on every attempt.
+- No full-text article was accessible at any point; all findings are abstract/metadata-level, sourced via IDEAS/RePEc mirrors and WebSearch snippets.
+- Word/page limits, citation style (APA vs Harvard), and heading numbering could not be confirmed specifically for IJMF; general Emerald house policy is noted but flagged as unconfirmed for this journal specifically.
+- Voice/register, hedging, and full-text structural conventions could not be independently verified beyond abstract-level evidence; these dimensions were left as FIELD DEFAULT with low-confidence caveats rather than asserted as confirmed deltas.

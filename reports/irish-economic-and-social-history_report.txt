@@ -1,0 +1,42 @@
+DELTA DETECTION REPORT
+Journal: Irish Economic and Social History
+Slug: irish-economic-and-social-history
+ABS Rating: 1
+Field: BUS HIST & ECON HIST
+Publisher: SAGE Publications
+
+ARTICLES FETCHED: 12+
+Source: IDEAS/RePEc, SAGE platform, QUB repository
+Years covered: 2024-2025 issues
+
+Early Stop: No
+Full research cycle completed with adequate article sample.
+
+DELTAS FOUND: 2 dimensions
+
+1. Manuscript Word Limit
+   Classification: ENFORCED (stated in guidelines AND confirmed in practice)
+   Delta: 8,000 words including footnotes is more restrictive than typical field journals
+
+2. Abstract Format
+   Classification: ENFORCED (stated in guidelines AND confirmed in practice)
+   Delta: Unstructured 120-word format (some field journals permit longer or structured abstracts)
+
+FIELD_SKILL OVERRIDES: None
+The journal does not override field conventions; it constrains them (word limit is tighter, abstract more prescriptive). No field baselines are violated or reframed.
+
+ACCESS LIMITATIONS:
+- Full-text article PDFs from SAGE platform are paywalled; extraction blocked by 403 errors
+- ResearchGate versions inaccessible (403 Forbidden)
+- Mitigation: Used IDEAS/RePEc metadata, author guidelines pages, QUB open-access repository link, and search-extracted abstracts to characterize recent submissions
+- 12+ articles examined via titles, abstracts, page ranges, and bibliographic metadata from 2024-2025 volumes
+- Did not require deep full-text analysis to identify hard constraints (stated in guidelines) and basic structural patterns (evident from abstract/title metadata)
+
+EARLY STOP REASON: Not triggered
+Adequate article sample obtained; guidelines fully accessible; deltas clearly identified and classified.
+
+NOTES:
+- Journal is ABS 1 (lower tier) but does not relax BUS HIST & ECON HIST field norms; instead, applies tighter restrictions (word limit, abstract format)
+- RELAXATION label not used: constraints are journal-specific policies, not relaxations of field baseline
+- Footnote reference style ("Irish Economic and Social History reference guidelines") not fully extracted due to paywall, but cited in official guidelines; compliance is non-negotiable
+- All hard constraints from official SAGE submission page: https://journals.sagepub.com/author-instructions/ies

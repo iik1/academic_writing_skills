@@ -1,0 +1,23 @@
+Journal: Journal of Applied Economics
+Slug: journal-of-applied-economics
+ABS: 1
+Field: ECON
+Publisher: Taylor & Francis (open access, 2018-present); previously Universidad del CEMA (1998-2017)
+
+Articles fetched: 0 full-text/abstract articles fetched successfully. All tandfonline.com URLs (journal homepage, about-this-journal, authorSubmission instructions page, current issue TOC, individual article full-text pages) returned HTTP 403 Forbidden to WebFetch. Recovered only secondary WebSearch snippets describing the journal, plus an aggregator (scispace.com) listing of Volume 28 Issue 1 article titles/topics (no abstracts). Pre-2018 RePEc/EconPapers archive (cemjaecon series) was accessible but covers the pre-Taylor & Francis UCEMA era and was not used as a style proxy for current practice.
+
+Early stop triggered: No (continued search attempts across guidelines, RePEc, EconPapers, scispace, UCEMA site, and multiple WebSearch queries before concluding access was exhausted).
+
+Deltas found: 0. No dimension could be confirmed to deviate from FIELD_SKILL because full text, abstracts, and section structure of current-era articles were not retrievable. The skill defers entirely to FIELD_SKILL and documents the access gap rather than asserting unverified norms.
+
+FIELD_SKILL overrides: none confirmed.
+
+Confirmed facts (not deltas, but recorded as journal facts):
+- Peer review is double-anonymized.
+- Journal is open access with an Article Publishing Charge (APC), waivable via institutional agreement.
+- Scope: empirical economics and applied theory, any field; current stated interest in new technologies, gender differences, sustainability, social cohesion.
+
+Access-limitation notes:
+- tandfonline.com blocks WebFetch uniformly (403) for this journal's pages, including the Instructions for Authors page, preventing extraction of HARD_CONSTRAINTS (structure, length, abstract format, citation style, headings, table/figure rules, prohibitions).
+- No SSRN, faculty-page, or open-access PDF mirrors of recent (2024-2026) articles were found via search to substitute for paywalled full text.
+- This is a materially thinner evidence base than typical for this pipeline; the skill file states this honestly and flags itself for revisit if institutional/EZProxy access becomes available.

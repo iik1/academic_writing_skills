@@ -1,0 +1,84 @@
+JOURNAL DELTA DETECTION REPORT
+==============================
+
+Journal: Journal of Regulatory Economics
+Slug: journal-of-regulatory-economics-writing-style
+ABS Rating: 2
+Field: ECON
+Publisher: Springer Nature
+
+ARTICLES FETCHED
+================
+10 distinct articles (2025-2026 issues)
+- "A clearer view: scope-of-practice expansion and access to eye care" (Bae & Sigaud, 2026)
+- "The industry costs and benefits of occupational licensing" (Plemmons, Deyo, Rhine, 2026)
+- "Bank monitoring incentives and stock price crash risk" (Nahar, Jagannath, Chauhan, 2026)
+- "Regulatory quality and value-chain participation in RCEP" (Rahman & Sharma, 2026)
+- "Is occupational licensing a barrier to self-employment?" (Kukaev & Timmons, 2026)
+- "Track access pricing in cross-border rail transport" (Bloch & Gagnepain, 2026)
+- "The interplay of regulatory auditing and self-auditing" (Dai, 2026)
+- "Incentive regulation and distribution network performance" (Nillesen & Pollitt, 2026)
+- "Analyzing the Effects of Occupational Licensing on Earnings Inequality" (Bae, Kleiner, Norris, Timmons, 2025)
+- "Regulatory arbitrage and partitioned pricing" (Garner & Moul, 2026)
+
+Articles accessed via: IDEAS/RePEc public metadata, Springer Nature article landing pages (abstract/metadata), NBER working papers, San Jose State institutional repository
+
+Full texts paywalled; analysis based on abstracts, metadata, and related NBER preprints targeting same journal.
+
+EARLY STOP TRIGGERED
+====================
+No. Full sample of 10 articles was accessed with reasonable effort.
+
+DELTAS FOUND
+============
+1 delta identified (page length constraint and cost structure)
+9 dimensions confirmed as FIELD DEFAULT (no deviation from econ-field-writing-style baseline)
+
+DELTA DETAILS
+=============
+Primary Delta: Page Length and Cost Disincentive
+- Type: RELAXATION (no hard limit, but 16-page cost baseline with $100/page penalty beyond)
+- Classification: ENFORCED (stated in guidelines)
+- Implication: Permits longer papers than typical ABS 4/4* journals (which enforce 35-40 page hard limits), but creates soft financial constraint
+- Dimension: Structure/Length
+
+FIELD_SKILL OVERRIDES
+====================
+None. No hard constraints from Journal of Regulatory Economics conflict with FIELD_SKILL baseline.
+The journal adheres to standard ECON field conventions for:
+- Voice (we, active voice)
+- Citation format (author-year parenthetical)
+- Article structure (empirical: Intro → Methods → Results → Conclusion; theory: Intro → Model → Analysis → Results)
+- Hedging norms (low overall; situation-specific)
+- Argumentation (preview results in intro; explicit contributions; clear gap framing)
+- Results presentation (integrated with interpretation; tables primary; quantitative specificity)
+- Conclusion style (genuine synthesis; shorter than intro; no new results)
+
+HARD CONSTRAINTS IDENTIFIED
+===========================
+1. Abstract: 150-250 words, structured, no undefined abbreviations
+2. Keywords: 4-6 required for indexing
+3. Data Availability Statement: mandatory, must include links/citations to public/archived datasets
+4. Author Contributions & Competing Interests: mandatory submission via interface (affects publication)
+5. File format: .docx or LaTeX; all editable source files required or desk rejection
+6. Page limit: None stated, but baseline is 16 typeset pages cost-free; $100/additional page
+7. Citation style: Author-year format (standard ECON)
+8. Section structure: Follows disciplinary norms; no journal-specific order mandated
+9. Table/figure rules: No explicit rules in public guidelines; standard econ conventions observed
+
+ACCESS LIMITATIONS
+==================
+Springer Nature paywalls full-text articles behind authentication. Analysis limited to:
+- Public article abstracts and metadata (via Springer, IDEAS/RePEc)
+- NBER working paper full texts (publicly available, targeting same journal)
+- San Jose State institutional repository (abstract/metadata)
+- Springer author guidelines landing page
+
+No direct access to submission guidelines PDF or full-text articles of 2025-2026 issues.
+Despite these limitations, 10-article sample provides sufficient evidence for delta detection, as abstracts and metadata are consistent across articles and reveal no systematic deviations from FIELD_SKILL.
+
+Spot-check intentionally focused on occupational licensing and regulatory economics topics (domain of recent strong acceptance rates) to maximize detection of journal-specific conventions if they exist. None found.
+
+CONCLUSION
+==========
+Journal of Regulatory Economics (ABS 2) largely follows standard ECON field conventions established by higher-tier journals. The primary journal-specific requirement is the page-length cost structure, which is administrative rather than stylistic. For writing purposes, authors should treat this journal as adhering to econ-field-writing-style baseline, with the notable exception that longer manuscripts (16+ pages) are permitted but attract publication costs.

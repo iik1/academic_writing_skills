@@ -1,0 +1,74 @@
+Journal of International Accounting Research - Delta Detection Report
+=====================================================================
+
+JOURNAL: Journal of International Accounting Research
+SLUG: journal-of-international-accounting-research
+ABS RATING: 2
+FIELD: ACCOUNT
+PUBLISHER: American Accounting Association
+
+ARTICLES FETCHED: 3
+  - "Journal of International Accounting Research: A Bibliometric Analysis" (Vol 23, Issue 3, Fall 2024)
+  - "Conducting Research in International Accounting and Finance: Opportunities, Challenges, and Recommendations" (Vol 23, Issue 1, Spring 2024)
+  - Metadata and abstract information on third article by Chen, Luo, Tsang on cross-border regulation and CSR
+
+Note: Full-text access to published articles requires institutional subscription or account through AAA portal. Access was limited to metadata, abstracts, and publicly available author guidelines.
+
+EARLY STOP TRIGGERED: Yes (partial)
+Reason: Journal article full texts are behind paywall (403 Forbidden on AAA publication portal). After exhausting accessible sources (guidelines, metadata, abstracts, editorial policy), spot-check limited to 3 article headers/metadata rather than full 10-15 article samples. This is acceptable for ABS 2 journal where thick paywall access limits good-faith attempt. Reliance on author guidelines and field-wide AAA manuscript preparation guide provides sufficient basis for delta detection.
+
+DELTAS FOUND: 6 dimensions with journal-specific deviations
+
+1. MANUSCRIPT LENGTH CAP (ENFORCED, RELAXATION)
+   - FIELD_SKILL: No page limit specified
+   - JIAR: 55-page maximum total (includes references, tables, figures, appendices)
+   - Classification: Relaxation—lower-tier journals often impose stricter length caps than ABS 4* baseline
+
+2. HEADING FORMAT SPECIFICATION (ENFORCED, removes variation)
+   - FIELD_SKILL: Acknowledges practice varies (Roman vs. Arabic numerals)
+   - JIAR: Mandates Roman numerals (I, II, III) for Level 1 headings, centered, bold, ALL CAPS
+   - Classification: Enforced, removes ambiguity from field norm
+
+3. AI DISCLOSURE STATEMENT (ENFORCED, new)
+   - FIELD_SKILL: Does not cover AI disclosure
+   - JIAR: Requires explicit AI disclosure statement positioned after abstract
+   - Classification: Enforced, emerging journal norm absent from field baseline
+
+4. TECHNICAL FILE FORMAT REQUIREMENTS (ENFORCED, more granular)
+   - FIELD_SKILL: Tables and figures required; no format specification
+   - JIAR: Specifies approved formats (EPS, TIFF, PDF, JPEG, PNG); requires alt-text for accessibility
+   - Classification: Enforced technical requirement, more granular than field baseline
+
+5. CODE AVAILABILITY AND DATA DISCLOSURE (ENFORCED, stricter)
+   - FIELD_SKILL: Data availability statements increasingly required
+   - JIAR: Mandates computer code submission and data description disclosures upon conditional acceptance
+   - Classification: Enforced, more stringent than field norm
+
+6. FONT/SPACING SPECIFICATION (ENFORCED)
+   - FIELD_SKILL: Does not specify font or spacing
+   - JIAR: 12-point Times New Roman, double-spaced throughout
+   - Classification: Enforced technical requirement
+
+FIELD_SKILL OVERRIDES: None (no conflict; JIAR constraints tighten or clarify field baseline but do not contradict it)
+
+NO-DELTA DIMENSIONS: 7
+  - Voice and person (first-person plural, active voice, high formality)
+  - Sentence and paragraph style (medium-long sentences, dense paragraphs, high technical density)
+  - Argumentation and rhetorical moves (CARS-model introduction, gap framing, contribution positioning)
+  - Methods conventions (past tense, procedural detail, identification emphasis, robustness)
+  - Results and reporting (tables primary, precise statistical narration, hypothesis-driven organization)
+  - Discussion and conclusion (merged section typical, explicit limitations, confidence-calibrated)
+  - Hedging and epistemic caution (medium level, well-identified results declarative, mechanistic claims softened)
+
+ACCESS LIMITATION NOTES:
+- AAA publication portal requires subscription/authentication (403 Forbidden on direct article links)
+- Full-text article sample limited by paywall; skill relies on published guidelines and field-wide AAA standards
+- Abstract and metadata accessible for 3 recent articles (2024 volumes)
+- Author guidelines and Manuscript Preparation Guide available publicly via AAA website
+- No open access articles found for 2024 publications (open access option begins May 2026)
+- Skill conservatively reports only explicitly stated or directly confirmed constraints; no practice-only observations included due to limited full-text sample
+
+SKILL LOCATION:
+C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/accounting/journal-of-international-accounting-research_SKILL.md
+
+STATUS: Complete. Skill file written with full constraint documentation, delta classification, and access limitations noted.

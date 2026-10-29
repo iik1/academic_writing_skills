@@ -1,0 +1,19 @@
+Journal: International Journal of Globalisation and Small Business
+Slug: international-journal-of-globalisation-and-small-business
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 10 (titles/authors only, via RePEc/IDEAS listing; no full text or abstract text accessible)
+Early stop triggered: No (exhausted good-faith access chain for an ABS 1 / thin-access journal; proceeded to write skill per instructions)
+
+Deltas found: 2
+- Abstract length (RELAXATION / GUIDELINE ONLY): Inderscience house-wide cap of <150 words, tighter than FIELD_SKILL's 150-250 word range.
+- Keyword count (GUIDELINE ONLY): 10-15 keywords required, more than typical field norm of 5-6.
+
+FIELD_SKILL overrides: none (no IJGSB-specific structural, voice, or citation deviations found; publisher-wide constraints noted as relaxations/guidelines only, not confirmed journal-specific norms)
+
+Access-limitation notes:
+- Inderscience journal author guidelines PDF (authorguide.pdf) returned as raw binary to WebFetch and could not be parsed directly; guideline content obtained instead via WebSearch-indexed summaries of Inderscience's standard "Notes for Authors," which applies uniformly across all Inderscience journals (no IJGSB-specific guideline page found).
+- inderscienceonline.com/journal/ijgsb returned HTTP 403 Forbidden.
+- No IJGSB article abstracts, full text, or section headings were accessible (all paywalled); only titles and author names were retrievable via RePEc/IDEAS.
+- Consequently, most style dimensions (voice, hedging, statistical reporting, citation density, structural deviations) could not be independently verified against FIELD_SKILL and are marked FIELD DEFAULT by default/no evidence, per instructions for a thin-access ABS 1 journal.

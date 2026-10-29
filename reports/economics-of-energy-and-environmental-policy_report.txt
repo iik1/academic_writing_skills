@@ -1,0 +1,21 @@
+Journal: Economics of Energy and Environmental Policy
+Slug: economics-of-energy-and-environmental-policy
+ABS: 1
+Field: ECON
+Publisher: International Association for Energy Economics (IAEE)
+
+Articles fetched: 10 (abstracts, keywords, DOIs — all Volume 15, 2026)
+Early stop triggered: No (reached good-faith target of 10 for an ABS 1 journal)
+
+Deltas found (3, all documented in skill):
+1. Structural deviation — mandatory standalone 1-2 page non-technical Executive Summary (ENFORCED, stated in guidelines)
+2. Length — 6,000-word cap excluding abstract/footnotes/references, explicit instruction to be "light on equations, tables and figures" (ENFORCED, stated in guidelines; contrasts with FIELD_SKILL's longer/denser norm)
+3. Other pattern — sampled articles skew toward applied panel/spatial econometrics and descriptive policy analysis rather than sharp causal identification designs; treated as a RELAXATION of FIELD_SKILL's identification-strategy emphasis, not a new norm (PRACTICE ONLY / low confidence given abstract-only access)
+
+FIELD_SKILL overrides: word limit (6,000 words), Executive Summary requirement, Chicago 17th ed. author-date citations, unstructured 200-word abstract, single-file submission with two versions (identified + blind), no image-based tables.
+
+Access-limitation notes:
+- No institutional EZProxy access; full text of all sampled articles was inaccessible. All spot-check observations are based on abstracts/keywords/DOIs pulled directly from the journal's own site (eeep.iaee.org), which was reachable and yielded a real, current list of articles.
+- WebSearch was largely non-functional/degraded during this session (returned mostly irrelevant arXiv/bioRxiv results); WebFetch against the journal's own domain worked well and was the primary source.
+- Archive pages for older years (e.g., eeep.iaee.org/2023/) returned 404, so the sample is concentrated in Volume 15 (2026) rather than spread across multiple years. This is a documented limitation, not a fabrication.
+- Voice/register and citation density inside full articles could not be confirmed; skill marks these as inconclusive rather than asserting deltas.

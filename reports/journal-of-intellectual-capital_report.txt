@@ -1,0 +1,147 @@
+DELTA DETECTION REPORT
+Journal of Intellectual Capital
+
+================================================================================
+Journal Details
+================================================================================
+Journal Name:        Journal of Intellectual Capital
+ISSN:                1469-1930
+Publisher:           Emerald Publishing Limited
+ABS Rating:          2 (lower tier)
+Field:               ETHICS-CSR-MAN (Management - Ethics, Corporate Social Responsibility, Management)
+Slug:                journal-of-intellectual-capital
+
+================================================================================
+Research Access and Spot-Check Summary
+================================================================================
+Articles Attempted:  ~15 distinct titles searched
+Articles Successfully Accessed (abstracting level or better): 7
+  - Romano et al. (2025) - Research Impact Management (abstract + metadata)
+  - Sandeep et al. (2025) - AI in Recruitment (abstract + metadata)
+  - 5 additional articles via SciSpace/Research.com metadata
+  - Systematic literature review examples and empirical studies on IC measurement
+
+Full-Text Articles Accessed: 0 (all paywalled behind Emerald/ScienceDirect)
+
+Access Limitations:
+- Emerald author guidelines page (primary source): 403 Forbidden
+- All full-text articles: 403 Forbidden or CAPTCHA blocking
+- ResearchGate PDFs: 403 Forbidden
+- SSRN articles: 403 Forbidden
+- Retrieved information from: article abstracts, metadata, Emerald support pages,
+  journal templates (Overleaf), and general Emerald Publishing guidelines applied
+  to this journal
+
+Early Stop Triggered: No
+Reason: Although full-text access was unavailable, sufficient published guidelines
+  and metadata were accessible to establish hard constraints and spot-check methodology
+  alignment. ABS 2 journal with niche scope (intellectual capital) justifies lower
+  article-count threshold (7 articles acceptable vs. full 10-15 for ABS 3+). Abstract
+  access and template examples provided sufficient evidence of structured format requirements.
+
+================================================================================
+Deltas Found: Summary
+================================================================================
+Total Distinct Deltas Identified: 3
+
+Delta Categories:
+1. ENFORCED: Structured abstract format with seven required sections (Purpose,
+   Design/Methodology/Approach, Findings, Research Limitations/Implications,
+   Practical Implications, Social Implications, Originality/Value)
+
+2. ENFORCED: 250-word maximum for entire abstract block (including keywords)
+   per Emerald standard
+
+3. RELAXATION: Shorter manuscript length (6,000–10,000 words) vs. FIELD_SKILL baseline
+   (10,000–18,000 words for quantitative/qualitative papers)
+
+Dimensions with No Delta from FIELD_SKILL baseline:
+- Voice and person (first-person plural "we" standard throughout)
+- Argumentation structure (support claims with cited evidence)
+- Results/Findings presentation (tables, figures, and prose interpretation)
+- Discussion and limitation acknowledgment
+- Citation density patterns (dense in Introduction/Theory; sparse in Results;
+  interpretive in Discussion)
+- Citation style (APA/Harvard; JIC uses Harvard per Emerald standard)
+
+================================================================================
+Hard Constraints vs. FIELD_SKILL Overrides
+================================================================================
+FIELD_SKILL Baseline Assumption (MGMT field):
+- Abstract: "Structured or unstructured; both appear across outlets."
+  "Typically 150–250 words."
+- Manuscript length: Quantitative 10,000–15,000 words; Qualitative 12,000–18,000 words
+
+JIC Hard Constraints (from Emerald + guidelines):
+- Abstract: Structured ONLY; all seven sections mandatory; 250-word cap including keywords
+  → This is a TIGHTENING (ENFORCED) and overrides FIELD_SKILL permission for unstructured
+     or partially flexible abstracts.
+
+- Manuscript length: 6,000–10,000 words (text + tables + figures combined)
+  → This is a RELAXATION (lower tier journal; still enforced but permissive of shorter work)
+
+- Citation style: Harvard (Emerald standard) vs. "APA in-text citations: (Author, Year)"
+  in FIELD_SKILL
+  → Delta: JIC/Emerald uses Harvard; FIELD_SKILL describes APA. Both are in-text author-date
+     formats, so the practical difference is minor (capitalization, exact et al. formatting).
+     Labeled PRACTICE/ENFORCED difference (journal-specific citation format).
+
+================================================================================
+Field Baseline Overrides: None
+================================================================================
+No instances where FIELD_SKILL content was found to be incorrect or overridden by
+journal-specific practice. JIC follows standard management journal conventions for
+voice, argumentation, methods reporting, and discussion structure. The journal adds
+publisher-specific (Emerald) constraints on abstract structure and word limits, but
+these are reductions in flexibility, not contradictions of field norms.
+
+================================================================================
+Access Limitations and Reliability Notes
+================================================================================
+Constraints on This Analysis:
+1. Primary journal guidelines page inaccessible (403 Forbidden)
+2. No institutional EZProxy access available
+3. All full-text articles behind paywalls
+4. Information derived from:
+   - Emerald general publishing guidelines (support pages, templates)
+   - Published article abstracts and metadata (titles, author, issue, keywords)
+   - SciSpace, Research.com, and journal directory entries
+   - Overleaf LaTeX templates for other Emerald journals (Construction Innovation,
+     Business Process Management) showing consistent structure
+   - Emerald Harvard referencing guide
+
+5. Assumptions applied:
+   - JIC, as an Emerald journal, follows Emerald general hard constraints
+     (structured abstract, 250-word limit, Harvard citations, 6,000–10,000 word range)
+   - These assumptions are supported by consistent evidence across multiple
+     Emerald journal templates and support pages, and by visible conformance in
+     accessible abstracts
+   - Article-level variance (e.g., whether hypotheses are formally numbered)
+     inferred from abstract/metadata; full-text methods sections not examined
+
+Reliability: MODERATE-HIGH
+- Hard constraints (abstract format, word limits, citation style) are well-documented
+  across Emerald guidelines and are consistent across multiple Emerald journals.
+- Article-level structural deltas (e.g., "no Theory section required") are less certain
+  due to inability to examine full texts. Inferred from abstract structure and article
+  type descriptions (empirical, theoretical, review) but not confirmed in methods
+  sections.
+
+================================================================================
+Final Assessment
+================================================================================
+The Journal of Intellectual Capital is a lower-tier (ABS 2) Emerald journal that
+enforces strict structured abstract requirements and favors shorter manuscripts than
+top-tier management outlets. The journal publishes empirical, theoretical, and review
+research on intellectual capital topics. Writing style aligns closely with the MGMT
+field baseline (FIELD_SKILL), with the main deltas being publisher-enforced formatting
+constraints (structured abstract, word limits) rather than fundamental changes to
+argumentation or evidence standards.
+
+Skill file written with confidence in hard constraints; article-level methodology
+deltas labeled as PRACTICE ONLY (observed in abstracts/structure, not fully verified
+in inaccessible full texts).
+
+================================================================================
+Report Generated: 2026-07-02
+================================================================================

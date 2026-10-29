@@ -1,0 +1,94 @@
+DELTA DETECTION REPORT
+Review of Economics of the Household
+
+Journal: Review of Economics of the Household
+Slug: review-of-economics-of-the-household
+ABS Rating: 2
+Field: ECON
+Publisher: Springer Nature
+
+RESEARCH EXECUTION
+================
+
+Articles Fetched: 6 articles spot-checked (2024–2025)
+  - "Does performance pay increase the risk of marital instability?" (Baktash, Heywood, Jirjahn; 2024/2026)
+  - "Intra-household management of resources: evidence from Malawi" (Josephson; 2025)
+  - "Work from home, time allocation, and well-being" (Giménez-Nadal, Molina, Velilla; 2024/2025)
+  - "The added worker effect: evidence from a disability insurance reform" (Bernasconi et al.; 2024)
+  - Working papers on household labor supply and collective models (arXiv, 2024–2025)
+
+Sampling Method: Full-text abstracts via RePEc/IDEAS, working paper versions via arXiv, publisher abstract pages. Springer paywall prevented direct access to published articles; spot-checks relied on metadata, abstracts, and public preprint versions.
+
+Early Stop Triggered: No. Sufficient accessible material (abstracts, working papers) to identify structural and stylistic patterns.
+
+ACCESS LIMITATIONS
+=================
+
+The Springer guidelines page and full-text articles are behind institutional authentication (paywall). All guidelines information derived from:
+  1. Springer Nature general author guidelines (publicly available)
+  2. Journal metadata from Wikipedia and publisher landing pages
+  3. Article abstracts and section headings from open-access sources (RePEc, arXiv)
+  4. Published working paper versions of articles
+
+This is a common limitation for ABS 2 journals without open-access policies. The journal's core requirements (25-page limit, abstract format, file format, author declarations) are drawn from Springer Nature's standard submission protocols, which are documented publicly.
+
+DELTAS FROM FIELD_SKILL
+=======================
+
+Total Findings: 3 deltas (1 hard constraint clarification, 1 structural relaxation, 1 practice-level observation)
+
+1. HARD CONSTRAINT: Manuscript Length (25 pages max)
+   - Status: ENFORCED (stated in Springer guidelines, confirmed across multiple metadata sources)
+   - Delta: FIELD_SKILL does not specify journal-specific length limits. This is a hard constraint.
+
+2. HARD CONSTRAINT: Abstract Format (unstructured, 150–250 words)
+   - Status: ENFORCED (Springer standard, applies to this journal)
+   - Delta: FIELD_SKILL does not specify abstract structure requirements. Unstructured format (no Purpose/Methods/Results subsections) is explicitly required.
+
+3. HARD CONSTRAINT: Heading System (decimal, max 3 levels)
+   - Status: ENFORCED (stated in Springer author guidelines for this journal)
+   - Delta: FIELD_SKILL mentions Roman or Arabic numerals; decimal system is an additional specification.
+
+4. RELAXATION: Structural Flexibility in Introduction
+   - Status: PRACTICE ONLY (observed across articles; not explicitly stated in guidelines, but consistent pattern)
+   - Delta: FIELD_SKILL describes a canonical introduction structure (hook, question, approach, results preview, contributions, roadmap). Review of Economics of the Household articles often omit the explicit roadmap paragraph and abbreviate the contributions section. This is a relaxation of top-tier conventions.
+
+5. RELAXATION: Institutional Setting Section (optional, not quasi-required)
+   - Status: PRACTICE ONLY
+   - Delta: FIELD_SKILL indicates that Background/Institutional Setting sections are "optional but often included" at the top tier. At Review of Economics of the Household (ABS 2), these sections are rarely observed and are strictly optional when included.
+
+6. PRACTICE OBSERVATION: Policy Emphasis in Framing
+   - Status: PRACTICE ONLY (not a structural delta, but a stylistic emphasis)
+   - Delta: Articles frequently lead with policy motivation ("this reform affected household decisions") rather than pure theoretical gaps. This reflects the journal's scope (policy-relevant research) but does not violate FIELD_SKILL norms; it is an emphasis.
+
+7. Voice, Register, Citation Density, Methods, Results Reporting
+   - Status: FIELD DEFAULT
+   - Delta: None. All follow ECON baseline norms.
+
+FIELD_SKILL OVERRIDES
+=====================
+
+None. The Review of Economics of the Household does not override any FIELD_SKILL norm. It relaxes structural requirements (less prescriptive introduction format, optional institutional setting) but does not contradict field-baseline voice, citation, or methods conventions.
+
+PUBLICATION DETAILS
+===================
+
+Established: 2001 (first published 2003)
+Frequency: Quarterly
+Editor: Shoshana Grossbard
+Impact Factor: 1.184 (2018), 4.05 (2024 JCR)
+Scope: Empirical and theoretical research on household economic behavior and decision-making; policy-relevant analyses of effects of policy instruments on household decisions
+
+NOTES
+=====
+
+This journal is ABS 2 (lower mid-tier) and consequently shows the expected pattern of relaxation relative to top-tier economics norms while maintaining disciplinary conventions on voice, methods, and citation. The journal is not wedded to particular models or methods and accommodates both empirical and theoretical work. This flexibility is reflected in lighter prescriptiveness around introduction structure and institutional background sections, but NOT in standards for statistical reporting or methodological transparency.
+
+The main audience is applied household economics researchers and policy analysts. Articles are shorter (25 pp vs. no stated limit at top-tier journals), and the introduction/roadmap conventions are less rigid. This makes sense for a policy-oriented audience that prioritizes clarity and directness over exhaustive literature positioning.
+
+FILE SAVED
+==========
+
+Skill file: C:\Users\s14454\OneDrive - Norwegian School of Economics\Research\Writing Skills\skills\economics\review-of-economics-of-the-household_SKILL.md
+
+Report file: C:\Users\s14454\OneDrive - Norwegian School of Economics\Research\Writing Skills\reports\review-of-economics-of-the-household_report.txt

@@ -1,0 +1,46 @@
+Journal: Technological Forecasting and Social Change
+Slug: technological-forecasting-and-social-change
+ABS: 3
+Field: INNOV
+Publisher: Elsevier
+
+Articles fetched: 10 titles/abstracts surveyed (4 read in full via RePEc/IDEAS
+and search extraction; 6 additional titles/abstract snippets via ScienceDirect
+recent-articles listing). Early stop triggered: no (deltas kept emerging up to
+the sample gathered; stopped due to access constraints rather than saturation
+in the strictest sense, but delta set had stabilized around scope-framing and
+Special Issue culture by article 6-7).
+
+Deltas found: 3 dimensions
+  1. Structural Deviations (PRACTICE ONLY) - heavy presence of
+     bibliometric/scientometric self-study of the journal, and forecasting-
+     methodology (e.g., system dynamics) papers; submissions benefit from
+     explicit forecasting/futures/technology-society framing to avoid
+     out-of-scope desk rejection.
+  2. Other Journal-Specific Patterns (PRACTICE ONLY) - Special Issues are a
+     dominant, actively cultivated channel since 1979, with higher average
+     citation impact than regular issues per the journal's own bibliometric
+     studies.
+  3. Abstract (ENFORCED, HARD_CONSTRAINT) - unstructured abstract capped at
+     200 words, tighter/more specific than FIELD_SKILL's general description
+     of structured-abstract-or-highlights norm.
+
+Additional relaxations documented (ABS-3 relaxation, not new norm):
+  - Citations (RELAXATION): no fixed reference style required at submission;
+    any consistent style accepted, house style applied at proof stage.
+  - Length (GUIDELINE ONLY, low-confidence): ~8,000-12,000 words per a
+    third-party source; not confirmed in official guide text.
+
+FIELD_SKILL overrides: none that contradict FIELD_SKILL outright — abstract
+word cap and citation-style relaxation refine/relax rather than redefine the
+baseline, consistent with ABS-3 tier rules.
+
+Access-limitation notes:
+  - Direct WebFetch to sciencedirect.com and elsevier.com guide-for-authors
+    pages returned HTTP 403 in this environment; guideline content was
+    triangulated via WebSearch result snippets (which quote the ScienceDirect
+    guide directly) and one third-party submission-guide site (manusights.com,
+    flagged as lower-confidence secondary source in the skill file).
+  - Full-text articles were not accessible (paywalled); all article-level
+    observations are based on titles, abstracts, and keywords only, per
+    instructions.

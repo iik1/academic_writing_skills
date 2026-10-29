@@ -1,0 +1,37 @@
+Journal: Dynamic Games and Applications
+Slug: dynamic-games-and-applications
+ABS: 1
+Field: ECON
+Publisher: Springer Nature
+
+Articles fetched: 8 (1 full-text via arXiv self-archived preprint later published in DGA;
+7 via publisher abstract pages / search-engine snippets / RePEc issue listings)
+Early stop triggered: No (thin-access good-faith sample per task instructions for ABS 1 journal)
+
+Deltas found: 3 dimensions
+  1. Headings — ENFORCED. Decimal numbering system, max 3 heading levels (Springer Nature
+     house style), confirmed in spot-checked full-text article. Not specified in FIELD_SKILL.
+  2. Voice/register and structural apparatus — PRACTICE ONLY. Heavy formal
+     Definition/Theorem/Proposition/Corollary/Assumption numbering with proofs deferred to a
+     long lettered technical appendix; closer to applied-math/control-theory convention than
+     typical ABS econ theory papers.
+  3. Other journal-specific patterns — PRACTICE ONLY. Early "Summary of Main Results"
+     subsection previewing numbered theorems (rather than plain-language findings), and a
+     "Table of Notations" appendix section common in the sample.
+
+FIELD_SKILL overrides: Headings dimension (decimal numbering, 3-level max) overrides
+FIELD_SKILL's more permissive Roman/Arabic numeral convention.
+
+Access-limitation notes:
+- Springer Nature submission-guidelines and aims-and-scope pages redirect through a
+  cookie-consent/IdP wall; content was reconstructed via WebSearch snippet summaries rather
+  than direct WebFetch of the guidelines page itself.
+- Full text is paywalled for most articles; one full-text sample was obtained via an
+  arXiv-hosted preprint later published in the journal (Zhang & Zhu, "A Dynamic Adverse
+  Selection Multiagent Model with Off-Menu Actions").
+- The accessible sample skews toward theoretical/mechanism-design and control-theory-adjacent
+  papers rather than applied-empirical economics papers, so statistical-reporting norms for
+  empirical DGA submissions could not be directly verified and are marked FOLLOWS FIELD_SKILL
+  norm by default absent contrary evidence.
+- This is consistent with instructions for a lower-tier (ABS 1) journal: a smaller good-faith
+  sample was used and limitations are documented rather than fabricating additional coverage.

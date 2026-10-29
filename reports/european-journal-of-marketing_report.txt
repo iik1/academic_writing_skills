@@ -1,0 +1,19 @@
+Journal: European Journal of Marketing
+Slug: european-journal-of-marketing
+ABS: 3
+Field: MKT
+Publisher: Emerald
+
+Articles fetched: 5 full structured-abstract fetches (Tipping to the top?, Knowledge/attitude/practice blockchain scale, Charting value creation strategies B2B salespeople, Consumer existentialist disengagement) + 4 additional abstracts surfaced via search used only to confirm format stability (Transformative sustainability marketing, How do extended reality experiences influence firm value?, Textual or visual AISA service failure, Impact value and sustainable well-being centred service systems). Full-text was not accessible (Emerald paywalled beyond abstract); front-matter (abstract, keywords, paper type) was sufficient to establish structural deltas per task instructions.
+
+Early stop triggered: No — deltas stabilized naturally after 5 direct fetches; additional abstracts confirmed rather than added new findings, so further sampling was not pursued.
+
+Deltas found: 3 dimensions
+1. Abstract (ENFORCED) — Emerald structured abstract required (Purpose, Design/Methodology/Approach, Findings, Research Limitations/Implications, Practical Implications, Social Implications where relevant, Originality/Value), max 250 words, replacing FIELD_SKILL's unstructured abstract default.
+2. Citations (ENFORCED) — Harvard referencing style, not APA as assumed in FIELD_SKILL.
+3. Structural Deviations (ENFORCED) — explicit "Paper Type" classification (Research Article, Conceptual Paper, etc.) attached to every article.
+Additional low-confidence note (PRACTICE ONLY, single article) — EJM tolerates unusually philosophical/theory-only conceptual papers (e.g., Kierkegaardian framework) without empirical data.
+
+FIELD_SKILL overrides: Abstract format and Citation style (both explicitly overridden per Hard Constraints from Emerald house style); all other dimensions (voice, hedging, methods, results reporting, discussion structure) follow FIELD_SKILL norm — no override.
+
+Access-limitation notes: Direct WebFetch to Emerald's official author-guidelines page returned 403/404; guideline content was reconstructed from WebSearch snippets of Emerald's generic Harvard-referencing and structured-abstract how-to pages plus direct inspection of EJM article abstract pages, which was sufficient to corroborate structure, word limits, and citation style. Full-text bodies were not accessible (paywalled), consistent with expected access constraints noted in the task instructions.

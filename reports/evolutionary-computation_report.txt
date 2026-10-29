@@ -1,0 +1,41 @@
+Journal: Evolutionary Computation
+Slug: evolutionary-computation
+ABS: 3
+Field: OR&MANSCI
+
+Articles fetched: 0 full-text (all direct.mit.edu/evco/article/... pages returned HTTP 403 Forbidden).
+Article-level evidence used instead: titles/authors/metadata for ~6-7 articles identified via search-engine snippets
+(e.g. "Evolutionary Algorithms for Parameter Optimization-Thirty Years Later" 2023; PPSN 2024 Extended Versions
+special issue titles; Vol. 34 Issue 1 contributor list). No abstracts or section text were readable.
+
+Early stop triggered: No (not a deliberate early stop on convergence) - access chain was exhausted. All
+direct.mit.edu article pages 403'd; WebSearch snippets did not surface enough abstract/section text to
+support a genuine 15-article spot-check. Guidelines page itself also 403'd on direct fetch; content was
+recovered via search-engine-indexed summary only.
+
+Deltas found: 2 dimensions
+  1. Structural Deviations - journal-specific self-categorization into three content types (Applications /
+     Experimental Results / Theory). ENFORCED per guidelines; not confirmed against article text (access-limited).
+  2. Other Journal-Specific Patterns - explicit, strongly worded prohibition on metaphor-based "novel algorithm"
+     naming/framing (must be described in purely computational terms, no biological metaphor vocabulary).
+     ENFORCED per guidelines and consistent with known field-wide editorial stance.
+
+FIELD_SKILL overrides:
+  - Length: hard 8,000-12,000 word / 35-page (journal LaTeX style) cap - not in FIELD_SKILL.
+  - Format mandate: LaTeX preparation, PDF submission via Editorial Manager - not in FIELD_SKILL.
+  - Supplementary Material: unlimited-size online supplement allowed post-acceptance - more permissive/specific
+    than FIELD_SKILL's general appendix guidance.
+  - Explicit prohibition on metaphor-inspired algorithm naming/framing - unique to this journal, no FIELD_SKILL
+    counterpart.
+
+Access-limitation notes:
+  - direct.mit.edu/evco/pages/submission-guidelines: HTTP 403 on WebFetch; guideline content recovered via
+    WebSearch result summaries only (moderate confidence, cross-corroborated across 2 separate searches).
+  - direct.mit.edu/evco/issue and all direct.mit.edu/evco/article/* pages: HTTP 403 on WebFetch.
+  - No RePEc/IDEAS, SSRN, or open-access mirror found for this journal's content (it is a computer-science /
+    evolutionary-computation venue, not typically mirrored on econ preprint servers).
+  - Wikipedia journal page fetched successfully and used for scope/publisher/editorial background.
+  - Given the hard access wall on MIT Press Direct, the delta set above should be treated as based on strong
+    guideline evidence but weak article-level confirmation. A future pass with institutional/EZProxy access
+    to direct.mit.edu would be needed to properly spot-check 15 articles and confirm or downgrade the
+    Structural Deviations finding.

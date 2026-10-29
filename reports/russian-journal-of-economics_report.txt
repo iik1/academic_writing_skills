@@ -1,0 +1,102 @@
+JOURNAL SKILL GENERATION REPORT
+===============================
+
+Journal:               Russian Journal of Economics
+Slug:                 russian-journal-of-economics
+ABS Rating:           1
+Field:                ECON
+Publisher:            Non-profit partnership "Voprosy Ekonomiki" (Pensoft/ARPHA platform)
+Publisher Country:    Russia
+
+RESEARCH EXECUTION
+==================
+
+Articles Fetched/Spot-Checked:  4 (via journal website and metadata)
+  - Economics of gender: A bibliometric analysis (Kalabikhina & Rebrey, 2022)
+  - Social unrest, subjective well-being, and active government (Le & Tran, 2025)
+  - Economic growth volatility: Is financialization a culprit? (Ullah, 2025)
+  - Advertising types cross-network effects (multiple articles)
+
+Access Limitations:
+  - Full-text PDFs behind journal paywall (Pensoft platform)
+  - Abstracts and article metadata accessible via journal website
+  - Section headings, numbering, and structure visible via table of contents
+  - Author guidelines obtained from https://www.econorus.org/enguidelines.phtml (accessible)
+
+Early Stop Triggered:  NO
+  Full author guidelines were successfully retrieved from the journal's public guidelines page.
+  Spot-checking of 4 articles confirmed structural compliance with guidelines.
+  Additional articles were attempted but access remained limited to metadata.
+  Good-faith effort completed despite paywall constraints.
+
+DELTAS FROM FIELD_SKILL (econ-field-writing-style)
+===================================================
+
+Deltas Found:  1 major (citation density), 0 minor
+
+1. CITATION DENSITY AND LITERATURE ENGAGEMENT (RELAXATION)
+   Classification: RELAXATION (consequence of length constraint)
+   Evidence: Author guidelines specify maximum 40,000 printed characters (~6,000-8,000 words).
+   FIELD_SKILL expects introduction-heavy literature engagement (ABS 4*/4 norm).
+   A paper at half the typical length of ABS 4*/4 papers cannot sustain the same
+   citation density. Overall citation count will be proportionally lower,
+   though section-level norms (high in intro, low in conclusion) should hold.
+   This is not a stylistic choice but a mechanical constraint.
+
+Abstract Length (Not a Delta):
+   Author guidelines specify 150-200 words (bilingual).
+   FIELD_SKILL explicitly excludes abstract length from its scope.
+   No conflict; documents journal-specific constraint.
+
+ALL OTHER DIMENSIONS: FIELD DEFAULT
+   Voice and register, sentence structure, argumentation, methods conventions,
+   results reporting, hedging, citation format (author-date), paraphrase over quotation,
+   conclusion brevity—all align with FIELD_SKILL norms. No deviations observed.
+
+FIELD_SKILL OVERRIDES
+====================
+
+None. The journal's hard constraints (40k character limit, bilingual abstract,
+numbered sections, JEL codes, anonymous submission) do not conflict with
+FIELD_SKILL content. They supplement and constrain it, but do not contradict it.
+
+AUTHOR GUIDELINES COVERAGE
+===========================
+
+Fully extracted and documented:
+  - Manuscript structure (numbered sections, optional appendices)
+  - Word/character limits (40,000 for articles, 20,000 for notes)
+  - Abstract format (150-200 words, bilingual, + keywords + JEL)
+  - Citation style (author-date, alphabetically ordered references, Russian first)
+  - Heading conventions (numbered with decimal subsection hierarchy allowed)
+  - Table and figure rules (numbered, captions, source line required)
+  - File format (Word .doc or TeX; anonymous PDF required)
+  - No explicit language/tone prohibitions stated in guidelines
+
+NOTES
+=====
+
+1. This is an ABS 1 (lower-tier) journal with significantly shorter length limits
+   than the ABS 4*/4 baseline. Authors transitioning from top-tier journals should
+   expect to compress their introduction and literature engagement.
+
+2. The journal is open access via Pensoft/ARPHA, so submissions are not competing
+   with top-tier paywalled outlets. This may explain the accessibility of guidelines
+   and metadata, but the full-text paywall for published articles remained inaccessible
+   during this research.
+
+3. The bilingual requirement (Russian + English abstract) is a practical constraint
+   that does not appear in the FIELD_SKILL baseline but is essential for compliance.
+
+4. JEL classification codes are explicitly required (not optional), unlike some
+   economics journals where they are advisory.
+
+SKILL FILE LOCATION
+===================
+
+Saved to: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/economics/russian-journal-of-economics_SKILL.md
+
+REPORT COMPLETION DATE
+======================
+
+2026-07-02 12:48-13:15 UTC

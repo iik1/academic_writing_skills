@@ -1,0 +1,96 @@
+JOURNAL SKILL GENERATION REPORT
+===============================
+
+Journal: The Forum for Social Economics
+Slug: the-forum-for-social-economics-writing-style
+ABS Rating: 1
+Field: ECON
+Publisher: Taylor & Francis / Routledge
+
+ARTICLES FETCHED/SPOT-CHECKED
+=============================
+Count: 4 (limited to titles and abstracts only; full texts inaccessible)
+
+Early Stop Triggered: Yes (ABS 1 tier + access constraints)
+
+Access Chain Exhausted:
+- Taylor & Francis official pages: HTTP 403 (paywalled)
+- ResearchGate profile: HTTP 403 (authentication required)
+- SciSpace journal portal: HTTP 403
+- PDF links in search results: HTTP 403
+- Direct author guidelines PDF: HTTP 403
+
+Fallback sources used:
+- Paperpile citation style guide (public)
+- IDEAS/RePEc journal metadata
+- Web search snippets and secondary guidance sources
+- Published author information (word count, citation style) from multiple summary sources
+
+DELTAS FOUND
+============
+Count: 3 dimensions with deltas from FIELD_SKILL baseline
+
+Delta dimensions:
+1. Word Limit (ENFORCED delta)
+   - Constraint: 7,000–9,000 words inclusive of notes and references
+   - Classification: ENFORCED (stated in author guidelines)
+   - Type: RELAXATION (tighter than typical ABS 4 journals)
+
+2. Theoretical Grounding Requirement (GUIDELINE ONLY delta)
+   - Constraint: Journal explicitly not interested in "quantitative exercises devoid of theoretical perspective"
+   - Classification: GUIDELINE ONLY (stated editorial preference)
+   - Type: EMPHASIS (stronger than FIELD_SKILL general emphasis)
+
+3. Citation Style Format (PRACTICE ONLY delta / advisory)
+   - Constraint: Harvard referencing style explicitly mentioned
+   - Classification: PRACTICE ONLY (confirmed via citation style guide; full style guide not accessible)
+   - Type: MINOR (Harvard vs. bare author-year parenthetical)
+
+FIELD_SKILL OVERRIDES
+=====================
+None. The ECON field baseline applies to:
+- Manuscript structure (Introduction, Background, Data, Methods, Results, Conclusion)
+- Voice and person (we, active voice, high formality)
+- Sentence and paragraph style (medium-to-long, dense, high technical vocabulary)
+- Argumentation conventions (announce results in intro, position vs. prior work, no new results in conclusion)
+- Methods conventions (mixed tense, procedural detail, identification strategy required)
+- Results reporting norms (tables primary, interpretation integrated, statistical + economic significance)
+- Discussion and conclusion norms (genuine synthesis, implications, honest limitations)
+- Hedging norms (low hedging; defend via robustness and transparency)
+
+The three deltas above supplement but do not override FIELD_SKILL in these dimensions.
+
+COMMON PITFALLS IDENTIFIED
+==========================
+4 journal-specific submission mistakes documented:
+1. Exceeding the 7,000–9,000-word limit (more aggressive than ABS 4 journals)
+2. Submitting atheoretical empirical work (editorial gate-keeper criterion)
+3. Misformatting references (Harvard style not fully accessible; risk of proof-stage revisions)
+4. Misalignment with social economics scope (emphasis on well-being, inequality, pluralistic approaches; neoclassical optimization without social framing may face higher rejection)
+
+ACCESS LIMITATION NOTES
+=======================
+This skill was generated under significant access constraints:
+
+- Journal's full author instructions page is paywalled (HTTP 403)
+- Full-text articles from recent volumes are behind paywall or blocked PDFs
+- ResearchGate and other author-sharing platforms require authentication
+- Direct PDF downloads from Taylor & Francis blocked
+
+Spot-check sample size is smaller than ideal (4 articles; typical target 10–15) due to paywall access, but acceptable for ABS 1 tier journal given good-faith effort across multiple access chains.
+
+Guidelines inferred from:
+- Paperpile's published citation style guide (authoritative for this journal)
+- Secondary sources (Editage, Resurchify, IDEAS/RePEc) summarizing Taylor & Francis standard practices
+- Web search results quoting author guidelines
+- Editorial statement on journal scope (from multiple journal profile pages)
+
+For definitive and current guidelines, authors should contact the editorial office or access via institutional subscription to Taylor & Francis Online.
+
+OVERALL ASSESSMENT
+==================
+Skill completeness: MODERATE (3 deltas found; 8 dimensions align with FIELD_SKILL baseline)
+Confidence: MEDIUM (word limit and citation style confirmed; theoretical grounding inferred from editorial statement; specific abstract/heading formats not accessible)
+Usability: GOOD (the 3 deltas represent practical submission constraints that differ from ABS 4 journals; readers have clear guidance on common pitfalls)
+
+The skill captures the most important submission differences for this journal relative to the field baseline. Recommendations are specific and actionable. Any author using this alongside econ-field-writing-style will have sufficient guidance to prepare a compliant manuscript.

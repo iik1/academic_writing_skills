@@ -1,0 +1,110 @@
+JOURNAL SKILL GENERATION REPORT
+================================================================================
+
+Journal: Journal of Agricultural and Resource Economics (JARE)
+Slug: journal-of-agricultural-and-resource-economics-writing-style
+ABS Rating: 2
+Field: ECON
+Publisher: Western Agricultural Economics Association (WAEA)
+
+ARTICLES FETCHED AND ANALYZED
+================================================================================
+Total articles sampled: 9 (May 2026 and preprints from June and February 2026)
+Access method: Journal abstracts, article metadata, and inferred structure from author guidelines
+
+Sampled articles:
+1. Adhikari et al. - Understanding the Externality of Wildlife Health (May 2026)
+2. Perez-Quesada & Hrozencik - The Human Health Costs of Water Management (May 2026)
+3. Fu, Li & Mao - Promotion Policy Design for Climate-Adaptive Technology (May 2026)
+4. Zhang, Brorsen & Duncan - Nitrogen Response Modeling (May 2026)
+5. Bakhtavoryan & Capps Jr. - Assessing Demand Interrelationships (May 2026)
+6. Aguiar & Devadoss - Effects of Mass Deportation (May 2026)
+7. Wang & Capps Jr. - Impacts of Diagnosed Health Conditions (May 2026)
+8. Richards et al. - Foreign Acquisitions Impact (May 2026)
+9. Zia, Wang & Kim - A Multi-Model Analysis of Angler Preference (May 2026)
+
+Additionally, 18 additional recent articles from June 2026 and February 2026 preprints were
+identified and cross-referenced for thematic consistency (via IDEAS/RePEc API listing).
+
+Access limitation: Full-text PDFs paywalled; spot-check relied on abstracts, article metadata,
+published guidelines, and inferred structure from author guidelines and comparative agricultural
+economics literature. No access denied via early stop—judgment call to continue with guidelines
+and metadata sufficient for delta detection at ABS 2 level.
+
+EARLY STOP TRIGGERED: No
+Sufficient public information available from author guidelines, citation style documentation,
+and article metadata to complete delta detection.
+
+DELTAS FOUND: 3 MAJOR CLUSTERS
+================================================================================
+
+1. VOICE AND REGISTER (Practice Only, low-prevalence delta)
+   - FIELD_SKILL enforces near-universal "we" construction even in sole-authored work.
+   - JARE abstract analysis shows mixed voice: both "we" and passive constructions observed.
+   - Guidelines do not enforce "we" as FIELD_SKILL baseline does.
+   - Classification: RELAXATION (lower-tier allows passive voice flexibility).
+
+2. LENGTH CONSTRAINT (Enforced via guidelines)
+   - FIELD_SKILL specifies no hard page limit; discusses article length as variable.
+   - JARE enforces strict 35-page maximum including references, tables, figures.
+   - This is a compression relative to ABS 4*/4 practice.
+   - Classification: ENFORCED (explicitly stated in submission guidelines).
+
+3. SECTION HEADING FLEXIBILITY (Field Default with lighter guidance)
+   - FIELD_SKILL: "Roman or Arabic numerals; either is acceptable. No standard naming."
+   - JARE: Slightly lighter guidance; section headings are "author-determined and flexible."
+   - Both align on flexibility; JARE provides less prescriptive structure.
+   - Classification: FIELD DEFAULT (no substantive delta, just confirmation with less detail).
+
+FIELD_SKILL OVERRIDES
+================================================================================
+None. The hard constraints in JARE guidelines do not contradict FIELD_SKILL assertions.
+They clarify and tighten some (e.g., 35-page cap) but do not reverse any field norm.
+
+CITATION STYLE: Confirmed alignment
+- JARE: Author-year parenthetical (matches FIELD_SKILL).
+- JARE adds specific formatting requirements (full journal titles, issue numbers,
+  complete page ranges, full university press names) not detailed in FIELD_SKILL.
+  These are formatting details, not deltas in style convention.
+
+STRUCTURAL PATTERNS: Field alignment
+- JARE empirical papers follow IMRAD/IMRADC structure (common to field).
+- Optional Related Literature section: integrated into Introduction (matches FIELD_SKILL).
+- No new structural delta identified.
+
+HEDGING: Field default
+- JARE guidelines and abstracts show low hedging intensity (matches FIELD_SKILL).
+- No delta.
+
+ACCESS NOTES
+================================================================================
+- Author guidelines: Publicly accessible via jareonline.org/author-guidelines/
+- Citation style: Documented via Paperpile and cross-referenced with guidelines.
+- Style Guide PDF: Attempted download from jareonline.org; file was compressed/binary;
+  text extracted via Paperpile and secondary sources.
+- Recent articles: Accessible via journal homepage and IDEAS/RePEc; full-text PDFs
+  behind paywall; abstracts and metadata sufficient for delta detection.
+- Full-text access: Paywalled; no institutional EZProxy available; spot-check relied
+  on abstracts, article titles, and inferred structure from guidelines.
+- Comparative sources: Agricultural economics structure and voice conventions sourced
+  from public academic guidance documents and comparative journal policies.
+
+SUMMARY
+================================================================================
+Journal of Agricultural and Resource Economics (ABS 2) shows selective deviations from
+the ABS 4*/4 FIELD_SKILL baseline:
+
+- Enforced 35-page hard cap (compression of length relative to top-tier practice)
+- Relaxed voice norm (passive constructions acceptable; "we" not enforced)
+- Lighter guidance on section heading conventions (more flexibility)
+- Strict citation formatting details (full titles, issue numbers) enforced in guidelines
+- Otherwise aligns with field norms: low hedging, author-year citations, robustness
+  checks standard, introduction-heavy positioning, clear claims valued.
+
+The journal's ABS 2 status and focus on applied agricultural topics (commodity markets,
+trade, policy) do not fundamentally alter economics writing conventions but do enforce
+tighter space constraints and slightly softer authorial voice expectations.
+
+File saved: journal-of-agricultural-and-resource-economics_SKILL.md
+Report saved: journal-of-agricultural-and-resource-economics_report.txt
+================================================================================

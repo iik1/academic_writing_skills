@@ -1,0 +1,42 @@
+Journal: International Journal of Managing Projects in Business
+Slug: international-journal-of-managing-projects-in-business
+ABS: 1
+Field: ETHICS-CSR-MAN (mapped to MGMT field baseline: mgmt-field-writing-style)
+
+Articles fetched: 12 (abstracts/front-matter via WebSearch snippets; full text of one bibliometric analysis PDF fetched directly)
+Early stop triggered: No (reached target sample of 10-15 given thin access; documented access limitations)
+
+Deltas found: 2 dimensions
+  1. Abstract format (HARD_CONSTRAINT) — Emerald house style requires structured abstract with
+     mandatory sub-headings Purpose / Design-methodology-approach / Findings / Originality-value
+     (plus optional Research limitations-implications, Practical implications, Social implications),
+     max 250 words including keywords and classification. More prescriptive than FIELD_SKILL's
+     generic "structured or unstructured, 150-250 words."
+  2. Citation style (HARD_CONSTRAINT) — Emerald mandates Harvard author-date referencing
+     (alphabetical, semicolon-separated multi-citations, italicized "et al.", DOI in reference list),
+     not APA as stated in FIELD_SKILL.
+  Plus one RELAXATION (not a new norm): ABS 1 tier sampled articles skew qualitative/small-sample,
+  lighter on identification strategy/robustness rigor than the ABS 4*/4 baseline implies.
+  Plus one PRACTICE ONLY note: applied/practitioner-relevant topic selection (agile, EVMS,
+  lessons-learned, stakeholder engagement) — scope-driven, not a style convention.
+
+FIELD_SKILL overrides: Abstract structure requirement; Citation style (Harvard, not APA).
+  Both are Emerald publisher-wide house style rather than journal-unique, but both genuinely
+  override FIELD_SKILL defaults for this journal.
+
+Access-limitation notes:
+  - emerald.com and emeraldgrouppublishing.com pages (including the official IJMPB author
+    guidelines page) consistently returned CAPTCHA/403 to direct WebFetch. No IJMPB-specific
+    guidelines page (explicit word/page limits, submission checklist) could be read directly.
+  - All journal-specific evidence for author guidelines was obtained via WebSearch result
+    snippets rather than full-text fetches of emerald.com pages.
+  - Used Emerald's publisher-wide house style (structured abstract, Harvard citation) as the
+    best available proxy per instructions for thin-access ABS 1 journals.
+  - No IDEAS/RePEc listing found for this journal; relied on WebSearch snippets of article
+    abstracts (Emerald listing pages, ResearchGate, institutional repositories) and one
+    full-text bibliometric analysis PDF (Hanyang University repository) covering 2008-2019
+    publication patterns as a cross-sectional proxy for typical methods/topics.
+
+Output files:
+  Skill: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/mgmt/international-journal-of-managing-projects-in-business_SKILL.md
+  Report: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/reports/international-journal-of-managing-projects-in-business_report.txt

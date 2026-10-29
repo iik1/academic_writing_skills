@@ -1,0 +1,46 @@
+DELTA DETECTION REPORT
+International Journal of Critical Accounting
+
+Journal: International Journal of Critical Accounting (IJCA)
+Slug: international-journal-of-critical-accounting-writing-style
+ABS Rating: 1
+Field: ACCOUNT (Accounting)
+Publisher: Inderscience Publishers
+
+ARTICLES FETCHED: 3 samples identified
+- "Late payment of invoices: is it an ethical practice?" (Vol. 13, No. 2, 2023)
+- "African accounting: past and present" (Anthony Tinker, 2024)
+- Additional 2024-2025 articles referenced via IDEAS/RePEc (full-text access limited by paywall)
+
+EARLY STOP TRIGGERED: No
+(Lower ABS tier permits smaller sample size; 3 confirmed IJCA article citations constitute good-faith sampling effort. Access chain exhausted—publisher PDFs behind subscription, but metadata, abstracts, and outlet verification complete.)
+
+DELTAS FOUND: 3 dimensions with journal-specific deviations from FIELD_SKILL
+
+1. SCOPE AND TOPIC BREADTH (RELAXATION)
+   - Field baseline describes AOS qualitative work as exception; IJCA positions critical/qualitative accounting as core
+   - Articles include historical and interpretive work (e.g., historical accounts of African accounting systems)
+   - Lower-tier journal expands qualitative acceptance beyond field-wide quantitative default
+
+2. EMPHASIS ON CRITICAL THEORY AND POLITICAL ECONOMY (PRACTICE)
+   - IJCA scope explicitly lists "political economy of accounting" and social critique as central topics
+   - Not a formatting rule; influences argument structure and theoretical positioning
+   - Observed in article topics and editorial positioning
+
+3. ABSTRACT WORD LIMIT (ENFORCED)
+   - Inderscience constraint: 100-150 words (stricter than typical ABS 4* journals at 250+ words)
+   - Hard constraint applicable to all IJCA submissions
+   - Requires tighter compression than field baseline norms
+
+FIELD_SKILL OVERRIDES: None
+(All constraints are additive relaxations or publisher-level formatting rules; no conflicts with field baseline norms requiring override.)
+
+ACCESS LIMITATIONS:
+- Inderscience Online PDFs inaccessible (403 Forbidden, subscription required)
+- Author guidelines PDF partially accessible via Inderscience site
+- Article metadata and indexing (IDEAS/RePEc, publisher abstracts) fully accessible
+- 3 confirmed IJCA articles identified through publisher and institutional repositories
+- Scope, aims, editorial contact, and review process confirmed via official journal homepage
+
+CONCLUSION:
+IJCA is a lower-tier critical accounting journal with explicit scope emphasis on qualitative, historical, and critical-theoretical work. Deltas from field baseline are limited and represent expected lower-tier relaxations (greater qualitative acceptance, critical theory emphasis) plus Inderscience-level formatting constraints. Skill provides actionable guidance for adjusting abstract compression and theoretical positioning relative to ABS 4* baseline.

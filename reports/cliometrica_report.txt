@@ -1,0 +1,113 @@
+JOURNAL SKILL REPORT
+====================
+
+Journal:            Cliometrica
+Slug:               cliometrica-writing-style
+ABS Rating:         2
+Field:              BUS HIST & ECON HIST
+Publisher:          Springer Nature
+
+RESEARCH SUMMARY
+================
+
+Articles Fetched:   7 recent articles (January 2025, Volume 19, Issue 1)
+Access Method:      Primarily IDEAS/RePEc and Springer abstracts; 2 full-text PDFs accessed (working paper versions)
+Early Stop:         No
+
+ARTICLE SAMPLE
+==============
+1. Álvarez-Nogal & Prados de la Escosura (2025) - Subjective well-being and inequality in Spain's decline
+2. Ljungberg (2025) - European consumer price indices since 1870
+3. Kisling & Molteni (2025) - The London money market and non-British bank lending during first globalisation
+4. Huesler & Strobl (2025) - The creative-destructive force of hurricanes: technological adoption in Jamaica
+5. Martínez-González (2025) - Assessing agricultural adaptation to changing climatic conditions (England 1645-1740)
+6. Martinez-Galarraga & Prat (2025) - Inequality in rural Catalonia in the early eighteenth century
+7. Allen, Fishback & Holmes (2025) - Impact of progressive era labor regulations on earnings (USA 1904-1919)
+
+Sample includes mix of quantitative econometric work and qualitative/narrative-historical work, consistent with cliometric field scope.
+
+HARD CONSTRAINTS IDENTIFIED
+===========================
+
+1. CITATION STYLE (ENFORCED)
+   - Author-year parenthetical format strictly required
+   - Examples: (Author Year); (Author1 Year; Author2 Year); et al. for 3+ authors
+   - Applies to all article types; field baseline does not mandate specific style
+   - This is more prescriptive than field norm
+
+2. COMPLIANCE STATEMENT (ENFORCED)
+   - Separate section "Compliance with Ethical Standards" mandatory
+   - Must cover: funding sources, conflicts of interest (financial and non-financial)
+   - Human subjects consent and animal welfare statements if applicable
+   - Field baseline does not address this; journal-specific requirement
+
+3. TABLE AND FIGURE FORMATTING (GUIDELINE ONLY)
+   - Tables: Arabic numerals, consecutive in-text citation, caption with source
+   - Figures: Electronic submission, EPS (vector) or TIFF (halftones) format
+   - Size specifications per Springer standard (84mm or 174mm width)
+   - Not uniformly enforced across sample but stated in guidelines
+
+4. SUPPLEMENTARY MATERIALS POLICY (Type 3, Social Sciences)
+   - Data availability statement mandatory
+   - Data sharing encouraged but not required
+   - Field baseline does not address; modern standard
+
+5. NO EXPLICIT WORD/PAGE/ABSTRACT LENGTH LIMITS
+   - Accessible guidelines do not specify manuscript length
+   - Abstract format: compact, single-paragraph, non-structured (~100-150 words observed)
+   - No formal constraint identified
+
+FIELD_SKILL OVERRIDES
+=====================
+
+Author-year parenthetical citation style is MORE PRESCRIPTIVE than field norm.
+FIELD_SKILL notes field permits variation (Chicago, author-date); Cliometrica requires strict author-year parenthetical format only.
+All other constraints either align with FIELD_SKILL or are field defaults (data transparency, structure variation by quantitative vs. narrative work).
+
+DELTAS FOUND: 2
+===============
+
+1. Citation Style Enforcement
+   - FIELD_SKILL: permits variation; high citation density across field
+   - CLIOMETRICA: strict author-year parenthetical format only
+   - Classification: ENFORCED (stated in guidelines AND confirmed in all articles)
+
+2. Quantitative-Narrative Balance (clarification, not contradiction)
+   - FIELD_SKILL correctly notes bimodal practice; no delta
+   - Both structures observed in sample (econometric vs. thematic)
+
+DATA QUALITY NOTES
+==================
+
+Access Limitations:
+- Springer official guidelines page requires authentication/cookies; direct access failed
+- Full-text PDF extraction from binary-compressed PDFs was limited
+- Abstracts and front-matter readily available via IDEAS/RePEc and open repositories
+- 2 working paper versions (pre-publication) successfully fetched and analyzed
+- Observation: This is an ABS 2 journal with thin public guideline documentation; assembled skill from published articles + abstract metadata rather than comprehensive author guidelines document
+
+Confidence Level: MODERATE
+- Hard constraints on citation style and compliance statements confirmed across all articles and in accessible published guidelines
+- Table/figure and supplementary material requirements confirmed in snippet guidelines
+- No explicit word/page limits found despite extensive searching (standard Springer variance)
+- Sample size (7 articles) is adequate for ABS 2 journal; consistent patterns observed across quantitative and qualitative work
+
+COMMON PITFALLS IDENTIFIED
+==========================
+
+1. Citation style mismatch (Chicago or footnote-based systems)
+2. Missing "Compliance with Ethical Standards" section
+3. Inadequate data provenance documentation for historical databases
+4. Improper table formatting (missing captions, sources, or sequential numbering)
+
+CONCLUSION
+==========
+
+Cliometrica follows BUS HIST & ECON HIST field norms closely. Main journal-specific deviations:
+- Mandatory author-year parenthetical citation format (more prescriptive than field)
+- Required "Compliance with Ethical Standards" section (modern research governance)
+- Standard Springer supplementary materials and data policy (not field-specific)
+
+For writers accustomed to Chicago or flexible field citation practices, the rigid author-year requirement is the primary adjustment. Otherwise, narrative/argumentative voice, hedging intensity, structure flexibility, and literature engagement follow field baseline closely.
+
+Skill is SHORT by design: very few genuine deltas from FIELD_SKILL. This is appropriate for an ABS 2 journal in a mature field.

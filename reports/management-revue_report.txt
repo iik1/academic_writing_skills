@@ -1,0 +1,65 @@
+DELTA DETECTION REPORT: Management Revue
+
+Journal Name: Management Revue (Socio-Economic Studies)
+Journal Slug: management-revue
+ABS Rating: 2
+Field: ETHICS-CSR-MAN
+Publisher: Nomos Verlagsgesellschaft mbH und Co. KG (until Dec 2024); IMR Press (from Jan 2025)
+
+RESEARCH COVERAGE:
+Articles Fetched: 8
+  - Brunzel, Ebsen, von der Oelsnitz (2023) - CEO narcissism/humility rhetoric, qualitative
+  - Saghih & Ilani (2023) - Bullying, employee silence, OCB, quantitative SEM
+  - Brinck, Moll, Siebert (2023) - Altruistic work values & organizational commitment, quantitative
+  - Hofmann (2024) - Digital natives & signalling in interviews, quantitative
+  - Fortagne, Stichnoth, Lis (2024) - Technology-induced strain, quantitative SEM
+  - Boers & Brozovic (2024) - Organizational resilience & COVID-19, empirical
+  - Nguyen & Haar (2024) - Integrative leadership definition, conceptual
+  - Okoli & Ogwu (2024) - Intuitive-analytic crisis response, theoretical
+
+Early Stop Triggered: No. Sufficient public access to guidelines, abstracts, and article front matter via publisher pages and academic databases (IDEAS/RePEc, IMR Press).
+
+DELTAS FOUND: 4 significant, 2 practice-only
+
+1. MANUSCRIPT LENGTH CONSTRAINT (7,000–10,000 words) [ENFORCED]
+   - Hard constraint stated in guidelines and enforced in all spot-checked articles
+   - More restrictive than ABS 4*/4 baseline (which often allows 12,000–18,000 words)
+   - Directly shapes section depth, citation density in empirical sections, and conciseness of examples
+
+2. JEL CODES REQUIREMENT [ENFORCED]
+   - Three to five keywords plus 3–5 JEL codes mandatory
+   - Reflects journal's positioning at management-economics intersection
+   - Not mentioned in FIELD_SKILL baseline; requires domain-specific taxonomy knowledge
+
+3. CITATION DENSITY IN RESULTS/FINDINGS (Lower than baseline) [PRACTICE ONLY]
+   - Observed in 4/8 quantitative empirical articles (Fortagne et al., Hofmann, Saghih & Ilani)
+   - Results sections present findings with minimal literature engagement
+   - Interpretation occurs in Discussion section; consistent with APA norms
+
+4. CONTRIBUTION STATEMENT ADAPTATION [PRACTICE ONLY]
+   - Word limit (7,000–10,000 words) forces tightly integrated contribution statements
+   - Most empirical articles use 2–3 contributions in prose sentences, not numbered lists
+   - Theory sections narrower in scope than longer FIELD baseline journals
+
+NO DELTAS OBSERVED:
+- Voice, person, tone (consistent with mgmt-field-writing-style)
+- Theory section structure, hypothesis/proposition use (consistent)
+- Methods precision, robustness checks (consistent)
+- Limitation discussion (consistent)
+- APA citation style (consistent; confirmed in guidelines)
+- Heading conventions, section labeling (consistent)
+
+FIELD_SKILL OVERRIDES:
+None. Hard constraints in Management Revue author guidelines align with or extend FIELD_SKILL norms rather than contradict them. The main changes are additive (JEL codes) or restrictive (word limit).
+
+ACCESS LIMITATIONS:
+- Full-text PDF access via IMR Press requires authentication or institutional subscription
+- Front matter (title, abstract, keywords), article pages, and abstract-level indexing freely available via publisher pages and IDEAS/RePEc
+- Sample size (8 articles) is adequate for ABS 2 journal with lower publication density than top-tier outlets
+- Author guidelines fully accessible via Nomos OJS platform; clear and detailed
+
+FIELD_SKILL APPLICABILITY:
+The mgmt-field-writing-style baseline (trained on 6 ABS 4* journals) remains applicable to Management Revue. The field baseline provides the macro structure, CARS model for introductions, hedging norms, citation density patterns, and discussion conventions. Management Revue follow these norms closely. The specific deltas documented in the skill file are refinements relevant to this journal's constraints and positioning, not fundamental departures from management writing conventions.
+
+CONCLUSIONS:
+This journal is a good fit for economically-informed ethics/CSR research with tight word limits and clear structure. Authors should anticipate the need to write concisely, classify findings with appropriate JEL codes, and follow APA strictly. The combination of FIELD_SKILL (for overall discipline conventions) and this journal-specific skill (for word limits, JEL codes, and length-driven adaptations) provides a complete writing guide for this outlet.

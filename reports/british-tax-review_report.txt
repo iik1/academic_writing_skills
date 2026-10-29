@@ -1,0 +1,24 @@
+Journal: British Tax Review
+Slug: british-tax-review
+ABS: 3
+Field: ACCOUNT
+Articles fetched: 6 (metadata/abstract level only; SSRN full-text pages returned HTTP 403; no open-access full text found)
+Early stop triggered: yes — access chain exhausted after publisher page, SSRN listings, and WebSearch snippets; full text consistently paywalled/blocked. Stopped short of 15-article target because no further accessible sources surfaced new information beyond confirming the journal's doctrinal/legal genre.
+
+Deltas found: 5 dimensions
+  - Voice and Register (RELAXATION — doctrinal/legal-policy register, not archival-empirical)
+  - Statistical Reporting (RELAXATION — not applicable; no hypothesis-testing/regression content observed)
+  - Citation Density / Citation Format (ENFORCED via house style — footnote-based legal citation, not author-date)
+  - Structural Deviations (PRACTICE ONLY — no Hypothesis/Data/Results structure; topic-organized doctrinal sections)
+  - Other Journal-Specific Patterns (GUIDELINE ONLY — distinct Current Notes / Case Notes / Reviews submission categories)
+
+FIELD_SKILL overrides:
+  - Citation format: footnote/OSCOLA-style legal citation overrides FIELD_SKILL's author-date convention
+  - Article structure: no hypothesis-driven empirical structure applies; doctrinal/policy organization instead
+  - Statistical/results reporting norms: not applicable to this journal's typical article
+
+Access-limitation notes:
+  - Journal's own house style guide (referenced on publisher page) could not be directly retrieved — only its existence and general submission requirements (length, abstract, originality, peer review) were confirmed via the Sweet & Maxwell editors page.
+  - All SSRN article pages returned 403 Forbidden; findings rely on titles, author names, venues, and WebSearch-indexed abstract/keyword snippets rather than full text.
+  - No full-text open-access articles located (no SSRN PDF, no institutional repository copy) within the search budget.
+  - Given the journal is functionally a tax-law journal despite its ABS "ACCOUNT" field tag, several FIELD_SKILL dimensions (hypothesis development, empirical methods, statistical reporting) were judged categorically inapplicable rather than merely relaxed.

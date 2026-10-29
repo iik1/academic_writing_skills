@@ -1,0 +1,20 @@
+Journal: International Journal of Industrial Organization
+Slug: international-journal-of-industrial-organization
+ABS: 3
+Field: ECON
+Publisher: Elsevier
+
+Articles fetched: 10 (title/abstract-level; full text paywalled for all)
+Early stop triggered: yes — deltas stabilized after ~10 articles; no full-text access chain available beyond RePEc/EconPapers/search snippets, so continued sampling would not add new structural information beyond title/abstract level.
+
+Deltas found: 2 dimensions
+  1. Submission requirement — Highlights file required (ENFORCED; not present in FIELD_SKILL, which draws on ABS 4*/4 journals).
+  2. Abstract length — hard 250-word cap (ENFORCED; FIELD_SKILL does not specify a limit).
+  Additional note: AI-generated artwork/graphics explicitly prohibited (ENFORCED, submission-mechanics, not prose style).
+
+FIELD_SKILL overrides: none affecting voice, structure, hedging, citation density, or methods conventions — all FIELD DEFAULT. Only submission-mechanics constraints (abstract cap, highlights, AI-artwork ban) diverge.
+
+Access-limitation notes:
+- Direct WebFetch of the ScienceDirect guide-for-authors page returned HTTP 403; guideline content was recovered via WebSearch-extracted snippets instead.
+- No full-text articles were accessible (all paywalled); spot-check relied on titles, abstracts, and journal/article metadata from RePEc, EconPapers, and IDEAS.
+- JEL classification requirements could not be confirmed from accessible sources (likely standard practice, but not verified as journal-specific).

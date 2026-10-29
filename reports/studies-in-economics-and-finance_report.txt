@@ -1,0 +1,98 @@
+JOURNAL SKILL EXTRACTION REPORT
+==============================
+
+Journal Name:           Studies in Economics and Finance
+Slug:                   studies-in-economics-and-finance-writing-style
+ABS Rating:             1
+Field:                  ECON
+Publisher:              Emerald Group Publishing Limited
+
+RESEARCH PHASE SUMMARY
+======================
+
+Articles Fetched:       12 articles from Vol. 42-43 (2025-2026)
+Early Stop Triggered:   No. Sample size exceeds good-faith minimum for ABS-1 journal.
+Access Method:          Emerald public article metadata and abstracts (paywalled full-text not required)
+
+ARTICLE SAMPLE DETAILS
+======================
+
+1. Financial development, green energy security and income inequality (Vol. 43, 2026)
+2. A new perspective on the finance-growth nexus (Vol. 43, No. 1, 2026)
+3. Trump Liberation Day tariffs and stock market reactions (Vol. 43, No. 2, 2026)
+4. Social trust and corporate social engagement (Vol. 43, 2026)
+5. Regime-dependent connectedness in European natural gas markets (Vol. 43, 2026)
+6. Stock return predictability: evidence from price-dividend components (Vol. 43, No. 4, 2026)
+7. Exploring efficiency and speculative behavior in the Metaverse economy (Vol. 43, 2026)
+8. Volatility in focus: comparing cryptocurrencies, fiat currencies, and gold (Vol. 43, No. 2, 2026)
+9. Climate finance, country governance, and environmental sustainability (Vol. 43, No. 2, 2026)
+10. CEO integrity and firm SDGs disclosure (Vol. 43, No. 3, 2026)
+11. ESG performance and corporate competitiveness (Vol. 43, No. 3, 2026)
+12. Volume 42, Issue 4 table of contents review (multiple articles, 2025)
+
+DELTAS FOUND: 2 MAJOR FINDINGS
+===============================
+
+1. ABSTRACT STRUCTURE (ENFORCED)
+   - Studies in Economics and Finance requires a structured abstract with explicit labeled sections
+   - Format: Purpose | Design/Methodology/Approach | Findings | Originality/Value | Keywords
+   - This deviates from FIELD_SKILL, which describes abstracts as briefer and typically unlabeled
+   - Evidence: 100% of sampled articles (12/12) follow this exact format
+   - Classification: ENFORCED (stated in guidelines and confirmed in all articles)
+   - Impact: Authors must adopt this structured format
+
+2. HEADING DECIMAL NUMBERING (PRACTICE ONLY)
+   - Emerald house style uses decimal numbering (1., 1.1, 2., 2.1, etc.) for heading hierarchies
+   - FIELD_SKILL permits Roman or Arabic numerals without specifying house style
+   - This reflects publisher convention rather than journal-specific preference
+   - Evidence: All sampled articles use decimal numbering consistently
+   - Classification: PRACTICE ONLY / FIELD DEFAULT (Emerald house style, not journal-specific deviation)
+
+FIELD_SKILL OVERRIDES
+=====================
+
+The abstract structure requirement is the only significant override of FIELD_SKILL norms. All other dimensions (voice, citation density, article structure, results presentation, hedging, etc.) follow FIELD_SKILL exactly.
+
+ACCESS LIMITATIONS
+==================
+
+- Detailed author guidelines pages at emeraldgrouppublishing.com/journal/sef return HTTP 403 (authentication required)
+- Complete author guidelines not publicly available; hard constraints inferred from systematic article analysis
+- No direct access to submission portal or detailed formatting rules
+- Confidence in abstract structure constraint is VERY HIGH (100% of articles follow the same format)
+- Other constraints (exact word limits, margin specs, etc.) could not be verified from public sources
+
+FINDINGS QUALITY ASSESSMENT
+============================
+
+High confidence in abstract structure finding: all 12 articles follow identical labeled sections.
+Medium confidence in other hard constraints: no contradictory evidence observed in sampled articles.
+The structured abstract is the only clear journal-specific deviation from FIELD_SKILL that is ENFORCED.
+
+METHODOLOGY NOTES
+=================
+
+Sample Size: 12 articles from two consecutive volumes (42-43, 2025-2026). This exceeds the ABS-1 minimum.
+Topics Covered: Climate finance, ESG, cryptocurrencies, tariffs, geopolitical risk, CEO power, gender diversity, bank pricing, time-frequency analysis, derivatives, natural gas markets.
+Coverage: Both single-authored and multi-authored papers; diverse research areas suggest stable structural norms.
+
+Constraint Classification Summary:
+- ENFORCED: 1 constraint (structured abstract)
+- PRACTICE ONLY: 1 constraint (decimal heading numbering, Emerald house style)
+- FIELD DEFAULT: All other dimensions
+
+SKILL FILE SAVED
+================
+
+Location: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/economics/studies-in-economics-and-finance_SKILL.md
+
+File includes:
+- Journal profile (ABS, field, publisher, scope)
+- Hard constraints (structure, abstract, length, citations, headings, tables/figures)
+- Observed deltas from FIELD_SKILL (abstract format as primary delta)
+- Dimensions with no delta (FIELD DEFAULT)
+- Common pitfalls (4 submission mistakes specific to this journal)
+- Full sources table with article DOIs and access methods
+- Methodology notes and research limitations
+
+END OF REPORT

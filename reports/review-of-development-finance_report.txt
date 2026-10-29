@@ -1,0 +1,44 @@
+Journal: Review of Development Finance
+Slug: review-of-development-finance
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 1 full abstract (Panizza, Vol. 15(1), 2025) read in full; ~14 additional article
+titles/authors/issue metadata identified via RePEc index (2018-2026) without accessible abstracts.
+Total distinct articles identified: ~15 (below the 10-15 target for full abstract review, but the
+10-15 "distinct articles identified" threshold was met at the title/metadata level; only 1 had
+retrievable abstract text).
+
+Early stop triggered: No. Full good-faith search effort was made (WebSearch + WebFetch across
+ScienceDirect, globalcidef.com, journals.co.za, IDEAS/RePEc, and targeted per-article searches).
+Access chain was thin: ScienceDirect guide-for-authors page and journals.co.za article/abstract
+pages both returned 403 Forbidden. The current authoritative guidelines page
+(globalcidef.com/manuscript-criteria/) was accessible and yielded a full, detailed set of hard
+constraints.
+
+Deltas found: 2 substantive deltas, both from Hard Constraints (author guidelines), not from
+article spot-check (article spot-check could not confirm/deny voice, hedging, citation density,
+or statistical reporting deltas due to abstract-only/no-abstract access):
+  1. Abstract length: 100-word max (vs. FIELD_SKILL's 150-250 words) - ENFORCED (stated in
+     guidelines; consistent with journal's short applied-paper format).
+  2. Structural/formatting specifics: mandatory separate title/abstract page before main text;
+     explicit three-tier heading style (MAIN HEADING bold / Sub Heading bold / Minor Heading
+     italics); table captions above/figure captions below, bold, left-aligned; Harvard citations
+     omit page numbers except for direct quotations - GUIDELINE ONLY / presumed ENFORCED at
+     submission (could not independently confirm via full-text article review due to access
+     limits).
+
+FIELD_SKILL overrides: Abstract word limit (100 vs 150-250); page cap (30 pages, 1.5 spacing) where
+FIELD_SKILL specifies no length constraint; heading formatting specifics (FIELD_SKILL only
+specifies Arabic numeral numbering, not case/weight per tier).
+
+Access-limitation notes: This is a lower-tier (ABS 2) journal with a genuinely thin public access
+chain. ScienceDirect's legacy guide-for-authors page (from the journal's 2011-~2018 Elsevier era)
+and journals.co.za's current abstract/listing pages both blocked automated access (403). The
+current CIDEF/Africagrowth Institute manuscript-criteria page was fully accessible and is treated
+as authoritative for Hard Constraints. Article-level spot-check was limited to title/author/issue
+metadata for most articles (via RePEc/IDEAS index) with only one full abstract retrievable through
+public search snippets; this is documented per the task's good-faith-sample allowance for ABS 2
+journals with thin access chains. No claims about voice, hedging, citation density, or statistical
+reporting deltas are made beyond "no contrary evidence found" (FIELD DEFAULT), since the article
+sample could not support stronger claims.

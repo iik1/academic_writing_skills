@@ -1,0 +1,32 @@
+Journal: Global Networks
+Slug: global-networks
+ABS: 3
+Field: SOC SCI
+
+Articles fetched: 9 total (2 full-text via open-access repository PDFs; 7 via abstract/front-matter snippets from WebSearch)
+  Full text:
+    - D'Angelo & Ryan (2026), "Networked Migrants and De-Networked Policies," 26:e70046 (London Met repository OA PDF)
+    - Ullah (2025), "Migration as International Relations," 25:e70016 (UBD faculty page OA PDF)
+  Abstract/front-matter only:
+    - Chen & Schiller (2025), "Labour Market Intermediaries...Filipino Migrant Workers," 25:e12499
+    - Boccagni (2025), "YouTubing Remittances," 25:e12505
+    - Fernandez (2025), "Diaspora Humanitarianism," 25:e70038
+    - Anschütz (2025), "Digitally Mediated 'Homeland' Mobilities," 25:e70034
+    - Barnett (2024), "A network analysis of international migration," 24:e12455
+    - D'Angelo (2021), "The networked refugee" (referenced/cross-checked, not separately counted)
+    - Bilecen (2021), "The networked character of migration and transnationalism" (referenced, not separately counted)
+
+Early stop triggered: No — stopped at 9 due to access-chain exhaustion (Wiley Online Library returned HTTP 402 on all direct fetches; relied on WebSearch snippets and two open-access repository mirrors). Delta set had stabilized by this point.
+
+Deltas found: 3 dimensions
+  1. Voice and Register — interdisciplinary-accessibility expectation (stated in guidelines, confirmed in practice) — GUIDELINE ONLY/ENFORCED
+  2. Structural Deviations — consistent numbered section headings including numbered Conclusion — PRACTICE ONLY
+  3. Other Journal-Specific Patterns — extended block-quote use in qualitative case-study pieces — PRACTICE ONLY, low-prevalence (methods-dependent)
+
+FIELD_SKILL overrides: none (ABS 3 tier; no relaxations of FIELD_SKILL baseline identified; all findings are additive/practice-level, not redefinitions)
+
+Access-limitation notes:
+  - Wiley Online Library (onlinelibrary.wiley.com) returned HTTP 402 Payment Required on all direct WebFetch attempts (author guidelines page, table of contents, abstract pages). Guidelines content was recovered via WebSearch result snippets that had cached/summarized the guidelines page.
+  - Two full-text articles were recovered via institutional open-access repositories (London Metropolitan University repository; University of Brunei Darussalam faculty page), both hosting publisher PDFs of Wiley open-access (CC-BY) articles.
+  - A third full-text PDF (Greifswald ePub, Chen & Schiller 2025) was fetched but returned only binary/unparseable content via WebFetch; its abstract was instead obtained via WebSearch summary.
+  - No table of contents pages were accessible directly; article discovery relied entirely on WebSearch queries.

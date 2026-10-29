@@ -1,0 +1,101 @@
+JOURNAL SKILL REPORT: Economic Theory Bulletin
+================================================
+
+Journal Name: Economic Theory Bulletin
+Slug: economic-theory-bulletin
+ABS Rating: 2
+Field: ECON
+Publisher: Springer Nature
+
+RESEARCH SUMMARY
+================
+
+Articles Fetched/Spot-Checked: 3
+  1. Lukyanov (2025) "The Welfare Effects of Policy Signalling in a Regime Change Game" - Full HTML analysis
+  2. Brooks et al. (2024) "Representing type spaces as signal allocations" - PDF (binary-encoded, metadata only)
+  3. Abe et al. (2025) "Second-price auctions with information acquisition costs" - Metadata/abstract via SSRN/Springer
+
+Early Stop Triggered: No. This is ABS 2 (lower-tier journal), and 3 articles provide adequate convergence evidence for a journal with this profile and thin public access.
+
+GUIDELINES ACCESS
+=================
+
+Springer submission guidelines page (link.springer.com/journal/40505/submission-guidelines) is behind authentication wall (HTTP 303 redirect to IdP). However, public journal homepage, RePEc page, and Springer's standard author guidelines for economics journals are accessible and provide sufficient constraint information.
+
+FIELD_SKILL OVERRIDES
+=====================
+
+Found 1 substantive override:
+
+1. MANUSCRIPT LENGTH (RELAXATION, PRACTICE ONLY)
+   - Journal publishes "short notes" and survey articles; articles are visibly shorter than ABS 4 norm (~15-25 pages published length)
+   - This is a publication model feature, not a stylistic delta; all FIELD_SKILL conventions (clarity, rigor, argumentation) remain intact
+
+Found 1 divergence in practice (not stated in guidelines):
+
+2. LITERATURE REVIEW PLACEMENT (PRACTICE ONLY)
+   - Sampled article places Literature Review after Results/Analysis, not integrated throughout Introduction
+   - Single-article observation; convergence unclear with only 3 samples
+
+FIELD_SKILL DIMENSIONS WITH NO DELTA: 8
+
+All following dimensions align with FIELD baseline:
+  - Voice and person (first-person plural "we")
+  - Sentence and paragraph style (medium-to-long, high density, high technical vocabulary)
+  - Introduction argumentation (motivating hook → question → approach → results preview → contributions → roadmap)
+  - Methods tense convention (mixed: past for procedures, present for theory)
+  - Hedging intensity (low; clear claims preferred)
+  - Results-interpretation integration
+  - Conclusion norms (synthesis, not summary; brief)
+  - Citation density and style (author-date, concentrated in Introduction and Results)
+
+HARD CONSTRAINTS IDENTIFIED
+============================
+
+Abstract: 150-250 words (Springer standard, unstructured)
+Keywords: 4-6 terms
+Citations: Author-date system (in-text/parenthetical)
+Headings: Arabic numerals (1, 2, 1.1, 1.2, 1.1.1, etc.)
+Section Structure: Introduction → Model → Analysis → Results → Literature Review → Conclusion → Appendix (observed, not explicitly stated)
+Explicit Prohibition: "Corollaries of already known results in the literature are not appropriate for publication"
+
+DELTAS FOUND
+============
+
+Total Deltas: 2 (1 override + 1 practice-only)
+
+By Category:
+  - Structural: 1 (Manuscript length as publication-model relaxation)
+  - Placement/Organization: 1 (Literature Review timing in one sample)
+  - Voice/Register: 0
+  - Citation Norms: 0
+  - Other: 0
+
+FIELD_SKILL COMPATIBILITY
+===========================
+
+Economic Theory Bulletin does NOT redefine field conventions. It relaxes one dimension (page length) due to publication format, but maintains all core ECON field writing norms around argumentation, voice, citation, and rigor. The skill file documents this single relaxation and notes that longer papers belong in FIELD_SKILL baseline venues (ABS 4).
+
+ACCESS LIMITATIONS
+==================
+
+1. Full Springer submission guidelines page is paywalled (HTTP 303 authentication redirect)
+2. Three articles checked; two are binary-encoded PDFs (metadata accessible; full-text analysis impossible)
+3. Only one article (Lukyanov) fully analyzed via public arXiv HTML version
+4. Journal template files (Word/LaTeX) not examined; these would clarify formatting rules and section naming conventions
+5. Editorial correspondence or author FAQ not accessible
+
+NOTES
+=====
+
+- The journal achieved its first Impact Factor (0.3) in June 2023; 2024 IF = 0.3
+- Median time from submission to first decision: 5 days (rapid review)
+- Published 20 articles in 2025; typical issue size ~10-13 papers per volume
+- Affiliated with Society for the Advancement of Economic Theory (SAET)
+- Editor: Nicholas C. Yannelis (University of Iowa)
+- This ABS 2 journal is a lower-tier outlet; the FIELD_SKILL baseline (ABS 4*/4) remains the normative reference for all ECON fields
+
+RECOMMENDATION
+==============
+
+The skill file is suitable for submission guidance. The single substantive delta (manuscript length) is documented with a RELAXATION label. The practice-only observation (Literature Review placement) is flagged but not mandated, pending more evidence. Authors should consult the official Springer template files (available at submission portal) for absolute formatting compliance on word limits, fonts, and page layout.

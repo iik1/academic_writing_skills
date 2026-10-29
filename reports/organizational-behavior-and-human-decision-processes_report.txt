@@ -1,0 +1,22 @@
+Journal: Organizational Behavior and Human Decision Processes
+Slug: organizational-behavior-and-human-decision-processes
+ABS: 4
+Field: PSYCH (WOP-OB)
+
+Articles fetched: 8 (titles/abstracts via RePEc/IDEAS and web search snippets; no full-text access obtained)
+Early stop triggered: No — access chain exhausted rather than convergence. ScienceDirect abstract/full-text pages returned HTTP 403 consistently; relied on RePEc/IDEAS abstract mirrors, author CV/publication pages, and search-engine snippets of the guide-for-authors page. Stopped after 8 articles because further searches were returning the same small set of recent titles/editorials without surfacing new stylistic information beyond what guideline text already established.
+
+Deltas found: 4 dimensions
+  1. Structural Deviations (ENFORCED) — mandatory Research Transparency Statement (preregistration, materials/data availability, selective reporting, AI use, conflicts of interest, funding) as a distinct manuscript section, inserted within an "Overview of Studies" section for multi-study papers.
+  2. Abstract / front matter (ENFORCED) — separate "Organizational Relevance and Contribution Statement" below the abstract, replacing bulleted Highlights; must not duplicate abstract content.
+  3. Structural Deviations (ENFORCED) — replication studies must carry "A Replication of XX Study" in both subtitle and abstract.
+  4. Other Journal-Specific Patterns (ENFORCED) — explicit 2024 editorial governance framework requiring authors/reviewers to disclose AI use in research and manuscript preparation.
+  Additional low-confidence/practice-only note: some very high-powered single-paper designs (e.g., 13 experiments in one article) observed, though field baseline already flags multi-study designs as favored.
+
+FIELD_SKILL overrides: none required beyond the structural additions above (voice, hedging, statistical reporting, methods, discussion norms all follow FIELD_SKILL/field default).
+
+Access-limitation notes:
+- ScienceDirect guide-for-authors and article abstract pages returned 403 Forbidden on direct WebFetch; content obtained via WebSearch result snippets instead.
+- Elsevier's legacy Open Science Form PDF could not be parsed (binary/encoding issue).
+- No EZProxy/institutional access available; relied entirely on public guideline snippets, RePEc/IDEAS abstract mirrors, and author personal/CV pages.
+- Could not confirm an explicit page/word limit for full manuscripts; abstract limit (150-250 words) is the only length constraint found.

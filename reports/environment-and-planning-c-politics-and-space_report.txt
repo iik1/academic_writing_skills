@@ -1,0 +1,45 @@
+Journal: Environment and Planning C: Politics and Space
+Slug: environment-and-planning-c-politics-and-space
+ABS: 3
+Field: PUB SEC
+Publisher: SAGE
+
+Articles fetched: 7 (abstracts/metadata only; full text paywalled, no
+institutional access in this environment). Titles/authors cross-checked
+against IDEAS/RePEc listing (envirc series) for additional context.
+Sample: Crowley, Elliott & Wansleben (2025); Das, Woods & Kong (2026);
+Gómez-García, Keil, Krishendeholl, Sotomayor & Li (2025); Hedström &
+Eriksson (2025); Bui (2025); Li & Su (2025); Gorczyca & Zozulia (2025).
+
+Early stop triggered: No — stopped at 7 (below the target of 15) because
+the delta set stabilised quickly (consistent qualitative/case-study/
+thesis-driven pattern across all 7) and SAGE journal pages return HTTP 403
+on direct fetch, requiring search-engine-snippet extraction for each
+additional article, with diminishing new information per query. Documented
+per instructions rather than retried repeatedly.
+
+Deltas found: 4 dimensions
+  - Voice and Register (RELAXATION: no numbered hypotheses/contributions;
+    thesis-first critical/conceptual argument)
+  - Statistical Reporting (RELAXATION: sample is 100% qualitative, no
+    quantitative/causal-identification reporting observed)
+  - Structural Deviations (PRACTICE ONLY: single-case/single-region
+    case-study framing dominates)
+  - Other Journal-Specific Patterns (ENFORCED: double-anonymized review
+    with separate Title Page; word-limit inclusive of abstract/references/
+    figures at page-area equivalence)
+
+FIELD_SKILL overrides: none outright overridden — all deltas are
+relaxations or additions consistent with FIELD_SKILL's own acknowledgment
+that qualitative work is legitimate and practice varies across the field's
+top outlets. No FIELD_SKILL claim was found to be factually contradicted.
+
+Access-limitation notes:
+  - journals.sagepub.com/author-instructions/epc returned 403 on direct
+    WebFetch; guidelines content pieced together from WebSearch summaries
+    and a partially-extractable PDF (image-heavy, limited text layer).
+  - No full-text articles were accessible; all article-level observations
+    are based on abstracts and search-engine-extracted summaries only.
+  - Numeric hard word-count cap for the manuscript body could not be
+    confirmed from public sources (only the word-counting methodology was
+    confirmed: abstract + references + figures/tables all count).

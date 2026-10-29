@@ -1,0 +1,21 @@
+Journal: Journal of Population Economics
+Slug: journal-of-population-economics
+ABS: 3
+Field: ECON
+Publisher: Springer Nature (official journal of the European Society for Population Economics)
+
+Articles fetched: 13 (abstract/metadata level, via RePEc/IDEAS abstract pages); one additional working-paper PDF (Costanzo, "Robots, jobs, and optimal fertility timing") was located via SSRN/Mannheim/ULB mirrors but the PDF content could not be decoded by the fetch tool, so only its WebSearch-derived abstract snippet was used.
+
+Early stop triggered: No — spot-check continued past the target of ~10 until the delta set stabilized around 13 articles; no new deltas emerged after roughly article 8.
+
+Deltas found: 2 substantive dimensions
+  1. Abstract register/length — journal guidelines mandate max 150 words, non-technical language, explicit statement of innovation/contribution (ENFORCED, confirmed in all 13 sampled abstracts as short, jargon-light, and result-forward).
+  2. Abstract structural compression — motivation compressed to ~1 sentence, most of abstract devoted to quantified findings, driven by the 150-word cap (ENFORCED).
+  Additional practice note (not a field delta, FIELD DEFAULT for econ generally but consistently enforced here): universal JEL codes + keyword list on every sampled article across 2018-2025.
+
+FIELD_SKILL overrides: Abstract dimension only — journal imposes a hard length cap and non-technical-register requirement that FIELD_SKILL does not specify. All other dimensions (section architecture, citation format, hedging, statistical reporting, body voice) follow FIELD_SKILL norm with no delta.
+
+Access-limitation notes:
+- link.springer.com submission-guidelines and article pages consistently redirect to an idp.springer.com login wall in this environment; guideline content was reconstructed from WebSearch-extracted snippets of the same page rather than direct fetch.
+- Full text of sampled articles was not accessible (Springer paywall); all spot-checks are at the abstract/JEL/keyword level via RePEc/IDEAS, which was sufficient to judge abstract register and structure per task instructions.
+- One open-access working paper PDF (Costanzo) was located but the WebFetch tool could not decode its PDF byte stream; its abstract was instead obtained via a WebSearch snippet, so no full-text introduction/voice check was possible for that paper.

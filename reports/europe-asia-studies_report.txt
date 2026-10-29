@@ -1,0 +1,73 @@
+DELTA-DETECTION REPORT: Europe-Asia Studies
+=============================================
+
+Journal Name: Europe-Asia Studies
+Journal Slug: europe-asia-studies
+ABS 2024 Rating: 2
+Field: IB&AREA
+Publisher: Routledge (Taylor & Francis)
+
+ARTICLES FETCHED: 3-5
+(Limited due to Taylor & Francis paywall. Accessible metadata includes titles,
+authors, page ranges, and abstract snippets from various databases; full-text
+articles not retrievable through public access channels.)
+
+EARLY STOP TRIGGERED: No
+(Author proceeded through Phases 1-4 with good-faith effort despite access limitations.)
+
+DELTAS FOUND: 1 dimension
+1. Language/Spelling: UK English mandatory (ENFORCED RELAXATION from FIELD_SKILL,
+   which does not specify spelling conventions)
+
+FIELD_SKILL OVERRIDES: 1
+- UK English spelling (-ise, -isation) is explicitly required and overrides any
+  default assumptions about English dialect.
+
+HARD CONSTRAINTS IDENTIFIED:
+- Language: UK English (-ise, -isation; minimal hyphenation)
+- Abbreviations: Spell out on first mention with abbreviation in brackets
+- Citation style: Author-date parenthetical (inferred from field baseline; explicit
+  confirmation not publicly available)
+- Peer review: Double-anonymized (minimum 2 referees)
+- Submission platform: ScholarOne Manuscripts
+- Style guide: Referenced in editorial materials but not publicly available online
+
+ACCESS LIMITATION NOTES:
+========================
+
+Taylor & Francis website barriers:
+- Main journal page (tandfonline.com/journals/ceas20) returns HTTP 403 Cloudflare
+  block when accessed via WebFetch
+- Official "Instructions for Authors" not accessible without subscription or
+  authentication
+- Full-text articles paywalled or require institutional login
+- Style guide PDF (referenced as "Europe-Asia Studies Style Guide") not publicly
+  available; must be requested from editors
+
+Reliable public sources used:
+1. Wikipedia (journal profile, scope, publication history, editors)
+2. WebSearch results from journal databases (metadata only)
+3. IDEAS/RePEc, SciSpace, JSTOR, Sherpa/RoMEO (partial access)
+4. Editorial guidance documents mentioned in search results but not retrievable
+
+Information NOT publicly available:
+- Manuscript word count limits
+- Abstract format and length specifications
+- Detailed section structure requirements for empirical vs. conceptual papers
+- Complete citation formatting rules (author-date inferred but specifics unknown)
+- Figure/table submission guidelines
+- Page limit or equivalent metric
+
+METHODOLOGY NOTE:
+=================
+This skill was created under Phase 1-4 delta-detection guidelines with a good-faith
+access attempt. No speculation was used to fill gaps. Sections labeled "ENFORCED"
+are confirmed from multiple independent sources. Sections labeled "FIELD DEFAULT"
+represent explicit comparison with the FIELD_SKILL baseline. The journal is ABS 2
+(lower tier), and access scarcity at this tier is not unusual.
+
+Authors submitting to Europe-Asia Studies should consult the official Taylor &
+Francis page directly or contact the Editor (Luca Anceschi, University of Glasgow)
+for current manuscript length, abstract format, and other submission specifications.
+
+Report generated: 2026-07-02

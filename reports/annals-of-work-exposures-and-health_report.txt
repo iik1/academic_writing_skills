@@ -1,0 +1,24 @@
+Journal: Annals of Work Exposures and Health
+Slug: annals-of-work-exposures-and-health
+ABS: 1
+Field: ETHICS-CSR-MAN (note: journal is actually an occupational hygiene / exposure science journal; field tag mismatch noted in skill file)
+
+Articles fetched: 6 items examined at abstract/front-matter or table-of-contents level:
+  1. Quantifying and improving performance of a low-cost PM sensor used for occupational hygiene applications (70(2), wxag001)
+  2. Letter to the Editor "On estimating future burdens" (69(9):970-971)
+  3. Psychosocial risks and ethical implications of technology: considerations for decent work (69(4):360)
+  4-6+. Volume 68 Issue 3 full table of contents surveyed (Editorial, Commentary, 7 Original Articles, Short Communication, Letter to the Editor) for structural/article-type patterns.
+
+Early stop triggered: No — good-faith sample gathered given ABS 1 tier and thin general-audience coverage of full-text content; front matter and guidelines were sufficient to establish structural/format deltas.
+
+Deltas found: 5 dimensions
+  - Structure (IMRaD, no hypothesis/proposition framework) — HARD CONSTRAINT / discipline mismatch
+  - Length (much shorter caps than FIELD_SKILL: 1,000-5,000 words by category) — HARD CONSTRAINT, ENFORCED
+  - Abstract (unstructured or self-structured via IMRaD headings, no word limit stated) — HARD CONSTRAINT
+  - Citations (CSE name-year, not APA) — HARD CONSTRAINT, direct override
+  - Structural deviations (5 distinct short-form article types routinely used) — ENFORCED via TOC survey
+  - Voice/register and statistical reporting — field-mismatch relaxations, not journal-specific policy per se
+
+FIELD_SKILL overrides: Structure (no hypotheses/propositions), Length (much shorter), Abstract format, Citation style (CSE name-year vs APA)
+
+Access-limitation notes: Full text of articles is paywalled (Oxford Academic / Silverchair); analysis relies on publicly visible abstract pages, guideline pages, and one issue table of contents. No SSRN/ResearchGate open-access copies were located for this niche exposure-science journal. This is consistent with an ABS 1, niche, non-open-access outlet. The assigned field (ETHICS-CSR-MAN) does not match the journal's actual scope (occupational hygiene/exposure science) — this is flagged explicitly in the skill file rather than silently forcing a strained comparison to the management field baseline.

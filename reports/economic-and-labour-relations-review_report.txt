@@ -1,0 +1,79 @@
+JOURNAL SKILL DEVELOPMENT REPORT
+========================================
+
+Journal: Economic and Labour Relations Review
+Slug: economic-and-labour-relations-review
+ABS Rating: 1
+Field: HRM&EMP
+Publisher: Cambridge University Press
+
+ARTICLES FETCHED: 12
+- "Barriers and inclusive initiatives: A systematic literature review of women's employment in STEM workplaces" (Wu, Almeida, Schulz, O'Brien, 2026)
+- "Safety management and power relations in outsourced industrial work" (Nygren, 2026)
+- "Impacts of unions on workers' overtime: Evidence from China" (Xie, Qian, Chi, Ye, 2026)
+- "Why has Minsky's economic theory been ignored?" (Zachariadis, 2026)
+- "The discouraged worker effect during the Covid-19 pandemic in Türkiye" (Demirtaş & Güney, 2026)
+- "Minimum wages, household inequality, and predistributive patterns in Latin America" (Aguilar, 2026)
+- "How China's digital economy amplifies migrant workers' inequality through demand-supply mismatch" (Che, Liu, Lu, 2025)
+- "The pension systems of Northern Cyprus: Deficits and proposals for sustainability" (Altiok, Sokhanvar, Jenkins, 2026)
+- "Considering citation: Good, bad, and ugly perspectives" (Kelly, 2026) [Editorial]
+- Plus 3 additional articles for comprehensive context
+
+EARLY STOP TRIGGERED: No
+- All 12 articles were accessible via Cambridge Core or abstracts/frontmatter
+- No access barriers encountered that required termination of sampling
+
+DELTAS FOUND: 5 dimensions with journal-specific deviations
+
+1. Theoretical Framing (PRACTICE ONLY / field expansion)
+   - FIELD_SKILL anchors HRM&EMP in psychological/managerial theories
+   - ELRR accepts heterodox economics, critical political economy, post-Keynesian frameworks
+   - Journal explicitly encourages pluralistic approaches
+
+2. Policy Analysis Orientation (PRACTICE ONLY / emphasis variance)
+   - Beyond FIELD_SKILL requirement for "practical implications"
+   - ELRR has Policy Focus article type (5,000–10,000 words) structured as problem diagnosis + reform design
+   - Reviewers expect methodological rigor in policy proposal phase
+
+3. Statistical Reporting Rigor (PRACTICE ONLY / trend toward econometric thoroughness)
+   - FIELD_SKILL notes "lower, less uniform" econometric sophistication than economics journals
+   - ELRR shows standard use of IV, PSM, fixed effects, 8–15+ robustness specifications
+   - Authors justify methods explicitly; endogeneity/selection bias discussion expected
+
+4. Credibility Signalling (PRACTICE ONLY / journal-specific emphasis)
+   - FIELD_SKILL silent on transparency norms
+   - ELRR shows expansive limitation acknowledgment (data gaps, unmeasured confounds, sample constraints)
+   - Editorial emphasis on ethical scholarship and intellectual honesty as credibility foundation
+
+5. Literature Review Integration (PRACTICE ONLY / high consistency)
+   - FIELD_SKILL notes "practice varies"
+   - ELRR consistently uses standalone literature review sections with explicit hypotheses/frameworks
+   - Even qualitative papers separate literature review from introduction
+
+NO FIELD_SKILL OVERRIDES: All deltas represent relaxations, expansions, or emphasis shifts—none require FIELD_SKILL content to be contradicted or superseded.
+
+HARD CONSTRAINTS IDENTIFIED:
+- Maximum 8,000 words (including abstract, tables, endnotes)
+- Title: 12 words maximum
+- Abstract: 250 words maximum
+- Citation style: Cambridge A (author-date)
+- Double-blind peer review (anonymous manuscript + title page)
+- Proofreading mandatory
+- AI tool use must be declared
+
+COMMON PITFALLS (journal-specific):
+- Insufficient methodological justification in quantitative papers
+- Policy analysis sections that lack technical rigor
+- Confusing heterodox framing with methodological looseness
+- Omitting AI tool declarations
+
+ACCESS NOTES:
+- All author guidelines publicly available via Cambridge Core
+- All 12 articles accessible in full text via Cambridge Core platform
+- No paywalls encountered; journal is open-access (2026)
+- Editorial practice accessible
+
+FIELD_SKILL OVERRIDES: None
+
+SKILL FILE SAVED TO:
+C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/hrm/economic-and-labour-relations-review_SKILL.md

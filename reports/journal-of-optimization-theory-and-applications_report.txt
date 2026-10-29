@@ -1,0 +1,15 @@
+Journal: Journal of Optimization Theory and Applications
+Slug: journal-of-optimization-theory-and-applications
+ABS: 3
+Field: OR&MANSCI
+
+Articles fetched: 13 (title/author level across Vol. 200 (2024), Vol. 209-210 (2026)); 2 with abstract-level snippet detail; full text inaccessible (Springer paywall/login-wall on all direct article fetches).
+Early stop triggered: No — access chain (WebSearch, WebFetch, IDEAS/RePEc, ACM listings) was exhausted rather than deliberately stopped early. Direct Springer article pages consistently redirected to an authentication wall (idp.springer.com), so full-text spot-checking beyond title/topic level was not possible.
+
+Deltas found: 2 dimensions
+  1. Structural Deviations — journal formally distinguishes a "theory" track from an "applications" track; applications papers require an explicit formal problem statement (variables/objective/constraints) and mandatory numerical reproducibility disclosure (solution accuracy estimate, full parameter values). ENFORCED (stated in guidelines).
+  2. Other Journal-Specific Patterns — abstract capped at ~150-250 words, no citations permitted within abstract, 4-5 keywords required. GUIDELINE ONLY / ENFORCED at submission checkpoint (could not verify against full-text abstracts due to paywall).
+
+FIELD_SKILL overrides: Abstract length/citation rule and applications-paper reproducibility requirement override/supplement FIELD_SKILL (which does not specify abstract length or a theory/applications bifurcation).
+
+Access-limitation notes: All link.springer.com article and guideline URLs redirect to idp.springer.com authentication wall when fetched directly; guideline content was recovered via WebSearch result snippets instead of direct page fetch. Article full text was not accessible for any of the 13 titles found; spot-check relied on titles/authors from IDEAS/RePEc and ACM Digital Library tables of contents plus two WebSearch-extracted abstract snippets. No deltas found in voice, hedging, citation density, methods conventions, or results/discussion norms — these follow FIELD_SKILL norm based on available evidence, though confidence is lower than usual given the lack of full-text access.

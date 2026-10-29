@@ -1,0 +1,48 @@
+Journal: Health Services Research
+Slug: health-services-research
+ABS: 3
+Field: PUB SEC
+Publisher: Wiley-Blackwell (AcademyHealth/HRET)
+
+Articles fetched: 15 (title/abstract level via search-engine snippets; full text
+paywalled/402 at onlinelibrary.wiley.com in this environment)
+Early stop triggered: No — deltas stabilized around the structured-abstract /
+key-points-box finding; sampling continued to 15 to confirm consistency across
+years (2024-2026) and topics (Medicaid expansion, hospital M&A, COVID-19,
+social determinants of health, Veterans health costs).
+
+Deltas found: 2 dimensions
+  1. Structural Deviations (ENFORCED) — mandatory structured abstract with
+     labeled subsections (Objective; Data Sources and Study Setting; Study
+     Design; Data Collection; Principal Findings; Conclusions) plus a
+     highlighted "What is known on this topic" / "What this study adds"
+     key-points box (max 3 bullets each, ~30 words, no citations, practitioner-
+     facing). This is more prescriptive than FIELD_SKILL's generic structured-
+     abstract description.
+  2. Other Journal-Specific Patterns (PRACTICE ONLY/ENFORCED) — abstract
+     Objective lines consistently open with an infinitive ("To examine...",
+     "To quantify...", "To determine whether..."), a terser convention than
+     FIELD_SKILL's discursive framing description (applies to abstract only).
+
+FIELD_SKILL overrides (Hard Constraints only):
+  - Structure: rigid labeled abstract/methods subheadings (Data Sources and
+    Study Setting; Study Design; Data Collection) vs. FIELD_SKILL's looser
+    structure description.
+  - Length: abstract caps of 300 words (Research Articles) / 200 words
+    (Briefs) — not specified in FIELD_SKILL.
+  - Abstract: mandatory numeric findings with uncertainty measures in the
+    abstract, plus the What-is-known/What-this-study-adds box — not in
+    FIELD_SKILL.
+  - Explicit Prohibitions: named race/ethnicity reporting standards (AHA/ASA
+    Disparities Research Guidelines, JAMA guidance, APA Bias-Free Language)
+    and mandatory analytic code availability — not in FIELD_SKILL.
+
+Access-limitation notes:
+  - Wiley Online Library full-text and guidelines pages returned HTTP 402
+    (Payment Required) for direct WebFetch in this environment; all guideline
+    and article detail was reconstructed from WebSearch result snippets, a
+    PMC commentary article ("From the Editors' Desk: HSR Updates Instructions
+    for Authors," PMC6863222), and Wiley abstract-page search-snippet text.
+  - No full-text article was read in full; all 15 spot-checked articles were
+    assessed at title/topic/abstract-snippet level only, per task instructions
+    allowing front-matter-level assessment when full text is paywalled.

@@ -1,0 +1,36 @@
+Journal: Accounting in Europe
+Slug: accounting-in-europe
+ABS: 2
+Field: ACCOUNT
+
+Articles fetched: 0 full-text articles (tandfonline.com blocked all WebFetch attempts with HTTP 403).
+Title/topic-level information gathered for 9 articles via web search snippets and RePEc/IDEAS index
+(no abstracts or full text obtained for any of them). RePEc issue-listing page fetched successfully
+for article titles/authors/years only.
+
+Early stop triggered: No (proceeded through good-faith effort per ABS 2 thin-access allowance), but
+access was severely limited — no direct instructions-for-authors page read, no full-text article read.
+
+Deltas found: 2
+  1. Framing and Contribution Positioning (GUIDELINE/ENFORCED) — explicit, above-baseline emphasis
+     on policy and practice relevance as a first-order framing criterion, confirmed by 2026 editorial
+     team commentary and consistent with sampled article topics (regulatory/policy-driven subjects).
+  2. Structural Deviations (PRACTICE ONLY) — two submission tracks (Research Articles vs. Issues in
+     European Accounting), the latter solicited/practitioner-facing with single-blind review, not
+     present in FIELD_SKILL baseline journals.
+
+FIELD_SKILL overrides: none confirmed (no hard word/abstract/citation limits could be verified from
+public sources; all HARD_CONSTRAINTS sections marked "not confirmed" except the cover-letter
+requirement, which is new as of 2026 and is ENFORCED).
+
+Access-limitation notes:
+- tandfonline.com returned HTTP 403 for every WebFetch attempt (instructions page, about-this-journal
+  page, and all individual article full-text pages), including via doi.org redirect.
+- Could not verify abstract word limit, manuscript word/page limit, heading conventions, citation
+  style specifics, or table/figure rules directly from the guidelines page — relied entirely on
+  secondhand search-engine snippets and one successfully-fetched RePEc index page.
+- No full article text (methods, results, discussion) was read for any of the 9 sampled titles, so
+  the article spot-check is title/topic-level only, not a genuine style/structure comparison against
+  FIELD_SKILL at the sentence or section level.
+- The skill file explicitly flags this as a low-confidence pass and recommends verifying HARD_CONSTRAINTS
+  against the live instructions page before relying on them.

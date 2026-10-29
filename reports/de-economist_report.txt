@@ -1,0 +1,9 @@
+Journal: De Economist
+Slug: de-economist
+ABS: 1
+Field: ECON
+Articles fetched: 7 abstracts read in full (Brands et al. 2025; Amez & Baert et al. 2025; van Ours 2026; Graafland 2025; Heijdra & Heijnen 2025) + 3 additional titles/authors from RePEc/IDEAS TOC (Çetin & Jousten 2025; Peng, Wei & Yu 2025; Vandenberghe 2025) = 10 distinct articles surveyed across 2025-2026 issues.
+Early stop triggered: No (target of 10-15 was reached at the low end; Springer full-text paywall limited further depth, so sample relied on abstracts/metadata rather than full text)
+Deltas found: 0 structural/voice deltas. All dimensions converge with FIELD_SKILL (econ-field-writing-style). One HARD_CONSTRAINT detail found (unstructured abstract, 150-250 words) which is a standard Springer template value, not a distinctive journal norm.
+FIELD_SKILL overrides: none
+Access-limitation notes: Springer's link.springer.com pages (journal home, submission-guidelines, individual article pages) all redirected to an authentication wall (idp.springer.com) when fetched directly, so guideline text and abstracts were obtained via search-engine-indexed snippets rather than direct page fetch. Full text of all sampled articles was inaccessible (paywalled); assessment is abstract/metadata-level only, consistent with the good-faith-effort allowance for ABS 1 journals. One working-paper (CESifo) version of a De Economist article was found and used for JEL code/keyword verification.

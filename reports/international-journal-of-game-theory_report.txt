@@ -1,0 +1,43 @@
+DELTA DETECTION REPORT
+International Journal of Game Theory
+
+Journal Name: International Journal of Game Theory
+Slug: international-journal-of-game-theory-writing-style
+ABS 2024 Rating: 2
+Field: ECON
+Publisher: Springer Nature
+
+ARTICLES FETCHED AND ACCESSIBILITY
+======================================
+Articles identified (2024-2026): 6
+- Jané-Ballarín (2025): "The essential coalitions index in games with restricted cooperation" (vol. 54, art. 34)
+- Dietzenbacher & Vermeulen (2026): "Graph-restricted games and their inheritance of properties" (vol. 55, no. 1)
+- Goldberg et al. (2026): [article 6]
+- "Restricting entries to all-pay contests" (2025)
+- "A simple proof of the continuity of expected payoffs" (2026)
+- "The APS approach for undiscounted quitting games" (2026)
+
+Accessibility: Springer paywalls prevented full-text access to published articles. Abstracts and metadata available via web search. Official submission guidelines page requires institutional authentication.
+
+Early Stop Triggered: NO (good-faith attempt exhausted before reaching hard stop; access limitations documented honestly)
+
+DELTAS FOUND: 0 substantive deltas
+=====================================
+The journal's explicit hard constraints (abstract length 150-250 words, 4-6 keywords, author-year citations, no undefined abbreviations) are consistent with standard Springer economics journal conventions and align with the FIELD_SKILL baseline derived from ABS 4*/4 journals.
+
+No evidence of journal-specific voice, argumentation patterns, hedging norms, citation density, or structural requirements diverging from the field baseline.
+
+FIELD_SKILL OVERRIDES
+=======================
+None. All confirmed hard constraints fall within FIELD_SKILL norms.
+
+ACCESS LIMITATIONS AND NOTES
+==============================
+1. Springer institutional paywall: Full submission guidelines page (https://link.springer.com/journal/182/submission-guidelines) requires authentication; not publicly accessible.
+2. Published articles behind paywall: Could not verify actual manuscript structure, voice patterns, or stylistic choices via full-text inspection.
+3. Preprints limited: Maastricht University working paper repository also behind institutional access.
+4. Skill quality: Grounded in confirmed hard constraints and Springer standard conventions. Reliance on FIELD_SKILL baseline is justified given ABS 2 status and mainstream ECON focus.
+
+RATIONALE
+===========
+The International Journal of Game Theory is a mainstream economics journal on Springer, indexed in ABS (rating 2), and follows Springer's standard submission conventions. Its authors are trained economists, it uses author-year citations (universal across ABS ECON), and it publishes theoretical and applied game-theoretic work. No publicly available evidence suggests stylistic divergence from field norms. The low ABS rating (2 vs. 4*/4) suggests lower selectivity, not different writing conventions. The skill is short because the journal offers no documented deltas from FIELD_SKILL.

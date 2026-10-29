@@ -1,0 +1,51 @@
+Journal: Work, Employment and Society
+Slug: work-employment-and-society
+ABS: 4
+Field: HRM&EMP
+
+Articles fetched: 10 distinct articles at abstract/metadata level (full text
+paywalled on SAGE; no institutional access in this environment). Full official
+Notes for Contributors PDF (BSA-hosted) was fetched and read in full text.
+Articles: Umney et al. 2024 (platform labour unrest); Farrugia 2025 (lay
+moralities of young workers); Otto & Abraham 2025 (robotisation and workforce
+dynamics); Herman, Hebson & Rubery 2025 (precarious work to precarious
+lives); Blanck, Brzinsky-Fay & Powell 2025 (Special NEETs); Ashley &
+Sommerlad 2025 (Diamonds in the Rough); Lo 2025 (Queer Bonds at Work);
+Giazitzoglu 2025 (Men at Work). Also consulted two PMC-hosted WES editorials
+for structure/citation confirmation.
+
+Early stop triggered: No — stopped at 10 due to exhausted access chain
+(SAGE journal pages render client-side JS and are not fetchable as static
+HTML; WebFetch only returns nav/footer boilerplate). Deltas had stabilized
+by article 6-7; remaining articles confirmed rather than added new deltas.
+
+Deltas found: 5 dimensions
+1. Voice and Register — sociological/critical-theoretical framing leans
+   stronger than field-default psychological/managerial framing (PRACTICE
+   ONLY / journal lean).
+2. Statistical Reporting — mandated split between main text (only most
+   pertinent results) and a separate peer-reviewed supplementary appendix
+   for full quantitative detail (ENFORCED, stated in guidelines).
+3. Structural Deviations — four distinct article tracks (Main, Debates and
+   Controversies, Research Notes, On the Front Line) not present in
+   FIELD_SKILL; OtFL explicitly forgoes academic-style conclusion (ENFORCED).
+4. Other Journal-Specific Patterns — literal, fully inclusive 8000-word cap
+   (title/abstract/keywords/text/references/tables/figures all counted)
+   (ENFORCED).
+5. Citations — SAGE Harvard author-date style; no JEL codes; free-text
+   sociological keywords (ENFORCED/confirmed).
+
+FIELD_SKILL overrides: none that contradict FIELD_SKILL outright — WES
+constraints layer on top of (do not redefine) the HRM&EMP baseline. The
+8000-word literal-inclusive cap and mandatory sociological-contribution
+framing are the two most consequential practical overrides for anyone
+drafting toward this journal.
+
+Access-limitation notes: journals.sagepub.com pages are JavaScript-rendered
+and returned only navigation/footer boilerplate via WebFetch; all article
+content was obtained via WebSearch-surfaced abstract/metadata snippets,
+RePEc/IDEAS listings, and one open-access institutional repository page
+(eprints.whiterose.ac.uk). Two PMC-hosted WES editorials provided the only
+full-text confirmation of in-text citation style and heading conventions
+(editorials, not research articles, so treated as supporting rather than
+primary evidence for research-article structure).

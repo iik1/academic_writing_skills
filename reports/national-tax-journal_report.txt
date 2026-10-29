@@ -1,0 +1,57 @@
+JOURNAL SKILL DEVELOPMENT REPORT
+================================================================================
+
+Journal: National Tax Journal
+Slug: national-tax-journal-writing-style
+ABS Rating: 2
+Field: ECON
+Publisher: University of Chicago Press
+
+RESEARCH SUMMARY
+================================================================================
+
+ARTICLES FETCHED: 8 spot-checked articles from Vol. 78-79 (2025-2026)
+  - Clausing & Obstfeld, "Tariffs as Fiscal Policy" (2026, Vol. 79 No. 1)
+  - Gale et al., "Fiscal Consolidation: Lessons for the United States" (2025)
+  - Kamal, "Importers, Exporters, and Job Creation" (2026, Vol. 79 No. 1)
+  - Deng & Rane, "The Foreign Market Effect and Estimating Tax-Motivated Income Shifting" (2026, Vol. 79 No. 2)
+  - Brang et al., "Fiscal Stimulus or Debt Relief" (2026, Vol. 79 No. 2)
+  - McMillen & Singh, "Assessment Regressivity and the Homestead Exemption" (2026, Vol. 79 No. 2)
+  - Additional 2 articles from table of contents listings
+
+ACCESS LIMITATIONS: Full-text articles behind University of Chicago Press paywall. Research relied on:
+  - Public abstracts and metadata from IDEAS/RePEc
+  - Journal table of contents and issue listings
+  - Partial access to public-facing manuscript preparation pages
+  - Author guidelines landing page (full PDF guidelines paywalled)
+
+EARLY STOP TRIGGERED: No (adequate sample obtained despite paywall; 8 articles across multiple issues 2025-2026)
+
+DELTAS FOUND: 2 key deltas identified
+  1. POLICY_EMPHASIS (RELAXATION): NTJ explicitly foregrounds policy implications more than ABS 4*/4 baseline
+  2. CITATION_DENSITY: Follows field baseline (no delta)
+  3. STRUCTURAL_NORMS: Follows field baseline (no delta)
+  4. VOICE_AND_REGISTER: Follows field baseline (no delta)
+
+FIELD_SKILL OVERRIDES:
+  None. NTJ does not override FIELD_SKILL baseline conventions for voice, citation density, hedging, or structure.
+  The journal is ABS 2 (lower tier than baseline), but in practice recent articles adhere closely to ABS 4*/4 norms.
+
+HARD CONSTRAINTS IDENTIFIED:
+  - Manuscript length: 50 double-spaced pages (including tables, figures, footnotes, references, appendices)
+  - Short papers: 6,000 words exclusive of references, up to 5 figures/tables
+  - Abstract: 100 words or fewer + keywords + JEL codes
+  - Citation system: Author-date (University of Chicago Press conventions)
+  - Replication data: Mandatory submission to NTJ Dataverse for empirical papers
+  - Copyright: Assigned to National Tax Association upon acceptance
+  - Open access option: $2,500 fee at submission or acceptance
+
+SKILL FILE SAVED: YES
+Location: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/economics/national-tax-journal_SKILL.md
+
+NOTES:
+  - Journal is lower ABS tier (2) but maintains strong empirical standards comparable to field baseline
+  - Policy emphasis is the only clear delta; articles emphasize practical implications more explicitly than top-tier econ outlets
+  - Replication data requirements are strict and should be highlighted as a common pitfall for authors
+  - 50-page limit (double-spaced) is tighter than many top-tier journals; easy to exceed when including appendices
+  - Full style guidelines PDF not publicly accessible; skill relies on secondary sources and article observation

@@ -1,0 +1,16 @@
+Journal: FinanzArchiv
+Slug: finanzarchiv
+ABS: 1
+Field: ECON
+
+Articles fetched: 10 distinct articles identified by title/author/issue (2024-2026 issues of Mohr Siebeck's FinanzArchiv). Full abstracts confirmed for 3 (Hebous/Klemm/Wu; Joshi/Markle/Robinson; partial for Guenther/Potrafke/Scholten). Remaining 7 confirmed only at title/author/issue level via publisher TOC pages and WebSearch snippets — no public abstract or full text found.
+
+Early stop triggered: No — good-faith effort completed across available access chain (publisher site, RePEc/IDEAS, SSRN, WebSearch snippets, IMF/NBER working paper mirrors). Did not reach full 10-15 with full abstracts due to paywall; documented per ABS-1 allowance in task instructions.
+
+Deltas found: 2
+  1. Abstract Length (ENFORCED) - hard 100-word cap, stricter than FIELD_SKILL's no-norm default.
+  2. Topical Scope Signal (PRACTICE ONLY) - sample skews heavily to international tax/profit-shifting and fiscal federalism, plus a dedicated "Fiscal Policy in Action" practitioner-oriented track.
+
+FIELD_SKILL overrides: Abstract length (100-word max) is the only true override; all structural, voice, hedging, citation-density, and reporting norms observed align with FIELD_SKILL (no override).
+
+Access-limitation notes: No institutional/EZProxy access. Mohr Siebeck publisher pages do not display abstracts on issue TOC pages; JSTOR full text paywalled. Relied on RePEc/IDEAS listings, SSRN abstract pages, and WebSearch snippets/working-paper mirrors (IMF WP for Hebous et al.) for content beyond bare titles. No full-text prose was read, so sentence-level style dimensions (tense, hedging, paragraph density) are inferred as FIELD DEFAULT rather than directly confirmed from FinanzArchiv text itself.

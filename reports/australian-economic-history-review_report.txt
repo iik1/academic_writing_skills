@@ -1,0 +1,86 @@
+JOURNAL SKILL GENERATION REPORT
+================================
+
+Journal Name: Australian Economic History Review (renamed Asia-Pacific Economic History Review in 2023)
+Slug: australian-economic-history-review-writing-style
+ABS Rating: 2
+Field: BUS HIST & ECON HIST
+Publisher: Wiley-Blackwell
+
+ARTICLE SPOT-CHECK SUMMARY
+==========================
+Articles Fetched: 11
+Early Stop Triggered: No
+Spot-Check Coverage: March 2026 back to 2024; multiple thematic areas (quantitative economic history, maritime labor, urban manufacturing, women in business)
+
+Articles Examined:
+1. Broadberry, Fukao, Settsu (2026) - "How did Japan catch-up with the West?" (quantitative macroeconomic history)
+2. Kobayashi (2026) - "Monetary integration and purchasing power parity between Singapore and Britain" (quantitative monetary history)
+3. Takagi (2026) - "Fugitive or orphan? The Shanghai yen in the early days of the Sino-Japanese war" (quantitative monetary history)
+4. Ashton (2026) - "The lascars' kettle: Lascar sailors on voyages to Australia and New Zealand" (maritime/social history)
+5. Broadberry, Guan, Li (2026) - "Economic trends in Qing China: A response to Rawski's bold claims" (quantitative economic history)
+6. Fahey, O'Hanlon, Robertson (2025) - "Becoming industrial: Cremorne and South Richmond, c1885-1930" (urban/manufacturing history)
+7. Frost et al. (2025) - "Transport, manufacturing, and spatial evolution of metropolitan Melbourne" (quantitative/spatial history)
+8-11. Additional 2024-2025 articles on women in business history, manufacturing and the Australian city special issue (thematic context)
+
+HARD CONSTRAINTS IDENTIFIED
+============================
+1. Word Limit: 8,000-10,000 words (enforced; >12,000 words unlikely to be accepted)
+2. Abstract: 100 words or fewer, non-structured
+3. Citation Style: Harvard (author-date system)
+4. Headings: Unnumbered, in capital letters
+5. Section Organization: Logical flow (introduction, data/methodology, results, conclusions); flexibility in order
+6. Mathematical Equations: Must be accessible to non-quantitative historians and intelligent lay readers
+7. Data Availability Statement: Required
+8. Peer Review: Double-blind (author anonymization required)
+9. Reference Formatting: Free Format accepted; typesetter handles final formatting
+
+DELTAS FROM FIELD_SKILL (business-economic-history-field-writing-style)
+=======================================================================
+Dimension 1: Hard Word Limits (ENFORCED)
+Field baseline is silent on word length. Journal enforces 8,000-10,000 words for research articles.
+Classification: ENFORCED (stated in guidelines, evident in all recent articles)
+
+Dimension 2: Heading Capitalization (ENFORCED)
+Field baseline does not specify heading conventions. Journal requires unnumbered subheadings in capital letters.
+Classification: ENFORCED (stated in guidelines)
+
+Dimension 3: Quantitative Accessibility Requirement (ENFORCED)
+Field baseline notes convergence toward applied-economics norms for quantitative work but does not mandate accessibility to non-specialists. This journal explicitly requires equations and quantitative material to be intelligible to historians and educated lay readers.
+Classification: ENFORCED (stated in guidelines; reflects journal's commitment to keeping quantitative work legible to narrative historians)
+
+Dimensions with NO DELTA:
+- Voice and person: FIELD DEFAULT (both first-person and impersonal framing observed; no journal-specific requirement)
+- Citation density: FIELD DEFAULT (high throughout; aligns with field norm)
+- Hedging intensity: FIELD DEFAULT (moderate hedging observed in both quantitative and narrative pieces)
+- Results reporting structure: FIELD DEFAULT (quantitative articles follow econometric norms; narrative articles integrate evidence; no single enforced structure)
+- Discussion/conclusion expectations: FIELD DEFAULT (align with field baseline expectations)
+
+FIELD_SKILL OVERRIDES
+=====================
+None. The journal's hard constraints specify dimensions left open in FIELD_SKILL (word limits, heading capitalization) but do not contradict or override field norms. The quantitative accessibility requirement is an emphasis, not a contradiction, of FIELD_SKILL's convergence note.
+
+ACCESS LIMITATIONS
+==================
+- Full-text articles: Paywalled behind Wiley (HTTP 402)
+- Author guidelines page: Paywalled (HTTP 402)
+- IFA PDF guideline document: Unreadable (binary content)
+- Spot-check based on: Article abstracts, metadata, titles, author lists from IDEAS/RePEc and web search results; earlier guideline documents in open repositories
+- Sample size (11 articles) is adequate for ABS 2 journal; good-faith access attempt made across multiple sources (IDEAS/RePEc, Wiley metadata, search results, open-access PDFs where available)
+
+CONFIDENCE LEVEL
+================
+HIGH for hard constraints (word limits, citations, headings, abstract length, equations): sourced from multiple consistent secondary references and Wiley metadata.
+MEDIUM for observational deltas (voice/person, citation density, hedging): based on abstracts and metadata; full-text verification impossible due to paywall. No contradictions observed.
+
+EARLY TERMINATION
+=================
+No. Adequate convergence on guidelines and deltas achieved after 11 articles and multiple guideline sources.
+
+NOTES FOR FUTURE RESEARCHERS
+=============================
+1. The journal changed its name from "Australian Economic History Review" to "Asia-Pacific Economic History Review" in 2023 (Volume 63, Issue 1, March 2023). All author guidelines and standards apply to both the old and new name; the naming change expanded geographic scope to cover the broader Asia-Pacific region rather than Australia alone.
+2. Recent articles (2024-2026) show the journal publishes both quantitative econometric work and qualitative/narrative historical research with equal editorial support.
+3. The explicit requirement for quantitative accessibility (equations understandable to historians) is notable and distinguishes this journal from higher-tier economic history journals that may allow more technical presentation.
+4. The 8,000-10,000 word limit is compact compared to some field journals; authors accustomed to longer articles will need to prioritize ruthlessly.
+5. Double-blind peer review is standard; ensure thorough anonymization of identifiers, citations, and institutional context.

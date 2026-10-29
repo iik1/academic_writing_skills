@@ -1,0 +1,40 @@
+Journal: British Journal of Psychology
+Slug: british-journal-of-psychology
+ABS: 3
+Field: PSYCH (GENERAL)
+
+Articles fetched: 7 distinct articles/pages (abstracts and front-matter only;
+full text behind Wiley paywall for all but one open PMC copy of a review
+article). Guidelines page itself returned HTTP 402 on direct fetch; content
+reconstructed from WebSearch-extracted excerpts of the same page plus the
+journal's dedicated Registered Reports guidelines page.
+
+Early stop triggered: No — stopped at 7 after the delta set stabilised
+(structure, abstract, and length deltas repeated/confirmed across sources;
+no new deltas emerged from additional searches on article-type and
+commentary format).
+
+Deltas found: 2 dimensions
+  1. Structural Deviations — invited discussion articles with peer
+     commentary (minor, BBS-like but smaller-scale) and Registered Reports
+     as a standing two-stage (Stage 1/Stage 2) submission track. ENFORCED
+     (Registered Reports; confirmed via Silverstein et al. 2024 article
+     explicitly labeled as such) / present per guidelines (invited articles).
+  2. Other Journal-Specific Patterns — abstract capped at 100-200 words,
+     explicitly unstructured, no sub-headings. GUIDELINE ONLY / ENFORCED
+     (stated in guidelines, consistent with sampled abstracts).
+
+FIELD_SKILL overrides: none that contradict FIELD_SKILL outright — both
+deltas are additive (new article types, tighter abstract spec) rather than
+overrides of voice/reporting/hedging norms, which all follow FIELD_SKILL
+defaults (labeled FIELD DEFAULT).
+
+Access-limitation notes: Wiley's bpspsychub.onlinelibrary.wiley.com domain
+returned HTTP 402 (Payment Required) on all direct WebFetch attempts,
+including the guidelines page and every article DOI page. All findings were
+sourced via WebSearch result snippets (which surface search-engine-cached
+abstract/guideline text) and one full-text PMC open-access copy of a review
+article. No paywalled full-text Method/Results sections were read directly,
+so statistical-reporting and methods-section deltas rely on abstract-level
+signal only, consistent with the task's stated tolerance for front-matter-only
+spot-checks.

@@ -1,0 +1,40 @@
+ADVANCES IN MANAGEMENT ACCOUNTING - DELTA REPORT
+================================================
+
+Journal: Advances in Management Accounting
+Slug: advances-in-management-accounting
+ABS Rating: 2
+Field: ACCOUNT
+Publisher: Emerald Publishing (book series)
+
+ARTICLES FETCHED: 6
+- Spraakman & O'Grady (2023): "Strategic Planning and Budgeting: A Single Integrated Process with Ex Ante and Ex Post Alignments" (Vol. 35, pp. 19-44)
+- Akroyd et al. (2023): "The New Management Accounting Ecosystem: A Retrospective View and Path to the Future" (Vol. 35, pp. 1-18)
+- Reichert & Sohn (2022): "The Effect of Using Competition to Induce Employee Effort on Employee Cooperation in Multitask Job Environments" (Vol. 34, pp. 33-62)
+- AFGR Systematic Review (2025): "Advancements in Management Accounting and Digital Technologies: A Systematic Literature Review" (comparable structure)
+- Volume 11 Editorial Guidelines (2003): embedded guidelines chapter
+- Volume 11 sample chapters (circa 2003)
+
+Early stop triggered: NO
+Good-faith effort completed; 6 distinct articles/sources examined across 20+ years.
+
+DELTAS FOUND: 3 dimensions
+1. Research Methods Emphasis - RELAXATION from field baseline (broader methods accepted)
+2. Introduction Structure - MINOR (research questions over formal hypotheses)
+3. Statistical Reporting - RELAXATION (lower rigor threshold for qualitative/exploratory work)
+
+FIELD_SKILL OVERRIDES:
+- Hard constraints on abstract (200 word max), headings (topical/centered), citations (author-date), structure (standard academic sections) align with FIELD_SKILL expectations or slightly relax them.
+- No direct conflict; field baseline expectations carry forward for voice, register, citation patterns, and hedging.
+- Main departure: this series (ABS 2) accepts exploratory and qualitative research without demanding causal identification rigor required at ABS 4*/4 level.
+
+ACCESS LIMITATION NOTES:
+- Emerald's primary website (emerald.com/insight) returns CAPTCHA blocks on all direct guideline and full-text article pages, preventing direct fetch of modern editorial standards.
+- Author guidelines are embedded in individual volume front matter (editorial/prelims chapters) rather than hosted on a public submission portal.
+- Volume 11 (2003) guidelines via ebin.pub provide historical baseline; contemporary practice inferred from chapter titles, abstracts, and editorial statements in Volumes 34-35.
+- SSRN and ResearchGate also blocked (403 Forbidden) for full-text access.
+- Wikipedia-style bibliography site (maaw.info) has certificate expiration issues.
+- Overall: good-faith sample reached convergence. No additional sources could be accessed to refine findings.
+
+CONCLUSION:
+Advances in Management Accounting is a lower-tier (ABS 2) edited book series that relaxes the methodological and statistical rigor expectations of top-tier accounting journals while maintaining field-standard voice, register, and argumentation conventions. Authors should expect a more receptive audience for qualitative, exploratory, and applied research but should not sacrifice clarity of contribution positioning or limitation transparency.

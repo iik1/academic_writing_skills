@@ -1,0 +1,35 @@
+Journal: Problems and Perspectives in Management
+Slug: problems-and-perspectives-in-management
+ABS: 1
+Field: ETHICS-CSR-MAN
+Articles fetched: 9 (abstract/title/metadata level via WebSearch-indexed snippets; full-text and guidelines PDFs were not directly fetchable)
+Early stop triggered: No (dedupe check found no existing skill; proceeded through all phases)
+
+Deltas found: 4 dimensions
+  1. Structural Deviations - ENFORCED - fixed generic heading sequence (Abstract, Introduction,
+     Literature review, Method, Results, Discussion, Conclusion) stated in guidance, narrower
+     than FIELD_SKILL's four flexible article-type templates.
+  2. Other Journal-Specific Patterns - ENFORCED - JEL Classification codes required/present on
+     every sampled abstract (not part of FIELD_SKILL's management baseline).
+  3. Other Journal-Specific Patterns - ENFORCED - explicit "Aim" sentence and explicit "Methods"
+     statement called out as discrete guideline requirements (title must not be replicated in Aim).
+  4. Citation Density - RELAXATION - reference list norm of 30-50 sources, narrower than
+     FIELD_SKILL's typical 40-80 for empirical papers (consistent with lower ABS tier / shorter format).
+
+Abstract rules (Hard Constraint): no replication of body text, no unsupported new claims,
+avoid in-text citations, no tables/figures in abstract.
+
+FIELD_SKILL overrides: none that contradict FIELD_SKILL outright — all deltas are additions
+(JEL codes, explicit Aim/Methods statement rule) or RELAXATIONS (shorter reference list),
+consistent with ABS 1 tier rules (may relax, cannot redefine baseline).
+
+Access-limitation notes:
+- businessperspectives.org returned HTTP 403 Forbidden on every direct WebFetch attempt,
+  including the journal landing page, "for authors and editors" guidelines page, and all
+  full-text article PDF templates tested.
+- All findings were reconstructed from Google-indexed WebSearch result snippets rather than
+  direct full-text reading. This lowers confidence on citation-style specifics and table/figure
+  conventions in the body of articles (not independently confirmed beyond the abstract-level rule).
+- Given ABS 1 tier and thin public access, a good-faith smaller sample (9 articles, mostly at
+  abstract/metadata level) was used per task instructions rather than pursuing full-text access
+  through paywalled or blocked channels.

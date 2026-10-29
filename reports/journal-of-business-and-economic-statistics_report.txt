@@ -1,0 +1,49 @@
+Journal: Journal of Business and Economic Statistics
+Slug: journal-of-business-and-economic-statistics
+ABS: 4
+Field: ECON
+Publisher: Taylor & Francis (American Statistical Association)
+
+Articles fetched: 3 direct sources with substantive content (1 full-text working-paper
+PDF via arXiv corresponding to a JBES-track paper by Clark, Huber & Koop; 2 abstract/
+metadata pages for Kolesar & Plagborg-Moller 2025 and Hauzenberger et al. 2025), plus a
+broader title/abstract survey of roughly 10 additional articles across JBES issues
+(2011-2025) via IDEAS/RePEc archive listing and Taylor & Francis search snippets. Did
+not reach 15 distinct full articles due to 403 paywall blocks on tandfonline.com direct
+fetches; relied on WebSearch-indexed snippets and one full working-paper PDF as the
+primary textual evidence, consistent with the assignment's fallback guidance.
+
+Early stop triggered: No formal early stop; access chain was exhausted for full text
+(tandfonline.com returned 403 on all direct WebFetch attempts) but abstract/title-level
+evidence across many issues was sufficient to confirm convergence with FIELD_SKILL norms
+and identify the guideline-level deltas below.
+
+Deltas found: 4 total
+ 1. Length/page limits (HARD CONSTRAINT — ENFORCED): 15-30 pages typical, 40-page cap,
+    12pt Times/Helvetica/Courier, double-spaced.
+ 2. Citation format (HARD CONSTRAINT — ENFORCED): APA 7th edition required, not generic
+    author-year; DOI inclusion expected where available.
+ 3. Double-blind submission mechanics (HARD CONSTRAINT — ENFORCED): separate cover page
+    with author info AND a required 50-word biographical sketch per author — stricter/
+    more specific than typical ABS 4 econ journal double-blind practice.
+ 4. Comment/Rejoinder discussion-paper format (GUIDELINE ONLY / structural pattern):
+    recurring category of lead-article-plus-response papers, confirmed present across
+    multiple volumes via RePEc/T&F search, but applies only to editor-selected lead
+    articles.
+ Additional low-confidence/practice-only note: heavier emphasis on Monte Carlo
+ simulation sections and extensive technical/online appendices for MCMC/prior details,
+ consistent with the journal's Bayesian-econometrics-heavy article mix, but treated as
+ PRACTICE ONLY given ABS 4 (not 4*) status and single-paper confirmation.
+
+FIELD_SKILL overrides: page/length limits, citation style (APA 7th vs. generic
+author-year), and double-blind submission mechanics (biographical sketch requirement).
+
+Access-limitation notes: tandfonline.com/journals/ubes20 (both the "about this journal"
+page and the Instructions for Authors page) returned HTTP 403 on direct WebFetch,
+consistent with publisher bot-blocking. All guideline details were instead recovered
+from WebSearch's indexed snippets of those same pages, which appear reliable and
+internally consistent across multiple independent queries (length limits, APA 7th,
+double-blind, bio sketch all corroborated by more than one search). Full-text access to
+recent JBES articles was limited to one arXiv working-paper version; the remainder of
+the spot-check relied on abstracts, titles, and metadata only, per the assignment's
+fallback instructions.

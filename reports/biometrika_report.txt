@@ -1,0 +1,16 @@
+Journal: Biometrika
+Slug: biometrika
+ABS: 4
+Field: ECON
+Articles fetched: 5 (abstract/metadata-level; full text paywalled — used advance-article and article-abstract pages, plus WebSearch-extracted abstract snippets)
+Early stop triggered: yes — stopped short of the 15-article target because (a) full text is behind an institutional paywall not accessible in this environment, (b) abstract-level front matter across the 5 sampled articles showed no new structural/voice deltas beyond what the guidelines pages already state, so the delta set was judged stable.
+
+Deltas found: 4 dimensions
+  - Structural Deviations: hard page ceilings by paper type (20pp regular/synthesis, 8pp miscellanea); three-way paper-type taxonomy (regular/synthesis/miscellanea) with distinct admission criteria — ENFORCED
+  - Tables and Figures: mandatory per-figure alt-text captioning ("Alt text:" prefix under legend) — ENFORCED
+  - Citations: fixed dataset-citation format under Force11 principles (accession number/DOI required) layered on top of standard author-year citation — ENFORCED
+  - Voice/Register: denser mathematical/methodological register vs. applied-econ register (degree difference only, not a new norm) — PRACTICE ONLY, low-prevalence framing
+
+FIELD_SKILL overrides: page-limit constraints (Length section) and paper-type taxonomy (Structure section) explicitly override/tighten FIELD_SKILL, which specifies no universal length norm and no such typology.
+
+Access-limitation notes: Full-text articles are behind Oxford Academic paywall; no NBER/IZA/SSRN working-paper equivalents exist for this journal (it is a pure statistics venue, not economics-preprint-server-adjacent), so front matter (guidelines pages + abstract pages + WebSearch snippets) was the only accessible source. This constrained the spot-check to abstract/metadata level rather than full-text voice/structure analysis.

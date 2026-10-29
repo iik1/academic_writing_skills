@@ -1,0 +1,21 @@
+Journal: Journal of Industrial and Business Economics
+Slug: journal-of-industrial-and-business-economics
+ABS: 1
+Field: ECON
+
+Articles fetched: 9 (title/author/metadata level via RePEc/IDEAS listing; 1 with a confirmed abstract snippet). No full text accessed due to Springer paywall and no institutional proxy in this environment.
+
+Early stop triggered: No — good-faith sampling was exhausted given access constraints; documented per ABS 1 allowance for smaller sample with thin access chain.
+
+Deltas found: 1 substantive delta (PRACTICE ONLY / editorial framing), plus 1 confirmed hard constraint from Springer's generic template.
+  - Editorial identity: journal explicitly self-describes as "non-conformist," preferring papers on major real-world/policy problems over "elegant formalism and self-referentiality"; welcomes interdisciplinary contributions. This is a framing/motivation signal, not a structural or citation rule.
+  - Abstract: Springer standard template requires unstructured abstract, 150-250 words, no undefined abbreviations or unspecified references. Treated as HARD_CONSTRAINT.
+  All other dimensions (voice, structure, citation density, hedging, methods conventions) found no delta from FIELD_SKILL at the level observable from titles/abstracts; recorded as FIELD DEFAULT.
+
+FIELD_SKILL overrides: none beyond the abstract length/format constraint noted above (which supplements rather than contradicts FIELD_SKILL, since FIELD_SKILL is explicitly silent on abstract word limits).
+
+Access limitation notes:
+- link.springer.com/journal/40812/submission-guidelines and the journal home page both redirected to an authentication wall (idp.springer.com) on direct WebFetch attempts. Guideline content (abstract word limit) was triangulated via WebSearch snippet extraction rather than fetched directly from the primary source.
+- Full text of all sampled articles was inaccessible (Springer paywall). Spot-check relied on RePEc/IDEAS article listings (titles, authors, issue/volume) and one search-engine-surfaced abstract snippet (2025 stablecoin volatility paper) confirming "We find (i)...(ii)...(iii)" phrasing consistent with FIELD_SKILL.
+- A PMC-hosted editorial/history essay (PMC9734346) provided useful scope and editorial-identity context (non-conformist positioning, 1973 origins as Bollettino di Economia e Politica Industriale, 2015 internationalization) that was incorporated into the Journal Profile section.
+- Given these constraints, the skill is intentionally short and conservative: most dimensions are marked FIELD DEFAULT rather than asserting unconfirmed deltas.

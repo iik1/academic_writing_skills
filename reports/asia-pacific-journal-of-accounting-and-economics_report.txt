@@ -1,0 +1,22 @@
+Journal: Asia-Pacific Journal of Accounting and Economics
+Slug: asia-pacific-journal-of-accounting-and-economics
+ABS: 2
+Field: ACCOUNT
+
+Articles fetched: 0 full-text/abstract pages (all tandfonline.com pages returned HTTP 403). 9 article titles/topics recovered via RePEc listing and search-engine snippets.
+
+Early stop triggered: No (ran full access chain: T&F guidelines page, T&F about page, individual T&F article abs/full-text pages, NTU host page, CityU host page, CityU call-for-papers PDF (404), Hawaii HARC special-issue PDF (corrupted/unreadable), RePEc series and article pages, multiple WebSearch queries). Stopped due to genuine access exhaustion, not early abandonment.
+
+Deltas found: 0. Access chain was too thin to confirm or deny any journal-specific deviation from FIELD_SKILL (account-field-writing-style). All Hard Constraints sections marked "Not independently verifiable."
+
+FIELD_SKILL overrides: none confirmed.
+
+Access-limitation notes:
+- tandfonline.com/journals/raae20 (Instructions for Authors) and /about-this-journal both returned HTTP 403 on every WebFetch attempt.
+- Individual article abstract/full-text pages on tandfonline.com also returned HTTP 403 (tested dois 10.1080/16081625.2023.2194895 and 10.1080/16081625.2025.2612091).
+- NTU (apjae.ntu.edu.tw) and CityU (cb.cityu.edu.hk) host-institution pages were fetched successfully but only contain journal scope/editorial/metrics info; both explicitly defer to the blocked T&F page for actual manuscript specifications.
+- CityU call-for-papers PDF returned 404.
+- A University of Hawaii HARC special-issue submission-guidelines PDF was found and fetched but returned corrupted/unreadable binary content.
+- RePEc/IDEAS series page (ideas.repec.org/s/taf/raaexx.html) was fetched successfully and yielded a list of ~9 recent article titles (Vol 32-33, 2025-2026) but individual RePEc article pages (with abstracts/JEL codes) returned 404.
+- Confirmed only: submission via ScholarOne Manuscripts, double-anonymized peer review, and (for special issues) a separate submission fee.
+- Given the thin access chain, the skill file honestly documents "not independently verifiable" throughout the Hard Constraints and Observed Deltas sections rather than fabricating content, per instructions for niche/low-tier journals with limited public information.

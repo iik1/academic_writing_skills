@@ -1,0 +1,17 @@
+Journal: Vezetestudomany Budapest Management Review
+Slug: vezetlstudom-ny-budapest-management-review
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 8 distinct articles (front-matter/abstract level), plus 2 issue tables of contents and 2 guideline/scope pages
+Early stop triggered: No
+
+Deltas found: 4
+  - Bilingual publication / Hungarian-only full text for English-abstracted articles (Structural Deviations, ENFORCED/journal-specific)
+  - Prescriptive 5-part abstract content checklist within a 150-word (not 150-250) single-paragraph abstract (Other Journal-Specific Patterns, RELAXATION/specification)
+  - No footnotes permitted, endnotes only (Other Journal-Specific Patterns, ENFORCED)
+  - Shorter word budget (6,000-9,000 words incl. references/tables/figures) vs FIELD_SKILL's 10,000-18,000+ norm (Other Journal-Specific Patterns, RELAXATION)
+
+FIELD_SKILL overrides: Abstract word cap (150 vs 150-250 in FIELD_SKILL); word/page length ceiling substantially lower than field baseline.
+
+Access-limitation notes: Full text was inaccessible for most spot-checked articles because most PDFs are Hungarian-language only, even where the abstract/metadata is in English. Assessment of voice, statistical reporting, and citation density therefore relies on abstract/keyword-level front matter rather than full text, per the good-faith allowance for an ABS 1 journal. No contradictory evidence found for these dimensions, so they are recorded as FIELD DEFAULT with a caveat rather than asserted deltas.

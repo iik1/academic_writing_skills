@@ -1,0 +1,80 @@
+DELTA DETECTION REPORT
+======================
+
+Journal: Journal of Enterprising Communities: People and Places in the Global Economy
+Slug: journal-of-enterprising-communities
+ABS Rating: 1
+Field: ENT-SBM (Entrepreneurship & Small Business Management)
+Publisher: Emerald Group Publishing Limited
+
+ARTICLES FETCHED
+================
+Total articles examined: 2
+1. Empirical research article (SMMR methodology, 55 pages, institutional theory, QCA + process-tracing)
+2. Book review (3 pages)
+
+Early stop triggered: NO
+Rationale: ABS 1 journal with limited public documentation and small sample. However, both articles follow clear FIELD_SKILL patterns. With only 2 accessible articles out of many published, expanding the sample would require institutional access or contact with authors. Proceeded with good-faith assessment.
+
+DELTAS FOUND
+============
+Count: 1 major delta (methodological emphasis), with no substantive writing-style deviations
+
+Delta dimensions:
+1. Methodological Sophistication / Causal Mechanism Focus
+   - Classification: PRACTICE ONLY (observed but not stated in public guidelines)
+   - Description: Journal shows pronounced emphasis on causal mechanisms via set-theoretic and process-tracing methods (SMMR). This goes beyond typical entrepreneurship field regression/SEM approaches.
+   - Confidence: PLAUSIBLE (limited sample; consistent across 1 empirical article)
+   - Impact on writing: Requires explicit causal mechanism identification and mechanistic argumentation. Not a style delta per se, but methodological rigor requirement.
+
+FIELD_SKILL OVERRIDES
+====================
+None identified. Journal closely adheres to entrepreneurship-field-writing-style baseline across all examined dimensions:
+- Voice and person (first-person plural)
+- Citation density and style
+- Hedging and epistemic caution
+- Argumentation (CARS pattern)
+- Sentence and paragraph structure
+- Discussion and implications structure
+
+ACCESS LIMITATIONS
+==================
+- Author guidelines at Emerald (http://www.emeraldgrouppublishing.com/products/journals/author_guidelines.htm?id=jec) returned 403 Forbidden.
+- ScienceDirect author guidelines also paywalled.
+- Only public journal homepage and two accessible articles used for analysis.
+- Word/page limits, detailed formatting rules, and nuanced editorial preferences not verified.
+
+EARLY STOP RATIONALE
+====================
+No early stop triggered. Although access to articles is limited (only 2 out of many available), both show consistent adherence to FIELD_SKILL. An ABS 1 journal typically has lower-tier conventions, so fewer major deltas expected. Good-faith effort made with available resources.
+
+COMMON PITFALLS IDENTIFIED
+===========================
+1. Incomplete ethical disclosure (explicitly emphasized in public guidelines)
+2. Underdeveloped causal mechanism explanation (observed in empirical articles)
+3. Weak practical implications section (expected in entrepreneurship journals)
+
+SKILL FILE GENERATED
+====================
+Path: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/entrepreneurship/journal-of-enterprising-communities_SKILL.md
+
+File includes:
+- Journal profile and metadata
+- Hard constraints (author guidelines: structure, length, abstract, citations, headings, tables/figures, prohibitions)
+- Observed deltas from FIELD_SKILL
+- Dimensions with no delta
+- Common pitfalls
+- Sources and limitations
+
+ASSESSMENT CONFIDENCE
+====================
+Overall confidence: LOW-MEDIUM
+Reasoning: Only 2 articles examined; author guidelines inaccessible. Journal clearly adheres to field baseline, limiting detectable deltas. Skill file appropriately documents limitations and is honest about access constraints rather than speculating.
+
+NEXT STEPS (IF NEEDED)
+======================
+To increase confidence:
+- Obtain institutional access to full author guidelines
+- Examine 8-10 additional articles from past 2 years
+- Contact journal editors for clarification on editorial preferences
+- Cross-check against recent desk rejections/acceptance patterns (if available internally)

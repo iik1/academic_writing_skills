@@ -1,0 +1,63 @@
+SKILL GENERATION REPORT
+=======================
+
+Journal: Journal of Public Economic Theory
+Slug: journal-of-public-economic-theory-writing-style
+ABS Rating: 2
+Field: ECON
+Publisher: Wiley-Blackwell
+
+ARTICLES FETCHED: 10 distinct articles
+- Solving the n-Player Tullock Contest (Ewerhart, 2026, Vol. 28, full-text)
+- Efficiency and equity: A general equilibrium analysis of rent-seeking (Heijdra & Heijnen, 2024, Vol. 26, full-text)
+- Politics and income taxes: Progress and progressivity (Berliant & Boyer, 2024, Vol. 26, abstract + working paper)
+- Optimal Dynamic Income Taxation Under Quasi-Hyperbolic Discounting (Chen & Guo, 2026, Vol. 28, citation)
+- Tax Buyouts in Oligopoly (Stamatopoulos, 2026, Vol. 28, citation)
+- Interacting Cascades: An Experiment on Between-Group Information Spillovers (Fisher & Wooders, 2026, Vol. 28, citation)
+- Optimal Funded Pension for Consumers With Heterogeneous Self-Control (Kumashiro, 2026, Vol. 28, citation)
+- Alliances and Technological Partnerships in Contests (Dollinger, 2026, Vol. 28, citation)
+- On the (robust) ex post stability of constitutions (Jeong & Kim, 2024, Vol. 26, citation)
+- Market Microstructure and Informational Complexity (Guthmann & Albrecht, 2026, Vol. 28, citation)
+
+EARLY STOP TRIGGERED: No
+(Sufficient sample obtained; public guidelines accessible; 10 articles sampled, multiple years covered)
+
+DELTAS FOUND: 3
+
+1. Citation System Flexibility (GUIDELINE ONLY)
+   - JPET permits "any style or format" for references; FIELD_SKILL specifies author-year as near-universal
+   - Classification: RELAXATION (lower-tier permissiveness)
+
+2. Theoretical Diversity in Publication Formats (ENFORCED)
+   - JPET explicitly accepts short notes, exposita, comments, survey papers, and retrospectives
+   - Guidelines state no upper/lower bound on technique complexity
+   - FIELD_SKILL baseline (ABS 4*/4) does not reflect this diversity
+   - Classification: ENFORCED (stated in guidelines, observed in sample)
+
+3. Abstract Word Limit (HARD CONSTRAINT)
+   - 250-word maximum specified; FIELD_SKILL does not address abstract length
+   - Classification: ENFORCED
+
+FIELD_SKILL OVERRIDES: None
+(No conflicts detected. The baseline and journal-specific skill are compatible.
+The journal represents a relaxation of certain top-tier norms but does not
+contradict FIELD_SKILL's core conventions on voice, structure, or argumentation.)
+
+ACCESS LIMITATION NOTES:
+- Wiley's author guidelines page (forauthors.html) returned HTTP 402 Payment Required
+- Full-text access for published articles behind paywall
+- Compensated via RePEc/IDEAS (open-access index), working paper versions (EconStor, SSRN),
+  and Wiley-published DOI records with abstracts/citations
+- Sufficient public information obtained for hard constraints (abstract limit, citation flexibility,
+  explicit guidelines on ethics/conflicts/preprints)
+- Spot-check based on 10 articles across 2024-2026 (full-text PDF for 1 article, abstracts and
+  citation records for 9 others)
+
+NOTES ON ABS 2 TIER:
+JPET's ABS 2 rating (mid-tier) explains some deltas: the journal permits citation format flexibility
+and diverse publication formats (notes, surveys, comments) not seen in ABS 4*/4 journals. However,
+the journal maintains strong theoretical rigor and does not relax voice, structure, or argumentation
+norms from FIELD_SKILL. Submissions should still follow ECON field conventions for clarity, first-person
+plural, active voice, and transparent identification strategy; JPET simply permits broader methodological
+and publication-format choices.
+

@@ -1,0 +1,16 @@
+Journal: New Zealand Economic Papers
+Slug: new-zealand-economic-papers
+ABS: 1
+Field: ECON
+Articles fetched: 6 abstract-level fetches (RePEc/IDEAS) + 1 full article-index page listing ~140 titles/authors across v51i2 (2017) - v60i1 (2026)
+Early stop triggered: No (WebSearch was intermittently unavailable but recovered; guidelines page access was blocked by 403/404, not an early-stop decision)
+Deltas found: 2 dimensions
+  - Structural Deviations (RELAXATION): journal publishes many short non-standard formats (comment/reply exchanges, distinguished-fellow citations/lectures, book reviews, special-issue single-page introductions) that don't follow the IMRAD-style architecture; full papers still follow FIELD_SKILL structure.
+  - Other Journal-Specific Patterns (PRACTICE ONLY): strong thematic concentration on New Zealand/Pacific institutional and policy topics; comment-and-reply methodology exchanges more frequent than at ABS 4/4* venues.
+FIELD_SKILL overrides: none confirmed (author guidelines page inaccessible - HTTP 403/404 on tandfonline.com direct fetch)
+Access limitation notes:
+  - Direct fetch of tandfonline.com/journals/rnzp20 and /about-this-journal returned 403/404; could not retrieve manuscript structure, word limits, abstract format, citation style, heading conventions, table/figure rules, or explicit prohibitions from primary source.
+  - WebSearch tool was intermittently "unavailable" during this session; usable results were eventually obtained for general journal facts (article types, review tracks) via search snippet synthesis, not primary guideline text.
+  - Full text of sampled articles was not accessible (paywalled); relied on RePEc/IDEAS abstract pages, which provided real abstract text and JEL codes for several articles, and a full title/author index for structural/topical pattern-spotting.
+  - No direct access to submission portal (mc.manuscriptcentral.com/rnzp) guidelines text.
+  - Given thin public information for this ABS 1 journal, the skill is intentionally short and marks most Hard Constraints sections as "Not independently confirmed" rather than fabricating values.

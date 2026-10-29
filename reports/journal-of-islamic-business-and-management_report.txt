@@ -1,0 +1,24 @@
+Journal: Journal of Islamic Business & Management (JIBM)
+Slug: journal-of-islamic-business-and-management
+ABS: 1
+Field: ETHICS-CSR-MAN
+Articles fetched: 5 full-text articles read in full (via direct PDF download from journals.riphah.edu.pk), plus 2 guideline pages fetched (journals.riphah.edu.pk/index.php/jibm/information/authors, jibm.org/guidelines/). Additional WebSearch queries used to locate archive/issue listings and direct PDF links.
+
+Early stop triggered: No. Full good-faith research completed; access chain was strong (open-access PDFs on publisher's own OJS platform), so no early stop was needed despite ABS 1 tier.
+
+Deltas found: 6 dimensions with deltas
+1. Abstract format — ENFORCED. Structured Emerald-style abstract (Purpose/Design/Findings/Implications/Originality/Significance) required, max 250 words. Departs from FIELD_SKILL's unstructured-abstract MGMT default.
+2. KAUJIE Classification — ENFORCED. Journal-specific classification code (Islamic economics indexing scheme) required alongside JEL codes on every article. Not present in FIELD_SKILL.
+3. ALL CAPS section headings — ENFORCED. Cosmetic departure from FIELD_SKILL's title-case convention.
+4. Article-type label under title — ENFORCED. Papers self-identify as PRIMARY RESEARCH, CRITICAL REVIEW, QUALITATIVE RESEARCH, etc. immediately below the title.
+5. Word count 5000-8000 — GUIDELINE ONLY / RELAXATION. Stated but loosely enforced; one sampled paper substantially exceeds 8000 words.
+6. Arabic/Islamic terminology and Qur'an/hadith citation conventions — journal-specific genre convention (sūrah:āyah format for Qur'an, full source citation for hadith, italicized transliterated terms throughout body text). Not covered by FIELD_SKILL at all since it is econ/management-general.
+
+Minor/low-prevalence observations (PRACTICE ONLY, not stated as journal norms):
+- Hypothesis labels sometimes "Ha1, Ha2" instead of "H1, H2" in one paper.
+- Separate "Limitations" and "Future Research Direction" subsections in systematic-review-type article.
+- The one critical-review/qualitative article was markedly more essayistic than FIELD_SKILL's qualitative-inductive template.
+
+FIELD_SKILL overrides: Abstract format (structured vs. unstructured), heading case (ALL CAPS vs. title case), and addition of KAUJIE classification are the three clearest hard overrides.
+
+Access-limitation notes: None significant. Despite being an ABS 1 / niche journal, the publisher (Riphah Centre of Islamic Business) hosts full-text PDFs openly on its OJS platform (journals.riphah.edu.pk), and Google-indexed direct PDF download links were found via WebSearch, allowing full-text reads of 5 articles spanning 2019-2025 rather than the abstract-only sampling anticipated for a lower-tier journal. No 403/paywall issues encountered for the sampled articles. One attempt to fetch the DOAJ table-of-contents page returned a 403 but this was not needed given the direct PDF access already achieved.

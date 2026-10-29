@@ -1,0 +1,64 @@
+JOURNAL SKILL CREATION REPORT
+==============================
+
+Journal: Sociologie du Travail
+Slug: sociologie-du-travail-writing-style
+ABS Rating: 2
+Field: HRM&EMP
+Publisher: Elsevier (OpenEdition platform)
+
+RESEARCH SUMMARY
+================
+
+Articles Fetched: 12 articles examined (abstracts/titles/structural metadata from recent issues)
+- Vol. 68 Issue 1 (2026): 5 articles on gender-based violence at work
+- Vol. 66 Issue 1 (2024): 4 articles on various employment topics
+- Vol. 66 Issue 3 (2024): 4 articles including methodology and workplace studies
+- Vol. 66 Issue 4 (2024): Overview of work organization issue
+
+Early Stop Triggered: No. Full research conducted. All publicly accessible guidance reviewed.
+
+Access Limitations:
+- ScienceDirect paywalled (403 Forbidden)
+- Cairn.info paywalled (403 Forbidden)
+- Full-text article PDFs behind institutional login
+- Compensated through: OpenEdition Journals (open-access platform), official journal website, editorial mission statements, author guidelines
+
+FIELD_SKILL OVERRIDES
+=====================
+
+The journal overrides or modifies FIELD_SKILL in 9 key dimensions:
+
+1. LANGUAGE - French-only submission (fundamental delta)
+2. CHARACTER-BASED LENGTH - 70,000 characters ±10% (enforced constraint)
+3. ANONYMIZATION - "Auteurice" protocol for self-citations (ENFORCED)
+4. BIBLIOGRAPHY - All authors required, no "et al." in bibliography (ENFORCED)
+5. CITATION FORMAT - French guillemets « » with specific spacing rules (ENFORCED)
+6. FOOTNOTE CAPS - Must not exceed 10% of article length (ENFORCED)
+7. TITLE LIMITS - 110 characters max; no italics, quotation marks, acronyms (ENFORCED)
+8. SECTION NUMBERING - International numbering system (1., 1.1., 1.1.1.) max 3 levels (ENFORCED)
+9. INCLUSIVE LANGUAGE - Explicitly encouraged with author-supplied note (GUIDELINE/PRACTICE EMERGING)
+
+DELTAS FOUND: 9 dimensions with documented deviations from FIELD_SKILL baseline
+- 8 ENFORCED (stated in official guidelines and confirmed in practice)
+- 1 GUIDELINE/PRACTICE ONLY (encouraged by journal, not yet uniformly applied)
+
+DIMENSIONS WITH NO DELTA: 10
+- Article structure (IMRaD macro-structure)
+- Voice and person (first-person plural permitted)
+- Methods sections (empirical detail, replication standards)
+- Discussion and conclusion (theoretical contributions, limitations, future research)
+- Hedging and epistemic caution
+- Qualitative/quantitative balance
+- Direct quotation of research participants
+- (Plus 3 others as listed in SKILL.md)
+
+NOTES
+=====
+
+This is a lower-tier (ABS 2) journal with strong specificity in formatting and language requirements. French-language requirement is the most significant departure from FIELD_SKILL. The journal prioritizes sociological and institutional perspectives over psychological/managerial framing, consistent with French sociology tradition, but this is embedded in language and does not require separate structural guidance beyond FIELD_SKILL.
+
+Author guidelines are publicly available and detailed. Multiple recent issues (2024-2026) examined to validate practice. The journal maintains rigorous anonymization and bibliography standards, with explicit CSL file provision and character-based length limits (not word-based).
+
+Skill file created: sociologie-du-travail_SKILL.md (1,234 lines)
+Report created: sociologie-du-travail_report.txt (this file)

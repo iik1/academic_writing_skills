@@ -1,0 +1,23 @@
+Journal: Journal of Global Responsibility
+Slug: journal-of-global-responsibility
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 9 (abstract/title-snippet level via WebSearch; direct Emerald page fetches were blocked by CAPTCHA/403 throughout)
+Early stop triggered: No (this is the good-faith maximum achievable given the access chain; documented as thin-access per assignment instructions for ABS 1 journals)
+
+Deltas found: 1 dimension with a real delta
+  - Length: Emerald's generic 7,000-word cap (incl. abstract/tables/references/appendices) is substantially shorter than FIELD_SKILL's typical 10,000-18,000 word range for management empirical/qualitative papers. Classified as RELAXATION appropriate to ABS 1 tier and Emerald house format.
+  - Abstract structure: Emerald's four mandatory structured-abstract fields (Purpose, Design/methodology/approach, Findings, Originality/value) plus three optional fields, ≤250 words, is more rigid/labeled than FIELD_SKILL's generic abstract guidance. Classified as ENFORCED (Emerald house style, confirmed present in sampled abstracts).
+  - All other dimensions (voice, citation style, argumentation, methods reporting, discussion structure): FIELD DEFAULT / no delta observed.
+
+FIELD_SKILL overrides:
+  - Word limit override (7,000 words vs. FIELD_SKILL's 10,000-18,000)
+  - Structured abstract format override (Emerald 4-field structured abstract vs. FIELD_SKILL's generic 150-250 word abstract)
+
+Access-limitation notes:
+  - emerald.com blocked all direct WebFetch attempts with CAPTCHA validation pages throughout the session; no full-text articles or the raw author guidelines page were directly retrievable.
+  - All journal-specific evidence was obtained via WebSearch result snippets, which surface Google/Bing-indexed abstract text and cached guideline excerpts.
+  - Sample of 9 articles spans 2022-2025, drawn from titles/purpose-statements visible in search snippets only; full methods/results/discussion sections were not inspected.
+  - One editorial ("What should a publication in Journal of Global Responsibility achieve?") was identified but only its search-snippet summary was accessible, not full text.
+  - Given the ABS 1 tier and thin public access, this is treated as a good-faith effort per assignment instructions rather than grounds for further retries.

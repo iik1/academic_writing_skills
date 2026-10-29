@@ -1,0 +1,21 @@
+Journal: Research in International Business and Finance
+Slug: research-in-international-business-and-finance
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 6 read in detail (abstract-level, via search-engine snippets); 10 additional titles surveyed from Vol 89 (2026) TOC on IDEAS/RePEc. No full-text access achieved (ScienceDirect returned 403 on all direct fetch attempts, including the guide-for-authors page itself).
+
+Early stop triggered: No — full good-faith effort completed per ABS 2 thin-sample allowance, documented access limitations rather than stopping early.
+
+Deltas found: 3 dimensions
+  1. Highlights requirement (3-5 bullets, <=85 chars each, separate file) — not covered in FIELD_SKILL, ENFORCED per guidelines.
+  2. Generative AI use disclosure requirement at submission — not covered in FIELD_SKILL, ENFORCED per guidelines.
+  3. Flexible "any consistent citation style" policy pre-acceptance (house style applied at proof stage only) — GUIDELINE ONLY delta from FIELD_SKILL's implied strict author-year-at-draft assumption; in practice converges to same author-year format.
+  Topic/scope pattern noted (single-country and small-multi-country applied studies using ARDL/GMM/DiD/GARCH toolkits) — PRACTICE ONLY, contextual, not a writing-style rule.
+
+FIELD_SKILL overrides: none identified beyond the above additive constraints. No structural, voice, hedging, or reporting deltas found in the sample — all core writing-style dimensions follow FIELD_SKILL norm (RELAXATION not observed either; ABS 2 sample matched ABS 4*/4 baseline conventions in what was visible).
+
+Access-limitation notes:
+- ScienceDirect (journal home, guide-for-authors, volume/issue listing pages) returned HTTP 403 on all direct WebFetch attempts. All guideline and article content was obtained via WebSearch-returned cached snippets and secondary aggregators (IDEAS/RePEc for titles, search-engine abstract extracts for content).
+- Full text of any article was not accessible; all article-level observations are abstract-only.
+- Given ABS 2 tier and thin access chain, a smaller good-faith sample (6 detailed + 10 titles) was used per task instructions, and this is documented in the skill file itself.

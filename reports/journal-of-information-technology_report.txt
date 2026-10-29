@@ -1,0 +1,45 @@
+Journal: Journal of Information Technology
+Slug: journal-of-information-technology
+ABS: 4
+Field: INFO MAN
+
+Articles fetched: 15 (titles/authors/abstracts) across Vol. 39 Iss. 1, 3, 4
+and Vol. 40 Iss. 2 (2024-2025), via the open AIS eLibrary (aisel.aisnet.org)
+mirror of JIT content plus WebSearch-surfaced abstract snippets. journals.sagepub.com
+article and guideline pages are JavaScript-rendered and returned only
+navigation/footer content to WebFetch, so no full-text SAGE pages were read
+directly; all content came from WebSearch snippets and the AISeL mirror.
+
+Early stop triggered: No. Sampling continued until deltas stabilized
+(structural/topical patterns repeated across issues with no new categories
+emerging after ~10 articles).
+
+Deltas found (2 dimensions):
+- Structural Deviations: journal formalizes non-standard invited article
+  types (Debates and Perspectives w/ peer commentary, State of the Art,
+  Scholarly Review) as regular content, confirmed via a Vol. 40 Iss. 2
+  editorial/perspective piece departing from standard IMRaD; special issues
+  consistently open with a framing editorial (PRACTICE ONLY / GUIDELINE
+  ONLY, confirmed).
+- Other Journal-Specific Patterns: heavy recurring topical focus on digital
+  transformation and platforms (PRACTICE ONLY, scope pattern not a style
+  delta).
+
+FIELD_SKILL overrides: none (no journal norm contradicts or tightens the
+field baseline on voice, hedging, methods, results reporting, or citation
+density).
+
+Hard constraints extracted from guidelines: 6,000-9,000 word target for
+initial submissions; 250-word unstructured abstract; separate 80-word
+contribution statement required at submission; SAGE Harvard reference style
+(author-date, up to 3 authors then et al.); no preprint-posted submissions
+accepted.
+
+Access-limitation notes: journals.sagepub.com pages (both the guidelines
+page and individual article pages) render via JavaScript and were not
+directly readable by WebFetch — all guideline detail was reconstructed from
+WebSearch result snippets, which appear reliable and consistent across
+multiple independent queries. Article full text was not accessible (paywalled);
+spot-check relied on abstracts/titles/author lists from the AIS eLibrary
+open mirror, sufficient to assess structure and topical patterns per the
+assignment's stated fallback method.

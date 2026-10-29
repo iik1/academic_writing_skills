@@ -1,0 +1,49 @@
+Journal: Asia Pacific Journal of Management
+Slug: asia-pacific-journal-of-management
+ABS: 3
+Field: IB&AREA
+
+Articles fetched: 9 (title/abstract-level via WebSearch snippets and publisher landing pages)
+Early stop triggered: No (access-chain exhausted before reaching 15; full text not
+  available without institutional login, so relied on abstract/title-level
+  spot-checks per task allowance)
+
+Deltas found: 2 dimensions
+  1. Voice and Register - RELAXATION/ENFORCED: journal's own author checklist
+     states style "should be impersonal and academic," contrasting with
+     FIELD_SKILL's expectation that first-person plural ("we argue/we find")
+     is standard. Spot-checked abstracts consistently use third-person,
+     impersonal phrasing. Treated as an ABS-3 relaxation of field default,
+     not a new field norm.
+  2. Other Journal-Specific Patterns - PRACTICE ONLY: recurring
+     question/provocative-title framing device observed in several sampled
+     titles (e.g., "With higher leverage comes greater responsibility?").
+     Not stated in guidelines; low-confidence, practice-level only.
+
+All other dimensions (structure, sentence/paragraph style, argumentation,
+methods, results reporting, discussion/conclusion, hedging, citation
+density, statistical reporting) followed FIELD_SKILL norm with no deltas.
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Word limit: 10,000 words including footnotes, references, tables, figures.
+  - Citation style: name-and-date (author-date) required; footnote-style
+    numbered citations explicitly flagged as a common rejection-prone error.
+  - Formatting: 12-pt font (e.g. Times Roman), not bold except headers and
+    references section; modeled on Academy of Management Journal format.
+  - Tables/figures placed at end of manuscript, not embedded in text.
+  - No numbered paragraphs; no extra inter-paragraph spacing except at
+    primary headers.
+  - Explicit prohibition against manuscripts reading like business-magazine
+    articles, consultants' reports, or textbook chapters; explicit warning
+    against submitting in another journal's house style.
+
+Access-limitation notes:
+  - Springer Nature Link submission-guidelines page and the journal's own
+    "checklist for prospective authors" editorial (Peng, 2011) both
+    redirected to a Springer login wall (idp.springer.com) in this
+    environment; content was recovered via WebSearch result snippets that
+    quoted the guideline text directly, not via direct WebFetch of the
+    full page.
+  - No full-text articles were accessible; all 9 spot-checked articles were
+    assessed at abstract/title level only, per task allowance for paywalled
+    journals.

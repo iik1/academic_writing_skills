@@ -1,0 +1,34 @@
+Journal: Organization Management Journal
+Slug: organization-management-journal
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched (full text): 0
+Early stop triggered: yes — Emerald's site (emerald.com and emeraldgrouppublishing.com) blocked every direct fetch
+attempt with a CAPTCHA "unusual traffic" interstitial, including the author guidelines page, journal landing page,
+individual article pages, and a direct PDF link. Taylor & Francis legacy "about this journal" page returned HTTP 403.
+DOAJ toc page and SciSpace journal listing page both returned empty content on fetch. All information was
+triangulated from WebSearch result snippets (titles, quoted abstract fragments, journal metadata) rather than
+directly rendered pages. This falls well short of the 10-15 article spot-check target; documented explicitly in the
+skill file rather than fabricating findings.
+
+Deltas found: 2
+  1. Structural Deviations — OMJ publishes across four distinct sections (Current Empirical Research, Emerging
+     Conceptual Scholarship, Teaching & Learning, Essays), not present in FIELD_SKILL's article-type taxonomy.
+     GUIDELINE ONLY / STRUCTURAL (low confidence — could not verify against full text).
+  2. Length — 4,000-5,000 words total (incl. references/appendices) plus 280 words per figure/table, a major
+     RELAXATION from FIELD_SKILL's top-tier length norms. ENFORCED (stated in guidelines, found via WebSearch
+     snippet of the Emerald guidelines page).
+
+FIELD_SKILL overrides: Length only (see above). Structure delta is additive (new section taxonomy) rather than a
+contradiction of FIELD_SKILL's existing four article-type templates.
+
+Access-limitation notes:
+- Emerald (emerald.com, emeraldgrouppublishing.com) returned CAPTCHA walls on all pages attempted, including
+  guidelines, journal home, and every article/PDF URL tried.
+- Taylor & Francis legacy journal page (tandfonline.com) returned HTTP 403.
+- DOAJ and SciSpace journal-listing pages returned empty content when fetched.
+- No full-text articles were read in this session; all findings derive from WebSearch snippets and third-party
+  metadata (DOAJ indexing confirmation, ResearchGate/SciSpace titles). Voice, register, statistical reporting,
+  citation density, and hedging dimensions were left unverified (assumed FIELD_SKILL default) rather than asserted,
+  per the assignment's instruction not to fabricate findings.

@@ -1,0 +1,19 @@
+Journal: Advances in Accounting
+Slug: advances-in-accounting
+ABS: 2
+Field: ACCOUNT
+
+Articles fetched: 3 articles with detailed abstract-level content (via search-indexed snippets); ~100 article titles scanned across Volumes 56-70 (2022-2026) via RePEc/IDEAS archive for topical-scope confirmation. Full text was not accessible anywhere in the chain (ScienceDirect returned 403 on direct fetch for both the guide-for-authors page and article abstract pages; SSRN PDF also returned 403).
+
+Early stop triggered: No. Completed good-faith research within the constraints of a paywalled, thin-access journal.
+
+Deltas found: 1 minor practice-only delta (topical breadth wider than ABS 4 baseline journals — journal welcomes a broad range of accounting subfields side by side rather than a specialized focus). No structural, voice, hedging, citation, or statistical-reporting deltas found; all core FIELD_SKILL dimensions converge (FIELD DEFAULT).
+
+FIELD_SKILL overrides: none identified (no guideline conflicts found).
+
+Access-limitation notes:
+- ScienceDirect guide-for-authors page and article abstract pages returned HTTP 403 on direct WebFetch; all guideline and abstract content was reconstructed from WebSearch-indexed snippets.
+- SSRN working-paper PDF (Bierstaker et al.) also returned 403.
+- No full-text article was accessible; all article-level evidence is abstract/title-level only.
+- Could not confirm specific word/page limits, structured-abstract requirements, or JEL code conventions from primary source (guide-for-authors page inaccessible); relied on general Elsevier "Your Paper Your Way" conventions as inferred default.
+- Confirmed via search: double-anonymized review, $75 submission fee, editorial caveat about "too narrow" scope/quality risking non-review — these are ENFORCED hard constraints from the guidelines page.

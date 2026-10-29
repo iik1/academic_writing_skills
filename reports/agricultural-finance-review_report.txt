@@ -1,0 +1,21 @@
+Journal: Agricultural Finance Review
+Slug: agricultural-finance-review
+ABS: 1
+Field: FINANCE
+
+Articles fetched: 5 with full structured-abstract detail via WebFetch (Analyzing the agricultural value chain financing 76:2; Bank performance and general specialization vs agricultural loan specialization 85:1; Valuing trust: an application to agricultural lending 85:4-5; plus 2 attempted fetches that failed - author guidelines page 403, and one article CAPTCHA-blocked). Approximately 5 additional articles' abstracts sampled via WebSearch result snippets only (Droughts and components of net farm income; Innovations in the agricultural insurance market; Financial inclusion and agricultural commercialization in Ghana; Financial engineering for the farm problem; Evaluating grain producers' production financing alternatives). Total good-faith sample: ~10 distinct articles, consistent with the lower-tier (ABS 1) reduced-sample allowance.
+
+Early stop triggered: No — full good-faith sample attempted; access chain (Emerald paywall/CAPTCHA on full text) was the limiting factor, not an early-stop decision.
+
+Deltas found: 2 substantive
+  1. Abstract format (HARD CONSTRAINT / ENFORCED) — Emerald mandatory structured abstract (Purpose / Design-methodology-approach / Findings / Research limitations-implications / Practical implications / Originality-value + Paper type classification), replacing FIELD_SKILL's single-paragraph abstract description. Confirmed on all sampled articles.
+  2. Practitioner-implications framing (PRACTICE ONLY / low-prevalence, RELAXATION) — several abstracts translate findings directly into loan-officer/practitioner recommendations, consistent with journal's applied agricultural-finance scope and ABS 1 tier, but not verified as a main-text norm since full text was inaccessible.
+
+All other dimensions (voice, hedging, citation format, statistical reporting, argumentation structure): no delta found; labeled FIELD DEFAULT or "Follows FIELD_SKILL norm."
+
+FIELD_SKILL overrides: Abstract section only (structured abstract format).
+
+Access-limitation notes:
+- Direct WebFetch to emeraldgrouppublishing.com/products/journals/author_guidelines.htm?id=afr returned HTTP 403; guideline content on word limits, headings, table/figure rules, and citation style could not be independently confirmed and are marked "Not confirmed from an accessible source" in the skill rather than fabricated.
+- Full text of all sampled articles was paywalled or CAPTCHA-gated (emerald.com/insight CAPTCHA wall encountered on one article); all judgments are based on structured abstracts, keywords, and paper-type metadata only, not full-text prose.
+- Editors confirmed via journal landing page: Valentina Hartarska and Denis Nadolnyak. Journal impact factor 1.9, acceptance rate 12.3% (2025 metrics).

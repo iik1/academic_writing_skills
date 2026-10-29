@@ -1,0 +1,21 @@
+Journal: IMF Economic Review
+Slug: imf-economic-review
+ABS: 3
+Field: ECON
+Publisher: Springer Nature (Palgrave Macmillan imprint) / International Monetary Fund
+
+Articles fetched: 17 (titles/abstracts/JEL codes; no full text — see access notes)
+Early stop triggered: No (deltas were sparse from the outset; sampling continued across Vol. 72(2024)-74(2026) issues to confirm stability, then stopped once no new deltas emerged)
+
+Deltas found: 3 dimensions
+  1. Structural Deviations (PRACTICE ONLY) - recurring "Forum"/symposium short introduction articles (1-3 pages) preceding thematic paper clusters.
+  2. Other Journal-Specific Patterns (PRACTICE ONLY) - many published papers are near-identical NBER/CEPR/central-bank working paper versions; journal functions as a policy-facing venue for macro/international finance research.
+  3. Hard constraints layer (ENFORCED, from guidelines): italicized abstract preceding JEL codes; Chicago Manual of Style citation format; mandatory 80-word author biography per author; opening footnote with author titles/institutions; mandatory replication package (data+code) for empirical/simulation/experimental papers as a publication precondition.
+
+FIELD_SKILL overrides: None that contradict FIELD_SKILL substantively — all observed articles conform to ECON field baseline for voice, structure, hedging, citation density, and methods conventions. The "hard constraints" above are additive formatting/submission-mechanics requirements, not stylistic redefinitions.
+
+Access-limitation notes:
+- Springer's journal submission-guidelines page and all individual article pages (link.springer.com) returned 303 redirects to an authentication gate (idp.springer.com) for automated WebFetch — no full text was read directly from Springer.
+- Guidelines content was recovered via WebSearch's cached summary of the submission-guidelines page.
+- Article abstracts, JEL codes, and keywords were recovered via: (a) the open-access RePEc/IDEAS mirror (ideas.repec.org/s/pal/imfecr.html and per-article IDEAS pages), which gave a full table of contents across Vol. 72 Issue 2 (2024) through Vol. 74 Issue 1 (2026); (b) WebSearch snippets pulling abstracts from NBER/CEPR/central-bank working paper versions of several sampled articles (Obstfeld, Ramey, Graf von Luckner et al., Druedahl et al., Donato & Tille).
+- No article was read in full text; all judgments about structure/voice/hedging are based on abstracts, JEL classification, and table-of-contents patterns, which was sufficient to confirm convergence with FIELD_SKILL and to identify the two structural/practice-level deltas noted above.

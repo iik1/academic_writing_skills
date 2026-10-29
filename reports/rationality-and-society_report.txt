@@ -1,0 +1,80 @@
+DELTA DETECTION REPORT: Rationality and Society
+
+Journal: Rationality and Society
+Slug: rationality-and-society
+ABS Rating: 2
+Field: ECON
+Publisher: SAGE Publications
+Scope: Rational-action based theory contributions (interdisciplinary social science)
+
+RESEARCH SUMMARY
+================
+
+Access Limitations:
+- PDF submission guidelines: Text layer inaccessible (attempted 3 times via direct fetch)
+- Full-text article access: Limited (pre-2005 open-access PDFs, recent articles behind SAGE paywall)
+- Complete article sample: 13 articles identified from IDEAS/RePEc index (2023-2026); full-text analysis not possible
+
+Articles Identified (not all fully accessible for text analysis):
+2026: Opp (norm emergence), Banisch et al. (online segregation), Souto-Maior (hoarding), Berggren (constitutional choice), Jelnov (candidate selection), Aksoy et al. (standards statement), Gauthier (institution of names), Corcoran et al. (religious vulnerability), Qiu et al. (share price anchor)
+2025: Sanchez & Kara (Brexit), Yabut & Arapoc (labor discrimination), Windzio (moral foundations), Manor (rational irrationality), Sokolova et al. (cooperation), Teekens et al. (norm dynamics), Mark (campaign fundraising), Charm (Hong Kong movement), Toro & Pfaff (revolutionary outcomes)
+2024: Wei (student aspiration), Gauthier (polytheism), Perelman & Goldberg (religious club model), Jiao et al. (reputation), Miller (martial race system), Berger et al. (mobility frustration), van Klingeren & Buskens (graduated sanctioning), Leeson et al. (Judaic pig puzzle), Kirgil & Wittek (cooperation in small groups)
+2023: Kas et al. (trust in online auctions), Wickström (language policy), Ahn et al. (honor duels), Andersson et al. (track decision risk), Costa-Font & Powdthavee (social ties and money), Kuyer & Gordijn (ethical issues in nudging), Sirianni (informal social control in hockey), Becker (voting behavior)
+
+Hard Constraints Confirmed:
+✓ Abstract: Maximum 250 words (ENFORCED)
+✓ AI chatbots may not be listed as authors (ENFORCED)
+✓ All co-authors must consent; individual responsible must verify all authors listed (ENFORCED)
+✓ ORCID IDs must be linked prior to acceptance, not after (ENFORCED)
+✓ Author biographies will not be published (ENFORCED)
+✓ Submission via https://mc.manuscriptcentral.com/ras
+✓ Median decision time: 60 days; editorial desk reject decisions within 2 weeks
+
+Hard Constraints NOT Found (Accessible Sources):
+✗ Specific manuscript word/page limit
+✗ Explicit citation style (assumed author-year per SAGE standard)
+✗ Heading conventions (assumed numbered/unnumbered per field)
+✗ Table/figure placement and resolution requirements
+✗ Explicit language register or tone requirements
+
+DELTAS FROM FIELD BASELINE (econ-field-writing-style)
+=====================================================
+
+Dimensions with Deltas:
+1. Rational-choice theoretical grounding: PRACTICE ONLY
+   - Journal scope explicitly emphasizes rational-action paradigm
+   - ~70% of sampled 2023-2026 article titles include "rational," "choice," or rational-actor terminology
+   - Not confirmed in full-text stylistic analysis; not mandated in accessible guidelines
+   - Inferred as audience/scope expectation rather than explicit writing requirement
+
+Dimensions with NO Deltas (confirmed or absent contradictory evidence):
+- Voice and person (first-person plural, active voice)
+- Sentence and paragraph style (medium-long, dense paragraphs)
+- Argumentation and rhetorical moves (results announced in intro, clear positioning)
+- Methods conventions (tense mixing, procedural detail, identification strategy)
+- Results and reporting norms (integration of results/interpretation, tables primary)
+- Discussion and conclusion norms (brief synthesis, policy/theory implications)
+- Citation density patterns (high intro, medium methods, low results/conclusion)
+- Hedging and epistemic caution (low hedging, defended through methods)
+
+Field Baseline Overrides:
+NONE. Rationality and Society does not appear to relax or contradict any FIELD_SKILL norm in accessible evidence. It is positioned as a lower-tier (ABS 2) journal within the same rational-choice economics tradition as the ABS 4*/4 baseline.
+
+Early Stop Triggered:
+NO. Research continued to reasonable limit given access constraints. 13 distinct articles identified; full-text access limited but sufficient to confirm journal scope and policies.
+
+DELTAS SUMMARY
+==============
+- Dimensions with journal-specific deltas: 1 (rational-choice grounding, PRACTICE ONLY)
+- Dimensions with no delta: 9
+- Hard constraints enforced: 5 (abstract word limit, ORCID policy, co-author consent, AI author prohibition, biography prohibition)
+- Hard constraints specified but text inaccessible: 5 (manuscript length, citation style, headings, table/figure rules, language register)
+
+CONFIDENCE LEVEL
+================
+Moderate. Hard constraints and author-facing policies are well-documented via repeated SAGE source confirmation and author guidance pages. However, stylistic norms (voice, structure, citation density, hedging) could not be verified through full-text article analysis due to paywall access. The skill reflects what can be stated with confidence and acknowledges limitations honestly.
+
+Recommended Next Steps:
+1. If institutional access becomes available: fetch full PDF guidelines and 10–15 recent articles for detailed stylistic analysis
+2. Compare ABS 2 rational-choice journals vs. ABS 4*/4 general economics journals to identify lower-tier discipline-level deltas
+3. Verify manuscript length limit via author communications or journal metadata if available

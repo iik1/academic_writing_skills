@@ -1,0 +1,20 @@
+Journal: Journal of Economics and Finance
+Slug: journal-of-economics-and-finance
+ABS: 1
+Field: FINANCE
+
+Articles fetched: 10 (abstract + JEL + keywords level; full text not accessible — Springer article/guidelines pages redirect to an authentication gate in this environment). Article list of 56 recent titles (2024-2026) obtained via RePEc/IDEAS index for sampling; 10 selected for abstract-level review across a spread of topics/issues (sports betting, crypto spillovers, AI/labor, agricultural finance, market microstructure, trade policy uncertainty, ESG/SEO).
+
+Early stop triggered: No — completed a good-faith 10-article sample appropriate for an ABS 1 journal per instructions, plus guidelines review.
+
+Deltas found: 2 dimensions
+1. Structural Deviations — RELAXATION: 30-double-spaced-page all-inclusive length cap (tables/figures/references counted), notably shorter than ABS 4*/4 norm; implies narrower single-question/single-dataset papers with lighter robustness/mechanism apparatus than FIELD_SKILL describes as standard at the top tier.
+2. Other Journal-Specific Patterns — PRACTICE ONLY: broad general-interest topical mix within economics/finance in the same issues (not a style change, but relevant framing context).
+
+All other dimensions: FIELD DEFAULT (no delta) — voice/person, sentence style, argumentation moves, methods conventions, citation format/density, hedging, abstract format (unstructured, JEL/keywords as separate metadata fields).
+
+FIELD_SKILL overrides: 30-page (double-spaced, all-inclusive) length cap — hard constraint from guidelines, no equivalent in FIELD_SKILL.
+
+Access-limitation notes:
+- Springer's link.springer.com pages (both submission-guidelines and individual article pages) return a 303 redirect to an idp.springer.com authentication gate when fetched directly in this environment; guideline content was instead obtained via WebSearch's cached/snippet extraction of the same page.
+- Article full text was not accessible anywhere in the access chain (no OA copies found via SSRN/ResearchGate for this ABS 1 journal); abstract + JEL + keyword level detail via RePEc/IDEAS mirror pages was used for all 10 spot-checked articles, which is sufficient to assess abstract format, JEL/keyword conventions, and topical scope but not full-text structural conventions (heading depth, robustness section placement, appendix use) — these are marked "cannot verify" rather than asserted.

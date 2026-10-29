@@ -1,0 +1,27 @@
+Journal: Journal of Alternative Investments
+Slug: journal-of-alternative-investments
+ABS: 2
+Field: FINANCE
+
+Articles fetched: 6 (abstract/metadata-level only; full text paywalled behind pm-research.com institutional login)
+Early stop triggered: No — good-faith spot-check completed at 6 articles for an ABS 2 journal per instructions; additional WebSearch attempts to find further full-text or abstract-level articles (2023-2024 vintage) returned only DOI listings without accessible abstract text, so sampling was capped rather than expanded artificially.
+
+Deltas found: 3 dimensions
+  1. Voice and Register — ENFORCED RELAXATION. Guidelines explicitly require plain English for a practitioner (not academic) audience; academic-register manuscripts are desk-rejected at preliminary review.
+  2. Structural Deviations — ENFORCED. Introduction must double as a "functional abstract" plus roadmap; 12-word title cap; three-part front matter (title/contact page, then abstract/keywords/JEL page, then main text) is more prescriptive than FIELD_SKILL's default.
+  3. Other Journal-Specific Patterns — ENFORCED (mandatory three "key takeaways" submission element) / GUIDELINE ONLY for older sampled articles where this could not be directly confirmed due to abstract-only access.
+
+FIELD_SKILL overrides (Hard Constraints from guidelines, listed in skill file):
+  - Structure (3-page front matter, exhibits inline, key takeaways)
+  - Length (~4,000 words target, 2,500-7,500 range)
+  - Abstract (160-word target, non-technical, no references)
+  - Citations (Chicago Manual of Style 17th ed., author-date, explicitly named — not just generic author-year)
+  - Headings (3 levels with specific typographic rules)
+  - Tables/Figures (all labeled "Exhibit," submitted as native Word objects not images/Excel)
+  - Explicit prohibitions (strict SSRN/ResearchGate/conference/course-pack ban post-acceptance; AI use restricted to readability/language only)
+
+Access-limitation notes:
+  - Full text of all sampled articles is paywalled at pm-research.com (redirects to SAML/SSO login); no institutional EZProxy access available in this environment.
+  - Legacy guidelines mirror (hwmaint.jai.pm-research.com/misc/ifora.dtl) is an empty unpopulated stub; the live jai.pm-research.com/authors page was the actual source and was unusually comprehensive (rare for an ABS 2 journal), covering nearly all HARD_CONSTRAINTS categories in detail.
+  - Article sample relies entirely on abstract-level content surfaced via WebSearch (publisher metadata pages, ResearchGate, Aalto/institutional repositories, ProQuest) since jai.pm-research.com and pm-research.com article pages both redirect to authentication.
+  - No direct confirmation of "three key takeaways" appearing in-article for the sampled (older, 2003-2022) articles; guidelines language strongly suggests this is enforced at least for recent submissions, but could not verify against older archive pieces.

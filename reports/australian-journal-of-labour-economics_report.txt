@@ -1,0 +1,30 @@
+Journal: Australian Journal of Labour Economics
+Slug: australian-journal-of-labour-economics
+ABS: 1
+Field: HRM&EMP
+Publisher: Bankwest Curtin Economics Centre (stated)
+
+Articles fetched: 0 (access chain completely exhausted without locating published articles or publicly accessible author guidelines)
+
+Early stop triggered: Yes — after comprehensive search attempts including:
+  - Direct journal website search via Bankwest Curtin Economics Centre domain
+  - Google Scholar searches
+  - EconPapers/RePEc repository searches
+  - ScienceDirect and other publisher searches
+  - Curtin University website searches
+No publicly accessible author guidelines or published articles were found.
+
+Deltas found: 0 (unable to verify journal existence or access guidelines)
+
+Dimensions with deltas: None identified
+
+FIELD_SKILL overrides: Not applicable (could not access journal guidelines or articles to identify overrides)
+
+Access-limitation notes:
+- Journal website at Bankwest Curtin Economics Centre could not be reached or does not list publicly accessible guidelines
+- No articles found indexed on EconPapers/RePEc, Google Scholar, or ScienceDirect
+- No full-text or abstract articles accessible for spot-checking
+- Journal either does not have significant online presence, is newly launched without published issues, or may not be actively publishing
+- Recommendation: Verify journal is active and obtain guidelines directly from publisher before attempting to conform to journal-specific style
+
+OUTCOME: Could not complete full analysis due to inaccessibility of journal information. Recommend FIELD_SKILL as baseline unless author guidelines become available.

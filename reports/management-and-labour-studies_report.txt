@@ -1,0 +1,59 @@
+DELTA DETECTION REPORT
+Management and Labour Studies (ABS 1, HRM&EMP)
+
+Journal Name: Management and Labour Studies
+Slug: management-and-labour-studies
+ABS Rating: 1
+Field: HRM&EMP
+Publisher: SAGE Publications, India (XLRI Jamshedpur)
+Guidelines URL: https://journals.sagepub.com/author-instructions/mls
+
+ARTICLE SPOT-CHECK SUMMARY
+Articles Fetched: 5 titles identified from IDEAS/RePEc listing
+Methodology: Desk-review of guidelines page + IDEAS/RePEc article listing; full-text access limited by SAGE paywall
+Access Chain Exhausted: Yes. SAGE article pages do not render content via WebFetch; full-text PDFs require institutional subscription or purchase. Guidelines page and article titles/metadata accessible via public web.
+
+DELTAS FOUND: 5 dimensions with journal-specific deviations
+
+1. WORD LIMIT ENFORCEMENT (8,000 words max)
+   Status: ENFORCED
+   Delta: Field baseline does not specify word limits; this journal enforces strict 8,000-word ceiling (lower than typical ABS 4*/4 journals)
+   Implication: Literature review, results, and discussion must be concise; affects scope of contribution claims
+
+2. CITATION STYLE EXPLICITNESS (APA author-date mandatory)
+   Status: ENFORCED
+   Delta: Field baseline notes "no consensus norm" on citation style; this journal is explicit and non-negotiable
+   Implication: All in-text citations and references must follow APA format precisely
+
+3. ARTICLE TYPES AND PRACTITIONER ORIENTATION
+   Status: ENFORCED
+   Delta: Journal explicitly accepts and equally values practitioner perspective articles; field baseline assumes hierarchy of empirical/conceptual work
+   Implication: Applied and practitioner-oriented papers are valued alongside academic research
+
+4. STATEMENTS AND DECLARATIONS SECTION
+   Status: ENFORCED
+   Delta: Field baseline mentions ethics statements as back matter; this journal requires dedicated Statements and Declarations section with mandatory subsection headings
+   Implication: Requires explicit planning during manuscript preparation; all subsections must be present even if marked "Not applicable"
+
+5. BRITISH ENGLISH REQUIREMENT
+   Status: ENFORCED
+   Delta: Field baseline does not specify spelling conventions; this journal mandates British English throughout
+   Implication: Must verify spelling ('programme', 'labour', 'centre', etc.) carefully
+
+FIELD_SKILL OVERRIDES
+All field-skill baseline conventions on voice, structure, methods, results reporting, discussion norms, and hedging apply as-is. This journal adds hard constraints rather than overriding field norms.
+
+EARLY STOP TRIGGERED
+No. Sufficient public information available to document deltas. Full-text article access limited by paywall is expected for ABS 1 journal; guidelines and article metadata sufficient for skill creation.
+
+ACCESS LIMITATIONS
+- SAGE Journals article pages do not render full content via WebFetch (HTTP 403/template page)
+- Full-text PDFs behind institutional subscription or purchase
+- Article abstracts/metadata accessible via IDEAS/RePEc and SAGE journal homepage
+- Author guidelines fully accessible and comprehensive
+
+QUALITY NOTE
+This is an ABS 1 (lower-tier) journal with more limited public footprint than top-tier outlets. Good-faith effort made to access articles and verify deltas; guidelines-based verification sufficient for skill accuracy. No fabricated findings.
+
+CREATION DATE: 2026-07-02
+SKILL FILE SAVED: C:/Users/s14454/OneDrive - Norwegian School of Economics/Research/Writing Skills/skills/hrm/management-and-labour-studies_SKILL.md

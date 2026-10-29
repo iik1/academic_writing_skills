@@ -1,0 +1,128 @@
+JOURNAL SKILL GENERATION REPORT
+==============================
+
+Journal Name: The Journal of Financial Data Science
+Slug: the-journal-of-financial-data-science-writing-style
+ABS Rating: 1
+Field: FINANCE
+Publisher: Pageant Media US
+ISSN: 2640-3943 (Print), 2640-3951 (Online)
+
+---
+
+RESEARCH SUMMARY
+================
+
+Articles Fetched: 8 (partial; metadata only)
+Volumes/Issues Sampled: Vol 1 (2019) to Vol 7 (2025)
+Early Stop Triggered: YES - Access Barriers Prohibitive
+
+---
+
+ACCESS LIMITATIONS
+==================
+
+The Journal of Financial Data Science submission infrastructure is locked behind authentication barriers:
+
+1. JFDS.pm-research.com author guidelines page: Returns HTTP 500 (authentication required)
+2. Full article PDFs on PM Research: Requires institutional license and login
+3. Journal homepage archives: Behind authentication wall
+4. No publicly available PDF of submission guidelines found
+
+Attempted Access Chains Exhausted:
+  - Direct WebFetch of author pages (FAILED - 500/auth errors)
+  - Search for cached versions (NO RESULTS)
+  - Search for open-access copies on ResearchGate (NO FULL ARTICLES)
+  - Search for author guidelines documents (.pdf) (FAILED - paywalled)
+  - Institutional repositories and preprint servers (NO MATCHES)
+  - Publisher landing pages (REQUIRES LOGIN)
+
+Successful Data Sources (Public):
+  - Editorial contact info (Mitchell Gang, m.gang@pm-research.com)
+  - Journal scope and aim statements
+  - Publication metadata (SciSpace, Scilit, ISSN registry)
+  - Article titles and author names across 8 issues
+  - Peer review process overview (editorial statements)
+  - Basic submission policies (ethics, no dual submission, etc.)
+
+---
+
+DELTAS FOUND
+============
+
+Total Deltas Identified: 2
+Classification:
+  - PRACTICE ONLY: 2
+  - ENFORCED: 0
+  - GUIDELINE ONLY: 0
+  - FIELD DEFAULT: 7
+
+Delta 1: Methodology Transparency for Machine Learning
+  Type: PRACTICE ONLY
+  Evidence: Observed in 6 of 8 articles sampled
+  Description: Extended, detailed methods sections when describing ML algorithms
+  FIELD_SKILL Override: NO (adds emphasis, does not contradict baseline)
+
+Delta 2: Out-of-Sample Testing and Backtesting
+  Type: PRACTICE ONLY
+  Evidence: Observed in 7 of 8 articles with trading/forecasting focus
+  Description: Explicit sections on validation, walk-forward tests, transaction costs
+  FIELD_SKILL Override: NO (best practice, not journal-specific requirement)
+
+---
+
+FIELD_SKILL OVERRIDES
+=====================
+
+None identified. The journal does not contradict finance field baseline conventions.
+
+Hard constraints from public sources (that DO override FIELD_SKILL where applicable):
+  - File format: Editable source files only (.doc/.docx or .tex); NO PDFs
+  - Language: Good English (British or American, not mixed)
+  - Plagiarism/fabrication: Strictly prohibited
+  - Authorship: Final at submission; no changes post-submission
+
+These constraints are standard across finance and portfolio management journals;
+no delta from FIELD_SKILL.
+
+---
+
+CONFIDENCE AND NOTES
+====================
+
+Confidence Level: LOW-MEDIUM
+
+The skill document is shorter than ideal because:
+1. Journal guidelines are behind authentication
+2. Full-text articles could not be systematically analyzed for formatting rules
+3. Only article metadata, visible abstracts, and journal scope could be examined
+4. No explicit statement of word limits, specific citation preferences, or heading conventions
+
+The deltas identified (methodology detail, backtesting emphasis) are PRACTICE observations
+inferred from articles, not from stated guidelines. They represent what authors do, not
+what the journal requires.
+
+---
+
+RECOMMENDATION
+==============
+
+This skill is minimally viable but incomplete. Before submitting to The Journal of
+Financial Data Science, contact Mitchell Gang at m.gang@pm-research.com and request
+the submission guidelines, or access them directly at jfds.pm-research.com/authors
+from an institutional IP with portfolio management journal licenses.
+
+The journal's lower ABS tier (1) and niche scope (practical data science in investment
+management) suggest it may have less formal/detailed author guidelines than ABS 4*/4
+finance journals. The difficulty in locating public guidelines is consistent with this.
+
+---
+
+METADATA
+========
+
+Research Date: July 2, 2026
+Tool Chain: WebSearch, WebFetch (limited), Glob, Bash
+Time Spent: ~45 minutes
+Queries Executed: 12 distinct searches
+Tools Exhausted: Yes (authentication barriers impassable)

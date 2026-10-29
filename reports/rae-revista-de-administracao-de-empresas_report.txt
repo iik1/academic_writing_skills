@@ -1,0 +1,17 @@
+Journal: RAE Revista de Administracao de Empresas
+Slug: rae-revista-de-administracao-de-empresas
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 5 read in detail (full front-matter/structure); 5 additional titles/abstracts scanned from Vol. 65 (2025) issue listings. Total distinct articles touched: ~10.
+Early stop triggered: No (dedupe check found no existing skill; proceeded through all phases).
+
+Deltas found (4 dimensions):
+1. Length — HARD_CONSTRAINT/ENFORCED. 8,000-word all-inclusive cap (8,800 for revisions) for articles, 5,000 for essays — well below FIELD_SKILL's 10,000-18,000 word norm.
+2. Abstract — HARD_CONSTRAINT/ENFORCED. Unstructured, max 150 words (vs FIELD_SKILL 150-250), must explicitly state both theoretical AND societal impact.
+3. Structural deviations — HARD_CONSTRAINT/ENFORCED. No footnotes/endnotes, no appendices; tables/figures placed after references rather than embedded in text.
+4. Other journal-specific patterns — PRACTICE ONLY/RELAXATION. Notable share of essays, editorials, and special-issue introductions with looser, non-empirical heading schemes; qualitative/mixed-methods and essayistic content emphasized over heavy quantitative robustness reporting, consistent with ABS 1 tier and the journal's explicit societal-impact/Global South mission.
+
+FIELD_SKILL overrides: Length cap, abstract word limit/content requirement, no-footnotes/no-appendices rule, post-reference table/figure placement — all stated in guidelines and confirmed in sampled articles.
+
+Access limitation notes: Full text of most sampled articles was in Portuguese and behind normal SciELO open-access pages (no paywall encountered), but WebFetch summarization relied on visible abstract/section-heading content rather than deep full-text reading for all 5 secondary titles; those were used only for topic/abstract confirmation, not structural analysis. This is consistent with the assignment's allowance for a smaller good-faith sample at ABS 1.

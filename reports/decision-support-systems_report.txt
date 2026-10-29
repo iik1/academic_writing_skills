@@ -1,0 +1,54 @@
+Journal: Decision Support Systems
+Slug: decision-support-systems
+ABS: 3
+Field: INFO MAN
+Publisher: Elsevier
+
+Articles fetched: 9 with abstract-level detail (search-engine snippets/SSRN
+listing) + 4 additional titles identified via DBLP tables of contents
+(Vols 187-199, 2024-2025) without recoverable abstracts. Full text was
+paywalled for all sampled articles; ScienceDirect returned HTTP 403 to
+all direct WebFetch attempts (guide-for-authors page and every individual
+article page). Abstract/front-matter content was recovered via
+search-engine-indexed snippets and one SSRN preprint listing (Akoka &
+Comyn-Wattiau).
+
+Early stop triggered: No — stopped at 9 detailed + 4 title-only after the
+delta set stabilised (no new deltas emerging) and after the ScienceDirect
+access chain (direct fetch, dl.acm.org mirror, HAL preprint, SSRN full-text)
+was exhausted for additional full abstracts.
+
+Deltas found: 0 stylistic/structural deltas from FIELD_SKILL. All content
+dimensions (voice, statistical reporting, citation density, structural
+patterns, hedging) classified FIELD DEFAULT / "Follows FIELD_SKILL norm."
+One PRACTICE ONLY observation: heavy concentration on computational/ML
+methods (deep RL, causal ML, Bayesian belief networks) as a topical/scope
+characteristic, not a writing-style deviation.
+
+FIELD_SKILL overrides (HARD_CONSTRAINTS from guidelines, not deltas per se):
+- Citation style: elsarticle-num (numbered Vancouver-style), not author-date
+  — FIELD_SKILL does not mandate a citation format, so this fills a gap
+  rather than overriding a stated field norm.
+- Abstract: unstructured, max 250 words, 1-7 keywords (standard Elsevier
+  elsarticle default).
+- Highlights (3-5 bullets, <=85 characters each) and graphical abstract
+  required as part of standard Elsevier submission package.
+
+Access-limitation notes:
+- ScienceDirect (sciencedirect.com) blocked all direct WebFetch attempts
+  with HTTP 403, including the guide-for-authors page and every individual
+  article abstract page (both /science/article/pii/ and /abs/pii/ forms).
+- dl.acm.org mirror pages (which sometimes host DSS abstracts) also
+  returned 403.
+- HAL open-access preprint (hal-05116173) was blocked by an Anubis
+  anti-bot page.
+- SSRN direct fetch (papers.ssrn.com) returned 403; recovered summary via
+  WebSearch snippet instead.
+- An older ICEB-hosted mirror of the guide for authors (likely tied to a
+  historical special issue) states a 100-word abstract cap; this conflicts
+  with the 250-word limit confirmed via search-indexed snippets of the
+  current ScienceDirect guide-for-authors page and was treated as
+  superseded/non-authoritative.
+- Given the consistent 403 blocking, all "article spot-check" evidence in
+  this run is abstract/snippet-level rather than full-text, per the task's
+  allowance for front-matter-only judgment when full text is paywalled.

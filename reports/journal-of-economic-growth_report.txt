@@ -1,0 +1,43 @@
+Journal: Journal of Economic Growth
+Slug: journal-of-economic-growth
+ABS: 3
+Field: ECON
+Publisher: Springer Nature
+
+Articles fetched: 7 (abstracts/titles via WebSearch snippets; full text paywalled)
+Early stop triggered: yes — delta set stabilized after 7 articles; all showed consistent
+deep-roots/historical growth framing and FIELD_SKILL-consistent voice/statistical reporting,
+so additional spot-checks were not expected to surface new deltas.
+
+Deltas found: 3
+  1. Structural Deviations (PRACTICE ONLY) — prominent historical/institutional setting
+     subsection preceding identification strategy, more emphasized than FIELD_SKILL's
+     optional Background section.
+  2. Other Journal-Specific Patterns (PRACTICE ONLY, scope note) — narrow topical focus
+     on deep-roots determinants of growth (institutions, culture, colonial legacies,
+     demographic transition, education take-off) rather than general growth topics.
+  3. Citations (RELAXATION/refinement, ENFORCED) — strict APA 7th edition formatting with
+     mandatory DOI links; author-year citation itself is FIELD DEFAULT, but APA compliance
+     and DOI-linking are journal-specific administrative requirements.
+
+FIELD_SKILL overrides (Hard Constraints from guidelines):
+  - Abstract: unstructured, 150-250 words (guidelines are explicit; FIELD_SKILL silent).
+  - Headings: decimal system, max 3 levels.
+  - Structure: title page + Declarations section (funding/competing interests/ethics)
+    required — not covered in FIELD_SKILL.
+  - Tables/figures: specific formatting (superscript footnote letters, bold "Fig.",
+    minimum line weight 0.1mm/0.3pt).
+  - Explicit prohibitions: simultaneous submission, data fabrication/falsification,
+    plagiarism, salami-slicing.
+
+Access-limitation notes:
+  - Springer submission-guidelines page required following a 303/302 redirect chain
+    through idp.springer.com before content was retrievable via WebFetch; succeeded
+    on the final redirected URL.
+  - Full-text articles were paywalled; all article-level evidence came from
+    WebSearch-surfaced abstract snippets (SSRN, Springer abstract pages, author sites)
+    rather than direct full-text WebFetch, consistent with instructions allowing
+    abstract/front-matter-level spot-checks.
+  - No RePEc/IDEAS full abstract page was reachable directly (redirected to a
+    directory listing rather than per-article abstracts), so IDEAS/RePEc was not
+    used as a primary abstract source.

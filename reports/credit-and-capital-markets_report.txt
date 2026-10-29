@@ -1,0 +1,17 @@
+Journal: Credit and Capital Markets
+Slug: credit-and-capital-markets
+ABS: 1
+Field: ECON
+Articles fetched: 6 (title/abstract/metadata level only; no full text accessible)
+Early stop triggered: No (exhausted good-faith access chain; journal is discontinued and has thin public info)
+Deltas found: 2 minor/PRACTICE-ONLY observations
+  - Structural Deviations: bilingual (German/English) submission venue — journal-identity note, not a style delta for English manuscripts
+  - Other Journal-Specific Patterns: narrower applied banking/monetary/credit scope than FIELD_SKILL's top-5 sample; no stylistic delta detected in available metadata
+FIELD_SKILL overrides: none identified (no conflicting hard constraints found)
+
+Access-limitation notes:
+- Official submission portal (credit-and-capital-markets.de/en/submission) states the journal is NOT currently accepting submissions, consistent with its announced discontinuation after Volume 57 (2024).
+- No downloadable author style sheet/template was locatable publicly.
+- elibrary.duncker-humblot.com article pages render as JS-driven catalog shells; WebFetch could not extract abstracts/full text from them.
+- Article spot-check relied on titles/abstracts surfaced via WebSearch/IDEAS-RePEc/EconBiz/author personal pages rather than direct full-text reads.
+- Given the low ABS tier, thin access, and journal discontinuation, the skill file is intentionally short and documents these limitations rather than fabricating detail.

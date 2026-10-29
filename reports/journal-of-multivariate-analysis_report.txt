@@ -1,0 +1,21 @@
+Journal: Journal of Multivariate Analysis
+Slug: journal-of-multivariate-analysis
+ABS: 3
+Field: ECON
+Publisher: Elsevier
+
+Articles fetched: 6 (2 full-text via WebFetch of publicly hosted PDFs/preprints: Abramovich & Pensky UCF-hosted proof, arXiv 2411.18334; 1 partially-accessible full-text via NSF PAR repository (vol. 193, 2023, 105114); 3 additional titles/abstracts via publisher recent-articles listing and search snippets)
+Early stop triggered: No (deltas stabilized after ~6 sources; direct ScienceDirect access blocked by 403, so guide-for-authors content was reconstructed via WebSearch snippet extraction and cross-checked across two queries)
+
+Deltas found: 4 dimensions
+  1. Structural Deviations (ENFORCED by convention) — JMVA uses a mathematical-statistics template (Introduction / Model-Method / Theoretical Analysis with Theorem-Proof-Remark environments / Examples [simulation + real-data] / Concluding Remarks), not FIELD_SKILL's empirical or theory-econ templates. No Identification Strategy or Institutional Setting sections; motivating hook is a methodological gap, not a policy question.
+  2. Statistical Reporting (PRACTICE ONLY) — Results reported as formal asymptotic statements and simulation performance metrics (MSE, misclassification error, test power/size), not economic-magnitude interpretation.
+  3. Citation Density (RELAXATION) — Lower citation density in Analysis/Examples sections than FIELD_SKILL; no gap-framing/positioning rhetoric typical of econ papers.
+  4. Other Journal-Specific Patterns (ENFORCED) — Proofs must appear in main text or appendix, never in an external online supplement (explicit guideline requirement).
+
+FIELD_SKILL overrides: Structure (replaces FIELD_SKILL's empirical/theory templates entirely); citation density (relaxed downward, permitted at ABS 3).
+
+Access-limitation notes:
+- Direct WebFetch to sciencedirect.com/journal/journal-of-multivariate-analysis/publish/guide-for-authors returned HTTP 403; guideline content (abstract 250-word limit, 1-7 keywords, flexible reference style, 15-25 page length, proof-placement rule, univariate-model exclusion) was reconstructed via WebSearch's snippet extraction across two separate queries and cross-confirmed.
+- Most recent (2025-2026) JMVA articles are paywalled on ScienceDirect; full-text spot-checks relied on author-hosted copies (UCF faculty page), NSF PAR-hosted repository copy, and an arXiv preprint explicitly targeting JMVA submission. Remaining titles/abstracts sourced from publisher's public recent-articles listing and search-engine snippets.
+- No article accessible in full for volumes closer to July 2026; most recent full-text sample dates to 2023-2025 preprint/repository copies. Structural pattern (Theorem-Proof-Examples-Concluding Remarks) was consistent across all accessible full texts, so convergence was judged reached.

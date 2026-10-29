@@ -1,0 +1,36 @@
+Journal: Asian Journal of Management Cases
+Slug: asian-journal-of-management-cases
+ABS: 1
+Field: ETHICS-CSR-MAN
+
+Articles fetched: 13 titles/abstracts sampled at front-matter level across Vol. 20 Iss.1-2 (2023),
+Vol. 21 Iss.1-2 (2024), Vol. 22 Iss.1-2 (2025), Vol. 23 Iss.1 (2026); full abstracts confirmed for
+3 articles ("IndiGo: Cruising in Market but Crashing Within"; "Burger King India IPO: Investment
+Dilemma"; "Paytm: Lack of a Cogent IPO Story?").
+
+Early stop triggered: No (dedupe check found no existing skill for this journal).
+
+Deltas found: 4 major dimensions
+- Structural Deviations (ENFORCED): journal publishes teaching CASES ONLY, not empirical/theoretical
+  research articles. No Theory/Methods/Results/Discussion sections; case narrative + separate
+  unpublished Teaching Note required for review.
+- Voice and Register (PRACTICE ONLY): third-person business narrative, not first-person-plural
+  academic argument.
+- Statistical Reporting (genre-driven, ENFORCED by scope): narrative business/financial facts,
+  not coefficients/hypothesis tests.
+- Other Journal-Specific Patterns (PRACTICE ONLY): standard case disclaimer footnote noting the
+  case is for classroom discussion only, based on published sources.
+
+FIELD_SKILL overrides: Entire macro-structure (Section 1 article-type templates), Argumentation
+(Section 4 hypotheses/propositions), Methods (Section 5), Results (Section 6) do not apply to this
+journal's genre — case studies replace all of these.
+
+Access-limitation notes: WebFetch on the SAGE author-instructions and journal homepage pages
+returned only navigation-shell content (no guideline text) when fetched directly — likely JS-rendered
+pages. Guideline content was instead recovered via WebSearch result snippets, which quoted the
+guidelines page directly (abstract length, TN requirements, British spelling, quote formatting,
+APA style, "does not publish pure/applied research" statement). Full-text case bodies are paywalled;
+relied on publicly visible abstracts and the case disclaimer footnote for style evidence, which is
+standard and sufficient practice for this journal type. EconPapers/RePEc provided a reliable article
+title list across 7 issues for scope confirmation, satisfying the "spot-check 10-15" target at the
+title/abstract level appropriate for a lower-tier journal with thin full-text public access.

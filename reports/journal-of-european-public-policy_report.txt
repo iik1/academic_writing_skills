@@ -1,0 +1,48 @@
+Journal: Journal of European Public Policy
+Slug: journal-of-european-public-policy
+ABS: 3
+Field: PUB SEC
+
+Articles fetched: 8 (abstract/front-matter level; all via WebSearch snippet extraction or secondary
+indexers, since tandfonline.com returned HTTP 403 for every direct WebFetch attempt on both the
+journal homepage and individual article pages)
+  1. Same pressures, different paths: ... IPCEIs in EU industrial policy (10.1080/13501763.2025.2597913)
+  2. Polarized public agenda in times of crisis (10.1080/13501763.2025.2552418)
+  3. Riders on the delegated act storm: ... EU Taxonomy (10.1080/13501763.2025.2548945)
+  4. Asymmetry resolved? Revisiting negative and positive European integration (10.1080/13501763.2025.2512897)
+  5. Spending conditionality in the EU and in the US (10.1080/13501763.2025.2596119)
+  6. Mobilizing Europe's citizens to take action on migration and climate change (10.1080/13501763.2025.2512032)
+  7. Governing rapid technological change: Policy Delphi on European AI governance (arXiv 2512.15196, JEPP-bound)
+  8. Cairney (2023) special-issue introduction, "The politics of policy analysis"
+
+Early stop triggered: No — access chain (tandfonline.com direct fetch, WebSearch snippets, ResearchGate/
+arXiv mirrors) was exhausted at 8 articles once delta patterns stabilised (all consistent with FIELD_SKILL
+at abstract level); continuing would likely have yielded diminishing returns given the 403 blocking on
+full-text access.
+
+Deltas found: 2 substantive dimensions
+  - Structural Deviations: journal-specific Research Agenda Section (up to 8,000 words, synthesis +
+    forward agenda genre) and Debate Section, not covered by FIELD_SKILL's standard empirical-article
+    structure.
+  - Other Journal-Specific Patterns / RELAXATION: firm 8,000-word ceiling on standard articles that
+    includes tables/figures in the word budget; explicit author guidance to plan visual elements against
+    this limit.
+  All other dimensions (voice/register, statistical reporting, citation density, hedging, argumentation,
+  discussion/conclusion norms, methods pluralism) = FIELD DEFAULT, no delta observed.
+
+FIELD_SKILL overrides: none required (JEPP's author-date citation convention, structured-abstract-style
+opening, and mixed-methods pluralism all match FIELD_SKILL defaults; only additive/relaxation-type
+deltas were found, no direct conflicts).
+
+Access-limitation notes:
+  - tandfonline.com (both journal homepage and all individual article DOI pages) returned HTTP 403 for
+    every WebFetch attempt — no full text or even structured abstract page could be fetched directly.
+  - files.taylorandfrancis.com/rjppstyle.pdf (the official style/final-manuscript guidelines PDF) also
+    returned 403 on direct fetch; guideline content (word limits, abstract limit, citation format) was
+    reconstructed from WebSearch result snippets that quote or paraphrase the PDF, and cross-checked
+    against jepp-online.com (the journal's official blog) and Paperpile's citation-style summary page.
+  - No RePEc/IDEAS indexing found for this journal (not listed under "rjpp" or similar series code),
+    so that mirror route was unavailable.
+  - All 8 spot-checked articles were assessed at abstract/front-matter level only; no full-text access
+    was achieved for any article, limiting ability to observe within-body structural or statistical
+    reporting deltas. This is disclosed in the SKILL.md Sources section and Journal Profile note.

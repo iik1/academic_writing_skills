@@ -1,0 +1,56 @@
+AUSTRALASIAN ACCOUNTING, BUSINESS AND FINANCE JOURNAL - SKILL GENERATION REPORT
+
+Journal Name: Australasian Accounting, Business and Finance Journal
+Slug: australasian-accounting-business-and-finance-journal-writing-style
+ABS Rating: 1
+Field: ACCOUNT (Accounting)
+Publisher: University of Wollongong, Australia
+
+ARTICLE SAMPLING
+================
+Articles Fetched: 7
+- Volume 18, Issue 3 (2024): 17 articles listed; 4 sampled (Panda et al., Vijaya et al., Dwibedi et al., and article listings)
+- Volume 20, Issue 1 (2026): 7 articles listed; 3 sampled (Roudaki & Pupovac, Suprayogi et al., Rohim et al.)
+
+Early Stop Triggered: NO
+Rationale: Sufficient convergence on journal norms after 7 distinct samples across 2 years (2024 and 2026).
+
+DELTAS FOUND: 6 major dimensions
+==================================
+1. Length Constraints: ENFORCED (3,500-8,000 words; max 25 pages) — substantial relaxation vs. ABS 4* baseline
+2. Manuscript Format: ENFORCED (Microsoft Word only; specific fonts, spacing)
+3. Heading Conventions: RELAXATION (non-numbered, left-justified main headings; no ALL CAPS requirement)
+4. Article Type Flexibility: RELAXATION (technical notes, case studies, book reviews with no standardized structure)
+5. Anonymity/Submission Mechanics: ENFORCED (author/affiliation not in manuscript; separate submission)
+6. Double-Blind Review Structure: ENFORCED (four reviewer suggestions required; double-blind protocol)
+
+FIELD_SKILL OVERRIDES: 4
+========================
+1. Length Limits: FIELD_SKILL does not specify word/page limits. AABFJ enforces 3,500-8,000 words, max 25 pages. This is a HARD CONSTRAINT that overrides any longer-paper expectations from ABS 4* field baseline.
+
+2. Heading Format: FIELD_SKILL notes that heading conventions vary (Roman vs. Arabic numerals, ALL CAPS vs. title case). AABFJ does not require numbering or ALL CAPS for main headings, using instead bold, left-justified, title-case format. This is more permissive.
+
+3. Article Type Structure: FIELD_SKILL assumes canonical research article structure (Introduction through Conclusion). AABFJ permits technical notes, case studies, and book reviews without enforcing FIELD_SKILL structure. Non-research articles should not follow the full structure.
+
+4. Submission Format/Anonymity: FIELD_SKILL does not address technical submission details. AABFJ requires Microsoft Word only, with author/affiliation information stripped from manuscript and provided separately in the submission system.
+
+ACCESSIBILITY & LIMITATIONS
+============================
+- Journal policies page fully accessible and detailed
+- Recent articles (2024-2026) accessible via journal homepage and open-access repository
+- PDF full-text files available but not fully parseable by WebFetch (binary rendering issues)
+- Abstracts, keywords, and metadata clearly visible on article landing pages
+- Sample size adequate for ABS 1 journal (lower tier); 7 articles with clear structural patterns
+
+NO ADDITIONAL SOURCES NEEDED
+============================
+The journal policies page and published article abstracts provide sufficient clarity on all submission requirements and conventions. No further archival searches or publisher contact was necessary.
+
+SKILL COMPLETENESS
+==================
+All major ENFORCED constraints captured in Hard Constraints section.
+All observed RELAXATIONS from FIELD_SKILL captured in Deltas section.
+Common pitfalls identified from policies and field baseline comparison.
+Four reviewer suggestions, simultaneous submission prohibition, and plagiarism policies documented.
+
+Generated: 2026-07-02

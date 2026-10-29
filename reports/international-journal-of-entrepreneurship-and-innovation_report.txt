@@ -1,0 +1,36 @@
+DELTA DETECTION REPORT
+International Journal of Entrepreneurship and Innovation
+
+Journal: International Journal of Entrepreneurship and Innovation
+Slug: international-journal-of-entrepreneurship-and-innovation-writing-style
+ABS 2024 Rating: 2
+Field: ENT-SBM
+Publisher: SAGE Publications
+Articles Fetched: 5 (Shahzad et al. 2026; Lau et al. 2025; Kromidha et al. 2025; special issue abstracts; editorial metadata)
+Early Stop Triggered: No
+Deltas Found: 3 major, 4 dimensions with no deviation
+
+DELTAS IDENTIFIED:
+1. Structural Flexibility (RELAXATION) - ABS 2 allows diverse article types (Fresh Perspectives, teaching cases) vs. FIELD_SKILL's near-universal hypothesis-deductive spine
+2. Abstract Format (ENFORCED DEVIATION) - Exactly 150-word unstructured abstract required; FIELD_SKILL specifies no abstract format
+3. Practical/Managerial Implications Subsection (LIKELY RELAXATION) - Not mandated in IJEI guidelines, unlike ABS 4* baseline requirement
+
+FIELD_SKILL OVERRIDES: 3 overrides identified
+- Structural requirements: IJEI is more flexible (ABS 2 status)
+- Abstract format: IJEI enforces 150-word unstructured format
+- Practical Implications: Not mandated as universal subsection at IJEI (ABS 2)
+
+ACCESS LIMITATIONS:
+SAGE paywall prevented full-text retrieval of most articles. Analysis relied on: (a) publicly visible author guidelines from SAGE; (b) article abstracts and metadata from SAGE platform, ResearchGate, and R Discovery; (c) open-access article by Shahzad et al. 2026. All findings derived from accessible sources; no content fabricated. Spot-check of 5 articles conducted via abstracts, article titles, and metadata where full text unavailable.
+
+AUTHOR GUIDELINES COMPLETENESS:
+SAGE provides clear constraints on word limit (6,000–8,000 words, 40-page max), abstract format (150-word unstructured), and citation style (SAGE Harvard). Notably, no prescribed section structure is given in public guidelines, distinguishing IJEI from ABS 4 journals which often specify rigid sections (Introduction, Methods, Results, Discussion, etc.).
+
+CONSENSUS:
+Field baseline (entrepreneurship-field-writing-style) represents ABS 4*/4 journals. IJEI, as an ABS 2 journal, shows deliberate relaxations in structural requirements while maintaining rigor in citation and abstract standards. First-person plural voice, active voice, and citation paraphrase norms align with FIELD_SKILL. Spot-checked article abstracts show consistency with field expectations for voice and tone.
+
+CONFIDENCE:
+High for hard constraints (word limits, abstract format, citation style) due to explicit guidelines. Medium-high for deviations (structural flexibility, Managerial Implications relaxation) based on guidelines absence and abstract/metadata patterns in 5 articles. No contradictions between guidelines and observed practice in accessible materials.
+
+Generated: 2026-07-02
+Status: Complete

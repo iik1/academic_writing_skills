@@ -1,0 +1,17 @@
+Journal: Electoral Studies
+Slug: electoral-studies
+ABS: 3
+Field: SOC SCI
+
+Articles fetched: 11 (abstracts/metadata only; full text paywalled on ScienceDirect for essentially all sampled articles)
+Early stop triggered: No — stopped at 11 because delta set had stabilised (no new structural/stylistic deltas emerging beyond article-type tiering) and further ScienceDirect abstract pages were consistently blocked (403), requiring reliance on WebSearch-cached snippets and secondary repositories (SSRN, institutional repositories, CAF working papers).
+
+Deltas found: 1 substantive delta + 1 confirmed-not-a-deviation note
+  - Structural Deviations (ENFORCED): Three-tier article system — research articles (8,000-10,000 words), research notes (4,000-6,000 words), and "Notes on New Datasets" (max 4,000 words) — the latter a distinct submission track for showcasing new data sources rather than testing hypotheses. FIELD_SKILL does not distinguish these tiers.
+  - Other Journal-Specific Patterns (PRACTICE ONLY): Recurring emphasis on quasi-/natural-experiment designs and comparative cross-national studies in the spot-checked sample — consistent with, not deviating from, FIELD_SKILL's causal-inference and comparative norms.
+
+FIELD_SKILL overrides: Length constraints (three-tier word limits above) override FIELD_SKILL's undifferentiated length treatment. All other dimensions (voice, hedging, citation density, statistical reporting, CARS introduction structure, discussion/conclusion norms) follow FIELD_SKILL with no override.
+
+Access-limitation notes:
+- Official ScienceDirect guide-for-authors page returned HTTP 403 on WebFetch; guideline content was reconstructed from WebSearch result snippets that quote/paraphrase that page, plus corroboration from the erikgahner/poliscijournals GitHub word-limit dataset.
+- Individual ScienceDirect abstract pages also returned 403 on WebFetch; all 11 article observations were obtained via WebSearch snippets (which surface abstract text) and, where available, open-access working-paper/repository copies (SSRN, CAF, institutional repositories). No full-text PDF was successfully parsed for section-heading verification, so structural claims beyond the stated article-type tiers rely on guideline text and abstract-level inference rather than direct observation of full manuscripts.

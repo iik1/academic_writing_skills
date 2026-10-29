@@ -1,0 +1,15 @@
+Journal: Agricultural and Resource Economics Review
+Slug: agricultural-and-resource-economics-review
+ABS: 1
+Field: ECON
+Articles fetched: 15 distinct articles/abstracts (5 full abstract+structure pulls via WebFetch of open-access Cambridge Core pages, 1 invited NAREA "Reflections" essay, 10 FirstView 2025 titles+abstract snippets via WebSearch)
+Early stop triggered: No — good-faith sample of 15 exceeded the 10-15 target for an ABS 1 journal.
+
+Deltas found: 3 dimensions
+  1. Structural Deviations (PRACTICE ONLY) — standardized applied-empirical section template (Introduction -> Literature Review as standalone heading more often than FIELD_SKILL default -> optional Conceptual Framework -> Data and Methods -> Results [sometimes merged with Discussion] -> Conclusions), plus explicit labeled end-matter sections (Supplementary material, Data availability statement, Funding statement, Competing interests) in every article checked.
+  2. Hard constraint deltas (ENFORCED, from guidelines): 200-word abstract cap, max 8 alphabetized keywords, Cambridge A citation style ordered by first appearance (not alphabetical), 10,000-word Research Article / 3,000-word Research Insight length caps, mandatory separate title page for double-anonymized review, ORCID requirement, stronger anti-formalism guidance on mathematical notation than field baseline.
+  3. Other Journal-Specific Patterns — occasional invited/non-standard article types (e.g., NAREA award reflections essay) that depart from the empirical template; not a norm for standard submissions.
+
+FIELD_SKILL overrides: abstract word limit (200 words), citation ordering (Cambridge A, order of appearance vs. alphabetical), article length caps (10,000/3,000 words), mandatory anonymized title-page separation, ORCID requirement, mathematical notation minimalism.
+
+Access-limitation notes: No EZProxy/institutional access used. All source material drawn from open-access Cambridge Core article pages (ARER has been open access since 2016), the publisher's public author-instructions pages, and WebSearch-derived abstract snippets for FirstView articles. Full-text bodies were not accessible for most articles beyond abstract/keyword/section-heading level, which is sufficient per task instructions for style-delta judgment. One older (1994) issue page was fetched inadvertently via a broad "all-issues" URL and discarded as non-representative of current practice.
