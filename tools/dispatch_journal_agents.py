@@ -17,6 +17,7 @@ Usage:
   python dispatch_journal_agents.py --generate-field-skill FINANCE
 """
 
+import os
 import subprocess
 import argparse
 import json
@@ -70,6 +71,11 @@ LAUNCH_DELAY  = 20         # seconds between agent launches within a batch
 BATCH_PAUSE   = 30         # seconds between batches
 AGENT_TIMEOUT = 3600       # seconds per agent (60 min — 15+ article spot-check is slower)
 MAX_RETRIES   = 2          # quota retries (reduced: prefer waiting over hammering)
+
+# OpenAlex identifies callers by contact email and/or API key (see OpenAlex's current terms).
+# Set them in the environment rather than here, so they stay out of the repo.
+OPENALEX_MAILTO  = os.environ.get("OPENALEX_MAILTO", "")
+OPENALEX_API_KEY = os.environ.get("OPENALEX_API_KEY", "")
 
 
 # ─────────────────────────────────────────────
