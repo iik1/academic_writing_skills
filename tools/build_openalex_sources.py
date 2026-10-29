@@ -26,17 +26,20 @@ Matching:
      anything else is left unmatched with the top candidates listed.
 
 Reviewing: to accept a name match, set "confirmed": true. To fix or fill in a match, set
-"source_id" (and "display_name"), "method": "manual" and "confirmed": true. Re-running keeps
-manual and confirmed entries unchanged and only re-resolves the rest.
+"source_id" (and "display_name"), "method": "manual" and "confirmed": true.
+
+Re-running skips journals already in the map, so a run stopped by OpenAlex's daily budget
+continues where it left off. --refresh re-resolves the unconfirmed ones (e.g. after adding
+--issn-csv); manual and confirmed entries are never changed.
 
 Requires OPENALEX_MAILTO and/or OPENALEX_API_KEY in the environment (see
-dispatch_journal_agents.py).
+dispatch_journal_agents.py). Without a key, OpenAlex's daily budget is small.
 
 Usage:
   python build_openalex_sources.py
   python build_openalex_sources.py --field STRAT
   python build_openalex_sources.py --slug strategic-management-journal
-  python build_openalex_sources.py --issn-csv tools/abs_ajg_2024_full_list.csv
+  python build_openalex_sources.py --issn-csv tools/abs_ajg_2024_full_list.csv --refresh
 """
 
 import argparse
@@ -63,7 +66,7 @@ SOURCES_MAP   = TOOLS_DIR / "openalex_sources.json"
 API_URL       = "https://api.openalex.org/sources"
 SELECT        = "id,display_name,issn_l,issn,type,homepage_url,host_organization_name,works_count"
 REQUEST_PAUSE = 0.2        # seconds between requests
-MAX_ATTEMPTS  = 4          # per request, on 429 / 5xx / network errors
+MAX_ATTEMPTS  = 5          # per request, on burst 429s / 5xx / network errors
 TIMEOUT       = 30         # seconds per request
 N_CANDIDATES  = 3          # alternatives stored for review
 
@@ -164,8 +167,37 @@ def collect_issns(name, url, field, slug, csv_table):
 # OPENALEX
 # ─────────────────────────────────────────────
 
+class OpenAlexStop(Exception):
+    """OpenAlex cannot be used for now: daily budget spent, request refused, or unreachable."""
+
+
+budget = {"remaining_usd": None}    # last X-RateLimit-Remaining-USD seen
+
+
+def note_budget(headers):
+    try:
+        budget["remaining_usd"] = float(headers.get("X-RateLimit-Remaining-USD"))
+    except (TypeError, ValueError):
+        pass
+
+
+def budget_spent(exc):
+    """A 429 caused by the daily budget rather than a burst; retrying won't help today."""
+    if budget["remaining_usd"] is not None and budget["remaining_usd"] <= 0:
+        return True
+    try:
+        body = exc.read().decode("utf-8", errors="replace").lower()
+    except Exception:
+        body = ""
+    return any(word in body for word in ("budget", "daily", "credit", "usd"))
+
+
 def openalex_get(params):
-    """GET /sources with params; returns the results list. Retries 429, 5xx and network errors."""
+    """
+    GET /sources with params; returns the results list. Retries bursts (honouring
+    Retry-After), 5xx and network errors. Raises OpenAlexStop when the daily budget is
+    spent, a request is refused, or retries run out.
+    """
     params = {**params, "select": SELECT}
     if OPENALEX_MAILTO:
         params["mailto"] = OPENALEX_MAILTO
@@ -177,20 +209,29 @@ def openalex_get(params):
 
     for attempt in range(1, MAX_ATTEMPTS + 1):
         time.sleep(REQUEST_PAUSE)
+        wait = 2 ** attempt
         try:
             req = urllib.request.Request(url, headers={"User-Agent": agent})
             with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
+                note_budget(resp.headers)
                 return json.load(resp)["results"]
         except urllib.error.HTTPError as exc:
+            note_budget(exc.headers)
+            if exc.code == 429 and budget_spent(exc):
+                raise OpenAlexStop("OpenAlex's daily budget is used up (HTTP 429). Set "
+                                   "OPENALEX_API_KEY for a larger budget, or wait for the reset.")
             if exc.code != 429 and exc.code < 500:
-                raise
+                raise OpenAlexStop(f"OpenAlex refused the request (HTTP {exc.code}); "
+                                   f"check OPENALEX_MAILTO / OPENALEX_API_KEY.")
             error = exc
+            if (exc.headers.get("Retry-After") or "").isdigit():
+                wait = min(int(exc.headers["Retry-After"]), 60)
         except (urllib.error.URLError, TimeoutError) as exc:
             error = exc
-        wait = 2 ** attempt
         print(f"    OpenAlex: {error}; retrying in {wait}s ({attempt}/{MAX_ATTEMPTS})")
         time.sleep(wait)
-    raise RuntimeError(f"OpenAlex unreachable after {MAX_ATTEMPTS} attempts: {error}")
+    raise OpenAlexStop(f"OpenAlex still failing after {MAX_ATTEMPTS} attempts ({error}). "
+                       f"Repeated 429s usually mean the daily budget is used up.")
 
 
 def short_id(openalex_id):
@@ -221,8 +262,8 @@ def match_journal(name, issns, fetch):
              "method": None, "confirmed": False, "issns_tried": issns}
 
     by_id = {}
-    for issn in issns:
-        for source in fetch({"filter": f"issn:{issn}"}):
+    if issns:                       # one request for all ISSNs ("|" is OpenAlex's OR)
+        for source in fetch({"filter": "issn:" + "|".join(issns)}):
             by_id.setdefault(short_id(source["id"]), source)
 
     if len(by_id) == 1:
@@ -301,6 +342,8 @@ def main():
     parser.add_argument("--slug",     type=str, default=None)
     parser.add_argument("--issn-csv", type=Path, default=None,
                         help="CSV with journal titles and ISSNs, e.g. the ABS AJG list")
+    parser.add_argument("--refresh",  action="store_true",
+                        help="re-resolve journals already in the map (except manual/confirmed)")
     args = parser.parse_args()
 
     if not (OPENALEX_MAILTO or OPENALEX_API_KEY):
@@ -315,9 +358,11 @@ def main():
 
     sources = load_map()
     resolved = kept = 0
+    stopped = None
     try:
         for name, url, rating, field, slug in journals:
-            if keep_existing(sources.get(slug)):
+            existing = sources.get(slug)
+            if keep_existing(existing) or (existing and not args.refresh):
                 kept += 1
                 continue
             issns = collect_issns(name, url, field, slug, csv_table)
@@ -326,11 +371,18 @@ def main():
             e = sources[slug]
             status = ("ok" if e["confirmed"] else "REVIEW") if e["source_id"] else "UNMATCHED"
             print(f"  {slug:<48} {e['method'] or '-':<6} {status}")
+    except OpenAlexStop as exc:
+        stopped = exc
     finally:
         save_map(sources)
 
     print(f"\n{resolved} resolved, {kept} kept unchanged; map: {SOURCES_MAP}\n")
     print(summarize(sources, [j[4] for j in journals]))
+    if budget["remaining_usd"] is not None:
+        print(f"\nOpenAlex budget remaining today: ${budget['remaining_usd']:.4f}")
+    if stopped:
+        sys.exit(f"\nSTOPPED: {stopped}\nProgress is saved. Run the same command again to "
+                 f"continue; journals already in the map are skipped.")
 
 
 if __name__ == "__main__":
