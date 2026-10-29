@@ -1,4 +1,19 @@
 ---
+name: journal-political-economy-writing-style
+description: >
+  Journal-specific writing conventions for Journal of Political Economy
+  (ABS 4*, ECON). Use alongside econ-field-writing-style,
+  which provides the field baseline. This skill records only what differs
+  from that baseline. Trigger on phrases like "write for JPE",
+  "submit to Journal of Political Economy", "match JPE style", or when
+  reviewing a draft against this journal's requirements.
+---
+
+# Journal of Political Economy — Writing Style Deltas
+
+**Skill metadata** (carried over from the original frontmatter):
+
+```yaml
 skill_id: jpe-writing-style
 skill_type: journal-specific
 journal: Journal of Political Economy
@@ -16,9 +31,7 @@ guidelines_note: >
   No cached or archived version was accessible. All deltas below are classified PRACTICE ONLY
   unless independently confirmed as journal policy. No ENFORCED or GUIDELINE ONLY classifications
   are possible from this run.
----
-
-# Journal of Political Economy — Writing Style Deltas
+```
 
 > This file records **only deviations** from the `econ-field-writing-style` baseline.
 > Items not listed here should be treated as FIELD DEFAULT — follow the baseline.

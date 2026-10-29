@@ -1,4 +1,19 @@
 ---
+name: operations-research-writing-style
+description: >
+  Journal-specific writing conventions for Operations Research
+  (ABS 4*, OR&MANSCI). Use alongside orandmansci-field-writing-style,
+  which provides the field baseline. This skill records only what differs
+  from that baseline. Trigger on phrases like "write for Operations Research",
+  "submit to Operations Research", "match Operations Research style", or when
+  reviewing a draft against this journal's requirements.
+---
+
+# Operations Research — Journal-Specific Writing Skill
+
+**Skill metadata** (carried over from the original frontmatter):
+
+```yaml
 skill-id: operations-research
 journal: Operations Research
 publisher: INFORMS
@@ -7,9 +22,7 @@ abs-rating: 4*
 baseline: orandmansci-field-writing-style
 version: 1.0
 date: 2026-04-13
----
-
-# Operations Research — Journal-Specific Writing Skill
+```
 
 This file records only the deltas from the `orandmansci-field-writing-style` field baseline. Apply the baseline in full, then apply the overrides and additions below.
 

@@ -1,4 +1,20 @@
 ---
+name: mgmt-field-writing-style
+description: >
+  Normative academic writing conventions for the MGMT field,
+  derived exclusively from ABS 4* and ABS 4 journals. Use this skill
+  as a baseline prior when writing for any journal in the MGMT field.
+  Trigger on phrases like "write for a MGMT journal", "what does
+  MGMT writing look like", "field norms for MGMT", or when a
+  journal-specific skill references this baseline. Superseded by
+  journal-specific skills where they conflict.
+---
+
+# Academic Writing Conventions: Management (MGMT)
+
+**Skill metadata** (carried over from the original frontmatter):
+
+```yaml
 field: MGMT
 abs_journals_used:
   - Academy of Management Journal
@@ -11,9 +27,7 @@ abs4_star_journals: 6
 abs4_journals: 0
 articles_reviewed: 8
 last_updated: 2026-04-22
----
-
-# Academic Writing Conventions: Management (MGMT)
+```
 
 ## 1. Macro Structure
 
