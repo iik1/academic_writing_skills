@@ -3,14 +3,16 @@
   "journal": "Scandinavian Journal of Economics",
   "source_id": "S165253824",
   "display_name": "Scandinavian Journal of Economics",
-  "generated": "2026-10-29T16:26:14+00:00",
+  "generated": "2026-10-30T08:42:14+00:00",
   "window": {
     "from_year": 2023,
     "to_year": 2026
   },
   "query": {
     "endpoint": "https://api.openalex.org/works",
-    "filter": "primary_location.source.id:S165253824,publication_year:<year>,type:article",
+    "filters": [
+      "primary_location.source.id:S165253824,publication_year:<year>,type:article"
+    ],
     "sample_per_year": 200,
     "seeds": {
       "2023": 958715400,
@@ -21,9 +23,9 @@
   },
   "pool": {
     "works_returned": 121,
-    "usable": 121,
-    "open_access": 97,
-    "with_fulltext_link": 53
+    "usable": 117,
+    "open_access": 96,
+    "with_fulltext_link": 52
   },
   "candidates": [
     {
@@ -41,16 +43,16 @@
     },
     {
       "rank": 2,
-      "doi": "10.1111/sjoe.12591",
-      "openalex_id": "W4409218274",
-      "title": "Editors' Report",
+      "doi": "10.1111/sjoe.12581",
+      "openalex_id": "W4406302500",
+      "title": "Small‐ and large‐group instruction and a didactic method in mathematics for low‐performing adolescents: results from a randomized field experiment",
       "year": 2025,
       "volume": "127",
-      "issue": "2",
+      "issue": "3",
       "is_oa": true,
-      "oa_status": "bronze",
-      "fulltext_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sjoe.12591",
-      "landing_url": "https://doi.org/10.1111/sjoe.12591"
+      "oa_status": "hybrid",
+      "fulltext_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sjoe.12581",
+      "landing_url": "https://doi.org/10.1111/sjoe.12581"
     },
     {
       "rank": 3,
@@ -93,16 +95,16 @@
     },
     {
       "rank": 6,
-      "doi": "10.1111/sjoe.12581",
-      "openalex_id": "W4406302500",
-      "title": "Small‐ and large‐group instruction and a didactic method in mathematics for low‐performing adolescents: results from a randomized field experiment",
+      "doi": "10.1111/sjoe.12587",
+      "openalex_id": "W4412763524",
+      "title": "Out‐group penalties in refugee assistance: a survey experiment",
       "year": 2025,
       "volume": "127",
-      "issue": "3",
+      "issue": "4",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fulltext_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sjoe.12581",
-      "landing_url": "https://doi.org/10.1111/sjoe.12581"
+      "fulltext_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sjoe.12587",
+      "landing_url": "https://doi.org/10.1111/sjoe.12587"
     },
     {
       "rank": 7,
@@ -145,16 +147,16 @@
     },
     {
       "rank": 10,
-      "doi": "10.1111/sjoe.12587",
-      "openalex_id": "W4412763524",
-      "title": "Out‐group penalties in refugee assistance: a survey experiment",
+      "doi": "10.1111/sjoe.12593",
+      "openalex_id": "W4410379926",
+      "title": "Winners and losers when firms robotize: wage effects across occupations and education",
       "year": 2025,
-      "volume": "127",
-      "issue": "4",
+      "volume": "128",
+      "issue": "1",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fulltext_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sjoe.12587",
-      "landing_url": "https://doi.org/10.1111/sjoe.12587"
+      "fulltext_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sjoe.12593",
+      "landing_url": "https://doi.org/10.1111/sjoe.12593"
     },
     {
       "rank": 11,
@@ -197,16 +199,16 @@
     },
     {
       "rank": 14,
-      "doi": "10.1111/sjoe.12593",
-      "openalex_id": "W4410379926",
-      "title": "Winners and losers when firms robotize: wage effects across occupations and education",
+      "doi": "10.1111/sjoe.12602",
+      "openalex_id": "W4412691701",
+      "title": "Credit market structure and strategic collateral provision",
       "year": 2025,
       "volume": "128",
-      "issue": "1",
+      "issue": "2",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fulltext_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sjoe.12593",
-      "landing_url": "https://doi.org/10.1111/sjoe.12593"
+      "fulltext_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sjoe.12602",
+      "landing_url": "https://doi.org/10.1111/sjoe.12602"
     },
     {
       "rank": 15,
@@ -249,16 +251,16 @@
     },
     {
       "rank": 18,
-      "doi": "10.1111/sjoe.12602",
-      "openalex_id": "W4412691701",
-      "title": "Credit market structure and strategic collateral provision",
+      "doi": "10.1111/sjoe.70005",
+      "openalex_id": "W7117707837",
+      "title": "Reversal of economic integration: evidence from European Union enlargement",
       "year": 2025,
       "volume": "128",
-      "issue": "2",
+      "issue": "3",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fulltext_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sjoe.12602",
-      "landing_url": "https://doi.org/10.1111/sjoe.12602"
+      "fulltext_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sjoe.70005",
+      "landing_url": "https://doi.org/10.1111/sjoe.70005"
     },
     {
       "rank": 19,
@@ -301,16 +303,16 @@
     },
     {
       "rank": 22,
-      "doi": "10.1111/sjoe.70005",
-      "openalex_id": "W7117707837",
-      "title": "Reversal of economic integration: evidence from European Union enlargement",
+      "doi": "10.1111/sjoe.12599",
+      "openalex_id": "W4411841699",
+      "title": "Institutions, history, antagonisms, and development: the contributions of Daron Acemoglu, Simon Johnson, and James A. Robinson",
       "year": 2025,
-      "volume": "128",
+      "volume": "127",
       "issue": "3",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fulltext_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sjoe.70005",
-      "landing_url": "https://doi.org/10.1111/sjoe.70005"
+      "fulltext_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sjoe.12599",
+      "landing_url": "https://doi.org/10.1111/sjoe.12599"
     },
     {
       "rank": 23,

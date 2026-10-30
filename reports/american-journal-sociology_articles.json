@@ -3,14 +3,16 @@
   "journal": "American Journal of Sociology",
   "source_id": "S122471516",
   "display_name": "American Journal of Sociology",
-  "generated": "2026-10-29T16:27:18+00:00",
+  "generated": "2026-10-30T08:42:17+00:00",
   "window": {
     "from_year": 2023,
     "to_year": 2026
   },
   "query": {
     "endpoint": "https://api.openalex.org/works",
-    "filter": "primary_location.source.id:S122471516,publication_year:<year>,type:article",
+    "filters": [
+      "primary_location.source.id:S122471516,publication_year:<year>,type:article"
+    ],
     "sample_per_year": 200,
     "seeds": {
       "2023": 551925813,
@@ -21,9 +23,9 @@
   },
   "pool": {
     "works_returned": 144,
-    "usable": 144,
-    "open_access": 42,
-    "with_fulltext_link": 23
+    "usable": 140,
+    "open_access": 41,
+    "with_fulltext_link": 22
   },
   "candidates": [
     {
@@ -93,16 +95,16 @@
     },
     {
       "rank": 6,
-      "doi": "10.1086/737145",
-      "openalex_id": "W4411543899",
-      "title": "Editor's Page",
+      "doi": "10.1086/737164",
+      "openalex_id": "W4411234992",
+      "title": "Who Polices Which Boundaries? How Racial Self-Identification Affects External Classification",
       "year": 2025,
-      "volume": "130",
-      "issue": "6",
+      "volume": "131",
+      "issue": "3",
       "is_oa": true,
-      "oa_status": "bronze",
-      "fulltext_url": "https://www.journals.uchicago.edu/doi/pdf/10.1086/737145?download=true",
-      "landing_url": "https://doi.org/10.1086/737145"
+      "oa_status": "green",
+      "fulltext_url": "https://osf.io/bhrdj_v1/download",
+      "landing_url": "https://doi.org/10.31235/osf.io/bhrdj_v1"
     },
     {
       "rank": 7,
@@ -132,19 +134,6 @@
     },
     {
       "rank": 9,
-      "doi": "10.1086/737164",
-      "openalex_id": "W4411234992",
-      "title": "Who Polices Which Boundaries? How Racial Self-Identification Affects External Classification",
-      "year": 2025,
-      "volume": "131",
-      "issue": "3",
-      "is_oa": true,
-      "oa_status": "green",
-      "fulltext_url": "https://osf.io/bhrdj_v1/download",
-      "landing_url": "https://doi.org/10.31235/osf.io/bhrdj_v1"
-    },
-    {
-      "rank": 10,
       "doi": "10.1086/731603",
       "openalex_id": "W4399369779",
       "title": "The Great Separation: Top Earner Segregation at Work in Advanced Capitalist Economies",
@@ -157,7 +146,7 @@
       "landing_url": "https://sciencespo.hal.science/hal-04717467"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "doi": "10.1086/726445",
       "openalex_id": "W4388427300",
       "title": "Life Course Trajectories and Wealth Accumulation in the United States: Comparing Late Baby Boomers and Early Millennials",
@@ -170,7 +159,7 @@
       "landing_url": "https://hal.science/hal-04278042"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "doi": "10.1086/731833",
       "openalex_id": "W4399771740",
       "title": "The Increase in Refugees to Germany and Exclusionary Beliefs and Behaviors",
@@ -183,7 +172,7 @@
       "landing_url": "https://www.zora.uzh.ch/id/eprint/260507/1/GiesselmanetalAJS.pdf"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "doi": "10.1086/729296",
       "openalex_id": "W4391584443",
       "title": "Appendix",
@@ -196,7 +185,7 @@
       "landing_url": "https://doi.org/10.1086/729296"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "doi": "10.1086/733194",
       "openalex_id": "W4402596502",
       "title": "Cultural Heterogeneity in Americans’ Definitions of Racism, Sexism, and Classism: Results from a Mixed-Methods Study",
@@ -209,7 +198,7 @@
       "landing_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11684753/"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "doi": "10.1086/728737",
       "openalex_id": "W4390066466",
       "title": "A Very Uneven Playing Field: Economic Mobility in the United States",
@@ -222,7 +211,7 @@
       "landing_url": "https://doi.org/10.31235/osf.io/4tczd"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "doi": "10.1086/733928",
       "openalex_id": "W4404235659",
       "title": "Adjudication Under Cover: Compliance and Inequality in the Criminal Courts",
@@ -235,7 +224,7 @@
       "landing_url": "https://scholarsarchive.library.albany.edu/scj_fac_scholar/4"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "doi": "10.1086/724817",
       "openalex_id": "W4381487806",
       "title": "Structural Inequities in the Kin Safety Net: Mapping the Three-Generational Network throughout Early Adulthood",
@@ -248,7 +237,7 @@
       "landing_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11085851"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "doi": "10.1086/730457",
       "openalex_id": "W4395090211",
       "title": "Galvanizing the “Missing Revolution”: Processes and Meanings of the Child/Adult Binary in the Social Construction of Age",
@@ -261,7 +250,7 @@
       "landing_url": "https://pubmed.ncbi.nlm.nih.gov/41357071/"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "doi": "10.1086/727562",
       "openalex_id": "W4388427312",
       "title": "Horror Vacui: Racial Misalignment, Symbolic Repair, and Imperial Legitimation in German National Socialist Portrait Photography",
@@ -274,7 +263,7 @@
       "landing_url": "https://doi.org/10.31235/osf.io/8vk9r"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "doi": "10.1086/730851",
       "openalex_id": "W4394728490",
       "title": "Lives in Welfare States: Life Courses, Earnings Accumulation, and Relative Living Standards in Five European Countries",
@@ -287,7 +276,7 @@
       "landing_url": "https://www.utupub.fi/handle/11111/58686"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "doi": "10.1086/727753",
       "openalex_id": "W4386594840",
       "title": "Multilateralism of the Marginal: Least Developed Countries and International Climate Negotiations, 1995–2016",
@@ -300,7 +289,7 @@
       "landing_url": "https://hal.science/hal-05533054"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "doi": "10.1086/732671",
       "openalex_id": "W4401930339",
       "title": "Does Ethnic Similarity Increase Well-Being?",
@@ -313,7 +302,7 @@
       "landing_url": "https://portal.findresearcher.sdu.dk/da/publications/086c64c4-8ea4-49e6-adc2-e4ecaab0d6a8"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "doi": "10.1086/727892",
       "openalex_id": "W4386951056",
       "title": "Exposure to Nearby Homicides and Young Women’s Reproductive Lives during the Transition to Adulthood",
@@ -326,7 +315,7 @@
       "landing_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/12338976"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "doi": "10.1086/743819",
       "openalex_id": "W7204603490",
       "title": "From Suites to Streets: Professional Expertise and the Organizational Pursuit of Social and Systemic Integration",
@@ -339,7 +328,7 @@
       "landing_url": "https://hal.science/hal-05756279v1"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "doi": "10.1086/735430",
       "openalex_id": "W4407937779",
       "title": "How Protests Spread: Diasporas, Wide Bridges, and the Transnational Diffusion of Un Violador en tu Camino",
@@ -350,6 +339,19 @@
       "oa_status": "green",
       "fulltext_url": null,
       "landing_url": "https://hdl.handle.net/1814/94058"
+    },
+    {
+      "rank": 25,
+      "doi": "10.1086/729506",
+      "openalex_id": "W4391022466",
+      "title": "Engineering Inequality: Informal Coaching, Glass Walls, and Social Closure in Silicon Valley",
+      "year": 2024,
+      "volume": "129",
+      "issue": "5",
+      "is_oa": true,
+      "oa_status": "green",
+      "fulltext_url": null,
+      "landing_url": "https://figshare.com/articles/journal_contribution/Engineering_Inequality_Informal_Coaching_Glass_Walls_and_Social_Closure_in_Silicon_Valley/25595553"
     }
   ]
 }

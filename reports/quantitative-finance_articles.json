@@ -3,14 +3,16 @@
   "journal": "Quantitative Finance",
   "source_id": "S182689569",
   "display_name": "Quantitative Finance",
-  "generated": "2026-10-29T16:21:06+00:00",
+  "generated": "2026-10-30T08:42:05+00:00",
   "window": {
     "from_year": 2023,
     "to_year": 2026
   },
   "query": {
     "endpoint": "https://api.openalex.org/works",
-    "filter": "primary_location.source.id:S182689569,publication_year:<year>,type:article",
+    "filters": [
+      "primary_location.source.id:S182689569,publication_year:<year>,type:article"
+    ],
     "sample_per_year": 200,
     "seeds": {
       "2023": 662956573,
@@ -21,9 +23,9 @@
   },
   "pool": {
     "works_returned": 383,
-    "usable": 383,
-    "open_access": 258,
-    "with_fulltext_link": 143
+    "usable": 381,
+    "open_access": 256,
+    "with_fulltext_link": 141
   },
   "candidates": [
     {
@@ -197,16 +199,16 @@
     },
     {
       "rank": 14,
-      "doi": "10.1080/14697688.2025.2590946",
-      "openalex_id": "W4416860773",
-      "title": "Special Issue of Quantitative Finance on ‘Business Analytics in Banking and Finance’",
+      "doi": "10.1080/14697688.2025.2551768",
+      "openalex_id": "W4414655250",
+      "title": "Ex ante and ex post risk premiums in electricity futures",
       "year": 2025,
       "volume": "25",
       "issue": "11",
       "is_oa": true,
-      "oa_status": "bronze",
-      "fulltext_url": "https://www.tandfonline.com/doi/pdf/10.1080/14697688.2025.2590946?needAccess=true",
-      "landing_url": "https://doi.org/10.1080/14697688.2025.2590946"
+      "oa_status": "hybrid",
+      "fulltext_url": "https://www.tandfonline.com/doi/pdf/10.1080/14697688.2025.2551768?needAccess=true",
+      "landing_url": "https://doi.org/10.1080/14697688.2025.2551768"
     },
     {
       "rank": 15,

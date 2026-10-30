@@ -3,14 +3,16 @@
   "journal": "Academy of Management Review",
   "source_id": "S46763546",
   "display_name": "Academy of Management Review",
-  "generated": "2026-10-29T16:29:44+00:00",
+  "generated": "2026-10-30T08:42:29+00:00",
   "window": {
     "from_year": 2023,
     "to_year": 2026
   },
   "query": {
     "endpoint": "https://api.openalex.org/works",
-    "filter": "primary_location.source.id:S46763546,publication_year:<year>,type:article",
+    "filters": [
+      "primary_location.source.id:S46763546,publication_year:<year>,type:article"
+    ],
     "sample_per_year": 200,
     "seeds": {
       "2023": 992196292,
@@ -21,9 +23,9 @@
   },
   "pool": {
     "works_returned": 212,
-    "usable": 212,
-    "open_access": 46,
-    "with_fulltext_link": 18
+    "usable": 210,
+    "open_access": 45,
+    "with_fulltext_link": 17
   },
   "candidates": [
     {
@@ -93,16 +95,16 @@
     },
     {
       "rank": 6,
-      "doi": "10.5465/amr.2024.0570",
-      "openalex_id": "W4404134303",
-      "title": "Editors’ Comments: Voices from the Periphery: Barriers to Publication in AMR and Opportunities for Inclusion",
+      "doi": "10.5465/amr.2024.0554",
+      "openalex_id": "W4404568863",
+      "title": "Theorizing Time in Management and Organizations",
       "year": 2024,
       "volume": "50",
       "issue": "1",
       "is_oa": true,
-      "oa_status": "bronze",
-      "fulltext_url": "https://journals.aom.org/doi/pdf/10.5465/amr.2024.0570?download=true",
-      "landing_url": "https://doi.org/10.5465/amr.2024.0570"
+      "oa_status": "green",
+      "fulltext_url": "https://wrap.warwick.ac.uk/id/eprint/191192/2/WRAP-Theorizing-time-management-organizations-25.pdf",
+      "landing_url": "https://doi.org/10.5465/amr.2024.0554"
     },
     {
       "rank": 7,
@@ -210,16 +212,16 @@
     },
     {
       "rank": 15,
-      "doi": "10.5465/amr.2024.0554",
-      "openalex_id": "W4404568863",
-      "title": "Theorizing Time in Management and Organizations",
+      "doi": "10.5465/amr.2023.0219",
+      "openalex_id": "W4403920416",
+      "title": "Experts and Democratic Deliberation: Insights from An Enemy of the People",
       "year": 2024,
       "volume": "50",
       "issue": "1",
       "is_oa": true,
       "oa_status": "green",
-      "fulltext_url": "https://wrap.warwick.ac.uk/id/eprint/191192/2/WRAP-Theorizing-time-management-organizations-25.pdf",
-      "landing_url": "https://doi.org/10.5465/amr.2024.0554"
+      "fulltext_url": "https://dau.url.edu/bitstream/20.500.14342/6159/1/Manuscript%20-%20Experts%20and%20democratic%20deliberation-Insights%20from%20An%20Enemy%20of%20the%20People.pdf",
+      "landing_url": "http://hdl.handle.net/20.500.14342/6159"
     },
     {
       "rank": 16,
@@ -236,19 +238,6 @@
     },
     {
       "rank": 17,
-      "doi": "10.5465/amr.2023.0219",
-      "openalex_id": "W4403920416",
-      "title": "Experts and Democratic Deliberation: Insights from An Enemy of the People",
-      "year": 2024,
-      "volume": "50",
-      "issue": "1",
-      "is_oa": true,
-      "oa_status": "green",
-      "fulltext_url": "https://dau.url.edu/bitstream/20.500.14342/6159/1/Manuscript%20-%20Experts%20and%20democratic%20deliberation-Insights%20from%20An%20Enemy%20of%20the%20People.pdf",
-      "landing_url": "http://hdl.handle.net/20.500.14342/6159"
-    },
-    {
-      "rank": 18,
       "doi": "10.5465/amr.2018.0265",
       "openalex_id": "W4313555361",
       "title": "Creating Opportunities: Heuristic Reasoning in Proactive Dynamic Capability Deployment",
@@ -261,7 +250,7 @@
       "landing_url": "https://researchonline.jcu.edu.au/77287/13/JCU_77287.pdf"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "doi": "10.5465/amr.2024.0178",
       "openalex_id": "W7164925992",
       "title": "Search Heuristics Under Multiple Objectives: The Case of Corporate Social Responsibility",
@@ -274,7 +263,7 @@
       "landing_url": "https://doi.org/10.48550/arxiv.2606.15545"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "doi": "10.5465/amr.2024.0625",
       "openalex_id": "W4410984197",
       "title": "Delivering on the Promise of Entrepreneurship by Thinking Beyond Limiting Economics Assumptions: An Extension of Lewis et al.’s “A Promise Not (Yet) Fulfilled”",
@@ -287,7 +276,7 @@
       "landing_url": "https://hdl.handle.net/1983/e51dd027-3f32-4ee2-b6aa-966302352eef"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "doi": "10.5465/amr.2024.0286",
       "openalex_id": "W4402216248",
       "title": "Unpacking the Role of Organizational Actorhood in Interorganizational Trust: A Reply to “Looking Behind the Continuum: An Institutional Economics Perspective on Schilke and Lumineau’s ‘How Organizational Is Interorganizational Trust?’”",
@@ -300,7 +289,7 @@
       "landing_url": "https://doi.org/10.2139/ssrn.7535441"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "doi": "10.5465/amr.2023.0253",
       "openalex_id": "W4386316433",
       "title": "Surviving to Long-Term Thriving through Augmented Entrepreneurial Resourcefulness: An Extension to McMullen’s “Real Growth through Entrepreneurial Resourcefulness: Insights on the Entropy Problem from Andy Weir’s The Martian”",
@@ -313,7 +302,7 @@
       "landing_url": "https://www.alexandria.unisg.ch/handle/20.500.14171/118232"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "doi": "10.5465/amr.2025.0682",
       "openalex_id": "W7155214518",
       "title": "Copying the Wrong Winner? When Noisy Attribution Reverses Mutual Learning Prescriptions in Denrell, Christensen, Knudsen, and Liu’s “The Impact of Learning Mode and Speed on Mutual Learning”",
@@ -326,7 +315,7 @@
       "landing_url": "https://pure.qub.ac.uk/en/publications/72c20d01-b2a6-4a67-8a5a-8636e476e84b"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "doi": "10.5465/amr.2022.0282",
       "openalex_id": "W4408698590",
       "title": "The Power and Peril of Awe in Leadership: Transforming Follower Identity and Behavior",
@@ -339,7 +328,7 @@
       "landing_url": "https://ink.library.smu.edu.sg/lkcsb_research/7800"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "doi": "10.5465/amr.2023.0265",
       "openalex_id": "W4390580057",
       "title": "Taking Situatedness Seriously in Theorizing About Competitive Advantage Through Artificial Intelligence: A Response to Kemp’s “Competitive Advantages Through Artificial Intelligence”",
@@ -350,6 +339,19 @@
       "oa_status": "green",
       "fulltext_url": null,
       "landing_url": "https://research.vu.nl/en/publications/1eb3ab1b-9196-417e-9196-5da475959fce"
+    },
+    {
+      "rank": 25,
+      "doi": "10.5465/amr.2021.0382",
+      "openalex_id": "W4386306624",
+      "title": "On Valuing Women: Advancing an Intersectional Theory of Gender Diversity in Organizations",
+      "year": 2023,
+      "volume": "49",
+      "issue": "4",
+      "is_oa": true,
+      "oa_status": "green",
+      "fulltext_url": null,
+      "landing_url": "https://doi.org/10.2139/ssrn.5182601"
     }
   ]
 }

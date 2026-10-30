@@ -3,14 +3,16 @@
   "journal": "American Sociological Review",
   "source_id": "S157620343",
   "display_name": "American Sociological Review",
-  "generated": "2026-10-29T16:27:26+00:00",
+  "generated": "2026-10-30T08:42:20+00:00",
   "window": {
     "from_year": 2023,
     "to_year": 2026
   },
   "query": {
     "endpoint": "https://api.openalex.org/works",
-    "filter": "primary_location.source.id:S157620343,publication_year:<year>,type:article",
+    "filters": [
+      "primary_location.source.id:S157620343,publication_year:<year>,type:article"
+    ],
     "sample_per_year": 200,
     "seeds": {
       "2023": 689895719,
@@ -21,9 +23,9 @@
   },
   "pool": {
     "works_returned": 145,
-    "usable": 145,
-    "open_access": 83,
-    "with_fulltext_link": 34
+    "usable": 144,
+    "open_access": 82,
+    "with_fulltext_link": 33
   },
   "candidates": [
     {
@@ -54,16 +56,16 @@
     },
     {
       "rank": 3,
-      "doi": "10.1177/00031224231222725",
-      "openalex_id": "W4390975479",
-      "title": "Editors’ Note, 2024 to 2026: Looking to W.E.B. Du Bois",
+      "doi": "10.1177/00031224231221741",
+      "openalex_id": "W4390975342",
+      "title": "From Hard Labor to Market Discipline: The Political Economy of Prison Work, 1974 to 2022",
       "year": 2024,
       "volume": "89",
       "issue": "1",
       "is_oa": true,
       "oa_status": "bronze",
-      "fulltext_url": "https://journals.sagepub.com/doi/pdf/10.1177/00031224231222725",
-      "landing_url": "https://doi.org/10.1177/00031224231222725"
+      "fulltext_url": "https://journals.sagepub.com/doi/pdf/10.1177/00031224231221741?download=true",
+      "landing_url": "https://doi.org/10.1177/00031224231221741"
     },
     {
       "rank": 4,

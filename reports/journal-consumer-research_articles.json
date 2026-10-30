@@ -3,14 +3,16 @@
   "journal": "Journal of Consumer Research",
   "source_id": "S145429826",
   "display_name": "Journal of Consumer Research",
-  "generated": "2026-10-29T16:30:23+00:00",
+  "generated": "2026-10-30T08:42:32+00:00",
   "window": {
     "from_year": 2023,
     "to_year": 2026
   },
   "query": {
     "endpoint": "https://api.openalex.org/works",
-    "filter": "primary_location.source.id:S145429826,publication_year:<year>,type:article",
+    "filters": [
+      "primary_location.source.id:S145429826,publication_year:<year>,type:article"
+    ],
     "sample_per_year": 200,
     "seeds": {
       "2023": 578161573,
@@ -21,9 +23,9 @@
   },
   "pool": {
     "works_returned": 246,
-    "usable": 243,
-    "open_access": 105,
-    "with_fulltext_link": 61
+    "usable": 242,
+    "open_access": 104,
+    "with_fulltext_link": 60
   },
   "candidates": [
     {
@@ -158,16 +160,16 @@
     },
     {
       "rank": 11,
-      "doi": "10.1093/jcr/ucae043",
-      "openalex_id": "W4400769620",
-      "title": "AnnouncementEditors-Elect January 1, 2025–December 31, 2028",
+      "doi": "10.1093/jcr/ucae013",
+      "openalex_id": "W4395083340",
+      "title": "Policy Board Note",
       "year": 2024,
       "volume": "51",
       "issue": "2",
       "is_oa": true,
       "oa_status": "bronze",
-      "fulltext_url": "https://academic.oup.com/jcr/article-pdf/51/2/211/58752999/ucae043.pdf",
-      "landing_url": "https://doi.org/10.1093/jcr/ucae043"
+      "fulltext_url": "https://academic.oup.com/jcr/advance-article-pdf/doi/10.1093/jcr/ucae013/57189235/ucae013.pdf",
+      "landing_url": "http://dx.doi.org/10.1093/jcr/ucae013"
     },
     {
       "rank": 12,

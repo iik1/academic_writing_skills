@@ -3,14 +3,16 @@
   "journal": "Accounting and Business Research",
   "source_id": "S323237",
   "display_name": "Accounting and Business Research",
-  "generated": "2026-10-29T16:18:45+00:00",
+  "generated": "2026-10-30T08:41:51+00:00",
   "window": {
     "from_year": 2023,
     "to_year": 2026
   },
   "query": {
     "endpoint": "https://api.openalex.org/works",
-    "filter": "primary_location.source.id:S323237,publication_year:<year>,type:article",
+    "filters": [
+      "primary_location.source.id:S323237,publication_year:<year>,type:article"
+    ],
     "sample_per_year": 200,
     "seeds": {
       "2023": 877298731,
@@ -21,9 +23,9 @@
   },
   "pool": {
     "works_returned": 130,
-    "usable": 130,
-    "open_access": 74,
-    "with_fulltext_link": 38
+    "usable": 126,
+    "open_access": 70,
+    "with_fulltext_link": 34
   },
   "candidates": [
     {
@@ -67,16 +69,16 @@
     },
     {
       "rank": 4,
-      "doi": "10.1080/00014788.2023.2219146",
-      "openalex_id": "W4385409589",
-      "title": "Introduction",
+      "doi": "10.1080/00014788.2023.2219151",
+      "openalex_id": "W4385410857",
+      "title": "Tax systems: adaptability and resilience during a global pandemic",
       "year": 2023,
       "volume": "53",
       "issue": "5",
       "is_oa": true,
-      "oa_status": "bronze",
-      "fulltext_url": "https://www.tandfonline.com/doi/pdf/10.1080/00014788.2023.2219146?needAccess=true",
-      "landing_url": "http://dx.doi.org/10.1080/00014788.2023.2219146"
+      "oa_status": "hybrid",
+      "fulltext_url": "https://www.tandfonline.com/doi/pdf/10.1080/00014788.2023.2219151?needAccess=true&role=button",
+      "landing_url": "https://doi.org/10.1080/00014788.2023.2219151"
     },
     {
       "rank": 5,
@@ -314,32 +316,19 @@
     },
     {
       "rank": 23,
-      "doi": "10.1080/00014788.2024.2402145",
-      "openalex_id": "W4404641357",
-      "title": "Introduction to the 2024 Accounting and Business Research International Accounting Policy Forum",
-      "year": 2024,
-      "volume": "54",
-      "issue": "7",
-      "is_oa": true,
-      "oa_status": "bronze",
-      "fulltext_url": "https://www.tandfonline.com/doi/pdf/10.1080/00014788.2024.2402145?needAccess=true",
-      "landing_url": "http://dx.doi.org/10.1080/00014788.2024.2402145"
-    },
-    {
-      "rank": 24,
-      "doi": "10.1080/00014788.2023.2219151",
-      "openalex_id": "W4385410857",
-      "title": "Tax systems: adaptability and resilience during a global pandemic",
+      "doi": "10.1080/00014788.2023.2219148",
+      "openalex_id": "W4385409253",
+      "title": "Accounting for resilience: the role of the accounting professions in promoting resilience",
       "year": 2023,
       "volume": "53",
       "issue": "5",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fulltext_url": "https://www.tandfonline.com/doi/pdf/10.1080/00014788.2023.2219151?needAccess=true&role=button",
-      "landing_url": "https://doi.org/10.1080/00014788.2023.2219151"
+      "fulltext_url": "https://www.tandfonline.com/doi/pdf/10.1080/00014788.2023.2219148?download=true",
+      "landing_url": "https://doi.org/10.1080/00014788.2023.2219148"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "doi": "10.1080/00014788.2026.2719176",
       "openalex_id": "W7223066238",
       "title": "Assuring sustainability information: lessons to be learned from financial statement audit engagements",
@@ -350,6 +339,19 @@
       "oa_status": "hybrid",
       "fulltext_url": "https://www.tandfonline.com/doi/pdf/10.1080/00014788.2026.2719176?needAccess=true",
       "landing_url": "https://doi.org/10.1080/00014788.2026.2719176"
+    },
+    {
+      "rank": 25,
+      "doi": "10.1080/00014788.2025.2516269",
+      "openalex_id": "W4413946495",
+      "title": "Audit failures: why they occur and some suggestions for reducing them",
+      "year": 2025,
+      "volume": "55",
+      "issue": "5",
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "fulltext_url": "https://www.tandfonline.com/doi/pdf/10.1080/00014788.2025.2516269?needAccess=true",
+      "landing_url": "https://doi.org/10.1080/00014788.2025.2516269"
     }
   ]
 }
