@@ -27,3 +27,5 @@ skills/journal-of-finance/
 # IDE / vault config
 .obsidian/
 .claude/
+# credentials: never commit
+.env
