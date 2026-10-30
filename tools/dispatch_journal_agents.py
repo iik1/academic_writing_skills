@@ -17,6 +17,7 @@ Usage:
   python dispatch_journal_agents.py --generate-field-skill FINANCE
 """
 
+import hashlib
 import os
 import subprocess
 import argparse
@@ -377,6 +378,78 @@ def load_field_skill(field):
 
 
 # ─────────────────────────────────────────────
+# ARTICLE CANDIDATES (OpenAlex; see build_article_lists.py)
+# ─────────────────────────────────────────────
+
+def load_article_list(slug, journal, build=True):
+    """
+    Return (doc, status) for the journal's candidate list, reports/<slug>_articles.json.
+    A missing list is built from OpenAlex and saved when build is True, so every later run
+    gets the identical list. doc is None when there is no list; status then says why and
+    the agent falls back to finding articles itself.
+    """
+    import build_article_lists as bal       # imported here: it imports this module
+    path = bal.articles_path(slug)
+    if path.exists():
+        return json.loads(path.read_text(encoding="utf-8")), "saved list"
+    if not build:
+        return None, "no saved list"
+    if not (OPENALEX_MAILTO or OPENALEX_API_KEY):
+        return None, "no saved list, and no OpenAlex credentials to build one"
+    from build_openalex_sources import load_map
+    from openalex_client import OpenAlexStop, get
+    try:
+        doc, reason = bal.build_list(slug, journal, load_map().get(slug), get)
+    except OpenAlexStop as exc:
+        return None, f"OpenAlex unavailable: {exc}"
+    if doc is None:
+        return None, reason
+    bal.save_list(doc)
+    return doc, "built from OpenAlex"
+
+
+def article_list_id(doc):
+    """Short fingerprint of the candidates, to show two runs got the identical list."""
+    blob = json.dumps(doc["candidates"], sort_keys=True, ensure_ascii=False).encode("utf-8")
+    return hashlib.sha1(blob).hexdigest()[:12]
+
+
+def describe_article_list(doc, status):
+    if doc is None:
+        return f"fallback: {status}"
+    c = doc["candidates"]
+    return (f"{len(c)} candidates, {sum(x['is_oa'] for x in c)} open access, "
+            f"{sum(x['fulltext_url'] is not None for x in c)} with full-text link "
+            f"[{status}, list {article_list_id(doc)}]")
+
+
+def format_article_list(doc, status):
+    """Text for the ${ARTICLE_CANDIDATES} prompt variable."""
+    if doc is None:
+        return (f"No candidate list is available for this journal ({status}).\n"
+                f"Find recent articles yourself with the ACCESS CHAIN below.")
+    w = doc["window"]
+    lines = [f"{len(doc['candidates'])} candidates drawn from OpenAlex "
+             f"({w['from_year']}-{w['to_year']}), open-access full text first "
+             f"(list {article_list_id(doc)}). Work through them in this order:", ""]
+    for c in doc["candidates"]:
+        where = ", ".join(x for x in (c["volume"] and f"vol. {c['volume']}",
+                                      c["issue"] and f"no. {c['issue']}") if x) or "online first"
+        lines.append(f"{c['rank']:>2}. {c['title']} ({c['year']}; {where})")
+        lines.append(f"    DOI: {c['doi'] or '-'}")
+        if c["fulltext_url"]:
+            lines.append(f"    Open-access full text: {c['fulltext_url']}")
+        lines.append(f"    Article page: {c['landing_url']}")
+    return "\n".join(lines)
+
+
+def report_has_outcomes(slug):
+    """True if the saved completion report carries the article-outcomes table."""
+    path = REPO_ROOT / "reports" / f"{slug}_report.txt"
+    return path.exists() and "Article outcomes" in path.read_text(encoding="utf-8")
+
+
+# ─────────────────────────────────────────────
 # ENCODING FIX
 # ─────────────────────────────────────────────
 
@@ -594,8 +667,9 @@ def run_agent(name, url, rating, field, slug, prompt, max_retries=MAX_RETRIES):
 # PROMPT BUILDER
 # ─────────────────────────────────────────────
 
-def build_prompt(name, url, rating, field, slug, prompt_template, field_skill_content):
-    """Fill all template variables including FIELD_SKILL injection."""
+def build_prompt(name, url, rating, field, slug, prompt_template, field_skill_content,
+                 article_candidates):
+    """Fill all template variables including FIELD_SKILL and the article candidates."""
     field_slug = field.lower().replace("&", "and").replace(" ", "-")
     return (prompt_template
             .replace("${JOURNAL_NAME}",       name)
@@ -604,6 +678,7 @@ def build_prompt(name, url, rating, field, slug, prompt_template, field_skill_co
             .replace("${FIELD}",              field)
             .replace("${JOURNAL_SLUG}",       slug)
             .replace("${FIELD_SLUG}",         field_slug)
+            .replace("${ARTICLE_CANDIDATES}", article_candidates)
             .replace("${FIELD_SKILL_CONTENT}", field_skill_content))
 
 
@@ -644,7 +719,9 @@ def dispatch(journals, dry_run=False, field_filter=None, tier_filter=None,
 
     if dry_run:
         for name, url, rating, field, slug in filtered:
+            doc, status = load_article_list(slug, name, build=False)
             print(f"{name:<60} {rating:<5} {field:<12} SKIPPED (dry run)")
+            print(f"{'':<60} article list: {describe_article_list(doc, status)}")
         return
 
     prompt_template = (TOOLS_DIR / "journal_agent_prompt.txt").read_text(encoding="utf-8")
@@ -670,11 +747,14 @@ def dispatch(journals, dry_run=False, field_filter=None, tier_filter=None,
 
             results_bucket = {}
             lock = threading.Lock()
+            # Loaded (or built and saved) here, before the threads start.
+            article_lists = {j[4]: load_article_list(j[4], j[0]) for j in batch}
 
             def worker(j, fsc=field_skill_content):
                 name, url, rating, field_, slug = j
                 prompt = build_prompt(name, url, rating, field_, slug,
-                                      prompt_template, fsc)
+                                      prompt_template, fsc,
+                                      format_article_list(*article_lists[slug]))
                 print(f"    -> {name}")
                 r = run_agent(name, url, rating, field_, slug, prompt, max_retries)
                 with lock:
@@ -700,7 +780,9 @@ def dispatch(journals, dry_run=False, field_filter=None, tier_filter=None,
                 status = (f"OK (attempt {r['attempts']})" if saved
                           else f"FAIL:{reason}")
                 print(f"    {name:<56} {rating:<5} {status}")
-                all_results.append({**r, "saved": saved, "reason": reason})
+                all_results.append({**r, "saved": saved, "reason": reason,
+                                    "article_list": describe_article_list(*article_lists[slug]),
+                                    "outcome_table": saved and report_has_outcomes(slug)})
 
             if batch_num < len(batches):
                 print(f"  Pausing {BATCH_PAUSE}s...")
@@ -716,11 +798,18 @@ def dispatch(journals, dry_run=False, field_filter=None, tier_filter=None,
         print(f"\nFAILED ({len(failed)}):")
         for r in failed:
             print(f"  x {r['journal']} -- {r['reason']} | {r['stderr'][:120]}")
+    fallbacks = [r for r in all_results if r["article_list"].startswith("fallback")]
+    if fallbacks:
+        print(f"\nNO ARTICLE LIST, agent found articles itself ({len(fallbacks)}):")
+        for r in fallbacks:
+            print(f"  - {r['journal']} -- {r['article_list']}")
 
     report_data = [
         {"journal": r["journal"], "slug": r["slug"],
          "returncode": r["returncode"], "saved": r["saved"],
          "reason": r.get("reason", ""), "attempts": r.get("attempts", 1),
+         "article_list": r.get("article_list", ""),
+         "outcome_table": r.get("outcome_table", False),
          "stderr": r["stderr"][:300]}
         for r in all_results
     ]
@@ -862,11 +951,14 @@ Examples:
         name, url, rating, field, slug = journals[0]
         prompt_template = (TOOLS_DIR / "journal_agent_prompt.txt").read_text(encoding="utf-8")
         field_skill_content = load_field_skill(field)
+        article_list = load_article_list(slug, name)
         prompt = build_prompt(name, url, rating, field, slug,
-                              prompt_template, field_skill_content)
+                              prompt_template, field_skill_content,
+                              format_article_list(*article_list))
 
         print(f"\nTEST RUN: {name}")
         print(f"Field skill: {'loaded' if 'not been generated' not in field_skill_content else 'NOT FOUND (proceeding without baseline)'}")
+        print(f"Article list: {describe_article_list(*article_list)}")
         print("Running agent...\n")
 
         result = subprocess.run(
@@ -895,6 +987,9 @@ Examples:
             folder = FIELD_FOLDERS.get(field, field.lower())
             print(f"\nOK: skills/{folder}/{slug}_SKILL.md" if saved
                   else f"\nFAIL: {reason}")
+            if saved:
+                print(f"Article outcomes table in reports/{slug}_report.txt: "
+                      f"{'yes' if report_has_outcomes(slug) else 'MISSING'}")
 
     else:
         journals = JOURNALS

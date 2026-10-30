@@ -220,6 +220,12 @@ def build_list(slug, journal, entry, fetch, today=None, n=N_CANDIDATES):
     }, None
 
 
+def save_list(doc):
+    REPORTS_DIR.mkdir(parents=True, exist_ok=True)
+    articles_path(doc["slug"]).write_text(json.dumps(doc, indent=2, ensure_ascii=False) + "\n",
+                                          encoding="utf-8")
+
+
 def main():
     parser = argparse.ArgumentParser(description="Build article candidate lists from OpenAlex.")
     parser.add_argument("--field",   type=str, default=None)
@@ -234,7 +240,6 @@ def main():
         sys.exit("No journals matched.")
     openalex_client.require_credentials()
     sources = load_map()
-    REPORTS_DIR.mkdir(parents=True, exist_ok=True)
 
     built = kept = skipped = 0
     stopped = None
@@ -249,7 +254,7 @@ def main():
                 skipped += 1
                 print(f"  {slug:<48} NO LIST: {reason}")
                 continue
-            path.write_text(json.dumps(doc, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+            save_list(doc)
             built += 1
             p = doc["pool"]
             print(f"  {slug:<48} {len(doc['candidates']):>2} candidates "

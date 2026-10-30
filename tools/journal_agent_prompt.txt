@@ -19,7 +19,7 @@ for the ${FIELD} field, derived from ABS 4*/4 journals.
 
 Your job is narrow and precise:
   1. Read the journal's author guidelines
-  2. Spot-check at least 15 recent articles
+  2. Spot-check recent articles from the candidate list (target: 15 full texts)
   3. Record ONLY what differs from FIELD_SKILL
   4. Classify each finding
   5. Output the SKILL.md
@@ -57,16 +57,31 @@ ACCESS: Use NHH EZProxy prefix for paywalled pages:
 https://nhh.idm.oclc.org/login?url=
 
 ══════════════════════════════════════════════════════
-PHASE 2 - ARTICLE SPOT-CHECK (at least 15 articles)
+PHASE 2 - ARTICLE SPOT-CHECK (target: 15 full-text articles)
 ══════════════════════════════════════════════════════
 
+ARTICLE CANDIDATES:
+
+${ARTICLE_CANDIDATES}
+
 SAMPLING REQUIREMENT:
-  - Spot-check a MINIMUM of 15 distinct recent full-text articles
-  - Sample across multiple issues/years where possible, not one issue
-  - Continue beyond 15 if new deltas are still emerging; stop once
-    the delta set has stabilised (no new deltas across several articles)
-  - If fewer than 15 are accessible after exhausting the access chain,
-    document how many you actually read and why in the report
+  - If a candidate list is given above, work through it IN ORDER. Do not
+    choose other articles while untried candidates remain.
+  - For each candidate, use its open-access full-text link if one is given;
+    otherwise try the ACCESS CHAIN below. If no full text can be reached,
+    use the article page's front matter (see PAYWALL TACTICS) and record
+    it as front matter only.
+  - Look for articles beyond the list ONLY after every candidate has been
+    tried and fewer than 15 full texts were read. Find them with the
+    ACCESS CHAIN, across multiple issues/years.
+  - If no candidate list is given, find recent articles yourself with the
+    ACCESS CHAIN, sampling across multiple issues/years, not one issue.
+  - Target: at least 15 full-text articles. Continue beyond 15 if new
+    deltas are still emerging; stop once the delta set has stabilised
+    (no new deltas across several articles).
+  - Fewer than 15 full texts is NOT a failure. Say so in the report, with
+    the reason; do not count front-matter-only articles as full texts.
+  - Record the outcome for every candidate (see the completion report).
 
 ACCESS CHAIN (try in order):
   1. Journal website via EZProxy
@@ -102,10 +117,10 @@ DO NOT:
   - Count words or sentences
   - Quote text from articles
   - Describe anything already covered by FIELD_SKILL
-  - Stop before reading 15 articles unless the access chain is exhausted
+  - Stop before reading 15 full texts unless the list and the access chain are exhausted
 
 CONVERGENCE RULE:
-After the 15-article minimum, if HARD_CONSTRAINTS align with FIELD_SKILL
+After 15 full texts, if HARD_CONSTRAINTS align with FIELD_SKILL
 and no deltas have appeared, write "Follows FIELD_SKILL norm." for all
 sections. A delta observed in only 1 of many articles is PRACTICE ONLY
 and should be flagged as low-prevalence, not stated as a journal norm.
@@ -161,7 +176,7 @@ description: >
 - **Scope:** [1-2 sentences]
 - **Guidelines URL:** [URL]
 - **Field baseline:** ${FIELD_SLUG}-field-writing-style
-- **Articles spot-checked:** [N] ([DOIs or titles])
+- **Articles spot-checked:** [N] full text, [M] front matter only ([DOIs or titles])
 
 ---
 
@@ -250,10 +265,22 @@ Journal: ${JOURNAL_NAME}
 Slug: ${JOURNAL_SLUG}
 ABS: ${ABS_RATING}
 Field: ${FIELD}
-Articles fetched: [N]
+Article list: [used, list ID from the ARTICLE CANDIDATES header / none provided]
+Full texts read: [N]
+Front matter only: [N]
+Full-text target (15) met: [yes / no: reason]
 Early stop triggered: [yes/no]
 Deltas found: [N] ([dimensions with deltas, or "none"])
 FIELD_SKILL overrides: [list hard constraints that override FIELD_SKILL, or "none"]
+
+Article outcomes:
+| # | DOI | Outcome | Route |
+|---|-----|---------|-------|
+| 1 | [DOI] | [full text / front matter only / unreachable / not tried] | [open-access link / journal site / author page / SSRN / Google Scholar / article page / -] |
+[One row per candidate, in list order, including candidates not tried
+(e.g. after an early stop). Then one row per article read beyond the
+list, numbered "+1", "+2", .... Without a candidate list, one row per
+article you tried.]
 ===REPORT_END===
 
 Exit. Do not process any other journal.
