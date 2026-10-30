@@ -9,7 +9,9 @@ confirmed entry in tools/openalex_sources.json (build_openalex_sources.py).
 Pool:      OpenAlex works of type "article" from the journal's source, for each year from
            three full years ago to the current year: up to SAMPLE_PER_YEAR per year, drawn
            with OpenAlex's sample + seed (seed derived from slug and year), so the same
-           journal and window always ask for the same sample.
+           journal and window always ask for the same sample. If that gives fewer than
+           N_CANDIDATES usable articles (review journals such as Annual Reviews), works of
+           type "review" are added the same way.
 Filtering: front matter OpenAlex sometimes types as articles ("Issue Information",
            "Editorial Board", errata, ...) and works without DOI or landing page are dropped.
 Ranking:   open access with a full-text link, then other open access, then the rest. Within
@@ -26,6 +28,7 @@ Usage:
   python build_article_lists.py --field STRAT
   python build_article_lists.py                    # every journal in the registry
   python build_article_lists.py --field STRAT --refresh
+  python build_article_lists.py --refresh --slug annual-review-sociology review-of-finance
 """
 
 import argparse
@@ -58,17 +61,20 @@ SELECT = ("id,doi,title,type,publication_year,publication_date,biblio,"
 FRONT_MATTER_TITLE = re.compile(
     r"^\W*(issue information|editorial board|editorial|masthead|front matter|back matter|"
     r"table of contents|contents|cover|cover image|index|author index|subject index|"
-    r"book reviews?|call for papers|in this issue|reviewers?|list of reviewers)"
+    r"book reviews?|call for papers|in this issue|reviewers?|list of reviewers|"
+    r"introduction|preface|foreword|announcements?|in memoriam|obituary)"
     r"(\W+(vol(ume)?|issue|no|number|[0-9]).*|\W*)$", re.I)
 FRONT_MATTER_PREFIX = re.compile(
     r"^\W*(erratum|errata|corrigendum|correction to\b|correction:|retraction\b|retracted:|"
-    r"expression of concern|editorial:|editor'?s'? (note|introduction)|from the editors?\b|"
-    r"book review:|introduction to the special (issue|section)|"
+    r"expression of concern|editorial:|editors?'?s?'? (note|notes|introduction|comments?|"
+    r"page|report|letter)\b|from the editors?\b|book review:|introduction to\b|"
+    r"special issue\b|announcements?:|announcement ?editors|preface:|foreword:|"
     r"(thanks|acknowledg\w*) (to|of) (our |the )?reviewers|reviewers (of|for) (volume|\d))",
     re.I)
 
 
 def is_front_matter(title):
+    title = title.replace("’", "'").replace("‘", "'")    # curly apostrophes
     return bool(FRONT_MATTER_TITLE.match(title) or FRONT_MATTER_PREFIX.match(title))
 
 
@@ -91,7 +97,7 @@ def seed_for(slug, year):
 
 def candidate(work):
     """Flatten one OpenAlex work into a candidate entry, or None if it is not usable."""
-    if work.get("type") not in (None, "article"):
+    if work.get("type") not in (None, "article", "review"):
         return None
     title = (work.get("title") or "").strip()
     if not title or is_front_matter(title):
@@ -165,15 +171,15 @@ def select(works, slug, n=N_CANDIDATES):
 # FETCH AND SAVE
 # ─────────────────────────────────────────────
 
-def works_filter(source_id, year):
-    return f"primary_location.source.id:{source_id},publication_year:{year},type:article"
+def works_filter(source_id, year, work_type="article"):
+    return f"primary_location.source.id:{source_id},publication_year:{year},type:{work_type}"
 
 
-def fetch_works(slug, source_id, years, fetch):
+def fetch_works(slug, source_id, years, fetch, work_type="article"):
     """One sampled request per year. fetch(path, params) returns the results list."""
     works = []
     for year in years:
-        works += fetch("works", {"filter": works_filter(source_id, year),
+        works += fetch("works", {"filter": works_filter(source_id, year, work_type),
                                  "sample": SAMPLE_PER_YEAR, "seed": seed_for(slug, year),
                                  "per_page": SAMPLE_PER_YEAR, "select": SELECT})
     return works
@@ -189,6 +195,11 @@ def build_list(slug, journal, entry, fetch, today=None, n=N_CANDIDATES):
     years = list(range(first, last + 1))
     works = fetch_works(slug, entry["source_id"], years, fetch)
     candidates, pool = select(works, slug, n)
+    work_types = ["article"]
+    if len(candidates) < n:     # review journals (e.g. Annual Reviews): add review articles
+        works += fetch_works(slug, entry["source_id"], years, fetch, "review")
+        candidates, pool = select(works, slug, n)
+        work_types.append("review")
     if not candidates:
         return None, f"no research articles in OpenAlex for {first}-{last}"
     return {
@@ -200,7 +211,7 @@ def build_list(slug, journal, entry, fetch, today=None, n=N_CANDIDATES):
         "window":       {"from_year": first, "to_year": last},
         "query": {
             "endpoint":        "https://api.openalex.org/works",
-            "filter":          works_filter(entry["source_id"], "<year>"),
+            "filters":         [works_filter(entry["source_id"], "<year>", t) for t in work_types],
             "sample_per_year": SAMPLE_PER_YEAR,
             "seeds":           {str(y): seed_for(slug, y) for y in years},
         },
@@ -212,13 +223,13 @@ def build_list(slug, journal, entry, fetch, today=None, n=N_CANDIDATES):
 def main():
     parser = argparse.ArgumentParser(description="Build article candidate lists from OpenAlex.")
     parser.add_argument("--field",   type=str, default=None)
-    parser.add_argument("--slug",    type=str, default=None)
+    parser.add_argument("--slug",    type=str, nargs="+", default=None)
     parser.add_argument("--n",       type=int, default=N_CANDIDATES)
     parser.add_argument("--refresh", action="store_true", help="rebuild existing lists")
     args = parser.parse_args()
 
     journals = [j for j in JOURNALS
-                if (not args.field or j[3] == args.field) and (not args.slug or j[4] == args.slug)]
+                if (not args.field or j[3] == args.field) and (not args.slug or j[4] in args.slug)]
     if not journals:
         sys.exit("No journals matched.")
     openalex_client.require_credentials()

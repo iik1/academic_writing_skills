@@ -36,11 +36,24 @@ def main():
     for title in ["Issue Information", "Editorial Board, Volume 47", "Editorial", "Erratum",
                   "Correction to: Dynamic capabilities", "Retraction: X", "Editorial: Special issue",
                   "Introduction to the special issue on stakeholders", "Thanks to our reviewers",
-                  "Book Reviews", "Index"]:
+                  "Book Reviews", "Index",
+                  # leaked into the first real lists:
+                  "Introduction", "Preface", "Announcements", "Editor's Page", "Editors' Report",
+                  "Editors’ Comments: Voices from the Periphery", "Editor’s Comments",
+                  "Editors’ Note, 2024 to 2026: Looking to W.E.B. Du Bois",
+                  "AnnouncementEditors-Elect January 1, 2025–December 31, 2028",
+                  "Introduction to the ARFE Theme on the Social Discount Rate",
+                  "Introduction to virtual special issue in honor of Douglas Gale",
+                  "Special Issue: Global Optimization",
+                  "Special Issue of Quantitative Finance on ‘Business Analytics’"]:
         assert bal.is_front_matter(title), title
     for title in ["Editorial independence and CEO pay", "Correction for measurement error",
                   "Index funds and corporate governance", "Covering the costs of entry",
-                  "Contentious politics and firms", "Retractions and reputation"]:
+                  "Contentious politics and firms", "Retractions and reputation",
+                  "Announcement-Specific Decompositions of Unconventional Monetary Policy Shocks",
+                  "Introductions of new products and stock returns",
+                  "Editors and the gatekeeping of science",
+                  "Comment on ‘Asset Bubbles and Overlapping Generations’ by Jean Tirole"]:
         assert not bal.is_front_matter(title), title
 
     cands, pool = bal.select(works, SLUG, n=1000)
@@ -95,6 +108,24 @@ def main():
     assert bal.build_list(SLUG, "x", None, none, today=TODAY) == (None, "no OpenAlex match in openalex_sources.json")
     assert bal.build_list(SLUG, "x", {**entry, "confirmed": False}, none, today=TODAY)[1].startswith("OpenAlex match not confirmed")
     assert bal.build_list(SLUG, "x", entry, none, today=TODAY)[1] == "no research articles in OpenAlex for 2023-2026"
+
+    # Review journals: too few "article" works -> "review" works are added, same seeds.
+    reviews = {y: {"results": [{**w, "id": w["id"] + "R", "doi": w["doi"] and w["doi"] + "r",
+                                "type": "review"}
+                               for w in r["results"]]} for y, r in responses.items()}
+    calls = []
+    def review_journal(path, params):
+        calls.append(params["filter"])
+        year = params["filter"].split("publication_year:")[1].split(",")[0]
+        source = reviews if params["filter"].endswith("type:review") else {}
+        return source.get(year, {"results": []})["results"]
+    doc, reason = bal.build_list("annual-review-sociology", "Annual Review of Sociology", entry,
+                                 review_journal, today=TODAY)
+    assert reason is None and len(doc["candidates"]) == bal.N_CANDIDATES
+    assert [f.rsplit(":", 1)[1] for f in calls] == ["article"] * 4 + ["review"] * 4
+    assert doc["query"]["filters"][1].endswith("type:review")
+    big, _ = bal.build_list(SLUG, "x", entry, fixture_fetch(responses, []), today=TODAY)
+    assert len(big["query"]["filters"]) == 1, "fallback must not run for article journals"
 
     print(f"OK: {len(cands)} usable of {len(works)} works; list of {len(picked)}, "
           f"{sum(rank(c) == 0 for c in picked)} with full-text link")
